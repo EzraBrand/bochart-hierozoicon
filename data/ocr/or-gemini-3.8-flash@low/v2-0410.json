@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "410 Probatur, שפן non esse Cuniculum, L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "410 Probatur, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " non esse Cuniculum, L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Graecum</i> aliquem interpretem, qui שפנים, λαγίδεις <i>lepusculos</i> explicaverat, id\n<i>est, cuniculos. Sic enim in Strabone</i> libro tertio λαγίδεις, <i>lepusculi sumuntur\npro cuniculis. Graeci aliud cuniculi nomen non habent. Nam in Aeliano</i> κύνι-\nκλος, <i>in Polybio et Galeno</i> κύνικλος <i>Hispanorum, in Strabone et Erotiano</i> λεβη-\nρὶς <i>Massiliensium</i> propria erant vocabula, in <i>Graecia</i> non usurpata. 4. <i>Nominum\nliber vetus</i>, quem <i>Philoni</i> adscribunt, in <i>Ieremia</i> sic habet, SAPHAN, <i>choerogryl-\nlius, lepus, vel hericius. Et in Ezechiele</i>, SAPHAN, <i>hericius, vel lepus</i>. 5. In\n<i>Arabico Giggeji Lexico</i> pag. 854. tom. 2. سفن <i>saphan</i> redditur <i>cuniculus</i>. Quod\ntamen unde habeat, haud quaquam scio. Nam alibi nusquam reperi. 6. <i>He-\nbraeum</i> nomen שפן <i>saphan</i> videtur alludere ad <i>Hebraea</i> verba ספן et צפן, quo-\nrum illud <i>tegere</i>, hoc <i>abscondere</i> significat. Et quadrare videtur in cuniculum,\nqui scrobum latebras quaerit, ut in iis delitescat, et obtegatur quasi. <i>Martialis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Graecum</i> aliquem interpretem, qui "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "grc",
+     "text": "λαγίδεις"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>lepusculos</i> explicaverat, id\n<i>est, cuniculos. Sic enim in Strabone</i> libro tertio "
+    },
+    {
+     "lang": "grc",
+     "text": "λαγίδεις"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>lepusculi sumuntur\npro cuniculis. Graeci aliud cuniculi nomen non habent. Nam in Aeliano</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "κύνι-\nκλος"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>in Polybio et Galeno</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "κύνικλος"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Hispanorum, in Strabone et Erotiano</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "λεβη-\nρὶς"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Massiliensium</i> propria erant vocabula, in <i>Graecia</i> non usurpata. 4. <i>Nominum\nliber vetus</i>, quem <i>Philoni</i> adscribunt, in <i>Ieremia</i> sic habet, SAPHAN, <i>choerogryl-\nlius, lepus, vel hericius. Et in Ezechiele</i>, SAPHAN, <i>hericius, vel lepus</i>. 5. In\n<i>Arabico Giggeji Lexico</i> pag. 854. tom. 2. "
+    },
+    {
+     "lang": "ara",
+     "text": "سفن"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i> redditur <i>cuniculus</i>. Quod\ntamen unde habeat, haud quaquam scio. Nam alibi nusquam reperi. 6. <i>He-\nbraeum</i> nomen "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i> videtur alludere ad <i>Hebraea</i> verba "
+    },
+    {
+     "lang": "heb",
+     "text": "ספן"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "heb",
+     "text": "צפן"
+    },
+    {
+     "lang": "lat",
+     "text": ", quo-\nrum illud <i>tegere</i>, hoc <i>abscondere</i> significat. Et quadrare videtur in cuniculum,\nqui scrobum latebras quaerit, ut in iis delitescat, et obtegatur quasi. <i>Martialis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Gaudet in effossis habitare cuniculus antris.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Gaudet in effossis habitare cuniculus antris.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "7. Certum est, <i>Hebraeos</i> cuniculum abhinc aliquot saeculis sic appellasse. Ita\n<i>Baal Aruch</i> ante annos fere quingentos in voce תלא אילן <i>thela Aelan, aut ilan</i>,\nde viverris: ושמענו שמצויין הן במקומות שצדין בהן שפנים <i>Audivimus, eas\nreperiri in certis locis, in quibus iis venantur cuniculos</i>. Et apud <i>R. Isaacum</i>, <i>So-\nlomonis filium</i>, uno circiter saeculo posteriorem, in libro, cui titulus <i>Masal\nKadmoni</i>, in quo habentur fabulae, <i>Aesopicis</i> similes, stricta oratione scriptae,\nfabula quinquagesima colloquuntur השפן והזרזיר, id est, <i>cuniculus et sturnus</i>;\nut palam faciunt picturae appositae. Et in <i>Porta coeli</i>, cujus auctor <i>R. Gersom</i>,\nTract. 4. cap. 1. fol. 19. d. וקצתם יולידו ולדות רבות כחתול ושפן וארנבת ועכבר ⟦p. 1003.⟧\n<i>Et eorum (animalium) nonnulla multos foetus generant; ut felis, et cuniculus, et\nlepus, et mus</i>. Et fol. 20. d. ויש מב\"ח אשר ביציהם תלוים בכיס ויש מהם\nשהם דבוקים בבטן כשפן וארנבת וחתול <i>Quorundam animalium testiculi in scro-\nto pendent, at aliorum ventri adhaerent; ut cuniculi, leporis et felis. David de\nPomis</i> in <i>Lexico</i>, שפן ב\"ח או חיה הנקרא קוני\"לו בלעז <i>Saphan, animal, aut\nfera, quae lingua vernacula</i> (id est, <i>Italica</i>) <i>vocatur Coniglio</i>. Et alibi טבו שפן,\n<i>cuniculus, coniglio, animaletto</i>. Et rursus, תגס שפן, <i>cuniculus, coniglio</i>. Nec\n<i>Hebraeorum</i> ullus occurrit, qui aliter interpretetur. 8. Denique, si שפן <i>saphan</i>\nest <i>cuniculus</i>, jam liquido patebit, unde Σπανία <i>Spania</i>, vel <i>Hispania</i> nomen\ntraxerit. Et Σπανία <i>Hebraice</i> erit שפניה <i>cuniculosa</i>. Quo nomine a <i>Phoenici-\nbus</i> dicta fuerit, quia hoc animali maxime scatet. Quod alibi multis probamus.\nUnde est, quod in <i>Hadriani</i> nummo pro <i>Hispania</i> habetur mulier sedens cum\noleae ramo in manu, et cuniculo ad pedes. Ex his igitur videtur confici, שפן\nesse <i>cuniculum</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "7. Certum est, <i>Hebraeos</i> cuniculum abhinc aliquot saeculis sic appellasse. Ita\n<i>Baal Aruch</i> ante annos fere quingentos in voce "
+    },
+    {
+     "lang": "heb",
+     "text": "תלא אילן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>thela Aelan, aut ilan</i>,\nde viverris: "
+    },
+    {
+     "lang": "heb",
+     "text": "ושמענו שמצויין הן במקומות שצדין בהן שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Audivimus, eas\nreperiri in certis locis, in quibus iis venantur cuniculos</i>. Et apud <i>R. Isaacum</i>, <i>So-\nlomonis filium</i>, uno circiter saeculo posteriorem, in libro, cui titulus <i>Masal\nKadmoni</i>, in quo habentur fabulae, <i>Aesopicis</i> similes, stricta oratione scriptae,\nfabula quinquagesima colloquuntur "
+    },
+    {
+     "lang": "heb",
+     "text": "השפן והזרזיר"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, <i>cuniculus et sturnus</i>;\nut palam faciunt picturae appositae. Et in <i>Porta coeli</i>, cujus auctor <i>R. Gersom</i>,\nTract. 4. cap. 1. fol. 19. d. "
+    },
+    {
+     "lang": "heb",
+     "text": "וקצתם יולידו ולדות רבות כחתול ושפן וארנבת ועכבר"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1003.⟧\n<i>Et eorum (animalium) nonnulla multos foetus generant; ut felis, et cuniculus, et\nlepus, et mus</i>. Et fol. 20. d. "
+    },
+    {
+     "lang": "heb",
+     "text": "ויש מב\"ח אשר ביציהם תלוים בכיס ויש מהם\nשהם דבוקים בבטן כשפן וארנבת וחתול"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Quorundam animalium testiculi in scro-\nto pendent, at aliorum ventri adhaerent; ut cuniculi, leporis et felis. David de\nPomis</i> in <i>Lexico</i>, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן ב\"ח או חיה הנקרא קוני\"לו בלעז"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Saphan, animal, aut\nfera, quae lingua vernacula</i> (id est, <i>Italica</i>) <i>vocatur Coniglio</i>. Et alibi "
+    },
+    {
+     "lang": "heb",
+     "text": "טבו שפן"
+    },
+    {
+     "lang": "lat",
+     "text": ",\n<i>cuniculus, coniglio, animaletto</i>. Et rursus, "
+    },
+    {
+     "lang": "heb",
+     "text": "תגס שפן"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>cuniculus, coniglio</i>. Nec\n<i>Hebraeorum</i> ullus occurrit, qui aliter interpretetur. 8. Denique, si "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i>\nest <i>cuniculus</i>, jam liquido patebit, unde "
+    },
+    {
+     "lang": "grc",
+     "text": "Σπανία"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Spania</i>, vel <i>Hispania</i> nomen\ntraxerit. Et "
+    },
+    {
+     "lang": "grc",
+     "text": "Σπανία"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Hebraice</i> erit "
+    },
+    {
+     "lang": "heb",
+     "text": "שפניה"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>cuniculosa</i>. Quo nomine a <i>Phoenici-\nbus</i> dicta fuerit, quia hoc animali maxime scatet. Quod alibi multis probamus.\nUnde est, quod in <i>Hadriani</i> nummo pro <i>Hispania</i> habetur mulier sedens cum\noleae ramo in manu, et cuniculo ad pedes. Ex his igitur videtur confici, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": "\nesse <i>cuniculum</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tamen in hanc interpretationem tria possunt objici. 1. Non ruminare cu-\nniculos, ut expresse asseritur in <i>Porta coeli</i> fol. 20. b. אין השפן והארנבת מעלה\nגרה",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tamen in hanc interpretationem tria possunt objici. 1. Non ruminare cu-\nniculos, ut expresse asseritur in <i>Porta coeli</i> fol. 20. b. "
+    },
+    {
+     "lang": "heb",
+     "text": "אין השפן והארנבת מעלה\nגרה"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1692,
+    1625
+   ],
+   [
+    1692,
+    1179
+   ]
+  ],
+  "input_tokens": 3638,
+  "output_tokens": 2508,
+  "cost_usd": 0.0121,
+  "seconds": 26.1
+ }
+}

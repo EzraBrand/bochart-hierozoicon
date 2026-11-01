@@ -15,7 +15,9 @@ claim 7 (hyrax/shafan).
 |---|---|
 | 1. Scans, manifest, MDZ OCR layer, layout note | done |
 | 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; gold pages checked by you (01-Nov-2026) |
-| 3. Translation rules for Latin | proposal in [TRANSLATION_RULES.md](TRANSLATION_RULES.md), for your review |
+| 3. Translation rules for Latin | [TRANSLATION_RULES.md](TRANSLATION_RULES.md), accepted 01-Nov-2026 |
+| 4. OCR of the whole pilot, pp. 408–429 (Opus main, Flash second reader), QA; Hebrew gold p. 410 | done; **gold p. 410 waits for your check** |
+| 5. Second reading and vote (all scripts), page joins, translation | next |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
@@ -178,8 +180,7 @@ CER (`eval.py --loose`, both gold pages; Latin script includes the transliterati
 | (gold characters) | | | 4,875 | 3,009 | 285 | 19 | 557 | 16 | |
 
 The high Latin CER of Sonnet and Flash is mostly text in the wrong place (note columns, line
-order), not misread letters. **Hebrew is barely tested** (19 characters); a Hebrew-heavy page
-(p. 410 or 415) needs a gold page before the full run.
+order), not misread letters. Hebrew: see p. 410 below.
 
 **Opus's errors** (all 13 cases on the three pages; every one checked on the scan):
 
@@ -198,6 +199,9 @@ order), not misread letters. **Hebrew is barely tested** (19 characters); a Hebr
 | 428 | `causa` (long s) | `caussa` | Sonnet, MDZ right |
 | 428 | أَلشَّعْنُ (no dot on ع) | أَلشَّغْنُ | Sonnet, MDZ: right letters, no vowel signs (Flash: ف) |
 | 428 | `Bochartus,` | `Bochartus.` | MDZ right |
+| 410 | מב״ח (abbreviation) | מבה״ח | Flash right |
+| 410 | ב״ח | בה״ח | Flash right |
+| 410 | سفن (ف) | سغن | Flash, MDZ right |
 
 Most of them **"correct" the print toward an expected form**: the better Arabic word (نشز
 "raised ground", الجرذ "rat"), the classical spelling (caussa), the dictionary accent (ὗραξ). This
@@ -209,6 +213,41 @@ Syriac ܚܓܝܣܐ (Sonnet: ܚܓܝܫܐ), the vowelled Arabic in the notes.
 **A literal second reader:** the MDZ layer does not "correct": on p. 422 it reads 4 of Opus's 5
 Arabic errors right (Flash: 3 of 5). As a second reader it is free, but it also has many errors of
 its own (long s, ȣ → ε, Syriac dropped), so it can only flag, and a judge decides (as in Lewysohn).
+
+## OCR of the whole pilot (01-Nov-2026)
+
+All 22 pages (pp. 408–429) with Opus 5.5 @low (main) and Gemini 3.8 Flash @low (second reader),
+4 parallel workers per model. Cost: Opus $1.65, Flash $0.22 (pp. 409, 422, 428
+were done in step 2).
+
+**Gold p. 410** (240 Hebrew characters; Flash and MDZ compared, Sonnet not run on this page; each
+difference read on the scan): Opus 0.1% CER, **Hebrew 0.8%: 2 errors**, both a ה added inside an
+abbreviation (מב״ח → מבה״ח, ב״ח → בה״ח: Opus "expands" toward מבעלי החיים), and سفن → سغن. Not
+decided: the Italian word in Hebrew letters, Opus קוני״לו; I may see קונ״לו (no י) at 3×. All
+three gold pages: Opus 0.2%, Flash 6.6% (mostly order), MDZ 8.6%.
+
+**`qa.py 408 429`** (`logs/qa_v2-408-429.csv`):
+- Length against MDZ and Flash: 0.96–1.05 on every page, so no column or note is lost.
+- Margin column marks: cols. 1001–1017, each once, no gap.
+- Rosenmüller's notes: (1)–(13) in the chapter, each mark with its note; ch. 34 starts again at (1).
+  Bochart's lettered notes: a) p. 419, b) p. 423, c) p. 429.
+- One form slip: p. 419 `^{a})` for `^{a)}` (a fixed step in the entry code will normalize it).
+- Page joins: 20 "continue", 2 "break" (pp. 417→418, 427→428); to check by eye at the join step.
+
+**New scripts and problems found:**
+- **Ethiopic** (not in the plan): p. 412 ለጊሔ፡ *legiche* (Opus: ሰጊሔ፡, wrong first sign) and p. 418
+  the Ethiopic Pentateuch's word for χοιρογρύλλιον (seven signs in the print, six in Opus's
+  ኮርገሊሎን፡; not read by me). Ethiopic needs a reader who knows it, or a transliteration
+  check against Bochart's own (*legiche*, *choerogryllion*).
+- **Samaritan:** p. 412, one word (*taphsa*), Opus `[?]`. R: Samaritan Unicode (U+0800–083F) and
+  Hebrew letters in brackets in code, as for Syriac; to be read by hand.
+- **p. 416, damaged scan:** the right edge of the last 8 lines is smeared in the MDZ scan. Opus
+  filled the line ends from context ("Aben-", "regione", "occidentalem", "colligi"), against the
+  prompt's "[?]" rule; Flash and MDZ read other things (the last word: Opus `po[?]`, Flash
+  `possis`, MDZ `potiss`). R: read these 8 line ends in Frankfurt 1675 (Bochart's text, not
+  Rosenmüller's) or in another copy of Rosenmüller.
+- Opus marked one Arabic book title غهيد (p. 416); Flash has التمهيد (*al-Tamhīd* of Ibn ʿAbd
+  al-Barr, which Bochart translates *Explanatio*). In the damaged part of the page.
 
 ## License
 

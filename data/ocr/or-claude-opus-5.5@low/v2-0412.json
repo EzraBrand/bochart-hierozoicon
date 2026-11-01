@@ -1,0 +1,257 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "412 <i>Probatur,</i> שפן <i>non esse Cuniculum,</i> L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "412 <i>Probatur,</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>non esse Cuniculum,</i> L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>commolitus.</i> אך השפן והארנבת מעלה גרה ויש להם שינים למעלה אבל\nשיניהם הם חדות מאד ולא יוכלו לטחון האוכל היטב וחגמל יש לו שינים ⟦p. 1004⟧\nלמעלה אבל הם קטנות וחלושות <i>Tamen cuniculus et lepus ruminant, licet habe-\nant dentes superiores. Sed dentes eorum sunt valde acuti, nec possunt perfecte\ncommolere cibum. Camelus quoque habet dentes superiores, sed parvos et infirmos.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>commolitus.</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "אך השפן והארנבת מעלה גרה ויש להם שינים למעלה אבל"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שיניהם הם חדות מאד ולא יוכלו לטחון האוכל היטב וחגמל יש לו שינים"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1004⟧\n"
+    },
+    {
+     "lang": "heb",
+     "text": "למעלה אבל הם קטנות וחלושות"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Tamen cuniculus et lepus ruminant, licet habe-\nant dentes superiores. Sed dentes eorum sunt valde acuti, nec possunt perfecte\ncommolere cibum. Camelus quoque habet dentes superiores, sed parvos et infirmos.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ad secundam objectionem respondet utcunque <i>Gesnerus</i>, sed cunctanter\nadmodum. <i>Dubitet</i>, inquit, <i>aliquis, an</i> sephanim <i>sint cuniculi, cum non in sa-\nxis, aut saxosis locis versari soleant, quod sciam, quod fodere illic impediantur,\nsed terreno potius solo,</i> etc. <i>Sed quoniam inter saxa quaedam in collibus specus,\nvel meatus oblongi reperiuntur, et cuniculorum receptaculis apti, quaerendum est,\nan in iis quoque cuniculi in aliis regionibus versari soleant.</i> Nec multo certius\nconsultus a <i>Gesnero</i> hac de re <i>Hispanus</i> quidam, <i>Cuniculi apud nos copiosissimi\nsunt in montanis locis atque in praeruptis montibus. Neque dubium mihi est, eos\nhabere subterraneos meatus in locis asperioribus et petricosis, quanquam id nunquam\naccurate observavi.</i> Item, <i>Fui ego in venatione cuniculorum in loco montoso et\nsaxis oppleto; inter quae videbam cavernulas perfossas: utrum autem in locis inte-\nrioribus fuerint saxa, an terra mollior, non possum asseverare.</i> Neque ad rem\nmagis facit, quod scribit <i>Papirius Massonus</i> in <i>Descriptione</i> Franciae <i>per flumina,</i>\nlepusculos, id est, cuniculos paene innumeros nutriri in insule <i>Calonesso</i> ad litus\n<i>Armoricanum,</i> quamvis tota sit rupes, nec nisi superficiem habeat, terra adoper-\ntam. Hoc, inquam, ad rem non facit; quia in terrena illa superficie possunt\nhaerere cuniculi, nec rupem, ei subjectam, excavare necesse habent. Sed con-\nsulendus <i>Petrus Quinqueranus</i> in <i>Provinciae</i> descriptione, ex qua haec citat <i>Ca-\nmerarius Historiae</i> tom. 2. lib. 5. cap. 20.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ad secundam objectionem respondet utcunque <i>Gesnerus</i>, sed cunctanter\nadmodum. <i>Dubitet</i>, inquit, <i>aliquis, an</i> sephanim <i>sint cuniculi, cum non in sa-\nxis, aut saxosis locis versari soleant, quod sciam, quod fodere illic impediantur,\nsed terreno potius solo,</i> etc. <i>Sed quoniam inter saxa quaedam in collibus specus,\nvel meatus oblongi reperiuntur, et cuniculorum receptaculis apti, quaerendum est,\nan in iis quoque cuniculi in aliis regionibus versari soleant.</i> Nec multo certius\nconsultus a <i>Gesnero</i> hac de re <i>Hispanus</i> quidam, <i>Cuniculi apud nos copiosissimi\nsunt in montanis locis atque in praeruptis montibus. Neque dubium mihi est, eos\nhabere subterraneos meatus in locis asperioribus et petricosis, quanquam id nunquam\naccurate observavi.</i> Item, <i>Fui ego in venatione cuniculorum in loco montoso et\nsaxis oppleto; inter quae videbam cavernulas perfossas: utrum autem in locis inte-\nrioribus fuerint saxa, an terra mollior, non possum asseverare.</i> Neque ad rem\nmagis facit, quod scribit <i>Papirius Massonus</i> in <i>Descriptione</i> Franciae <i>per flumina,</i>\nlepusculos, id est, cuniculos paene innumeros nutriri in insule <i>Calonesso</i> ad litus\n<i>Armoricanum,</i> quamvis tota sit rupes, nec nisi superficiem habeat, terra adoper-\ntam. Hoc, inquam, ad rem non facit; quia in terrena illa superficie possunt\nhaerere cuniculi, nec rupem, ei subjectam, excavare necesse habent. Sed con-\nsulendus <i>Petrus Quinqueranus</i> in <i>Provinciae</i> descriptione, ex qua haec citat <i>Ca-\nmerarius Historiae</i> tom. 2. lib. 5. cap. 20."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Superest tertia objectio, in qua refellenda plus est operae, cum veteres tam\ndiserte asserant, cuniculum fuisse animal, olim <i>Hispaniae</i> peculiare. Unde est,\nquod illud e <i>Graecis</i> soli noverant <i>Massilienses</i>, qui fere sunt in <i>Hispaniae</i> confi-\nnio. Itaque haec ratio facit, ut subdubitem, an vere שפן sit <i>cuniculus</i>, et pu-\ntem quaerendum amplius, nec standum magistris <i>Hebraeorum</i>, sed consulendos\npotius vetustiores interpretes: quamvis sibi non satis constent, ac proinde verum\nex iis eruere sit difficillimum. <i>Chaldaeos,</i> et <i>Syrum,</i> et <i>Samaritanum</i> praetereo,\nquia pro <i>Hebraea</i> שפן voces adhibent prorsus ignotas. Neque enim quisquam\nest, qui sciat, quid sit in <i>Onkelo</i> טפזא <i>taphza</i>, pro quo in <i>Ionathane</i> legitur\nטווזא <i>tauza</i>; et in <i>Samaritano</i> [?] <i>taphsa</i>, nisi quod videtur ἁλτικὸν esse\nanimal, quia טפז <i>tephaz</i> <i>Chaldaeis</i> et <i>Syris</i> est <i>salire,</i> aut <i>subsultare.</i> Neque no-\ntius <i>Syrum</i> ܚܓܣܐ <i>chagasa</i>, cujus Plurale חגסי <i>chagase</i> etiam <i>Chaldaeus</i> usur-\npat pro שפנים <i>sephanim</i>, Prov. XXX, 26. Sed <i>Aethiopicum</i> ሰጊሔ፡ <i>legiche,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Superest tertia objectio, in qua refellenda plus est operae, cum veteres tam\ndiserte asserant, cuniculum fuisse animal, olim <i>Hispaniae</i> peculiare. Unde est,\nquod illud e <i>Graecis</i> soli noverant <i>Massilienses</i>, qui fere sunt in <i>Hispaniae</i> confi-\nnio. Itaque haec ratio facit, ut subdubitem, an vere "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " sit <i>cuniculus</i>, et pu-\ntem quaerendum amplius, nec standum magistris <i>Hebraeorum</i>, sed consulendos\npotius vetustiores interpretes: quamvis sibi non satis constent, ac proinde verum\nex iis eruere sit difficillimum. <i>Chaldaeos,</i> et <i>Syrum,</i> et <i>Samaritanum</i> praetereo,\nquia pro <i>Hebraea</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " voces adhibent prorsus ignotas. Neque enim quisquam\nest, qui sciat, quid sit in <i>Onkelo</i> "
+    },
+    {
+     "lang": "arc",
+     "text": "טפזא"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>taphza</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", pro quo in <i>Ionathane</i> legitur\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טווזא"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>tauza</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "; et in <i>Samaritano</i> [?] "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>taphsa</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", nisi quod videtur "
+    },
+    {
+     "lang": "grc",
+     "text": "ἁλτικὸν"
+    },
+    {
+     "lang": "lat",
+     "text": " esse\nanimal, quia "
+    },
+    {
+     "lang": "arc",
+     "text": "טפז"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>tephaz</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Chaldaeis</i> et <i>Syris</i> est <i>salire,</i> aut <i>subsultare.</i> Neque no-\ntius <i>Syrum</i> "
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܓܣܐ"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>chagasa</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", cujus Plurale "
+    },
+    {
+     "lang": "arc",
+     "text": "חגסי"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>chagase</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " etiam <i>Chaldaeus</i> usur-\npat pro "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>sephanim</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", Prov. XXX, 26. Sed <i>Aethiopicum</i> "
+    },
+    {
+     "lang": "other",
+     "text": "ሰጊሔ፡"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>legiche,</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Psal.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Psal."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1804,
+    1633
+   ],
+   [
+    1804,
+    1159
+   ]
+  ],
+  "input_tokens": 8833,
+  "output_tokens": 2531,
+  "cost_usd": 0.086,
+  "seconds": 30.3
+ }
+}

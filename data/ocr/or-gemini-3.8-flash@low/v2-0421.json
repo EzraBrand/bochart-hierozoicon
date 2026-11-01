@@ -1,0 +1,189 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.\t\t\t\t\t\tsed majoris muris genus.\t\t\t\t\t\t421",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.\t\t\t\t\t\tsed majoris muris genus.\t\t\t\t\t\t421"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "γύπτω δίποδάς φασι μῦας γίνεσθαι, καὶ μεγάλους. ἔχουσι δὲ οὗτοι καὶ τοὺς ἐμ-\nπροσθίους πόδας, ἀλλ’ οὐ βαδίζουσιν ἐπ’ αὐτοῖς. χρῶνται δὲ αὐτοῖς, οἷα χερσίν.\nὅταν δὲ φεύγωσιν, πηδῶσι. <i>Bipedes in Aegypto mures, et magnos, nasci per-</i>\n<i>hibent. Habent autem etiam anteriores pedes. At iis non incedunt, sed ut mani-</i>\n<i>bus utuntur. Et saltu fugiunt.</i> Plinius libri octavi capite trigesimo septimo,\npostquam egit de muribus <i>Alpinis</i>, <i>sunt his pares et in Aegypto</i> (nempe in eo,\nquod sequitur, cum sint caetera valde dispares) <i>similiterque resident in clunes, et</i>\n<i>binis pedibus gradiuntur, prioribusque ut manibus utuntur.</i> Et libri decimi ca-\npite sexagesimo quinto, <i>Aegyptiis muribus durus pilus sicut herinaceis; iidem bi-</i>\n<i>pedes ambulant ceu Alpini.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "γύπτω δίποδάς φασι μῦας γίνεσθαι, καὶ μεγάλους. ἔχουσι δὲ οὗτοι καὶ τοὺς ἐμ-\nπροσθίους πόδας, ἀλλ’ οὐ βαδίζουσιν ἐπ’ αὐτοῖς. χρῶνται δὲ αὐτοῖς, οἷα χερσίν.\nὅταν δὲ φεύγωσιν, πηδῶσι."
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Bipedes in Aegypto mures, et magnos, nasci per-</i>\n<i>hibent. Habent autem etiam anteriores pedes. At iis non incedunt, sed ut mani-</i>\n<i>bus utuntur. Et saltu fugiunt.</i> Plinius libri octavi capite trigesimo septimo,\npostquam egit de muribus <i>Alpinis</i>, <i>sunt his pares et in Aegypto</i> (nempe in eo,\nquod sequitur, cum sint caetera valde dispares) <i>similiterque resident in clunes, et</i>\n<i>binis pedibus gradiuntur, prioribusque ut manibus utuntur.</i> Et libri decimi ca-\npite sexagesimo quinto, <i>Aegyptiis muribus durus pilus sicut herinaceis; iidem bi-</i>\n<i>pedes ambulant ceu Alpini.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hoc muris genus, etiam in <i>Palaestina</i> frequens, <i>Hellenistae</i> ideo vocarunt\nἀρκτομῦν, id est, <i>ursinum murem</i>, quod incederet bipes, et prioribus pedibus\ntanquam manibus uteretur. Id enim est ursorum proprium. <i>Oppianus</i> libro\ntertio <i>Cynegeticon</i> in ursi descriptione,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hoc muris genus, etiam in <i>Palaestina</i> frequens, <i>Hellenistae</i> ideo vocarunt\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦν"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, <i>ursinum murem</i>, quod incederet bipes, et prioribus pedibus\ntanquam manibus uteretur. Id enim est ursorum proprium. <i>Oppianus</i> libro\ntertio <i>Cynegeticon</i> in ursi descriptione,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Χεῖρες χερσὶ βροτῶν ἴκελαι, πόδες ἠδὲ πόδεσσι,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χεῖρες χερσὶ βροτῶν ἴκελαι, πόδες ἠδὲ πόδεσσι,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Manus hominum manibus, pedesque pedibus similes.</i> Solinus in capite <i>De Numi-</i>\n<i>dia, et in ea ursis: Vis maxima in brachiis, et lumbis: unde interdum posticis</i>\n<i>pedibus insistunt.</i>\n\tHoc idem animal <i>Arabice</i> vocatur اليربوع <i>aljarbuo</i>, et falluntur Lexi-\ncographi, qui talpam interpretantur. Res ex descriptione patebit. Damir in\ncapite <i>De</i> اليربوع <i>aljarbuo</i>, هو حيوان طويل الرجلين وقصير\nاليدين جدا <i>Est animal, cujus pedes posteriores longi sunt, et priores bre-</i>\n<i>ves admodum.</i> Et paullo post, فهي قصيرة اليدين لانها اذا\nخافت شي لاذت بالصعود فلا يلحقها شي <i>Et pedes anterio-</i>\n<i>res ideo breves habet, ut, cum aliquid timet, ad superiora confugiat, neque ul-</i>\n<i>lum animal id assequatur.</i> Et infra, قال الجاحظ والقزويني وهو\nمن نوع الفار <i>Dixerunt Algiahid et Alkazuinius, esse inter species muris.</i> ⟦p. 1011.⟧\nItaque vere est ἀρκτομῦς, id est, mus, cum urso hoc commune habens, quod\npedibus posterioribus ingreditur, quos longiores habet. <i>Gesnerus</i>, in capite <i>De</i>\n<i>mure Alpino</i>, <i>Graecum</i> scriptorem anonymum citat, nondum editum, qui in\nlibello <i>De animalibus</i> haec habet de arctomye: <i>Arctomys unus custodit, caeteris</i>\n<i>pascentibus; et singuli partem pabuli ad eum deferunt: at, si negligentior fuerit in</i>\n<i>custodia, et homo aliquis supervenerit, cujus adventum ille voce non prodiderit, a</i>\n<i>caeteris occiditur.</i> En his simillima de <i>Aljarbuo</i> in <i>Damire</i>, ut scias, idem esse\nanimal: هو من الحيوان الذي له رئيس مطاع يناقده\nاليه",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Manus hominum manibus, pedesque pedibus similes.</i> Solinus in capite <i>De Numi-</i>\n<i>dia, et in ea ursis: Vis maxima in brachiis, et lumbis: unde interdum posticis</i>\n<i>pedibus insistunt.</i>\n\tHoc idem animal <i>Arabice</i> vocatur "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>aljarbuo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", et falluntur Lexi-\ncographi, qui talpam interpretantur. Res ex descriptione patebit. Damir in\ncapite <i>De</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>aljarbuo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "ara",
+     "text": "هو حيوان طويل الرجلين وقصير\nاليدين جدا"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Est animal, cujus pedes posteriores longi sunt, et priores bre-</i>\n<i>ves admodum.</i> Et paullo post, "
+    },
+    {
+     "lang": "ara",
+     "text": "فهي قصيرة اليدين لانها اذا\nخافت شي لاذت بالصعود فلا يلحقها شي"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Et pedes anterio-</i>\n<i>res ideo breves habet, ut, cum aliquid timet, ad superiora confugiat, neque ul-</i>\n<i>lum animal id assequatur.</i> Et infra, "
+    },
+    {
+     "lang": "ara",
+     "text": "قال الجاحظ والقزويني وهو\nمن نوع الفار"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Dixerunt Algiahid et Alkazuinius, esse inter species muris.</i> ⟦p. 1011.⟧\nItaque vere est "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦς"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, mus, cum urso hoc commune habens, quod\npedibus posterioribus ingreditur, quos longiores habet. <i>Gesnerus</i>, in capite <i>De</i>\n<i>mure Alpino</i>, <i>Graecum</i> scriptorem anonymum citat, nondum editum, qui in\nlibello <i>De animalibus</i> haec habet de arctomye: <i>Arctomys unus custodit, caeteris</i>\n<i>pascentibus; et singuli partem pabuli ad eum deferunt: at, si negligentior fuerit in</i>\n<i>custodia, et homo aliquis supervenerit, cujus adventum ille voce non prodiderit, a</i>\n<i>caeteris occiditur.</i> En his simillima de <i>Aljarbuo</i> in <i>Damire</i>, ut scias, idem esse\nanimal: "
+    },
+    {
+     "lang": "ara",
+     "text": "هو من الحيوان الذي له رئيس مطاع يناقده\nاليه"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ggg 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ggg 3"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1784,
+    1171
+   ],
+   [
+    1784,
+    1653
+   ]
+  ],
+  "input_tokens": 3665,
+  "output_tokens": 1289,
+  "cost_usd": 0.0076,
+  "seconds": 10.1
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.\n<i>sed majoris muris genus.</i>\n417",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.\n<i>sed majoris muris genus.</i>\n417"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "est <i>mus Ponticus</i>, id est, <i>muris</i>, aut <i>sciuri</i> species, quem <i>Venetum Hermolaus</i>,\net <i>Finnicum Agricola</i> nominat, a <i>Venetis</i> et <i>Finnis</i>, populis ad <i>Vistulam</i> in <i>Bo-</i>\n<i>russia</i>, a quibus defertur ad nos in pelliciorum usum. De his populis ita <i>Pto-</i>\n<i>lemaeus</i> in descriptione <i>Sarmatiae</i>, Παρὰ μὲν τὸν Οὐιστούλαν ποταμὸν ὑπὸ τὲς\nΟὐενέδας Γύθωνες, εἶτα Φίννοι· <i>Ad Vistulam quidem fluvium sub Venetis sunt</i>\n<i>Gythones, deinde Finni</i>. Ab his, inquam, <i>Finnis</i> dici videtur <i>mus Finnicus</i>,\net Arabice فنك <i>phenec</i>, qui a statura et colore Gallis dicitur <i>petigris</i> (^{(4)}). Sed\net سنجاب <i>sungiab</i> Golio est <i>sciurus, animal cinerei coloris, ejusque pellis,</i>\n<i>qua suffulciuntur vestes, seu potius minium</i> (voluit, credo, <i>herminium</i>). <i>Damir</i>\nanimal esse dicit, <i>ad formam talpae, mure majus, degens in summis arboribus,</i>\n<i>pellis coeruleae, mollissimae, pulcherrimae, qua delicati vestiuntur</i>. Apparet, <i>sciu-</i>\n<i>ri</i> speciem describi. Est et <i>simur</i> genus muris, Graecis non prorsus ignoti. <i>He-</i>\n<i>sychius</i>, Σίμωρ παρὰ Πάρθοις καλεῖταί τι μυὸς ἀγρίε εἶδος, ᾧ ταῖς δοραῖς ⟦p. 1008.⟧\nχρῶνται πρὸς χιτῶνας· <i>Simor apud Parthos vocatur quaedam agrestis muri spe-</i>\n<i>cies, cujus pelles cedunt in usum vestium</i>. Alüs <i>simur</i> est <i>martes</i>. <i>Damir</i> ait,\nesse <i>animal, feli simile</i>, aut النمش <i>furoni, ex quorundam sententia, cujus pel-</i>\n<i>lis mollitie, levitate, calore et pulchritudine ita excellit, ut ea reges et magnates in-</i>\n<i>duantur</i>. De utraque pelle multo plura possem addere, petita ex Arabum li-\nbris: sed singula haec accuratius explicare non est nostri otii, neque multum\nfacit ad rem praesentem.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "est <i>mus Ponticus</i>, id est, <i>muris</i>, aut <i>sciuri</i> species, quem <i>Venetum Hermolaus</i>,\net <i>Finnicum Agricola</i> nominat, a <i>Venetis</i> et <i>Finnis</i>, populis ad <i>Vistulam</i> in <i>Bo-</i>\n<i>russia</i>, a quibus defertur ad nos in pelliciorum usum. De his populis ita <i>Pto-</i>\n<i>lemaeus</i> in descriptione <i>Sarmatiae</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Παρὰ μὲν τὸν Οὐιστούλαν ποταμὸν ὑπὸ τὲς\nΟὐενέδας Γύθωνες, εἶτα Φίννοι·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Ad Vistulam quidem fluvium sub Venetis sunt</i>\n<i>Gythones, deinde Finni</i>. Ab his, inquam, <i>Finnis</i> dici videtur <i>mus Finnicus</i>,\net Arabice "
+    },
+    {
+     "lang": "ara",
+     "text": "فنك"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>phenec</i>, qui a statura et colore Gallis dicitur <i>petigris</i> (^{(4)}). Sed\net "
+    },
+    {
+     "lang": "ara",
+     "text": "سنجاب"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>sungiab</i> Golio est <i>sciurus, animal cinerei coloris, ejusque pellis,</i>\n<i>qua suffulciuntur vestes, seu potius minium</i> (voluit, credo, <i>herminium</i>). <i>Damir</i>\nanimal esse dicit, <i>ad formam talpae, mure majus, degens in summis arboribus,</i>\n<i>pellis coeruleae, mollissimae, pulcherrimae, qua delicati vestiuntur</i>. Apparet, <i>sciu-</i>\n<i>ri</i> speciem describi. Est et <i>simur</i> genus muris, Graecis non prorsus ignoti. <i>He-</i>\n<i>sychius</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Σίμωρ παρὰ Πάρθοις καλεῖταί τι μυὸς ἀγρίε εἶδος, ᾧ ταῖς δοραῖς"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1008.⟧\n"
+    },
+    {
+     "lang": "grc",
+     "text": "χρῶνται πρὸς χιτῶνας·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Simor apud Parthos vocatur quaedam agrestis muri spe-</i>\n<i>cies, cujus pelles cedunt in usum vestium</i>. Alüs <i>simur</i> est <i>martes</i>. <i>Damir</i> ait,\nesse <i>animal, feli simile</i>, aut "
+    },
+    {
+     "lang": "ara",
+     "text": "النمش"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>furoni, ex quorundam sententia, cujus pel-</i>\n<i>lis mollitie, levitate, calore et pulchritudine ita excellit, ut ea reges et magnates in-</i>\n<i>duantur</i>. De utraque pelle multo plura possem addere, petita ex Arabum li-\nbris: sed singula haec accuratius explicare non est nostri otii, neque multum\nfacit ad rem praesentem."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Graecis</i> par est inconstantia in explicatione vocis שפן <i>saphan</i>.\n1. Sunt, qui λαγωὸς reddunt; ut <i>Vulgatus</i>, <i>lepusculos</i>: quod jam supra\nexpendimus.\n2. Fuere, qui <i>hyaenam</i> mallent; ut <i>Clemens Alexandrinus</i> libri secundi\n<i>Paedagogi</i> capite decimo, ubi <i>Mosem</i> inducit dicentem, Οὐκ ἔδεσαι τὸν λαγὼν,\nἐδὲ τὴν ὕαιναν, <i>Non comedes leporem, neque hyaenam</i>, id est הארנבת והשפן:\nCui simile est, quod legitur in <i>Epistola Barnabae</i>: Ἀλλὰ καὶ δασύποδα ὐ φά-\nγῃ, <i>Sed nec leporem manducabis</i>. Et paullo post Ἀλλὰ ἐδὲ τὴν ὕαιναν φάγῃ,\npro quo habet versio vetus, <i>Sed nec belluam manducabis</i>. Malim <i>beluum</i>, aut\n<i>belbum</i>. Ita enim <i>Iulius Capitolinus</i> in <i>Gordiano</i> tertio: <i>Fuerunt sub Gordiano</i>\n<i>Romae elephanti XXXII, alces X, tigres X, leones mansueti LX, leopardi mansueti</i>\nXXX,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Graecis</i> par est inconstantia in explicatione vocis "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i>.\n1. Sunt, qui "
+    },
+    {
+     "lang": "grc",
+     "text": "λαγωὸς"
+    },
+    {
+     "lang": "lat",
+     "text": " reddunt; ut <i>Vulgatus</i>, <i>lepusculos</i>: quod jam supra\nexpendimus.\n2. Fuere, qui <i>hyaenam</i> mallent; ut <i>Clemens Alexandrinus</i> libri secundi\n<i>Paedagogi</i> capite decimo, ubi <i>Mosem</i> inducit dicentem, "
+    },
+    {
+     "lang": "grc",
+     "text": "Οὐκ ἔδεσαι τὸν λαγὼν,\nἐδὲ τὴν ὕαιναν,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Non comedes leporem, neque hyaenam</i>, id est "
+    },
+    {
+     "lang": "heb",
+     "text": "הארנבת והשפן"
+    },
+    {
+     "lang": "lat",
+     "text": ":\nCui simile est, quod legitur in <i>Epistola Barnabae</i>: "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀλλὰ καὶ δασύποδα ὐ φά-\nγῃ,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Sed nec leporem manducabis</i>. Et paullo post "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀλλὰ ἐδὲ τὴν ὕαιναν φάγῃ,"
+    },
+    {
+     "lang": "lat",
+     "text": "\npro quo habet versio vetus, <i>Sed nec belluam manducabis</i>. Malim <i>beluum</i>, aut\n<i>belbum</i>. Ita enim <i>Iulius Capitolinus</i> in <i>Gordiano</i> tertio: <i>Fuerunt sub Gordiano</i>\n<i>Romae elephanti XXXII, alces X, tigres X, leones mansueti LX, leopardi mansueti</i>\nXXX,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Hoc animal multo accuratius Arabi-\nbus descripsit Brucius P. V. pag. 144. vers.\nLips. Apparet, viverrae esse speciem, quam\nBlumenbachius in nota ad illum Brucii lo-\ncum <i>viverram auritam</i> appellat, ob auri-\nculas insignes ovales. Nomen animalis\nignotum fuit Buffonio, qui in <i>Supplemm.</i>\n<i>ad T. III. Hist. Nat.</i> ejus descriptionem\ndedit.",
+   "marker": "(4)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hoc animal multo accuratius Arabi-\nbus descripsit Brucius P. V. pag. 144. vers.\nLips. Apparet, viverrae esse speciem, quam\nBlumenbachius in nota ad illum Brucii lo-\ncum <i>viverram auritam</i> appellat, ob auri-\nculas insignes ovales. Nomen animalis\nignotum fuit Buffonio, qui in <i>Supplemm.</i>\n<i>ad T. III. Hist. Nat.</i> ejus descriptionem\ndedit."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI Hieroz. Tom. II.\nGgg",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI Hieroz. Tom. II.\nGgg"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2096,
+    1402
+   ],
+   [
+    2096,
+    1430
+   ]
+  ],
+  "input_tokens": 3630,
+  "output_tokens": 1653,
+  "cost_usd": 0.0089,
+  "seconds": 23.8
+ }
+}

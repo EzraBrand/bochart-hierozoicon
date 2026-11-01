@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 425",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 425"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "يجتر ويبعر وله كرش واسنان واضراس من الفك الاعلي\nوالاسفلي <i>Ruminat etiam</i>, <i>et stercus egerit</i>, <i>et ingluviem habet</i> (more rumi-\nnantium); <i>quamvis dentes et maxillares illi sint</i>, <i>tam in superiore</i>, <i>quam in infe-\nriore maxilla.</i> Eidem muri hoc singulare, quod salit. Quod efferunt <i>Arabes</i>\nverbo بحظل <i>bachdala</i> maxime proprio. <i>Alcamus</i>, بحظل قفز\nقفزان اليربوع Bachdala, <i>saliit saltu aljarbui.</i> Ita etiam <i>Giauhari.</i>\nQuod ipsum <i>Theophrastus</i> de muribus illis, qui bipedes incedunt, supra obser-\nvavit, Ὅταν δὲ διώκωνται, πηδῶσι· <i>Si quis insequatur</i>, <i>saliunt.</i> In ejusdem\nlatibulis nidificat anguinum genus, quos <i>Arabes</i> appellant جنادع <i>gianadio</i>,\nvel جنادب <i>gianadibo.</i> <i>Alcamus</i> الجنادع الاجناش اوجنادب\nتكون في حجرة اليرابيع Algianadio, <i>serpentum</i> (genus) <i>aut</i> gia- ⟦p. 1014⟧\nnadibo: <i>hi sunt in nido aljarabii</i>, quod Plurale est vocis اليربوع <i>aljarbuo.</i>\nSi cum mure vulgari coëat <i>aljarbuo</i>, mus hybrida inde natus vocatur فرنب\n<i>pharnab</i>, aut <i>phirnib.</i> Alcamus, الفرنب الفارة او ولدها من\nاليربوع <i>Alpharnab</i>, (aut <i>alphirnib</i>) <i>mus</i>, <i>aut foetus ejus ex aljarbuo.</i> Est\net hoc illi peculiare, quod ab <i>Arabibus</i> comeditur <i>aljarbuo</i>, cum de caetero mu-\nris esus sit eis interdictus. <i>Damir</i> in capite الفار <i>alphar</i>, id est, <i>De mure</i>,\nيحرم اكل جميع انواع الفار الا اليربوع <i>Prohibitus est\nesus omnium muris specierum</i>, <i>praeterquam aljarbui.</i> Est tamen inter <i>Arabes</i>\naliquis ea de re dissensus. Nam ex sententia <i>Abuchaniphae</i>, لا يوكل لانه\nمن الحشرات <i>Non comeditur</i> (aljarbuo); <i>quia est ex subterraneis animali-\nbus.</i> Et <i>Algazali</i>, in libro, cui titulus الوسيط <i>Mediator</i>, negat, quid-\nquam esse comedendum من الحشرات الا الضب <i>ex subterraneis\nanimalibus praeter crocodilum terrestrem.</i> Tamen ab aliis insuper excipiuntur\nاليربوع وابن عرس وام حبين والقنفد والدلدل aljar-\nbuo, <i>et mustela</i>, <i>et chamaeleon</i>, <i>et hericius</i>, <i>et hystrix.</i> Hinc de <i>aljarbuo</i> Damir,\nيحل اكله لان العرب تستطيبه وتحله <i>Conceditur\nillius esus</i>; <i>quia permittunt</i> Arabes, <i>et eo delectantur.</i> Ita nimirum definiunt\nmagni <i>Arabum</i> Canonistae, <i>Ata</i>, et <i>Achmed Ben-Hantal</i>, et <i>Ibnolmandsar</i>, et\n<i>Abutsaur</i>, etc. Proinde non solum <i>aljarbuo</i>, sed et latibulum ejus emitur, id\nest, jus illud rimandi et perscrutandi, ut in eo capiatur hoc animal. Quod ta-\nmen, quia plerumque parum succedit, in proverbium cessit apud <i>Arabes:</i> ut\ncum dicunt, كالمشتري القاصعا باليربوع <i>Ut qui pro</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "يجتر ويبعر وله كرش واسنان واضراس من الفك الاعلي\nوالاسفلي"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Ruminat etiam</i>, <i>et stercus egerit</i>, <i>et ingluviem habet</i> (more rumi-\nnantium); <i>quamvis dentes et maxillares illi sint</i>, <i>tam in superiore</i>, <i>quam in infe-\nriore maxilla.</i> Eidem muri hoc singulare, quod salit. Quod efferunt <i>Arabes</i>\nverbo "
+    },
+    {
+     "lang": "ara",
+     "text": "بحظل"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>bachdala</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " maxime proprio. <i>Alcamus</i>, "
+    },
+    {
+     "lang": "ara",
+     "text": "بحظل قفز\nقفزان اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " Bachdala, <i>saliit saltu aljarbui.</i> Ita etiam <i>Giauhari.</i>\nQuod ipsum <i>Theophrastus</i> de muribus illis, qui bipedes incedunt, supra obser-\nvavit, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὅταν δὲ διώκωνται, πηδῶσι·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Si quis insequatur</i>, <i>saliunt.</i> In ejusdem\nlatibulis nidificat anguinum genus, quos <i>Arabes</i> appellant "
+    },
+    {
+     "lang": "ara",
+     "text": "جنادع"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>gianadio</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ",\nvel "
+    },
+    {
+     "lang": "ara",
+     "text": "جنادب"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>gianadibo.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Alcamus</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "الجنادع الاجناش اوجنادب\nتكون في حجرة اليرابيع"
+    },
+    {
+     "lang": "lat",
+     "text": " Algianadio, <i>serpentum</i> (genus) <i>aut</i> gia- ⟦p. 1014⟧\nnadibo: <i>hi sunt in nido aljarabii</i>, quod Plurale est vocis "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>aljarbuo.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "\nSi cum mure vulgari coëat <i>aljarbuo</i>, mus hybrida inde natus vocatur "
+    },
+    {
+     "lang": "ara",
+     "text": "فرنب"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>pharnab</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", aut "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>phirnib.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Alcamus, "
+    },
+    {
+     "lang": "ara",
+     "text": "الفرنب الفارة او ولدها من\nاليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Alpharnab</i>, (aut <i>alphirnib</i>) <i>mus</i>, <i>aut foetus ejus ex aljarbuo.</i> Est\net hoc illi peculiare, quod ab <i>Arabibus</i> comeditur <i>aljarbuo</i>, cum de caetero mu-\nris esus sit eis interdictus. <i>Damir</i> in capite "
+    },
+    {
+     "lang": "ara",
+     "text": "الفار"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>alphar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, <i>De mure</i>,\n"
+    },
+    {
+     "lang": "ara",
+     "text": "يحرم اكل جميع انواع الفار الا اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Prohibitus est\nesus omnium muris specierum</i>, <i>praeterquam aljarbui.</i> Est tamen inter <i>Arabes</i>\naliquis ea de re dissensus. Nam ex sententia <i>Abuchaniphae</i>, "
+    },
+    {
+     "lang": "ara",
+     "text": "لا يوكل لانه\nمن الحشرات"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Non comeditur</i> (aljarbuo); <i>quia est ex subterraneis animali-\nbus.</i> Et <i>Algazali</i>, in libro, cui titulus "
+    },
+    {
+     "lang": "ara",
+     "text": "الوسيط"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Mediator</i>, negat, quid-\nquam esse comedendum "
+    },
+    {
+     "lang": "ara",
+     "text": "من الحشرات الا الضب"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>ex subterraneis\nanimalibus praeter crocodilum terrestrem.</i> Tamen ab aliis insuper excipiuntur\n"
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع وابن عرس وام حبين والقنفد والدلدل"
+    },
+    {
+     "lang": "lat",
+     "text": " aljar-\nbuo, <i>et mustela</i>, <i>et chamaeleon</i>, <i>et hericius</i>, <i>et hystrix.</i> Hinc de <i>aljarbuo</i> Damir,\n"
+    },
+    {
+     "lang": "ara",
+     "text": "يحل اكله لان العرب تستطيبه وتحله"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Conceditur\nillius esus</i>; <i>quia permittunt</i> Arabes, <i>et eo delectantur.</i> Ita nimirum definiunt\nmagni <i>Arabum</i> Canonistae, <i>Ata</i>, et <i>Achmed Ben-Hantal</i>, et <i>Ibnolmandsar</i>, et\n<i>Abutsaur</i>, etc. Proinde non solum <i>aljarbuo</i>, sed et latibulum ejus emitur, id\nest, jus illud rimandi et perscrutandi, ut in eo capiatur hoc animal. Quod ta-\nmen, quia plerumque parum succedit, in proverbium cessit apud <i>Arabes:</i> ut\ncum dicunt, "
+    },
+    {
+     "lang": "ara",
+     "text": "كالمشتري القاصعا باليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Ut qui pro</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. II. Hhh",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. II. Hhh"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "translit",
+   "text": "aljarbuo",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "translit",
+     "text": "aljarbuo"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1868,
+    1134
+   ],
+   [
+    1868,
+    1702
+   ]
+  ],
+  "input_tokens": 9102,
+  "output_tokens": 2491,
+  "cost_usd": 0.0862,
+  "seconds": 29.1
+ }
+}

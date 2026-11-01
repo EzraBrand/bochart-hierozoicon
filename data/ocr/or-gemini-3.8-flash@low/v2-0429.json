@@ -1,0 +1,645 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIV. De vulgari Mure. 429",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIV. De vulgari Mure. 429"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "um haec duo genera confudisse putaverim, et mures ἐχῖνας, vel ἐχινώδεις, <i>he-\nrinaceos</i> appellasse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "um haec duo genera confudisse putaverim, et mures "
+    },
+    {
+     "lang": "grc",
+     "text": "ἐχῖνας"
+    },
+    {
+     "lang": "lat",
+     "text": ", vel "
+    },
+    {
+     "lang": "grc",
+     "text": "ἐχινώδεις"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>he-\nrinaceos</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " appellasse."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Notandum quoque, <i>Iudaeorum</i> שפנים <i>sephanim</i>, id est, χοιρογρυλλίους,\nvel ἀρκτομῦας, si mavis, quaedam habere communia cum <i>Hispaniae</i> cuniculis;\noculos scilicet, et caput, et imam caudam, ut a <i>Teixeira</i> observatur: et quod ⟦p. 1017.⟧\nposteriores pedes prioribus sunt longiores, quodque subsultim gradiuntur, et\npariter ruminant, quamvis utrimque dentati, et subterranea sibi latibula defo-\ndiunt, in quibus interdiu latent. Itaque ut <i>Hebraei</i> hodie, ita <i>Poeni</i> videntur\nolim <i>Hebraeum</i> nomen שפן <i>saphan</i> cuniculis indidisse, atque inde esse, quod\n<i>Hispania</i> שפניה, Σπάνια, id est, <i>cuniculosa</i> dicta est, ut in <i>Catullo Celtiberia</i>,\nquod jam supra ^{c)} monuimus. Aliorum tamen esto judicium.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Notandum quoque, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Iudaeorum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>sephanim</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρυλλίους"
+    },
+    {
+     "lang": "lat",
+     "text": ",\nvel "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦας"
+    },
+    {
+     "lang": "lat",
+     "text": ", si mavis, quaedam habere communia cum "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hispaniae</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " cuniculis;\noculos scilicet, et caput, et imam caudam, ut a "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Teixeira</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " observatur: et quod ⟦p. 1017.⟧\nposteriores pedes prioribus sunt longiores, quodque subsultim gradiuntur, et\npariter ruminant, quamvis utrimque dentati, et subterranea sibi latibula defo-\ndiunt, in quibus interdiu latent. Itaque ut "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hebraei</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " hodie, ita "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Poeni</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " videntur\nolim "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hebraeum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " nomen "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " cuniculis indidisse, atque inde esse, quod\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hispania</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "שפניה"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "grc",
+     "text": "Σπάνια"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>cuniculosa</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " dicta est, ut in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Catullo Celtiberia</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ",\nquod jam supra "
+    },
+    {
+     "lang": "lat",
+     "text": "^{c)}"
+    },
+    {
+     "lang": "lat",
+     "text": " monuimus. Aliorum tamen esto judicium."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXXIV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXXIV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De vulgari Mure.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De vulgari Mure.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hebraei</i> murem עכבר <i>achbar</i> appellant, voce fortasse <i>Chaldaea</i> magis, quae-\nque proprie <i>murem agrestem</i> sonat. Videtur enim עכבר <i>achbar</i> dici pro\nעכלבר <i>achalbar</i>, elifo L: ut in vocibus <i>Babel</i> pro <i>Balbel</i>, et <i>Samuel</i> pro שאול־מאל\n<i>Saul-meel</i>, quasi <i>petitum a Deo</i> dicas. Nempe <i>Chaldaeis</i> עכל <i>achal</i> est <i>consu-\nmere;</i> et בר <i>bar</i> est <i>ager:</i> itaque עכלבר <i>achalbar</i>, et per contractionem עכבר\n<i>achbar</i> est <i>agri consumtor,</i> seu <i>vastator</i> (¹). Nomen agresti muri valde congru-\num, qui agrorum est certa pestis. <i>Aristoteles</i> Hist. lib. 6. cap. 37. ᾿Απορεῖται δὲ\nκαὶ ἡ τῶν ἐπιπολαζόντων μυῶν γένεσις ἐν ταῖς χώραις, καὶ ἡ φορὰ. πολλα-\nχῆ γὰρ εἴωθε γίνεσθαι πλῆθος ἀμύθητον τῶν ἀρουραίων, ὥς τε ὀλίγον λείπε-\nσθαι τοῦ σίτου παντός. γίνεται δὲ ὕτω ταχεῖα ἡ φορὰ, ὥστε ἔνιοι τῶν μὴ μεγά-\nλας γεωργίας ἐργαζομένων, τῇ προτέρᾳ ἰδόντες ὅτι θερίζειν ὥρα, τῇ ὑστεραίᾳ\nἕωθεν ἄγοντες τὸς θεριστὰς, καταβεβρωμένα ἅπαντα καταλαμβάνεσιν.\n<i>In quaestionem etiam vocatur murium in agris emergentium generatio et proventus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraei</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " murem "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achbar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " appellant, voce fortasse "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Chaldaea</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " magis, quae-\nque proprie "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>murem agrestem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " sonat. Videtur enim "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achbar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " dici pro\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכלבר"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achalbar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", elifo L: ut in vocibus "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Babel</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " pro "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Balbel</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", et "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Samuel</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " pro "
+    },
+    {
+     "lang": "heb",
+     "text": "שאול־מאל"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Saul-meel</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", quasi "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>petitum a Deo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " dicas. Nempe "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Chaldaeis</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "arc",
+     "text": "עכל"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achal</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>consu-\nmere;</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "arc",
+     "text": "בר"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>bar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>ager:</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " itaque "
+    },
+    {
+     "lang": "arc",
+     "text": "עכלבר"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achalbar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", et per contractionem "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>achbar</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>agri consumtor,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " seu "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>vastator</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " (¹). Nomen agresti muri valde congru-\num, qui agrorum est certa pestis. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Aristoteles</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Hist. lib. 6. cap. 37. "
+    },
+    {
+     "lang": "grc",
+     "text": "᾿Απορεῖται δὲ\nκαὶ ἡ τῶν ἐπιπολαζόντων μυῶν γένεσις ἐν ταῖς χώραις, καὶ ἡ φορὰ. πολλα-\nχῆ γὰρ εἴωθε γίνεσθαι πλῆθος ἀμύθητον τῶν ἀρουραίων, ὥς τε ὀλίγον λείπε-\nσθαι τοῦ σίτου παντός. γίνεται δὲ ὕτω ταχεῖα ἡ φορὰ, ὥστε ἔνιοι τῶν μὴ μεγά-\nλας γεωργίας ἐργαζομένων, τῇ προτέρᾳ ἰδόντες ὅτι θερίζειν ὥρα, τῇ ὑστεραίᾳ\nἕωθεν ἄγοντες τὸς θεριστὰς, καταβεβρωμένα ἅπαντα καταλαμβάνεσιν."
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>In quaestionem etiam vocatur murium in agris emergentium generatio et proventus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Hhh 3 Saepe",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hhh 3 Saepe"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Pag. 1003.</i>",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pag. 1003.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Vocabulum עכבר SIMONIS in <i>Lexico</i>\net in <i>Arcano Formarum</i> p. 660. composi-\ntum putat ex verbo עכר, quod ejusdem\nsignificationis opinatur cum Arabum عرك\n<i>fricuit</i>, atque e voce בר, ut indicetur ani-\nmal, <i>fricans frumenta</i>. Quod quam sit\nfrigidum, quisque sponte sentiet. Nec ma-\ngis placet, quod protulit MICHAELIS <i>Sup-\nplemm. ad Lexx.</i> P. V. p. 1908., Hebraeum\nעכבר referens ad Arabum عَكْبَرُ <i>agilis,</i>\n<i>alacer</i>.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vocabulum "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "lat",
+     "text": " SIMONIS in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Lexico</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "\net in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Arcano Formarum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " p. 660. composi-\ntum putat ex verbo "
+    },
+    {
+     "lang": "heb",
+     "text": "עכר"
+    },
+    {
+     "lang": "lat",
+     "text": ", quod ejusdem\nsignificationis opinatur cum Arabum "
+    },
+    {
+     "lang": "ara",
+     "text": "عرك"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>fricuit</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", atque e voce "
+    },
+    {
+     "lang": "heb",
+     "text": "בר"
+    },
+    {
+     "lang": "lat",
+     "text": ", ut indicetur ani-\nmal, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>fricans frumenta</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ". Quod quam sit\nfrigidum, quisque sponte sentiet. Nec ma-\ngis placet, quod protulit MICHAELIS "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Sup-\nplemm. ad Lexx.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " P. V. p. 1908., Hebraeum\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "lat",
+     "text": " referens ad Arabum "
+    },
+    {
+     "lang": "ara",
+     "text": "عَكْبَرُ"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>agilis,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>alacer</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1784,
+    1129
+   ],
+   [
+    1784,
+    1695
+   ]
+  ],
+  "input_tokens": 3650,
+  "output_tokens": 4097,
+  "cost_usd": 0.0181,
+  "seconds": 22.3
+ }
+}

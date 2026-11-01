@@ -1,0 +1,457 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.\t\tsed majoris muris genus.\t\t415",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.\t\tsed majoris muris genus.\t\t415"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "stanter ita reddit. Et anonymus alius, de quo <i>Gesnerus in</i> capite <i>De mure Al-</i>\n<i>pino:</i> Saphan, <i>Hebraicam vocem, etc. eruditus quidam apud nos murem Alpinum</i>\n<i>interpretatur.</i> Obiter nota, <i>montani,</i> vel <i>Alpini muris</i> nomen Italicum <i>mar-</i>\n<i>mota</i> in <i>Bereschith Rabba</i> duobus locis reperiri leviter immutatum. Primus est\nsectione decima septima, ubi in verba <i>Gen. II, 21. Immisit Dominus Deus</i> תרדמה\n<i>thardema</i> (id est, <i>soporem</i>) in <i>Adamum.</i> רב אמר שלש תרדמת הן תרדמת שינה\nתרדמת נביאה ותרדמת מרמיטה שינה ויפול יהוה תרדמה על האדם ⟦p. 1006⟧\nוישן תרדמת נבואה ויהי השמש לבא ותרדמה נפלה על אברם תרדמת מרמיטה\nאין רואה ואין יודע ואין מקיץ כי כלם ישנים כי תרדמת י״ נפלה עליהם\nRab <i>dixit, tres sunt soporum species: sopor somni, sopor prophetiae, et sopor</i> מרמיטה\nmarmita. <i>Sopor somni Gen. II, 21. „Immisit Dominus Deus soporem super Ada-</i>\n<i>„mum, et dormiit. Sopor prophetiae Gen. XV, 12. Et cum occumberet sol, so-</i>\n<i>„por in Abramum incidit. Sopor</i> מרמיטה marmitae <i>1 Sam. XXVI, 12. Non erat</i>\n<i>„qui videret, nec qui intelligeret, nec qui expergisceretur, sed omnes dormiebant;</i>\n<i>„quia sopor Domini super eos inciderat“.</i> Alter locus est sectione quadragesima\ntertia, ubi in <i>Gen. XV, 12.</i> haec eadem repetuntur. Et utroque loco vox\nמרמיטה marmita interpretes non parum torquet. <i>R. Selomo reddit</i> בהלה, id\nest, <i>terrorem et conturbationem.</i> Ita etiam Scholiastes in haec loca, et Clarissi-\nmus Buxtorfius. Baal Aruch, <i>marmor;</i> quasi <i>somnus marmoris</i> dicatur, quo\nmarmoris, aut, in genere, lapidis instar obstupescimus: prout dicitur de <i>Aegy-</i>\n<i>ptiis</i> Exod. XV, 16. ידמו כאבן, <i>sileant sicut lapis.</i> Postellus sopor carri, seu ve-\nhementiae somni profundioris. Legendum cari, id est, κάρος. Boderianus,\nPomarius, Aquinas, pro מרמיטה <i>marmita,</i> emendant דורמיטה <i>dormita,</i> ut sit,\n<i>dormitatio.</i> Tamen מרמיטה <i>marmita</i> constanter legunt nostra exemplaria, et\nBaal Aruch sine Jod מרמטה. Sed vera lectio est מרמוטה <i>marmota:</i> quomodo\nin ipsis <i>Alpibus</i> appellatur hoc animal, quo ne glis quidem est somniculosior.\nScaliger <i>De subtilitate</i> Exercitatione 203. <i>Cum glirium specie (marmotae) in so-</i>\n<i>mno conveniunt. Hybernos enim totos menses transigunt sopore.</i> Gesnerus, <i>Hi</i>\n<i>mures multum dormiunt, et in cavernis suis delitescunt, quas miro artificio fodi-</i>\n<i>unt, etc.</i> Agricola, <i>Somno plurimum indulget, etc. In montibus quidem foe-</i>\n<i>num, quod in saxis mollissimum crescit, collectum, in cavernam deferunt, ut hye-</i>\n<i>me mollius dormiant.</i> Stumpfius, <i>in Helvetiae Chronicis: Cibi gratia hyeme tan-</i>\n<i>tum dormientes effodiuntur. Item, Terraque effossa dormientes auferunt.</i> Et\npaullo post, <i>loco effosso dormientes deprehenduntur, etc. portanturque dormientes</i>\n<i>quo libuerit. Neque enim facile expergiscuntur, nisi calor solis, ignis, aut hypo-</i>\n<i>causti eos resolverit. Et rursus, Occiduntur etiamnum dormientes, cultro in ju-</i>\n<i>gulum adacto, unde parum prioribus pedibus moveri incipiunt. Sed exspirant</i>\n<i>prius quam prorsus expergiscantur.</i> Et multo ante Plinius, qui hujus muris\nmeminit solus veterum libri octavi capite trigesimo septimo: <i>Conduntur hyeme</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "stanter ita reddit. Et anonymus alius, de quo "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Gesnerus in</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " capite "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>De mure Al-</i>\n<i>pino:</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Saphan, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hebraicam vocem, etc. eruditus quidam apud nos murem Alpinum</i>\n<i>interpretatur.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Obiter nota, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>montani,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " vel "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Alpini muris</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " nomen Italicum "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>mar-</i>\n<i>mota</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Bereschith Rabba</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " duobus locis reperiri leviter immutatum. Primus est\nsectione decima septima, ubi in verba "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Gen. II, 21. Immisit Dominus Deus</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "תרדמה"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>thardema</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " (id est, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>soporem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ") in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Adamum.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "רב אמר שלש תרדמת הן תרדמת שינה"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תרדמת נביאה ותרדמת מרמיטה שינה ויפול יהוה תרדמה על האדם"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1006⟧\n"
+    },
+    {
+     "lang": "heb",
+     "text": "וישן תרדמת נבואה ויהי השמש לבא ותרדמה נפלה על אברם תרדמת מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אין רואה ואין יודע ואין מקיץ כי כלם ישנים כי תרדמת י״ נפלה עליהם"
+    },
+    {
+     "lang": "lat",
+     "text": "\nRab "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dixit, tres sunt soporum species: sopor somni, sopor prophetiae, et sopor</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": "\nmarmita. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Sopor somni Gen. II, 21. „Immisit Dominus Deus soporem super Ada-</i>\n<i>„mum, et dormiit. Sopor prophetiae Gen. XV, 12. Et cum occumberet sol, so-</i>\n<i>„por in Abramum incidit. Sopor</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": " marmitae "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>1 Sam. XXVI, 12. Non erat</i>\n<i>„qui videret, nec qui intelligeret, nec qui expergisceretur, sed omnes dormiebant;</i>\n<i>„quia sopor Domini super eos inciderat“.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Alter locus est sectione quadragesima\ntertia, ubi in "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Gen. XV, 12.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " haec eadem repetuntur. Et utroque loco vox\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": " marmita interpretes non parum torquet. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>R. Selomo reddit</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "בהלה"
+    },
+    {
+     "lang": "lat",
+     "text": ", id\nest, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>terrorem et conturbationem.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Ita etiam Scholiastes in haec loca, et Clarissi-\nmus Buxtorfius. Baal Aruch, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>marmor;</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " quasi "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>somnus marmoris</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " dicatur, quo\nmarmoris, aut, in genere, lapidis instar obstupescimus: prout dicitur de "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Aegy-</i>\n<i>ptiis</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Exod. XV, 16. "
+    },
+    {
+     "lang": "heb",
+     "text": "ידמו כאבן"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>sileant sicut lapis.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Postellus sopor carri, seu ve-\nhementiae somni profundioris. Legendum cari, id est, "
+    },
+    {
+     "lang": "grc",
+     "text": "κάρος"
+    },
+    {
+     "lang": "lat",
+     "text": ". Boderianus,\nPomarius, Aquinas, pro "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>marmita,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " emendant "
+    },
+    {
+     "lang": "heb",
+     "text": "דורמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dormita,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " ut sit,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dormitatio.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Tamen "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמיטה"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>marmita</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " constanter legunt nostra exemplaria, et\nBaal Aruch sine Jod "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמטה"
+    },
+    {
+     "lang": "lat",
+     "text": ". Sed vera lectio est "
+    },
+    {
+     "lang": "heb",
+     "text": "מרמוטה"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>marmota:</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " quomodo\nin ipsis "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Alpibus</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " appellatur hoc animal, quo ne glis quidem est somniculosior.\nScaliger "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>De subtilitate</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Exercitatione 203. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Cum glirium specie (marmotae) in so-</i>\n<i>mno conveniunt. Hybernos enim totos menses transigunt sopore.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Gesnerus, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Hi</i>\n<i>mures multum dormiunt, et in cavernis suis delitescunt, quas miro artificio fodi-</i>\n<i>unt, etc.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Agricola, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Somno plurimum indulget, etc. In montibus quidem foe-</i>\n<i>num, quod in saxis mollissimum crescit, collectum, in cavernam deferunt, ut hye-</i>\n<i>me mollius dormiant.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Stumpfius, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>in Helvetiae Chronicis: Cibi gratia hyeme tan-</i>\n<i>tum dormientes effodiuntur. Item, Terraque effossa dormientes auferunt.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Et\npaullo post, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>loco effosso dormientes deprehenduntur, etc. portanturque dormientes</i>\n<i>quo libuerit. Neque enim facile expergiscuntur, nisi calor solis, ignis, aut hypo-</i>\n<i>causti eos resolverit. Et rursus, Occiduntur etiamnum dormientes, cultro in ju-</i>\n<i>gulum adacto, unde parum prioribus pedibus moveri incipiunt. Sed exspirant</i>\n<i>prius quam prorsus expergiscantur.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Et multo ante Plinius, qui hujus muris\nmeminit solus veterum libri octavi capite trigesimo septimo: "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Conduntur hyeme</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2080,
+    1134
+   ],
+   [
+    2080,
+    1702
+   ]
+  ],
+  "input_tokens": 3630,
+  "output_tokens": 3412,
+  "cost_usd": 0.0155,
+  "seconds": 18.8
+ }
+}

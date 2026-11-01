@@ -1,6 +1,7 @@
-# Translation rules for Bochart (proposal, 01-Nov-2026)
+# Translation rules for Bochart (accepted 01-Nov-2026)
 
-A proposal for review before any translation run. Base: the Lewysohn rules v5 (`translate.py`,
+Accepted on 01-Nov-2026 with all four open points as recommended (see the end). Written as a
+proposal before any translation run. Base: the Lewysohn rules v5 (`translate.py`,
 `abbrev.py` in lewysohn-zoologie), changed for 17th-century Latin. Examples are from the pilot,
 Rosenmüller vol. 2, pp. 409–429. **R** = my recommendation where there is a choice.
 
@@ -179,7 +180,7 @@ abbreviations of the chunk in two groups from a reviewed `abbreviations.json`:
 About 50,000 characters of source; with Opus @medium about $0.05 per page, so **about $1** for the
 21 pages (Lewysohn: $0.031–0.051 per page).
 
-## Open points for you
+## Open points (decided 01-Nov-2026: all four as recommended)
 
 1. Bible references in the modern SBL form (`Lev 11:5`), or as printed with Arabic numerals
    (`Levit. 11, 5`)? R: SBL.

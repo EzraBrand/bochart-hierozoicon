@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.   <i>sed majoris muris genus.</i>   419\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.   "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>sed majoris muris genus.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "   419\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>riae animalium</i> fere in fine libri noni, Μηρυκάζουσι δὲ καὶ τῶν ἀμφοδόντων ἔνια, οἷον οἱ μῦες οἱ Ποντικοί. <i>Sunt etiam ex utrimque dentatis, quae ruminant, ut mures Pontici. Plinius</i> libri decimi capite septuagesimo tertio, <i>Pontici quoque mures simili modo remandunt.</i> Et quamvis in frigidis locis fere nascantur, tamen in calidis non desunt. <i>Getulici</i> quippe sciuri meminere scriptores. Et de eo multa habet <i>Iohannes Cajus Anglus</i> in <i>Epistola ad Gesnerum.</i> Ut de <i>Arabe Geographo</i> ª) taceam, qui in censu animalium, quae in intima <i>Africa</i> nutriunt <i>Nigrorum</i> sylvae, etiam habet افناك <i>Finnicos mures, sive Ponticos.</i> In petris tamen non degunt, sed in arborum fastigio nidificant et foetus fovent. Itaque الفنك <i>alphenec, seu mus Finnicus,</i> non potest esse שפן <i>saphan.</i> Idem de <i>hyaena</i> judicium, quae non ruminat, neque in petris degit, sed in sepulchris potius. Unde est, quod <i>antrum hyaenae</i> Arabice رجمة <i>rugma</i> dicitur, id est, <i>sepulchrum.</i> Praeterea שפנים <i>sephanim Solomon</i> dicit esse <i>populum invalidum</i> Prov. XXX, 26. quod de hyaenis nemo dixerit. Sed neque est hericius in censu ruminantium, neque in petris habitat, sed in cavis arborum, aut in dumetis, aut sepibus. Unde est, quod hericium <i>Angli</i> vocant <i>Hedge-hog,</i> quasi dicas <i>porcum sepium.</i> Nec temere praetereundum, quod dicturus sum. <i>Marmotta</i> et <i>hyaena solitaria</i> sunt animalia: <i>hericius</i> quoque, qui Graece χὴρ ἀπὸ τῆς χηρώσεως, ἤτοι ἐρημώσεως, a <i>solitudine</i> dicitur. At שפן <i>saphan</i> gregarium est animal. Quo pertinet, quod <i>Solomon</i> שפנים <i>sephanim populum</i> appellat ubi supra, שפנים עם לא עצום, <i>Sephanim populus invalidus:</i> ut paullo ante de formicis, הנמלים עם לא עז, <i>Formicae populus non fortis.</i> Et Ioel. I, 6. de locustis, גוי עלה על ארצי עצום, <i>Contra terram meam ascendit gens valida.</i> Quale est, quod <i>Lucianus</i> in <i>Icaro-Menippo</i> dixit μυρμήκων ἀγορὰν <i>formicarum concionem.</i> Et <i>Philippus Anthologiae</i> libri primi capite vigesimo tertio, Βωλοτόμοι μύρμηκες, ὁ γῆς στρατός· <i>Glebas excavantes formicae, terrae exercitus.</i> Et <i>Philostratus</i> πιθήκων δῆμος· ut <i>Solinus, plebes simiarum;</i> et <i>Smyrnaeus,</i> μελισσάων κλυτὰ φῦλα, <i>nobiles apum gentes:</i> et multo ante Poeta summus Iliad. β'.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>riae animalium</i> fere in fine libri noni, "
+    },
+    {
+     "lang": "grc",
+     "text": "Μηρυκάζουσι δὲ καὶ τῶν ἀμφοδόντων ἔνια, οἷον οἱ μῦες οἱ Ποντικοί."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Sunt etiam ex utrimque dentatis, quae ruminant, ut mures Pontici. Plinius</i> libri decimi capite septuagesimo tertio, <i>Pontici quoque mures simili modo remandunt.</i> Et quamvis in frigidis locis fere nascantur, tamen in calidis non desunt. <i>Getulici</i> quippe sciuri meminere scriptores. Et de eo multa habet <i>Iohannes Cajus Anglus</i> in <i>Epistola ad Gesnerum.</i> Ut de <i>Arabe Geographo</i> ª) taceam, qui in censu animalium, quae in intima <i>Africa</i> nutriunt <i>Nigrorum</i> sylvae, etiam habet "
+    },
+    {
+     "lang": "ara",
+     "text": "افناك"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Finnicos mures, sive Ponticos.</i> In petris tamen non degunt, sed in arborum fastigio nidificant et foetus fovent. Itaque "
+    },
+    {
+     "lang": "ara",
+     "text": "الفنك"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>alphenec, seu mus Finnicus,</i> non potest esse "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan.</i> Idem de <i>hyaena</i> judicium, quae non ruminat, neque in petris degit, sed in sepulchris potius. Unde est, quod <i>antrum hyaenae</i> Arabice "
+    },
+    {
+     "lang": "ara",
+     "text": "رجمة"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>rugma</i> dicitur, id est, <i>sepulchrum.</i> Praeterea "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>sephanim Solomon</i> dicit esse <i>populum invalidum</i> Prov. XXX, 26. quod de hyaenis nemo dixerit. Sed neque est hericius in censu ruminantium, neque in petris habitat, sed in cavis arborum, aut in dumetis, aut sepibus. Unde est, quod hericium <i>Angli</i> vocant <i>Hedge-hog,</i> quasi dicas <i>porcum sepium.</i> Nec temere praetereundum, quod dicturus sum. <i>Marmotta</i> et <i>hyaena solitaria</i> sunt animalia: <i>hericius</i> quoque, qui Graece "
+    },
+    {
+     "lang": "grc",
+     "text": "χὴρ ἀπὸ τῆς χηρώσεως, ἤτοι ἐρημώσεως,"
+    },
+    {
+     "lang": "lat",
+     "text": " a <i>solitudine</i> dicitur. At "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i> gregarium est animal. Quo pertinet, quod <i>Solomon</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>sephanim populum</i> appellat ubi supra, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים עם לא עצום,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Sephanim populus invalidus:</i> ut paullo ante de formicis, "
+    },
+    {
+     "lang": "heb",
+     "text": "הנמלים עם לא עז,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Formicae populus non fortis.</i> Et Ioel. I, 6. de locustis, "
+    },
+    {
+     "lang": "heb",
+     "text": "גוי עלה על ארצי עצום,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Contra terram meam ascendit gens valida.</i> Quale est, quod <i>Lucianus</i> in <i>Icaro-Menippo</i> dixit "
+    },
+    {
+     "lang": "grc",
+     "text": "μυρμήκων ἀγορὰν"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>formicarum concionem.</i> Et <i>Philippus Anthologiae</i> libri primi capite vigesimo tertio, "
+    },
+    {
+     "lang": "grc",
+     "text": "Βωλοτόμοι μύρμηκες, ὁ γῆς στρατός·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Glebas excavantes formicae, terrae exercitus.</i> Et <i>Philostratus</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "πιθήκων δῆμος·"
+    },
+    {
+     "lang": "lat",
+     "text": " ut <i>Solinus, plebes simiarum;</i> et <i>Smyrnaeus,</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "μελισσάων κλυτὰ φῦλα,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>nobiles apum gentes:</i> et multo ante Poeta summus Iliad. β'."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἠΰτε ἔθνεα εἶσι μελισσάων ἀδινάων,\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἠΰτε ἔθνεα εἶσι μελισσάων ἀδινάων,\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>ut apum frequentium gentes eunt,</i> id est, <i>examina.</i> De qua phrasi plura alibi. Itaque quidquid sit שפן <i>saphan,</i> solitarium animal non est. Et vel <i>saphan</i> non est χοιρογρύλλιος, quomodo reddiderunt vetustissimi interpretes, vel χοιρογρύλλιος non est ἐχῖνος <i>herinacius,</i> ut volunt. Et vero idem <i>Hieronymus,</i> qui Psalmo centesimo quarto, aliorum interpretum torrente abreptus, <i>herinacium</i> reddit, in Epistola ad <i>Suniam</i> χοιρογρύλλιον diversum esse ab herinacio animal, diserte docet, nempe ἀρκτομῦν. Verba sunt: <i>Sciendum est, animal esse non</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ut apum frequentium gentes eunt,</i> id est, <i>examina.</i> De qua phrasi plura alibi. Itaque quidquid sit "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan,</i> solitarium animal non est. Et vel <i>saphan</i> non est "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος,"
+    },
+    {
+     "lang": "lat",
+     "text": " quomodo reddiderunt vetustissimi interpretes, vel "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": " non est "
+    },
+    {
+     "lang": "grc",
+     "text": "ἐχῖνος"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>herinacius,</i> ut volunt. Et vero idem <i>Hieronymus,</i> qui Psalmo centesimo quarto, aliorum interpretum torrente abreptus, <i>herinacium</i> reddit, in Epistola ad <i>Suniam</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιον"
+    },
+    {
+     "lang": "lat",
+     "text": " diversum esse ab herinacio animal, diserte docet, nempe "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦν."
+    },
+    {
+     "lang": "lat",
+     "text": " Verba sunt: <i>Sciendum est, animal esse non</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Vid. Clim. 1. part. 1.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vid. Clim. 1. part. 1.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ggg 2   <i>majus</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ggg 2   <i>majus</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1840,
+    1171
+   ],
+   [
+    1840,
+    1665
+   ]
+  ],
+  "input_tokens": 3621,
+  "output_tokens": 2357,
+  "cost_usd": 0.0116,
+  "seconds": 16.4
+ }
+}

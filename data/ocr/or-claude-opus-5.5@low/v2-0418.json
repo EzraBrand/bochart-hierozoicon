@@ -1,0 +1,309 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "418 <i>Probatur,</i> שפן <i>non esse Cuniculum,</i> L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "418 <i>Probatur,</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>non esse Cuniculum,</i> L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "XXX, <i>belbi</i>, id est, <i>hyaenae</i> X. Tamen in <i>Glossario Philoxenus</i>, Ὕαινα·\nζῶον, <i>bellua.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "XXX, <i>belbi</i>, id est, <i>hyaenae</i> X. Tamen in <i>Glossario Philoxenus</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὕαινα·\nζῶον,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>bellua.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "3. Plerisque <i>Graecis</i> שפן <i>saphan</i> est χοιρογρύλλιος· quae versio est receptis-\nsima, adeoque vetustissima. Ita enim reddunt <i>Seniores, Levit. XI,</i> 5. <i>Deut.\nXIV,</i> 7. et <i>Prov. XXX, 26.</i> Sed et <i>Psalm. CIII, (Hebraeis CIV,) 18.</i> pro\nτοῖς λαγωοῖς, alii omnes, id est, <i>Aquila, Symmachus, Theodotion</i>, etc. voce\nsimili χοιρογρυλλίους transtulerunt, ut testatur <i>Hieronymus</i> in Epistola ad <i>Suniam.</i>\nUnde in nonnulla etiam irrepsit <i>Seniorum</i> exemplaria. Atque, idem sequutus,\n<i>Aethiops Pentateuchi</i> interpres, <i>Romae</i> manu - scriptus, pro השפן, habet\nኮርገሊሎን፡ <i>choerogryllion.</i> Verum ignotum pene dixerim sic explicari per\nignotius. Neque enim constat satis, quid sit χοιρογρύλλιος, cum de eo nil quid-\nquam habeant ii veterum, qui de animalibus scripserunt, <i>Aristoteles</i> puta, <i>Pli-\nnius, Aelianus, Oppianus, Phile</i>, etc. Tamen <i>Aristophanis Scholiastes</i> in <i>Pa-\nce</i> vocem <i>Graecam</i> esse agnoscit: sed de illa hoc solum habet, Ἔστι δὲ ζῶον, ὃ\nκαλεῖται ὑπό τινων χοιρογρύλλιος· <i>Animal est, quod a nonnullis vocatur choero-\ngryllius.</i> Alii veterum <i>Lexicographi hericium</i>, aut <i>hystricem</i> interpretantur.\n<i>Hesychius</i>, Χοιρογρύλλιον· ὁ ἐχῖνος. <i>Philoxeni Glossae</i>, Χοιρογρύλλιος, ἤγουν\nἐχῖνος χερσαῖος, <i>Erinacius.</i> Suidas, Χοιρογρύλλιος· ὕστριξ, ἀκανθόχοιρος,\nτουτέστιν ἐχῖνος χερσαῖος. Sed et <i>Vulgatus</i> interpres <i>Psal. CIII, (Hebraeis CIV,)\n18. Petra refugium herinaciis</i>, id est, τοῖς χοιρογρυλλίοις· quomodo etiam <i>Hie-\nronymus</i> in <i>Psalmorum</i> versione, quae extat inter ipsius <i>Opera</i>, a <i>Vulgata</i> in\nmultis plane diversa. Et <i>Eucherius</i> in libro <i>De nominibus Hebraeorum</i> capite\nduodecimo, <i>Erinacii chirogrylli nuncupantur</i>, etc. Et <i>Vincentius</i> in <i>Doctrinali</i>,\nlibri decimi sexti capite octuagesimo sexto: <i>Erinacius, qui et cirogryllus, est ani-\nmal, porcelli formam habens, sed spinosum</i>, etc. Et Graecus Scholiastes in pro-\nverbia perabsurde, οἱ χοιρογρύλλιοι· εἶδος ἰχθύος, ἤτοι οἱ λαγωοὶ, ἢ οἱ καλού-\nμενοι οἶστροι. <i>Choerogryllii piscis species, aut lepores, aut qui vocantur asili.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "3. Plerisque <i>Graecis</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος·"
+    },
+    {
+     "lang": "lat",
+     "text": " quae versio est receptis-\nsima, adeoque vetustissima. Ita enim reddunt <i>Seniores, Levit. XI,</i> 5. <i>Deut.\nXIV,</i> 7. et <i>Prov. XXX, 26.</i> Sed et <i>Psalm. CIII, (Hebraeis CIV,) 18.</i> pro\n"
+    },
+    {
+     "lang": "grc",
+     "text": "τοῖς λαγωοῖς,"
+    },
+    {
+     "lang": "lat",
+     "text": " alii omnes, id est, <i>Aquila, Symmachus, Theodotion</i>, etc. voce\nsimili "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρυλλίους"
+    },
+    {
+     "lang": "lat",
+     "text": " transtulerunt, ut testatur <i>Hieronymus</i> in Epistola ad <i>Suniam.</i>\nUnde in nonnulla etiam irrepsit <i>Seniorum</i> exemplaria. Atque, idem sequutus,\n<i>Aethiops Pentateuchi</i> interpres, <i>Romae</i> manu - scriptus, pro "
+    },
+    {
+     "lang": "heb",
+     "text": "השפן"
+    },
+    {
+     "lang": "lat",
+     "text": ", habet\n"
+    },
+    {
+     "lang": "other",
+     "text": "ኮርገሊሎን፡"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>choerogryllion.</i> Verum ignotum pene dixerim sic explicari per\nignotius. Neque enim constat satis, quid sit "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": ", cum de eo nil quid-\nquam habeant ii veterum, qui de animalibus scripserunt, <i>Aristoteles</i> puta, <i>Pli-\nnius, Aelianus, Oppianus, Phile</i>, etc. Tamen <i>Aristophanis Scholiastes</i> in <i>Pa-\nce</i> vocem <i>Graecam</i> esse agnoscit: sed de illa hoc solum habet, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἔστι δὲ ζῶον, ὃ\nκαλεῖται ὑπό τινων χοιρογρύλλιος·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Animal est, quod a nonnullis vocatur choero-\ngryllius.</i> Alii veterum <i>Lexicographi hericium</i>, aut <i>hystricem</i> interpretantur.\n<i>Hesychius</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Χοιρογρύλλιον· ὁ ἐχῖνος."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Philoxeni Glossae</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Χοιρογρύλλιος, ἤγουν\nἐχῖνος χερσαῖος,"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Erinacius.</i> Suidas, "
+    },
+    {
+     "lang": "grc",
+     "text": "Χοιρογρύλλιος· ὕστριξ, ἀκανθόχοιρος,\nτουτέστιν ἐχῖνος χερσαῖος."
+    },
+    {
+     "lang": "lat",
+     "text": " Sed et <i>Vulgatus</i> interpres <i>Psal. CIII, (Hebraeis CIV,)\n18. Petra refugium herinaciis</i>, id est, "
+    },
+    {
+     "lang": "grc",
+     "text": "τοῖς χοιρογρυλλίοις·"
+    },
+    {
+     "lang": "lat",
+     "text": " quomodo etiam <i>Hie-\nronymus</i> in <i>Psalmorum</i> versione, quae extat inter ipsius <i>Opera</i>, a <i>Vulgata</i> in\nmultis plane diversa. Et <i>Eucherius</i> in libro <i>De nominibus Hebraeorum</i> capite\nduodecimo, <i>Erinacii chirogrylli nuncupantur</i>, etc. Et <i>Vincentius</i> in <i>Doctrinali</i>,\nlibri decimi sexti capite octuagesimo sexto: <i>Erinacius, qui et cirogryllus, est ani-\nmal, porcelli formam habens, sed spinosum</i>, etc. Et Graecus Scholiastes in pro-\nverbia perabsurde, "
+    },
+    {
+     "lang": "grc",
+     "text": "οἱ χοιρογρύλλιοι· εἶδος ἰχθύος, ἤτοι οἱ λαγωοὶ, ἢ οἱ καλού-\nμενοι οἶστροι."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Choerogryllii piscis species, aut lepores, aut qui vocantur asili.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Atque haec fere sunt veterum interpretamenta vocis שפן <i>saphan</i>, in quibus\nquid eligas nondum apparet; quia horum nullum est, quod non habeat sua in-\ncommoda. الوبر <i>alvvebro</i>, id est, <i>mus montanus</i>, in eo differt a שפן <i>saphan</i>,\nquod non ruminat, neque degit in petris, neque in <i>Iudaea</i> nascitur, neque in\nlocis vicinis ^{(5)}. Et frustra opponi <i>Plinium</i> dicetur infra. Plus in iis est ratio-\nnis, qui <i>saphan</i> volunt esse الغنك <i>alphenec</i>, <i>sciuri</i> speciem, quem veteres <i>mu-\nrem Ponticum</i> appellabant. Ruminant enim <i>mures Pontici.</i> Aristoteles <i>Histo-\nriae</i> ⟦p. 1009⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Atque haec fere sunt veterum interpretamenta vocis "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", in quibus\nquid eligas nondum apparet; quia horum nullum est, quod non habeat sua in-\ncommoda. "
+    },
+    {
+     "lang": "ara",
+     "text": "الوبر"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>alvvebro</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, <i>mus montanus</i>, in eo differt a "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ",\nquod non ruminat, neque degit in petris, neque in <i>Iudaea</i> nascitur, neque in\nlocis vicinis ^{(5)}. Et frustra opponi <i>Plinium</i> dicetur infra. Plus in iis est ratio-\nnis, qui "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " volunt esse "
+    },
+    {
+     "lang": "ara",
+     "text": "الغنك"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>alphenec</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>sciuri</i> speciem, quem veteres <i>mu-\nrem Ponticum</i> appellabant. Ruminant enim <i>mures Pontici.</i> Aristoteles <i>Histo-\nriae</i> ⟦p. 1009⟧"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Verum si وبر sit <i>hyrax Syriacus</i> (esse autem satis probatum putamus supra not. 3.), nihil obstabit, quo minus Arabum\nوبر Hebraeorumque שפן idem sit animal.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Verum si "
+    },
+    {
+     "lang": "ara",
+     "text": "وبر"
+    },
+    {
+     "lang": "lat",
+     "text": " sit <i>hyrax Syriacus</i> (esse autem satis probatum putamus supra not. 3.), nihil obstabit, quo minus Arabum\n"
+    },
+    {
+     "lang": "ara",
+     "text": "وبر"
+    },
+    {
+     "lang": "lat",
+     "text": " Hebraeorumque "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " idem sit animal."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2032,
+    1499
+   ],
+   [
+    2032,
+    1329
+   ]
+  ],
+  "input_tokens": 9714,
+  "output_tokens": 2870,
+  "cost_usd": 0.0963,
+  "seconds": 33.8
+ }
+}

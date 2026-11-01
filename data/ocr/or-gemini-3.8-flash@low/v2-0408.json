@@ -1,0 +1,417 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "408\t\tDe Lepore.\t\tL. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "408\t\tDe Lepore.\t\tL. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Hesychius, Δασύπους· λαγώς. Suidas et Phavorinus, Δασύπους· λαγώς.\nEustathius in Odyss. ρ́. Ὅτι δὲ ὁ λαγὼς οὐ μόνον, καὶ πτὼξ, καὶ δασύπουν λέ-\nγεται κοινῶς, ἀλλὰ καὶ ταχίνας εὕρηται παρὰ Λακεδαιμονίοις ἀπὸ τοῦ φυσι-\nκοῦ, οἱ παλαιοὶ γράφουσι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hesychius, "
+    },
+    {
+     "lang": "grc",
+     "text": "Δασύπους· λαγώς."
+    },
+    {
+     "lang": "lat",
+     "text": " Suidas et Phavorinus, "
+    },
+    {
+     "lang": "grc",
+     "text": "Δασύπους· λαγώς."
+    },
+    {
+     "lang": "lat",
+     "text": "\nEustathius in Odyss. ρ́. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὅτι δὲ ὁ λαγὼς οὐ μόνον, καὶ πτὼξ, καὶ δασύπουν λέ-\nγεται κοινῶς, ἀλλὰ καὶ ταχίνας εὕρηται παρὰ Λακεδαιμονίοις ἀπὸ τοῦ φυσι-\nκοῦ, οἱ παλαιοὶ γράφουσι."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Neque aliter usurparunt Graecorum Theologi. Epistola Catholica Barna-\nbae, quae, utut supposititia, tamen non potest non esse antiquissima, cum il-\nlam citent Clemens Alexandrinus, Origenes atque alii Patrum vetustissimi: Ἀλ-\nλὰ καὶ τὸν δασύποδα οὐ φάγῃ, ὅ φησιν. Πρός τι; Οὐ μὴ γένῃ παιδοφθόρος,\nοὐδὲ ὁμοιωθήσῃ τοῖς τοιούτοις· ὅτι ὁ λαγωὸς κατ’ ἐνιαυτὸν πλεονεκτεῖ τὴν ἀφό-\nδευσιν, ὅσα γὰρ ἔτη ζῇ, τοσαύτας ἔχει τρύπας. <i>Sed neque dasypodem, in-\nquit, comedes. Quorsum? Non eris corruptor puerorum, neque talibus assimila-\nberis: quia lepus quotannis excretionem auget: quot enim annis vivit, tot habet\nforamina.</i> Vides, pro eodem hic sumi <i>leporem</i> et <i>dasypodem</i>. Ita Clemens et\nNovatianus in locis jam citatis, τὸν λαγὼν, <i>leporem</i> in lege interdici scribunt,\npro eo, quod alii τὸν δασύποδα. Et Theodoretius in Leviticum Quaestione un-\ndecima, ubi de animalibus, a Mose prohibitis: Ἔτερα δὲ μηρυκᾶται μὲν, οὐ δι-\nχηλεῖ δὲ, ὡς κάμηλος, καὶ λαγώς. Itaque illi etiam ὁ δασύπους est <i>lepus</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Neque aliter usurparunt Graecorum Theologi. Epistola Catholica Barna-\nbae, quae, utut supposititia, tamen non potest non esse antiquissima, cum il-\nlam citent Clemens Alexandrinus, Origenes atque alii Patrum vetustissimi: "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀλ-\nλὰ καὶ τὸν δασύποδα οὐ φάγῃ, ὅ φησιν. Πρός τι; Οὐ μὴ γένῃ παιδοφθόρος,\nοὐδὲ ὁμοιωθήσῃ τοῖς τοιούτοις· ὅτι ὁ λαγωὸς κατ’ ἐνιαυτὸν πλεονεκτεῖ τὴν ἀφό-\nδευσιν, ὅσα γὰρ ἔτη ζῇ, τοσαύτας ἔχει τρύπας."
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Sed neque dasypodem, in-\nquit, comedes. Quorsum? Non eris corruptor puerorum, neque talibus assimila-\nberis: quia lepus quotannis excretionem auget: quot enim annis vivit, tot habet\nforamina.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Vides, pro eodem hic sumi "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>leporem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypodem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ". Ita Clemens et\nNovatianus in locis jam citatis, "
+    },
+    {
+     "lang": "grc",
+     "text": "τὸν λαγὼν"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>leporem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " in lege interdici scribunt,\npro eo, quod alii "
+    },
+    {
+     "lang": "grc",
+     "text": "τὸν δασύποδα"
+    },
+    {
+     "lang": "lat",
+     "text": ". Et Theodoretius in Leviticum Quaestione un-\ndecima, ubi de animalibus, a Mose prohibitis: "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἔτερα δὲ μηρυκᾶται μὲν, οὐ δι-\nχηλεῖ δὲ, ὡς κάμηλος, καὶ λαγώς."
+    },
+    {
+     "lang": "lat",
+     "text": " Itaque illi etiam "
+    },
+    {
+     "lang": "grc",
+     "text": "ὁ δασύπους"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>lepus</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Denique qui <i>dasypodem</i> a <i>lepore</i> distinguat, nullus est praeter <i>Plinium</i>,\n<i>Romanum</i> hominem, quem solum tanto Graecorum consensui opponere parum\ntutum est, cum saepe fallatur, et fallat, neque sibi constet satis. Pleraque enim,\nquae de dasypode dicit Aristoteles, is tanquam de <i>lepore</i> dicta accipit, quod pro-\nbare est in proclivi. Praeterea ne quis <i>cuniculum</i> putet <i>dasypodis</i> nomine ab illo\nintelligi, <i>dasypodem</i> a <i>cuniculo</i> non uno in loco distinguit. Itaque quid intelle-\nxerit <i>dasypodis</i> nomine, dicere non est obvium: cum praeter <i>leporem</i> et <i>cunicu-\nlum</i>, his congener tertia species Graecis nota nulla fuerit. Proindè voce <i>dasy-\npodis</i> id intelligit, quod nusquam est. Neque leporem a <i>dasypode</i> ab eo distin-\ngui mirum est, cui <i>caprea</i> et <i>dorcas</i>, <i>vespertilio</i> et <i>nycteris</i>, etc. describuntur ut\ndiversa animalia, ut notavit <i>Leonicenus</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Denique qui "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypodem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " a "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>lepore</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " distinguat, nullus est praeter "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Plinium</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ",\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Romanum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " hominem, quem solum tanto Graecorum consensui opponere parum\ntutum est, cum saepe fallatur, et fallat, neque sibi constet satis. Pleraque enim,\nquae de dasypode dicit Aristoteles, is tanquam de "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>lepore</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " dicta accipit, quod pro-\nbare est in proclivi. Praeterea ne quis "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>cuniculum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " putet "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypodis</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " nomine ab illo\nintelligi, "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypodem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " a "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>cuniculo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " non uno in loco distinguit. Itaque quid intelle-\nxerit "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypodis</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " nomine, dicere non est obvium: cum praeter "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>leporem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>cunicu-\nlum</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", his congener tertia species Graecis nota nulla fuerit. Proindè voce "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasy-\npodis</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " id intelligit, quod nusquam est. Neque leporem a "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dasypode</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " ab eo distin-\ngui mirum est, cui "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>caprea</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>dorcas</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>vespertilio</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " et "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>nycteris</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ", etc. describuntur ut\ndiversa animalia, ut notavit "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Leonicenus</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Interim cur δασύποδος potius quam λαγωῦ nomen Graeci interpretes\nadhibuerint, jocularem causam Hebraei afferunt in Historia templi secundi pagi-\nnis 8 et 9. editionis Munsterianae, מפני דאת הארנבת קראו צעירת הרגלים\nשאשתו של המלך ארנבת היה שמה שלו תאמר הלעיגו בי היהודים <i>Et lepo-\nrum vocaverunt</i> צעירת <i>parvam (lege</i> שעירת <i>hirsutam) pedibus, quia uxor regis le-\nporis habebat nomen, ne illa diceret, Iudaei me derident.</i> Quae fere ad verbum\nexcerpta sunt ex Talmudico tractatu Megilla, capite primo. Pro <i>uxore matrem</i>\nscribit Talmud Hierosolymitanum. Utrumque falso. Neque enim illius Ptole-\nmaei, qui Graecam editionem procuravit, mater, aut uxor, sed avus Lagi ha-\nbuit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Interim cur "
+    },
+    {
+     "lang": "grc",
+     "text": "δασύποδος"
+    },
+    {
+     "lang": "lat",
+     "text": " potius quam "
+    },
+    {
+     "lang": "grc",
+     "text": "λαγωῦ"
+    },
+    {
+     "lang": "lat",
+     "text": " nomen Graeci interpretes\nadhibuerint, jocularem causam Hebraei afferunt in Historia templi secundi pagi-\nnis 8 et 9. editionis Munsterianae, "
+    },
+    {
+     "lang": "heb",
+     "text": "מפני דאת הארנבת קראו צעירת הרגלים"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שאשתו של המלך ארנבת היה שמה שלו תאמר הלעיגו בי היהודים"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Et lepo-\nrum vocaverunt</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "צעירת"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>parvam (lege</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "שעירת"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>hirsutam) pedibus, quia uxor regis le-\nporis habebat nomen, ne illa diceret, Iudaei me derident.</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " Quae fere ad verbum\nexcerpta sunt ex Talmudico tractatu Megilla, capite primo. Pro "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>uxore matrem</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "\nscribit Talmud Hierosolymitanum. Utrumque falso. Neque enim illius Ptole-\nmaei, qui Graecam editionem procuravit, mater, aut uxor, sed avus Lagi ha-\nbuit,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2056,
+    1298
+   ],
+   [
+    2056,
+    1530
+   ]
+  ],
+  "input_tokens": 3626,
+  "output_tokens": 1775,
+  "cost_usd": 0.0094,
+  "seconds": 14.6
+ }
+}

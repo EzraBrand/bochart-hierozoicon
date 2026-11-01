@@ -1,0 +1,257 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.   <i>sed majoris muris genus.</i>   413",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.   <i>sed majoris muris genus.</i>   413"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Pfal. CIII. (<i>Hebraeis</i> CIV,) 19. reddendum puto <i>leporibus</i>, quia respondet <i>Grae-\nco</i> τοῖς λαγωοῖς. Quod idem sequuti <i>Arabes</i> ita habent الأرنب <i>lepores</i>. At\niidem aliter habent in <i>Proverbiis</i>, nempe القنافد <i>hericios</i>. Et in <i>Lege</i> rur-\nsus aliter: ibi enim, pro שפן, unus habet الوبرalwvebro, et alius الفنك\nalpheneco.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pfal. CIII. (<i>Hebraeis</i> CIV,) 19. reddendum puto <i>leporibus</i>, quia respondet <i>Grae-\nco</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "τοῖς λαγωοῖς"
+    },
+    {
+     "lang": "lat",
+     "text": ". Quod idem sequuti <i>Arabes</i> ita habent "
+    },
+    {
+     "lang": "ara",
+     "text": "الأرنب"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>lepores</i>. At\niidem aliter habent in <i>Proverbiis</i>, nempe "
+    },
+    {
+     "lang": "ara",
+     "text": "القنافد"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>hericios</i>. Et in <i>Lege</i> rur-\nsus aliter: ibi enim, pro "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": ", unus habet "
+    },
+    {
+     "lang": "ara",
+     "text": "الوبر"
+    },
+    {
+     "lang": "translit",
+     "text": "alwvebro"
+    },
+    {
+     "lang": "lat",
+     "text": ", et alius "
+    },
+    {
+     "lang": "ara",
+     "text": "الفنك"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "alpheneco"
+    },
+    {
+     "lang": "lat",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quorum animalium prius ita describit <i>Giauhari</i>, الوبر دويبة اصغر\nمن السنور كحلا اللون لا ذنب لها تدجن في البيوت\nAlwebro <i>est animalculum, fele minus, fusci coloris, sine cauda, residens in domi-\nbus</i>. Sed, ut observat <i>Damir</i>, قوله لا ذنب لها اي لا ذنب لها\nطويل والا فالوبر له ذنب قصير جدا ⟦p. 1005⟧\n<i>Cum negat habere cau-\ndam, significat, caudam illi non esse longam; quia</i> alwebro <i>caudam quidem habet,\nsed valde brevem</i>. Idem asserit, a nonnullis vocari غنم بني اسرايل <i>ovem\nfiliorum Israelis</i>; لان ذنبها مع صغره يشبه الية الخروف <i>quia\ncauda ejus brevitate sua refert caudam agninam</i> (^{(2)}). Sed in <i>Giauhari</i> زلم <i>zulem</i>\nappellatur, qua de causa, non satis scio. In libro, cui titulus كفاية\nدويبة قريبة من السنور ولها بول يخثر فيتداوي به الناس\nlegitur, الوبرalwvebro esse المتحفظة\n<i>animalculum\ninstar felis, cujus urina spissatur, et usurpatur inter morborum remedia</i>. <i>Mavvar-\ndi</i> et <i>Rujiani</i> animal esse dicunt في عظم الجرذ الا انه انبل منه\nوالعرب تاكله <i>magnitudine majoris muris, sed praestantius, quo vescun-\ntur Arabes</i>. Ab aliis describitur دويبة سودا في قدر الارنب واكبر\nمن ابن عرس <i>animalculum nigrum, accedens ad staturam leporis, et muste-\nla majus</i>. Idem, ut nonnulli addunt, كالارنب يعتلف النبات\nوالبقول <i>leporis instar herbis vescitur, atque oleribus</i>. <i>Marmotam</i> intelligo,\n<i>vel murem montanum</i>, quem <i>Gesnerus</i> ita describit: <i>Fele corpulentior est, sed\nbrevior cruribus, etc. Colore ut plurimum rufo, qui in aliis clarior, in aliis ob-\nscurior et fuscus est</i>. Et <i>Scaliger</i> in <i>Cardanum</i>. Exercitatione ducentesima tertia,\n<i>Melis sunt magnitudine et pilo, cauda item nulla pene</i>. Addit, se unam aluisse\nin Taurinis mansuetam. Et Gesnerus, <i>Historiam ejus describam, partim ut ipse</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quorum animalium prius ita describit <i>Giauhari</i>, "
+    },
+    {
+     "lang": "ara",
+     "text": "الوبر دويبة اصغر\nمن السنور كحلا اللون لا ذنب لها تدجن في البيوت"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "Alwebro"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>est animalculum, fele minus, fusci coloris, sine cauda, residens in domi-\nbus</i>. Sed, ut observat <i>Damir</i>, "
+    },
+    {
+     "lang": "ara",
+     "text": "قوله لا ذنب لها اي لا ذنب لها\nطويل والا فالوبر له ذنب قصير جدا"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1005⟧\n<i>Cum negat habere cau-\ndam, significat, caudam illi non esse longam; quia</i> alwebro <i>caudam quidem habet,\nsed valde brevem</i>. Idem asserit, a nonnullis vocari "
+    },
+    {
+     "lang": "ara",
+     "text": "غنم بني اسرايل"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>ovem\nfiliorum Israelis</i>; "
+    },
+    {
+     "lang": "ara",
+     "text": "لان ذنبها مع صغره يشبه الية الخروف"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>quia\ncauda ejus brevitate sua refert caudam agninam</i> (^{(2)}). Sed in <i>Giauhari</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "زلم"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>zulem</i>\nappellatur, qua de causa, non satis scio. In libro, cui titulus "
+    },
+    {
+     "lang": "ara",
+     "text": "كفاية\nدويبة قريبة من السنور ولها بول يخثر فيتداوي به الناس"
+    },
+    {
+     "lang": "lat",
+     "text": "\nlegitur, "
+    },
+    {
+     "lang": "ara",
+     "text": "الوبر"
+    },
+    {
+     "lang": "translit",
+     "text": "alwvebro"
+    },
+    {
+     "lang": "lat",
+     "text": " esse "
+    },
+    {
+     "lang": "ara",
+     "text": "المتحفظة"
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>animalculum\ninstar felis, cujus urina spissatur, et usurpatur inter morborum remedia</i>. <i>Mavvar-\ndi</i> et <i>Rujiani</i> animal esse dicunt "
+    },
+    {
+     "lang": "ara",
+     "text": "في عظم الجرذ الا انه انبل منه\nوالعرب تاكله"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>magnitudine majoris muris, sed praestantius, quo vescun-\ntur Arabes</i>. Ab aliis describitur "
+    },
+    {
+     "lang": "ara",
+     "text": "دويبة سودا في قدر الارنب واكبر\nمن ابن عرس"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>animalculum nigrum, accedens ad staturam leporis, et muste-\nla majus</i>. Idem, ut nonnulli addunt, "
+    },
+    {
+     "lang": "ara",
+     "text": "كالارنب يعتلف النبات\nوالبقول"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>leporis instar herbis vescitur, atque oleribus</i>. <i>Marmotam</i> intelligo,\n<i>vel murem montanum</i>, quem <i>Gesnerus</i> ita describit: <i>Fele corpulentior est, sed\nbrevior cruribus, etc. Colore ut plurimum rufo, qui in aliis clarior, in aliis ob-\nscurior et fuscus est</i>. Et <i>Scaliger</i> in <i>Cardanum</i>. Exercitatione ducentesima tertia,\n<i>Melis sunt magnitudine et pilo, cauda item nulla pene</i>. Addit, se unam aluisse\nin Taurinis mansuetam. Et Gesnerus, <i>Historiam ejus describam, partim ut ipse</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Fff 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fff 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "obser-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "obser-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Videtur haec appellationis ratio fugisse virum quendam doctum in <i>Annotatt.\nad Brucii Itiner. ab Hassencampio editis</i> p. 159. 60.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Videtur haec appellationis ratio fugisse virum quendam doctum in <i>Annotatt.\nad Brucii Itiner. ab Hassencampio editis</i> p. 159. 60."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1880,
+    1251
+   ],
+   [
+    1880,
+    1577
+   ]
+  ],
+  "input_tokens": 3657,
+  "output_tokens": 2014,
+  "cost_usd": 0.0103,
+  "seconds": 17.3
+ }
+}

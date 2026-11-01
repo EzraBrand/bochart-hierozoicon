@@ -1,0 +1,293 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "420          <i>Probatur,</i> שפן <i>non esse Cuniculum,</i>          L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "420"
+    },
+    {
+     "lang": "lat",
+     "text": "          "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>non esse Cuniculum,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "          "
+    },
+    {
+     "lang": "lat",
+     "text": "L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>majus hericio, habens similitudinem muris et ursi. Unde et in Palaestina</i> ἀρκτο-\nμῦς <i>dicitur. Et magna est in istis regionibus hujus generis abundantia, semper-</i>\n<i>que in cavernis petrarum, et terrae foveis habitare consueverunt.</i> Et in Lexico\nCoptico ΠΙΧΙΡΟΓΡΙΛΛΙΟΝ, id est, ὁ χοιρογρύλλιος, <i>Arabice</i> redditur اليربوع\n<i>aljarbuo</i>. Itaque cardo quaestionis in hoc versatur, ut sciamus, quid sit <i>Grae-</i>\n<i>cum</i> ἀρκτομῦς, et <i>Arabicum</i> اليربوع. Neque lectori debet esse grave, si id\nperpendam accuratius, cum non possimus aliter scire rem, ignoratam hactenus,\nnempe quod animal <i>Seniores</i> χοιρογρύλλιον, et <i>Hebraei</i> שפן<i>saphan</i> appella-\nverint.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>majus hericio, habens similitudinem muris et ursi. Unde et in Palaestina</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτο-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "μῦς"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>dicitur. Et magna est in istis regionibus hujus generis abundantia, semper-</i>\n<i>que in cavernis petrarum, et terrae foveis habitare consueverunt.</i> Et in Lexico\nCoptico ΠΙΧΙΡΟΓΡΙΛΛΙΟΝ, id est, "
+    },
+    {
+     "lang": "grc",
+     "text": "ὁ χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Arabice</i> redditur "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>aljarbuo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ". Itaque cardo quaestionis in hoc versatur, ut sciamus, quid sit <i>Grae-</i>\n<i>cum</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦς"
+    },
+    {
+     "lang": "lat",
+     "text": ", et <i>Arabicum</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": ". Neque lectori debet esse grave, si id\nperpendam accuratius, cum non possimus aliter scire rem, ignoratam hactenus,\nnempe quod animal <i>Seniores</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιον"
+    },
+    {
+     "lang": "lat",
+     "text": ", et <i>Hebraei</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>saphan</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " appella-\nverint."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut ab origine rem ordiar, vetustissimi scriptores meminere murium in\n<i>Aegypto</i> et in <i>Africa</i>, qui posteriores pedes prioribus habent longiores, adeo-\nque iis bipedes gradiuntur ^{(6)}. <i>Herodotus</i>, ubi de <i>Lybia</i>, libri quarti capite cen- ⟦p. 1010⟧\ntesimo nonagesimo secundo: Μυῶν δὲ γενεὰ τριξὰ αὐτόθι ἐστί. οἱ μὲν δίποδες\nκαλέοντα͵ etc. <i>Murium autem ibi est triplex genus. Alii quidem bipedes vocantur</i>,\netc. Aristoteles <i>Historiae</i> libro sexto in fine, Οἱ δ᾽ ἐν Αἰγύπτῳ μῦες σκληρὰν\nἔχουσι τὴν τρίχα, σχεδὸν ὥσπερ οἱ χερσαῖοι ἐχῖνοι. Εἰσὶ δὲ καὶ ἕτεροι, οἳ βα-\nδίζουσιν ἐπὶ τοῖς δυσὶ ποσί. τὰ γὰρ πρόσθια μικρὰ ἔχουσι, τὰ δ᾽ ὀπίσθια με-\nγάλα ^{(7)}. γίνονται δὲ πλήθει πολλοί. <i>Mures autem, qui in Aegypto sunt,</i>\n<i>duros habent pilos, fere ut echini terrestres. Sunt autem et alii, qui bipedes ince-</i>\n<i>dunt. Habent enim priora crura brevia, posteriora longa. Sunt autem multi</i>\n<i>numero.</i> Theophrastus apud Aelianum <i>Historiae</i> libri decimi quinti capite vigesi-\nmo sexto, Ἐν Αἰγύπτῳ δὲ ἀκούω δίποδας εἶναι μῦς, καὶ μεγίστους μεγέθει φύε-\nσθαι· τοῖς γε μὴν ἐμπροσθίοις ποσὶν, ὡς χερσὶ, χρῆσθαι. εἶναι γὰρ αὐτοὺς τὸς\nὄπισθε βραχυτέρους. εἶδον τούτους. Λιβυκοί εἰσι. βαδίζουσι δὲ ὀρθοὶ ἐπὶ τοῖν\nποδοῖν, ὅταν δὲ διώκωνται, πηδῶσι. <i>Audio, in Aegypto mures esse bipedes, et</i>\n<i>statura maximos, et prioribus pedibus, tanquam manibus, uti. Eos enim brevi-</i>\n<i>ores esse posterioribus. Illos vidi. Libyci sunt. Recti duobus pedibus nitentes</i>\n<i>gradiuntur. Si quis autem insequatur, saliunt.</i> Et ex eodem Photius, Ἐν Αἰ-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut ab origine rem ordiar, vetustissimi scriptores meminere murium in\n<i>Aegypto</i> et in <i>Africa</i>, qui posteriores pedes prioribus habent longiores, adeo-\nque iis bipedes gradiuntur ^{(6)}. <i>Herodotus</i>, ubi de <i>Lybia</i>, libri quarti capite cen- ⟦p. 1010⟧\ntesimo nonagesimo secundo: "
+    },
+    {
+     "lang": "grc",
+     "text": "Μυῶν δὲ γενεὰ τριξὰ αὐτόθι ἐστί. οἱ μὲν δίποδες"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "καλέοντα͵"
+    },
+    {
+     "lang": "lat",
+     "text": " etc. <i>Murium autem ibi est triplex genus. Alii quidem bipedes vocantur</i>,\netc. Aristoteles <i>Historiae</i> libro sexto in fine, "
+    },
+    {
+     "lang": "grc",
+     "text": "Οἱ δ᾽ ἐν Αἰγύπτῳ μῦες σκληρὰν"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ἔχουσι τὴν τρίχα, σχεδὸν ὥσπερ οἱ χερσαῖοι ἐχῖνοι. Εἰσὶ δὲ καὶ ἕτεροι, οἳ βα-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "δίζουσιν ἐπὶ τοῖς δυσὶ ποσί. τὰ γὰρ πρόσθια μικρὰ ἔχουσι, τὰ δ᾽ ὀπίσθια με-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "γάλα"
+    },
+    {
+     "lang": "lat",
+     "text": " ^{(7)}. "
+    },
+    {
+     "lang": "grc",
+     "text": "γίνονται δὲ πλήθει πολλοί."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Mures autem, qui in Aegypto sunt,</i>\n<i>duros habent pilos, fere ut echini terrestres. Sunt autem et alii, qui bipedes ince-</i>\n<i>dunt. Habent enim priora crura brevia, posteriora longa. Sunt autem multi</i>\n<i>numero.</i> Theophrastus apud Aelianum <i>Historiae</i> libri decimi quinti capite vigesi-\nmo sexto, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐν Αἰγύπτῳ δὲ ἀκούω δίποδας εἶναι μῦς, καὶ μεγίστους μεγέθει φύε-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "σθαι· τοῖς γε μὴν ἐμπροσθίοις ποσὶν, ὡς χερσὶ, χρῆσθαι. εἶναι γὰρ αὐτοὺς τὸς"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ὄπισθε βραχυτέρους. εἶδον τούτους. Λιβυκοί εἰσι. βαδίζουσι δὲ ὀρθοὶ ἐπὶ τοῖν"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ποδοῖν, ὅταν δὲ διώκωνται, πηδῶσι."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Audio, in Aegypto mures esse bipedes, et</i>\n<i>statura maximos, et prioribus pedibus, tanquam manibus, uti. Eos enim brevi-</i>\n<i>ores esse posterioribus. Illos vidi. Libyci sunt. Recti duobus pedibus nitentes</i>\n<i>gradiuntur. Si quis autem insequatur, saliunt.</i> Et ex eodem Photius, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐν Αἰ-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "γύπτῳ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "γύπτῳ"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Mus jaculus cauda elongata flocco-</i>\n<i>sa, palmis subpentadactylis, femoribus</i>\n<i>longissimis, brachiis brevissimis</i>, LIN-\nNAEI <i>Systema Naturae</i> P. I. p. 157. ed. XIII.\nAnimalis, a se diligenter observati, descri-\nptionem dederunt HASSELQUIST in <i>Itine-</i>\n<i>rar. Palaestinae</i> pag. 277., PALLAS in\n<i>Novis Specieb. Quadruped. ex Glirium</i>\n<i>ordine</i> pag. 277. seqq. et BRUCIUS in <i>Iti-</i>\n<i>ner.</i> P. V. p. 128. seqq. Cum quibus con-ferendus est OEDMANN in den <i>Vermisch-</i>\n<i>ten Sammlungen</i> Fasc. IV. p. 48.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Mus jaculus cauda elongata flocco-</i>\n<i>sa, palmis subpentadactylis, femoribus</i>\n<i>longissimis, brachiis brevissimis</i>, LIN-\nNAEI <i>Systema Naturae</i> P. I. p. 157. ed. XIII.\nAnimalis, a se diligenter observati, descri-\nptionem dederunt HASSELQUIST in <i>Itine-</i>\n<i>rar. Palaestinae</i> pag. 277., PALLAS in\n<i>Novis Specieb. Quadruped. ex Glirium</i>\n<i>ordine</i> pag. 277. seqq. et BRUCIUS in <i>Iti-</i>\n<i>ner.</i> P. V. p. 128. seqq. Cum quibus con-"
+    },
+    {
+     "lang": "lat",
+     "text": "ferendus est OEDMANN in den <i>Vermisch-</i>\n<i>ten Sammlungen</i> Fasc. IV. p. 48."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„<i>Pedes anteriores proxime pone</i>\ncollum, brevissimi, subteretes, subnudi,\nterram numquam attingentes, adeoque ma-\nnuum loco semper sub collo recondit, ut\nvix conspiciantur. — <i>Pedibus solis poste-</i>\n<i>rioribus incedit, adeoque saliendo ambu-</i>\n<i>lat</i>“. Haec <i>Hasselquist</i> p. 278.",
+   "marker": "(7)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„<i>Pedes anteriores proxime pone</i>\ncollum, brevissimi, subteretes, subnudi,\nterram numquam attingentes, adeoque ma-\nnuum loco semper sub collo recondit, ut\nvix conspiciantur. — <i>Pedibus solis poste-</i>\n<i>rioribus incedit, adeoque saliendo ambu-</i>\n<i>lat</i>“. Haec <i>Hasselquist</i> p. 278."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1684,
+    1331
+   ],
+   [
+    1684,
+    1457
+   ]
+  ],
+  "input_tokens": 3628,
+  "output_tokens": 2602,
+  "cost_usd": 0.0125,
+  "seconds": 18.2
+ }
+}

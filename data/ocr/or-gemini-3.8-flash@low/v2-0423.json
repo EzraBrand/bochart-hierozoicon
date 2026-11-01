@@ -1,0 +1,477 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. sed majoris muris genus. 423",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. sed majoris muris genus. 423"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "stris instruif, quarum una vocatur naphika, alia kafia, et rahita. A quibus, si\nimpetatur, exit per naphikam. Et, si a naphika impetatur, exit per kafiam;\naut per rahitam, si a kafia. Quomodo de mure nostro Plautus in Truculento\nActu quarto,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "stris instruif, quarum una vocatur "
+    },
+    {
+     "lang": "translit",
+     "text": "naphika"
+    },
+    {
+     "lang": "lat",
+     "text": ", alia "
+    },
+    {
+     "lang": "translit",
+     "text": "kafia"
+    },
+    {
+     "lang": "lat",
+     "text": ", et "
+    },
+    {
+     "lang": "translit",
+     "text": "rahita"
+    },
+    {
+     "lang": "lat",
+     "text": ". A quibus, si\n"
+    },
+    {
+     "lang": "lat",
+     "text": "impetatur, exit per "
+    },
+    {
+     "lang": "translit",
+     "text": "naphikam"
+    },
+    {
+     "lang": "lat",
+     "text": ". Et, si a "
+    },
+    {
+     "lang": "translit",
+     "text": "naphika"
+    },
+    {
+     "lang": "lat",
+     "text": " impetatur, exit per "
+    },
+    {
+     "lang": "translit",
+     "text": "kafiam"
+    },
+    {
+     "lang": "lat",
+     "text": ";\n"
+    },
+    {
+     "lang": "lat",
+     "text": "aut per "
+    },
+    {
+     "lang": "translit",
+     "text": "rahitam"
+    },
+    {
+     "lang": "lat",
+     "text": ", si a "
+    },
+    {
+     "lang": "translit",
+     "text": "kafia"
+    },
+    {
+     "lang": "lat",
+     "text": ". Quomodo de mure nostro Plautus in Truculento\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Actu quarto,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Cogitato, mus pusillus quam sit sapiens bestia,\nAetatem qui uni cubili nunquam committit suam:\nQuia si unum ostium obsideatur, aliud perfugium gerit (^{b)}).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cogitato, mus pusillus quam sit sapiens bestia,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Aetatem qui uni cubili nunquam committit suam:\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Quia si unum ostium obsideatur, aliud perfugium gerit "
+    },
+    {
+     "lang": "lat",
+     "text": "(^{b)}).\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et aliud comminisci dicitur aljarbuo. Fenestras, aut foramina sua verius,\nquandoque terra obducit in summa superficie, ne extrinsecus appareant (^{10)}).\nId Arabice دم damma dicitur. Alcamus, دم اليربوع حجره غطاه\nوسواه Damma aljarbuo latibulum suum, id est, texit istud et complanavit. Un-\nde et latibulo دممة dumama nomen. Idem Alcamus, الدممة حجرة\nواليربوع وتراب يجمعه اليربوع ويخرجه من الحجر\nفيسوي به بابه Dumama, latibulum aljarbui, et terra, quam colligit\net e latibulo suo effodit, ut ea complanet ejus aditum. Proinde ut نافقا na-\nphika dicitur ejus latibuli foramen, terra obtectum, inde sumta metaphora نافق\nnaphaka, verbum tertiae Conjugationis, est in religione dissimulare, et aliud ore\nprofiteri, aliud habere in animo reconditum. Et منافق munaphik est hypo-\ncrita. Damir, ظاهر بيته تراب وباطنه حفر وكذلك\nالمنافق ظاهره ايمان وباطنه كفر Pars exterior domus\nejus terra est, sed interior est concava. Hypocrita itidem fidem habet extrinsecus,\nsed intrinsecus infidelitatem. Algiahid, et alii, واسم المنافق لم يكن\nفي الجاهلية لكن لمن اسر الكفر واظهر الايمان\nNomen munaphik non erit in Ethnicismo, sed de eo (dicitur), qui celat infidelita-\ntem, et ostentat fidem. Albazi, تعالي اشتق له هذا الاسم من\nهذا الاصل وهو من نافقا اليربوع لانه لما ابطن الكفر ⟦p. 1013⟧\nواظهر الايمان Excelsus Deus hypocritae nomen derivavit ex ista radice,\nnempe ex naphika, seu foramine muris, aljarbuo dicti; quia intus est infidelitas,\net extra fides. Haec et alia plura Arabes in Azoaram Alcorani LXXIII. cui titu-\nlus المنافقون hypocritae. In Alcamus nidus hujus animalis vocatur لغز",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et aliud comminisci dicitur "
+    },
+    {
+     "lang": "translit",
+     "text": "aljarbuo"
+    },
+    {
+     "lang": "lat",
+     "text": ". Fenestras, aut foramina sua verius,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "quandoque terra obducit in summa superficie, ne extrinsecus appareant (^{10)}).\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Id Arabice "
+    },
+    {
+     "lang": "ara",
+     "text": "دم"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "damma"
+    },
+    {
+     "lang": "lat",
+     "text": " dicitur. Alcamus, "
+    },
+    {
+     "lang": "ara",
+     "text": "دم اليربوع حجره غطاه"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "وسواه"
+    },
+    {
+     "lang": "lat",
+     "text": " Damma aljarbuo latibulum suum, id est, texit istud et complanavit. Un-\n"
+    },
+    {
+     "lang": "lat",
+     "text": "de et latibulo "
+    },
+    {
+     "lang": "ara",
+     "text": "دممة"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "dumama"
+    },
+    {
+     "lang": "lat",
+     "text": " nomen. Idem Alcamus, "
+    },
+    {
+     "lang": "ara",
+     "text": "الدممة حجرة"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "واليربوع وتراب يجمعه اليربوع ويخرجه من الحجر"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "فيسوي به بابه"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "Dumama"
+    },
+    {
+     "lang": "lat",
+     "text": ", latibulum aljarbui, et terra, quam colligit\n"
+    },
+    {
+     "lang": "lat",
+     "text": "et e latibulo suo effodit, ut ea complanet ejus aditum. Proinde ut "
+    },
+    {
+     "lang": "ara",
+     "text": "نافقا"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "na-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "phika"
+    },
+    {
+     "lang": "lat",
+     "text": " dicitur ejus latibuli foramen, terra obtectum, inde sumta metaphora "
+    },
+    {
+     "lang": "ara",
+     "text": "نافق"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "translit",
+     "text": "naphaka"
+    },
+    {
+     "lang": "lat",
+     "text": ", verbum tertiae Conjugationis, est in religione dissimulare, et aliud ore\n"
+    },
+    {
+     "lang": "lat",
+     "text": "profiteri, aliud habere in animo reconditum. Et "
+    },
+    {
+     "lang": "ara",
+     "text": "منافق"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "munaphik"
+    },
+    {
+     "lang": "lat",
+     "text": " est hypo-\n"
+    },
+    {
+     "lang": "lat",
+     "text": "crita. Damir, "
+    },
+    {
+     "lang": "ara",
+     "text": "ظاهر بيته تراب وباطنه حفر وكذلك"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "المنافق ظاهره ايمان وباطنه كفر"
+    },
+    {
+     "lang": "lat",
+     "text": " Pars exterior domus\n"
+    },
+    {
+     "lang": "lat",
+     "text": "ejus terra est, sed interior est concava. Hypocrita itidem fidem habet extrinsecus,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "sed intrinsecus infidelitatem. Algiahid, et alii, "
+    },
+    {
+     "lang": "ara",
+     "text": "واسم المنافق لم يكن"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "في الجاهلية لكن لمن اسر الكفر واظهر الايمان"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Nomen munaphik non erit in Ethnicismo, sed de eo (dicitur), qui celat infidelita-\n"
+    },
+    {
+     "lang": "lat",
+     "text": "tem, et ostentat fidem. Albazi, "
+    },
+    {
+     "lang": "ara",
+     "text": "تعالي اشتق له هذا الاسم من"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "هذا الاصل وهو من نافقا اليربوع لانه لما ابطن الكفر"
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1013⟧\n"
+    },
+    {
+     "lang": "ara",
+     "text": "واظهر الايمان"
+    },
+    {
+     "lang": "lat",
+     "text": " Excelsus Deus hypocritae nomen derivavit ex ista radice,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "nempe ex naphika, seu foramine muris, aljarbuo dicti; quia intus est infidelitas,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "et extra fides. Haec et alia plura Arabes in Azoaram Alcorani LXXIII. cui titu-\n"
+    },
+    {
+     "lang": "lat",
+     "text": "lus "
+    },
+    {
+     "lang": "ara",
+     "text": "المنافقون"
+    },
+    {
+     "lang": "lat",
+     "text": " hypocritae. In Alcamus nidus hujus animalis vocatur "
+    },
+    {
+     "lang": "ara",
+     "text": "لغز"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "logoz,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "logoz,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "al. <i>erit</i>.",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "al. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>erit</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Hanc animalis solertiam testantur quoque recentiores, vid. <i>Oedmann</i>. IV, pag.\n53. 54.",
+   "marker": "(10)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hanc animalis solertiam testantur quoque recentiores, vid. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Oedmann</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ". IV, pag.\n53. 54."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2096,
+    1508
+   ],
+   [
+    2096,
+    1324
+   ]
+  ],
+  "input_tokens": 3654,
+  "output_tokens": 3046,
+  "cost_usd": 0.0142,
+  "seconds": 16.9
+ }
+}
