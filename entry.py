@@ -40,11 +40,17 @@ SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # gold text too (p. 410).
 FIXES = {
     410: [("מעלה\nגרה,", "מעלה")],
+    # Ethiopic and Samaritan, read by Claude at 4-6x (02-Nov-2026; not by a reader of these scripts):
+    # ለጊሔ፡ fits Bochart's "legiche"; the Samaritan, Bochart's "taphsa", read ט פ ס ה (the ה not sure)
+    412: [("ሰጊሔ፡", "ለጊሔ፡"), ("<i>Samaritano</i> [?] <i>taphsa", "<i>Samaritano</i> ࠈࠐࠎࠄ <i>taphsa")],
     414: [("con-\nstanter", "con-")],
     # the catchword "rias" (printer's error for "riae", p. 419's first word)
-    418: [("<i>Histo-\nriae</i> ⟦p. 1009⟧", "<i>Histo-</i> ⟦p. 1009⟧")],
+    # ኮሮገሬሊወን፡ (choerogryllion): seven signs before the colon, Opus had six; 3rd and 4th not sure
+    418: [("<i>Histo-\nriae</i> ⟦p. 1009⟧", "<i>Histo-</i> ⟦p. 1009⟧"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡")],
     421: [("يناقده\nاليه", "يناقده")],
 }
+# the same foreign-script corrections, for an English translation made before them (translate.finish)
+SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]
 NOTE_MARK = re.compile(r"\^\{(\(\d+\)|[a-z]\))\}")
 MARGIN = re.compile(r"⟦p\. (\d+)⟧")
 FOOTNOTE = re.compile(r"^(\(\d+\)|[a-z]\))\s")

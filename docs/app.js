@@ -2,9 +2,9 @@
   var store={get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},
              set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
   document.querySelectorAll('[data-toggle]').forEach(function(box){
-    var cls=box.getAttribute('data-toggle'), saved=store.get('bh-'+cls);
+    var cls=box.getAttribute('data-toggle'), saved=store.get('bh2-'+cls);
     if(saved!==null) box.checked = saved==='1';
-    var apply=function(){document.body.classList.toggle(cls, box.checked); store.set('bh-'+cls, box.checked?'1':'0');};
+    var apply=function(){document.body.classList.toggle(cls, box.checked); store.set('bh2-'+cls, box.checked?'1':'0');};
     box.addEventListener('change', apply); apply();
   });
   var th=document.getElementById('theme');

@@ -242,12 +242,12 @@ three gold pages: Opus 0.2%, Flash 6.6% (mostly order), MDZ 8.6%.
 - Page joins: 20 "continue", 2 "break" (pp. 417→418, 427→428); to check by eye at the join step.
 
 **New scripts and problems found:**
-- **Ethiopic** (not in the plan): p. 412 ለጊሔ፡ *legiche* (Opus: ሰጊሔ፡, wrong first sign) and p. 418
-  the Ethiopic Pentateuch's word for χοιρογρύλλιον (seven signs in the print, six in Opus's
-  ኮርገሊሎን፡; not read by me). Ethiopic needs a reader who knows it, or a transliteration
-  check against Bochart's own (*legiche*, *choerogryllion*).
-- **Samaritan:** p. 412, one word (*taphsa*), Opus `[?]`. R: Samaritan Unicode (U+0800–083F) and
-  Hebrew letters in brackets in code, as for Syriac; to be read by hand.
+- **Ethiopic** (not in the plan), corrected in `entry.FIXES` (02-Nov-2026, read by Claude at 4–6×,
+  not by a reader of Ethiopic): p. 412 ለጊሔ፡ *legiche* (Opus: ሰጊሔ፡); p. 418 ኮሮገሬሊወን፡
+  *choerogryllion*, seven signs (Opus had six: ኮርገሊሎን፡; the 3rd and 4th signs not sure).
+- **Samaritan:** p. 412, Bochart's *taphsa*, Opus `[?]`: read ࠈࠐࠎࠄ (ט פ ס ה; the last letter not
+  sure). The English gets Hebrew letters in brackets by code, as for Syriac ([טפסה]).
+- Both corrections are copied into the English without a model call (`entry.SCRIPT_SYNC`).
 - **p. 416, damaged scan:** the right edge of the last 8 lines is smeared in the MDZ scan. Opus
   filled the line ends from context ("Aben-", "regione", "occidentalem", "colligi"), against the
   prompt's "[?]" rule; Flash and MDZ read other things (the last word: Opus `po[?]`, Flash

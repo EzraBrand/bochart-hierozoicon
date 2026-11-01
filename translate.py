@@ -155,8 +155,18 @@ def syriac_to_hebrew(run: str) -> str:
     return " ".join(words)
 
 
+SAMARITAN_TO_HEBREW = dict(zip("ࠀࠁࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋࠌࠍࠎࠏࠐࠑࠒࠓࠔࠕ", "אבגדהוזחטיכלמנסעפצקרשת"))
+SAMARITAN_RUN = re.compile(r"[ࠀ-ࠕ][ࠀ-࠿]*")
+
+
 def add_hebrew_letters(text: str) -> str:
-    return SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
+    text = SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
+    return SAMARITAN_RUN.sub(lambda m: f"{m.group(0)} [{samaritan_to_hebrew(m.group(0))}]", text)
+
+
+def samaritan_to_hebrew(word: str) -> str:
+    h = "".join(SAMARITAN_TO_HEBREW.get(c, "") for c in word)
+    return h[:-1] + FINALS[h[-1]] if len(h) > 1 and h[-1] in FINALS else h
 
 
 ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
@@ -232,6 +242,11 @@ def finish(cfg: dict, out: Path) -> None:
     la = json.loads((out / "la.json").read_text(encoding="utf-8"))
     en_main, en_notes = raw["main"], raw["notes"]
     n = restore_marks(la["main"], en_main) + restore_marks(la["notes"], en_notes)
+    # corrections of foreign-script words made after the translation (entry.FIXES): copied into the
+    # English, where the word stands untranslated (a Latin word around it is matched by the next step)
+    for old, new in entry.SCRIPT_SYNC:
+        for b in en_main + en_notes:
+            b["text"] = b["text"].replace(old, new)
     for b in en_main + en_notes:
         b["text"] = unnest_italics(add_hebrew_letters(modern_citations(b["text"])))
     label_notes(en_main, en_notes)

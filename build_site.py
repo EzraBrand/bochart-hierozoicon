@@ -45,7 +45,11 @@ CONTENTS = []
 
 RTL_OR_GREEK = r"[ࠀ-࠿ሀ-᎟֐-׿יִ-ﭏ؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿܀-ݏͰ-Ͽἀ-῿]"
 _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and footnote marks
-RUN = re.compile(rf"({RTL_OR_GREEK}{_TAIL}(?:\s+{RTL_OR_GREEK}{_TAIL})*)(\s\[(?!=)([^\]]+)\])?")
+# a run stays within one script ("השפן ኮሮገሬሊወን፡" on p. 418 is two runs: Hebrew RTL, Ethiopic LTR)
+_SCRIPTS = [r"[֐-׿יִ-ﭏ]", r"[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]",
+            r"[܀-ݏ]", r"[Ͱ-Ͽἀ-῿]", r"[ሀ-᎟]", r"[ࠀ-࠿]"]
+_RUNS = "|".join(rf"{c}{_TAIL}(?:\s+{c}{_TAIL})*" for c in _SCRIPTS)
+RUN = re.compile(rf"((?:{_RUNS}))(\s\[(?!=)([^\]]+)\])?")
 import abbrev  # noqa: E402  (the whole abbreviation, e.g. "B. Kama", gets the tooltip, not only "Kama")
 _ABBRS = "|".join(re.escape(r["abbr"]) for r in sorted(abbrev.items(), key=lambda r: -len(r["abbr"])))
 # a name with an identification ("R. Isaac, son of Solomon [=...]") gets the tooltip as a whole
@@ -216,8 +220,8 @@ def header(active: str) -> str:
 
 TOGGLES = """<div class="toggles" role="group" aria-label="Display">
 <label><input type="checkbox" data-toggle="show-de" checked> Latin</label>
-<label><input type="checkbox" data-toggle="show-exp"> Identifications inline</label>
-<label><input type="checkbox" data-toggle="show-tr"> Transliterations inline</label>
+<label><input type="checkbox" data-toggle="show-exp" checked> Identifications inline</label>
+<label><input type="checkbox" data-toggle="show-tr" checked> Transliterations inline</label>
 </div>"""
 
 
@@ -581,9 +585,9 @@ JS = """(function(){
   var store={get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},
              set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
   document.querySelectorAll('[data-toggle]').forEach(function(box){
-    var cls=box.getAttribute('data-toggle'), saved=store.get('bh-'+cls);
+    var cls=box.getAttribute('data-toggle'), saved=store.get('bh2-'+cls);
     if(saved!==null) box.checked = saved==='1';
-    var apply=function(){document.body.classList.toggle(cls, box.checked); store.set('bh-'+cls, box.checked?'1':'0');};
+    var apply=function(){document.body.classList.toggle(cls, box.checked); store.set('bh2-'+cls, box.checked?'1':'0');};
     box.addEventListener('change', apply); apply();
   });
   var th=document.getElementById('theme');
