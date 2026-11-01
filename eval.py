@@ -1,7 +1,8 @@
 """Character error rate (CER) of each OCR engine against hand-corrected gold pages.
 
   uv run eval.py                                   # table for all gold pages, all engines
-  uv run eval.py draft 68 --from "or-claude-opus-5.5@low+ital"   # start a gold page from one engine's output
+  uv run eval.py --pages v2-0422 --loose          # some gold pages; without margin marks and note-mark wrappers
+  uv run eval.py draft v2-0422 --from "or-claude-opus-5.5@low"   # start a gold page from one engine's output
 
 Gold format: data/gold/{page}.txt, UTF-8 plain text, one block per paragraph, blocks
 separated by a blank line, printed line breaks kept, a footnote starts with its mark ("*) ...").
@@ -12,6 +13,10 @@ CER = edit distance / gold length, after normalizing: Unicode NFC, bidi control 
 all whitespace runs (spaces and line breaks) collapsed to one space. Per script, each gold
 character's errors count for that character's script; an inserted character counts for the
 script of the gold character next to it.
+
+--loose also removes the margin column marks (⟦p. 1001⟧) and the ^{...} / _{...} wrappers (the
+text inside stays), so an engine without these conventions (the MDZ hOCR) is scored on the text.
+Ported from lewysohn-zoologie.
 """
 
 import argparse
@@ -45,8 +50,15 @@ def script(ch: str) -> str:
     return "common"
 
 
+MARGIN = re.compile(r"⟦[^⟧]*⟧")
+WRAP = re.compile(r"[\^_]\{([^}]*)\}")
+LOOSE = False
+
+
 def norm(text: str) -> str:
     text = ITALIC.sub("", BIDI.sub("", unicodedata.normalize("NFC", text)))
+    if LOOSE:
+        text = WRAP.sub(r"\1", MARGIN.sub("", text))
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -72,8 +84,12 @@ def cer(gold: str, hyp: str) -> dict[str, list[int]]:
     return stats
 
 
-def cmd_table(_):
+def cmd_table(a):
+    global LOOSE
+    LOOSE = a.loose
     golds = sorted(g for g in (DATA / "gold").glob("*.txt") if not g.name.endswith(".draft.txt"))
+    if a.pages:
+        golds = [g for g in golds if g.stem in a.pages]
     if not golds:
         sys.exit("no gold pages in data/gold/ yet (see: uv run eval.py draft --help)")
     engines = sorted(p.name for p in (DATA / "ocr").iterdir() if not p.name.startswith("_"))
@@ -121,6 +137,8 @@ def main():
     s.add_argument("page", help="page key, e.g. 68")
     s.add_argument("--from", dest="source", required=True, help="engine folder in data/ocr/")
     s.set_defaults(func=cmd_draft)
+    p.add_argument("--pages", nargs="*", help="only these gold pages")
+    p.add_argument("--loose", action="store_true", help="ignore margin marks and ^{}/_{} wrappers")
     p.set_defaults(func=cmd_table)
     a = p.parse_args()
     a.func(a)

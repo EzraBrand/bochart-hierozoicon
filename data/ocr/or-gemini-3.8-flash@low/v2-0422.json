@@ -1,0 +1,141 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "422<i>Probatur,</i> שפן <i>non esse Cuniculum,</i>L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "422"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>non esse Cuniculum,</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "اليه واذا كان فيها يكون بيتها في مكان مشرف\nاو علي صخرة ينظر الي الطريق من كل ناحية\nفان راي ما يخافه صر باسنانه وصوت فاذا سمعته\nانصرفت الي حجرتها فان قصر الرييس حتي ادركهم\nاحد وصاد منهم شيا اجتمعوا علي الرييس وقتلوا وولوا\nغيره <i>Est ille mus e numero animalium, quae ducem habent, quem colant, cuique\nobsequantur. Qui cum est inter eos, quorum domus est in sublimi loco, aut super\npetram, inde in viam ab omni parte prospicit. Et, si videat aliquid, unde sit me-\ntus, dentibus stridet et clamat: quo audito, illi secedunt ad latibula sua. At, si\nse contineat, donec eos assequatur aliquis, aut e numero suo aliquem intercipiat,\nconjuratione contra ducem inita, eum interficiunt, aliumque illi substituunt.</i> De\neodem animali si plura desideras, audi reliqua <i>Damiris:</i> ويسمي الدرص\nوذو الرماح ورماحه ذنبه وله ذنب كذنب الجرذ\nيرفعه صعدا في طرفه شبه النوارة ولونه كلون الغزال\n<i>Vocatur etiam dirs et dur-romchi (id est, hastatus); nempe pro hasta caudam ha-\nbet, similem caudae muris, quam sursum tollit: et in extremo est floris species</i> ^{(8)}.\n<i>Color est ut color gazellae, seu capreae</i> ^{(9)}. Sequitur, وهذا الحيوان\nيسكن بطن الارض ليقوم رطوبتها له مقام الما\nواليربوع يتخذ حجرة في نشر من\nالارض ثم يحفر بيته في مهب والرياح الاربع ويتخذ\nفيه كوي وتسمي النافقا والقاصعا والراهطا فاذا\nطلب من احدي هذه الكوي نافق اي خرج من النافقا\nوان طلب من النافقا خرج من القاصعا وان طلب\nمن القاصعا خرج من الراهطا\n<i>Habitat hoc animal in ventre terrae, ut humiditas ejus praestet ipsi locum aquae.</i>\nEt paullo infra,  ⟦p. 1012⟧\n<i>Aljarbuo parat latibulum suum\ndispergendo terram, et domum sibi fodit ad flatus quatuor ventorum, eamque fene-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "اليه واذا كان فيها يكون بيتها في مكان مشرف\nاو علي صخرة ينظر الي الطريق من كل ناحية\nفان راي ما يخافه صر باسنانه وصوت فاذا سمعته\nانصرفت الي حجرتها فان قصر الرييس حتي ادركهم\nاحد وصاد منهم شيا اجتمعوا علي الرييس وقتلوا وولوا"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "ara",
+     "text": "غيره"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Est ille mus e numero animalium, quae ducem habent, quem colant, cuique\nobsequantur. Qui cum est inter eos, quorum domus est in sublimi loco, aut super\npetram, inde in viam ab omni parte prospicit. Et, si videat aliquid, unde sit me-\ntus, dentibus stridet et clamat: quo audito, illi secedunt ad latibula sua. At, si\nse contineat, donec eos assequatur aliquis, aut e numero suo aliquem intercipiat,\nconjuratione contra ducem inita, eum interficiunt, aliumque illi substituunt.</i> De\neodem animali si plura desideras, audi reliqua <i>Damiris:</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "ويسمي الدرص\nوذو الرماح ورماحه ذنبه وله ذنب كذنب الجرذ\nيرفعه صعدا في طرفه شبه النوارة ولونه كلون الغزال"
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>Vocatur etiam dirs et dur-romchi (id est, hastatus); nempe pro hasta caudam ha-\nbet, similem caudae muris, quam sursum tollit: et in extremo est floris species</i> ^{(8)}.\n<i>Color est ut color gazellae, seu capreae</i> ^{(9)}. Sequitur, "
+    },
+    {
+     "lang": "ara",
+     "text": "وهذا الحيوان\nيسكن بطن الارض ليقوم رطوبتها له مقام الما\nواليربوع يتخذ حجرة في نشر من\nالارض ثم يحفر بيته في مهب والرياح الاربع ويتخذ\nفيه كوي وتسمي النافقا والقاصعا والراهطا فاذا\nطلب من احدي هذه الكوي نافق اي خرج من النافقا\nوان طلب من النافقا خرج من القاصعا وان طلب\nمن القاصعا خرج من الراهطا"
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>Habitat hoc animal in ventre terrae, ut humiditas ejus praestet ipsi locum aquae.</i>\nEt paullo infra, "
+    },
+    {
+     "lang": "lat",
+     "text": " ⟦p. 1012⟧\n"
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Aljarbuo parat latibulum suum\ndispergendo terram, et domum sibi fodit ad flatus quatuor ventorum, eamque fene-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>stris</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>stris</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„<i>Cauda obsolete quadrangularis, ae-\nqualis, longissima (corpore triplo longior),\npilis brevissimis rigidis tecta, extreme spa-\ntio trium digitorum pilis longis molliuscu-\nlis distinctis obsita</i>“. <i>Hasselquist</i> p. 279. qua pars et abdomen candida. Pili candidi\nin arculum dispositi, corpus proxime supra\ncaudam terminant. Cauda pallide fusca.\nPars extrema caudae, quae maxime pilosa,\nsupra extremitatem nigra, extremo vero\napice candida. Auriculae et pedes coloris\ncarnei“. <i>Hasselquist ibid.</i>",
+   "marker": "(8)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„<i>Cauda obsolete quadrangularis, ae-\nqualis, longissima (corpore triplo longior),\npilis brevissimis rigidis tecta, extreme spa-\ntio trium digitorum pilis longis molliuscu-\nlis distinctis obsita</i>“. <i>Hasselquist</i> p. 279."
+    },
+    {
+     "lang": "lat",
+     "text": " qua pars et abdomen candida. Pili candidi\nin arculum dispositi, corpus proxime supra\ncaudam terminant. Cauda pallide fusca.\nPars extrema caudae, quae maxime pilosa,\nsupra extremitatem nigra, extremo vero\napice candida. Auriculae et pedes coloris\ncarnei“. <i>Hasselquist ibid.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„<i>Color capitis, corporis usque ad\nmedia latera pallide fuscus. Laterum reli-</i>",
+   "marker": "(9)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„<i>Color capitis, corporis usque ad\nmedia latera pallide fuscus. Laterum reli-</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1812,
+    1411
+   ],
+   [
+    1812,
+    1393
+   ]
+  ],
+  "input_tokens": 3645,
+  "output_tokens": 2706,
+  "cost_usd": 0.0129,
+  "seconds": 13.4
+ }
+}

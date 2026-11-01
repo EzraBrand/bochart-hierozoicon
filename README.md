@@ -11,7 +11,15 @@ claim 7 (hyrax/shafan).
 
 ## Status (01-Nov-2026)
 
-Step 1 of the pilot: scans, manifest, the MDZ OCR layer and a note on the layout. No model OCR yet.
+| Step | Status |
+|---|---|
+| 1. Scans, manifest, MDZ OCR layer, layout note | done |
+| 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; **gold pages wait for your check** |
+| 3. Translation rules for Latin | next |
+
+Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
+from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
+Arabic is transcribed as printed (see Gold rules).
 
 ## Source
 
@@ -50,7 +58,18 @@ p. 422, p. 1017 on p. 429).
 py -3.13 fetch.py list --vol 2 --from 420 --to 450    # canvas, label, image id
 py -3.13 fetch.py sample                              # pilot scans + hOCR + data/raw/manifest.json
 uv run mdz_ocr.py                                     # hOCR -> data/ocr/mdz/{page}.json/.md
+
+uv run ocr.py v2-0409 v2-0422 v2-0428 --model anthropic/claude-opus-5.5 --effort low
+uv run ocr.py v2-0409 v2-0422 v2-0428 --model anthropic/claude-sonnet-5.5 --effort low
+uv run ocr.py v2-0409 v2-0422 v2-0428 --model google/gemini-3.8-flash --effort low
+uv run diffwords.py v2-0422 --main "or-claude-opus-5.5@low"   # words where the engines differ
+uv run eval.py draft v2-0422 --from "or-claude-opus-5.5@low"  # start a gold page
+uv run eval.py --loose                                        # CER table (--loose: see eval.py)
 ```
+
+`ocr.py` sends a page as two images (top and bottom half) when one image would be over the API's
+pixel limit, so the Arabic dots and vowel signs reach the model at full resolution. Parallel
+workers: `--start N --stride M`.
 
 Page keys: `v2-0409` (volume, printed page); `v2-scan0005` for an unnumbered page.
 
@@ -124,9 +143,72 @@ So the MDZ text is a fair first reading of the Latin, Greek and plain Arabic, an
 second reader for the Arabic (as Gemini Flash was for the Hebrew in Lewysohn). It cannot be the
 main OCR: no italics, no Syriac, no note structure.
 
-**A question for the gold rules:** the print has its own dot errors in the Arabic (p. 422 line 23:
-مقام is printed with the dot of غ). Lewysohn's rule was "as printed". For Arabic I propose the
-same, with a list of printer's errors for the translation step.
+(Correction, 01-Nov-2026: step 1 said that مقام on p. 422 is printed with the dot of غ. At 2× it
+has the two dots of ق; this type sets the dots of medial ق close together. Not a printer's error.)
+
+## Gold rules
+
+The same as the OCR prompt in `ocr.py`. In short: as printed, never corrected; long s → s; type
+ligatures as plain letters (Greek ȣ → ου); italics as `<i>`; one line per printed line; margin
+column numbers as `⟦p. 1001⟧` at the end of their line; note marks `^{(13)}` (Rosenmüller) and
+`^{c)}` (Bochart); notes after the text, the left note column before the right one.
+
+**Arabic as printed:** the letters and dots of the print, vowel signs only where printed, no
+added hamza, no tatweel. Where the print differs from the expected Arabic, the gold keeps the print
+and the difference goes into a list of printer's errors for the translation step (none found so
+far for certain; see p. 428 below). One limit: in this type the **isolated forms of د/ذ are a cup,
+like ن** (ذ = cup with a dot, the same as ن). There the gold follows the word (وذو, ذنبه), and
+only the presence or absence of a dot is "as printed" (الجرد, no dot).
+
+## Results of the OCR test (pp. 409, 422, 428; 01-Nov-2026)
+
+Gold pages: [v2-0422](data/gold/v2-0422.txt) (Arabic) and [v2-0428](data/gold/v2-0428.txt)
+(Greek, Syriac, vowelled Arabic, two-column notes), drafted from the Opus output and corrected
+where any engine disagreed, each case read on the scan at 2–4×. **Not yet checked by you.** p. 409
+has no gold page; its differences were read on the scan too.
+
+CER (`eval.py --loose`, both gold pages; Latin script includes the transliterations):
+
+| Engine | $/page | s/page | all | Latin | Greek | Hebrew | Arabic | Syriac | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| Opus 5.5 @low | 0.086 | 30 | **0.3%** | 0.1% | 1.1% | 0% | 1.1% | 0% | right reading order, notes and margin numbers on all 3 pages |
+| Sonnet 5.5 @low | 0.041 | 16 | 4.4% | 2.1% | 0.7% | 0% | 8.1% | 6.2% | p. 422: the two note columns mixed, margin number dropped; dropped the vowel signs in note (13) |
+| Gemini 3.8 Flash @low | 0.011 | 18 | 10.3% | 7.9% | 0.4% | 0% | 2.5% | 0% | p. 422: the mixed Arabic–Latin lines in the wrong order; notes mixed; margin number lost |
+| MDZ hOCR | free | — | 9.1% | 6.8% | 3.5% | 58% | 27% | 100% | see above |
+| (gold characters) | | | 4,875 | 3,009 | 285 | 19 | 557 | 16 | |
+
+The high Latin CER of Sonnet and Flash is mostly text in the wrong place (note columns, line
+order), not misread letters. **Hebrew is barely tested** (19 characters); a Hebrew-heavy page
+(p. 410 or 415) needs a gold page before the full run.
+
+**Opus's errors** (all 13 cases on the three pages; every one checked on the scan):
+
+| Page | Print | Opus | Others |
+|---|---|---|---|
+| 409 | `CAP. XXXIII.` (twice) | `XXXIIII` | Sonnet, Flash right |
+| 409 | اليربوع | الجربوع | Sonnet, Flash, MDZ right |
+| 422 | وذو (cup-shaped ذ) | ذو (و dropped) | Flash, MDZ right |
+| 422 | ويسمى | ويسمي | all wrong (MDZ too) |
+| 422 | ادركهم | اسركهم | Flash, MDZ right |
+| 422 | الجرد (no dot) | الجرذ | MDZ right |
+| 422 | نشر | نشز | Sonnet, Flash, MDZ right |
+| 428 | `ficet` (signi-ficet, note from p. 427) | `licet` | Sonnet, MDZ right |
+| 428 | ὕραξ (twice) | ὗραξ | all others right |
+| 428 | μῦες | μύες | Sonnet, Flash right |
+| 428 | `causa` (long s) | `caussa` | Sonnet, MDZ right |
+| 428 | أَلشَّعْنُ (no dot on ع) | أَلشَّغْنُ | Sonnet, MDZ: right letters, no vowel signs (Flash: ف) |
+| 428 | `Bochartus,` | `Bochartus.` | MDZ right |
+
+Most of them **"correct" the print toward an expected form**: the better Arabic word (نشز
+"raised ground", الجرذ "rat"), the classical spelling (caussa), the dictionary accent (ὗραξ). This
+is the same kind of error as Opus's plausible Hebrew words in Lewysohn, so the second-reading step
+is needed here for **every script, Latin included**. Opus got right what the others missed: the
+ου ligature (Δίπους; all others Δίπες), ἁλτικὸν, οἳ, "Petrae" (MDZ and Flash: "Patrae"), the
+Syriac ܚܓܝܣܐ (Sonnet: ܚܓܝܫܐ), the vowelled Arabic in the notes.
+
+**A literal second reader:** the MDZ layer does not "correct": on p. 422 it reads 4 of Opus's 5
+Arabic errors right (Flash: 3 of 5). As a second reader it is free, but it also has many errors of
+its own (long s, ȣ → ε, Syriac dropped), so it can only flag, and a judge decides (as in Lewysohn).
 
 ## License
 

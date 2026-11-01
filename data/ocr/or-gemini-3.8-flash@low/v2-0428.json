@@ -1,0 +1,329 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "428\tProbatur, שפן <i>esse majoris muris genus.</i>\tL. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "428\tProbatur, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>esse majoris muris genus.</i>\tL. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Supereft, ut varia hujus animalis nomina explicare conemur. <i>Hebraice</i>\nשפן <i>saphan</i> per <i>Sin</i> dici videtur pro ספן <i>saphan</i>, per <i>Samech</i>, tanquam <i>a tegen-</i>\n<i>do;</i> quia latibuli sui foramina terra obtegit, ut abunde docuimus. Vel pro צפן\n<i>tsaphan</i>, per <i>Tsade</i>, tanquam a <i>delitescendo;</i> quia ibi sub terra latet, et ex ho-\nminum conspectu se subtrahit (^{(13)}). Idem <i>Arabice</i> اليربوع <i>aljarbuo</i>, quasi\n<i>quaternarius</i> appellatur; quia domum sibi fodit في مهب الرياح الاربع",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Supereft, ut varia hujus animalis nomina explicare conemur. <i>Hebraice</i>\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i> per <i>Sin</i> dici videtur pro "
+    },
+    {
+     "lang": "heb",
+     "text": "ספן"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>saphan</i>, per <i>Samech</i>, tanquam <i>a tegen-</i>\n<i>do;</i> quia latibuli sui foramina terra obtegit, ut abunde docuimus. Vel pro "
+    },
+    {
+     "lang": "heb",
+     "text": "צפן"
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>tsaphan</i>, per <i>Tsade</i>, tanquam a <i>delitescendo;</i> quia ibi sub terra latet, et ex ho-\nminum conspectu se subtrahit (^{(13)}). Idem <i>Arabice</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>aljarbuo</i>, quasi\n<i>quaternarius</i> appellatur; quia domum sibi fodit "
+    },
+    {
+     "lang": "ara",
+     "text": "في مهب الرياح الاربع"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>ad flatus quatuor ventorum</i>, ut didicimus ex Arabibus. Et <i>Chaldaice</i> טפזא <i>taph-</i>\n<i>za</i>, <i>a saltu</i>. Murem enim esse ἁλτικὸν, e veteribus nos docent <i>Theophrastus</i>,\n<i>Aelianus</i>, <i>Photius</i>, e recentioribus <i>Alcamus</i>, <i>Teixeira</i>, <i>Olearius</i>. <i>Syrum</i>\nܚܓܣ <i>chagas</i> factum suspicor ex <i>Graeco</i> χοιρογρύλλιος, per compendium ita\nscripto χγς. Vel ܚܓܣ <i>chagas</i> est <i>claudum animal</i>. Syris enim <i>claudus</i>\ntam ܚܓܝܣܐ <i>chagisa</i> dicitur, quam ܚܓܝܪܐ <i>chagira</i>. Claudicare por-\nro videtur hoc animalculum propter pedum inaequalitatem. Dictus ille ipse mus\nχοιρογρύλλιος a <i>porci sagina</i>, aut <i>specie</i>. Nam compositae vocis etiam ultima\npars <i>porcum</i> significat. <i>Hesychius</i>, Γρύλλιος· χοῖρος. Item, Γρυλλίων· ὁ χοῖ-\nρος. Tale, quod ὕραξ, <i>sus</i> Aeolibus, a Nicandro pro <i>mure</i> usurpatur; quia mu-\nres παρεοίκασι χοίροις τῷ ῥάμφει, <i>rostro porcos referunt</i>, ut ibi habet <i>Scholia-</i>\n<i>stes</i>. Et a Graeco ὕραξ deductum <i>sorex</i>. Cur <i>Seniorum</i> χοιρογρύλλιος <i>Hiero-</i>\n<i>nymi</i> aetate vocatus fuerit ἀρκτομῦς, abunde jam explicatum. Nec fine caussa\npro <i>herinaceo</i> est sumtus, si vere scribit <i>Plinius</i>, hoc muris genus herinacii pi-\nlum habere: <i>Aegyptiis</i>, inquit, <i>muribus durus pilus sicut herinaceis; iidem bi-</i>\n<i>pedes ambulant ceu Alpini</i>. Sed is videtur duas murium species sumsisse promi-\nscue. Nam alii distinguunt inter mures δίποδας, et ἐχῖνας, vel ἐχινώδεις.\n<i>Herodotus</i>, Οἱ μὲν δίποδες καλέονταi, οἱ δὲ ζεγέριες, οἱ δὲ ἐχῖνες· <i>Alii quidem</i>\n<i>bipedes appellantur, alii zegeries, et alii echines</i>, nempe ab asperitate pilorum\nechini instar. <i>Aristoteles</i>, Οἱ δὲ ἐν Αἰγύπτῳ μῦες σκληρὰν ἔχουσι τὴν τρίχα,\nὥσπερ οἱ χερσαῖοι ἐχῖνοι. εἰσὶ δὲ καὶ ἕτεροι, οἳ βαδίζουσιν ἐπὶ τοῖς δυσὶ ποσί.\n<i>Aegyptii mures duros habent pilos, ut herinacei terrestres. Sed et ibidem alii bi-</i>\n<i>pedes gradiuntur</i>. Sed quo errore <i>Plinius</i>, eodem Scripturae interpretes muri-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ad flatus quatuor ventorum</i>, ut didicimus ex Arabibus. Et <i>Chaldaice</i> "
+    },
+    {
+     "lang": "arc",
+     "text": "טפזא"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>taph-</i>\n<i>za</i>, <i>a saltu</i>. Murem enim esse "
+    },
+    {
+     "lang": "grc",
+     "text": "ἁλτικὸν"
+    },
+    {
+     "lang": "lat",
+     "text": ", e veteribus nos docent <i>Theophrastus</i>,\n<i>Aelianus</i>, <i>Photius</i>, e recentioribus <i>Alcamus</i>, <i>Teixeira</i>, <i>Olearius</i>. <i>Syrum</i>\n"
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܓܣ"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>chagas</i> factum suspicor ex <i>Graeco</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": ", per compendium ita\nscripto "
+    },
+    {
+     "lang": "grc",
+     "text": "χγς"
+    },
+    {
+     "lang": "lat",
+     "text": ". Vel "
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܓܣ"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>chagas</i> est <i>claudum animal</i>. Syris enim <i>claudus</i>\ntam "
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܓܝܣܐ"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>chagisa</i> dicitur, quam "
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܓܝܪܐ"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>chagira</i>. Claudicare por-\nro videtur hoc animalculum propter pedum inaequalitatem. Dictus ille ipse mus\n"
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": " a <i>porci sagina</i>, aut <i>specie</i>. Nam compositae vocis etiam ultima\npars <i>porcum</i> significat. <i>Hesychius</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Γρύλλιος· χοῖρος"
+    },
+    {
+     "lang": "lat",
+     "text": ". Item, "
+    },
+    {
+     "lang": "grc",
+     "text": "Γρυλλίων· ὁ χοῖ-"
+    },
+    {
+     "lang": "lat",
+     "text": "\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ρος"
+    },
+    {
+     "lang": "lat",
+     "text": ". Tale, quod "
+    },
+    {
+     "lang": "grc",
+     "text": "ὕραξ"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>sus</i> Aeolibus, a Nicandro pro <i>mure</i> usurpatur; quia mu-\nres "
+    },
+    {
+     "lang": "grc",
+     "text": "παρεοίκασι χοίροις τῷ ῥάμφει"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>rostro porcos referunt</i>, ut ibi habet <i>Scholia-</i>\n<i>stes</i>. Et a Graeco "
+    },
+    {
+     "lang": "grc",
+     "text": "ὕραξ"
+    },
+    {
+     "lang": "lat",
+     "text": " deductum <i>sorex</i>. Cur <i>Seniorum</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Hiero-</i>\n<i>nymi</i> aetate vocatus fuerit "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦς"
+    },
+    {
+     "lang": "lat",
+     "text": ", abunde jam explicatum. Nec fine caussa\npro <i>herinaceo</i> est sumtus, si vere scribit <i>Plinius</i>, hoc muris genus herinacii pi-\nlum habere: <i>Aegyptiis</i>, inquit, <i>muribus durus pilus sicut herinaceis; iidem bi-</i>\n<i>pedes ambulant ceu Alpini</i>. Sed is videtur duas murium species sumsisse promi-\nscue. Nam alii distinguunt inter mures "
+    },
+    {
+     "lang": "grc",
+     "text": "δίποδας"
+    },
+    {
+     "lang": "lat",
+     "text": ", et "
+    },
+    {
+     "lang": "grc",
+     "text": "ἐχῖνας"
+    },
+    {
+     "lang": "lat",
+     "text": ", vel "
+    },
+    {
+     "lang": "grc",
+     "text": "ἐχινώδεις"
+    },
+    {
+     "lang": "lat",
+     "text": ".\n<i>Herodotus</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Οἱ μὲν δίποδες καλέονταi, οἱ δὲ ζεγέριες, οἱ δὲ ἐχῖνες·"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Alii quidem</i>\n<i>bipedes appellantur, alii zegeries, et alii echines</i>, nempe ab asperitate pilorum\nechini instar. <i>Aristoteles</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Οἱ δὲ ἐν Αἰγύπτῳ μῦες σκληρὰν ἔχουσι τὴν τρίχα,\nὥσπερ οἱ χερσαῖοι ἐχῖνοι. εἰσὶ δὲ καὶ ἕτεροι, οἳ βαδίζουσιν ἐπὶ τοῖς δυσὶ ποσί."
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>Aegyptii mures duros habent pilos, ut herinacei terrestres. Sed et ibidem alii bi-</i>\n<i>pedes gradiuntur</i>. Sed quo errore <i>Plinius</i>, eodem Scripturae interpretes muri-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "um",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "um"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Aliud etymon offert Arabica diale-\nctus, in qua اَلشَّفْنُ est اَلْكَيِّسُ اَلْعَاقِلُ <i>astutus, solers</i>, interpretante\n<i>Geuhario</i>, cujus verba exhibet SCHULTEN-\nSIUS <i>in Commentar. ad Prov.</i> p. 483. Pa-\ntrocinatur hoc etymon <i>muri iaculo</i>, cujus\n<i>solertiam in parando habitaculo</i> vidimus\nsupra p. 1012.\n",
+   "marker": "(13)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aliud etymon offert Arabica diale-\nctus, in qua "
+    },
+    {
+     "lang": "ara",
+     "text": "اَلشَّفْنُ"
+    },
+    {
+     "lang": "lat",
+     "text": " est "
+    },
+    {
+     "lang": "ara",
+     "text": "اَلْكَيِّسُ"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "ara",
+     "text": "اَلْعَاقِلُ"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>astutus, solers</i>, interpretante\n<i>Geuhario</i>, cujus verba exhibet SCHULTEN-\nSIUS <i>in Commentar. ad Prov.</i> p. 483. Pa-\ntrocinatur hoc etymon <i>muri iaculo</i>, cujus\n<i>solertiam in parando habitaculo</i> vidimus\nsupra p. 1012.\n"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1752,
+    1662
+   ],
+   [
+    1752,
+    1146
+   ]
+  ],
+  "input_tokens": 3665,
+  "output_tokens": 1721,
+  "cost_usd": 0.0092,
+  "seconds": 20.1
+ }
+}

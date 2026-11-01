@@ -1,0 +1,285 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII.   <i>Probatur, </i>שפן<i> effe majoris muris genus.</i>   409",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII.   <i>Probatur, </i>"
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": "<i> effe majoris muris genus.</i>   409"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "buit, feu <i>leporis</i> cognomentum, unde illi omnes <i>Lagidae</i> dicti. Sed quia ⟦p. 1001⟧\n<i>leporis</i> nomen <i>Hebraice</i> foemininum est, id viro competere potuisse non\nputarunt homines, linguae suae potius, quam historiae studiosi.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "buit, feu <i>leporis</i> cognomentum, unde illi omnes <i>Lagidae</i> dicti. Sed quia ⟦p. 1001⟧\n<i>leporis</i> nomen <i>Hebraice</i> foemininum est, id viro competere potuisse non\nputarunt homines, linguae suae potius, quam historiae studiosi."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXXIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXXIII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> שפן<i> saphan non esse Cuniculum, ut volunt, sed\nmajoris Muris genus in Palaestina, Aegypto et Libya,\nqui Herodoto et aliis</i> Δίπες, <i>Senioribus</i> Χοιρογρύλλιος, <i>Hie-\nronymo</i> ᾿Αρκτομῦς, <i>et Arabibus dicitur</i> اليربوع<i> aljarbuo</i>,\n<i>de quo multa, nondum vulgata, ex Arabum scriptis produntur.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": "<i> saphan non esse Cuniculum, ut volunt, sed\nmajoris Muris genus in Palaestina, Aegypto et Libya,\nqui Herodoto et aliis</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "Δίπες"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Senioribus</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "Χοιρογρύλλιος"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Hie-\nronymo</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "᾿Αρκτομῦς"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>et Arabibus dicitur</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "اليربوع"
+    },
+    {
+     "lang": "translit",
+     "text": "<i> aljarbuo</i>"
+    },
+    {
+     "lang": "lat",
+     "text": ",\n<i>de quo multa, nondum vulgata, ex Arabum scriptis produntur.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Levit. XI, 5. et Deut. XIV, 7.</i> in iis animalibus, quae ruminant quidem, sed ⟦p. 1002⟧\nnon habent bifidam ungulam, ac proinde sunt immunda, cum camelo et\nlepore recensetur השפן, ὁ σαφάν. Plurale שפנים<i> sephanim</i> habetur <i>Psal. CIV,\n18. Petra refugium</i> לשפנים, τοῖς σεφανίμ. <i>Et Prov. XXX, 26.</i> שפנים<i> sepha-</i>\n<i>nim</i><i> populus invalidus, ponunt in petra domum suam. Cuniculos</i> explicant pleri-\nque recentiorum. Cui interpretationi in speciem multa favent. 1. Quod bis in\nlege השפן cum הארנבת, id est, cum <i>lepore</i> jungitur, tanquam animal conge-\nner. 2. Quod <i>Psalmi</i> locus, quem modo citavimus, in <i>Graeca</i> editione sic red-\nditur, Πέτρα καταφυγὴ τοῖς λαγωοῖς, <i>Petra refugium leporibus.</i> Quaedam\nexemplaria habent τοῖς χοιρογρυλλίοις, id est, ut volunt, <i>herinaceis.</i> Sed prio-\nrem lectionem sequuntur vetustissimi scriptores. <i>Hieronymus</i> Epistola 135. ad\n<i>Suniam et Fretelam</i>: <i>Omnes</i> χοιρογρυλλίους <i>voce simili transtulerunt: soli</i> LXX. \n<i>lepores interpretati sunt.</i> Ita etiam legerunt <i>Theodoretus</i> Commentario in hunc\nPsalmum, <i>Basilius</i> in <i>Esaiam</i> capite secundo, et <i>Apollinaris</i> in <i>Paraphrasi.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Levit. XI, 5. et Deut. XIV, 7.</i> in iis animalibus, quae ruminant quidem, sed ⟦p. 1002⟧\nnon habent bifidam ungulam, ac proinde sunt immunda, cum camelo et\nlepore recensetur "
+    },
+    {
+     "lang": "heb",
+     "text": "השפן"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "grc",
+     "text": "ὁ σαφάν"
+    },
+    {
+     "lang": "lat",
+     "text": ". Plurale "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "translit",
+     "text": "<i> sephanim</i>"
+    },
+    {
+     "lang": "lat",
+     "text": " habetur <i>Psal. CIV,\n18. Petra refugium</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "לשפנים"
+    },
+    {
+     "lang": "lat",
+     "text": ", "
+    },
+    {
+     "lang": "grc",
+     "text": "τοῖς σεφανίμ"
+    },
+    {
+     "lang": "lat",
+     "text": ". <i>Et Prov. XXX, 26.</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים"
+    },
+    {
+     "lang": "translit",
+     "text": "<i> sepha-</i>\n<i>nim</i>"
+    },
+    {
+     "lang": "lat",
+     "text": "<i> populus invalidus, ponunt in petra domum suam. Cuniculos</i> explicant pleri-\nque recentiorum. Cui interpretationi in speciem multa favent. 1. Quod bis in\nlege "
+    },
+    {
+     "lang": "heb",
+     "text": "השפן"
+    },
+    {
+     "lang": "lat",
+     "text": " cum "
+    },
+    {
+     "lang": "heb",
+     "text": "הארנבת"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, cum <i>lepore</i> jungitur, tanquam animal conge-\nner. 2. Quod <i>Psalmi</i> locus, quem modo citavimus, in <i>Graeca</i> editione sic red-\nditur, "
+    },
+    {
+     "lang": "grc",
+     "text": "Πέτρα καταφυγὴ τοῖς λαγωοῖς"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Petra refugium leporibus.</i> Quaedam\nexemplaria habent "
+    },
+    {
+     "lang": "grc",
+     "text": "τοῖς χοιρογρυλλίοις"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, ut volunt, <i>herinaceis.</i> Sed prio-\nrem lectionem sequuntur vetustissimi scriptores. <i>Hieronymus</i> Epistola 135. ad\n<i>Suniam et Fretelam</i>: <i>Omnes</i> "
+    },
+    {
+     "lang": "grc",
+     "text": "χοιρογρυλλίους"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>voce simili transtulerunt: soli</i> LXX. \n<i>lepores interpretati sunt.</i> Ita etiam legerunt <i>Theodoretus</i> Commentario in hunc\nPsalmum, <i>Basilius</i> in <i>Esaiam</i> capite secundo, et <i>Apollinaris</i> in <i>Paraphrasi.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πέτροις ἠλιβάτοις περιθάρσεες εἰσὶ λαγωοὶ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πέτροις ἠλιβάτοις περιθάρσεες εἰσὶ λαγωοὶ,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Saxis praeruptis fidentes sunt lepores</i>: et <i>Arabica</i> versio, quae ex <i>Graeca</i> est ex-\npressa, <i>Patrae refugium</i> الارانب <i>leporum.</i> Alii utrumque jungunt: ut in\nhunc locum <i>Augustinus</i>, <i>Petra refugium hericiis et leporibus. Arnobius, Ibi\nest petra, praestans refugium sive erinaceorum filiis, etc. sive leporibus. Beda in\nProverbia</i> capite trigesimo, <i>Notandumque, quod in Psalmo, ubi nos canimus:\n„Petra refugium herinaciis, in quibusdam codicibus leporibus, in quibusdam\nchoerogrylliis invenitur“.</i> 3. Hebraea <i>Prov. XXX, 26.</i> שפנים עם לא עצום,\n<i>Vulgatus</i> interpres sic transtulit, <i>Lepusculus plebs invalida,</i> sequutus, nisi fallor,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Saxis praeruptis fidentes sunt lepores</i>: et <i>Arabica</i> versio, quae ex <i>Graeca</i> est ex-\npressa, <i>Patrae refugium</i> "
+    },
+    {
+     "lang": "ara",
+     "text": "الارانب"
+    },
+    {
+     "lang": "lat",
+     "text": " <i>leporum.</i> Alii utrumque jungunt: ut in\nhunc locum <i>Augustinus</i>, <i>Petra refugium hericiis et leporibus. Arnobius, Ibi\nest petra, praestans refugium sive erinaceorum filiis, etc. sive leporibus. Beda in\nProverbia</i> capite trigesimo, <i>Notandumque, quod in Psalmo, ubi nos canimus:\n„Petra refugium herinaciis, in quibusdam codicibus leporibus, in quibusdam\nchoerogrylliis invenitur“.</i> 3. Hebraea <i>Prov. XXX, 26.</i> "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנים עם לא עצום,"
+    },
+    {
+     "lang": "lat",
+     "text": "\n<i>Vulgatus</i> interpres sic transtulit, <i>Lepusculus plebs invalida,</i> sequutus, nisi fallor,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. II.   Fff   <i>Graecum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. II.   Fff   <i>Graecum</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1904,
+    1693
+   ],
+   [
+    1904,
+    1131
+   ]
+  ],
+  "input_tokens": 3630,
+  "output_tokens": 2239,
+  "cost_usd": 0.0111,
+  "seconds": 20.2
+ }
+}
