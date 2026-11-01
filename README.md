@@ -15,7 +15,7 @@ claim 7 (hyrax/shafan).
 |---|---|
 | 1. Scans, manifest, MDZ OCR layer, layout note | done |
 | 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; **gold pages wait for your check** |
-| 3. Translation rules for Latin | next |
+| 3. Translation rules for Latin | proposal in [TRANSLATION_RULES.md](TRANSLATION_RULES.md), for your review |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
