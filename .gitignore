@@ -1,0 +1,7 @@
+data/raw/
+data/preview/
+data/cache/
+data/mdz_hocr/
+.venv/
+__pycache__/
+*.part

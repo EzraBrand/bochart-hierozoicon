@@ -1,0 +1,13 @@
+[project]
+name = "bochart-hierozoicon"
+version = "0.1.0"
+license = "MIT"
+description = "OCR and English translation of Samuel Bochart, Hierozoicon (ed. Rosenmüller, Leipzig 1793-96): pilot"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "rapidfuzz>=3.14.6",
+    "requests>=2.34.2",
+]
