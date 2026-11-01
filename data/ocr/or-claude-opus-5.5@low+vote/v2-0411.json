@@ -1,0 +1,166 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 411",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 411"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "גרה, <i>Cuniculus et lepus non ruminant.</i> 2. In petris non habitare, sed in terre-\nno solo, quod facile perfodiatur. 3. Id animal olim fuisse <i>Hispaniae</i> peculiare,\nquae a <i>Iudaea</i> distat immensum quantum. <i>Varro de re Rustica</i> libri tertii capite\nduodecimo, <i>Tertii generis est, quod in</i> Hispania <i>nascitur, simile nostro lepori ex\nquadam parte</i>, <i>sed humile, quem cuniculum appellant. Plinius</i> libri octavi capite\nquinquagesimo quinto, <i>Leporum generis sunt et quos</i> Hispania <i>cuniculos appellat.\nAelianus</i> libri decimi tertii <i>De animalibus</i> capite decimo quinto, Κόνιλος ὄνομα\nαὐτῷ, <i>Conilus nomen ipsi</i> (malim κένικλος, ut in <i>Galeno</i>). Et paullo post,\nΦυλάττω τὴν ἐπωνυμίαν τὴν ἐξ ἀρχῆς, ἥνπερ οὖν Ἰβηρίαν Ἑσπέριοι ἔθεντο οἱ\nπάρος, παρ᾽ οἷς καὶ γίνεταί τε, καὶ ἔστι πάμπολις. <i>Servo</i> Ibericum <i>nomen ve-\ntus, quod ab initio imposuerant prisci</i> Hispani, <i>apud quos et nascitur</i>, <i>et maxime\nabundat. Galenus</i> libro tertio <i>De alimentis</i>, Οὐκοῦν ἔτι δεήσομαι λόγων μακρῶν\nεἰς τὸ τὰ καθ᾽ ἕκαστον ἔθνος ἐπιχώρια τῶν ζώων ἅπαντα διέρχεσθαι· καθά-\nπερ ἐν Ἰβηρίᾳ τὸ τοῖς λαγωοῖς ὅμοιον ζωΰφιον, ὃ καλοῦσι κένικλον. <i>Non opus\nerit pluribus animalia omnia exsequi, quae apud singulas gentes propria sunt et\nindigena: quale est in</i> Hispania <i>leporibus simile animalculum, quod cuniculum ap-\npellant.</i> Ex his igitur cum cuniculum constet <i>Hispanicum</i> fuisse animal, quid\nopus fuit illius esum <i>Iudaeis</i> prohibere, quibus erat prorsus ignotus? ^{(1)}",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גרה"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Cuniculus et lepus non ruminant.</i> 2. In petris non habitare, sed in terre-\nno solo, quod facile perfodiatur. 3. Id animal olim fuisse <i>Hispaniae</i> peculiare,\nquae a <i>Iudaea</i> distat immensum quantum. <i>Varro de re Rustica</i> libri tertii capite\nduodecimo, <i>Tertii generis est, quod in</i> Hispania <i>nascitur, simile nostro lepori ex\nquadam parte</i>, <i>sed humile, quem cuniculum appellant. Plinius</i> libri octavi capite\nquinquagesimo quinto, <i>Leporum generis sunt et quos</i> Hispania <i>cuniculos appellat.\nAelianus</i> libri decimi tertii <i>De animalibus</i> capite decimo quinto, "
+    },
+    {
+     "lang": "grc",
+     "text": "Κόνιλος ὄνομα\nαὐτῷ"
+    },
+    {
+     "lang": "lat",
+     "text": ", <i>Conilus nomen ipsi</i> (malim "
+    },
+    {
+     "lang": "grc",
+     "text": "κένικλος"
+    },
+    {
+     "lang": "lat",
+     "text": ", ut in <i>Galeno</i>). Et paullo post,\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Φυλάττω τὴν ἐπωνυμίαν τὴν ἐξ ἀρχῆς, ἥνπερ οὖν Ἰβηρίαν Ἑσπέριοι ἔθεντο οἱ\nπάρος, παρ᾽ οἷς καὶ γίνεταί τε, καὶ ἔστι πάμπολις."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Servo</i> Ibericum <i>nomen ve-\ntus, quod ab initio imposuerant prisci</i> Hispani, <i>apud quos et nascitur</i>, <i>et maxime\nabundat. Galenus</i> libro tertio <i>De alimentis</i>, "
+    },
+    {
+     "lang": "grc",
+     "text": "Οὐκοῦν ἔτι δεήσομαι λόγων μακρῶν\nεἰς τὸ τὰ καθ᾽ ἕκαστον ἔθνος ἐπιχώρια τῶν ζώων ἅπαντα διέρχεσθαι· καθά-\nπερ ἐν Ἰβηρίᾳ τὸ τοῖς λαγωοῖς ὅμοιον ζωΰφιον, ὃ καλοῦσι κένικλον."
+    },
+    {
+     "lang": "lat",
+     "text": " <i>Non opus\nerit pluribus animalia omnia exsequi, quae apud singulas gentes propria sunt et\nindigena: quale est in</i> Hispania <i>leporibus simile animalculum, quod cuniculum ap-\npellant.</i> Ex his igitur cum cuniculum constet <i>Hispanicum</i> fuisse animal, quid\nopus fuit illius esum <i>Iudaeis</i> prohibere, quibus erat prorsus ignotus? ^{(1)}"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Gesnerus</i>, qui cum plerisque recentiorum interpretum contendit, שפן esse\n<i>cuniculum</i>, ad primam objectionem respondet, se mandentes cuniculos depre-\nhendisse post cibum, eis ante horae dimidium exhibitum. Et frustra opponatur,\nquod citavimus ex <i>Porta coeli.</i> Locum enim scribae corruperunt, negatione in\ntextum insulta perperam, et contra mentem auctoris, quem credibile non est\ntam fuisse ineptum, ut השפן והארנבת ruminare negaverit. Sic enim expresse\nnegaret, quod expresse asserit <i>Moses Levit. XI, 6.</i> et <i>Deut. XIV</i>, 7. et Scripto-\nri θεοπνεύστῳ mendacii dicam impingeret. Tollenda igitur negatio אין. Quod\ninsuper arguit tota series orationis, quae, si negationem auferas, talis erit:\n<i>Sunt animalia, quae ruminant, et alia, quae non ruminant. Ratio est, quia,\nquae ruminant, non habent dentes superiores, nisi molitores. Ideo non possunt\nconcidere cibum una vice. Et stomachus non potest eum accipere perfectum, donec\naltera vice sit commolitus. Proinde duplex est ipsis ingluvies: superior, in quam\ndescendit cibus prima vice; et inferior, qua recipitur, postquam altera vice est</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Gesnerus</i>, qui cum plerisque recentiorum interpretum contendit, "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "lat",
+     "text": " esse\n<i>cuniculum</i>, ad primam objectionem respondet, se mandentes cuniculos depre-\nhendisse post cibum, eis ante horae dimidium exhibitum. Et frustra opponatur,\nquod citavimus ex <i>Porta coeli.</i> Locum enim scribae corruperunt, negatione in\ntextum insulta perperam, et contra mentem auctoris, quem credibile non est\ntam fuisse ineptum, ut "
+    },
+    {
+     "lang": "heb",
+     "text": "השפן והארנבת"
+    },
+    {
+     "lang": "lat",
+     "text": " ruminare negaverit. Sic enim expresse\nnegaret, quod expresse asserit <i>Moses Levit. XI, 6.</i> et <i>Deut. XIV</i>, 7. et Scripto-\nri "
+    },
+    {
+     "lang": "grc",
+     "text": "θεοπνεύστῳ"
+    },
+    {
+     "lang": "lat",
+     "text": " mendacii dicam impingeret. Tollenda igitur negatio "
+    },
+    {
+     "lang": "heb",
+     "text": "אין"
+    },
+    {
+     "lang": "lat",
+     "text": ". Quod\ninsuper arguit tota series orationis, quae, si negationem auferas, talis erit:\n<i>Sunt animalia, quae ruminant, et alia, quae non ruminant. Ratio est, quia,\nquae ruminant, non habent dentes superiores, nisi molitores. Ideo non possunt\nconcidere cibum una vice. Et stomachus non potest eum accipere perfectum, donec\naltera vice sit commolitus. Proinde duplex est ipsis ingluvies: superior, in quam\ndescendit cibus prima vice; et inferior, qua recipitur, postquam altera vice est</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Fff 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fff 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>commo-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>commo-</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Est tamen e regione Tripolis Syria-\ncae insula, quae a cuniculis, ibi frequenti-\nbus, nomen accepit (<i>Canincheninsel</i>), vid.\n<i>Maundrellii</i> Itiner. p. 31. Nec vero indi-\ngenos ibi esse, sed aliunde illuc translatos,\nexistimat OEDMANNUS <i>Vermischte Samm-\nlungen</i> Fasc. IV. c. V. p. 49. Halebae pau-\ncos quosdam cuniculos ab Europaeis, ibi\ndegentibus, mensarum in usum ali, testatur\nRUSSELL <i>Natur. History of Aleppo</i> p. 55.\nUnde tamen non certo constat, utrum haec\nanimalia in ea regione indigena sint.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Est tamen e regione Tripolis Syria-\ncae insula, quae a cuniculis, ibi frequenti-\nbus, nomen accepit (<i>Canincheninsel</i>), vid.\n<i>Maundrellii</i> Itiner. p. 31. Nec vero indi-\ngenos ibi esse, sed aliunde illuc translatos,\nexistimat OEDMANNUS <i>Vermischte Samm-\nlungen</i> Fasc. IV. c. V. p. 49. Halebae pau-\ncos quosdam cuniculos ab Europaeis, ibi\ndegentibus, mensarum in usum ali, testatur\nRUSSELL <i>Natur. History of Aleppo</i> p. 55.\nUnde tamen non certo constat, utrum haec\nanimalia in ea regione indigena sint."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1764,
+    1307
+   ],
+   [
+    1764,
+    1525
+   ]
+  ],
+  "input_tokens": 8694,
+  "output_tokens": 2376,
+  "cost_usd": 0.0823,
+  "seconds": 29.0,
+  "vote": "1 decisions from v2-408-429"
+ }
+}

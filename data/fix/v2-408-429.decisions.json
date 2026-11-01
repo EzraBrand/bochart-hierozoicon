@@ -1,0 +1,421 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0409",
+   "line": "CAP. XXXIIII.",
+   "old": "XXXIIII.",
+   "new": "XXXIII.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0409",
+   "line": "ronymo Ἀρκτομῦς, et Arabibus dicitur الجربوع aljarbuo,",
+   "old": "الجربوع",
+   "new": "اليربوع",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0410",
+   "line": "שהם דבוקים בבטן כשפן וארנבת וחתול Quorundam animalium testiculi in scro-",
+   "old": "וחתול",
+   "new": "וחחול",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0410",
+   "line": "lepus, et mus. Et fol. 20. d. ויש מבה״ח אשר ביציהם תלוים בכיס ויש מהם",
+   "old": "מבה״ח",
+   "new": "מב״ח",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0410",
+   "line": "Pomis in Lexico, שפן בה״ח או חיה הנקרא קוני״לו בלעז Saphan, animal, aut",
+   "old": "בה״ח",
+   "new": "ב״ח",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0422",
+   "line": "ذو الرمح ورمحه ذنبه وله ذنب كذنب الجرذ",
+   "old": "ذو",
+   "new": "وذو",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0422",
+   "line": "Et paullo infra, واليربوع يتخذ حجره في نشز من",
+   "old": "نشز",
+   "new": "نشر",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0422",
+   "line": "انصرفت الي حجرتها فان قصر الرييس حتي اسركهم",
+   "old": "اسركهم",
+   "new": "ادركهم",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0428",
+   "line": "res παρεοίκασι χοίροις τῷ ῥάμφει, rostro porcos referunt, ut ibi habet Scholia-",
+   "old": "τῷ",
+   "new": "τῶ",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0428",
+   "line": "res παρεοίκασι χοίροις τῷ ῥάμφει, rostro porcos referunt, ut ibi habet Scholia-",
+   "old": "Scholia-",
+   "new": "Seholia-",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0428",
+   "line": "nymi aetate vocatus fuerit ἀρκτομῦς, abunde jam explicatum. Nec sine caussa",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0428",
+   "line": "echini instar. Aristoteles, Οἱ δὲ ἐν Αἰγύπτῳ μύες σκληρὰν ἔχουσι τὴν τρίχα,",
+   "old": "μύες",
+   "new": "μῦες",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0428",
+   "line": "stes. Et a Graeco ὗραξ deductum sorex. Cur Seniorum χοιρογρύλλιος Hiero-",
+   "old": "ὗραξ",
+   "new": "ὕραξ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0408",
+   "line": "lum, his congener tertia species Graecis nota nulla fuerit. Proinde voce dasy-",
+   "old": "Proinde",
+   "new": "Proindè",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0408",
+   "line": "adhibuerint, jocularem caussam Hebraei afferunt in Historia templi secundi pagi-",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0408",
+   "line": "λὰ καὶ τὸν δασύποδα οὐ φάγῃ, ὅ φησιν. Πρὸς τι; Οὐ μὴ γένῃ παιδοφθόρος,",
+   "old": "Πρὸς",
+   "new": "Πρός",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0411",
+   "line": "bus, nomen accepit (Caninchenínsel), vid.",
+   "old": "(Caninchenínsel),",
+   "new": "(Canincheninsel),",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0412",
+   "line": "שיניהם הם חדות מאד ולא יוכלו לטחון האוכל היטב וחגמל יש לו שינים",
+   "old": "וחגמל",
+   "new": "והגמל",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0412",
+   "line": "lepusculos, id est, cuniculos paene innumeros nutriri in insule Calonesso ad litus",
+   "old": "Calonesso",
+   "new": "Caloneso",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0414",
+   "line": "ci, ἐχῖνοι χερσαῖοι Aeliani (Lib. III. cap. 10.",
+   "old": "ἐχῖνοι",
+   "new": "ἔχινοι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0414",
+   "line": "أسرايل, qui error in plures alios libros",
+   "old": "أسرايل,",
+   "new": "اسرايل,",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0414",
+   "line": "Arabibus שפן saphan Mosis est الوبر aluvebro, seu mus montanus. Quippe et-",
+   "old": "aluvebro,",
+   "new": "alvvebro,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0415",
+   "line": "אין רואה ואין יודע ואין מקיץ כי כלם ישנים כי תרדמת יי נפלה עליהם Rab",
+   "old": "יי",
+   "new": "י״",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0416",
+   "line": "الصقالب Alphenec, animalculum, ex quo sumitur pellicium. Dixit Aben-",
+   "old": "الصقالب",
+   "new": "الصقلاب",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0416",
+   "line": "انه اطيب من جميع الفرأء يجلب كثيرا من بلاد",
+   "old": "الفرأء",
+   "new": "الفراء",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0416",
+   "line": "fovinam a foeno dici, cum a Gallico fagi vocabulo nomen habeat). Viggeio",
+   "old": "Viggeio",
+   "new": "Giggeio",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0416",
+   "line": "Iam dicendum, quid sit الفنك alphenec, qua voce alios Arabes He-",
+   "old": "alphenec,",
+   "new": "alphenet,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0419",
+   "line": "rum sylvae, etiam habet افنكا Finnicos mures, sive Ponticos. In petris ta-",
+   "old": "افنكا",
+   "new": "افناك",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0421",
+   "line": "خافت شي لانت بالصعود فلا يلحقها شي Et pedes anterio-",
+   "old": "لانت",
+   "new": "لاذت",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0421",
+   "line": "animal! هو من الحيوان الذي له رييس مطاع ينافده",
+   "old": "ينافده",
+   "new": "يناقده",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0421",
+   "line": "ves admodum. Et paullo post, فهي قصيرة اليدين لانها انا",
+   "old": "انا",
+   "new": "اذا",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0424",
+   "line": "ter veteres et recentiores caussam OED-",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0424",
+   "line": "مرتفع ليسلم من سيل او حافر ثم لا يجعله الا",
+   "old": "يجعله",
+   "new": "يجعلة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "ut humor absumatur. Unde قدان kedad dicitur tam hericius, quam aljarbuo;",
+   "old": "قدان",
+   "new": "قداد",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "Arabi caussa non defuit, cur redderet اليربوع aljarbua. Iam enim docui-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "Arabes delicati sunt, et caeteris hujus generis muribus Supharienses praeferunt,",
+   "old": "Supharienses",
+   "new": "Suphariensem",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "quia utrumque animal sic exsiccatur. Alkamus, القدان القنفد",
+   "old": "القدان",
+   "new": "القداد",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "dibus longis, teneraque et pingui carne. In Abenbitare, يربوع الاسرايلي",
+   "old": "الاسرايلي",
+   "new": "الاسراييلي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0426",
+   "line": "والطويل والغوايم الرخو اللحم الدسم Supharienses jarbuo",
+   "old": "Supharienses",
+   "new": "Suphariensis",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0429",
+   "line": "σθαι τοῦ σίτου παντός. γίνεται δὲ οὕτω ταχεῖα ἡ φορὰ, ὥστε ἔνιοι τῶν μὴ μεγά-",
+   "old": "σθαι",
+   "new": "θαι",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  }
+ ]
+}

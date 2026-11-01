@@ -16,8 +16,9 @@ claim 7 (hyrax/shafan).
 | 1. Scans, manifest, MDZ OCR layer, layout note | done |
 | 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; gold pages checked by you (01-Nov-2026) |
 | 3. Translation rules for Latin | [TRANSLATION_RULES.md](TRANSLATION_RULES.md), accepted 01-Nov-2026 |
-| 4. OCR of the whole pilot, pp. 408–429 (Opus main, Flash second reader), QA; Hebrew gold p. 410 | done; **gold p. 410 waits for your check** |
-| 5. Second reading and vote (all scripts), page joins, translation | next |
+| 4. OCR of the whole pilot, pp. 408–429 (Opus main, Flash second reader), QA; Hebrew gold p. 410 | done; gold p. 410 checked by you (01-Nov-2026) |
+| 5. Second reading and vote, all scripts (`check.py`, `judge.py`, `vote.py`) | done; 40 changes; **review list for you** |
+| 6. Page joins (`entry.py`), translation | next |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
@@ -248,6 +249,58 @@ three gold pages: Opus 0.2%, Flash 6.6% (mostly order), MDZ 8.6%.
   Rosenmüller's) or in another copy of Rosenmüller.
 - Opus marked one Arabic book title غهيد (p. 416); Flash has التمهيد (*al-Tamhīd* of Ibn ʿAbd
   al-Barr, which Bochart translates *Explanatio*). In the damaged part of the page.
+
+## Second reading and vote, all scripts (01-Nov-2026)
+
+Ported from Lewysohn's `hebcheck` / `hebjudge` / `hebvote`, changed in three ways:
+
+1. **Two second readers, all scripts** (`check.py`): Gemini Flash and the MDZ hOCR. Every word
+   where one of them differs from Opus is flagged (with folds for known noise: MDZ's f for long s,
+   its added hamzas and ى, Flash's `"` for ״). 8,666 words → 587 word flags on 352 lines.
+2. **No text judge.** Opus's errors here are corrections toward the expected word (نشز, caussa,
+   ὗραξ, מבה״ח); a judge that decides from the sense makes the same errors.
+3. **One image judge** (`judge.py`, Opus 5.5 @low): one call per printed line, with a crop of
+   exactly that line (its box from the MDZ hOCR) and the readings without engine names. $2.47 for
+   352 lines ($0.007 a line).
+
+**Rule** (`vote.py`): Opus is changed only where the judge read the same as Flash or MDZ. Flash and
+MDZ together never change it alone (both read Δίπες and "Patrae" where Opus was right). Multi-word
+flags are voted word by word.
+
+**Gold pages** (pp. 410, 422, 428; `eval.py --loose`):
+
+| | all | Latin | Greek | Hebrew | Arabic |
+|---|---|---|---|---|---|
+| Opus | 0.2% | 0.1% | 1.2% | 1.2% | 1.2% |
+| Opus + vote | **0.1%** | **0.0%** | **0.3%** | **0.0%** | 0.7% |
+
+**Three errors in my gold pages**, found by the vote and read again on the scan (corrected; you had
+approved these pages): p. 410 וחחול (a printer's error for וחתול; the same line has כחתול
+correctly), p. 428 τῶ (not τῷ) and *Seholia-* (a printer's error for *Scholia-*). When I made the
+gold, I checked only the words where Flash or Sonnet differed from Opus, not the MDZ-only ones.
+
+**Outside the gold pages the judge is weaker.** I read the doubtful changes on the scan: 12 were
+wrong and are kept out by a reviewed list (`REJECT` in `vote.py`). Almost all had only MDZ with
+the judge: the judge tends to follow the MDZ reading (שכן for שפן, הארם for האדם, עכבר for עכלבר,
+"cominune", "pleruinque", ו for ז). In the pilot an MDZ-only change was right about 6 times and
+wrong about 9 times. **Rule for a larger run: every change that only MDZ supports needs a look.**
+
+Never changed by the vote, listed for review (`ambiguous()` in `vote.py`):
+- **ف/غ:** in this type the medial ف and the medial غ have the same shape (checked on الغزال
+  against الفنك, الفار). The judge and MDZ read غ in الفنك, الفار, الفارة (Bochart: *alphenec*). As
+  with the cup-shaped د/ذ, the gold follows the word here. This also blocks one right change (سغن →
+  سفن on p. 410), so the Arabic stays at 0.7%.
+- The ου ligature read as ε (καλού- → καλέ-), the στ ligature written ς, the note-mark format
+  (`(³)`).
+
+**Result:** 40 changes (Arabic 15, Latin script 14, Greek 6, Hebrew 5), e.g. causa for caussa (4 times),
+Proindè, Giggeio for Viggeio, الصقلاب, اسرايل without hamza, والاسراييلي, لاذت, اذا, يناقده, قداد
+(*kedad*), והגמל, י״, the printer's errors *alphenet* and λείπε-|θαι. The voted text is the
+engine `or-claude-opus-5.5@low+vote`; `qa.py` on it: no change in lengths, marks or notes.
+
+**For your review** (`logs/vote_v2-408-429.csv`, column `outcome`): 29 "judge read another text",
+9 ف/غ, 7 "not similar", 12 rejected by me, 5 other (ligatures, note mark, a partial reading, one without an answer). Not voted at all: the Ethiopic (2), the
+Samaritan word, the damaged line ends of p. 416.
 
 ## License
 

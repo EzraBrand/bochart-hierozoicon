@@ -1,0 +1,130 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 421",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 421"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "γύπτῳ δίποδάς φασι μῦας γίνεσθαι, καὶ μεγάλους. ἔχουσι δὲ οὗτοι καὶ τοὺς ἐμ-\nπροσθίους πόδας, ἀλλ᾽ οὐ βαδίζουσιν ἐπ᾽ αὐτοῖς. χρῶνται δὲ αὐτοῖς, οἷα χερσίν.\nὅταν δὲ φεύγωσιν, πηδῶσι. <i>Bipedes in</i> Aegypto <i>mures, et magnos, nasci per-\nhibent. Habent autem etiam anteriores pedes. At iis non incedunt, sed ut mani-\nbus utuntur. Et saltu fugiunt. Plinius</i> libri octavi capite trigesimo septimo,\npostquam egit de muribus <i>Alpinis, sunt his pares et in</i> Aegypto (nempe in eo,\nquod sequitur, cum sint caetera valde dispares) <i>similiterque residunt in clunes, et\nbinis pedibus gradiuntur, prioribusque ut manibus utuntur.</i> Et libri decimi ca-\npite sexagesimo quinto, Aegyptiis <i>muribus durus pilus sicut herinaceis; iidem bi-\npedes ambulant ceu</i> Alpini.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "γύπτῳ δίποδάς φασι μῦας γίνεσθαι, καὶ μεγάλους. ἔχουσι δὲ οὗτοι καὶ τοὺς ἐμ-\nπροσθίους πόδας, ἀλλ᾽ οὐ βαδίζουσιν ἐπ᾽ αὐτοῖς. χρῶνται δὲ αὐτοῖς, οἷα χερσίν.\nὅταν δὲ φεύγωσιν, πηδῶσι. "
+    },
+    {
+     "lang": "lat",
+     "text": "<i>Bipedes in</i> Aegypto <i>mures, et magnos, nasci per-\nhibent. Habent autem etiam anteriores pedes. At iis non incedunt, sed ut mani-\nbus utuntur. Et saltu fugiunt. Plinius</i> libri octavi capite trigesimo septimo,\npostquam egit de muribus <i>Alpinis, sunt his pares et in</i> Aegypto (nempe in eo,\nquod sequitur, cum sint caetera valde dispares) <i>similiterque residunt in clunes, et\nbinis pedibus gradiuntur, prioribusque ut manibus utuntur.</i> Et libri decimi ca-\npite sexagesimo quinto, Aegyptiis <i>muribus durus pilus sicut herinaceis; iidem bi-\npedes ambulant ceu</i> Alpini."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hoc muris genus, etiam in <i>Palaestina</i> frequens, <i>Hellenistae</i> ideo vocarunt\nἀρκτομῦν, id est, <i>ursinum murem</i>, quod incederet bipes, et prioribus pedibus\ntanquam manibus uteretur. Id enim est ursorum proprium. <i>Oppianus</i> libro\ntertio <i>Cynegetic</i>ῶν in ursi descriptione,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hoc muris genus, etiam in <i>Palaestina</i> frequens, <i>Hellenistae</i> ideo vocarunt\n"
+    },
+    {
+     "lang": "grc",
+     "text": "ἀρκτομῦν"
+    },
+    {
+     "lang": "lat",
+     "text": ", id est, <i>ursinum murem</i>, quod incederet bipes, et prioribus pedibus\ntanquam manibus uteretur. Id enim est ursorum proprium. <i>Oppianus</i> libro\ntertio <i>Cynegetic</i>"
+    },
+    {
+     "lang": "grc",
+     "text": "ῶν"
+    },
+    {
+     "lang": "lat",
+     "text": " in ursi descriptione,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Χεῖρες χερσὶ βροτῶν ἴκελαι, πόδες ἠδὲ πόδεσσι,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χεῖρες χερσὶ βροτῶν ἴκελαι, πόδες ἠδὲ πόδεσσι,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Manus hominum manibus, pedesque pedibus similes. Solinus</i> in capite <i>De Numi-\ndia</i>, et in ea ursis: <i>Vis maxima in brachiis, et lumbis: unde interdum posticis\npedibus insistunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Manus hominum manibus, pedesque pedibus similes. Solinus</i> in capite <i>De Numi-\ndia</i>, et in ea ursis: <i>Vis maxima in brachiis, et lumbis: unde interdum posticis\npedibus insistunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hoc idem animal <i>Arabice</i> vocatur اليربوع <i>aljarbuo</i>, et falluntur <i>Lexi-\ncographi</i>, qui <i>talpam</i> interpretantur. Res ex descriptione patebit. <i>Damir</i> in\ncapite <i>De</i> اليربوع <i>aljarbuo</i>, هو حيوان طويل الرجلين وقصير\nاليدين جدا <i>Est animal, cujus pedes posteriores longi sunt, et priores bre-\nves admodum.</i> Et paullo post, فهي قصيرة اليدين لانها اذا\nخافت شي لاذت بالصعود فلا يلحقها شي <i>Et pedes anterio-\nres ideo breves habet, ut, cum aliquid timet, ad superiora confugiat, neque ul-\nlum animal id assequatur.</i> Et infra, قال الجاحظ والقزويني وهو\nمن نوع الفار <i>Dixerunt</i> Algiahid <i>et</i> Alkazuinius, <i>esse inter species muris.</i> ⟦p. 1011⟧\nItaque vere est ἀρκτομῦς, id est, mus, cum urso hoc commune habens, quod\npedibus posterioribus ingreditur, quos longiores habet. <i>Gesnerus</i>, in capite <i>De\nmure Alpino, Graecum</i> scriptorem anonymum citat, nondum editum, qui in\nlibello <i>De animalibus</i> haec habet de arctomye: <i>Arctomys unus custodit, caeteris\npascentibus; et singuli partem pabuli ad eum deferunt: at, si negligentior fuerit in\ncustodia, et homo aliquis supervenerit, cujus adventum ille voce non prodiderit, a\ncaeteris occiditur.</i> En his simillima de <i>Aljarbuo</i> in <i>Damire</i>, ut scias, idem esse\nanimal! هو من الحيوان الذي له رييس مطاع يناقده\nاليه",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hoc idem animal <i>Arabice</i> vocatur اليربوع <i>aljarbuo</i>, et falluntur <i>Lexi-\ncographi</i>, qui <i>talpam</i> interpretantur. Res ex descriptione patebit. <i>Damir</i> in\ncapite <i>De</i> اليربوع <i>aljarbuo</i>, هو حيوان طويل الرجلين وقصير\nاليدين جدا <i>Est animal, cujus pedes posteriores longi sunt, et priores bre-\nves admodum.</i> Et paullo post, فهي قصيرة اليدين لانها اذا\nخافت شي لاذت بالصعود فلا يلحقها شي <i>Et pedes anterio-\nres ideo breves habet, ut, cum aliquid timet, ad superiora confugiat, neque ul-\nlum animal id assequatur.</i> Et infra, قال الجاحظ والقزويني وهو\nمن نوع الفار <i>Dixerunt</i> Algiahid <i>et</i> Alkazuinius, <i>esse inter species muris.</i> ⟦p. 1011⟧\nItaque vere est ἀρκτομῦς, id est, mus, cum urso hoc commune habens, quod\npedibus posterioribus ingreditur, quos longiores habet. <i>Gesnerus</i>, in capite <i>De\nmure Alpino, Graecum</i> scriptorem anonymum citat, nondum editum, qui in\nlibello <i>De animalibus</i> haec habet de arctomye: <i>Arctomys unus custodit, caeteris\npascentibus; et singuli partem pabuli ad eum deferunt: at, si negligentior fuerit in\ncustodia, et homo aliquis supervenerit, cujus adventum ille voce non prodiderit, a\ncaeteris occiditur.</i> En his simillima de <i>Aljarbuo</i> in <i>Damire</i>, ut scias, idem esse\nanimal! هو من الحيوان الذي له رييس مطاع يناقده\nاليه"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ggg 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ggg 3"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1784,
+    1171
+   ],
+   [
+    1784,
+    1653
+   ]
+  ],
+  "input_tokens": 8796,
+  "output_tokens": 2103,
+  "cost_usd": 0.0772,
+  "seconds": 26.0,
+  "vote": "3 decisions from v2-408-429"
+ }
+}
