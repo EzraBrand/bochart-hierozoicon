@@ -14,7 +14,7 @@ claim 7 (hyrax/shafan).
 | Step | Status |
 |---|---|
 | 1. Scans, manifest, MDZ OCR layer, layout note | done |
-| 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; **gold pages wait for your check** |
+| 2. OCR test on pp. 409, 422, 428 (Opus, Sonnet, Gemini Flash, MDZ); gold pp. 422, 428 | done; gold pages checked by you (01-Nov-2026) |
 | 3. Translation rules for Latin | proposal in [TRANSLATION_RULES.md](TRANSLATION_RULES.md), for your review |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
@@ -164,7 +164,7 @@ only the presence or absence of a dot is "as printed" (الجرد, no dot).
 
 Gold pages: [v2-0422](data/gold/v2-0422.txt) (Arabic) and [v2-0428](data/gold/v2-0428.txt)
 (Greek, Syriac, vowelled Arabic, two-column notes), drafted from the Opus output and corrected
-where any engine disagreed, each case read on the scan at 2–4×. **Not yet checked by you.** p. 409
+where any engine disagreed, each case read on the scan at 2–4×; checked by you on 01-Nov-2026. p. 409
 has no gold page; its differences were read on the scan too.
 
 CER (`eval.py --loose`, both gold pages; Latin script includes the transliterations):
