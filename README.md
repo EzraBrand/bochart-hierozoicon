@@ -18,7 +18,8 @@ claim 7 (hyrax/shafan).
 | 3. Translation rules for Latin | [TRANSLATION_RULES.md](TRANSLATION_RULES.md), accepted 01-Nov-2026 |
 | 4. OCR of the whole pilot, pp. 408–429 (Opus main, Flash second reader), QA; Hebrew gold p. 410 | done; gold p. 410 checked by you (01-Nov-2026) |
 | 5. Second reading and vote, all scripts (`check.py`, `judge.py`, `vote.py`) | done; 40 changes; **review list for you** |
-| 6. Page joins (`entry.py`), translation | next |
+| 6. Page joins (`entry.py`), translation (`translate.py`, rules v1) | done: [Latin](data/entries/shafan/la.md), [English](data/entries/shafan/en.md) |
+| 7. Reading edition (`build_site.py`, GitHub Pages) | next |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
@@ -301,6 +302,45 @@ engine `or-claude-opus-5.5@low+vote`; `qa.py` on it: no change in lengths, marks
 **For your review** (`logs/vote_v2-408-429.csv`, column `outcome`): 29 "judge read another text",
 9 ف/غ, 7 "not similar", 12 rejected by me, 5 other (ligatures, note mark, a partial reading, one without an answer). Not voted at all: the Ethiopic (2), the
 Samaritan word, the damaged line ends of p. 416.
+
+## The chapter in English (01-Nov-2026)
+
+**[English](data/entries/shafan/en.md)** and **[Latin](data/entries/shafan/la.md)** of Book 3,
+ch. 33 (pp. 409–429): 31 paragraphs and 16 notes (13 by Rosenmüller, 3 by Bochart), 8,170 words of
+Latin, 11,898 of English (with transliterations and identifications).
+
+```
+uv run entry.py shafan --no-translate   # join the pages: data/entries/shafan/la.json, la.md
+uv run entry.py shafan                  # translate (Opus 5.5 @medium, chunks cached), then the fixed steps
+uv run entry.py shafan --finish-only    # redo only the fixed steps from en.raw.json (no model call)
+uv run abbrev.py                        # check the abbreviations, render ABBREVIATIONS.md
+```
+
+**Joining** (`entry.py`): the source is the gold text where it exists (pp. 410, 422, 428), else
+the voted OCR. All 20 page joins checked by eye. Four catchwords that Opus had read into the body
+text are removed by `FIXES` (pp. 410 גרה, 414 *stanter*, 418 *rias*, a printer's error for *riae*,
+421 اليه); a word broken over a page joins also when a margin mark ends the line (*Histo-|riae*).
+The chapter begins in col. 1001, whose mark stands in the last lines of ch. 32. Rosenmüller's note
+(12) runs over to p. 428 (*signi-|ficet*) and is joined.
+
+**Translation** (`translate.py`, rules v1 = [TRANSLATION_RULES.md](TRANSLATION_RULES.md)): Opus 5.5
+@medium, 12 text and 2 note chunks, **$1.56**. Fixed steps after the model: page and column marks
+(all kept by the model), Bible references in SBL form (*Levit. XI, 5.* → Lev 11:5), folio columns
+(fol. 19d), Hebrew letters for Syriac (ܚܓܝܣܐ [חגיסא]), Rosenmüller's notes as R1–R13, 4
+abbreviations expanded ([ABBREVIATIONS.md](ABBREVIATIONS.md), all kept by the model), 30 names
+identified at their first use (`names.json`), nested italics removed.
+
+Read against the Latin (p. 428 in full, other passages by search): accurate; Bochart's hedges,
+romanizations, numbered arguments and the rules on fixed terms kept ("saphan" never rendered
+"coney" or "rock badger"; *sorex* [shrew] as a word discussed; "Pliny, book 10, chapter 73";
+"Azoara 73 of the Qur'an"; "Palestine" only inside a quotation of Jerome). Seen so far:
+- One added gloss: "ἁλτικὸν [haltikon], a leaper" (the Latin has no "a leaper").
+- Roman numerals kept in a few references in the notes ("Oedmann IV, p. 53").
+- The identifications in `names.json` are from general knowledge where the basis says so; they
+  need a review (TRANSLATION_RULES.md §4).
+
+**Costs of the pilot so far:** OCR test $0.41, OCR of 22 pages $1.87, image judge $2.47,
+translation $1.56: **$6.31**. $6.82 left on the key (01-Nov-2026).
 
 ## License
 
