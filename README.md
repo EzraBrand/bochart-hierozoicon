@@ -9,6 +9,11 @@ Same family as [low-flora](https://github.com/EzraBrand/low-flora) and
 lewysohn-zoologie. Companion: [talmud-zoology-factcheck](https://github.com/EzraBrand/talmud-zoology-factcheck),
 claim 7 (hyrax/shafan).
 
+**Reading edition (web):** https://ezrabrand.github.io/bochart-hierozoicon/ — Latin and English side
+by side, a scan link at each page mark, each column mark of 1663 linked to the Frankfurt 1675
+scan, transliterations and identifications as tooltips, Rosenmüller's notes R1–R13 and Bochart's
+a)–c). Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`).
+
 ## Status (01-Nov-2026)
 
 | Step | Status |
@@ -19,7 +24,7 @@ claim 7 (hyrax/shafan).
 | 4. OCR of the whole pilot, pp. 408–429 (Opus main, Flash second reader), QA; Hebrew gold p. 410 | done; gold p. 410 checked by you (01-Nov-2026) |
 | 5. Second reading and vote, all scripts (`check.py`, `judge.py`, `vote.py`) | done; 40 changes; **review list for you** |
 | 6. Page joins (`entry.py`), translation (`translate.py`, rules v1) | done: [Latin](data/entries/shafan/la.md), [English](data/entries/shafan/en.md) |
-| 7. Reading edition (`build_site.py`, GitHub Pages) | next |
+| 7. Reading edition (`build_site.py`, GitHub Pages) | done: https://ezrabrand.github.io/bochart-hierozoicon/ |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.
