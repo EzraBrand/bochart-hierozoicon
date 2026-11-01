@@ -1,7 +1,13 @@
-data/raw/
+__pycache__/
+*.py[oc]
+.venv
+logs/
+# scans are not stored here (MDZ, NoC-NC 1.0); the manifest is
+data/raw/*.jpg
+data/raw/*.part
 data/preview/
 data/cache/
 data/mdz_hocr/
-.venv/
-__pycache__/
-*.part
+data/ocr/_raw/
+data/gold/*.scan.jpg
+*.bak
