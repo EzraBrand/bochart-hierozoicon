@@ -1,0 +1,43 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "[II, 409] [col. 1001] Chapter 33."
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "<i>It is proved that</i> שפן saphan <i>is not the rabbit, as is claimed, but a kind of larger mouse in Eretz Yisrael, Egypt and Libya, which Herodotus and others call</i> Δίπους [Dipous], <i>the Elders</i> Χοιρογρύλλιος [Choirogryllios], <i>Jerome</i> Ἀρκτομῦς [Arktomys], <i>and the Arabs</i> اليربوع [al-yarbūʿ] aljarbuo, <i>concerning which much not yet published is brought forward from the writings of the Arabs.</i>"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "In <i>Levit, XI, 5.</i> and <i>Deut. XIV, 7.</i>, among the animals that do chew the cud but [col. 1002] do not have a cloven hoof, and are therefore unclean, השפן, ὁ σαφάν [ho saphan], is listed together with the camel and the hare. The plural שפנים <i>sephanim</i> occurs in <i>Psal. CIV. 18.</i>: <i>The rock is a refuge</i> לשפנים, τοῖς σεφανίμ [tois sephanim]. And in <i>Prov. XXX, 26.</i>: שפנים sephanim <i>are a feeble folk, they make their house in the rock.</i> Most of the more recent interpreters explain them as <i>rabbits</i>. Many things seemingly favour this interpretation. 1. That twice in the Law השפן is joined with הארנבת, that is, with the <i>hare</i>, as a kindred animal. 2. That the passage of the <i>Psalm</i> just cited is rendered thus in the <i>Greek</i> edition: Πέτρα καταφυγὴ τοῖς λαγωοῖς [Petra kataphygē tois lagōois], <i>The rock is a refuge for the hares.</i> Some copies have τοῖς χοιρογρυλλίοις [tois choirogrylliois], that is, as they claim, <i>for the hedgehogs.</i> But the most ancient writers follow the former reading. Jerome, Letter 135 to <i>Sunia</i> and <i>Fretela</i>: <i>All have rendered</i> χοιρογρυλλίους [choirogryllious] <i>with a similar word; the LXX alone have translated</i> hares. So also read Theodoret in his Commentary on this <i>Psalm</i>, Basil on <i>Isaiah</i>, chapter 2, and Apollinaris in his <i>Paraphrase</i>:"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Πέτροις ἠλιβάτοις περιθάρσεες εἰσὶ λαγωοὶ, [Petrois ēlibatois peritharseēs eisi lagōoi,]"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>The hares trust in the sheer rocks</i>; and the <i>Arabic</i> version, which was made from the <i>Greek</i>: <i>The rock is a refuge</i> الارانب [al-arānib] <i>of the hares.</i> Others combine both: thus Augustine on this passage: <i>The rock is a refuge for hedgehogs and hares.</i> Arnobius: <i>There is the rock, affording refuge either to the young of the hedgehogs</i>, etc., <i>or to the hares.</i> Bede on <i>Proverbs</i>, chapter 30: <i>And it should be noted that in the Psalm, where we sing</i> „The rock is a refuge for the hedgehogs, <i>in some codices</i> for the hares <i>is found, in some</i> for the choerogryllii“. 3. The Hebrew of <i>Prov. XXX, 26.</i>, שפנים עם לא עצום, the Vulgate translator rendered thus: <i>The little hare, a feeble folk</i>, following, if I am not mistaken, [II, 410] some <i>Greek</i> translator who had explained שפנים as λαγίδεις [lagideis], <i>little hares</i>, that is, <i>rabbits</i>. For thus in Strabo, book 3, λαγίδεις [lagideis], <i>little hares</i>, are taken for <i>rabbits</i>. The <i>Greeks</i> have no other name for the <i>rabbit</i>. For κόνιλος [konilos] in Aelian, κούνικλος [kouniklos] in Polybius and Galen, words of the <i>Spaniards</i>, and λεβηρὶς [lebēris] in Strabo and Erotian, a word of the <i>Massilians</i>, were local terms not used in <i>Greece</i>. 4. The old <i>Book of Names</i>, which they ascribe to Philo, has this in <i>Jeremiah</i>: SAPHAN, <i>choerogryllius, hare, or hedgehog</i>. And in <i>Ezekiel</i>: SAPHAN, <i>hedgehog, or hare</i>. 5. In Giggeius's <i>Arabic Lexicon</i>, p. 854, vol. 2, سفن [safan] <i>saphan</i> is rendered <i>rabbit</i>. Where he got this from, however, I do not know at all, for I have found it nowhere else. 6. The <i>Hebrew</i> name שפן <i>saphan</i> seems to allude to the <i>Hebrew</i> verbs ספן and צפן, of which the former means <i>to cover</i>, the latter <i>to hide</i>. And it seems to fit the rabbit, which seeks hiding places in burrows, to lurk in them and be, as it were, covered. Martial:"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>The rabbit delights to dwell in dug-out caves.</i>"
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5:batch",
+  "effort": "low",
+  "input_tokens": 5138,
+  "output_tokens": 2052,
+  "reasoning_tokens": 0,
+  "cost_usd": 0,
+  "seconds": 673.9
+ }
+}

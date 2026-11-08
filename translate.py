@@ -107,23 +107,20 @@ SCHEMA = {
 }
 
 
-def translate(blocks: list[dict], model: str, effort: str, notes: bool = False) -> dict:
+def request_body(blocks: list[dict], effort: str, notes: bool = False) -> dict:
     src = [{"type": b["type"], "marker": b.get("marker", ""), "text": b["text"]} for b in blocks]
     text = "\n".join(b["text"] for b in src)
     prompt = PROMPT.format(blocks=json.dumps({"blocks": src}, ensure_ascii=False, indent=1),
                            abbrevs=abbrev.prompt_rows(text), names=names.prompt_rows(text),
                            notes=NOTES if notes else "")
-    t = time.monotonic()
-    r = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers={"Authorization": "Bearer " + KEY_FILE.read_text(encoding="utf-8").strip()},
-        json={"model": model, "max_tokens": 32000, "messages": [{"role": "user", "content": prompt}],
-              "response_format": {"type": "json_schema", "json_schema": {"name": "page", "strict": True, "schema": SCHEMA}},
-              "reasoning": {"effort": effort}, "usage": {"include": True}},
-        timeout=900)
-    d = r.json()
-    if not r.ok or "error" in d:
-        raise RuntimeError(f"HTTP {r.status_code}: {d.get('error', d)}")
+    return {"max_tokens": 32000, "messages": [{"role": "user", "content": prompt}],
+            "response_format": {"type": "json_schema", "json_schema": {"name": "page", "strict": True, "schema": SCHEMA}},
+            "reasoning": {"effort": effort}, "usage": {"include": True}}
+
+
+def parse(d: dict, n_src: int, model: str, effort: str, seconds: float) -> dict:
+    if "error" in d or "choices" not in d:
+        raise RuntimeError(f"{d.get('error', d)}")
     ch, u = d["choices"][0], d.get("usage", {})
     if ch.get("finish_reason") not in ("stop", "end_turn"):
         raise RuntimeError(f"finish_reason={ch.get('finish_reason')}, cost ${u.get('cost', 0):.4f}")
@@ -131,11 +128,24 @@ def translate(blocks: list[dict], model: str, effort: str, notes: bool = False) 
     if out.startswith("```"):
         out = out.split("\n", 1)[1].rsplit("```", 1)[0]
     res = json.loads(out)["blocks"]
-    if len(res) != len(src):
-        raise RuntimeError(f"{len(res)} blocks back for {len(src)} sent")
+    if len(res) != n_src:
+        raise RuntimeError(f"{len(res)} blocks back for {n_src} sent")
     return {"blocks": res, "meta": {"model": d.get("model", model), "effort": effort,
                                     "input_tokens": u.get("prompt_tokens"), "output_tokens": u.get("completion_tokens"),
-                                    "cost_usd": round(u.get("cost", 0), 4), "seconds": round(time.monotonic() - t, 1)}}
+                                    "reasoning_tokens": (u.get("completion_tokens_details") or {}).get("reasoning_tokens"),
+                                    "cost_usd": round(u.get("cost", 0), 4), "seconds": round(seconds, 1)}}
+
+
+def translate(blocks: list[dict], model: str, effort: str, notes: bool = False) -> dict:
+    t = time.monotonic()
+    r = requests.post(
+        "https://openrouter.ai/api/v1/chat/completions",
+        headers={"Authorization": "Bearer " + KEY_FILE.read_text(encoding="utf-8").strip()},
+        json={"model": model, **request_body(blocks, effort, notes)}, timeout=900)
+    d = r.json()
+    if not r.ok and "error" not in d:
+        d = {"error": f"HTTP {r.status_code}: {d}"}
+    return parse(d, len(blocks), model, effort, time.monotonic() - t)
 
 
 # ---------- fixed steps after translation ----------

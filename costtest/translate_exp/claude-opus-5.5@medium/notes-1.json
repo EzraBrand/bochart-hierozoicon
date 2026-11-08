@@ -1,0 +1,48 @@
+{
+ "blocks": [
+  {
+   "type": "footnote",
+   "marker": "(1)",
+   "text": "There is, however, an island opposite Tripoli in Syria which has taken its name from the rabbits that are common there (<i>Canincheninsel</i>); see <i>Maundrell</i>, Travels p. 31. Oedmann, however, <i>Vermischte Sammlungen</i> fasc. 4, ch. 5, p. 49, thinks that they are not native there but were brought there from elsewhere. Russell, <i>Natur. History of Aleppo</i> p. 55, attests that at Aleppo a few rabbits are kept for the table by the Europeans living there. From this, however, it is not certainly established whether these animals are native to that region."
+  },
+  {
+   "type": "footnote",
+   "marker": "(2)",
+   "text": "This reason for the name seems to have escaped a certain learned man in the <i>Notes on Bruce's Travels, edited by Hassencamp</i>, p. 159–60."
+  },
+  {
+   "type": "footnote",
+   "marker": "(3)",
+   "text": "In this Stumpf undoubtedly erred. For everyone knows that the marmot is an animal entirely peculiar to the Savoyard, Swiss and Pyrenean Alps. Nor has anyone of those who have visited the regions of the East found that animal there. But the animals in Egypt that Stumpf thinks are like Alpine mice seem to be the Syrian <i>hyraces</i> or <i>sorices</i>, the ἔχινοι χερσαῖοι [echinoi chersaioi] of Aelian (book 3, ch. 10, where their foresight and skill in storing away food is related; cf. Bochart below, p. 1008. 3, and p. 1016), in which we find everything that the Arabs relate about the وبر [wabr]. The animal is the size of a marmot, but its body is more elongated, marked on the back with bristles projecting in a ridge (whence, no doubt, the Greeks gave it the name ἐχῖνος [echinos]), dark above, whitish below; the <i>snout</i> oblong; the <i>claws</i> very short; <i>tail</i> none; its gait creeping, its diet vegetable; it lives in caves in the rocks. See Schreber, <i>Mammalia</i> 4, plate 211 B. Shaw described this animal under the name 'lamb of Israel' (see Bochart above) (<i>Travels</i> p. 301, German trans., where, however, <i>Daman Israel</i> is wrongly written for <i>Ganam Israel</i> غنم اسرايل [ghanam Isrāyl], an error that has crept into several other books); he found the animal common on Mount Lebanon and in other places in Syria. It was also known to Prosper Alpinus, who mentioned <i>a certain low animal</i>, <i>not unlike a rabbit</i>, <i>which they call</i> the lamb of Israel, in <i>Hist. Nat. Aegypti</i> vol. 1, ch. 20, p. 80, and book 4, ch. 9. Shaw, loc. cit., was the first to maintain that the Hebrew name of this <i>Syrian hyrax</i> was שפן. He has recently found agreement in Bruce, <i>Travels</i> vol. 5, p. 149, Leipzig trans., who carefully describes this animal, which he frequently saw not only in Syria but also in Ethiopia, under the name <i>Aschkoko</i>, by which it is known among the Amharas, from the bristles projecting in a ridge on its back like <i>thorns</i> (for Amharic <i>Aschok</i> means <i>thorn</i>: see Ludolf, <i>Lexic. Amhar.</i> p. 58). He also gave a picture of it, Plate 29. And it must be admitted that everything we read about the שפן in the Hebrew text is found in the <i>Syrian hyrax</i>, وبر [wabr]. For, first, neither is cloven-footed. 2. Both ruminate; Bruce, loc. cit., p. 148, attests that he observed this in an <i>Aschkoko</i>, that is, a hyrax, which he kept at home; cf. Levit. XI, 5. and Deut. XIV, 7. 3. Both are edible, though unclean: the flesh of the Syrian hyrax is eaten by those Arabs who live in Lebanon and in Arabia Petraea (see the words of <i>Mavardius</i> quoted by Bochart above), although the other Muslims and the Abyssinian Christians abstain from it as unclean food. See Bruce p. 151. 4. Both are gregarious, Bruce p. 146; cf. Prov. XXX, 26. 5. Both are feeble, Prov. loc. cit. 6. Both have their home in the rock, Shaw p. 301, Bruce p. 146; cf. Ps. CIV, 18. 7. Both are common in Syria and Eretz Yisrael, on the testimony of those same travellers. Yet we shall also find every one of these features in the jerboa (<i>mus iaculus</i>), the يربوع [yarbūʿ] of the Arabs, about which Bochart says a great deal in what follows."
+  },
+  {
+   "type": "footnote",
+   "marker": "(4)",
+   "text": "Bruce, vol. 5, p. 144, Leipzig trans., described this animal much more accurately than the Arabs. It appears to be a species of <i>viverra</i>, which Blumenbach, in a note on that passage of Bruce, calls <i>viverra aurita</i> on account of its remarkable oval ears. The name of the animal was unknown to Buffon, who gave a description of it in the <i>Supplemm. to</i> vol. 3 of the <i>Hist. Nat.</i>"
+  },
+  {
+   "type": "footnote",
+   "marker": "(5)",
+   "text": "But if the وبر [wabr] is the <i>Syrian hyrax</i> (and we think this has been sufficiently proved above, note 3), nothing will prevent the وبر [wabr] of the Arabs and the שפן of the Hebrews from being the same animal."
+  },
+  {
+   "type": "footnote",
+   "marker": "a)",
+   "text": "<i>See Clim. 1, section 1.</i>"
+  },
+  {
+   "type": "footnote",
+   "marker": "(6)",
+   "text": "<i>Mus jaculus with elongated tufted tail, forefeet nearly five-toed, very long thighs, very short arms</i>, Linnaeus, <i>Systema Naturae</i> vol. 1, p. 157, ed. 13. Descriptions of the animal, which they had carefully observed themselves, have been given by Hasselquist in <i>Itinerar. Palaestinae</i> p. 277, by Pallas in <i>Novis Specieb. Quadruped. ex Glirium ordine</i> p. 277 ff., and by Bruce in <i>Travels</i> vol. 5, p. 128 ff. With these Oedmann should be compared, in the <i>Vermischten Sammlungen</i>, fasc. 4, p. 48."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5:batch",
+  "effort": "medium",
+  "input_tokens": 5900,
+  "output_tokens": 6194,
+  "reasoning_tokens": 3835,
+  "cost_usd": 0,
+  "seconds": 553.5
+ }
+}

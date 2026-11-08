@@ -118,9 +118,16 @@ def main():
     p.add_argument("last", type=int)
     p.add_argument("--vol", type=int, default=2)
     p.add_argument("--main", default="or-claude-opus-5.5@low")
+    p.add_argument("--judge", default="", help="judge tag: reads data/fix/{range}.judge.{tag}.jsonl (judge_page.py)")
+    p.add_argument("--skip-mdz-only", action="store_true", help="ignore flags where only MDZ differs from the main OCR")
     a = p.parse_args()
     rng = f"v{a.vol}-{a.first}-{a.last}"
-    recs = [json.loads(x) for x in (DATA / "fix" / f"{rng}.judge.jsonl").read_text(encoding="utf-8").splitlines()]
+    sfx = (f".{a.judge}" if a.judge else "") + (".nomdz" if a.skip_mdz_only else "")
+    recs = [json.loads(x) for x in (DATA / "fix" / f"{rng}.judge{'.' + a.judge if a.judge else ''}.jsonl")
+            .read_text(encoding="utf-8").splitlines()]
+    if a.skip_mdz_only:
+        for rec in recs:
+            rec["items"] = [it for it in rec["items"] if it["flash"] and it["flash"] != it["main"]]
     rows, decisions, tally = [], [], Counter()
     for rec in recs:
         for it in (w for item in rec["items"] for w in by_word(item)):
@@ -147,16 +154,16 @@ def main():
             rows.append({"page": rec["page"], "script": it["script"], "main": it["main"], "flash": it["flash"],
                          "mdz": it["mdz"], "judge": pr, "confident": it["confident"], "outcome": outcome,
                          "new": new, "line": rec["line"]})
-    (DATA / "fix" / f"{rng}.decisions.json").write_text(json.dumps(
+    (DATA / "fix" / f"{rng}.decisions{sfx}.json").write_text(json.dumps(
         {"rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
          "items": decisions}, ensure_ascii=False, indent=1), encoding="utf-8")
-    out = ROOT / "logs" / f"vote_{rng}.csv"
+    out = ROOT / "logs" / f"vote_{rng}{sfx}.csv"
     with out.open("w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
     # the voted OCR as an engine of its own
-    src, dst = DATA / "ocr" / a.main, DATA / "ocr" / f"{a.main}+vote"
+    src, dst = DATA / "ocr" / a.main, DATA / "ocr" / f"{a.main}+vote{sfx.replace('.', '-')}"
     dst.mkdir(parents=True, exist_ok=True)
     failed = 0
     by_page = {}

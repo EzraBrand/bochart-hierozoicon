@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIV. <i>De vulgari Mure.</i> 429",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIV. <i>De vulgari Mure.</i> 429"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "um haec duo genera confudisse putaverim, et mures ἐχῖνας, vel ἐχινώδεις, <i>he-\nrinaceos</i> appellasse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "um haec duo genera confudisse putaverim, et mures ἐχῖνας, vel ἐχινώδεις, <i>he-\nrinaceos</i> appellasse."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Notandum quoque, <i>Iudaeorum</i> שפנים <i>sephanim</i>, id est, χοιρογρυλλίους,\nvel ἀρκτομῦας, si mavis, quaedam habere communia cum <i>Hispaniae</i> cuniculis;\noculos scilicet, et caput, et imam caudam, ut a <i>Teixeira</i> observatur: et quod ⟦p. 1017⟧\nposteriores pedes prioribus sunt longiores, quodque subsultim gradiuntur, et\npariter ruminant, quamvis utrimque dentati, et subterranea sibi latibula defo-\ndiunt, in quibus interdiu latent. Itaque ut <i>Hebraei</i> hodie, ita <i>Poeni</i> videntur\nolim <i>Hebraeum</i> nomen שפן <i>saphan</i> cuniculis indidisse, atque inde esse, quod\n<i>Hispania</i> שפניה, Σπάνια, id est, <i>cuniculosa</i> dicta est, ut in <i>Catullo Celtiberia</i>,\nquod jam supra ^{c)} monuimus. Aliorum tamen esto judicium.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Notandum quoque, <i>Iudaeorum</i> שפנים <i>sephanim</i>, id est, χοιρογρυλλίους,\nvel ἀρκτομῦας, si mavis, quaedam habere communia cum <i>Hispaniae</i> cuniculis;\noculos scilicet, et caput, et imam caudam, ut a <i>Teixeira</i> observatur: et quod ⟦p. 1017⟧\nposteriores pedes prioribus sunt longiores, quodque subsultim gradiuntur, et\npariter ruminant, quamvis utrimque dentati, et subterranea sibi latibula defo-\ndiunt, in quibus interdiu latent. Itaque ut <i>Hebraei</i> hodie, ita <i>Poeni</i> videntur\nolim <i>Hebraeum</i> nomen שפן <i>saphan</i> cuniculis indidisse, atque inde esse, quod\n<i>Hispania</i> שפניה, Σπάνια, id est, <i>cuniculosa</i> dicta est, ut in <i>Catullo Celtiberia</i>,\nquod jam supra ^{c)} monuimus. Aliorum tamen esto judicium."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXXIV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXXIV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De vulgari Mure.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De vulgari Mure.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hebraei</i> murem עכבר <i>achbar</i> appellant, voce fortasse <i>Chaldaea</i> magis, quae-\nque proprie <i>murem agrestem</i> sonat. Videtur enim עכבר <i>achbar</i> dici pro\nעכלבר <i>achalbar</i>, eliso L: ut in vocibus <i>Babel</i> pro <i>Balbel</i>, et <i>Samuel</i> pro שאול-מאל\n<i>Saul-meel</i>, quasi <i>petitum a Deo</i> dicas. Nempe <i>Chaldaeis</i> עכל <i>achal</i> est <i>consu-\nmere</i>; et בר <i>bar</i> est <i>ager</i>: itaque עכלבר <i>achalbar</i>, et per contractionem עכבר\n<i>achbar</i> est <i>agri consumtor</i>, seu <i>vastator</i> ^{(1)}. Nomen agresti muri valde congru-\num, qui agrorum est certa pestis. <i>Aristoteles Hist.</i> lib. 6. cap. 37. Ἀπορεῖται δὲ\nκαὶ ἡ τῶν ἐπιπολαζόντων μυῶν γένεσις ἐν ταῖς χώραις, καὶ ἡ φορά. πολλα-\nχοῦ γὰρ εἴωθε γίνεσθαι πλῆθος ἀμύθητον τῶν ἀρουραίων, ὥς τε ὀλίγον λείπε-\nσθαι τοῦ σίτου παντός. γίνεται δὲ οὕτω ταχεῖα ἡ φορὰ, ὥστε ἔνιοι τῶν μὴ μεγά-\nλας γεωργίας ἐργαζομένων, τῇ προτέρα ἰδόντες ὅτι θερίζειν ὥρα, τῇ ὑστεραία\nἕωθεν ἄγοντες τοὺς θεριστὰς, καταβεβρωμένα ἅπαντα καταλαμβάνουσιν.\n<i>In quaestionem etiam vocatur murium in agris emergentium generatio et proventus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraei</i> murem עכבר <i>achbar</i> appellant, voce fortasse <i>Chaldaea</i> magis, quae-\nque proprie <i>murem agrestem</i> sonat. Videtur enim עכבר <i>achbar</i> dici pro\nעכלבר <i>achalbar</i>, eliso L: ut in vocibus <i>Babel</i> pro <i>Balbel</i>, et <i>Samuel</i> pro שאול-מאל\n<i>Saul-meel</i>, quasi <i>petitum a Deo</i> dicas. Nempe <i>Chaldaeis</i> עכל <i>achal</i> est <i>consu-\nmere</i>; et בר <i>bar</i> est <i>ager</i>: itaque עכלבר <i>achalbar</i>, et per contractionem עכבר\n<i>achbar</i> est <i>agri consumtor</i>, seu <i>vastator</i> ^{(1)}. Nomen agresti muri valde congru-\num, qui agrorum est certa pestis. <i>Aristoteles Hist.</i> lib. 6. cap. 37. Ἀπορεῖται δὲ\nκαὶ ἡ τῶν ἐπιπολαζόντων μυῶν γένεσις ἐν ταῖς χώραις, καὶ ἡ φορά. πολλα-\nχοῦ γὰρ εἴωθε γίνεσθαι πλῆθος ἀμύθητον τῶν ἀρουραίων, ὥς τε ὀλίγον λείπε-\nσθαι τοῦ σίτου παντός. γίνεται δὲ οὕτω ταχεῖα ἡ φορὰ, ὥστε ἔνιοι τῶν μὴ μεγά-\nλας γεωργίας ἐργαζομένων, τῇ προτέρα ἰδόντες ὅτι θερίζειν ὥρα, τῇ ὑστεραία\nἕωθεν ἄγοντες τοὺς θεριστὰς, καταβεβρωμένα ἅπαντα καταλαμβάνουσιν.\n<i>In quaestionem etiam vocatur murium in agris emergentium generatio et proventus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Hhh 3 <i>Saepe</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hhh 3 <i>Saepe</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Pag.</i> 1003.",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pag.</i> 1003."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Vocabulum עכבר SIMONIS in <i>Lexico</i>\net in <i>Arcano Formarum</i> p. 660. composi-\ntum putat ex verbo עכר, quod ejusdem\nsignificationis opinatur cum Arabum عرك\n<i>fricuit</i>, atque e voce בר, ut indicetur ani-\nmal, <i>fricans frumenta</i>. Quod quam sit\nfrigidum, quisque sponte sentiet. Nec ma-\ngis placet, quod protulit MICHAELIS <i>Sup-\nplemm. ad Lexx.</i> P. V. p. 1908., Hebraeum\nעכבר referens ad Arabum عُكَبٌ <i>agilis,\nalacer</i>.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vocabulum עכבר SIMONIS in <i>Lexico</i>\net in <i>Arcano Formarum</i> p. 660. composi-\ntum putat ex verbo עכר, quod ejusdem\nsignificationis opinatur cum Arabum عرك\n<i>fricuit</i>, atque e voce בר, ut indicetur ani-\nmal, <i>fricans frumenta</i>. Quod quam sit\nfrigidum, quisque sponte sentiet. Nec ma-\ngis placet, quod protulit MICHAELIS <i>Sup-\nplemm. ad Lexx.</i> P. V. p. 1908., Hebraeum\nעכבר referens ad Arabum عُكَبٌ <i>agilis,\nalacer</i>."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-4-argon",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1784,
+    1129
+   ],
+   [
+    1784,
+    1695
+   ]
+  ],
+  "input_tokens": 3552,
+  "output_tokens": 1161,
+  "cost_usd": 0.0187,
+  "seconds": 20.4
+ }
+}

@@ -92,6 +92,17 @@ around them. Concatenating the runs of a block must give the block text exactly 
 "\\n" included). If Hebrew vs. Aramaic is unclear, use heb.
 """
 
+COMPACT_RUNS = """\
+Give each block as "type", "marker" and "text" (the whole block, lines separated by "\\n"). \
+Do not split a block by language.
+"""
+
+SCHEMA_COMPACT = {"type": "object", "properties": {"blocks": {"type": "array", "items": {
+    "type": "object", "properties": {"type": {"type": "string", "enum": BLOCK_TYPES}, "marker": {"type": "string"},
+                                     "text": {"type": "string"}},
+    "required": ["type", "marker", "text"], "additionalProperties": False}}},
+    "required": ["blocks"], "additionalProperties": False}
+
 SCHEMA = {
     "type": "object",
     "properties": {
@@ -156,6 +167,20 @@ def text_box(gray: Image.Image, gap: float = 0.04) -> tuple[int, int, int, int]:
             min(x1 + side, w) * 4, min(ys[-1] + 1 + pad, h) * 4)
 
 
+def page_boxes(path: Path) -> list[tuple[int, int, int, int]]:
+    """Boxes (in scan pixels) of the image(s) a page is sent as: the same cut as page_images."""
+    gray = Image.open(path).convert("L")
+    x0, y0, x1, y1 = text_box(gray)
+    page = gray.crop((x0, y0, x1, y1))
+    w, h = page.size
+    if w * h <= MAX_PIXELS and max(w, h) <= MAX_EDGE:
+        return [(x0, y0, x1, y1)]
+    ink = (np.asarray(page) < 140).mean(axis=1)
+    lo, hi = int(h * 0.4), int(h * 0.6)
+    cut = lo + int(np.argmin(np.convolve(ink[lo:hi], np.ones(15) / 15, "same")))
+    return [(x0, y0, x1, y0 + cut), (x0, y0 + cut, x1, y1)]
+
+
 def page_images(path: Path) -> list[Image.Image]:
     """Crop to the text block; cut in two at a blank row if one image would be downscaled.
 
@@ -184,6 +209,23 @@ def jpeg_b64(img: Image.Image) -> str:
 
 # ---------- engine ----------
 
+def guess_lang(text: str) -> str:
+    n = {"lat": 0, "grc": 0, "heb": 0, "ara": 0, "syc": 0}
+    for c in text:
+        o = ord(c)
+        if 0x0590 <= o <= 0x05FF:
+            n["heb"] += 1
+        elif 0x0600 <= o <= 0x06FF:
+            n["ara"] += 1
+        elif 0x0700 <= o <= 0x074F:
+            n["syc"] += 1
+        elif 0x0370 <= o <= 0x03FF or 0x1F00 <= o <= 0x1FFF:
+            n["grc"] += 1
+        elif c.isalpha():
+            n["lat"] += 1
+    return max(n, key=n.get)
+
+
 def parse_blocks(text: str) -> list[dict]:
     """Model JSON -> blocks; block lang = the language with the most characters."""
     text = text.strip()
@@ -191,6 +233,8 @@ def parse_blocks(text: str) -> list[dict]:
         text = text.split("\n", 1)[1].rsplit("```", 1)[0]
     blocks = []
     for b in json.loads(text)["blocks"]:
+        if "runs" not in b:  # compact format: one run, its language from the letters
+            b["runs"] = [{"lang": guess_lang(b["text"]), "text": b["text"]}]
         chars = {}
         for r in b["runs"]:
             chars[r["lang"]] = chars.get(r["lang"], 0) + len(r["text"].strip())
@@ -200,42 +244,89 @@ def parse_blocks(text: str) -> list[dict]:
     return blocks
 
 
-def run_openrouter(path: Path) -> dict:
-    import requests
+def request_body(pg: dict) -> tuple[dict, list]:
+    path = DATA / pg["file"]
+    if ARGS.image_url or ARGS.batch:  # IIIF crops of the same boxes, for providers that take no base64 in a batch
+        boxes = page_boxes(path)
+        urls = [f"{pg['image_service']}/{x0},{y0},{x1 - x0},{y1 - y0}/full/0/default.jpg" for x0, y0, x1, y1 in boxes]
+        sizes = [[x1 - x0, y1 - y0] for x0, y0, x1, y1 in boxes]
+    else:
+        imgs = page_images(path)
+        urls = [f"data:image/jpeg;base64,{jpeg_b64(im)}" for im in imgs]
+        sizes = [list(im.size) for im in imgs]
+    content = [{"type": "image_url", "image_url": {"url": u}} for u in urls]
+    prompt = PROMPT.format(n=len(urls))
+    if ARGS.compact:
+        prompt = prompt[:prompt.index("Runs: split")].replace("not in the runs", "not in the text") + COMPACT_RUNS
+    content.append({"type": "text", "text": prompt + "\nAnswer with the JSON object only."})
+    body = {"max_tokens": 32000, "messages": [{"role": "user", "content": content}],
+            "response_format": {"type": "json_schema", "json_schema": {
+                "name": "page", "strict": True, "schema": SCHEMA_COMPACT if ARGS.compact else SCHEMA}},
+            "reasoning": {"effort": ARGS.effort}, "usage": {"include": True}}
+    return body, sizes
 
-    key = Path(os.environ.get("OPENROUTER_KEY_FILE", Path.home() / "Desktop/Misc/key.txt"))
-    imgs = page_images(path)
-    content = [{"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{jpeg_b64(im)}"}}
-               for im in imgs]
-    content.append({"type": "text", "text": PROMPT.format(n=len(imgs)) + "\nAnswer with the JSON object only."})
-    t = time.monotonic()
-    r = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers={"Authorization": "Bearer " + key.read_text(encoding="utf-8").strip()},
-        json={"model": ARGS.model, "max_tokens": 32000,
-              "messages": [{"role": "user", "content": content}],
-              "response_format": {"type": "json_schema",
-                                  "json_schema": {"name": "page", "strict": True, "schema": SCHEMA}},
-              "reasoning": {"effort": ARGS.effort},
-              "usage": {"include": True}},
-        timeout=900)
-    d = r.json()
-    raw = DATA / "ocr" / "_raw" / f"{ARGS.model.split('/')[-1]}_{path.stem}.json"
+
+def parse_response(d: dict, key: str, sizes: list, seconds: float) -> dict:
+    raw = DATA / "ocr" / "_raw" / f"{ARGS.model.split('/')[-1]}{'_' + ARGS.tag if ARGS.tag else ''}_{key}.json"
     raw.parent.mkdir(parents=True, exist_ok=True)
     raw.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
-    if not r.ok or "error" in d:
-        raise RuntimeError(f"HTTP {r.status_code}: {d.get('error', d)}")
+    if "error" in d or "choices" not in d:
+        raise RuntimeError(f"{d.get('error', d)}")
     ch = d["choices"][0]
     u = d.get("usage", {})
     if ch.get("finish_reason") not in ("stop", "end_turn"):
         raise RuntimeError(f"finish_reason={ch.get('finish_reason')}, cost ${u.get('cost', 0):.4f}")
     return {"blocks": parse_blocks(ch["message"]["content"]), "meta": {
-        "engine": "openrouter", "model": d.get("model", ARGS.model), "provider": d.get("provider"),
-        "effort": ARGS.effort, "reasoning_tokens":
-            (u.get("completion_tokens_details") or {}).get("reasoning_tokens"),
-        "images": [list(im.size) for im in imgs],
-        "input_tokens": u.get("prompt_tokens"), "output_tokens": u.get("completion_tokens"),
-        "cost_usd": round(u.get("cost", 0), 4), "seconds": round(time.monotonic() - t, 1)}}
+        "engine": "openrouter batch" if ARGS.batch else "openrouter", "model": d.get("model", ARGS.model),
+        "provider": d.get("provider"), "effort": ARGS.effort, "format": "compact" if ARGS.compact else "runs",
+        "reasoning_tokens": (u.get("completion_tokens_details") or {}).get("reasoning_tokens"),
+        "images": sizes, "input_tokens": u.get("prompt_tokens"), "output_tokens": u.get("completion_tokens"),
+        "cost_usd": round(u.get("cost", 0), 4), "seconds": round(seconds, 1)}}
+
+
+def run_openrouter(pg: dict) -> dict:
+    import requests
+
+    key = Path(os.environ.get("OPENROUTER_KEY_FILE", Path.home() / "Desktop/Misc/key.txt"))
+    body, sizes = request_body(pg)
+    t = time.monotonic()
+    r = requests.post("https://openrouter.ai/api/v1/chat/completions",
+                      headers={"Authorization": "Bearer " + key.read_text(encoding="utf-8").strip()},
+                      json={"model": ARGS.model, **body}, timeout=900)
+    d = r.json()
+    if not r.ok and "error" not in d:
+        d = {"error": f"HTTP {r.status_code}: {d}"}
+    return parse_response(d, pg["key"], sizes, time.monotonic() - t)
+
+
+def run_batch(pages: list[dict], name: str) -> None:
+    import orbatch
+
+    todo = [pg for pg in pages if ARGS.force or not (DATA / "ocr" / name / f"{pg['key']}.json").exists()]
+    if not todo:
+        print("all pages done already")
+        return
+    prepared = {pg["key"]: request_body(pg) for pg in todo}
+    t = time.monotonic()
+    res = orbatch.run_batch(ARGS.model, {k: body for k, (body, _) in prepared.items()},
+                            log_name=ARGS.batch_log or f"ocr_{name}_{time.strftime('%Y-%m-%d_%H%M')}")
+    total, done = 0.0, 0
+    for pg in todo:
+        try:
+            r = parse_response(res.get(pg["key"], {"error": "no result"}), pg["key"], prepared[pg["key"]][1],
+                               time.monotonic() - t)
+        except Exception as e:
+            print(f"{pg['key']}: FAILED {type(e).__name__}: {e}", flush=True)
+            continue
+        out = DATA / "ocr" / name / pg["key"]
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.with_suffix(".json").write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
+        out.with_suffix(".md").write_text(to_md(pg, r), encoding="utf-8")
+        total += r["meta"]["cost_usd"]
+        done += 1
+        print(f"{pg['key']}: {len(r['blocks'])} blocks, in {r['meta']['input_tokens']}, "
+              f"out {r['meta']['output_tokens']}, ${r['meta']['cost_usd']:.4f}", flush=True)
+    print(f"{done}/{len(todo)} pages OCR'd this run (batch), cost ${total:.4f}")
 
 
 def to_md(page: dict, result: dict) -> str:
@@ -262,6 +353,10 @@ def main():
     p.add_argument("--effort", default="low", choices=["low", "medium", "high", "xhigh", "max"])
     p.add_argument("--tag", default="", help="suffix for the output folder, e.g. a prompt version")
     p.add_argument("--force", action="store_true")
+    p.add_argument("--compact", action="store_true", help="blocks without language runs (fewer output tokens)")
+    p.add_argument("--batch", action="store_true", help="OpenRouter Batch API: half price, results in minutes to hours")
+    p.add_argument("--batch-log", default="", help="name of the batch state file in logs/, to resume a batch")
+    p.add_argument("--image-url", action="store_true", help="send IIIF crop URLs instead of base64 images")
     p.add_argument("--start", type=int, default=0, help="parallel workers: first page index")
     p.add_argument("--stride", type=int, default=1, help="parallel workers: take every n-th page")
     ARGS = p.parse_args()
@@ -271,6 +366,8 @@ def main():
     if ARGS.pages:
         pages = [pg for pg in pages if pg["key"] in ARGS.pages]
     pages = pages[ARGS.start::ARGS.stride]
+    if ARGS.batch:
+        return run_batch(pages, name)
     total, done = 0.0, 0
     for i, pg in enumerate(pages, 1):
         out = DATA / "ocr" / name / pg["key"]
@@ -278,7 +375,7 @@ def main():
             print(f"[{i}/{len(pages)}] {pg['key']}: done already", flush=True)
             continue
         try:
-            res = run_openrouter(DATA / pg["file"])
+            res = run_openrouter(pg)
         except Exception as e:  # report and go on with the next page
             print(f"[{i}/{len(pages)}] {pg['key']}: FAILED {type(e).__name__}: {e}", flush=True)
             continue

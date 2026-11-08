@@ -117,6 +117,7 @@ def main():
     p.add_argument("--vol", type=int, default=2)
     p.add_argument("--main", default="or-claude-opus-5.5@low")
     p.add_argument("--flash", default="or-gemini-3.8-flash@low")
+    p.add_argument("--run", default="", help="suffix of the check CSV, e.g. .argon (another main OCR)")
     a = p.parse_args()
     rows, n_words = [], 0
     for page in range(a.first, a.last + 1):
@@ -159,7 +160,7 @@ def main():
             row["line_no"] = li
             row["box"], row["box_match"] = find_box(lines[li], boxes)
             rows.append(row)
-    out = ROOT / "logs" / f"check_v{a.vol}-{a.first}-{a.last}.csv"
+    out = ROOT / "logs" / f"check_v{a.vol}-{a.first}-{a.last}{a.run}.csv"
     out.parent.mkdir(exist_ok=True)
     with out.open("w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["page", "script", "kind", "main", "flash", "mdz", "line", "line_no", "box", "box_match"])

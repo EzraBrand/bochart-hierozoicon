@@ -11,3 +11,8 @@ data/mdz_hocr/
 data/ocr/_raw/
 data/gold/*.scan.jpg
 *.bak
+# derived test outputs (rebuilt by vote.py --judge ...)
+data/ocr/*+vote-*/
+data/fix/*.decisions.*.json
+# OpenRouter model list (prices), fetched for costtest/costs.py
+costtest/models.json

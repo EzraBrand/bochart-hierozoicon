@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 423",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. <i>sed majoris muris genus.</i> 423"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>stris instruit, quarum una vocatur</i> naphika, <i>alia</i> kasia, <i>et</i> rahita. <i>A quibus, si\nimpetatur, exit per</i> naphikam. <i>Et, si a</i> naphika <i>impetatur, exit per</i> kasiam;\n<i>aut per</i> rahitam, <i>si a</i> kasia. Quomodo de mure nostro <i>Plautus in Truculento</i>\nActu quarto,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>stris instruit, quarum una vocatur</i> naphika, <i>alia</i> kasia, <i>et</i> rahita. <i>A quibus, si\nimpetatur, exit per</i> naphikam. <i>Et, si a</i> naphika <i>impetatur, exit per</i> kasiam;\n<i>aut per</i> rahitam, <i>si a</i> kasia. Quomodo de mure nostro <i>Plautus in Truculento</i>\nActu quarto,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cogitato, mus pusillus quam sit sapiens bestia,\nAetatem qui uni cubili nunquam committit suam:\nQuia si unum ostium obsideatur, aliud perfugium gerit</i> (^{b}).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cogitato, mus pusillus quam sit sapiens bestia,\nAetatem qui uni cubili nunquam committit suam:\nQuia si unum ostium obsideatur, aliud perfugium gerit</i> (^{b})."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et aliud comminisci dicitur <i>aljarbuo</i>. Fenestras, aut foramina sua verius,\nquandoque terra obducit in summa superficie, ne extrinsecus appareant (^{10}).\nId <i>Arabice</i> دم <i>damma</i> dicitur. <i>Alcamus</i>, دم اليربوع حجره غطاه\nوسواه Damma aljarbuo <i>latibulum suum, id est, texit istud et complanavit.</i> Un-\nde et latibulo دمة <i>dumama</i> nomen. Idem <i>Alcamus</i>, الدمة حجرة\nاليربوع وتراب يجمعه اليربوع ويخرجه من الحجر،\nفيسوي به بابه <i>Dumama, latibulum</i> aljarbui, <i>et terra, quam colligit\net e latibulo suo effodit, ut ea complanet ejus aditum.</i> Proinde ut نافقا <i>na-\nphika</i> dicitur ejus latibuli foramen, terra obtectum, inde sumta metaphora نافق\n<i>naphaka</i>, verbum tertiae Conjugationis, est <i>in religione dissimulare, et aliud ore\nprofiteri, aliud habere in animo reconditum.</i> Et منافق <i>munaphik</i> est <i>hypo-\ncrita. Damir</i>, ظاهر بيته تراب وباطنه حفر وكذلك\nالمنافق ظاهره ايمان وباطنه كفر <i>Pars exterior domus\nejus terra est, sed interior est concava. Hypocrita itidem fidem habet extrinsecus,\nsed intrinsecus infidelitatem. Algiahid</i>, et alii, واسم المنافق لم يكن\nفي الجاهلية لكن لمن اسر الكفر واظهر الايمان\n<i>Nomen</i> munaphik <i>non erit in Ethnicismo, sed de eo</i> (dicitur), <i>qui celat infidelita-\ntem, et ostentat fidem. Albazi</i>, تعالي اشتق له هذا الاسم من\nهذا الاصل وهو من نافقا اليربوع لانه لما ابطن الكفر ⟦p. 1013⟧\nواظهر الايمان <i>Excelsus Deus hypocritae nomen derivavit ex ista radice,\nnempe ex</i> naphika, seu <i>foramine muris</i>, aljarbuo <i>dicti; quia intus est infidelitas,\net extra fides.</i> Haec et alia plura Arabes in Azoaram Alcorani LXXIII. cui titu-\nlus المنافقون hypocritae. In <i>Alcamus</i> nidus hujus animalis vocatur لغز",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et aliud comminisci dicitur <i>aljarbuo</i>. Fenestras, aut foramina sua verius,\nquandoque terra obducit in summa superficie, ne extrinsecus appareant (^{10}).\nId <i>Arabice</i> دم <i>damma</i> dicitur. <i>Alcamus</i>, دم اليربوع حجره غطاه\nوسواه Damma aljarbuo <i>latibulum suum, id est, texit istud et complanavit.</i> Un-\nde et latibulo دمة <i>dumama</i> nomen. Idem <i>Alcamus</i>, الدمة حجرة\nاليربوع وتراب يجمعه اليربوع ويخرجه من الحجر،\nفيسوي به بابه <i>Dumama, latibulum</i> aljarbui, <i>et terra, quam colligit\net e latibulo suo effodit, ut ea complanet ejus aditum.</i> Proinde ut نافقا <i>na-\nphika</i> dicitur ejus latibuli foramen, terra obtectum, inde sumta metaphora نافق\n<i>naphaka</i>, verbum tertiae Conjugationis, est <i>in religione dissimulare, et aliud ore\nprofiteri, aliud habere in animo reconditum.</i> Et منافق <i>munaphik</i> est <i>hypo-\ncrita. Damir</i>, ظاهر بيته تراب وباطنه حفر وكذلك\nالمنافق ظاهره ايمان وباطنه كفر <i>Pars exterior domus\nejus terra est, sed interior est concava. Hypocrita itidem fidem habet extrinsecus,\nsed intrinsecus infidelitatem. Algiahid</i>, et alii, واسم المنافق لم يكن\nفي الجاهلية لكن لمن اسر الكفر واظهر الايمان\n<i>Nomen</i> munaphik <i>non erit in Ethnicismo, sed de eo</i> (dicitur), <i>qui celat infidelita-\ntem, et ostentat fidem. Albazi</i>, تعالي اشتق له هذا الاسم من\nهذا الاصل وهو من نافقا اليربوع لانه لما ابطن الكفر ⟦p. 1013⟧\nواظهر الايمان <i>Excelsus Deus hypocritae nomen derivavit ex ista radice,\nnempe ex</i> naphika, seu <i>foramine muris</i>, aljarbuo <i>dicti; quia intus est infidelitas,\net extra fides.</i> Haec et alia plura Arabes in Azoaram Alcorani LXXIII. cui titu-\nlus المنافقون hypocritae. In <i>Alcamus</i> nidus hujus animalis vocatur لغز"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>logoz</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>logoz</i>,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>al. erit.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>al. erit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Hanc animalis solertiam testantur quoque recentiores, vid. <i>Oedmann</i>. IV, pag.\n53. 54.",
+   "marker": "(10)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hanc animalis solertiam testantur quoque recentiores, vid. <i>Oedmann</i>. IV, pag.\n53. 54."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-4-argon",
+  "provider": "Google",
+  "effort": "medium",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2096,
+    1508
+   ],
+   [
+    2096,
+    1324
+   ]
+  ],
+  "input_tokens": 3556,
+  "output_tokens": 980,
+  "cost_usd": 0.0169,
+  "seconds": 17.6
+ }
+}

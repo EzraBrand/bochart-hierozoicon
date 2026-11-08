@@ -96,6 +96,68 @@ def ask(model: str, effort: str, img: Image.Image, prompt: str) -> tuple[dict, f
     return json.loads(text), d.get("usage", {}).get("cost", 0)
 
 
+def line_prompt(rows: list[dict]) -> str:
+    items = []
+    for j, r in enumerate(rows, 1):
+        readings = sorted({r["main"], r["flash"], r["mdz"]} - {""})
+        items.append(f'{j}. readings: ' + " | ".join(f'"{x}"' for x in readings))
+    return PROMPT.format(line=rows[0]["line"], items="\n".join(items))
+
+
+# OpenRouter Batch API prices of the Anthropic models, $ per token (in, out): batch results carry no cost
+BATCH_PRICE = {"anthropic/claude-opus-5.5": (2e-6, 1e-5), "anthropic/claude-sonnet-5.5": (1e-6, 5e-6)}
+
+
+def run_batch(a, todo: list, out: Path) -> None:
+    """All lines in one batch, in the Anthropic Messages format (base64 images are accepted there)."""
+    import orbatch
+    done = set()
+    if out.exists():
+        done = {(d["page"], d["line_no"]) for d in map(json.loads, out.read_text(encoding="utf-8").splitlines())}
+    todo = [(k, rows) for k, rows in todo if k not in done]
+    if not todo:
+        print("all lines judged already")
+        return
+    bodies, meta = {}, {}
+    for (page, line_no), rows in todo:
+        weak = not rows[0]["box_match"] or float(rows[0]["box_match"]) < 70
+        buf = io.BytesIO()
+        crop(page, rows[0]["box"], weak).save(buf, "JPEG", quality=92)
+        cid = f"{page}_{line_no}"
+        bodies[cid] = {"max_tokens": 6000, "messages": [{"role": "user", "content": [
+            {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                         "data": base64.standard_b64encode(buf.getvalue()).decode()}},
+            {"type": "text", "text": line_prompt(rows)}]}],
+            "output_config": {"effort": a.effort, "format": {"type": "json_schema", "schema": SCHEMA}}}
+        meta[cid] = (page, line_no, rows, weak)
+    res = orbatch.run_batch(a.model, bodies, log_name=f"judge_{out.stem}", endpoint="/v1/messages")
+    price = BATCH_PRICE.get(a.model, (0, 0))
+    total, n = 0.0, 0
+    with out.open("a", encoding="utf-8") as fh:
+        for cid, (page, line_no, rows, weak) in meta.items():
+            d = res.get(cid, {"error": "no result"})
+            try:
+                text = next(b["text"] for b in d["content"] if b["type"] == "text").strip()
+                if text.startswith("```"):
+                    text = text.split("\n", 1)[1].rsplit("```", 1)[0]
+                ans = json.loads(text)
+            except Exception as e:
+                print(f"{page} line {line_no}: FAILED {type(e).__name__}: {str(d)[:300]}", flush=True)
+                continue
+            u = d.get("usage", {})
+            cost = u.get("input_tokens", 0) * price[0] + u.get("output_tokens", 0) * price[1]
+            by_id = {x["id"]: x for x in ans["items"]}
+            rec = {"page": page, "line_no": line_no, "line": rows[0]["line"], "weak_box": weak, "cost": round(cost, 5),
+                   "model": f"{a.model}@{a.effort} batch",
+                   "items": [{"main": r["main"], "flash": r["flash"], "mdz": r["mdz"], "script": r["script"],
+                              "printed": by_id.get(j, {}).get("printed"), "confident": by_id.get(j, {}).get("confident")}
+                             for j, r in enumerate(rows, 1)]}
+            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            total += cost
+            n += 1
+    print(f"{n}/{len(meta)} lines judged (batch), cost ${total:.4f}; wrote {out}")
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("first", type=int)
@@ -106,17 +168,27 @@ def main():
     p.add_argument("--effort", default="low")
     p.add_argument("--start", type=int, default=0)
     p.add_argument("--stride", type=int, default=1)
+    p.add_argument("--tag", default="", help="write data/fix/{range}.judge.{tag}.jsonl (a test of another judge)")
+    p.add_argument("--subset", default="", help="CSV with page,line_no: judge only these lines")
+    p.add_argument("--run", default="", help="suffix of the check CSV, e.g. .argon (another main OCR)")
+    p.add_argument("--batch", action="store_true",
+                   help="Anthropic models only: OpenRouter Batch API, /v1/messages with base64 crops (half price)")
     a = p.parse_args()
     rng = f"v{a.vol}-{a.first}-{a.last}"
-    flags = [r for r in csv.DictReader((ROOT / "logs" / f"check_{rng}.csv").open(encoding="utf-8-sig"))
+    flags = [r for r in csv.DictReader((ROOT / "logs" / f"check_{rng}{a.run}.csv").open(encoding="utf-8-sig"))
              if r["kind"] == "replace" and (not a.pages or r["page"] in a.pages)]
     groups = {}
     for r in flags:
         groups.setdefault((r["page"], r["line_no"]), []).append(r)
+    if a.subset:
+        keep = {(r["page"], r["line_no"]) for r in csv.DictReader(open(a.subset, encoding="utf-8-sig"))}
+        groups = {k: v for k, v in groups.items() if k in keep}
     todo = sorted(groups.items())[a.start::a.stride]
-    out = DATA / "fix" / f"{rng}.judge.jsonl"
+    out = DATA / "fix" / f"{rng}.judge{'.' + a.tag if a.tag else ''}.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     total, n = 0.0, 0
+    if a.batch:
+        return run_batch(a, todo, out)
     for i, ((page, line_no), rows) in enumerate(todo, 1):
         done = set()
         if out.exists():  # re-read each time: parallel workers share the file
