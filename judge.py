@@ -104,12 +104,10 @@ def line_prompt(rows: list[dict]) -> str:
     return PROMPT.format(line=rows[0]["line"], items="\n".join(items))
 
 
-# OpenRouter Batch API prices of the Anthropic models, $ per token (in, out): batch results carry no cost
-BATCH_PRICE = {"anthropic/claude-opus-5.5": (2e-6, 1e-5), "anthropic/claude-sonnet-5.5": (1e-6, 5e-6)}
-
-
 def run_batch(a, todo: list, out: Path) -> None:
-    """All lines in one batch, in the Anthropic Messages format (base64 images are accepted there)."""
+    """All lines in one OpenRouter batch (half price). The batch takes images only as public URLs,
+    so the same crops as in the sync mode are published first (crophost.py)."""
+    import crophost
     import orbatch
     done = set()
     if out.exists():
@@ -118,26 +116,30 @@ def run_batch(a, todo: list, out: Path) -> None:
     if not todo:
         print("all lines judged already")
         return
-    bodies, meta = {}, {}
+    bodies, meta, crops = {}, {}, {}
     for (page, line_no), rows in todo:
         weak = not rows[0]["box_match"] or float(rows[0]["box_match"]) < 70
+        cid = f"{page}_{line_no}"
+        rel = f"judge/{out.stem}/{cid}.jpg"
         buf = io.BytesIO()
         crop(page, rows[0]["box"], weak).save(buf, "JPEG", quality=92)
-        cid = f"{page}_{line_no}"
-        bodies[cid] = {"max_tokens": 6000, "messages": [{"role": "user", "content": [
-            {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
-                                         "data": base64.standard_b64encode(buf.getvalue()).decode()}},
+        crops[rel] = buf.getvalue()
+        bodies[cid] = {"max_tokens": 1500, "messages": [{"role": "user", "content": [
+            {"type": "image_url", "image_url": {"url": crophost.RAW + rel}},
             {"type": "text", "text": line_prompt(rows)}]}],
-            "output_config": {"effort": a.effort, "format": {"type": "json_schema", "schema": SCHEMA}}}
+            "response_format": {"type": "json_schema", "json_schema": {"name": "items", "strict": True, "schema": SCHEMA}},
+            "reasoning": {"effort": a.effort}, "usage": {"include": True}}
         meta[cid] = (page, line_no, rows, weak)
-    res = orbatch.run_batch(a.model, bodies, log_name=f"judge_{out.stem}", endpoint="/v1/messages")
-    price = BATCH_PRICE.get(a.model, (0, 0))
-    total, n = 0.0, 0
+    state = ROOT / "logs" / f"batch_judge_{out.stem}.json"
+    if not state.exists():
+        crophost.publish(crops)
+    res = orbatch.run_batch(a.model, bodies, log_name=f"judge_{out.stem}")
+    n = 0
     with out.open("a", encoding="utf-8") as fh:
         for cid, (page, line_no, rows, weak) in meta.items():
             d = res.get(cid, {"error": "no result"})
             try:
-                text = next(b["text"] for b in d["content"] if b["type"] == "text").strip()
+                text = d["choices"][0]["message"]["content"].strip()
                 if text.startswith("```"):
                     text = text.split("\n", 1)[1].rsplit("```", 1)[0]
                 ans = json.loads(text)
@@ -145,17 +147,16 @@ def run_batch(a, todo: list, out: Path) -> None:
                 print(f"{page} line {line_no}: FAILED {type(e).__name__}: {str(d)[:300]}", flush=True)
                 continue
             u = d.get("usage", {})
-            cost = u.get("input_tokens", 0) * price[0] + u.get("output_tokens", 0) * price[1]
             by_id = {x["id"]: x for x in ans["items"]}
-            rec = {"page": page, "line_no": line_no, "line": rows[0]["line"], "weak_box": weak, "cost": round(cost, 5),
+            rec = {"page": page, "line_no": line_no, "line": rows[0]["line"], "weak_box": weak,
+                   "input_tokens": u.get("prompt_tokens"), "output_tokens": u.get("completion_tokens"),
                    "model": f"{a.model}@{a.effort} batch",
                    "items": [{"main": r["main"], "flash": r["flash"], "mdz": r["mdz"], "script": r["script"],
                               "printed": by_id.get(j, {}).get("printed"), "confident": by_id.get(j, {}).get("confident")}
                              for j, r in enumerate(rows, 1)]}
             fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            total += cost
             n += 1
-    print(f"{n}/{len(meta)} lines judged (batch), cost ${total:.4f}; wrote {out}")
+    print(f"{n}/{len(meta)} lines judged (batch); wrote {out}")
 
 
 def main():
@@ -172,7 +173,7 @@ def main():
     p.add_argument("--subset", default="", help="CSV with page,line_no: judge only these lines")
     p.add_argument("--run", default="", help="suffix of the check CSV, e.g. .argon (another main OCR)")
     p.add_argument("--batch", action="store_true",
-                   help="Anthropic models only: OpenRouter Batch API, /v1/messages with base64 crops (half price)")
+                   help="OpenRouter Batch API (half price); crops published with crophost.py")
     a = p.parse_args()
     rng = f"v{a.vol}-{a.first}-{a.last}"
     flags = [r for r in csv.DictReader((ROOT / "logs" / f"check_{rng}{a.run}.csv").open(encoding="utf-8-sig"))

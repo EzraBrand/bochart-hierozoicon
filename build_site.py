@@ -40,6 +40,10 @@ DOCS = [
      "title": "Book 3, chapter 33: The shafan",
      "sub": "Vol. 2, pp. 409–429 · cols. 1001–1017 of 1663 · שפן saphan is not the rabbit but a kind of "
             "larger mouse (the jerboa): Hebrew, Greek, Latin, Arabic and Syriac sources"},
+    {"slug": "choled", "kind": "entry", "entry": "choled", "vol": 2, "pages": list(range(435, 454)),
+     "title": "Book 3, chapter 35: The choled",
+     "sub": "Vol. 2, pp. 435–453 · cols. 1021–1036 of 1663 · חולד choled is not the weasel but the mole; "
+            "other names of the mole. First chapter made with the Batch API pipeline (08-Nov-2026)"},
 ]
 CONTENTS = []
 

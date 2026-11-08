@@ -56,6 +56,26 @@ REJECT = {
     ("v2-0429", "עכלבר"): "print עכלבר (achalbar); the line has both עכבר and עכלבר",
     ("v2-0411", "κένικλον."): "print κένικλον",
     ("v2-0411", "κένικλος,"): "print κένικλος (as κένικλον two lines before)",
+    # ch. 35 (read on the scan 08-Nov-2026)
+    ("v2-0440", "nuper"): "the r is in the smeared right edge of the scan",
+    ("v2-0442", "fol. 6."): "spacing only",
+    ("v2-0447", "כפל"): "print כפל (Ps 58:9 has נפל: a printer's error, kept as printed)",
+    ("v2-0452", "scribit"): "print scribit (long s, then c)",
+    ("v2-0454", "kipp[?]d"): "smeared right edge of the scan",
+    ("v2-0437", "στον"): "print στ ligature (δυσανταγωνι-|στον)",
+    ("v2-0441", "metalla"): "print metalla (the m looks like in)",
+}
+
+# Since 08-Nov-2026 a change that only MDZ supports (with the judge) is not applied but listed as
+# "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
+# A change in this list was read on the scan and is right, so it is applied.
+ACCEPT = {
+    # pilot, ch. 33 (read on the scan 01-Nov-2026)
+    ("v2-0410", "וחתול"), ("v2-0428", "τῷ"), ("v2-0428", "Scholia-"), ("v2-0428", "caussa"),
+    ("v2-0416", "Viggeio"), ("v2-0416", "alphenec,"), ("v2-0429", "σθαι"),
+    ("v2-0421", "لانت"), ("v2-0421", "انا"),  # ذ/ن changes of the pilot, right (لاذت, اذا)
+    # ch. 35 (read on the scan 08-Nov-2026)
+    ("v2-0436", "„estae."),  # ho-|nestae.
 }
 
 # Differences that the scan cannot decide or that are conventions, not readings: never changed by the
@@ -69,6 +89,12 @@ def ambiguous(old: str, new: str) -> str:
         return "note-mark format"
     if len(o) == len(n) and all(a == b or {a, b} == {"ف", "غ"} for a, b in zip(o, n)):
         return "ف/غ: the same shape in this type (medial)"
+    if len(o) == len(n) and all(a == b or {a, b} == {"ד", "ר"} for a, b in zip(o, n)):
+        return "ד/ר: hardly different in this type on the scan (ch. 35: חולד read as חולר 8 times)"
+    if len(o) == len(n) and all(a == b or {a, b} == {"ذ", "ن"} for a, b in zip(o, n)):
+        return "ذ/ن: ذ is cup-shaped like ن in this type (ch. 35: ذلك, ذهبت)"
+    if o.replace("ذ", "نن") == n or o.replace("ذ", "ن") == n:
+        return "ذ/ن: ذ is cup-shaped like ن in this type (ch. 35: اذانها read as اننانها)"
     if re.sub("ου", "ε", o) == n or re.sub("ού", "έ", o) == n or o.replace("ου", "υ") == n:
         return "ȣ ligature (ου) read as ε or υ"
     if o.replace("στ", "ς") == n:
@@ -143,7 +169,8 @@ def main():
                 new = new.replace("ſ", "s")
                 amb = ambiguous(it["main"], new)
                 outcome = (f"rejected ({REJECT[rec['page'], it['main']]})" if (rec["page"], it["main"]) in REJECT
-                           else f"review ({amb})" if amb else
+                           else f"review ({amb})" if amb and (rec["page"], it["main"]) not in ACCEPT else
+                           "review (MDZ only)" if agree == ["mdz"] and (rec["page"], it["main"]) not in ACCEPT else
                            "change" if similar(it["main"], new) else "review (not similar)")
             else:
                 outcome, new = ("review (judge read another text)" if k else "no answer"), ""
@@ -170,6 +197,8 @@ def main():
     for d in decisions:
         by_page.setdefault(d["page"], []).append(d)
     for f in sorted(src.glob(f"v{a.vol}-*.json")):
+        if not f.stem[3:].isdigit() or not a.first <= int(f.stem[3:]) <= a.last:
+            continue  # only the pages of this range: other ranges have their own decisions
         res = json.loads(f.read_text(encoding="utf-8"))
         for d in by_page.get(f.stem, []):
             if not apply(res["blocks"], d["line"], d["old"], d["new"]):

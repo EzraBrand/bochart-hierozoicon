@@ -1,0 +1,1 @@
+{"blocks": [{"type": "body", "marker": "", "text": "<i>A very great history is born from nothing.</i>"}], "meta": {"model": "anthropic/claude-opus-5.5:batch", "effort": "low", "input_tokens": 2584, "output_tokens": 45, "reasoning_tokens": 0, "cost_usd": 0, "seconds": 248.3}}

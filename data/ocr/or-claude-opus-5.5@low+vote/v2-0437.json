@@ -1,0 +1,147 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXV. <i>sed Talpam.</i> 437",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXV. <i>sed Talpam.</i> 437"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "כי הנה החולד והעכבר הם בטבעם דורכים אל ההשחתה ומועדים תמיד להרע,\n<i>Ecce enim</i> choled <i>et</i> achbar, (id est, <i>mustela</i> et <i>mus</i>) <i>natura sua ad deperditionem\ntendunt, et ad malum sunt semper proclives.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "כי הנה החולד והעכבר הם בטבעם דורכים אל ההשחתה ומועדים תמיד להרע,\n<i>Ecce enim</i> choled <i>et</i> achbar, (id est, <i>mustela</i> et <i>mus</i>) <i>natura sua ad deperditionem\ntendunt, et ad malum sunt semper proclives.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tamen habeo causas dubitandi, an haec sit vera versio. Quarum prima\nest, quod palam inde formatum <i>Syrum</i> ܚܘܠܕܐ <i>chuldo</i> significat <i>talpam</i>, non\n<i>mustelam.</i> Ita statuunt <i>Iohannes Baptista Ferrarius</i>, et <i>Thomas a Novaria</i> in <i>Le-\nxicis</i>, aut <i>Nomenclatoribus Syriacis</i>, <i>Romae</i> editis, annis 1622. et 1636. ^{(2)}. Et\nconfirmat <i>Maronitarum</i> doctissimus <i>Gabriel Sionita</i>, qui verba <i>Syri</i> interpretis\n<i>Proverb. XXIV, 31.</i> ܘܚܦܝܘ ܐܦܘܗܝ ܚܘܠܕܐ <i>Latine</i> ita reddidit: <i>Et\ncooperuerunt superficiem ejus talpae.</i> Neque vero locus patitur, ut <i>mustelae</i> in-\ntelligantur. Agitur enim de agro pigri hominis, qui ita negligitur, ut illum\nurticae obtegant. <i>Urticae</i>, id est, חרלים, ita habetur in <i>Hebraeo.</i> Sed <i>Syrus</i>\nlegit חלדים, litera <i>Res</i> sede sua mota, et in <i>Daleth</i> mutata; quia sunt literae\nsimiles: ac proinde reddidit ܚܘܠܕܐ ^{(3)}. Qua voce non <i>mustelas</i>, sed <i>talpas</i>\nsignificari, res ipsa docet. Neque enim mustelis scatet ager neglectus, sed talpis\nscatere potest, ut docet <i>Poeta</i> summus lib. 1. <i>Georgicorum</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tamen habeo causas dubitandi, an haec sit vera versio. Quarum prima\nest, quod palam inde formatum <i>Syrum</i> ܚܘܠܕܐ <i>chuldo</i> significat <i>talpam</i>, non\n<i>mustelam.</i> Ita statuunt <i>Iohannes Baptista Ferrarius</i>, et <i>Thomas a Novaria</i> in <i>Le-\nxicis</i>, aut <i>Nomenclatoribus Syriacis</i>, <i>Romae</i> editis, annis 1622. et 1636. ^{(2)}. Et\nconfirmat <i>Maronitarum</i> doctissimus <i>Gabriel Sionita</i>, qui verba <i>Syri</i> interpretis\n<i>Proverb. XXIV, 31.</i> ܘܚܦܝܘ ܐܦܘܗܝ ܚܘܠܕܐ <i>Latine</i> ita reddidit: <i>Et\ncooperuerunt superficiem ejus talpae.</i> Neque vero locus patitur, ut <i>mustelae</i> in-\ntelligantur. Agitur enim de agro pigri hominis, qui ita negligitur, ut illum\nurticae obtegant. <i>Urticae</i>, id est, חרלים, ita habetur in <i>Hebraeo.</i> Sed <i>Syrus</i>\nlegit חלדים, litera <i>Res</i> sede sua mota, et in <i>Daleth</i> mutata; quia sunt literae\nsimiles: ac proinde reddidit ܚܘܠܕܐ ^{(3)}. Qua voce non <i>mustelas</i>, sed <i>talpas</i>\nsignificari, res ipsa docet. Neque enim mustelis scatet ager neglectus, sed talpis\nscatere potest, ut docet <i>Poeta</i> summus lib. 1. <i>Georgicorum</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>saepe exiguus mus\nSub terris posuitque domos, atque horrea fecit:\nAut oculis capti fodere cubilia talpae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>saepe exiguus mus\nSub terris posuitque domos, atque horrea fecit:\nAut oculis capti fodere cubilia talpae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quae maxima est agri pernicies. Unde <i>Simocatta</i> in <i>Epistolis</i>, Τί δῆτα περὶ τῶν\nἀσπαλάκων λέξαιμι, φοβερὸν γὰρ τῷ γεωργῷ τὸ κακὸν, καὶ δυσανταγώνι-\nστον τὸ πολέμιον. <i>De talpis igitur quid dixerim? Aratori enim terribile hoc ma-</i> ⟦p. 1023⟧\n<i>lum est, et hostis non facile expugnabilis.</i> Proinde hoc animal finxit <i>Stesimbrotus</i>\nὑπὸ τῆς Γῆς τυφλωθῆναι, διὰ τὸ φθείρειν τοὺς καρποὺς, a Tellure <i>fuisse excae-\ncatum, eo quod fruges corrumperet.</i> Ita <i>Suidas</i> et <i>Apostolius</i> in Τυφλότερος\nἀσπάλακος.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quae maxima est agri pernicies. Unde <i>Simocatta</i> in <i>Epistolis</i>, Τί δῆτα περὶ τῶν\nἀσπαλάκων λέξαιμι, φοβερὸν γὰρ τῷ γεωργῷ τὸ κακὸν, καὶ δυσανταγώνι-\nστον τὸ πολέμιον. <i>De talpis igitur quid dixerim? Aratori enim terribile hoc ma-</i> ⟦p. 1023⟧\n<i>lum est, et hostis non facile expugnabilis.</i> Proinde hoc animal finxit <i>Stesimbrotus</i>\nὑπὸ τῆς Γῆς τυφλωθῆναι, διὰ τὸ φθείρειν τοὺς καρποὺς, a Tellure <i>fuisse excae-\ncatum, eo quod fruges corrumperet.</i> Ita <i>Suidas</i> et <i>Apostolius</i> in Τυφλότερος\nἀσπάλακος."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Praeterea non <i>Syris</i> solum, sed et <i>Arabibus</i> خلد <i>chuld</i>, vel <i>chold</i>, est\n<i>talpa.</i> Quod, ut caetera taceam, aperte docent ejus descriptiones. <i>Alcamus</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Praeterea non <i>Syris</i> solum, sed et <i>Arabibus</i> خلد <i>chuld</i>, vel <i>chold</i>, est\n<i>talpa.</i> Quod, ut caetera taceam, aperte docent ejus descriptiones. <i>Alcamus</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iii 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iii 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "ara",
+   "text": "الخلد",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "الخلد"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Sed I. D. MICHAELIS ad CASTELLI\n<i>Lexic. Syriac.</i> a se editum, p. 297. Syria-\ncum ܚܘܠܕܐ <i>lacertae genus</i> significare\ncontendit, hoc solo argumento ductus, quod\nLevit. XI, 30. Syrus interpres id vocabu-\nlum posuit pro Hebraico כח, quod <i>lacer-\ntam</i> significet. Quod tamen aliis vix pla-\ncuerit. Pro <i>talpa</i> enim stat Arabica diale-\nctus, in qua خُلْدٌ <i>talpam</i> esse, claris-\nsime patet ex iis, quae Bochartus deinceps\nex Arabibus proferet.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed I. D. MICHAELIS ad CASTELLI\n<i>Lexic. Syriac.</i> a se editum, p. 297. Syria-\ncum ܚܘܠܕܐ <i>lacertae genus</i> significare\ncontendit, hoc solo argumento ductus, quod\nLevit. XI, 30. Syrus interpres id vocabu-\nlum posuit pro Hebraico כח, quod <i>lacer-\ntam</i> significet. Quod tamen aliis vix pla-\ncuerit. Pro <i>talpa</i> enim stat Arabica diale-\nctus, in qua خُلْدٌ <i>talpam</i> esse, claris-\nsime patet ex iis, quae Bochartus deinceps\nex Arabibus proferet."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Id vocabulum tamen in loco Prover-\nbiorum Michaelis sive librarii, sive edito-\nris errore positum putat pro ܚܘܪܓܐ, „ut\net Chaldaeus, in Proverbiis Syro fere idem\nex eoque factus, habet חורלי“.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Id vocabulum tamen in loco Prover-\nbiorum Michaelis sive librarii, sive edito-\nris errore positum putat pro ܚܘܪܓܐ, „ut\net Chaldaeus, in Proverbiis Syro fere idem\nex eoque factus, habet חורלי“."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1768,
+    1246
+   ],
+   [
+    1768,
+    1574
+   ]
+  ],
+  "input_tokens": 8423,
+  "output_tokens": 1980,
+  "cost_usd": 0,
+  "seconds": 553.3,
+  "vote": "2 decisions from v2-434-454"
+ }
+}

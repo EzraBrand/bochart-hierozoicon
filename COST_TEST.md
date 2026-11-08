@@ -4,6 +4,40 @@ Goal: cut the cost of the pipeline a lot, with about the same quality. Test pass
 chapter (pp. 408–429), because the three gold pages (410, 422, 428) and the reviewed vote give a
 measure of quality. Spent on the test: $7.51 (key `bochart-hierozoicon`).
 
+## Result: ch. 35 (*choled*) with the new pipeline (08-Nov-2026)
+
+Plan B below, run on Book 3, ch. 35 (pp. 434–454, 21 pages; the chapter is pp. 435–453). The
+crops go to the public repo [bochart-hierozoicon-crops](https://github.com/EzraBrand/bochart-hierozoicon-crops)
+(`crophost.py`; emptied with `uv run crophost.py clean` after the run). Billed costs:
+
+| Step | Model | Cost |
+|---|---|---|
+| OCR, compact output | Opus 5.5 @low, batch | $0.759 |
+| Second reader | Gemini 3.8 Flash @low, batch | $0.077 |
+| Image judge, 366 lines | Opus 5.5 @low, batch | $1.272 |
+| Translation, 13 chunks | Opus 5.5 @low, batch | $0.452 |
+| **Total** | | **$2.56** ($0.122 a page; pilot $0.283 a page: **−57%**) |
+
+Each batch took 5–15 minutes. No failed request.
+
+Quality (no gold page in this chapter yet):
+- `qa.py`: lengths, margin column marks 1021–1036 (each once, no gap), note marks and notes: no
+  problem. Two catchwords read into the body text (pp. 439, 440): removed in `entry.FIXES`.
+- Vote: 27 changes; 83 listed for review (`logs/vote_v2-434-454.csv`).
+- **The vote rule is changed:** a change that only MDZ supports is no longer applied but listed
+  ("review (MDZ only)") unless it is in `vote.ACCEPT` (read on the scan). Of 22 such changes in
+  ch. 35, about 20 were wrong. Most of them are ד read as ר (חולד → חולר, 8 times): on the scan the
+  two letters hardly differ in this type, and MDZ and the judge both read ר. So ד/ר and ذ/ن (the
+  cup-shaped ذ) are now type-ambiguous, like ف/غ: never changed, only listed. The 9 pilot changes of
+  these kinds that were read on the scan are in `ACCEPT`, so the pilot text is unchanged.
+- I read the doubtful changes on the scan: 1 accepted (*nestae*), 7 rejected (כפל is printed, a
+  printer's error for נפל in Ps 58:9; *scribit*, *metalla*, the στ ligature, smeared line ends).
+- Translation (Opus @low): accurate in the passages I read against the Latin; all 36 page and
+  column marks, all 31 Arabic words transliterated; 3 long Greek quotations without
+  transliteration; one page mark inside a quotation dropped by the model (put back by hand in the
+  cached chunk). Names new in this chapter are not in `names.json` yet, so they have no
+  identifications; "1 Cor. XV, 8." is not converted (the Bible-book list has no Cor).
+
 ## Where the money goes now (one chapter, 22 pages)
 
 | Step | Model | Cost | Share |

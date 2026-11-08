@@ -25,8 +25,7 @@ RULES_VERSION = "v1"  # change when the rules change; it is part of the chunk ca
 
 PROMPT = """\
 Below is a passage of Samuel Bochart, "Hierozoicon" (1663), in the edition of E. F. C. Rosenmüller \
-(Leipzig 1793-96): a Latin study of the animals of the Bible, here the chapter arguing that the \
-Hebrew שפן (saphan) is not the rabbit but a kind of larger mouse. It is OCR'd text, as JSON blocks \
+(Leipzig 1793-96): a Latin study of the animals of the Bible, here {about}. It is OCR'd text, as JSON blocks \
 in reading order{notes}. Translate it into English for scholars of the Bible, rabbinics and the \
 history of zoology.
 
@@ -77,7 +76,7 @@ form of a classical or church author, otherwise as printed in the nominative.
 "hedgehog"; "mus" -> "mouse"; "mus Alpinus" -> "Alpine mouse"; "mus iaculus" -> "jerboa (<i>mus \
 iaculus</i>)"; "choerogryllius", "hyrax", "Daman Israel" stay as printed; "saphan" stays \
 "saphan" (never "rock badger", "coney" or "hyrax": the identity of the animal is what the chapter \
-argues about); "Cap." (a chapter of this book) -> "Chapter". "Palaestina" in Bochart's and \
+argues about);{chapter_terms} "Cap." (a chapter of this book) -> "Chapter". "Palaestina" in Bochart's and \
 Rosenmüller's own words -> "Eretz Yisrael"; in a translated quotation of an ancient author -> \
 "Palestine".
 - Abbreviations: do not expand them. "Keep as printed": leave exactly as printed, nothing added \
@@ -107,13 +106,19 @@ SCHEMA = {
 }
 
 
+# What the chapter is about and its own fixed terms; entry.py sets these from ENTRIES (default: the pilot)
+CHAPTER = {"about": "the chapter arguing that the Hebrew שפן (saphan) is not the rabbit but a kind of larger mouse",
+           "terms": ""}
+
+
 def request_body(blocks: list[dict], effort: str, notes: bool = False) -> dict:
     src = [{"type": b["type"], "marker": b.get("marker", ""), "text": b["text"]} for b in blocks]
     text = "\n".join(b["text"] for b in src)
     prompt = PROMPT.format(blocks=json.dumps({"blocks": src}, ensure_ascii=False, indent=1),
                            abbrevs=abbrev.prompt_rows(text), names=names.prompt_rows(text),
-                           notes=NOTES if notes else "")
-    return {"max_tokens": 32000, "messages": [{"role": "user", "content": prompt}],
+                           notes=NOTES if notes else "", about=CHAPTER["about"],
+                           chapter_terms=(" " + CHAPTER["terms"]) if CHAPTER["terms"] else "")
+    return {"max_tokens": 16000, "messages": [{"role": "user", "content": prompt}],
             "response_format": {"type": "json_schema", "json_schema": {"name": "page", "strict": True, "schema": SCHEMA}},
             "reasoning": {"effort": effort}, "usage": {"include": True}}
 

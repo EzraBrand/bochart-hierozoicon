@@ -33,6 +33,15 @@ ENTRIES = {
                "title": "Book 3, chapter 33: Saphan is not the rabbit but a kind of larger mouse (vol. 2, pp. 409–429)",
                "start": r"^CAP\.\s*XXXIII\.", "end": r"^CAP\.\s*XXXIV\.",
                "first_col": 1001},  # the mark p. 1001 stands in the last lines of ch. 32
+    # 08-Nov-2026, the first chapter run with the Batch API (COST_TEST.md); the mark p. 1021 stands in
+    # the heading line; ch. 36 begins at the top of p. 454
+    "choled": {"vol": 2, "pages": list(range(435, 455)),
+               "title": "Book 3, chapter 35: Choled is not the weasel but the mole; other names of the mole (vol. 2, pp. 435–453)",
+               "start": r"^CAP\.\s*XXXV\.", "end": r"^CAP\.\s*XXXVI\.",
+               "about": "the chapter arguing that the Hebrew חלד (choled) is not the weasel but the mole, "
+                        "with the other names of the mole",
+               "terms": '"mustela" -> "weasel"; "talpa" -> "mole"; "choled" stays "choled" (never "weasel" '
+                        'or "mole": the identity of the animal is what the chapter argues about);'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -48,6 +57,9 @@ FIXES = {
     # ኮሮገሬሊወን፡ (choerogryllion): seven signs before the colon, Opus had six; 3rd and 4th not sure
     418: [("<i>Histo-\nriae</i> ⟦p. 1009⟧", "<i>Histo-</i> ⟦p. 1009⟧"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡")],
     421: [("يناقده\nاليه", "يناقده")],
+    # ch. 35 (08-Nov-2026): catchwords read into the body text
+    439: [("caeci de-\ngunt</i>,", "caeci de-</i>")],
+    440: [("meta-\nphoram-", "meta-")],
 }
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]
@@ -194,6 +206,7 @@ def main():
     p.add_argument("--model", default="anthropic/claude-opus-5.5")
     p.add_argument("--effort", default="medium")
     p.add_argument("--no-translate", action="store_true")
+    p.add_argument("--batch", action="store_true", help="translate through the OpenRouter Batch API (half price)")
     p.add_argument("--finish-only", action="store_true", help="redo the fixed steps from en.raw.json")
     a = p.parse_args()
     cfg = ENTRIES[a.entry]
@@ -212,7 +225,31 @@ def main():
     if a.no_translate:
         return
     import translate as T  # here, so that --no-translate needs no model code
+    if cfg.get("about"):
+        T.CHAPTER = {"about": cfg["about"], "terms": cfg.get("terms", "")}
     en_main, en_notes, cost = [], [], 0.0
+    if a.batch:  # all chunks not cached yet in one OpenRouter batch (half price); then the loop reads the cache
+        import orbatch
+        bodies, todo = {}, {}
+        for kind, blocks in (("text", main_blocks), ("notes", notes)):
+            for i, ch in enumerate(chunks(blocks), 1):
+                src_key = hashlib.sha1(json.dumps([T.RULES_VERSION, a.model, a.effort, ch], ensure_ascii=False)
+                                       .encode("utf-8")).hexdigest()[:16]
+                cache = out / "chunks" / f"{kind}-{i:03d}-{src_key}.json"
+                if not cache.exists():
+                    bodies[f"{kind}-{i:03d}"] = T.request_body(ch, a.effort, notes=kind == "notes")
+                    todo[f"{kind}-{i:03d}"] = (ch, cache)
+        if bodies:
+            t = time.monotonic()
+            res = orbatch.run_batch(a.model, bodies, log_name=f"translate_{a.entry}_{a.effort}_{len(bodies)}")
+            for cid, (ch, cache) in todo.items():
+                try:
+                    r = T.parse(res.get(cid, {"error": "no result"}), len(ch), a.model, a.effort, time.monotonic() - t)
+                except Exception as e:
+                    print(f"{cid}: FAILED {type(e).__name__}: {e} (the sync loop below retries it)", flush=True)
+                    continue
+                cache.parent.mkdir(exist_ok=True)
+                cache.write_text(json.dumps(r, ensure_ascii=False), encoding="utf-8")
     for kind, blocks, target in (("text", main_blocks, en_main), ("notes", notes, en_notes)):
         for i, ch in enumerate(chunks(blocks), 1):
             # each chunk is saved when done, keyed by its source and the rules: a stopped run resumes

@@ -1,0 +1,287 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0434",
+   "line": "שהעכבר אוכל משכח תלמודו האוכל עכבר עצמו לא כש״ו Comedens de eo, quod",
+   "old": "כש״ו",
+   "new": "כ״ש",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0434",
+   "line": "leonte dicit, Ὑπὸ δέους ἄλλως τρέπεται, φύσει ψοφοδεὴς ὤν, καὶ δειλός· Prae",
+   "old": "ὤν,",
+   "new": "ὢν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0435",
+   "line": "locis, in quibus voci ܟܟܘܫܬܐ non ali-",
+   "old": "ܟܟܘܫܬܐ",
+   "new": "ܟܟܘܣܬܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0436",
+   "line": "„estae. Cum ܥܘܟܒܪ̈ܐ omnium con-",
+   "old": "„estae.",
+   "new": "nestae.",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0437",
+   "line": "Tamen habeo caussas dubitandi, an haec sit vera versio. Quarum prima",
+   "old": "caussas",
+   "new": "causas",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0437",
+   "line": "Proverb. XXIV, 31. ܘܟܣܝܘ ܐܦܘܗܝ ܚܘܠܕܐ Latine ita reddidit: Et",
+   "old": "ܘܟܣܝܘ",
+   "new": "ܘܚܦܝܘ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0438",
+   "line": "دابة عميا تحت الارض تاكل عروق الشجر ويعجب",
+   "old": "ويعجب",
+   "new": "ويحب",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0439",
+   "line": "quod in immensum sobolescunt. Id enim proprie significat verbum שרץ, ac",
+   "old": "proprie",
+   "new": "propriè",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0440",
+   "line": "Mus aliquando sitibundus, mustelae periculo evitato. Et apud Athenaeum poet[?]",
+   "old": "poet[?]",
+   "new": "poeta",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0440",
+   "line": "rosolymitanum in Kelaim capite ultimo, ut Cl. Buxtorfius citat, מחליד הקבה",
+   "old": "הקבה",
+   "new": "הקב״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0440",
+   "line": "visuntur, quo loco de muribus agit: Φθείρουσι δ' αὐτοὺς καὶ αἱ ἄγριαι γαλα[?].",
+   "old": "γαλα[?].",
+   "new": "γαλαῖ·",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0441",
+   "line": "Ionathane חלודות Num. XXXI, 22. quia metalla penetrat, et usque ad intima ex-",
+   "old": "חלודות",
+   "new": "חלדות",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0442",
+   "line": "dis scripsisse veteres, testatur Eusthathius in Notis ad Dionysium Periegeten pagi-",
+   "old": "Eusthathius",
+   "new": "Eustathius",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0443",
+   "line": "git, sed in mustelam κατοικίδιον. Cui passim opponitur חלדת סנאים, aut חולדת",
+   "old": "חלדת",
+   "new": "חולדת",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0443",
+   "line": "אמר ר' יהודה שרצא חרצא ואיכא דאמר חרוא דקטני שקי דרעיא ביני וורדיני,",
+   "old": "ר'",
+   "new": "ר׳",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0444",
+   "line": "ומה המאמין בחולדה ובור כך המאמין בהקבה על אחת כמה וכמה, Veni, et",
+   "old": "בהקבה",
+   "new": "בהקב״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0446",
+   "line": "ان ذلك عادت الي دينار فاخذته منه فخشي",
+   "old": "ان",
+   "new": "رات",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0449",
+   "line": "niores τὰ μάταια, vana reddunt; Aquila ὀρύγας, fossuras; Symmachus ἀκαρ-",
+   "old": "ὀρύγας,",
+   "new": "ὄρυγας,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0449",
+   "line": "niores τὰ μάταια, vana reddunt; Aquila ὀρύγας, fossuras; Symmachus ἀκαρ-",
+   "old": "ἀκαρ-",
+   "new": "ἄκαρ-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0449",
+   "line": "πα, infructuosa; Theodotion ipsum verbum Hebraicum posuit ἀφαρφερὼθ·",
+   "old": "ἀφαρφερὼθ·",
+   "new": "ἀφαρφερώθ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0452",
+   "line": "sertius. Antigonus Historia vigesima quinta, Τῶν δὲ γαλεῶν τὰ ἔμβρυα, ἐξι-",
+   "old": "ἐξι-",
+   "new": "ἐξί-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0452",
+   "line": "sertius. Antigonus Historia vigesima quinta, Τῶν δὲ γαλεῶν τὰ ἔμβρυα, ἐξι-",
+   "old": "όντα",
+   "new": "οντα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0452",
+   "line": "ὥσπερ ἐκ δευτέρας γενέσεως. Et in Περὶ φιλοστοργίας dicit emissos rursus ad-",
+   "old": "φιλοστοργίας",
+   "new": "Φιλοστοργίας",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0454",
+   "line": "solvere. Eandem in testudine vim eo mirere magis, quod, cum illi dentes no[?]",
+   "old": "no[?]",
+   "new": "non",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0454",
+   "line": "perna parte inferiorem claudente pyxidum modo. Ita Plinius lib. 11. cap. 37. [?]t",
+   "old": "[?]t",
+   "new": "et",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0454",
+   "line": "Tria elementa certant de animali קפוד kippod: quod alii terrae adscribunt, ali[?]",
+   "old": "ali[?]",
+   "new": "alii",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0454",
+   "line": "nymum; quibus קפוד kippod est ἐχῖνος hericius, nempe terrestris, qui aestate i[?]",
+   "old": "i[?]",
+   "new": "in",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

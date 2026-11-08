@@ -25,6 +25,7 @@ from PIL import Image
 sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
+ROOT_LOGS = Path(__file__).parent / "logs"
 MAX_EDGE, MAX_PIXELS = 2576, 3_750_000  # the API downscales images beyond either limit
 
 BLOCK_TYPES = ["heading", "body", "footnote", "furniture"]
@@ -198,13 +199,20 @@ def page_images(path: Path) -> list[Image.Image]:
     return [page.crop((0, 0, w, cut)), page.crop((0, cut, w, h))]
 
 
-def jpeg_b64(img: Image.Image) -> str:
+def jpeg_bytes(img: Image.Image) -> bytes:
     s = min(1, MAX_EDGE / max(img.size), (MAX_PIXELS / (img.width * img.height)) ** 0.5)
     if s < 1:  # resize here, so we control the filter
         img = img.resize((round(img.width * s), round(img.height * s)), Image.LANCZOS)
     buf = io.BytesIO()
     img.save(buf, "JPEG", quality=90)
-    return base64.standard_b64encode(buf.getvalue()).decode()
+    return buf.getvalue()
+
+
+def jpeg_b64(img: Image.Image) -> str:
+    return base64.standard_b64encode(jpeg_bytes(img)).decode()
+
+
+PENDING: dict[str, bytes] = {}  # crops to publish (crophost) before a batch is submitted
 
 
 # ---------- engine ----------
@@ -246,7 +254,15 @@ def parse_blocks(text: str) -> list[dict]:
 
 def request_body(pg: dict) -> tuple[dict, list]:
     path = DATA / pg["file"]
-    if ARGS.image_url or ARGS.batch:  # IIIF crops of the same boxes, for providers that take no base64 in a batch
+    if ARGS.batch and not ARGS.image_url:  # the same images as sync, as public URLs (crophost.py)
+        import crophost
+        imgs = page_images(path)
+        rels = [f"ocr/{pg['key']}_{i}.jpg" for i in range(1, len(imgs) + 1)]
+        for rel, im in zip(rels, imgs):
+            PENDING[rel] = jpeg_bytes(im)
+        urls = [crophost.RAW + rel for rel in rels]
+        sizes = [list(im.size) for im in imgs]
+    elif ARGS.image_url:  # IIIF crops of the same boxes (MDZ: often too slow for the batch providers)
         boxes = page_boxes(path)
         urls = [f"{pg['image_service']}/{x0},{y0},{x1 - x0},{y1 - y0}/full/0/default.jpg" for x0, y0, x1, y1 in boxes]
         sizes = [[x1 - x0, y1 - y0] for x0, y0, x1, y1 in boxes]
@@ -307,6 +323,9 @@ def run_batch(pages: list[dict], name: str) -> None:
         print("all pages done already")
         return
     prepared = {pg["key"]: request_body(pg) for pg in todo}
+    if PENDING and not (ROOT_LOGS / f"batch_{ARGS.batch_log}.json").exists():
+        import crophost
+        crophost.publish(PENDING)
     t = time.monotonic()
     res = orbatch.run_batch(ARGS.model, {k: body for k, (body, _) in prepared.items()},
                             log_name=ARGS.batch_log or f"ocr_{name}_{time.strftime('%Y-%m-%d_%H%M')}")

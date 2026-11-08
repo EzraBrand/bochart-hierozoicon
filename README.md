@@ -14,7 +14,7 @@ by side, a scan link at each page mark, each column mark of 1663 linked to the F
 scan, transliterations and identifications as tooltips, Rosenmüller's notes R1–R13 and Bochart's
 a)–c). Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`).
 
-## Status (01-Nov-2026)
+## Status (08-Nov-2026)
 
 | Step | Status |
 |---|---|
@@ -25,6 +25,7 @@ a)–c). Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`
 | 5. Second reading and vote, all scripts (`check.py`, `judge.py`, `vote.py`) | done; 40 changes; **review list for you** |
 | 6. Page joins (`entry.py`), translation (`translate.py`, rules v1) | done: [Latin](data/entries/shafan/la.md), [English](data/entries/shafan/en.md) |
 | 7. Reading edition (`build_site.py`, GitHub Pages) | done: https://ezrabrand.github.io/bochart-hierozoicon/ |
+| 8. Cost test; ch. 35 (*choled*, pp. 435–453) with the Batch API pipeline | done 08-Nov-2026: [COST_TEST.md](COST_TEST.md), $2.56 for 21 pages (−57% a page); [Latin](data/entries/choled/la.md), [English](data/entries/choled/en.md); **review list for you** (`logs/vote_v2-434-454.csv`) |
 
 Decisions (01-Nov-2026): Bochart's chapter synopsis, which Rosenmüller leaves out, will be added
 from Frankfurt 1675 as a block of its own, marked as such, after the Rosenmüller OCR is settled.

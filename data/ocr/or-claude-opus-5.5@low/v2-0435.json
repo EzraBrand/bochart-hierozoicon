@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXV. <i>Probatur,</i> חולד <i>esse Talpam.</i> 435",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXV. <i>Probatur,</i> חולד <i>esse Talpam.</i> 435"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "sultus <i>Apollo</i> de loco condendae urbis, illam ibi condendam esse respondisset,\nἔνθα ἂν αὐτοῖς οἱ γηγενεῖς πολεμήσωσι, <i>ubi terrigenae iis bellum inferrent</i>, in-\ntellexerunt, <i>Haxamitum</i> designari; quia, castris ibi positis, μυῶν ἄφατόν τι\nπλῆθος ἐφερπύσαν τά τε ὄχανα αὐτοῖς τῶν ἀσπίδων διέτραγε, καὶ τὰς τῶν\nτόξων νευρὰς διέφαγεν, <i>murium immensa vis erumpens clypeorum rosit ansas, et\narcuum nervos exedit.</i> Ita <i>Aelianus Historiae</i> libri duodecimi capite quinto.\nNec multo aliter <i>Homeri</i> vetus <i>Scholiastes</i> ad librum primum <i>Iliados</i>, Νυκτὸς\nἐπιγενομένης, μῦες ἔκοψαν αὐτῶν τοὺς τελαμῶνας τῶν ὅπλων, <i>Cum nox ve-\nnisset, mures armorum lora ipsis absciderunt.</i> Proinde apud <i>Aristotelem, Rheto-\nrices</i> libri secundi capite vigesimo quarto, mures ideo laudat <i>Polycrates</i>, ὅτι\nἐβοήθησαν διατραγόντες τὰς νευρὰς, <i>quia</i> (popularibus suis) <i>opem tulerunt,\ncum</i> hostilium arcuum <i>nervos corroserunt.</i> Et, apud <i>Clementem</i> in <i>Protreptico</i>,\n<i>Polemo</i> refert populos, <i>Troadi</i> vicinos, τοὺς ἐπιχωρίους μῦς, οὓς σμίνθους καλοῦ-\nσι θρησβεύειν, ὅτι τὰς νευρὰς τῶν πολεμίων διέτρωγον τῶν τόξων· <i>colere mu-\nres illius loci, quos</i> sminthos <i>vocant, quoniam hostilium arcuum nervos arroserant.</i>\nQuae cum iis simillima sint, quae de <i>Assyriis</i> referunt <i>Aegyptii</i>, illos <i>Creticam</i>\nhanc, aut <i>Troicam</i>, si mavis, historiam interpolasse putaverim.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "sultus <i>Apollo</i> de loco condendae urbis, illam ibi condendam esse respondisset,\nἔνθα ἂν αὐτοῖς οἱ γηγενεῖς πολεμήσωσι, <i>ubi terrigenae iis bellum inferrent</i>, in-\ntellexerunt, <i>Haxamitum</i> designari; quia, castris ibi positis, μυῶν ἄφατόν τι\nπλῆθος ἐφερπύσαν τά τε ὄχανα αὐτοῖς τῶν ἀσπίδων διέτραγε, καὶ τὰς τῶν\nτόξων νευρὰς διέφαγεν, <i>murium immensa vis erumpens clypeorum rosit ansas, et\narcuum nervos exedit.</i> Ita <i>Aelianus Historiae</i> libri duodecimi capite quinto.\nNec multo aliter <i>Homeri</i> vetus <i>Scholiastes</i> ad librum primum <i>Iliados</i>, Νυκτὸς\nἐπιγενομένης, μῦες ἔκοψαν αὐτῶν τοὺς τελαμῶνας τῶν ὅπλων, <i>Cum nox ve-\nnisset, mures armorum lora ipsis absciderunt.</i> Proinde apud <i>Aristotelem, Rheto-\nrices</i> libri secundi capite vigesimo quarto, mures ideo laudat <i>Polycrates</i>, ὅτι\nἐβοήθησαν διατραγόντες τὰς νευρὰς, <i>quia</i> (popularibus suis) <i>opem tulerunt,\ncum</i> hostilium arcuum <i>nervos corroserunt.</i> Et, apud <i>Clementem</i> in <i>Protreptico</i>,\n<i>Polemo</i> refert populos, <i>Troadi</i> vicinos, τοὺς ἐπιχωρίους μῦς, οὓς σμίνθους καλοῦ-\nσι θρησβεύειν, ὅτι τὰς νευρὰς τῶν πολεμίων διέτρωγον τῶν τόξων· <i>colere mu-\nres illius loci, quos</i> sminthos <i>vocant, quoniam hostilium arcuum nervos arroserant.</i>\nQuae cum iis simillima sint, quae de <i>Assyriis</i> referunt <i>Aegyptii</i>, illos <i>Creticam</i>\nhanc, aut <i>Troicam</i>, si mavis, historiam interpolasse putaverim."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXXV. ⟦p. 1021⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXXV. ⟦p. 1021⟧"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> חולד choled <i>non esse Mustelam, ut volunt;\nsed Talpam. Alia Talpae nomina.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> חולד choled <i>non esse Mustelam, ut volunt;\nsed Talpam. Alia Talpae nomina.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Levit. XI, 29.</i> Hebraeum חלד <i>choled</i> Graeci γαλῆν, et Hieronymus <i>mustelam</i> ⟦p. 1022⟧\nreddit, et Ionathan כרכושתא <i>carcoustha;</i> et Syrus ܟܟܘܫܬܐ <i>cacaustho,</i>\nquod id ipsum est ^{(1)}. In <i>Hesychio</i> quidem κέρκος est ἀρουραῖος μῦς, <i>mus agre-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Levit. XI, 29.</i> Hebraeum חלד <i>choled</i> Graeci γαλῆν, et Hieronymus <i>mustelam</i> ⟦p. 1022⟧\nreddit, et Ionathan כרכושתא <i>carcoustha;</i> et Syrus ܟܟܘܫܬܐ <i>cacaustho,</i>\nquod id ipsum est ^{(1)}. In <i>Hesychio</i> quidem κέρκος est ἀρουραῖος μῦς, <i>mus agre-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iii 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iii 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>stis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>stis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Vocabulum Syriacum significare <i>fe-\nlem</i>, neque <i>mustelam</i>, nuper contendit\nGEO. GUIL. KIRSCH. in <i>Praefatione ad\nGregorii Barhebraei Chronicon</i> latine ver-\nsum, pag. VIII., duobus motus Barhebraei\nlocis, in quibus voci ܟܟܘܫܬܐ non ali-\nam nisi <i>felis</i> significationem aptam censet.\nHorum locorum unus est pag. 216. lin. 16.\ntextus Syriaci, ubi Barhebraeus de magna\nfame, in regione Chorasana orta, loquitur:\n<i>Tanta erat fames, ut panis litra uno de-\nnario aureo venderetur, et homines cani-\nbus et</i> ܟܟܘܫܬܐ <i>vescerentur.</i> Ad quae\nverba Kirschius: „Cum <i>mustelae</i> significa-\n„tio parum conveniat, non difficilis est divi-\n„natio, quid ܟܟܘܫܬܐ fuerit. Confe-\n„rendus tamen cum hoc loco, qui rem non",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vocabulum Syriacum significare <i>fe-\nlem</i>, neque <i>mustelam</i>, nuper contendit\nGEO. GUIL. KIRSCH. in <i>Praefatione ad\nGregorii Barhebraei Chronicon</i> latine ver-\nsum, pag. VIII., duobus motus Barhebraei\nlocis, in quibus voci ܟܟܘܫܬܐ non ali-\nam nisi <i>felis</i> significationem aptam censet.\nHorum locorum unus est pag. 216. lin. 16.\ntextus Syriaci, ubi Barhebraeus de magna\nfame, in regione Chorasana orta, loquitur:\n<i>Tanta erat fames, ut panis litra uno de-\nnario aureo venderetur, et homines cani-\nbus et</i> ܟܟܘܫܬܐ <i>vescerentur.</i> Ad quae\nverba Kirschius: „Cum <i>mustelae</i> significa-\n„tio parum conveniat, non difficilis est divi-\n„natio, quid ܟܟܘܫܬܐ fuerit. Confe-\n„rendus tamen cum hoc loco, qui rem non"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "„confice-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„confice-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1808,
+    1405
+   ],
+   [
+    1808,
+    1403
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1856,
+  "cost_usd": 0,
+  "seconds": 553.3
+ }
+}

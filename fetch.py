@@ -32,6 +32,9 @@ DATA = Path(__file__).parent / "data"
 SAMPLE = [
     (2, 424, "before"),
     *[(2, c, "shafan") for c in range(425, 446)],
+    # Book III ch. 35, the choled (mole, not weasel): p. 435 (after ch. 34) to p. 453 (CAP. XXXVI.
+    # at its foot); pp. 434 and 454 for the joins. Found in the MDZ hOCR, 08-Nov-2026.
+    *[(2, c, "choled") for c in range(450, 471)],
 ]
 
 session = requests.Session()
