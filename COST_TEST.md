@@ -48,7 +48,7 @@ Quality (no gold page in this chapter yet):
 | Translation, 10 chapters | Opus 5.5 @low, batch | about $1.90 |
 | **Total** | | **$9.71** ($0.131 a page) |
 
-The 10 translation batches ran in parallel; the whole tranche took about 3.5 hours. The scan check
+The 10 translation batches ran in parallel; the whole tranche took about 1.5 hours (the earlier estimate was 2–3). The scan check
 of the 283 doubtful readings and changes was done by 4 Opus subagents (one per page group,
 `review_pack.py`); where an agent and the image judge read differently, Claude read the crop.
 Result: 30 proposals accepted, 14 changes undone (mostly the ου ligature and the φ of this type read
