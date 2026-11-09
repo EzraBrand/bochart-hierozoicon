@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "432 De vulgari Mure. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "432 De vulgari Mure. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>ferrum comedunt</i> ^{(4)}. Nec multo aliter <i>Suidas</i>. Mendoſe igitur <i>Ariſtoteles in\nMirabilibus</i> [c. 24.], Ἐν Κύπρῳ τῇ νήσῳ λέγεται τὣς μέτας τὸν σίδηρον ἐσθίειν·\n<i>In Cypro inſula metas ajunt ferrum devorare</i>. Mendoſe etiam in <i>Aeliano Hiſto-\nriae</i> libri quinti capite decimo quarto, Ἐν τῇ Πάρῳ τῇ νήσῳ Ἀριστοτέλης λέγει\nμῦς εἶναι, καὶ μέν τοι καὶ γῆν σιτεῖσθαι τὴν σιδηρῶτιν· <i>In Paro inſula dicit Ari-\nſtoteles mures eſſe, qui ferrariam terram exedant</i>. Utrobique enim pro Κύπρῳ,\nvel Πάρῳ legendum Γυάρῳ· et in priore loco μύας pro μέτας, in poſteriore\nτὴν σιδηρῖτιν. Quid quod <i>Troadis</i> incolae, quos <i>Graeci</i> decennali bello vix\nſubegerunt, huic malo cedere coacti, patriam deſeruerunt? <i>Plinius</i> libri decimi ⟦p. 1019.⟧\ncapite ſexageſimo quinto, <i>Plurimi mures ita ad Troadem proveniunt, et jam\ninde fugaverunt accolas</i>. Et in <i>Chryſa</i>, <i>Myſiae</i> urbe, <i>Crini</i> ſacerdoti infenſus\n<i>Apollo</i> ἔπεμψεν αὐτῷ τοῖς ἄγροις μύας, οἵτινες τὣς καρπὣς ἐλυμαίνοντο,\n<i>agris ipſius mures immiſit, qui fructus deperdebant</i>. Ita <i>Homeri</i> vetus <i>Scholiaſtes</i>\nad vocem Σμινθεῦς libro primo <i>Iliados</i>. Quale eſt, quod tradit <i>Aelianus Hiſto-\nriae</i> libri duodecimi capite quinto, Τῶν Αἰολέων καὶ τῶν Τρώων τὰ λήϊα πολλὰς\nμυῶν μυριάδας ἐπελθύσας ἄωρα ὑποκείρειν, καὶ ἀτελῆ τὰ θέρη τοῖς σπείρα-\nσιν ὑποφαίνειν· <i>Permultas olim murium myriades Aeolorum et Trojanorum ſe-\ngetes invaſiſſe, atque immaturas ſuccidiſſe, iisque, qui ſementem feciſſent, meſſem\ninfructuoſam reddidiſſe</i> ^{(5)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ferrum comedunt</i> ^{(4)}. Nec multo aliter <i>Suidas</i>. Mendoſe igitur <i>Ariſtoteles in\nMirabilibus</i> [c. 24.], Ἐν Κύπρῳ τῇ νήσῳ λέγεται τὣς μέτας τὸν σίδηρον ἐσθίειν·\n<i>In Cypro inſula metas ajunt ferrum devorare</i>. Mendoſe etiam in <i>Aeliano Hiſto-\nriae</i> libri quinti capite decimo quarto, Ἐν τῇ Πάρῳ τῇ νήσῳ Ἀριστοτέλης λέγει\nμῦς εἶναι, καὶ μέν τοι καὶ γῆν σιτεῖσθαι τὴν σιδηρῶτιν· <i>In Paro inſula dicit Ari-\nſtoteles mures eſſe, qui ferrariam terram exedant</i>. Utrobique enim pro Κύπρῳ,\nvel Πάρῳ legendum Γυάρῳ· et in priore loco μύας pro μέτας, in poſteriore\nτὴν σιδηρῖτιν. Quid quod <i>Troadis</i> incolae, quos <i>Graeci</i> decennali bello vix\nſubegerunt, huic malo cedere coacti, patriam deſeruerunt? <i>Plinius</i> libri decimi ⟦p. 1019.⟧\ncapite ſexageſimo quinto, <i>Plurimi mures ita ad Troadem proveniunt, et jam\ninde fugaverunt accolas</i>. Et in <i>Chryſa</i>, <i>Myſiae</i> urbe, <i>Crini</i> ſacerdoti infenſus\n<i>Apollo</i> ἔπεμψεν αὐτῷ τοῖς ἄγροις μύας, οἵτινες τὣς καρπὣς ἐλυμαίνοντο,\n<i>agris ipſius mures immiſit, qui fructus deperdebant</i>. Ita <i>Homeri</i> vetus <i>Scholiaſtes</i>\nad vocem Σμινθεῦς libro primo <i>Iliados</i>. Quale eſt, quod tradit <i>Aelianus Hiſto-\nriae</i> libri duodecimi capite quinto, Τῶν Αἰολέων καὶ τῶν Τρώων τὰ λήϊα πολλὰς\nμυῶν μυριάδας ἐπελθύσας ἄωρα ὑποκείρειν, καὶ ἀτελῆ τὰ θέρη τοῖς σπείρα-\nσιν ὑποφαίνειν· <i>Permultas olim murium myriades Aeolorum et Trojanorum ſe-\ngetes invaſiſſe, atque immaturas ſuccidiſſe, iisque, qui ſementem feciſſent, meſſem\ninfructuoſam reddidiſſe</i> ^{(5)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ex his abunde patet, <i>muribus</i>, iisque <i>agreſtibus</i>, vix indi potuiſſe nomen\naptius, quam <i>ab agrorum vaſtatione</i>. Itaque id proprie עכבר <i>achbar</i>, quod con-\nfirmat uſus <i>Arabum</i>, quibus عكبر <i>achbar</i> non eſt mus quivis, ſed <i>muris\nagreſtis</i> ſpecies, nempe <i>aljarbuo</i> mas, ut ſupra ^{a)} docuimus. Proinde <i>Eſa.\nLXVI</i>, 17. pro Hebraeo העכבר <i>haachbar</i> Arabs habet اليربوع <i>aljarbuo</i>,\nquaſi haec duo fere ſint ſynonyma. Atque hoc ipſum, quod <i>Eſaias</i> ibi <i>Iudaeis\nexprobrat</i>, nonnullos eorum porcinam edere, et העכבר <i>haachbar</i>, ſuadet, עכבר\neſſe <i>murem agreſtem</i>, eumque اليربوع <i>aljarbuo</i>, quem ſolum comedi tra-\ndunt <i>Arabes</i>. Nam μύωξος, id eſt, <i>glis</i>, quem <i>Hieronymus</i> hic intelligit, non",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ex his abunde patet, <i>muribus</i>, iisque <i>agreſtibus</i>, vix indi potuiſſe nomen\naptius, quam <i>ab agrorum vaſtatione</i>. Itaque id proprie עכבר <i>achbar</i>, quod con-\nfirmat uſus <i>Arabum</i>, quibus عكبر <i>achbar</i> non eſt mus quivis, ſed <i>muris\nagreſtis</i> ſpecies, nempe <i>aljarbuo</i> mas, ut ſupra ^{a)} docuimus. Proinde <i>Eſa.\nLXVI</i>, 17. pro Hebraeo העכבר <i>haachbar</i> Arabs habet اليربوع <i>aljarbuo</i>,\nquaſi haec duo fere ſint ſynonyma. Atque hoc ipſum, quod <i>Eſaias</i> ibi <i>Iudaeis\nexprobrat</i>, nonnullos eorum porcinam edere, et העכבר <i>haachbar</i>, ſuadet, עכבר\neſſe <i>murem agreſtem</i>, eumque اليربوع <i>aljarbuo</i>, quem ſolum comedi tra-\ndunt <i>Arabes</i>. Nam μύωξος, id eſt, <i>glis</i>, quem <i>Hieronymus</i> hic intelligit, non"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "cenſetur",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "cenſetur"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Capite praecedenti pag.</i> 1015.",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Capite praecedenti pag.</i> 1015."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„Certum eſt, mures foeminas arro-\ndere metalla aliaque corpora dura, quae\nedere nequeunt, eo nimirum tempore, quo\ngravidae ſunt. Neque mures tantum ita\ntunc agunt, ſed ceterorum etiam animali-\num foeminae, quae ad glirium familiam\npertinent. — Poteſt fieri, ut dentes gra-\nvidarum graviter afficiantur, quem dolo-\nrem rodendo, vel mordendo animalia mi-\ntiorein faciunt“. Haec BECMANNUS ad\n<i>Ariſtotelem de mirabilibus auſcultationi-\nbus c.</i> 24. p. 57.",
+   "marker": "(4)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„Certum eſt, mures foeminas arro-\ndere metalla aliaque corpora dura, quae\nedere nequeunt, eo nimirum tempore, quo\ngravidae ſunt. Neque mures tantum ita\ntunc agunt, ſed ceterorum etiam animali-\num foeminae, quae ad glirium familiam\npertinent. — Poteſt fieri, ut dentes gra-\nvidarum graviter afficiantur, quem dolo-\nrem rodendo, vel mordendo animalia mi-\ntiorein faciunt“. Haec BECMANNUS ad\n<i>Ariſtotelem de mirabilibus auſcultationi-\nbus c.</i> 24. p. 57."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Exempla agrorum, a muribus vaſta-\ntorum, in India Occidentali ex itinerum\ncommentariis dabit OEDMANNUS <i>Ver-\nmiſchte Sammlungen</i> Faſc. II. c. 3. p. 45.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Exempla agrorum, a muribus vaſta-\ntorum, in India Occidentali ex itinerum\ncommentariis dabit OEDMANNUS <i>Ver-\nmiſchte Sammlungen</i> Faſc. II. c. 3. p. 45."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1828,
+    1341
+   ],
+   [
+    1828,
+    1495
+   ]
+  ],
+  "input_tokens": 3436,
+  "output_tokens": 1457,
+  "cost_usd": 0,
+  "seconds": 1409.9
+ }
+}

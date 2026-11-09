@@ -1,0 +1,230 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. <i>Probatur</i>, שממית <i>esse Stellionem.</i> 511",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. <i>Probatur</i>, שממית <i>esse Stellionem.</i> 511"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Εἱλίσσετε δακτύλοις φάλαγγες ἰσότονα πηνίσματα,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Εἱλίσσετε δακτύλοις φάλαγγες ἰσότονα πηνίσματα,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Digitis torquete, o araneae, licia, quibus textorium jugum intenditur.</i> Et <i>Ovi-</i>\n<i>dii Metamorphoseως</i> libri sexti Fabula secunda,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Digitis torquete, o araneae, licia, quibus textorium jugum intenditur.</i> Et <i>Ovi-</i>\n<i>dii Metamorphoseως</i> libri sexti Fabula secunda,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>In latere exiles digiti pro cruribus haerent.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In latere exiles digiti pro cruribus haerent.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Pisidae Hexaëmero</i> versu 1152.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Pisidae Hexaëmero</i> versu 1152."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τίς τοὺς ἀράχνας λεπτοδακτύλους πλάσας,\nΝήθειν διδάσκει, καὶ πρὸς ἔργα τοὺς μίτους\nἘκ τῶν παρ᾽ αὐτοῖς ἐντέρων ἀναπτύειν;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τίς τοὺς ἀράχνας λεπτοδακτύλους πλάσας,\nΝήθειν διδάσκει, καὶ πρὸς ἔργα τοὺς μίτους\nἘκ τῶν παρ᾽ αὐτοῖς ἐντέρων ἀναπτύειν;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quis araneas tenuibus digitis factas nere docet, et ad opera filos ex propriis visce-</i>\n<i>ribus exspuere?</i> Sed qui manus illis tribuat, neminem reperire est. Quamvis\nenim araneae pedes digitos utcumque imitentur, tamen in iis nihil est, quod ad\nmanus formam accedat. Quin apud <i>Symposium Aenigmate</i> decimo septimo ara-\nnea diserte negat, ullas sibi esse manus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quis araneas tenuibus digitis factas nere docet, et ad opera filos ex propriis visce-</i>\n<i>ribus exspuere?</i> Sed qui manus illis tribuat, neminem reperire est. Quamvis\nenim araneae pedes digitos utcumque imitentur, tamen in iis nihil est, quod ad\nmanus formam accedat. Quin apud <i>Symposium Aenigmate</i> decimo septimo ara-\nnea diserte negat, ullas sibi esse manus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nulla mihi manus est, pedibus tamen omnia fiunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nulla mihi manus est, pedibus tamen omnia fiunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Dato tamen, non concesso, araneae pedes pro manibus posse haberi, quia ma-\nnuum vice funguntur: tamen, eam <i>manibus apprehendere,</i> non dixisset Divinus\nScriptor, sed <i>nere,</i> vel <i>texere,</i> vel <i>stamina ducere:</i> quia, quod pedibus contre-\nctat et apprehendit, leve est, et illi commune cum multis animalibus; quod\ntexit, peculiare et θαυματῶδες. Sed neque eam dixisset <i>esse in regum palatiis;</i>\nquia ad regalis aulae cultum non satis conveniunt aranearum sordes. Et diver-\nsantur potius in pauperis <i>Euclionis</i> aedibus, in quibus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Dato tamen, non concesso, araneae pedes pro manibus posse haberi, quia ma-\nnuum vice funguntur: tamen, eam <i>manibus apprehendere,</i> non dixisset Divinus\nScriptor, sed <i>nere,</i> vel <i>texere,</i> vel <i>stamina ducere:</i> quia, quod pedibus contre-\nctat et apprehendit, leve est, et illi commune cum multis animalibus; quod\ntexit, peculiare et θαυματῶδες. Sed neque eam dixisset <i>esse in regum palatiis;</i>\nquia ad regalis aulae cultum non satis conveniunt aranearum sordes. Et diver-\nsantur potius in pauperis <i>Euclionis</i> aedibus, in quibus"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>nihil est quaesti furibus,</i>\n<i>Ita inaniis sunt oppletae, atque araneis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>nihil est quaesti furibus,</i>\n<i>Ita inaniis sunt oppletae, atque araneis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut in <i>Aulularia</i> scribit <i>Plautus.</i> In omnium ore versatur Apologus de podagra\net aranea, inter quas convenisse ajunt, ut illa in opulentiorum palatiis, haec in\npauperum tuguriis diversaretur. Proinde cum aliquis <i>araneas in aedibus,</i> aut\n<i>in arca,</i> aut <i>in vasis,</i> aut <i>in loculis habere</i> dicitur, idem est, ac si dicatur, <i>in te-</i>\n<i>nui re vivere.</i> Hinc apud <i>Festum Afranius,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut in <i>Aulularia</i> scribit <i>Plautus.</i> In omnium ore versatur Apologus de podagra\net aranea, inter quas convenisse ajunt, ut illa in opulentiorum palatiis, haec in\npauperum tuguriis diversaretur. Proinde cum aliquis <i>araneas in aedibus,</i> aut\n<i>in arca,</i> aut <i>in vasis,</i> aut <i>in loculis habere</i> dicitur, idem est, ac si dicatur, <i>in te-</i>\n<i>nui re vivere.</i> Hinc apud <i>Festum Afranius,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tamne arcula tua plena est aranearum?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tamne arcula tua plena est aranearum?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Catullus</i>, ut se excuset apud <i>Fabullum,</i> quod vocatum ad coenam minus lau-\nte excipiat:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Catullus</i>, ut se excuset apud <i>Fabullum,</i> quod vocatum ad coenam minus lau-\nte excipiat:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — —, <i>tui</i> Catulli\n<i>Plenus sacculus est aranearum.</i> ⟦p. 1085⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — —, <i>tui</i> Catulli\n<i>Plenus sacculus est aranearum.</i> ⟦p. 1085⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hinc <i>Hesiodus Operum</i> versu 473.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hinc <i>Hesiodus Operum</i> versu 473."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἐκ δ᾽ ἀγγέων ἐλάσειας ἀράχνια,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐκ δ᾽ ἀγγέων ἐλάσειας ἀράχνια,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>E vasis</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>E vasis</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2148,
+    1538
+   ],
+   [
+    2148,
+    1282
+   ]
+  ],
+  "input_tokens": 9672,
+  "output_tokens": 1594,
+  "cost_usd": 0,
+  "seconds": 492.6
+ }
+}

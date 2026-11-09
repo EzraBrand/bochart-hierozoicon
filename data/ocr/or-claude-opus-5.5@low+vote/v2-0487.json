@@ -1,0 +1,111 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. II. <i>Probatur,</i> אנקה <i>esse stellionis genus.</i> 487",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. II. <i>Probatur,</i> אנקה <i>esse stellionis genus.</i> 487"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> אנקה anaka <i>Levit. XI, 30. esse Stellionis genus,</i>\n<i>ab acerbo stridore sic appellati.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> אנקה anaka <i>Levit. XI, 30. esse Stellionis genus,</i>\n<i>ab acerbo stridore sic appellati.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Iam sequentur <i>Levit. XI, 30.</i> reptilium quinque species, quorum nomina ex- ⟦p. 1064⟧\nplicare non est facile, cum alibi nusquam reperiantur. Nempe אנקה <i>anaka,</i>\nכח <i>coach,</i> לטאה <i>letaa,</i> חמט <i>chomet,</i> תנשמת <i>thinsemeth.</i> Horum אנקה <i>anaka</i>\n<i>Graecis</i> et <i>Hieronymo</i> est μυγάλη <i>mygale</i>, seu <i>mus araneus.</i> Μυγάλην dici vo-\nlunt, quia ἐκ μύος καὶ γαλῆς, <i>ex mure et mustela</i> nascitur. <i>Nicandri Scholia-</i>\n<i>stes</i>, Ἀμύντας δή φησι τὴν μυγάλην ἐκ μύος καὶ γαλῆς γίνεσθαι. Quod est\nabsurdissimum, cum et mustela sit mure multo major, et illi tam infensa, quam\nfelis, ut supra ^{a)} observavimus. Itaque ut mustela cum mure coëat, atque inde\nnascatur mus araneus, plane vero est absimile. Melius igitur <i>Aetius Tetrabibli</i>\nlibri quarti Sermone primo, capite decimo quarto: <i>Mus araneus colore quidem</i>\n<i>mustelae similis est, magnitudine autem muri, unde et</i> mygales <i>obtinuit nomen.</i>\nQuamvis mus araneus muris habeat speciem potius, quam magnitudinem.\nOmnino enim est mure minor. <i>Romanis mus araneus</i> a veneno dici videtur,\nquod illi commune est cum aranea. Et <i>Hebraice</i> אנקה <i>anaka</i> dici credita est ra-\ntione vocis, quam habet acutissimam. Ita, ut pro gemitu et ejulatu possit haberi.\nAlioqui enim אנקה <i>anaka</i> Hebraeis <i>gemitum</i>, aut <i>clamorem</i> sonat. Si idem sen-\nsit <i>Onkelos</i>, in ejus <i>Paraphrasi,</i> pro ילא <i>jala</i> (qua voce ibi redditur אנקה <i>anaka</i>)\nrescribendum est פלא <i>pala</i>, vel <i>phala.</i> <i>Arabes</i> enim <i>murem araneum</i> sic appel-\nlant. <i>Avicenna</i> libro quarto <i>Fen.</i> 6. Tract. 3. capite ultimo in titulo, فصل\nفي عضة موغالي وهو الغلا <i>Caput de morsu mygales, quae</i> (Ara-\nbibus) <i>est</i> alphala. In <i>Latina</i> versione legitur <i>alcale,</i> quod esset الغلا. Alter-\nutrum semidoctos mutasse putaverim in ילא <i>jala.</i> Cujus nominis occurrunt in\nlibris <i>Talmudicis</i> animalia duo diversissima, nempe sanguisuga et hericius. Sed\nquorum neutrum hic habet locum. Neutrum enim <i>Hebraice</i> אנקה <i>anaka;</i> sed\n<i>hericius</i> קפוד <i>kippod;</i> et <i>hirudo</i> עלוקה <i>aluka</i> dicitur, vel עלקה <i>alka</i> potius.\nPraeterea hic agitur de iis reptilibus, quae super terram repunt, e quo numero\nnon est hirudo. Haec de prima et antiquissima interpretatione vocis אנקה\n<i>anaka.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam sequentur <i>Levit. XI, 30.</i> reptilium quinque species, quorum nomina ex- ⟦p. 1064⟧\nplicare non est facile, cum alibi nusquam reperiantur. Nempe אנקה <i>anaka,</i>\nכח <i>coach,</i> לטאה <i>letaa,</i> חמט <i>chomet,</i> תנשמת <i>thinsemeth.</i> Horum אנקה <i>anaka</i>\n<i>Graecis</i> et <i>Hieronymo</i> est μυγάλη <i>mygale</i>, seu <i>mus araneus.</i> Μυγάλην dici vo-\nlunt, quia ἐκ μύος καὶ γαλῆς, <i>ex mure et mustela</i> nascitur. <i>Nicandri Scholia-</i>\n<i>stes</i>, Ἀμύντας δή φησι τὴν μυγάλην ἐκ μύος καὶ γαλῆς γίνεσθαι. Quod est\nabsurdissimum, cum et mustela sit mure multo major, et illi tam infensa, quam\nfelis, ut supra ^{a)} observavimus. Itaque ut mustela cum mure coëat, atque inde\nnascatur mus araneus, plane vero est absimile. Melius igitur <i>Aetius Tetrabibli</i>\nlibri quarti Sermone primo, capite decimo quarto: <i>Mus araneus colore quidem</i>\n<i>mustelae similis est, magnitudine autem muri, unde et</i> mygales <i>obtinuit nomen.</i>\nQuamvis mus araneus muris habeat speciem potius, quam magnitudinem.\nOmnino enim est mure minor. <i>Romanis mus araneus</i> a veneno dici videtur,\nquod illi commune est cum aranea. Et <i>Hebraice</i> אנקה <i>anaka</i> dici credita est ra-\ntione vocis, quam habet acutissimam. Ita, ut pro gemitu et ejulatu possit haberi.\nAlioqui enim אנקה <i>anaka</i> Hebraeis <i>gemitum</i>, aut <i>clamorem</i> sonat. Si idem sen-\nsit <i>Onkelos</i>, in ejus <i>Paraphrasi,</i> pro ילא <i>jala</i> (qua voce ibi redditur אנקה <i>anaka</i>)\nrescribendum est פלא <i>pala</i>, vel <i>phala.</i> <i>Arabes</i> enim <i>murem araneum</i> sic appel-\nlant. <i>Avicenna</i> libro quarto <i>Fen.</i> 6. Tract. 3. capite ultimo in titulo, فصل\nفي عضة موغالي وهو الغلا <i>Caput de morsu mygales, quae</i> (Ara-\nbibus) <i>est</i> alphala. In <i>Latina</i> versione legitur <i>alcale,</i> quod esset الغلا. Alter-\nutrum semidoctos mutasse putaverim in ילא <i>jala.</i> Cujus nominis occurrunt in\nlibris <i>Talmudicis</i> animalia duo diversissima, nempe sanguisuga et hericius. Sed\nquorum neutrum hic habet locum. Neutrum enim <i>Hebraice</i> אנקה <i>anaka;</i> sed\n<i>hericius</i> קפוד <i>kippod;</i> et <i>hirudo</i> עלוקה <i>aluka</i> dicitur, vel עלקה <i>alka</i> potius.\nPraeterea hic agitur de iis reptilibus, quae super terram repunt, e quo numero\nnon est hirudo. Haec de prima et antiquissima interpretatione vocis אנקה\n<i>anaka.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Secunda <i>Ionathanis</i> est, et <i>Ierosolymitani</i> Interpretis: quorum unus hic\nhabet מינקת חויא, et alter פלית חויא, vel פיילת חויא. Ita legendum, non\nחיוא, in <i>Lexico Baal-Aruch.</i> <i>Lexicographi</i> neutrum intelligunt. Est enim",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Secunda <i>Ionathanis</i> est, et <i>Ierosolymitani</i> Interpretis: quorum unus hic\nhabet מינקת חויא, et alter פלית חויא, vel פיילת חויא. Ita legendum, non\nחיוא, in <i>Lexico Baal-Aruch.</i> <i>Lexicographi</i> neutrum intelligunt. Est enim"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "alienum,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "alienum,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib. III. Cap. 35. pag. 1025.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib. III. Cap. 35. pag. 1025.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2132,
+    1147
+   ],
+   [
+    2132,
+    1685
+   ]
+  ],
+  "input_tokens": 9749,
+  "output_tokens": 1793,
+  "cost_usd": 0,
+  "seconds": 492.6,
+  "vote": "1 decisions from v2-455-524"
+ }
+}

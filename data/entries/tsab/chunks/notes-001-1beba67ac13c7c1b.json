@@ -1,0 +1,1 @@
+{"blocks": [{"type": "footnote", "marker": "a)", "text": "2 <i>Petr. II</i>, 22."}, {"type": "footnote", "marker": "b)", "text": "<i>p. 1047.</i>"}], "meta": {"model": "anthropic/claude-opus-5.5:batch", "effort": "low", "input_tokens": 2743, "output_tokens": 81, "reasoning_tokens": 0, "cost_usd": 0, "seconds": 550.3}}

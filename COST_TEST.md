@@ -38,6 +38,22 @@ Quality (no gold page in this chapter yet):
   cached chunk). Names new in this chapter are not in `names.json` yet, so they have no
   identifications; "1 Cor. XV, 8." is not converted (the Bible-book list has no Cor).
 
+## Tranche 1 (09-Nov-2026): Book 3, chs. 34 and 36, and Book 4 (74 new pages, 10 chapters)
+
+| Step | Model | Cost |
+|---|---|---|
+| OCR, compact, `max_tokens` 10000 (was 32000) | Opus 5.5 @low + Flash 3.8 @low, batch | $2.91 |
+| Re-OCR of 3 pages cut by the crop (sync) | Opus + Flash | $0.23 |
+| Image judge, 1,276 lines | Opus 5.5 @low, batch (+ 33 lines sync) | $4.67 |
+| Translation, 10 chapters | Opus 5.5 @low, batch | about $1.90 |
+| **Total** | | **$9.71** ($0.131 a page) |
+
+The 10 translation batches ran in parallel; the whole tranche took about 3.5 hours. The scan check
+of the 283 doubtful readings and changes was done by 4 Opus subagents (one per page group,
+`review_pack.py`); where an agent and the image judge read differently, Claude read the crop.
+Result: 30 proposals accepted, 14 changes undone (mostly the ου ligature and the φ of this type read
+as ε and Φ), 18 corrections from the print. Catchwords read into the body text: 12 pages.
+
 ## Where the money goes now (one chapter, 22 pages)
 
 | Step | Model | Cost | Share |

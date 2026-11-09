@@ -1,0 +1,60 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0430",
+   "line": "Proinde merito Iosephus Antiquitatum lib. 6. capite 1. Τὸ δὲ ἐπὶ τῆς χώρας μυῶν",
+   "old": "Τὸ",
+   "new": "Τὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0431",
+   "line": "μυῶν, οἳ τά τ᾽ ἄλλα κατήσθιον αὐτῶν, καὶ τὸν σίδηρον, Elymnio in Atho mon-",
+   "old": "τά",
+   "new": "τὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0431",
+   "line": "μυῶν, οἳ τά τ᾽ ἄλλα κατήσθιον αὐτῶν, καὶ τὸν σίδηρον, Elymnio in Atho mon-",
+   "old": "κατήσθιον",
+   "new": "κατήθιον",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0432",
+   "line": "Apollo ἔπεμψεν αὐτοῦ τοῖς ἀγροῖς μύας, οἵτινες τοὺς καρποὺς ἐλυμαίνοντο,",
+   "old": "ἀγροῖς",
+   "new": "ἄγροις",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0433",
+   "line": "Murem cur Lex pronunciet immundum esse animal, praeter caussas, quae",
+   "old": "caussas,",
+   "new": "causas,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

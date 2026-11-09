@@ -44,6 +44,36 @@ DOCS = [
      "title": "Book 3, chapter 35: The choled",
      "sub": "Vol. 2, pp. 435–453 · cols. 1021–1036 of 1663 · חולד choled is not the weasel but the mole; "
             "other names of the mole. First chapter made with the Batch API pipeline (08-Nov-2026)"},
+    {"slug": "achbar", "kind": "entry", "entry": "achbar", "vol": 2, "pages": list(range(429, 436)),
+     "title": "Book 3, chapter 34: The common mouse",
+     "sub": "Vol. 2, pp. 429–435 · cols. 1017–1020 of 1663 · עכבר achbar, the common mouse: plagues of mice, the golden mice of the Philistines (1 Sam 6)"},
+    {"slug": "kippod", "kind": "entry", "entry": "kippod", "vol": 2, "pages": list(range(454, 463)),
+     "title": "Book 3, chapter 36: The kippod",
+     "sub": "Vol. 2, pp. 454–462 · cols. 1035–1042 of 1663 · קפוד kippod is the hedgehog and the porcupine, not a bird"},
+    {"slug": "tsab", "kind": "entry", "entry": "tsab", "vol": 2, "pages": list(range(463, 488)),
+     "title": "Book 4, chapter 1: The tsab",
+     "sub": "Vol. 2, pp. 463–487 · cols. 1043–1063 of 1663 · Book 4, the oviparous quadrupeds. צב tsab (Lev 11:29) is the land crocodile, with Arabic sources on the dabb"},
+    {"slug": "anaqah", "kind": "entry", "entry": "anaqah", "vol": 2, "pages": list(range(487, 494)),
+     "title": "Book 4, chapter 2: The anaka",
+     "sub": "Vol. 2, pp. 487–493 · cols. 1063–1068 of 1663 · אנקה anaka is a kind of stellio, named from its harsh cry"},
+    {"slug": "koach", "kind": "entry", "entry": "koach", "vol": 2, "pages": list(range(493, 498)),
+     "title": "Book 4, chapter 3: The coach",
+     "sub": "Vol. 2, pp. 493–497 · cols. 1069–1072 of 1663 · כח coach is the Arabic waral, the largest lizard of Arabia"},
+    {"slug": "letaah", "kind": "entry", "entry": "letaah", "vol": 2, "pages": list(range(497, 501)),
+     "title": "Book 4, chapter 4: The leta",
+     "sub": "Vol. 2, pp. 497–500 · cols. 1073–1075 of 1663 · לטאה leta is a venomous lizard like the stellio"},
+    {"slug": "chomet", "kind": "entry", "entry": "chomet", "vol": 2, "pages": list(range(500, 504)),
+     "title": "Book 4, chapter 5: The chomet",
+     "sub": "Vol. 2, pp. 500–503 · cols. 1075–1078 of 1663 · חומט chomet is a lizard that lives in the sand"},
+    {"slug": "tinshemet", "kind": "entry", "entry": "tinshemet", "vol": 2, "pages": list(range(503, 511)),
+     "title": "Book 4, chapter 6: The tinshemeth",
+     "sub": "Vol. 2, pp. 503–510 · cols. 1078–1083 of 1663 · תנשמת tinshemeth (Lev 11:30) is the chameleon"},
+    {"slug": "semamit", "kind": "entry", "entry": "semamit", "vol": 2, "pages": list(range(510, 521)),
+     "title": "Book 4, chapter 7: The semamith",
+     "sub": "Vol. 2, pp. 510–520 · cols. 1083–1090 of 1663 · שממית semamith (Prov 30:28) is not the ape nor the spider but the stellio"},
+    {"slug": "chelonai", "kind": "entry", "entry": "chelonai", "vol": 2, "pages": list(range(520, 524)),
+     "title": "Book 4, chapter 8: Altars like tortoises",
+     "sub": "Vol. 2, pp. 520–523 · cols. 1090–1094 of 1663 · why the altars of the idols are ὡς χελῶναι, like tortoises, in the Greek of Hos 12:12; the chelonis of Holofernes (Jdt 14:13)"},
 ]
 CONTENTS = []
 
@@ -395,9 +425,9 @@ def index_html() -> str:
 <p class="lede"><i>Hierozoicon, sive bipertitum opus de animalibus Sacrae Scripturae</i> (London 1663):
 the standard early-modern study of every animal in the Bible, in Latin with Greek, Hebrew, Aramaic,
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
-No modern translation exists. This pilot gives one chapter, in the edition of E. F. C. Rosenmüller
-(Leipzig 1793–96), as a machine transcription and English translation, to see what current tools
-can do with it.</p>
+No modern translation exists. This project gives it chapter by chapter, in the edition of
+E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
+far: vol. 2, pp. 409–523 (Book 3, chs. 33–36, and all of Book 4, the oviparous quadrupeds).</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
 <ul class="docs">{items}</ul>

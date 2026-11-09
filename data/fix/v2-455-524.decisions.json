@@ -1,0 +1,1150 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0455",
+   "line": "bunt caufed, ceufud, ceufund, etc. Res notior est, quam ut probatione egeat.",
+   "old": "caufed,",
+   "new": "caused,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "بين الدلدل والقنافد كالفرق بين البقر والجواميس",
+   "old": "والجواميس",
+   "new": "والجوامس",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "Iam, ne quis objiciat ex utroque Kimchio Arabum قنفد kunphud esse",
+   "old": "قنفد",
+   "new": "قنفذ",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "non dicatur kunphud, sed سلحفاة sulachpha, vel سلحفية su-",
+   "old": "سلحفاة",
+   "new": "سلخفاة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "non dicatur kunphud, sed سلحفاة sulachpha, vel سلحفية su-",
+   "old": "سلحفية",
+   "new": "سلخفية",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "serpentis, sed et nonnulli pro χελωνίῳ, ut Aelianus Historiae lib. II. cap. 37. et",
+   "old": "χελωνίῳ,",
+   "new": "χελωνίω,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "Suidas in Φολίδωτον. At قنفد kunphud esse hericium, nemo ibit inficias,",
+   "old": "قنفد",
+   "new": "قنفذ",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "qui Damirem legerit: ubi قنفد kunphud cognominatur ابو الشوك",
+   "old": "قنفد",
+   "new": "قنفذ",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0456",
+   "line": "usu, اسري من قنفد Magis noctivagus quam kunphud. Ibidem multa",
+   "old": "قنفد",
+   "new": "قنفذ",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0458",
+   "line": "cem, hericium, herinacium, cum veteres herem vocabant. Nemesianus in Cyne-",
+   "old": "cum",
+   "new": "eum",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0459",
+   "line": "Στρόβιλον ἀμφ' ἄκανθαν εἱλίξας δέμας,",
+   "old": "εἱλίξας",
+   "new": "εἰλίξας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0460",
+   "line": "Δηθάκις ἔκτεινεν κύνα καρχαρον,",
+   "old": "καρχαρον,",
+   "new": "κάρχαρον,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0460",
+   "line": "capite trigesimo nono animalia quaedam memorat τὰ βάλλοντα ταῖς θριξίν,",
+   "old": "θριξίν,",
+   "new": "θριξὶν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0461",
+   "line": "بنحو الذراع Et cum videt aliquid infensum, sese contrahit. Et exeunt ex eo",
+   "old": "بنحو",
+   "new": "بحو",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0461",
+   "line": "وهو صنفان قنفذ يكون بارض مصر قدر الفار وقنفذ",
+   "old": "قنفذ",
+   "new": "قنفد",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0461",
+   "line": "وهو صنفان قنفذ يكون بارض مصر قدر الفار وقنفذ",
+   "old": "وقنفذ",
+   "new": "وقنفد",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0462",
+   "line": "ציה, in desolationem et siccitatem, atque ita demum fieri, ut kippod in ea diver-",
+   "old": "ציה,",
+   "new": "וציה,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0464",
+   "line": "Levit. XI, 29. Hebraeum צב tsab Hieronymo est crocodilus, Graecis ὁ κϱο-",
+   "old": "κϱο-",
+   "new": "κρο-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0464",
+   "line": "κόδειλος ὁ χεϱσαῖος. At recentiorum alii bufonem, aut rubetam; alii testudinem",
+   "old": "χεϱσαῖος.",
+   "new": "χερσαῖος.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0464",
+   "line": "quod quidem sciam, צב tsab animal esse scripsit ranae simile, nomine פרוט.",
+   "old": "פרוט.",
+   "new": "פרויט.",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0465",
+   "line": "הררונא chara[?]· Syri ܚܕܪܘܢܐ chadrona, et Samaritani [?] adrona",
+   "old": "הררונא",
+   "new": "חרדונא",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0465",
+   "line": "scribunt, ut infra docebitur). Vocatur item برق bork, et عاين alin, et",
+   "old": "عاين",
+   "new": "علين",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0465",
+   "line": "achusia. Et حلم halama proprie est, adipem illum eximere, ut عكد acha-",
+   "old": "achusia.",
+   "new": "chusia.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0466",
+   "line": "لا افعله حتي يرن الضب لان الضب لا يرن Hoc non faciam,",
+   "old": "يرن",
+   "new": "يرد",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0466",
+   "line": "لا افعله حتي يرن الضب لان الضب لا يرن Hoc non faciam,",
+   "old": "يرن",
+   "new": "يرد",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0467",
+   "line": "ونقص الحرارة Et alitur halitu, vesciturque aëre frigido, idque usque ad",
+   "old": "الحرارة",
+   "new": "الحرارت",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0467",
+   "line": "ris commune habet. Et Ibno-chalvia, يعيش سبع مايه فصاعدا",
+   "old": "مايه",
+   "new": "ماية",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0467",
+   "line": "او شجرة ليستدل بها علي بيته اذا غاب ويتباعد عن",
+   "old": "غاب",
+   "new": "عاب",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0468",
+   "line": "فياكل منها ما قدر Cum in eo est, ut ovisivet, fodit tanquam",
+   "old": "قدر",
+   "new": "قدرت",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "تكفل بالارزاق للخلق كلهم",
+   "old": "بالارزاق",
+   "new": "بالارزاقي",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "يؤويها في حجره لتلسع المتحرش به اذا ادخل يده",
+   "old": "يؤويها",
+   "new": "يويها",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "محالة واذا رويت في الحجر علم ان وراها العقارب",
+   "old": "رويت",
+   "new": "زويت",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "tere serpentes et scorpiones. Sed τῷ dhab maxime infensus est الورل aluvarlo,",
+   "old": "aluvarlo,",
+   "new": "alvvarlo,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "fecerint. Eidem tribuunt Arabes, quod cani Petrus a)). Rursus Damir, من",
+   "old": "a)).",
+   "new": "ᵃ).",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0469",
+   "line": "وكيف اخاف الفقر والله رازقي",
+   "old": "رازقي",
+   "new": "رازقن",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0470",
+   "line": "وهو لا يتخذ بيتا لنفسه ولا يحفر حجر بل يخرج",
+   "old": "لنفسه",
+   "new": "لنفشه",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0470",
+   "line": "اخر حسوله Dhorban (seu putorius) ad antrum τοῦ dhab accedit, cum ibi",
+   "old": "حسوله",
+   "new": "حسولة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0472",
+   "line": "haec habet: Dub (alias Dab) animal, in",
+   "old": "animal,",
+   "new": "unimal,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0472",
+   "line": "gines. Ita etiam Damir, بعره ينفع من البرص والكلف طلا",
+   "old": "بعره",
+   "new": "بعرة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0473",
+   "line": "cessive minori numero. Squama quaevis",
+   "old": "quaevis",
+   "new": "quaeuis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0474",
+   "line": "his ضيق dhik. Ridere illis צחק tsachak: his ضحك dhachika. 2. Secun-",
+   "old": "ضحك",
+   "new": "ضحق",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0476",
+   "line": "arod et ben-nephilim, et salamandra, tanquam vicinae species τῶ dhab. Et re-",
+   "old": "τῶ",
+   "new": "τῷ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0476",
+   "line": "nauplio, vel nautilo pisce, toto genere differunt. Nec verisimile est, Hebrae-",
+   "old": "verisimile",
+   "new": "verissimile",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0478",
+   "line": "لان له شبهين في البر احدهما احرام وهو الورل واحر",
+   "old": "واحر",
+   "new": "واخر",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0479",
+   "line": "maeis occurrisse, ut alibi e) docuimus. Sed Hebraei mulos intelligunt, quorum",
+   "old": "e)",
+   "new": "ᵉ)",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0479",
+   "line": "כלב שוטה וחיה שבעטתו פרדה וחיה Nemo unquam tibi dicet, se punctum a",
+   "old": "שוטה",
+   "new": "שיטה",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0480",
+   "line": "بذلك من الحبن لكبر بطنها وهي على خلقة",
+   "old": "على",
+   "new": "علي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0482",
+   "line": "κρὸν ὑπὲρ τῆς θαλάττης κρήνην Ἀζαριτίαν, τρέφουσαν κροκοδείλους μικρούς.",
+   "old": "κρὸν",
+   "new": "κρὰν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0482",
+   "line": "viatilis differentiam. Sic Aristoteles Historiae libri secundi capite decimo septi-",
+   "old": "Historiae",
+   "new": "Histeriae",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0484",
+   "line": "κοδείλων τούτων, τῶν μικρῶν τε, καὶ χαμαιερπῶν, κόπρον ἔντιμον αἱ τρυφῶ-",
+   "old": "χαμαιερπῶν,",
+   "new": "χαμαιρεπῶν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0485",
+   "line": "σαίων κροκοδείλων κόπρος, ἀλφοὺς ἀποῤῥύπτει· Et Aetius multis describit i),",
+   "old": "i),",
+   "new": "ⁱ),",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0485",
+   "line": "frequentissimos. 7. Denique nulla caussa est, cur scincus dicatur crocodilus ter-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0485",
+   "line": "ἀφαιρεῖν πέφυκεν, οὕτω καὶ ἐλεῖν ἀλφοὺς, καὶ λειχῆνας. 5. Serapio capite qua-",
+   "old": "ἐλεῖν",
+   "new": "ἑλεῖν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0485",
+   "line": "تمسح thimsach, id est, crocodili majoris, auferre albuginem. Id enim est",
+   "old": "تمسح",
+   "new": "تمساح",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0486",
+   "line": "Est species stellionis Arabici. Hispanice dicitur botrax. Ballecola quid sit, nescio.",
+   "old": "Arabici.",
+   "new": "Arabiti.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0486",
+   "line": "que illud oppidum Syros appellasse puto non a majore crocodilo ܟܦܪ ܠܬܡܣܚ",
+   "old": "ܠܬܡܣܚ",
+   "new": "ܬܡܣܚ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0487",
+   "line": "habet מיינקת חויא, et alter פלית חויא, vel פיילת חויא. Ita legendum, non",
+   "old": "מיינקת",
+   "new": "מינקת",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0488",
+   "line": "interpretes, caussa mihi nulla apparet praeter ipsum vocum ordinem. Nempe,",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0489",
+   "line": "taama: Nympha ܢܢܦܐ ninphe, et ܢܡܦܐ nimphe: Fustis ܩܘܪܢܣܐ",
+   "old": "ܢܢܦܐ",
+   "new": "ܢܝܢܦܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0489",
+   "line": "taama: Nympha ܢܢܦܐ ninphe, et ܢܡܦܐ nimphe: Fustis ܩܘܪܢܣܐ",
+   "old": "ܢܡܦܐ",
+   "new": "ܢܝܡܦܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0489",
+   "line": "ܒܘܛܡ butem, ut Hebraice בוטן boten. Et Arabice pollex ابهام ibham di-",
+   "old": "ܒܘܛܡ",
+   "new": "ܒܘܛܡܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0489",
+   "line": "zamavva, scortatus est, pro Hebraeo זנה zana: እድሜ፡ edem, tempus pro",
+   "old": "זנה",
+   "new": "ונה",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "Aluvarlo (vulgo guaril), animal ut dhab (seu crocodilus terrestris). Et magnus",
+   "old": "Aluvarlo",
+   "new": "Alvvarlo",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "runt الورل aluvarlo, qui et ipse vocem habet, quamvis fortasse minus sono-",
+   "old": "aluvarlo,",
+   "new": "alvvarlo,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "ram. Hinc Alcamus, ضغث الورل صوت Dhagathsa aluvarlo, id est,",
+   "old": "aluvarlo,",
+   "new": "alvvarlo,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "legerunt الورك aluvarco, quod ירך, i. e. coxam sonat. Sed meminisse de-",
+   "old": "aluvarco,",
+   "new": "alvvarco,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "الورل aluvarlo. Itaque, quod nostros homines latuerat hactenus, hoc pro",
+   "old": "aluvarlo.",
+   "new": "alvvarlo.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "الورل aluvarlo, vel الورك aluvarco, lacertae genus, ad stellionem ac-",
+   "old": "aluvarlo,",
+   "new": "alvvarlo,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0490",
+   "line": "الورل aluvarlo, vel الورك aluvarco, lacertae genus, ad stellionem ac-",
+   "old": "aluvarco,",
+   "new": "alvvarco,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0492",
+   "line": "φημόν τινα κωκυτὸν μεθιᾶσι, καὶ ὠρύονται βαρύτατα. Τούτου τοίνυν τοῦ ἤχου",
+   "old": "φημόν",
+   "new": "Φημόν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0494",
+   "line": "بيته لان اي بيت دخله هرب ساكنه ويغتصب",
+   "old": "ويغتصب",
+   "new": "وبغتصب",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0495",
+   "line": "وهو الحرذون Guaril utique idem est, quod chardaun. Sed contra Algia-",
+   "old": "الحرذون",
+   "new": "الحردون",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0495",
+   "line": "hid apud Damirem tradit, ان الحرذون غير الورل ووصفه دابة",
+   "old": "الحرذون",
+   "new": "الحردون",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0497",
+   "line": "28. Ἀπόλλων μὲν ἐγένετο ἱέραξ, Ἑρμῆς δὲ ἶβις· Ἄρης δὲ λεπιδωτὸς ἰχθύς· Ἄρ-",
+   "old": "ἶβις·",
+   "new": "ἴβις·",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0498",
+   "line": "bum est veneno inficere. Proinde dicunt, وحر الصدر غشه ووسواسه",
+   "old": "غشه",
+   "new": "عشّة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0499",
+   "line": "Aranea, فانا اران صيد الذباب لطي بالارض Et, cum vult venari",
+   "old": "اران",
+   "new": "اراد",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0500",
+   "line": "Hebraeis recentioribus, Selomoni, Kimchio, Pomario et Aquinati חומט cho-",
+   "old": "Hebraeis",
+   "new": "Hbraeis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0501",
+   "line": "Itaque, ut חומטון chometon est arena: sic חומט chomet est lacerti species,",
+   "old": "חומטון",
+   "new": "חימטון",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0501",
+   "line": "qui Talmudicorum חומטון a Graeco voca-",
+   "old": "חומטון",
+   "new": "חוממון",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0502",
+   "line": "العرب تسيها بنات النغا لانها تسكن نغيات",
+   "old": "النغا",
+   "new": "النقا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0502",
+   "line": "العرب تسيها بنات النغا لانها تسكن نغيات",
+   "old": "نغيات",
+   "new": "نقيات",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0502",
+   "line": "Sed et lacerti communis una species est ἀμμώδης. Damir capite العظاه",
+   "old": "العظاه",
+   "new": "العظاة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0503",
+   "line": "عند التفرقة حتي نفد السم واخذ كل حيوان قسطة",
+   "old": "قسطة",
+   "new": "قسطه",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0503",
+   "line": "sta est, eo quod defuit ipsi venenum. Ibidem Damir, وتسمي بارض",
+   "old": "وتسمي",
+   "new": "وتمسي",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0504",
+   "line": "وقد يمشي قدما وقد ينكص بعاله Illud est animal notum;",
+   "old": "بعاله",
+   "new": "بحاله",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0505",
+   "line": "נשימה ונשימה שאדם נושם צריך לקלס לבוראו מה טעם כל נשמה תהלל יה",
+   "old": "נושם",
+   "new": "נישם",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0507",
+   "line": "no totum, videbis illico audaciam nominis. Tamen etiam poëtis Arabibus باقرة",
+   "old": "videbis",
+   "new": "ridebis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0509",
+   "line": "Κοιμᾶται γὰρ ἐν τῇ φάτνῃ αὐτῆς, καὶ κωλύει ἐσθίειν, εἰς τοὺς μυκτῆρας ἐνδυό-",
+   "old": "ἐσθίειν,",
+   "new": "ἐθίειν,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0512",
+   "line": "rum ordine, ut in forma ex μορφη.",
+   "old": "μορφη.",
+   "new": "μόρφη.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0512",
+   "line": "b) Cap. 2. pag. 1065.",
+   "old": "2.",
+   "new": "a.",
+   "script": "common",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0513",
+   "line": "κη γοῦν τὸν σκορπίον καταλαμβάνει προσαχθέντος οἱ τοῦ ζώου τοῦ προειρημένου·",
+   "old": "προσαχθέντος",
+   "new": "προαχθέντος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0516",
+   "line": "chariorem sibi esse eum, qui occidit centum stelliones, quam qui redemit مائة",
+   "old": "مائة",
+   "new": "ماية",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0517",
+   "line": "Ζώοισιν λεπτοῖσι κατοικιδίοις σκαλαβώταις,",
+   "old": "λεπτοῖσι",
+   "new": "λεπτοίσι",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0517",
+   "line": "λάσσεται ἐν μέλιτι ἐξεντερισθεῖσα, τῶν ποδῶν ἀφαιρεθέντων. Si salamandra",
+   "old": "ἐξεντερισθεῖσα,",
+   "new": "ἐξεντεριθεῖσα,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0518",
+   "line": "μενος· et Hieronymus, Stellio manibus nititur; Arabs etiam يتسند",
+   "old": "يتسند",
+   "new": "يتنسد",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0519",
+   "line": "ἐλαμβανόμενος. Malim igitur pro מסככה mesacceca legere מפככה mephacceca,",
+   "old": "ἐλαμβανόμενος.",
+   "new": "ἐλλαμβανόμενος.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0521",
+   "line": "evadere, cum eadem in terra gradiens sit πρόχειρος, καὶ εὐάλωτος· quomo-",
+   "old": "εὐάλωτος·",
+   "new": "εὐάλωτως·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0521",
+   "line": "γεώλοφος ἐξοχὴ, locus in altum elatus, et clivosa prominentia. Altera conjectu-",
+   "old": "γεώλοφος",
+   "new": "γεώλεφος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0521",
+   "line": "mae a Novaria pagina 241. Syrae voces ܫܠܘܦܝܬܐ seluphita, et ܓܠܐ gala,",
+   "old": "ܓܠܐ",
+   "new": "ܥܓܠܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0521",
+   "line": "nono, Χερσαία χελώνη ζῶον λαγνίστατον· ἀλλὰ ὅγε ἄρρην. ὁμιλεῖ δὲ ἡ θή-",
+   "old": "ἄρρην.",
+   "new": "ἄῤῥην.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0522",
+   "line": "et in historia Susannae σχίσαι et πρίσαι alludunt ad arborum nomina σχῖ-",
+   "old": "σχῖ-",
+   "new": "σχί-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0522",
+   "line": "νον et πρῖνον.",
+   "old": "πρῖνον.",
+   "new": "πρίνον.",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0522",
+   "line": "eo corrigendus, cum scribit ὅδου pro οὐδοῦ. Quod parum est verisimile; cum",
+   "old": "verisimile;",
+   "new": "verissimile;",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0523",
+   "line": "قبب kabba in secunda Conjugatione concamerare significat, aut cameratum opus",
+   "old": "قبب",
+   "new": "قب",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0524",
+   "line": "necesse est agere accuratius. Columbam Hebraice יונה jona dici volunt a ver[?]",
+   "old": "ver[?]",
+   "new": "verbo",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0524",
+   "line": "φθινοπώρου καὶ φαίνεται μάλιστα, καὶ ἁλίσκεται· Oenas (vel, ut Gaza redd[?]",
+   "old": "redd[?]",
+   "new": "reddit,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0524",
+   "line": "φὰψ, καὶ ἡ περιστερὰ ἀεὶ φαίνονται· ἡ δὲ οἰνὰς φθινοπώρῳ μόνῳ· Palumb[?]",
+   "old": "Palumb[?]",
+   "new": "Palumbus",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0524",
+   "line": "minor et columba semper apparent; sed vinago solum autumno. Sed huic etym[?]",
+   "old": "etym[?]",
+   "new": "etymo",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0506",
+   "line": "stiore, longissima, fistuloso officulo longi-",
+   "old": "officulo",
+   "new": "ossiculo",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0510",
+   "line": "que enim aliunde simiae nomen, quam a simis naribus. Ideo iidem enares a)",
+   "old": "a)",
+   "new": "ᵃ)",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  }
+ ]
+}

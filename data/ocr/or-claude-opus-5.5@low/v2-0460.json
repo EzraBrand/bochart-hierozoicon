@@ -1,0 +1,182 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "460 <i>Probatur,</i> קפוד <i>esse Hericium et Hystricem.</i> L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "460 <i>Probatur,</i> קפוד <i>esse Hericium et Hystricem.</i> L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Se pharetra, sese jaculo, sese utitur arcu.</i>\n<i>Unum animal cunctas bellorum possidet artes.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Se pharetra, sese jaculo, sese utitur arcu.</i>\n<i>Unum animal cunctas bellorum possidet artes.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Denique jaculandi artem ab hac fera nos didicisse concludit. Et de eadem <i>Ha-\ndrianus</i>, imperator,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Denique jaculandi artem ab hac fera nos didicisse concludit. Et de eadem <i>Ha-\ndrianus</i>, imperator,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Spinis missilibus canes virosque</i>\n<i>Arcebat procul et fugabat omnes.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Spinis missilibus canes virosque</i>\n<i>Arcebat procul et fugabat omnes.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Phile</i> cap. 59. <i>De animalibus</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Phile</i> cap. 59. <i>De animalibus</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ὕστριξ δὲ τὰς ἄνωθεν ἐκπέμπει τρίχας,\nἋς ἡ φύσις γ᾽ ἔθηξε καὶ πρὸ τῆς μάχης.\nΦρίξασα γὰρ τὰ νῶτα βάλλει τοὺς πέλους\nΟἷον ἀπὸ νευρᾶς εὐτυχῶν ^{b)} τις τοξότης.\n<i>Ut tela villos asper hystrix conjicit,</i>\n<i>Natura quas ad praelium exacuit sagax.</i>\n<i>Cum nempe dorsum contrahit, nervo velut</i>\n<i>Intenso, in hostes tela torquet eminus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ὕστριξ δὲ τὰς ἄνωθεν ἐκπέμπει τρίχας,\nἋς ἡ φύσις γ᾽ ἔθηξε καὶ πρὸ τῆς μάχης.\nΦρίξασα γὰρ τὰ νῶτα βάλλει τοὺς πέλους\nΟἷον ἀπὸ νευρᾶς εὐτυχῶν ^{b)} τις τοξότης.\n<i>Ut tela villos asper hystrix conjicit,</i>\n<i>Natura quas ad praelium exacuit sagax.</i>\n<i>Cum nempe dorsum contrahit, nervo velut</i>\n<i>Intenso, in hostes tela torquet eminus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Oppianus</i> lib. 3. <i>Cynegeticῶν</i>, vs. 398.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Oppianus</i> lib. 3. <i>Cynegeticῶν</i>, vs. 398."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — Θοὰς δ᾽ ἔφριξεν ἐθείρας\nΚαί τ᾽ ὀπίσω νώτοισιν ἀκαχμένον ὠκυπέτῃσιν\nἸθὺς ἀκοντίζει μαλερὸν βέλος. — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — Θοὰς δ᾽ ἔφριξεν ἐθείρας\nΚαί τ᾽ ὀπίσω νώτοισιν ἀκαχμένον ὠκυπέτῃσιν\nἸθὺς ἀκοντίζει μαλερὸν βέλος. — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Acutos erigit aculeos, atque retro dorso volucri affixum perniciosum telum recta\nejaculantur.</i> Et paullo post,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Acutos erigit aculeos, atque retro dorso volucri affixum perniciosum telum recta\nejaculantur.</i> Et paullo post,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δηθάκις ἔκτεινεν κύνα καρχαρον,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δηθάκις ἔκτεινεν κύνα καρχαρον,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Dentibus asperum canem saepenumero interfecit.</i> Proinde venatores, cum canes\nnon audeant in hystricem immittere, illum quodam dolo capiunt, quem in se-\nquentibus se scripturum professus idem <i>Oppianus</i>, morte praeventus promissis\nnon stetit. Nec est, quod quis putet, haec <i>poetica</i> fide dici, cum idem tradant,\nquotquot scripserunt de natura animalium. Ita <i>Philosophus Historiae</i> libri noni ⟦p. 1041⟧\ncapite trigesimo nono animalia quaedam memorat τὰ βάλλοντα ταῖς θριξίν,\nοἷον αἱ ὕστριχες, <i>quae villos jaculantur, ut hystrices.</i> Et <i>Plinius</i> libri octavi ca-\npite trigesimo quinto, <i>Hystrici longiores aculei, et, cum intendit cutem, missiles.\nOra urgentium figit canum, et paullo longius jaculatur.</i> Solinus quoque, <i>Spinis\ntergum hispida</i> (hystrix), <i>quas plerumque laxatas jaculatione emittit voluntaria, ut\nassiduis aculeorum nimbis canes vulneret ingruentes.</i> Et <i>Aelianus</i> libri primi capite\ntrigesimo primo, Τὰς ἄνωθεν τρίχας οἱονεὶ βέλη ἐκπέμπει, καὶ εὐστόχως βάλ-\nλει πολλάκις, τὰ νῶτα φρίξασα, καὶ ἐκεῖναί γε πηδῶσιν. ὥσπερ οὖν ἔκ τινος\nἀφειμέναι νευρᾶς· <i>Superiores pilos ut sagittas emittit, et tanquam ad scopum sae-\npe recta destinat, dorsum horrendo contrahens. Illi autem insiliunt tanquam ex\nnervo emissi. Aristophanis Scholiastes</i> in <i>Pace</i>, et ex illo <i>Suidas</i>, Ἔστι δὲ ὕστριξ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Dentibus asperum canem saepenumero interfecit.</i> Proinde venatores, cum canes\nnon audeant in hystricem immittere, illum quodam dolo capiunt, quem in se-\nquentibus se scripturum professus idem <i>Oppianus</i>, morte praeventus promissis\nnon stetit. Nec est, quod quis putet, haec <i>poetica</i> fide dici, cum idem tradant,\nquotquot scripserunt de natura animalium. Ita <i>Philosophus Historiae</i> libri noni ⟦p. 1041⟧\ncapite trigesimo nono animalia quaedam memorat τὰ βάλλοντα ταῖς θριξίν,\nοἷον αἱ ὕστριχες, <i>quae villos jaculantur, ut hystrices.</i> Et <i>Plinius</i> libri octavi ca-\npite trigesimo quinto, <i>Hystrici longiores aculei, et, cum intendit cutem, missiles.\nOra urgentium figit canum, et paullo longius jaculatur.</i> Solinus quoque, <i>Spinis\ntergum hispida</i> (hystrix), <i>quas plerumque laxatas jaculatione emittit voluntaria, ut\nassiduis aculeorum nimbis canes vulneret ingruentes.</i> Et <i>Aelianus</i> libri primi capite\ntrigesimo primo, Τὰς ἄνωθεν τρίχας οἱονεὶ βέλη ἐκπέμπει, καὶ εὐστόχως βάλ-\nλει πολλάκις, τὰ νῶτα φρίξασα, καὶ ἐκεῖναί γε πηδῶσιν. ὥσπερ οὖν ἔκ τινος\nἀφειμέναι νευρᾶς· <i>Superiores pilos ut sagittas emittit, et tanquam ad scopum sae-\npe recta destinat, dorsum horrendo contrahens. Illi autem insiliunt tanquam ex\nnervo emissi. Aristophanis Scholiastes</i> in <i>Pace</i>, et ex illo <i>Suidas</i>, Ἔστι δὲ ὕστριξ"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "θηρίον",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "θηρίον"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "grc",
+   "text": "<i>Malim</i> εὔστοχος.",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "<i>Malim</i> εὔστοχος."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1764,
+    1407
+   ],
+   [
+    1764,
+    1397
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1765,
+  "cost_usd": 0,
+  "seconds": 492.5
+ }
+}

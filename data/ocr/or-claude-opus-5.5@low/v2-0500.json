@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "500 <i>Probatur,</i> חומט <i>esse Lacertam, in arena degentem.</i> L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "500 <i>Probatur,</i> חומט <i>esse Lacertam, in arena degentem.</i> L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "multis, stellioni et salamandrae. Unde est, quod לטאה <i>letaa</i>, quam putamus\nesse <i>Arabum vvacharam</i>, a <i>Syro</i> ܣܡܢܕܪܐ <i>salamandra</i>, et a veterum plerisque\naliis <i>stellio</i> redditur ^{(1)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "multis, stellioni et salamandrae. Unde est, quod לטאה <i>letaa</i>, quam putamus\nesse <i>Arabum vvacharam</i>, a <i>Syro</i> ܣܡܢܕܪܐ <i>salamandra</i>, et a veterum plerisque\naliis <i>stellio</i> redditur ^{(1)}."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. V.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. V."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> חומט chomet <i>esse lacertam, in arena degen-\ntem, quae Arabibus</i> حلكا chulaca <i>dicitur.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> חומט chomet <i>esse lacertam, in arena degen-\ntem, quae Arabibus</i> حلكا chulaca <i>dicitur.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hebraeis</i> recentioribus, <i>Selomoni, Kimchio, Pomario</i> et <i>Aquinati</i> חומט <i>cho-\nmet</i> est <i>limax</i>. Neque aliud volunt <i>Hispani</i> illi, qui in <i>Kimchio</i> vernacule\nכרבר reddunt. Legendum enim כר״כול <i>caracol,</i> quomodo <i>limacem</i> illi appellant.\nId sequuntur <i>Arias, Munsterus, Petrus Robertus, Genevenses</i> et <i>Angli</i>, qui\nhic quoque <i>limacem</i> habent. Tamen aliter veteres. <i>Graecis</i> enim et <i>Hierony-\nmo</i> חומט <i>chomet</i> est σαῦρα, <i>lacerta.</i> Et <i>Arabibus</i> editis حربا <i>chirba, chamae-\nleon:</i> manu-scriptis سام ابرص <i>sammabras</i>, stellio. Neque aliud hic <i>Syrus</i>\nܚܘܠܡܛܐ <i>chaulmata</i> juxta <i>Gabrielem Sionitam</i>, cui malo credere, quam\n<i>Baptistae Ferrario</i>, qui reddit: <i>avem, dorsum habentem, nigris et purpureis pen-\nnis distinctum;</i> plane ἀπροσδιονύσως. Neque enim de avibus hic agitur, sed de\nterrae reptilibus. Itaque, ut superiora, ita etiam חומט <i>chomet</i> videtur esse in\nlacertorum specie. Neque latet origo vocis. <i>Talmudicis</i> enim חומטון <i>chometon</i>\nest <i>arena.</i> Hinc in tractatu <i>De Sabbatho</i> cap. 5. fol. 54. a. (ubi <i>Talmudici</i> dis-\nputant, quorsum <i>1 Reg. IX,</i> 13. <i>Hiramus</i>, rex <i>Tyriorum</i>, ארץ כבול, <i>terram\nchabul</i> appellaverit tractum illum, quo donaverat eum <i>Solomon</i>) dicit <i>R. Nach-</i> ⟦p. 1076⟧\n<i>man, Isaaci</i> filius, ארץ חומטין היתה אמאי קרו לה כבול דמשתרגה בה כרעא\nעד כבלא <i>Terra erat</i> chometon, <i>unde est, quod vocarunt eam terram</i> chabul\n<i>quia in ea crus usque ad talum immergebatur.</i> Et <i>Kimchius</i>, hunc locum citans\nin <i>Lexico</i> Radice כבל, sed verbis paullum immutatis, חומטון <i>chometon</i> explicat\nחול <i>chol</i>, id est, <i>arenam.</i> Ita, ut illi <i>terra chometon</i> sit <i>terra arenae</i>, vel <i>are-\nnosa.</i> <i>Baal Aruch</i> itidem totum locum ita exponit: פי׳ שרגליו של אדם\nמשתקעות בה מחמת החול כאילו הן כבולין לכן אינה עושה פירות <i>Significat\npedes hominis in ea</i> (terra) <i>fuisse immersos propter arenae</i> (copiam) <i>ac si fuissent</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraeis</i> recentioribus, <i>Selomoni, Kimchio, Pomario</i> et <i>Aquinati</i> חומט <i>cho-\nmet</i> est <i>limax</i>. Neque aliud volunt <i>Hispani</i> illi, qui in <i>Kimchio</i> vernacule\nכרבר reddunt. Legendum enim כר״כול <i>caracol,</i> quomodo <i>limacem</i> illi appellant.\nId sequuntur <i>Arias, Munsterus, Petrus Robertus, Genevenses</i> et <i>Angli</i>, qui\nhic quoque <i>limacem</i> habent. Tamen aliter veteres. <i>Graecis</i> enim et <i>Hierony-\nmo</i> חומט <i>chomet</i> est σαῦρα, <i>lacerta.</i> Et <i>Arabibus</i> editis حربا <i>chirba, chamae-\nleon:</i> manu-scriptis سام ابرص <i>sammabras</i>, stellio. Neque aliud hic <i>Syrus</i>\nܚܘܠܡܛܐ <i>chaulmata</i> juxta <i>Gabrielem Sionitam</i>, cui malo credere, quam\n<i>Baptistae Ferrario</i>, qui reddit: <i>avem, dorsum habentem, nigris et purpureis pen-\nnis distinctum;</i> plane ἀπροσδιονύσως. Neque enim de avibus hic agitur, sed de\nterrae reptilibus. Itaque, ut superiora, ita etiam חומט <i>chomet</i> videtur esse in\nlacertorum specie. Neque latet origo vocis. <i>Talmudicis</i> enim חומטון <i>chometon</i>\nest <i>arena.</i> Hinc in tractatu <i>De Sabbatho</i> cap. 5. fol. 54. a. (ubi <i>Talmudici</i> dis-\nputant, quorsum <i>1 Reg. IX,</i> 13. <i>Hiramus</i>, rex <i>Tyriorum</i>, ארץ כבול, <i>terram\nchabul</i> appellaverit tractum illum, quo donaverat eum <i>Solomon</i>) dicit <i>R. Nach-</i> ⟦p. 1076⟧\n<i>man, Isaaci</i> filius, ארץ חומטין היתה אמאי קרו לה כבול דמשתרגה בה כרעא\nעד כבלא <i>Terra erat</i> chometon, <i>unde est, quod vocarunt eam terram</i> chabul\n<i>quia in ea crus usque ad talum immergebatur.</i> Et <i>Kimchius</i>, hunc locum citans\nin <i>Lexico</i> Radice כבל, sed verbis paullum immutatis, חומטון <i>chometon</i> explicat\nחול <i>chol</i>, id est, <i>arenam.</i> Ita, ut illi <i>terra chometon</i> sit <i>terra arenae</i>, vel <i>are-\nnosa.</i> <i>Baal Aruch</i> itidem totum locum ita exponit: פי׳ שרגליו של אדם\nמשתקעות בה מחמת החול כאילו הן כבולין לכן אינה עושה פירות <i>Significat\npedes hominis in ea</i> (terra) <i>fuisse immersos propter arenae</i> (copiam) <i>ac si fuissent</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>compe-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>compe-</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Quod monuimus ad cap. praecedens\nnot. 2., idem omnino et hic valet Neque\nde ea lacerta, quae Arabibus وحرة sonat,\nquidquam reperire potui in Commentariis\neorum, qui regiones illas adiere.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quod monuimus ad cap. praecedens\nnot. 2., idem omnino et hic valet Neque\nde ea lacerta, quae Arabibus وحرة sonat,\nquidquam reperire potui in Commentariis\neorum, qui regiones illas adiere."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1944,
+    1686
+   ],
+   [
+    1944,
+    1126
+   ]
+  ],
+  "input_tokens": 9035,
+  "output_tokens": 1728,
+  "cost_usd": 0,
+  "seconds": 492.6
+ }
+}

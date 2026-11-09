@@ -42,6 +42,74 @@ ENTRIES = {
                         "with the other names of the mole",
                "terms": '"mustela" -> "weasel"; "talpa" -> "mole"; "choled" stays "choled" (never "weasel" '
                         'or "mole": the identity of the animal is what the chapter argues about);'},
+    # Tranche 1, 09-Nov-2026: ch. 34, ch. 36 and Book 4 (chs. 1-8). Chapter heads from the MDZ hOCR
+    # (logs/find_caps.py); first_col = the last margin column before the chapter head.
+    "achbar": {"vol": 2, "pages": list(range(429, 436)),
+               "title": "Book 3, chapter 34: The common mouse (vol. 2, pp. 429–435)",
+               "start": r"^CAP\.\s*XXXIV\.", "end": r"^CAP\.\s*XXXV\.", "first_col": 1017,
+               "about": "the chapter on the common mouse, Hebrew עכבר (achbar)",
+               "terms": '"mus" -> "mouse"; "achbar" stays "achbar";'},
+    "kippod": {"vol": 2, "pages": list(range(454, 464)),
+               "title": "Book 3, chapter 36: Kippod is the hedgehog and the porcupine (vol. 2, pp. 454–462)",
+               "start": r"^CAP\.\s*XXXVI\.", "end": r"LIBER QUARTUS", "first_col": 1035,
+               "about": "the chapter arguing that the Hebrew קפוד (kippod) is the hedgehog and the porcupine, "
+                        "against those who take it for a bird",
+               "terms": '"ericius"/"hericius"/"erinaceus" -> "hedgehog"; "hystrix" -> "porcupine"; '
+                        '"kippod" stays "kippod" (never "hedgehog": the identity is what the chapter argues);'},
+    "tsab": {"vol": 2, "pages": list(range(463, 488)),
+             "title": "Book 4, chapter 1: Tsab (Lev 11:29) is the land crocodile (vol. 2, pp. 463–487)",
+             "start": r"LIBER QUARTUS", "end": r"^CAP\.\s*II\.",
+             "about": "the first chapter of the book on the oviparous quadrupeds, arguing that the Hebrew צב "
+                      "(tsab) of Lev 11:29 is the land crocodile, with Arabic sources",
+             "terms": '"crocodilus terrestris" -> "land crocodile"; "lacerta" -> "lizard"; "stellio" -> '
+                      '"stellio" (the Latin name is kept); "scincus" -> "skink"; "tsab" stays "tsab" '
+                      '(never "tortoise" or "crocodile": the identity is what the chapter argues);'},
+    "anaqah": {"vol": 2, "pages": list(range(487, 494)),
+               "title": "Book 4, chapter 2: Anaka is a kind of stellio, named from its harsh cry (vol. 2, pp. 487–493)",
+               "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.", "first_col": 1063,
+               "about": "the chapter arguing that the Hebrew אנקה (anaka) of Lev 11:30 is a kind of stellio, "
+                        "named from its harsh cry",
+               "terms": '"stellio" -> "stellio" (the Latin name is kept); "lacerta" -> "lizard"; '
+                        '"anaka" stays "anaka";'},
+    "koach": {"vol": 2, "pages": list(range(493, 498)),
+              "title": "Book 4, chapter 3: Coach is the waral, the largest lizard of Arabia (vol. 2, pp. 493–497)",
+              "start": r"^CAP\.\s*III\.", "end": r"^CAP\.\s*IV\.",
+              "about": "the chapter arguing that the Hebrew כח (coach) of Lev 11:30 is the Arabic ورل (waral), "
+                       "the largest and strongest lizard of Arabia",
+              "terms": '"lacerta" -> "lizard"; "coach" stays "coach"; ورل is transliterated "waral";'},
+    "letaah": {"vol": 2, "pages": list(range(497, 501)),
+               "title": "Book 4, chapter 4: Leta is a venomous lizard like the stellio (vol. 2, pp. 497–500)",
+               "start": r"^CAP\.\s*IV\.", "end": r"^CAP\.\s*V\.",
+               "about": "the chapter arguing that the Hebrew לטאה (leta) of Lev 11:30 is a lizard like the "
+                        "stellio, very venomous",
+               "terms": '"lacerta" -> "lizard"; "stellio" -> "stellio" (the Latin name is kept); '
+                        '"leta" stays "leta";'},
+    "chomet": {"vol": 2, "pages": list(range(500, 504)),
+               "title": "Book 4, chapter 5: Chomet is a lizard that lives in the sand (vol. 2, pp. 500–503)",
+               "start": r"^CAP\.\s*V\.", "end": r"^CAP\.\s*VI\.", "first_col": 1075,
+               "about": "the chapter arguing that the Hebrew חומט (chomet) of Lev 11:30 is a lizard that lives "
+                        "in the sand",
+               "terms": '"lacerta" -> "lizard"; "chomet" stays "chomet";'},
+    "tinshemet": {"vol": 2, "pages": list(range(503, 511)),
+                  "title": "Book 4, chapter 6: Tinshemeth (Lev 11:30) is the chameleon (vol. 2, pp. 503–510)",
+                  "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.", "first_col": 1078,
+                  "about": "the chapter arguing that the Hebrew תנשמת (tinshemeth) of Lev 11:30 is the chameleon",
+                  "terms": '"chamaeleon" -> "chameleon"; "lacerta" -> "lizard"; "tinshemeth" stays "tinshemeth";'},
+    "semamit": {"vol": 2, "pages": list(range(510, 521)),
+                "title": "Book 4, chapter 7: Semamith (Prov 30:28) is not the ape nor the spider but the stellio "
+                         "(vol. 2, pp. 510–520)",
+                "start": r"^CAP\.\s*VII\.", "end": r"^CAP\.\s*VIII\.", "first_col": 1083,
+                "about": "the chapter arguing that the Hebrew שממית (semamith) of Prov 30:28 is not the ape nor "
+                         "the spider but the stellio",
+                "terms": '"stellio" -> "stellio" (the Latin name is kept); "simia" -> "ape"; "aranea" -> '
+                         '"spider"; "semamith" stays "semamith";'},
+    "chelonai": {"vol": 2, "pages": list(range(520, 525)),
+                 "title": "Book 4, chapter 8: Why the altars of the idols are said to be ὡς χελῶναι, like "
+                          "tortoises, in the Greek version of Hosea (vol. 2, pp. 520–523)",
+                 "start": r"^CAP\.\s*VIII\.", "end": r"PARS SECUNDA", "first_col": 1090,
+                 "about": "the chapter on why the Greek version (the Septuagint) of Hosea says that the altars "
+                          "of the idols are ὡς χελῶναι, like tortoises",
+                 "terms": '"testudo" -> "tortoise" (or "tortoise shell" where the shell is meant);'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -60,6 +128,37 @@ FIXES = {
     # ch. 35 (08-Nov-2026): catchwords read into the body text
     439: [("caeci de-\ngunt</i>,", "caeci de-</i>")],
     440: [("meta-\nphoram-", "meta-")],
+    # tranche 1 (09-Nov-2026): superscript letters as note marks; the margin mark of p. 495 is printed
+    # 1071 (read on the scan; Opus and MDZ read 1971)
+    479: [("^{ᵉ)}", "^{e)}"), ('qui non', 'qui nou')],
+    495: [("⟦p. 1971⟧", "⟦p. 1071⟧"), ('τȣ̃', 'τοῦ')],
+    510: [("^{ᵃ)}", "^{a)}")],
+    # tranche 1: catchwords read into the body text (the next page begins with the same word)
+    456: [("الافاع\nولا", "الافاع")],
+    464: [("وان كان\nيشبهه", "وان كان"), ('פרויט.', 'פויוט.')],
+    466: [("يخرج من\nحاجره", "يخرج من")],
+    471: [("aluntur.</i>\nوكذلك", "aluntur.</i>")],
+    473: [("ut de\neo", "ut de")],
+    480: [("فلا\nياكلونها", "فلا")],
+    482: [("οἱ\nχερσαῖοι,", "οἱ"), ('talibus crocodilis accipiendum,', 'talibus crccodilis accipiendum,')],
+    492: [("<i>Gal-\nlica.</i>", "<i>Gal-</i>")],
+    497: [("quod id\nipsum", "quod id")],
+    502: [("العظاة\nعند", "العظاة")],
+    503: [("aspi-\nratio,", "aspi-")],
+    514: [("sam-\nmabras,", "sam-")],
+    # tranche 1, scan check (09-Nov-2026): the print differs from the vote's proposal
+    455: [('Poniarius</i> ריצ"ו', 'Poniarius</i> ריצ"יו'), ('Selomo</i> הריצון', 'Selomo</i> הריצ"ון')],
+    461: [('ὄπω', 'οὔπω')],
+    474: [('צוק', 'צרק')],
+    475: [('ܚܪܕܘܢܐ', 'ܚܕܪܘܢܐ')],
+    484: [('ἁρμόζει', 'ἁρμώζει')],
+    486: [('ΧΑΡΟΥΚΙ,', 'ΧΑΡΟΥΚῚ,')],
+    490: [('à', 'á')],
+    498: [('عشّة', 'عشه')],
+    501: [('Damir, اللحكا دويبة', 'Damir, لحلكا دويبة'), ('بالعظاة', 'بالعغناة')],
+    511: [('Εἱλίσσετε', 'Εἰλίσσετε')],
+    512: [('στάχυς (lege', 'στάχους (lege')],
+    517: [('ἐκδύνηται·', 'ἐκδύηται·')],
 }
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]

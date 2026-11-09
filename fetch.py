@@ -35,6 +35,11 @@ SAMPLE = [
     # Book III ch. 35, the choled (mole, not weasel): p. 435 (after ch. 34) to p. 453 (CAP. XXXVI.
     # at its foot); pp. 434 and 454 for the joins. Found in the MDZ hOCR, 08-Nov-2026.
     *[(2, c, "choled") for c in range(450, 471)],
+    # Tranche 09-Nov-2026: ch. 34 (vulgar mouse, pp. 429-435; pp. 430-433 new), ch. 36 (kippod,
+    # pp. 454-462) and Book IV (oviparous quadrupeds, chs. 1-8, pp. 463-523); p. 524 (Pars II, Book I
+    # of the birds) for the join. Chapter heads found in the MDZ hOCR (logs/find_caps.py).
+    *[(2, c, "achbar") for c in range(446, 450)],
+    *[(2, c, "book4") for c in range(471, 541)],
 ]
 
 session = requests.Session()

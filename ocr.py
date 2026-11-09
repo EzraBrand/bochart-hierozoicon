@@ -14,6 +14,7 @@ import argparse
 import base64
 import io
 import json
+import re
 import os
 import sys
 import time
@@ -168,10 +169,25 @@ def text_box(gray: Image.Image, gap: float = 0.04) -> tuple[int, int, int, int]:
             min(x1 + side, w) * 4, min(ys[-1] + 1 + pad, h) * 4)
 
 
+def safe_box(path: Path, gray: Image.Image) -> tuple[int, int, int, int]:
+    """text_box, widened to cover every text line of the MDZ hOCR (if fetched). On pp. 506, 510, 520
+    and 524 of vol. 2 text_box cut the right edge of the text (09-Nov-2026: up to 33 lines cut)."""
+    x0, y0, x1, y1 = text_box(gray)
+    hocr = path.parent.parent / "mdz_hocr" / f"{path.stem}.hocr"
+    if hocr.exists():
+        lines = [tuple(map(int, m.groups())) for m in re.finditer(
+            r'class="ocr_line"[^>]*bbox (\d+) (\d+) (\d+) (\d+)', hocr.read_text(encoding="utf-8"))]
+        lines = [b for b in lines if b[2] - b[0] > 600]  # body lines, not specks
+        if lines:
+            x0 = max(min(x0, min(b[0] for b in lines) - 30), 0)
+            x1 = min(max(x1, max(b[2] for b in lines) + 30), gray.width)
+    return x0, y0, x1, y1
+
+
 def page_boxes(path: Path) -> list[tuple[int, int, int, int]]:
     """Boxes (in scan pixels) of the image(s) a page is sent as: the same cut as page_images."""
     gray = Image.open(path).convert("L")
-    x0, y0, x1, y1 = text_box(gray)
+    x0, y0, x1, y1 = safe_box(path, gray)
     page = gray.crop((x0, y0, x1, y1))
     w, h = page.size
     if w * h <= MAX_PIXELS and max(w, h) <= MAX_EDGE:
@@ -189,7 +205,7 @@ def page_images(path: Path) -> list[Image.Image]:
     is over the API's pixel limit (Rosenmüller's pages are about 1900x2500 px after the crop).
     """
     gray = Image.open(path).convert("L")
-    page = gray.crop(text_box(gray))
+    page = gray.crop(safe_box(path, gray))
     w, h = page.size
     if w * h <= MAX_PIXELS and max(w, h) <= MAX_EDGE:
         return [page]
@@ -275,7 +291,7 @@ def request_body(pg: dict) -> tuple[dict, list]:
     if ARGS.compact:
         prompt = prompt[:prompt.index("Runs: split")].replace("not in the runs", "not in the text") + COMPACT_RUNS
     content.append({"type": "text", "text": prompt + "\nAnswer with the JSON object only."})
-    body = {"max_tokens": 32000, "messages": [{"role": "user", "content": content}],
+    body = {"max_tokens": ARGS.max_tokens, "messages": [{"role": "user", "content": content}],
             "response_format": {"type": "json_schema", "json_schema": {
                 "name": "page", "strict": True, "schema": SCHEMA_COMPACT if ARGS.compact else SCHEMA}},
             "reasoning": {"effort": ARGS.effort}, "usage": {"include": True}}
@@ -372,6 +388,8 @@ def main():
     p.add_argument("--effort", default="low", choices=["low", "medium", "high", "xhigh", "max"])
     p.add_argument("--tag", default="", help="suffix for the output folder, e.g. a prompt version")
     p.add_argument("--force", action="store_true")
+    p.add_argument("--max-tokens", type=int, default=10000,
+                   help="real output is at most about 5000; the batch submit is checked against this")
     p.add_argument("--compact", action="store_true", help="blocks without language runs (fewer output tokens)")
     p.add_argument("--batch", action="store_true", help="OpenRouter Batch API: half price, results in minutes to hours")
     p.add_argument("--batch-log", default="", help="name of the batch state file in logs/, to resume a batch")

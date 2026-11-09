@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "480 <i>Probatur,</i> צב <i>esse Crocodilum terrestrem.</i> L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "480 <i>Probatur,</i> צב <i>esse Crocodilum terrestrem.</i> L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>nem,</i> vel <i>testudinem</i>, et <i>chacina,</i> serpentis genus; et ex eorum concubitu natum\nesse <i>chabarber</i>, id est, bestiam, utriusque naturae participem. Quae cum sint\nabsurdissima, quidni hic cum <i>Poeta</i> dicamus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>nem,</i> vel <i>testudinem</i>, et <i>chacina,</i> serpentis genus; et ex eorum concubitu natum\nesse <i>chabarber</i>, id est, bestiam, utriusque naturae participem. Quae cum sint\nabsurdissima, quidni hic cum <i>Poeta</i> dicamus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Iungentur jam gryphes equis?</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Iungentur jam gryphes equis?</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Bufoni enim, aut testudini nihil est commune cum serpentibus: nec copulari\npossunt tam diversa animalia: nec, si miscerentur, posset ex iis tertium aliquid\nnasci. Proinde nemo indicavit hactenus, quae sit tertia illa species, ex angue et\nbufone (aut testudine) nata. Itaque, utut inepti sint <i>Hebraeorum</i> magistri, ab-\nsit tamen, ut illos putem eo stultitiae devenisse, ut haec monstra sibi fingerent.\nOmnino igitur his tribus vocibus, חרדון <i>chardon</i>, חכינא <i>chacina</i>, et חברבר <i>cha-\nbarber</i>, tria designantur animalia, quae, licet specie diversa, genere tamen con-\nveniunt. Nec usque adeo difficile est indicare, quaenam illa sint. Iam enim\ndidicimus, חרדון <i>chardon</i> idem esse, quod צב <i>tsab</i>, vel ضب <i>dhab</i>, lacerti ge-\nnus, de quo tam multa nos docuerunt <i>Arabes</i>. Et pro חכינא <i>chacina</i> est certo\ncertius legendum חבינא <i>chabina</i>, <i>Beth</i> et <i>Caph</i> permutatis, quae literae sunt\nsimillimae, et per librariorum incuriam non raro permutantur. Proinde hanc\nvocem in <i>Ialkut</i> per <i>Beth</i>, חבנא <i>chabna</i>, vel <i>chabina</i> legi, observat <i>Buxtorfius</i>,\nquae scriptura est verissima. Nam <i>Arabice</i> حبن <i>chabna</i> est <i>hydropisi laborare.</i>\nNulla vox est frequentior in <i>medicorum</i> libris. Atque hinc ام حبين <i>ummo\nchubaini</i>, quasi <i>mater hydropisis</i>: et حبينة <i>chubaina</i>, vel <i>chabina</i>, quasi <i>hy-\ndropica</i>, dicitur <i>foemina chamaeleontis</i>, aut lacertae quaedam species, huic simil-\nlima; quia ventrem habet turgidum, ac si hydropisi laboraret ^{(6)}. Utrumque\nnomen est in <i>Alcamus</i>. Et prius in <i>Damire</i> sic explicatur, واغا سميت\nبذلك من الحبن لكبر بطنها وهي علي خلقة\nالحربا غير صدر <i>Utique sic vocatur ab hydropisi, propter ventris\nmagnitudinem, et est naturae chamaeleontis, solo pectore excepto.</i> Et <i>Ibnossachith</i>,\nهي اعرض العظاة وراسها عرض <i>Haec est vulgari lacerta latior, et\nlatum habet caput.</i> Et <i>Ibnokatiba</i>, ام حبين تستقبل للشمس ⟦p. 1059⟧\nوتدور معها كيف دارت وهذه صفة الحربا Ummo chu-\nbain <i>ad solem se obvertit, et cum illo convertitur, quod est chamaeleontis attribu-\ntum.</i> Et auctor المرصع id est, <i>Gemmati operis</i>, اختلف في ام\nحبين فقيل هي ضرب من العظا وقيل هي اعرض\nمنها وقيل هي انثي الحرابي يتحاماها الاعراب فلا\nياكلونها",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Bufoni enim, aut testudini nihil est commune cum serpentibus: nec copulari\npossunt tam diversa animalia: nec, si miscerentur, posset ex iis tertium aliquid\nnasci. Proinde nemo indicavit hactenus, quae sit tertia illa species, ex angue et\nbufone (aut testudine) nata. Itaque, utut inepti sint <i>Hebraeorum</i> magistri, ab-\nsit tamen, ut illos putem eo stultitiae devenisse, ut haec monstra sibi fingerent.\nOmnino igitur his tribus vocibus, חרדון <i>chardon</i>, חכינא <i>chacina</i>, et חברבר <i>cha-\nbarber</i>, tria designantur animalia, quae, licet specie diversa, genere tamen con-\nveniunt. Nec usque adeo difficile est indicare, quaenam illa sint. Iam enim\ndidicimus, חרדון <i>chardon</i> idem esse, quod צב <i>tsab</i>, vel ضب <i>dhab</i>, lacerti ge-\nnus, de quo tam multa nos docuerunt <i>Arabes</i>. Et pro חכינא <i>chacina</i> est certo\ncertius legendum חבינא <i>chabina</i>, <i>Beth</i> et <i>Caph</i> permutatis, quae literae sunt\nsimillimae, et per librariorum incuriam non raro permutantur. Proinde hanc\nvocem in <i>Ialkut</i> per <i>Beth</i>, חבנא <i>chabna</i>, vel <i>chabina</i> legi, observat <i>Buxtorfius</i>,\nquae scriptura est verissima. Nam <i>Arabice</i> حبن <i>chabna</i> est <i>hydropisi laborare.</i>\nNulla vox est frequentior in <i>medicorum</i> libris. Atque hinc ام حبين <i>ummo\nchubaini</i>, quasi <i>mater hydropisis</i>: et حبينة <i>chubaina</i>, vel <i>chabina</i>, quasi <i>hy-\ndropica</i>, dicitur <i>foemina chamaeleontis</i>, aut lacertae quaedam species, huic simil-\nlima; quia ventrem habet turgidum, ac si hydropisi laboraret ^{(6)}. Utrumque\nnomen est in <i>Alcamus</i>. Et prius in <i>Damire</i> sic explicatur, واغا سميت\nبذلك من الحبن لكبر بطنها وهي علي خلقة\nالحربا غير صدر <i>Utique sic vocatur ab hydropisi, propter ventris\nmagnitudinem, et est naturae chamaeleontis, solo pectore excepto.</i> Et <i>Ibnossachith</i>,\nهي اعرض العظاة وراسها عرض <i>Haec est vulgari lacerta latior, et\nlatum habet caput.</i> Et <i>Ibnokatiba</i>, ام حبين تستقبل للشمس ⟦p. 1059⟧\nوتدور معها كيف دارت وهذه صفة الحربا Ummo chu-\nbain <i>ad solem se obvertit, et cum illo convertitur, quod est chamaeleontis attribu-\ntum.</i> Et auctor المرصع id est, <i>Gemmati operis</i>, اختلف في ام\nحبين فقيل هي ضرب من العظا وقيل هي اعرض\nمنها وقيل هي انثي الحرابي يتحاماها الاعراب فلا\nياكلونها"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Inturgescit tantummodo, ubi irritatur, teste Hasselquisto, qui hoc animal, dili-\ngenter a se observatum, accurate describit in <i>Itiner.</i> p. 348—351, vers. germ.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Inturgescit tantummodo, ubi irritatur, teste Hasselquisto, qui hoc animal, dili-\ngenter a se observatum, accurate describit in <i>Itiner.</i> p. 348—351, vers. germ."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2064,
+    1617
+   ],
+   [
+    2064,
+    1223
+   ]
+  ],
+  "input_tokens": 9443,
+  "output_tokens": 1652,
+  "cost_usd": 0,
+  "seconds": 492.6,
+  "vote": "1 decisions from v2-455-524"
+ }
+}

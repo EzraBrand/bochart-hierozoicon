@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "492 Probatur, אנקה esse stellionis genus. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "492 Probatur, אנקה esse stellionis genus. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Φημόν τινα κωκυτὸν μεθιᾶσι, καὶ ὠρύονται βαρύτατα. Τέτε τοίνυν τῆ ἤχε\nὅςις ἂν ὑπακύση, ἄφυκτα οἵ ἐςι, καὶ ὀ μετὰ μικρὸν ἀποθνήσκει· <i>Castorides,\nmarinum animal, ad littora et saxa eminentia infaustum edunt ululatum, et gra-\nvissime rugiunt. Ita, ut earum clamorem qui audierit, non effugiat, quin paullo\npost excedat e vita. Oppianus</i> libro primo <i>Halieuticῶν</i>, vs. 398. seqq.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Φημόν τινα κωκυτὸν μεθιᾶσι, καὶ ὠρύονται βαρύτατα. Τέτε τοίνυν τῆ ἤχε\nὅςις ἂν ὑπακύση, ἄφυκτα οἵ ἐςι, καὶ ὀ μετὰ μικρὸν ἀποθνήσκει· <i>Castorides,\nmarinum animal, ad littora et saxa eminentia infaustum edunt ululatum, et gra-\nvissime rugiunt. Ita, ut earum clamorem qui audierit, non effugiat, quin paullo\npost excedat e vita. Oppianus</i> libro primo <i>Halieuticῶν</i>, vs. 398. seqq."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καςορίδες τ᾽ ὀλοαὶ δυσπενθέες, αἵ τ᾽ ἀλεγεινὴν\nἜσσαν ἐπὶ κροκαλοῖσιν ἀπαίσιον ὠρύονται\nἈνδράσιν· ὅς δέ κε γῆρυν ἐν ὔασιν ἀλγινόεσσαν\nΔέξηται, ςυγερῆς τ᾽ ἐνοπῆς κωκυτὸν ἀκύση,\nΟὐ τηλὲ θανάτοιο τά χ᾽ ἔσσεται· ἀλλά οἱ ἄτην\nΚαὶ μόρον αἰνοτάτη κείνη μαντεύεται αὐδή.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καςορίδες τ᾽ ὀλοαὶ δυσπενθέες, αἵ τ᾽ ἀλεγεινὴν\nἜσσαν ἐπὶ κροκαλοῖσιν ἀπαίσιον ὠρύονται\nἈνδράσιν· ὅς δέ κε γῆρυν ἐν ὔασιν ἀλγινόεσσαν\nΔέξηται, ςυγερῆς τ᾽ ἐνοπῆς κωκυτὸν ἀκύση,\nΟὐ τηλὲ θανάτοιο τά χ᾽ ἔσσεται· ἀλλά οἱ ἄτην\nΚαὶ μόρον αἰνοτάτη κείνη μαντεύεται αὐδή."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Castoridesque perniciosae et gravis luctus, quaeque in littoribus tristem vocem et\nhominibus infaustam emittunt. Qui vero moestum clamorem auribus perceperit, et\nquerulae vocis ejulatum audierit, non procul erit a morte: sed ipsi cladem et mor-\ntem praesagit gravissima illa vox.</i> Tzetzes Chiliadis sextae Historia quadragesi-\nma septima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Castoridesque perniciosae et gravis luctus, quaeque in littoribus tristem vocem et\nhominibus infaustam emittunt. Qui vero moestum clamorem auribus perceperit, et\nquerulae vocis ejulatum audierit, non procul erit a morte: sed ipsi cladem et mor-\ntem praesagit gravissima illa vox.</i> Tzetzes Chiliadis sextae Historia quadragesi-\nma septima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἡ καςορὶς δ᾽ ὠρύεται, ὃς δ᾽ ἂν ἀκύση ταύτης\nΧρόνῳ βραχεῖ παρέρχεται τᾶ ταλαιπώρε βίε·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡ καςορὶς δ᾽ ὠρύεται, ὃς δ᾽ ἂν ἀκύση ταύτης\nΧρόνῳ βραχεῖ παρέρχεται τᾶ ταλαιπώρε βίε·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Rugit autem castoris, et quisquis illam audierit, ex misera hac vita brevi excedet.\nHaec de castoridum ejulatu et rugitu reperio. Sed falluntur, qui castoridem\npro fibro, aut castore habent, in quibus doctissimus Rittershusius in Notis ad Op-\npianum. Aliud enim castor, aliud castoris. Ille quadrupes amphibium, haec\npiscis est. Tzetzes ubi supra</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Rugit autem castoris, et quisquis illam audierit, ex misera hac vita brevi excedet.\nHaec de castoridum ejulatu et rugitu reperio. Sed falluntur, qui castoridem\npro fibro, aut castore habent, in quibus doctissimus Rittershusius in Notis ad Op-\npianum. Aliud enim castor, aliud castoris. Ille quadrupes amphibium, haec\npiscis est. Tzetzes ubi supra</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πάντες δ᾽ ἰχθύες ἄφωνοι, πλὴν σκάρε, καὶ καςορίδος·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πάντες δ᾽ ἰχθύες ἄφωνοι, πλὴν σκάρε, καὶ καςορίδος·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Omnes autem pisces muti sunt, exceptis scaro et castoride. Ille in ripis flumi-\nnum, haec circa maris littora describitur et censetur ab Oppiano inter ea cete,\nquae nonnunquam e mari in siccum exeunt: cum contra castor ex terra in\namnes feratur. Denique castor est verum animal: castoris fabulosum, ut qui-\ndem puto, cum animal in mari nullum noverim, in quod quadret haec\ndescriptio.</i> ⟦p. 1001⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Omnes autem pisces muti sunt, exceptis scaro et castoride. Ille in ripis flumi-\nnum, haec circa maris littora describitur et censetur ab Oppiano inter ea cete,\nquae nonnunquam e mari in siccum exeunt: cum contra castor ex terra in\namnes feratur. Denique castor est verum animal: castoris fabulosum, ut qui-\ndem puto, cum animal in mari nullum noverim, in quod quadret haec\ndescriptio.</i> ⟦p. 1001⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "E recentioribus אנקה <i>anaka, Pagnino, Graecos et Hieronymum sequuto,\nest mygale: et Deodatio mus araneus: Munstero et Genevensibus ericius, tan-\nquam ex Onkelo, cujus Paraphrasis hic corrupta est: Iunio et Buxtorfio attelabus,\ntanquam ex Hierosolymitano interprete, quem non satis intellexerant: Castalioni\nfiber ex Rabbi Selomone: Ariae viverra, tanquam ex eodem. Sed בברא Selomo-\nnis non debuit legi viverra, quia viverra vox Romana est, sed בברא mere Gal-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "E recentioribus אנקה <i>anaka, Pagnino, Graecos et Hieronymum sequuto,\nest mygale: et Deodatio mus araneus: Munstero et Genevensibus ericius, tan-\nquam ex Onkelo, cujus Paraphrasis hic corrupta est: Iunio et Buxtorfio attelabus,\ntanquam ex Hierosolymitano interprete, quem non satis intellexerant: Castalioni\nfiber ex Rabbi Selomone: Ariae viverra, tanquam ex eodem. Sed בברא Selomo-\nnis non debuit legi viverra, quia viverra vox Romana est, sed בברא mere Gal-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>lica.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>lica.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1740,
+    1661
+   ],
+   [
+    1740,
+    1147
+   ]
+  ],
+  "input_tokens": 3429,
+  "output_tokens": 1217,
+  "cost_usd": 0,
+  "seconds": 1410.1
+ }
+}

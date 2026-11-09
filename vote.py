@@ -44,6 +44,21 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 1 (scan check 09-Nov-2026, logs/apply_review.py)
+    ('v2-0478', 'حليه'): 'print ح, not ع (scan check 09-Nov-2026)',
+    ('v2-0483', 'οὐκ'): 'ου ligature',
+    ('v2-0484', 'φαρμάκοις,'): 'the lower-case φ of this type',
+    ('v2-0484', 'φάρμακα'): 'the lower-case φ of this type',
+    ('v2-0498', 'ووسواسه'): 'final ه without dots',
+    ('v2-0502', 'تسيها'): 'no mim in the print',
+    ('v2-0504', 'ἐστιν.'): 'στ ligature',
+    ('v2-0504', 'ܟܒܟܘܫܬܐ,'): 'no dot on the second letter',
+    ('v2-0505', 'Bellonius,'): 'a broken o, not a c',
+    ('v2-0507', 'hae'): "print hae (a printer's error for hac)",
+    ('v2-0513', 'αὐτοὺς,'): 'ου ligature',
+    ('v2-0513', 'οὕτως'): 'ου ligature',
+    ('v2-0515', 'cum'): 'print cum',
+    ('v2-0517', 'φυ-'): 'the lower-case φ of this type',
     ("v2-0410", "טפז"): "print טפז (5x; Bochart: taphza)",
     ("v2-0412", "טווזא"): "print not clear (Bochart: tauza); judge read ז as ו before",
     ("v2-0414", "שפן"): "print שפן",
@@ -76,6 +91,37 @@ ACCEPT = {
     ("v2-0421", "لانت"), ("v2-0421", "انا"),  # ذ/ن changes of the pilot, right (لاذت, اذا)
     # ch. 35 (read on the scan 08-Nov-2026)
     ("v2-0436", "„estae."),  # ho-|nestae.
+    # tranche 1 (scan check 09-Nov-2026, logs/apply_review.py)
+    ('v2-0456', 'والجواميس'),
+    ('v2-0456', 'χελωνίῳ,'),
+    ('v2-0460', 'ὕστριξ'),
+    ('v2-0461', 'بنحو'),
+    ('v2-0469', 'بالارزاق'),
+    ('v2-0469', 'رويت'),
+    ('v2-0469', 'رازقي'),
+    ('v2-0470', 'لنفسه'),
+    ('v2-0472', 'animal,'),
+    ('v2-0473', 'quaevis'),
+    ('v2-0474', 'ضحك'),
+    ('v2-0476', 'verisimile'),
+    ('v2-0478', 'فيصاد'),
+    ('v2-0482', 'Historiae'),
+    ('v2-0489', 'זנה'),
+    ('v2-0492', 'τάχ᾽'),
+    ('v2-0494', 'ويغتصب'),
+    ('v2-0497', 'ἶβις·'),
+    ('v2-0500', 'Hebraeis'),
+    ('v2-0501', 'חומטון'),
+    ('v2-0505', 'נושם'),
+    ('v2-0507', 'videbis'),
+    ('v2-0509', 'ἐσθίειν,'),
+    ('v2-0512', '2.'),
+    ('v2-0515', '356 358.'),
+    ('v2-0517', 'λεπτοῖσι'),
+    ('v2-0517', 'ἐξεντερισθεῖσα,'),
+    ('v2-0518', 'يتسند'),
+    ('v2-0522', 'πρῖνον.'),
+    ('v2-0522', 'verisimile;'),
 }
 
 # Differences that the scan cannot decide or that are conventions, not readings: never changed by the

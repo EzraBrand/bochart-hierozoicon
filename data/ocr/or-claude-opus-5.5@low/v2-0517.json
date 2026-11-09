@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. <i>Probatur,</i> שממית <i>esse Stellionem.</i> 517",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. <i>Probatur,</i> שממית <i>esse Stellionem.</i> 517"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ζώοισιν λεπτοῖσι κατοικιδίοις σκαλαβώταις,\n<i>Parvis animalculis, domesticis stellionibus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ζώοισιν λεπτοῖσι κατοικιδίοις σκαλαβώταις,\n<i>Parvis animalculis, domesticis stellionibus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Solertiae stellionis multa sunt argumenta. <i>Hesychius</i> in Κωλώτης, stellio-\nnem ait, εὐστόχως ἅλλεσθαι περὶ τὰς μυίας, <i>industrie salire circa muscas;</i> nempe,\nut eas captet. <i>Phavorinus</i> inepte, περὶ τοὺς μῦς, <i>circa mures:</i> quibus cum stel-\nlione nihil est negotii. Sed de muscis etiam <i>Augustinus</i> libri decimi <i>Confessio-\nnum</i> capite trigesimo quinto: <i>Quid, cum me domi sedentem stellio, muscas ca-\nptans, vel aranea, retibus suis irruentes implicans, saepe intentum facit?</i> Aliud af-\nfert <i>Theophrastus</i> in libro <i>De anim. invid.</i> sed minus certum: Ὅτι ὁ γαλεώτης,\nφθονῶν τῆς ὠφελείας τοῖς ἀνθρώποις, καταπίνει τὸ δέρμα, ὅταν ἐκδύνηται·\nἔστι γὰρ βοήθημα ἐπιλήπτῳ· <i>Stellionem, hominum utilitati invidentem, propri-\num vorare corium, quamprimum eo exuitur. Iuvat enim illud comitiali morbo la-\nborantes.</i> Idem habent <i>Antigonus Mirabilium</i> capite vigesimo quarto, et <i>Apu-\nlejus Apologia</i> pro se prima. Et inde concludit <i>Plinius</i> libri trigesimi capite de-\ncimo, <i>nullum animal fraudulentius invidere homini.</i> Indidem <i>stellionum</i> et <i>stel-\nlionatus</i> nomen in maledictum translatum. Sunt et qui <i>Galeotas</i>, in <i>Sicilia</i> por-\ntentorum interpretes solertissimos, ab hujus animalis industria nomen traxisse\nputent. Quo haec <i>Stephani</i> referunt: Γαλεῶται μάντεων εἶδος Σικελῶν· Γα-\nλεὸς δὲ, ὁ ἀσκαλαβώτης (ubi pro γαλεὸς legendum γαλεώτης). Sed quia\n<i>Hebraice</i> גלה <i>gala</i> est <i>revelare,</i> quod vatum maxime proprium, <i>Galeotarum</i> no-\nmen <i>Hebraicum</i> esse suspicor, ut et alia magno numero, quae, cum <i>Phoenicum</i>\ncoloniis, in <i>Siciliam</i> translata fuisse, alibi probavimus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Solertiae stellionis multa sunt argumenta. <i>Hesychius</i> in Κωλώτης, stellio-\nnem ait, εὐστόχως ἅλλεσθαι περὶ τὰς μυίας, <i>industrie salire circa muscas;</i> nempe,\nut eas captet. <i>Phavorinus</i> inepte, περὶ τοὺς μῦς, <i>circa mures:</i> quibus cum stel-\nlione nihil est negotii. Sed de muscis etiam <i>Augustinus</i> libri decimi <i>Confessio-\nnum</i> capite trigesimo quinto: <i>Quid, cum me domi sedentem stellio, muscas ca-\nptans, vel aranea, retibus suis irruentes implicans, saepe intentum facit?</i> Aliud af-\nfert <i>Theophrastus</i> in libro <i>De anim. invid.</i> sed minus certum: Ὅτι ὁ γαλεώτης,\nφθονῶν τῆς ὠφελείας τοῖς ἀνθρώποις, καταπίνει τὸ δέρμα, ὅταν ἐκδύνηται·\nἔστι γὰρ βοήθημα ἐπιλήπτῳ· <i>Stellionem, hominum utilitati invidentem, propri-\num vorare corium, quamprimum eo exuitur. Iuvat enim illud comitiali morbo la-\nborantes.</i> Idem habent <i>Antigonus Mirabilium</i> capite vigesimo quarto, et <i>Apu-\nlejus Apologia</i> pro se prima. Et inde concludit <i>Plinius</i> libri trigesimi capite de-\ncimo, <i>nullum animal fraudulentius invidere homini.</i> Indidem <i>stellionum</i> et <i>stel-\nlionatus</i> nomen in maledictum translatum. Sunt et qui <i>Galeotas</i>, in <i>Sicilia</i> por-\ntentorum interpretes solertissimos, ab hujus animalis industria nomen traxisse\nputent. Quo haec <i>Stephani</i> referunt: Γαλεῶται μάντεων εἶδος Σικελῶν· Γα-\nλεὸς δὲ, ὁ ἀσκαλαβώτης (ubi pro γαλεὸς legendum γαλεώτης). Sed quia\n<i>Hebraice</i> גלה <i>gala</i> est <i>revelare,</i> quod vatum maxime proprium, <i>Galeotarum</i> no-\nmen <i>Hebraicum</i> esse suspicor, ut et alia magno numero, quae, cum <i>Phoenicum</i>\ncoloniis, in <i>Siciliam</i> translata fuisse, alibi probavimus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "At ipse <i>Solomon</i> stellionis industriam abunde probat his verbis: <i>Manibus ap-\nprehendit, et est in palatiis regum.</i> Cur illi <i>manus</i> tribuat, nemini est obscurum.\nUt <i>lacertus</i> a <i>lacertis</i>, id est, brachiis, nominatur: ita <i>stellio Graece</i> κωλώτης\na τοῖς κώλοις. Κῶλα sunt <i>manus</i> et <i>pedes. Manus</i> appello pedes anterio-\nres cum <i>Avicenna</i> ^{e)}, qui غظاية <i>adhajam</i>, id est, <i>salamandram</i> (ex <i>Avi-\ncennae</i> mente) non aliter in melle servari scribit, quam si evisceretur et resecen-\ntur يداها ورجلاها <i>illius manus et pedes:</i> pro eo, quod <i>Dioscorides</i>, φυ-\nλάσσεται ἐν μέλιτι ἐξεντερισθεῖσα, τῶν ποδῶν ἀφαιρεθέντων. Si salamandra\nhabet manus, quidni etiam stellio, animal, salamandrae simillimum? Ita <i>Damir</i>\ncapite حردون <i>Chardaun</i>, seu <i>De terrestri crocodilo,</i> له كف ككف\nالانسان مقسومة الاصابع الا انامل <i>Illi manus est instar manus\nhominis, cum digitis, in articulos divisis.</i> Sed et lacerti cujusvis pedes, prae-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "At ipse <i>Solomon</i> stellionis industriam abunde probat his verbis: <i>Manibus ap-\nprehendit, et est in palatiis regum.</i> Cur illi <i>manus</i> tribuat, nemini est obscurum.\nUt <i>lacertus</i> a <i>lacertis</i>, id est, brachiis, nominatur: ita <i>stellio Graece</i> κωλώτης\na τοῖς κώλοις. Κῶλα sunt <i>manus</i> et <i>pedes. Manus</i> appello pedes anterio-\nres cum <i>Avicenna</i> ^{e)}, qui غظاية <i>adhajam</i>, id est, <i>salamandram</i> (ex <i>Avi-\ncennae</i> mente) non aliter in melle servari scribit, quam si evisceretur et resecen-\ntur يداها ورجلاها <i>illius manus et pedes:</i> pro eo, quod <i>Dioscorides</i>, φυ-\nλάσσεται ἐν μέλιτι ἐξεντερισθεῖσα, τῶν ποδῶν ἀφαιρεθέντων. Si salamandra\nhabet manus, quidni etiam stellio, animal, salamandrae simillimum? Ita <i>Damir</i>\ncapite حردون <i>Chardaun</i>, seu <i>De terrestri crocodilo,</i> له كف ككف\nالانسان مقسومة الاصابع الا انامل <i>Illi manus est instar manus\nhominis, cum digitis, in articulos divisis.</i> Sed et lacerti cujusvis pedes, prae-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ttt 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ttt 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "sertim",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "sertim"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib. 2. Can. c. 2.</i> عظاية <i>quod omisit Latinus interpres.</i>",
+   "marker": "e)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib. 2. Can. c. 2.</i> عظاية <i>quod omisit Latinus interpres.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1768,
+    1481
+   ],
+   [
+    1768,
+    1335
+   ]
+  ],
+  "input_tokens": 8359,
+  "output_tokens": 1865,
+  "cost_usd": 0,
+  "seconds": 492.7
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. II.     <i>Probatur</i>, אנקה <i>effe ftellionis genus</i>.     487",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. II.     <i>Probatur</i>, אנקה <i>effe ftellionis genus</i>.     487"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "C A P.  II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "C A P.  II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, אנקה anaka <i>Levit. XI, 30. effe Stellionis genus</i>,\n<i>ab acerbo ftridore fic appellati</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, אנקה anaka <i>Levit. XI, 30. effe Stellionis genus</i>,\n<i>ab acerbo ftridore fic appellati</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Jam fequentur <i>Levit. XI, 30</i>. reptilium quinque fpecies, quorum nomina ex- ⟦p. 1064⟧\nplicare non eft facile, cum alibi nusquam reperiantur. Nempe אנקה <i>anaka</i>,\nכח <i>coach</i>, לטאה <i>letaa</i>, חמט <i>chomet</i>, תנשמת <i>thinſemeth</i>. Horum אנקה <i>anaka</i>\n<i>Graecis</i> et <i>Hieronymo</i> eft μυγάλη <i>mygale</i>, feu <i>mus araneus</i>. Μυγάλην dici vo-\nlunt, quia ἐκ μύος καὶ γαλῆς, <i>ex mure et muftela nafcitur</i>. <i>Nicandri Scholia-</i>\n<i>ftes</i>, Ἀμύντας δή φησι τὴν μυγάλην ἐκ μύος καὶ γαλῆς γίνεσθαι. Quod eft\nabſurdiffimum, cum et muſtela fit mure multo major, et illi tam infenſa, quam\nfelis, ut fupra ᵃ) obſervavimus. Itaque ut muſtela cum mure coëat, atque inde\nnafcatur mus araneus, plane vero eft abfimile. Melius igitur <i>Aetius Tetrabibli</i>\nlibri quarti Sermone primo, capite decimo quarto: <i>Mus araneus colore quidem</i>\n<i>muſtelae fimilis eft, magnitudine autem muri, unde et mygales obtinuit nomen</i>.\nQuamvis mus araneus muris habeat fpeciem potius, quam magnitudinem.\nOmnino enim eft mure minor. Romanis mus araneus a veneno dici videtur,\nquod illi commune eft cum aranea. Et Hebraice אנקה <i>anaka</i> dici credita eft ra-\ntione vocis, quam habet acutiffimam. Ita, ut pro gemitu et ejulatu poffit haberi.\nAlioqui enim אנקה <i>anaka</i> Hebraeis <i>gemitum</i>, aut <i>clamorem</i> fonat. Si idem fen-\nfit Onkelos, in ejus <i>Paraphrafi</i>, pro ילא <i>jala</i> (qua voce ibi redditur אנקה <i>anaka</i>)\nrefcribendum eft פלא <i>pala</i>, vel <i>phala</i>. Arabes enim <i>murem araneum</i> fic appel-\nlant. <i>Avicenna</i> libro quarto <i>Fen</i>. 6. Tract. 3. capite ultimo in titulo, فصل\nفي عضة موغالي وهو الغلا <i>Caput de morfu mygales, quae</i> (Ara-\nbibus) <i>eft alphala</i>. In Latina verſione legitur <i>alcate</i>, quod effet الغلال. Alter-\nutrum ſemidoctos mutaſſe putaverim in ילא <i>jala</i>. Cujus nominis occurrunt in\nlibris <i>Talmudicis</i> animalia duo diverfiffima, nempe fanguifuga et hericius. Sed\nquorum neutrum hic habet locum. Neutrum enim <i>Hebraice</i> אנקה <i>anaka</i>; fed\n<i>hericius</i> קפוד <i>kippod</i>; et <i>hirudo</i> עלוקה <i>aluka</i> dicitur, vel עלקה <i>alka</i> potius.\nPraeterea hic agitur de iis reptilibus, quae fuper terram repunt, e quo numero\nnon eft hirudo. Haec de prima et antiquiffima interpretatione vocis אנקה\n<i>anaka</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Jam fequentur <i>Levit. XI, 30</i>. reptilium quinque fpecies, quorum nomina ex- ⟦p. 1064⟧\nplicare non eft facile, cum alibi nusquam reperiantur. Nempe אנקה <i>anaka</i>,\nכח <i>coach</i>, לטאה <i>letaa</i>, חמט <i>chomet</i>, תנשמת <i>thinſemeth</i>. Horum אנקה <i>anaka</i>\n<i>Graecis</i> et <i>Hieronymo</i> eft μυγάλη <i>mygale</i>, feu <i>mus araneus</i>. Μυγάλην dici vo-\nlunt, quia ἐκ μύος καὶ γαλῆς, <i>ex mure et muftela nafcitur</i>. <i>Nicandri Scholia-</i>\n<i>ftes</i>, Ἀμύντας δή φησι τὴν μυγάλην ἐκ μύος καὶ γαλῆς γίνεσθαι. Quod eft\nabſurdiffimum, cum et muſtela fit mure multo major, et illi tam infenſa, quam\nfelis, ut fupra ᵃ) obſervavimus. Itaque ut muſtela cum mure coëat, atque inde\nnafcatur mus araneus, plane vero eft abfimile. Melius igitur <i>Aetius Tetrabibli</i>\nlibri quarti Sermone primo, capite decimo quarto: <i>Mus araneus colore quidem</i>\n<i>muſtelae fimilis eft, magnitudine autem muri, unde et mygales obtinuit nomen</i>.\nQuamvis mus araneus muris habeat fpeciem potius, quam magnitudinem.\nOmnino enim eft mure minor. Romanis mus araneus a veneno dici videtur,\nquod illi commune eft cum aranea. Et Hebraice אנקה <i>anaka</i> dici credita eft ra-\ntione vocis, quam habet acutiffimam. Ita, ut pro gemitu et ejulatu poffit haberi.\nAlioqui enim אנקה <i>anaka</i> Hebraeis <i>gemitum</i>, aut <i>clamorem</i> fonat. Si idem fen-\nfit Onkelos, in ejus <i>Paraphrafi</i>, pro ילא <i>jala</i> (qua voce ibi redditur אנקה <i>anaka</i>)\nrefcribendum eft פלא <i>pala</i>, vel <i>phala</i>. Arabes enim <i>murem araneum</i> fic appel-\nlant. <i>Avicenna</i> libro quarto <i>Fen</i>. 6. Tract. 3. capite ultimo in titulo, فصل\nفي عضة موغالي وهو الغلا <i>Caput de morfu mygales, quae</i> (Ara-\nbibus) <i>eft alphala</i>. In Latina verſione legitur <i>alcate</i>, quod effet الغلال. Alter-\nutrum ſemidoctos mutaſſe putaverim in ילא <i>jala</i>. Cujus nominis occurrunt in\nlibris <i>Talmudicis</i> animalia duo diverfiffima, nempe fanguifuga et hericius. Sed\nquorum neutrum hic habet locum. Neutrum enim <i>Hebraice</i> אנקה <i>anaka</i>; fed\n<i>hericius</i> קפוד <i>kippod</i>; et <i>hirudo</i> עלוקה <i>aluka</i> dicitur, vel עלקה <i>alka</i> potius.\nPraeterea hic agitur de iis reptilibus, quae fuper terram repunt, e quo numero\nnon eft hirudo. Haec de prima et antiquiffima interpretatione vocis אנקה\n<i>anaka</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Secunda <i>Ionathanis</i> eft, et <i>Ierofolymitani Interpretis</i>: quorum unus hic\nhabet מינקת חויא, et alter פלית חויא, vel מילת חויא. Ita legendum, non\nחיוא, in <i>Lexico Baal-Aruch</i>. Lexicographi neutrum intelligunt. Eft enim",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Secunda <i>Ionathanis</i> eft, et <i>Ierofolymitani Interpretis</i>: quorum unus hic\nhabet מינקת חויא, et alter פלית חויא, vel מילת חויא. Ita legendum, non\nחיוא, in <i>Lexico Baal-Aruch</i>. Lexicographi neutrum intelligunt. Eft enim"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "alienum,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "alienum,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib. III. Cap. 35. pag. 1025.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib. III. Cap. 35. pag. 1025.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2132,
+    1147
+   ],
+   [
+    2132,
+    1685
+   ]
+  ],
+  "input_tokens": 3387,
+  "output_tokens": 1229,
+  "cost_usd": 0,
+  "seconds": 1410.0
+ }
+}

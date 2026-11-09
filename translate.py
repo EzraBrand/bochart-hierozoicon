@@ -197,13 +197,31 @@ def roman(s: str) -> int:
 # Bochart's book abbreviations -> SBL (TRANSLATION_RULES.md §2); only "Book Roman, verse" forms
 BOOKS = {"Gen": "Gen", "Exod": "Exod", "Levit": "Lev", "Lev": "Lev", "Deut": "Deut", "Psal": "Ps",
          "Pfal": "Ps", "Ps": "Ps", "Pf": "Ps", "Prov": "Prov", "Prou": "Prov", "Es": "Isa", "Esa": "Isa",
-         "Ioel": "Joel", "Sam": "Sam"}
+         "Ioel": "Joel", "Sam": "Sam",
+         # tranche 1 (09-Nov-2026); "Reg." (Vulgate 1-4 Kings = 1-2 Sam, 1-2 Kgs) is left as printed
+         "Psalm": "Ps", "Num": "Num", "Ios": "Josh", "Iob": "Job", "Eccles": "Eccl", "Ies": "Isa",
+         "Ierem": "Jer", "Os": "Hos", "Sophon": "Zeph", "Zephan": "Zeph", "Zeph": "Zeph",
+         "Iudith": "Jdt", "Tob": "Tob", "Macchab": "Macc", "Cor": "Cor"}
 # the dot after the verse number ("Levit. XI, 5.") is the number's, not a sentence end: dropped
 BIBLE = re.compile(r"\b(" + "|".join(sorted(BOOKS, key=len, reverse=True)) + r")[.,]?\s+([IVXLC]+)[.,]?\s*(\d+)\b\.?")
 
 
+SENTENCE_NEXT = re.compile(r"(?:</i>)?(?:\s+[A-Z֐-׿]|\s*$)")  # after "28." a new sentence begins
+
+
+def _bible(m: re.Match) -> str:
+    out = f"{BOOKS[m.group(1)]} {roman(m.group(2))}:{m.group(3)}"
+    # the dot after the verse is dropped, unless it also ends the sentence ("Prov. XXX, 28. Sed")
+    if m.group(0).endswith(".") and SENTENCE_NEXT.match(m.string, m.end()):
+        out += "."
+    return out
+
+
 def modern_citations(text: str) -> str:
-    text = BIBLE.sub(lambda m: f"{BOOKS[m.group(1)]} {roman(m.group(2))}:{m.group(3)}", text)
+    text = BIBLE.sub(_bible, text)
+    # "Levit. XI, 29. 30." -> "Lev 11:29 30." -> "Lev 11:29–30." (two verses in a row)
+    text = re.sub(r"(\b[A-Z][a-z]+ \d+:(\d+)) (\d+)\b",
+                  lambda m: f"{m.group(1)}–{m.group(3)}" if int(m.group(3)) == int(m.group(2)) + 1 else m.group(0), text)
     return re.sub(r"\bfol\. (\d+)\.? ([a-d])\b\.?", r"fol. \1\2", text)  # "fol. 19. d." / "fol. 19 d" -> "fol. 19d"
 
 

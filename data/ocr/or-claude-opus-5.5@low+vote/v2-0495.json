@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. III. <i>Probatur,</i> כח <i>esse Arabum guaril.</i> 495",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. III. <i>Probatur,</i> כח <i>esse Arabum guaril.</i> 495"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "اكلا نريعا id est ad verbum, <i>veloci et praecipiti comestione</i> ^{(1)}. Ex ⟦p. 1971⟧\nEx hac descriptione apparet, nomen כח <i>coach</i>, a <i>robore</i> sumtum, huic lacertae\napprime convenire ^{(2)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "اكلا نريعا id est ad verbum, <i>veloci et praecipiti comestione</i> ^{(1)}. Ex ⟦p. 1971⟧\nEx hac descriptione apparet, nomen כח <i>coach</i>, a <i>robore</i> sumtum, huic lacertae\napprime convenire ^{(2)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Si quis de lacerti genere, in his terris ignoto, plura scire aveat, illum de-\nscribit <i>Ibno-saida</i>, دابة علي خلق الضب الا انه اعظم منه\n<i>animal naturae</i> τȣ̃ dhab, <i>nisi quod est majus.</i> Et <i>Abdollatif</i>, فاما الورل\nوهو الحردون Guaril <i>utique idem est, quod</i> chardaun. Sed contra <i>Algia-\nhid</i> apud <i>Damirem</i> tradit, ان الحردون غير الورل ووصفه دابة\nتكون غالبا بارض مصر موشاة بالوان كثير ولها كف\nككف الانسان مقسومة اصابعها الي الانامل Chardaun <i>a</i>\nguaril <i>esse diversum, quem describit animal in</i> Aegypto <i>frequens, multis distin-\nctum coloribus, manus habens, quales hominis, et digitos in articulos divisos.</i>\nEt <i>Alkazuinius</i>, هو العظيم من شكل الوزغ وسام ابرص\nالطويل الذنب الصغير الراس وهو سريع السير خفيف\nالحركة <i>Maximus est lacertorum, qui formam habent</i> guezgae <i>et</i> sam-ma-\nbras (sunt stellionum species, quarum illa minor, haec major), <i>longae caudae,\nparvi capitis, celeris incessus, et motus expediti. Avicenna</i> quoque, postquam\nillum cum stellionibus contulit, caudamque et caput eodem modo descripsit,\nquo <i>Alkazuinius</i>, وهو غير الضب والضب لا يكون او قل ما\nيكون الا في البادية وراسه وبدنه وذنبه خالف الورل\nوربما قاربة في طبايعه <i>Et alius est a</i> dhab (seu <i>terrestri crocodilo</i>).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Si quis de lacerti genere, in his terris ignoto, plura scire aveat, illum de-\nscribit <i>Ibno-saida</i>, دابة علي خلق الضب الا انه اعظم منه\n<i>animal naturae</i> τȣ̃ dhab, <i>nisi quod est majus.</i> Et <i>Abdollatif</i>, فاما الورل\nوهو الحردون Guaril <i>utique idem est, quod</i> chardaun. Sed contra <i>Algia-\nhid</i> apud <i>Damirem</i> tradit, ان الحردون غير الورل ووصفه دابة\nتكون غالبا بارض مصر موشاة بالوان كثير ولها كف\nككف الانسان مقسومة اصابعها الي الانامل Chardaun <i>a</i>\nguaril <i>esse diversum, quem describit animal in</i> Aegypto <i>frequens, multis distin-\nctum coloribus, manus habens, quales hominis, et digitos in articulos divisos.</i>\nEt <i>Alkazuinius</i>, هو العظيم من شكل الوزغ وسام ابرص\nالطويل الذنب الصغير الراس وهو سريع السير خفيف\nالحركة <i>Maximus est lacertorum, qui formam habent</i> guezgae <i>et</i> sam-ma-\nbras (sunt stellionum species, quarum illa minor, haec major), <i>longae caudae,\nparvi capitis, celeris incessus, et motus expediti. Avicenna</i> quoque, postquam\nillum cum stellionibus contulit, caudamque et caput eodem modo descripsit,\nquo <i>Alkazuinius</i>, وهو غير الضب والضب لا يكون او قل ما\nيكون الا في البادية وراسه وبدنه وذنبه خالف الورل\nوربما قاربة في طبايعه <i>Et alius est a</i> dhab (seu <i>terrestri crocodilo</i>)."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Nam</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nam</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "In <i>Leonis Africani</i> Descript. Afri-\ncae Lib. IX. cap. 53. haec lacerta <i>Guaral</i>\nsonat. <i>Animal</i>, inquit, <i>praedicto [Dub,</i>\nضبّ] <i>simile, vero paullo grandius, in\ncapite pariter et cauda venenum gerit,\nquibus partibus excisis, Arabes eo vesci\nsolent, alioquin deforme et tetri coloris.</i>\nSed ورل non est permutandum cum وَرَنٌ,\nquod in <i>Giggejo</i> vertitur <i>species reptilis</i>,\nForskalio autem teste nomen est <i>lacertae\nniloticae</i>, vid. <i>Descriptiones Animalium,\nquae in itinere Orientali observavit Pe-\ntrus Forskal</i>, p. 13.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In <i>Leonis Africani</i> Descript. Afri-\ncae Lib. IX. cap. 53. haec lacerta <i>Guaral</i>\nsonat. <i>Animal</i>, inquit, <i>praedicto [Dub,</i>\nضبّ] <i>simile, vero paullo grandius, in\ncapite pariter et cauda venenum gerit,\nquibus partibus excisis, Arabes eo vesci\nsolent, alioquin deforme et tetri coloris.</i>\nSed ورل non est permutandum cum وَرَنٌ,\nquod in <i>Giggejo</i> vertitur <i>species reptilis</i>,\nForskalio autem teste nomen est <i>lacertae\nniloticae</i>, vid. <i>Descriptiones Animalium,\nquae in itinere Orientali observavit Pe-\ntrus Forskal</i>, p. 13."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Sed recte monet MICHAELIS in <i>Sup-\nplemm.</i> P. IV. p. 1221. plura se offerre ety-\nma, a Bocharto non expensa, ad quae il-\nlius lacertae nomen possit referri. Prorsus\nincertam esse hanc rationem, meris etymo-\nlogiis expiscari eorum nominum, quae ani-\nmalia indicant, significationes, jam saepius\nmonuimus. Videtur nomen כח unum esse\nex iis, de quorum significatione definienda\nplane est desperandum, cum destituamur\ntam reliquarum dialectorum, quam eorum\nlocorum adminiculis, ex quibus hujus ani-\nmalis natura et indoles ita cognoscatur, ut\nde eo certi quidquam possit statui.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed recte monet MICHAELIS in <i>Sup-\nplemm.</i> P. IV. p. 1221. plura se offerre ety-\nma, a Bocharto non expensa, ad quae il-\nlius lacertae nomen possit referri. Prorsus\nincertam esse hanc rationem, meris etymo-\nlogiis expiscari eorum nominum, quae ani-\nmalia indicant, significationes, jam saepius\nmonuimus. Videtur nomen כח unum esse\nex iis, de quorum significatione definienda\nplane est desperandum, cum destituamur\ntam reliquarum dialectorum, quam eorum\nlocorum adminiculis, ex quibus hujus ani-\nmalis natura et indoles ita cognoscatur, ut\nde eo certi quidquam possit statui."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1848,
+    1699
+   ],
+   [
+    1848,
+    1149
+   ]
+  ],
+  "input_tokens": 8693,
+  "output_tokens": 1598,
+  "cost_usd": 0,
+  "seconds": 492.6,
+  "vote": "2 decisions from v2-455-524"
+ }
+}

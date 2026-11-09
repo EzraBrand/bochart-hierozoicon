@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "492 <i>Probatur,</i> אנקה <i>esse stellionis genus.</i> L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "492 <i>Probatur,</i> אנקה <i>esse stellionis genus.</i> L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "φημόν τινα κωκυτὸν μεθιᾶσι, καὶ ὠρύονται βαρύτατα. Τούτου τοίνυν τοῦ ἤχου\nὅστις ἂν ὑπακούσῃ, ἄφυκτα οἵ ἐστι, καὶ οὐ μετὰ μικρὸν ἀποθνήσκει· <i>Castorides,\nmarinum animal, ad littora et saxa eminentia infaustum edunt ululatum, et gra-\nvissime rugiunt. Ita, ut earum clamorem qui audierit, non effugiat, quin paullo\npost excedat e vita. Oppianus</i> libro primo <i>Halieuticῶν</i>, vs. 398. seqq.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "φημόν τινα κωκυτὸν μεθιᾶσι, καὶ ὠρύονται βαρύτατα. Τούτου τοίνυν τοῦ ἤχου\nὅστις ἂν ὑπακούσῃ, ἄφυκτα οἵ ἐστι, καὶ οὐ μετὰ μικρὸν ἀποθνήσκει· <i>Castorides,\nmarinum animal, ad littora et saxa eminentia infaustum edunt ululatum, et gra-\nvissime rugiunt. Ita, ut earum clamorem qui audierit, non effugiat, quin paullo\npost excedat e vita. Oppianus</i> libro primo <i>Halieuticῶν</i>, vs. 398. seqq."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καστορίδες τ᾽ ὀλοαὶ δυσπενθέες, αἵ τ᾽ ἀλεγεινὴν\nὍσσαν ἐπὶ κροκαλοίσιον ἀπαίσιον ὠρύονται\nἈνδράσιν· ὃς δέ κε γῆρυν ἐν οὔασιν ἀλγινόεσσαν\nΔέξηται, στυγερῆς τ᾽ ἐνοπῆς κωκυτὸν ἀκούσῃ,\nΟὐ τηλοῦ θανάτοιο τάχ᾽ ἔσσεται· ἀλλὰ οἱ ἄτην\nΚαὶ μόρον αἰνοτάτη κείνη μαντεύεται αὐδή.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καστορίδες τ᾽ ὀλοαὶ δυσπενθέες, αἵ τ᾽ ἀλεγεινὴν\nὍσσαν ἐπὶ κροκαλοίσιον ἀπαίσιον ὠρύονται\nἈνδράσιν· ὃς δέ κε γῆρυν ἐν οὔασιν ἀλγινόεσσαν\nΔέξηται, στυγερῆς τ᾽ ἐνοπῆς κωκυτὸν ἀκούσῃ,\nΟὐ τηλοῦ θανάτοιο τάχ᾽ ἔσσεται· ἀλλὰ οἱ ἄτην\nΚαὶ μόρον αἰνοτάτη κείνη μαντεύεται αὐδή."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Castoridesque perniciosae et gravis luctus, quaeque in littoribus tristem vocem et\nhominibus infaustam emittunt. Qui vero moestum clamorem auribus perceperit, et\nquaerulae vocis ejulatum audierit, non procul erit a morte: sed ipsi cladem et mor-\ntem praesagit gravissima illa vox.</i> Tzetzes <i>Chiliadis</i> sextae Historia quadragesi-\nma septima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Castoridesque perniciosae et gravis luctus, quaeque in littoribus tristem vocem et\nhominibus infaustam emittunt. Qui vero moestum clamorem auribus perceperit, et\nquaerulae vocis ejulatum audierit, non procul erit a morte: sed ipsi cladem et mor-\ntem praesagit gravissima illa vox.</i> Tzetzes <i>Chiliadis</i> sextae Historia quadragesi-\nma septima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἡ καστορὶς δ᾽ ὠρύεται, ὃς δ᾽ ἂν ἀκούσῃ ταύτης\nΧρόνῳ βραχεῖ παρέρχεται τοῦ ταλαιπώρου βίου·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡ καστορὶς δ᾽ ὠρύεται, ὃς δ᾽ ἂν ἀκούσῃ ταύτης\nΧρόνῳ βραχεῖ παρέρχεται τοῦ ταλαιπώρου βίου·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Rugit autem castoris, et quisquis illam audierit, ex misera hac vita brevi excedet.</i>\nHaec de castoridum ejulatu et rugitu reperio. Sed falluntur, qui <i>castoridem</i>\npro <i>fibro</i>, aut <i>castore</i> habent, in quibus doctissimus <i>Rittershusius</i> in <i>Notis</i> ad <i>Op-\npianum.</i> Aliud enim <i>castor</i>, aliud <i>castoris.</i> Ille quadrupes amphibium, haec\npiscis est. <i>Tzetzes</i> ubi supra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Rugit autem castoris, et quisquis illam audierit, ex misera hac vita brevi excedet.</i>\nHaec de castoridum ejulatu et rugitu reperio. Sed falluntur, qui <i>castoridem</i>\npro <i>fibro</i>, aut <i>castore</i> habent, in quibus doctissimus <i>Rittershusius</i> in <i>Notis</i> ad <i>Op-\npianum.</i> Aliud enim <i>castor</i>, aliud <i>castoris.</i> Ille quadrupes amphibium, haec\npiscis est. <i>Tzetzes</i> ubi supra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πάντες δ᾽ ἰχθύες ἄφωνοι, πλὴν σκάρου, καὶ καστορίδος·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πάντες δ᾽ ἰχθύες ἄφωνοι, πλὴν σκάρου, καὶ καστορίδος·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Omnes autem pisces muti</i> sunt, <i>exceptis scaro et castoride.</i> Ille in ripis flumi-\nnum, haec circa maris littora describitur et censetur ab <i>Oppiano</i> inter ea cete,\nquae nonnunquam e mari in siccum exeunt: cum contra castor ex terra in\namnes feratur. Denique castor est verum animal: castoris fabulosum, ut qui-\ndem puto, cum animal in mari nullum noverim, in quod quadret haec\ndescriptio.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Omnes autem pisces muti</i> sunt, <i>exceptis scaro et castoride.</i> Ille in ripis flumi-\nnum, haec circa maris littora describitur et censetur ab <i>Oppiano</i> inter ea cete,\nquae nonnunquam e mari in siccum exeunt: cum contra castor ex terra in\namnes feratur. Denique castor est verum animal: castoris fabulosum, ut qui-\ndem puto, cum animal in mari nullum noverim, in quod quadret haec\ndescriptio."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "E recentioribus אנקה <i>anaka, Pagnino, Graecos</i> et <i>Hieronymum</i> sequuto,\nest <i>mygale:</i> et Deodatio <i>mus araneus</i>: <i>Munstero</i> et Genevensibus <i>ericius</i>, tan-\nquam ex <i>Onkelo,</i> cujus Paraphrasis hic corrupta est: <i>Iunio</i> et Buxtorfio <i>attelabus</i>,\ntanquam ex <i>Hierosolymitano</i> interprete, quem non satis intellexerant: <i>Castalioni\nfiber</i> ex <i>Rabbi Selomone:</i> Ariae <i>viverra,</i> tanquam ex eodem. Sed ב״ברא <i>Selomo-\nnis</i> non debuit legi <i>viverra,</i> quia <i>viverra</i> vox <i>Romana</i> est, sed ב״ברא mere <i>Gal-\nlica.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "E recentioribus אנקה <i>anaka, Pagnino, Graecos</i> et <i>Hieronymum</i> sequuto,\nest <i>mygale:</i> et Deodatio <i>mus araneus</i>: <i>Munstero</i> et Genevensibus <i>ericius</i>, tan-\nquam ex <i>Onkelo,</i> cujus Paraphrasis hic corrupta est: <i>Iunio</i> et Buxtorfio <i>attelabus</i>,\ntanquam ex <i>Hierosolymitano</i> interprete, quem non satis intellexerant: <i>Castalioni\nfiber</i> ex <i>Rabbi Selomone:</i> Ariae <i>viverra,</i> tanquam ex eodem. Sed ב״ברא <i>Selomo-\nnis</i> non debuit legi <i>viverra,</i> quia <i>viverra</i> vox <i>Romana</i> est, sed ב״ברא mere <i>Gal-\nlica.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1740,
+    1661
+   ],
+   [
+    1740,
+    1147
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1840,
+  "cost_usd": 0,
+  "seconds": 492.6
+ }
+}

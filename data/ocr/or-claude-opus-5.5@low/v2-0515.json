@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. <i>Probatur</i>, שממית <i>esse Stellionem.</i> 515",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. <i>Probatur</i>, שממית <i>esse Stellionem.</i> 515"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "mabras, <i>quia venenatus est</i>, <i>id est</i>, <i>venenum in eo posuit Deus</i>, <i>et</i> (insuper) <i>fecit</i>\n<i>cum leprosum</i> ^{(1)}. Stellionis maculas <i>Romani</i> honestiori nomine <i>stellas</i> vocarunt,\nunde <i>stellionem</i> ipsum animal. <i>Ovidius Metamorphoseωs</i> libri quinti Fabula 7.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "mabras, <i>quia venenatus est</i>, <i>id est</i>, <i>venenum in eo posuit Deus</i>, <i>et</i> (insuper) <i>fecit</i>\n<i>cum leprosum</i> ^{(1)}. Stellionis maculas <i>Romani</i> honestiori nomine <i>stellas</i> vocarunt,\nunde <i>stellionem</i> ipsum animal. <i>Ovidius Metamorphoseωs</i> libri quinti Fabula 7."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>aptumque colori</i>\n<i>Nomen habet variis stellatus corpora guttis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>aptumque colori</i>\n<i>Nomen habet variis stellatus corpora guttis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Salonius <i>in</i> Proverbia: <i>Quod genus animalis est</i> stellio? <i>Genus lacertae valde pi-</i>\n<i>grum et colore varium.</i> ' <i>Unde nomen accepit</i> stellio, <i>quia quasi</i> stellis, <i>id est</i>, <i>gut-</i>\n<i>tis</i>, <i>distinctus et variatus est.</i> In quibus <i>Poetam</i> ita sequitur, ut <i>stellas</i> pro <i>stil-</i>\n<i>lis</i>, seu <i>guttis</i> accepisse videatur. Ut contrario errore \nמרים <i>Marjam</i>, Syrum\n<i>Mariae</i> nomen, <i>maris stellam</i> multi exponunt pro <i>maris stilla.</i> Sed et <i>lentigines</i>\nvocat <i>Plinius</i>, cum de <i>Graeco</i> stellione scribit libri vigesimi noni capite quarto;\n<i>Est hic plenus lentigine.</i> Hinc eunuchus lentiginosus a <i>Menandro</i> γαλεώτης, id\nest, <i>stellio</i> nuncupatus, propter faciei maculas. Quod <i>Terentius</i> in <i>Eunucho</i> ^{d)}\nperperam reddidit, <i>colore mustelino</i>, quasi γαλεώτης ἀπὸ τῆς γαλῆς, id est,\n<i>a mustela</i> dictus fuisset, ut <i>Donatus</i> ibi observat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Salonius <i>in</i> Proverbia: <i>Quod genus animalis est</i> stellio? <i>Genus lacertae valde pi-</i>\n<i>grum et colore varium.</i> ' <i>Unde nomen accepit</i> stellio, <i>quia quasi</i> stellis, <i>id est</i>, <i>gut-</i>\n<i>tis</i>, <i>distinctus et variatus est.</i> In quibus <i>Poetam</i> ita sequitur, ut <i>stellas</i> pro <i>stil-</i>\n<i>lis</i>, seu <i>guttis</i> accepisse videatur. Ut contrario errore \nמרים <i>Marjam</i>, Syrum\n<i>Mariae</i> nomen, <i>maris stellam</i> multi exponunt pro <i>maris stilla.</i> Sed et <i>lentigines</i>\nvocat <i>Plinius</i>, cum de <i>Graeco</i> stellione scribit libri vigesimi noni capite quarto;\n<i>Est hic plenus lentigine.</i> Hinc eunuchus lentiginosus a <i>Menandro</i> γαλεώτης, id\nest, <i>stellio</i> nuncupatus, propter faciei maculas. Quod <i>Terentius</i> in <i>Eunucho</i> ^{d)}\nperperam reddidit, <i>colore mustelino</i>, quasi γαλεώτης ἀπὸ τῆς γαλῆς, id est,\n<i>a mustela</i> dictus fuisset, ut <i>Donatus</i> ibi observat."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ttt 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ttt 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "In",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Act. 4. Sc. 4.</i>",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Act. 4. Sc. 4.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Hanc lacertam diligenter descripsit\nHASSELQUIST <i>Itiner.</i> p. 356 - 358. hoc no-\nmine: <i>Lacerta</i> (Gecko) <i>cauda tereti me-</i>\n<i>diocri</i>, <i>pedibus cristatis</i>, <i>subtus longitu-</i>\n<i>dinaliter lamellosis.</i> „Corpus, inquit, ca-\nput et pedes glabra, levia. Puncta mini-\nma, elevata, splendentia, per totum dor-\nsum sparsa. Foraminula minima per abdo-\nmen. Squamae ampliusculae, molles, spa-\ntium minimum inter lumbos subtus tegunt.\nDorsum, caput et cauda supra albida cum\nmaculis transversis griseis, irregulariter\nsparsis, gula, abdomen et cauda subtus\nalbida“. Quibus ex verbis satis patet, <i>le-</i>\n<i>prosi</i> nomen huic lacertae non immerito\nesse inditum. Nunc de animalis <i>veneno</i>,\na quo سام nuncupatur, audi eundem Has-\nselquist. „Maxime singulare est animalis\nhujus <i>venenum</i>, quod ex lobulis digitorum\nexhalat; quaerit animalculum loca et quas-\ncunque res, sale marino imbutas vel tin-\nctas, hoc dum invenit, aliquoties supercur-\nrit, et currendo venenum post se relinquit\nmaxime noxium. Vidi <i>Cairi</i> mense Iulio\n1750. duas foeminas et unam puellam,\nmorti propinquas, quae caseum manduca-\nverant recentem salitum, in emporio em-\ntum, in quo animalculum hoc venenum\ndeposuerat. Quam acres sint exhalationes\ndigitorum, vidi aliquando <i>Cairi</i>, dum\nanimalculum supra manum currebat religi-\nosi cujusdam, qui illud capere voluit, mox\nper integrum spatium, ab animale tactum,\noriebantur pustulae minimae cum rubore,\ncalore et parvo dolore, omnino ut in illis,\nqui urticam tetigerunt“. Meminit quoque\nFORSKAL hujus lacertae, in <i>Descriptt. Ani-</i>\n<i>mall.</i> pag. 13. „<i>Lacerta Gecko.</i> Aegyptiis\ndicitur ابو برص i. e. <i>pater leprae</i>,\nf. <i>leprosus.</i> Aleppensibus <i>Burs</i>“. Schul-\ntensius in <i>Comment. ad Proverb.</i> Cap.\nXXX. vs. 28. pag. 486. b. سام ابرص\n<i>afflatorem leprosum</i> interpretatur, a\nسُمَام, quod <i>flatum pestilentem</i> signifi-\ncare ait.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hanc lacertam diligenter descripsit\nHASSELQUIST <i>Itiner.</i> p. 356 - 358. hoc no-\nmine: <i>Lacerta</i> (Gecko) <i>cauda tereti me-</i>\n<i>diocri</i>, <i>pedibus cristatis</i>, <i>subtus longitu-</i>\n<i>dinaliter lamellosis.</i> „Corpus, inquit, ca-\nput et pedes glabra, levia. Puncta mini-\nma, elevata, splendentia, per totum dor-\nsum sparsa. Foraminula minima per abdo-\nmen. Squamae ampliusculae, molles, spa-\ntium minimum inter lumbos subtus tegunt.\nDorsum, caput et cauda supra albida cum\nmaculis transversis griseis, irregulariter\nsparsis, gula, abdomen et cauda subtus\nalbida“. Quibus ex verbis satis patet, <i>le-</i>\n<i>prosi</i> nomen huic lacertae non immerito\nesse inditum. Nunc de animalis <i>veneno</i>,\na quo سام nuncupatur, audi eundem Has-\nselquist. „Maxime singulare est animalis\nhujus <i>venenum</i>, quod ex lobulis digitorum\nexhalat; quaerit animalculum loca et quas-\ncunque res, sale marino imbutas vel tin-\nctas, hoc dum invenit, aliquoties supercur-\nrit, et currendo venenum post se relinquit\nmaxime noxium. Vidi <i>Cairi</i> mense Iulio\n1750. duas foeminas et unam puellam,\nmorti propinquas, quae caseum manduca-\nverant recentem salitum, in emporio em-\ntum, in quo animalculum hoc venenum\ndeposuerat. Quam acres sint exhalationes\ndigitorum, vidi aliquando <i>Cairi</i>, dum\nanimalculum supra manum currebat religi-\nosi cujusdam, qui illud capere voluit, mox\nper integrum spatium, ab animale tactum,\noriebantur pustulae minimae cum rubore,\ncalore et parvo dolore, omnino ut in illis,\nqui urticam tetigerunt“. Meminit quoque\nFORSKAL hujus lacertae, in <i>Descriptt. Ani-</i>\n<i>mall.</i> pag. 13. „<i>Lacerta Gecko.</i> Aegyptiis\ndicitur ابو برص i. e. <i>pater leprae</i>,\nf. <i>leprosus.</i> Aleppensibus <i>Burs</i>“. Schul-\ntensius in <i>Comment. ad Proverb.</i> Cap.\nXXX. vs. 28. pag. 486. b. سام ابرص\n<i>afflatorem leprosum</i> interpretatur, a\nسُمَام, quod <i>flatum pestilentem</i> signifi-\ncare ait."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1892,
+    1129
+   ],
+   [
+    1892,
+    1695
+   ]
+  ],
+  "input_tokens": 8831,
+  "output_tokens": 2085,
+  "cost_usd": 0,
+  "seconds": 492.6
+ }
+}

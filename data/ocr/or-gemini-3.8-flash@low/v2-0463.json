@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "DE ⟦p. 1043⟧\nSCRIPTURAE ANIMALIBUS\n<i>LIBER QUARTUS</i>\nDE\nQUADRUPEDIBUS OVIPARIS.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "DE ⟦p. 1043⟧\nSCRIPTURAE ANIMALIBUS\n<i>LIBER QUARTUS</i>\nDE\nQUADRUPEDIBUS OVIPARIS."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. I."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> צב <i>tsab Levit. XI, 29. esse Crocodilum ter-</i>\n<i>restrem, de quo ex Arabum monumentis multa</i>\n<i>afferuntur, nondum vulgata.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> צב <i>tsab Levit. XI, 29. esse Crocodilum ter-</i>\n<i>restrem, de quo ex Arabum monumentis multa</i>\n<i>afferuntur, nondum vulgata.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Post quadrupedes viviparas sequentur oviparae, quae et in natura paucae sunt,\net in Scriptura pauciores. Harum sex species a <i>Mose</i> recensentur <i>Levit. XI,</i>\n<i>29. 30.</i> nempe צב <i>tsab</i>, אנקה <i>anaka</i>, כח <i>coach</i>, לטאה <i>letaa</i>, חמט <i>chomet</i>,\nתנשמת <i>thinsemeth</i>. Septima videbitur addi posse, שממית <i>semamith</i>, ex <i>Prov.</i>\n<i>XXX, 28.</i> Sed, <i>semamith</i> ab <i>anaka</i> solo nomine differre, suo loco docebimus.\nEt octava, לויתן <i>leviathan</i>, qui palam est <i>crocodilus</i>, Iob. XL et XLI. Sed <i>cro-</i>\n<i>codilum</i> maluimus in aquaticis describere; quia ἀμφίβιον est animal. <i>Testudo</i> ⟦p. 1044⟧\ndenique hic locum habebit, si <i>Seniores</i> sequimur <i>Os. XII, 12.</i> Oviparae quadru-\npedes, quas ex <i>Mose</i> recensuimus, ad lacertorum species aliquo modo pertinent,\net ita sunt inter se similes, ut eas certis notis ab invicem distinguere non sit cu-\njusvis. Nobis certe fuit valde operosum; quia hic ab <i>Hebraeis</i> prorsus destitui-\nmur. Neque ex aliis Scripturae interpretibus multo plus fuit subsidii, qui in te-\nnebris plerique palpant, cum ad has minutias deveniunt: sed longe plus afful-\nsit lucis ex monumentis <i>Arabum</i>, in quorum solo hae pestes nascuntur et edu- ⟦p. 1045⟧\ncantur. Quod sequentia palam facient. In his singula verba explicare conabi-\nmur, illo ipso ordine, quo a <i>Mose</i> proponuntur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Post quadrupedes viviparas sequentur oviparae, quae et in natura paucae sunt,\net in Scriptura pauciores. Harum sex species a <i>Mose</i> recensentur <i>Levit. XI,</i>\n<i>29. 30.</i> nempe צב <i>tsab</i>, אנקה <i>anaka</i>, כח <i>coach</i>, לטאה <i>letaa</i>, חמט <i>chomet</i>,\nתנשמת <i>thinsemeth</i>. Septima videbitur addi posse, שממית <i>semamith</i>, ex <i>Prov.</i>\n<i>XXX, 28.</i> Sed, <i>semamith</i> ab <i>anaka</i> solo nomine differre, suo loco docebimus.\nEt octava, לויתן <i>leviathan</i>, qui palam est <i>crocodilus</i>, Iob. XL et XLI. Sed <i>cro-</i>\n<i>codilum</i> maluimus in aquaticis describere; quia ἀμφίβιον est animal. <i>Testudo</i> ⟦p. 1044⟧\ndenique hic locum habebit, si <i>Seniores</i> sequimur <i>Os. XII, 12.</i> Oviparae quadru-\npedes, quas ex <i>Mose</i> recensuimus, ad lacertorum species aliquo modo pertinent,\net ita sunt inter se similes, ut eas certis notis ab invicem distinguere non sit cu-\njusvis. Nobis certe fuit valde operosum; quia hic ab <i>Hebraeis</i> prorsus destitui-\nmur. Neque ex aliis Scripturae interpretibus multo plus fuit subsidii, qui in te-\nnebris plerique palpant, cum ad has minutias deveniunt: sed longe plus afful-\nsit lucis ex monumentis <i>Arabum</i>, in quorum solo hae pestes nascuntur et edu- ⟦p. 1045⟧\ncantur. Quod sequentia palam facient. In his singula verba explicare conabi-\nmur, illo ipso ordine, quo a <i>Mose</i> proponuntur."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Levit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Levit.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2080,
+    1483
+   ],
+   [
+    2080,
+    1345
+   ]
+  ],
+  "input_tokens": 3392,
+  "output_tokens": 745,
+  "cost_usd": 0,
+  "seconds": 1409.9
+ }
+}

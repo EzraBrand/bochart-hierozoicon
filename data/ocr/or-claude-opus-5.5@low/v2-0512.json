@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "512 <i>Probatur,</i> שממית <i>esse Stellionem.</i> L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "512 <i>Probatur,</i> שממית <i>esse Stellionem.</i> L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>E vasis autem ejicies araneas</i>, id est, <i>inanitatem et inopiam.</i> Proinde sic explicat\n<i>Scholiastes</i>, Εἰ καλῶς ἀροτριάσεις, καὶ σπείρεις, ἁδροὺς ἕξεις στάχυς (lege στά-\nχυας). Ἐκ δὲ τῶν σιτοφόρων σου κιβωτίων τῶν μέχρι τότε κενῶν ἑστηκότων,\nκαὶ διὰ τοῦτο ἀραχνιέντων, ἐξελάσειας τὰ ἀράχνια, καὶ ἐμπλήσεις δηλονότι\nταῦτα τοῦ σίτου· <i>Si bene araveris et seminaveris, densas habebis spicas: et ex fru-\nmentariis vasis tuis, quae eo usque vacua fuerant, ac proinde araneis plena, ara-\nneas ejicies, ut scilicet illa frumento impleas.</i> Ideo <i>Solomonem</i> araneis domum\nassignasse in regum palatiis, parum est verissimile.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>E vasis autem ejicies araneas</i>, id est, <i>inanitatem et inopiam.</i> Proinde sic explicat\n<i>Scholiastes</i>, Εἰ καλῶς ἀροτριάσεις, καὶ σπείρεις, ἁδροὺς ἕξεις στάχυς (lege στά-\nχυας). Ἐκ δὲ τῶν σιτοφόρων σου κιβωτίων τῶν μέχρι τότε κενῶν ἑστηκότων,\nκαὶ διὰ τοῦτο ἀραχνιέντων, ἐξελάσειας τὰ ἀράχνια, καὶ ἐμπλήσεις δηλονότι\nταῦτα τοῦ σίτου· <i>Si bene araveris et seminaveris, densas habebis spicas: et ex fru-\nmentariis vasis tuis, quae eo usque vacua fuerant, ac proinde araneis plena, ara-\nneas ejicies, ut scilicet illa frumento impleas.</i> Ideo <i>Solomonem</i> araneis domum\nassignasse in regum palatiis, parum est verissimile."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quid igitur erit שממית <i>semamith?</i> Plane aliud animal, nempe <i>stellio:</i> quod\ntam multa probant, ut in alia interpretatione quaerenda docti frustra se fatigent,\ncum haec vera et certa sit, et loco maxime congrua. Hujus auctores habeo\nprimum LXX Interpretes, quibus שממית <i>semamith</i> est καλαβώτης, <i>stellio.</i>\nFallitur enim <i>Mercerus</i> post <i>Complutenses</i>, qui καλαβώτην ibi <i>piscis</i> genus esse\naffirmant. In <i>piscium</i> quidem genere est καλαβώτης, sed et in <i>lacertorum.</i>\nUtrumque est in <i>Hesychio:</i> Καλαβώτης· ἰχθῦς ποῖος, καὶ σαῦρος. Nimirum\nκαλαβώτης idem, qui ἀσκαλαβώτης. Hinc <i>Levit. XI, 30. Complutensis</i> et\n<i>Parisiensis</i> editio, pro <i>Hebraeo</i> הלטאה, καλαβώτην habent, ubi reliquae ἀσκα-\nλαβώτην. Neque vero quisquam credat, <i>Graecos</i> ita insanivisse, ut ἐν ἐλαχί-\nστοις ἐπὶ τῆς γῆς <i>piscem</i> computaverint. 2. <i>Graecis</i> addo <i>Hieronymum</i>, apud\nquem שממית <i>semamith</i> hic est <i>stellio.</i> 3. <i>Syrum</i> quoque interpretem, cui\nܐܡܩܬܐ <i>amaktha</i>, vel <i>amkatha</i>, id ipsum est, ut supra ^{b)} abunde probavimus\nin capite de אנקה <i>anaka.</i> 4. Ut et <i>Chaldaeum</i> אקמתא <i>akmetha</i>, mutato litera-\nrum ordine, ut in <i>forma</i> ex μορφη.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quid igitur erit שממית <i>semamith?</i> Plane aliud animal, nempe <i>stellio:</i> quod\ntam multa probant, ut in alia interpretatione quaerenda docti frustra se fatigent,\ncum haec vera et certa sit, et loco maxime congrua. Hujus auctores habeo\nprimum LXX Interpretes, quibus שממית <i>semamith</i> est καλαβώτης, <i>stellio.</i>\nFallitur enim <i>Mercerus</i> post <i>Complutenses</i>, qui καλαβώτην ibi <i>piscis</i> genus esse\naffirmant. In <i>piscium</i> quidem genere est καλαβώτης, sed et in <i>lacertorum.</i>\nUtrumque est in <i>Hesychio:</i> Καλαβώτης· ἰχθῦς ποῖος, καὶ σαῦρος. Nimirum\nκαλαβώτης idem, qui ἀσκαλαβώτης. Hinc <i>Levit. XI, 30. Complutensis</i> et\n<i>Parisiensis</i> editio, pro <i>Hebraeo</i> הלטאה, καλαβώτην habent, ubi reliquae ἀσκα-\nλαβώτην. Neque vero quisquam credat, <i>Graecos</i> ita insanivisse, ut ἐν ἐλαχί-\nστοις ἐπὶ τῆς γῆς <i>piscem</i> computaverint. 2. <i>Graecis</i> addo <i>Hieronymum</i>, apud\nquem שממית <i>semamith</i> hic est <i>stellio.</i> 3. <i>Syrum</i> quoque interpretem, cui\nܐܡܩܬܐ <i>amaktha</i>, vel <i>amkatha</i>, id ipsum est, ut supra ^{b)} abunde probavimus\nin capite de אנקה <i>anaka.</i> 4. Ut et <i>Chaldaeum</i> אקמתא <i>akmetha</i>, mutato litera-\nrum ordine, ut in <i>forma</i> ex μορφη."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Praeterea illa ipsa vox שממית <i>semamith</i>, pro <i>lacertae</i> genere, adeoque pro\n<i>stellione</i>, nobis etiam aliunde nota est. Quippe <i>Lev. XI, 30.</i> legitur [?]\nvel [?] <i>semamitha</i>, in <i>Samaritano</i> interprete, et in <i>Chaldaeis</i> duobus,\n<i>Ionathane</i>, et altero, cui ab urbe nomen. In illo, pro אנקה <i>anaka:</i> in his pro\nלטאה <i>letaa</i>, ubi in <i>Graeca</i> versione καλαβώτης, et <i>stellio</i> in <i>Romana. He-\nbraeos</i> denique veteres sic usurpavisse, palam est ex eo, quod legitur in <i>Talmu-\ndico</i> tractatu <i>De Sabbatho</i> cap. 8. pag. 77. b. אימת שממית על העקרב, <i>Terror</i>\nsemamith <i>super scorpionem.</i> Quibus verbis innuunt, hoc animal scorpioni esse\nterrori. Unde apparet, <i>semamith</i> non esse <i>araneam.</i> Eam enim cum scorpio-\nne inimicitias exercere, aut illi terrori esse, nemo scripsit. At de scorpione sic\n<i>Plinius</i> libri vigesimi noni capite quarto, <i>Scorpionibus contrarius maxime stellio\ntraditur, ut visu quoque pavorem iis afferat, et torporem frigidi sudoris.</i> Et <i>Aeli-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Praeterea illa ipsa vox שממית <i>semamith</i>, pro <i>lacertae</i> genere, adeoque pro\n<i>stellione</i>, nobis etiam aliunde nota est. Quippe <i>Lev. XI, 30.</i> legitur [?]\nvel [?] <i>semamitha</i>, in <i>Samaritano</i> interprete, et in <i>Chaldaeis</i> duobus,\n<i>Ionathane</i>, et altero, cui ab urbe nomen. In illo, pro אנקה <i>anaka:</i> in his pro\nלטאה <i>letaa</i>, ubi in <i>Graeca</i> versione καλαβώτης, et <i>stellio</i> in <i>Romana. He-\nbraeos</i> denique veteres sic usurpavisse, palam est ex eo, quod legitur in <i>Talmu-\ndico</i> tractatu <i>De Sabbatho</i> cap. 8. pag. 77. b. אימת שממית על העקרב, <i>Terror</i>\nsemamith <i>super scorpionem.</i> Quibus verbis innuunt, hoc animal scorpioni esse\nterrori. Unde apparet, <i>semamith</i> non esse <i>araneam.</i> Eam enim cum scorpio-\nne inimicitias exercere, aut illi terrori esse, nemo scripsit. At de scorpione sic\n<i>Plinius</i> libri vigesimi noni capite quarto, <i>Scorpionibus contrarius maxime stellio\ntraditur, ut visu quoque pavorem iis afferat, et torporem frigidi sudoris.</i> Et <i>Aeli-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>anus</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>anus</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cap. 2. pag. 1065.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cap. 2. pag. 1065.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1632,
+    1569
+   ],
+   [
+    1632,
+    1255
+   ]
+  ],
+  "input_tokens": 7913,
+  "output_tokens": 1949,
+  "cost_usd": 0,
+  "seconds": 492.6
+ }
+}
