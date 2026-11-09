@@ -44,7 +44,7 @@ Quality (no gold page in this chapter yet):
 |---|---|---|
 | OCR, compact, `max_tokens` 10000 (was 32000) | Opus 5.5 @low + Flash 3.8 @low, batch | $2.91 |
 | Re-OCR of 3 pages cut by the crop (sync) | Opus + Flash | $0.23 |
-| Image judge, 1,276 lines | Opus 5.5 @low, batch (+ 33 lines sync) | $4.67 |
+| Image judge, about 1,320 lines | Opus 5.5 @low, batch (+ 33 lines sync) | $4.67 |
 | Translation, 10 chapters | Opus 5.5 @low, batch | about $1.90 |
 | **Total** | | **$9.71** ($0.131 a page) |
 
