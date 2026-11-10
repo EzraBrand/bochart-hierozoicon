@@ -44,6 +44,27 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 2, group A (scan check 10-Nov-2026, apply_review.py)
+    ('v2-0525', 'πολλοῦ.'): 'footnote a) prints πολλȣ̃ = ȣ ligature with circumflex = πολλοῦ; not ῷ',
+    ('v2-0532', 'Ὅσα'): 'final letter is α, not οι; Ὅσα printed',
+    ('v2-0537', 'e)'): 'superscript e) in print, like b) c) elsewhere kept plain; format only',
+    ('v2-0539', 'φιλέρημος,'): 'Φ-shaped glyph is the ordinary lower-case φ (same as φησιν, ὀφθαλμῶν)',
+    ('v2-0539', 'φωναὶ,'): 'same lower-case φ glyph; no capital',
+    ('v2-0542', 'ὀυκ'): 'print οὐκ (ȣ ligature with smooth breathing + κ = οὐκ; models read ȣ as ε)',
+    # tranche 2, group B (scan check 10-Nov-2026, apply_review.py)
+    ('v2-0547', 'φάσσαν,'): 'the Φ-form glyph is the lower-case φ of this type (same glyph in ἐφίσδει below); mid-verse',
+    ('v2-0549', 'φρόνιμοι'): 'Φ-form glyph = lower-case φ of this type, same size as in φρόνιμον/φρόνησις elsewhere',
+    ('v2-0550', 'φημὶ'): 'Φ-form glyph = lower-case φ of this type; follows a high dot, not a sentence start',
+    ('v2-0551', 'ἀπλούστατοι'): 'print ἁπλούστατοι (rough breathing; ȣ́ ligature = ου, then στ ligature; ἁπλέστατοι misreads ȣ as ε)',
+    ('v2-0559', 'הדא'): 'second letter has a head wider than the stem: ד, not ו',
+    ('v2-0562', 'οὐκ'): 'ȣ ligature with breathing + κ = οὐκ; ἐκ misreads ȣ as ε',
+    # tranche 2, group C (scan check 10-Nov-2026, apply_review.py)
+    ('v2-0568', 'شبه'): 'final letter is ه with no dots above',
+    ('v2-0576', 'שכב,'): 'three letters ש כ ב, no initial yod',
+    ('v2-0581', 'قلي'): 'two dots under the final letter = ي (twice on the page)',
+    ('v2-0584', 'قلي'): 'two dots under the final letter = ي',
+    ('v2-0588', 'אותר'): 'final letter has a top bar and a long stem = ר, not ו; misprint kept',
+    ('v2-0589', 'δέ'): 'accent over ε rises to the right = acute (δέ before enclitic τι)',
     # tranche 1 (scan check 09-Nov-2026, logs/apply_review.py)
     ('v2-0478', 'حليه'): 'print ح, not ع (scan check 09-Nov-2026)',
     ('v2-0483', 'οὐκ'): 'ου ligature',
@@ -122,16 +143,61 @@ ACCEPT = {
     ('v2-0518', 'يتسند'),
     ('v2-0522', 'πρῖνον.'),
     ('v2-0522', 'verisimile;'),
+    # tranche 2, group A (scan check 10-Nov-2026, apply_review.py)
+    ('v2-0525', 'ἄμπελον,'),
+    ('v2-0525', 'δὲ,'),
+    ('v2-0526', 'Ἠΐδει'),
+    ('v2-0527', 'verisimile'),
+    ('v2-0530', 'rent'),
+    ('v2-0530', 'filius,'),
+    ('v2-0532', 'XXV.'),
+    ('v2-0532', 'XII.'),
+    ('v2-0534', 'effossum'),
+    ('v2-0538', 'Φιλοσκίων.'),
+    ('v2-0540', 'ἀπεικασθήσονται·'),
+    ('v2-0541', 'Janse-'),
+    ('v2-0542', 'Ἦιξαν'),
+    # tranche 2, group B (scan check 10-Nov-2026, apply_review.py); p. 560 ועם is a FIXES item instead
+    # (the Hebrew line was read in visual order)
+    ('v2-0545', 'בארעיח'),
+    ('v2-0545', 'פי פחת'),
+    ('v2-0549', 'τοιῶς'),
+    ('v2-0553', 'ἥπατι'),
+    ('v2-0555', 'columbae'),
+    ('v2-0556', 'ἀσθένειαν'),
+    ('v2-0562', 'λῳ·'),
+    ('v2-0563', 'θαλάττῃ,'),
+    ('v2-0565', 'نوحا'),
+    ('v2-0565', 'τῃσιν'),
+    ('v2-0566', 'cum'),
+    # tranche 2, group C (scan check 10-Nov-2026, apply_review.py); "tr[?]igesimo" (a blank sort in trigesimo,
+    # p. 588) not taken
+    ('v2-0567', 'νωμῶντες'),
+    ('v2-0567', 'Parva'),
+    ('v2-0572', 'constit.'),
+    ('v2-0573', 'προσελθεῖν'),
+    ('v2-0574', 'caussis,'),
+    ('v2-0575', 'πρὸς'),
+    ('v2-0580', 'ضعيف'),
+    ('v2-0583', 'المملوحة'),
+    ('v2-0583', 'الحمص'),
+    ('v2-0588', 'χέδροπά'),
+    ('v2-0588', 'caussis'),
+    ('v2-0588', 'ἅλμην·'),
 }
 
 # Differences that the scan cannot decide or that are conventions, not readings: never changed by the
 # vote, listed for review. Each was seen in the pilot (01-Nov-2026).
-SUPERSCRIPTS = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+SUPERSCRIPTS = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ", "0123456789abcdefghijklmnoprstuvwxyz")
+MARK_PUNCT = str.maketrans("", "", "(){}^")
 
 
 def ambiguous(old: str, new: str) -> str:
     o, n = key(old), key(new)
     if o.translate(SUPERSCRIPTS) == n.translate(SUPERSCRIPTS):
+        return "note-mark format"
+    # a note mark written as a superscript letter or with brackets: ^{b)} -> ^{(ᵇ)} (p. 568, 10-Nov-2026)
+    if "^{" in old and o.translate(SUPERSCRIPTS).translate(MARK_PUNCT) == n.translate(SUPERSCRIPTS).translate(MARK_PUNCT):
         return "note-mark format"
     if len(o) == len(n) and all(a == b or {a, b} == {"ف", "غ"} for a, b in zip(o, n)):
         return "ف/غ: the same shape in this type (medial)"

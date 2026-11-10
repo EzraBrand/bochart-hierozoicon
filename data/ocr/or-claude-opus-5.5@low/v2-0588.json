@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "588 <i>Prob.,</i> חריונים<i>, vel</i> דביונים <i>esse ciceris genus,</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "588 <i>Prob.,</i> חריונים<i>, vel</i> דביונים <i>esse ciceris genus,</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ibi versu 12 et 16. legumina non dici קטניות, ut alibi ab <i>Hebraeis</i>, sed זרעים,\nvel זרענים. Quae vox generalior est. Nam זרעים, vel זרענים sunt quaevis se-\nmina. Proinde <i>Graeca</i> versio, quae <i>Theodotionis</i> est, habet σπέρματα. Et\n<i>Maimonides</i> sic definit, quid sint זרענים, <i>semina</i>, in tractatu <i>De heterogeneis</i>\nlibri 1. cap. 8. הזרענים נחלקין לשלושה חלקים האחד מהם הוא הנקרא תבואה\nוהיא חמשה מינין החטים והכוסמין והשעורין ושבולת שועל והשיפון והשני\nמהן הוא הנקרא קטנית והן כל זרעים הנאכל לאדם חוץ מן התבואה כגון\nהפול והאפונים והדוחן והאורז והשומשמין והפרגין והספיר וכיוצא בהן והשלישי\nמהן הוא הנקרא זרעוני גנה והן שאר זרעונין שאינן ראויין למאכל אדם והפרי ⟦p. 50⟧\nשל אותר הזרע מאכל אדם כגון זרע הבצלין והשומין וזרע החציר והקצח וזרע\nלפת וכיוצא בהן, <i>Semina dividuntur in tres species. Prima est eorum, quae vo-\ncantur proventus</i> (fruges σιτώδη). <i>Eorum sunt quinque species</i>, <i>triticum</i>, <i>spelta</i>,\n<i>ordeum</i>, <i>spica vulpis</i> (avena, cujus spica caudae vulpis similis est) <i>secale. Se-\ncunda eorum, quae legumina vocant, id est, omnia semina, quae ab homine com-\neduntur</i>, <i>ut fabae</i>, <i>pisa</i>, <i>panicum</i>, <i>oryza</i>, <i>sesamum</i>, <i>papaver</i>, <i>cicercula et simi-\nlia. Tertia eorum, quae vocantur hortensia semina, quae quidem ipsa non sunt\napta ad esum; sed quod ab iis provenit, ab homine comeditur, ut caepe</i>, <i>allia</i>,\n<i>porri</i>, <i>nigella</i>, <i>rapa et similia.</i> Tamen in <i>Daniele</i> זרעי ὄσπρια <i>legumina</i> ex-\nplicant <i>Iosephus</i> et <i>Graecus Scholiastes</i>, <i>Tertullianus</i>, <i>Hieronymus</i>, <i>R. Selomo</i>,\n<i>Saadias Gaon</i>, <i>Aben Ezra</i>, <i>Ioseph</i>, <i>Iachiae</i> filius, etc. Et tam potuere <i>Hebrai-\nce</i> זרעים, id est, <i>semina</i> nominari, quam <i>Graece</i> ὄσπρια. Dicuntur enim ὄσπρια,\npro σπόρια, ἀπὸ τῆς σπορᾶς, <i>a satu.</i> Itaque <i>Graecum</i> hoc nomen prorsus\nrespondet <i>Hebraico.</i> Sed et <i>Graece</i> vocantur χεδροπὰ quasi χειρόδροπα, ut\n<i>Latine legumina</i>, quia manu leguntur. Quo respiciens <i>Nicander Theriacῶν</i> ver-\nsu 752. ait.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ibi versu 12 et 16. legumina non dici קטניות, ut alibi ab <i>Hebraeis</i>, sed זרעים,\nvel זרענים. Quae vox generalior est. Nam זרעים, vel זרענים sunt quaevis se-\nmina. Proinde <i>Graeca</i> versio, quae <i>Theodotionis</i> est, habet σπέρματα. Et\n<i>Maimonides</i> sic definit, quid sint זרענים, <i>semina</i>, in tractatu <i>De heterogeneis</i>\nlibri 1. cap. 8. הזרענים נחלקין לשלושה חלקים האחד מהם הוא הנקרא תבואה\nוהיא חמשה מינין החטים והכוסמין והשעורין ושבולת שועל והשיפון והשני\nמהן הוא הנקרא קטנית והן כל זרעים הנאכל לאדם חוץ מן התבואה כגון\nהפול והאפונים והדוחן והאורז והשומשמין והפרגין והספיר וכיוצא בהן והשלישי\nמהן הוא הנקרא זרעוני גנה והן שאר זרעונין שאינן ראויין למאכל אדם והפרי ⟦p. 50⟧\nשל אותר הזרע מאכל אדם כגון זרע הבצלין והשומין וזרע החציר והקצח וזרע\nלפת וכיוצא בהן, <i>Semina dividuntur in tres species. Prima est eorum, quae vo-\ncantur proventus</i> (fruges σιτώδη). <i>Eorum sunt quinque species</i>, <i>triticum</i>, <i>spelta</i>,\n<i>ordeum</i>, <i>spica vulpis</i> (avena, cujus spica caudae vulpis similis est) <i>secale. Se-\ncunda eorum, quae legumina vocant, id est, omnia semina, quae ab homine com-\neduntur</i>, <i>ut fabae</i>, <i>pisa</i>, <i>panicum</i>, <i>oryza</i>, <i>sesamum</i>, <i>papaver</i>, <i>cicercula et simi-\nlia. Tertia eorum, quae vocantur hortensia semina, quae quidem ipsa non sunt\napta ad esum; sed quod ab iis provenit, ab homine comeditur, ut caepe</i>, <i>allia</i>,\n<i>porri</i>, <i>nigella</i>, <i>rapa et similia.</i> Tamen in <i>Daniele</i> זרעי ὄσπρια <i>legumina</i> ex-\nplicant <i>Iosephus</i> et <i>Graecus Scholiastes</i>, <i>Tertullianus</i>, <i>Hieronymus</i>, <i>R. Selomo</i>,\n<i>Saadias Gaon</i>, <i>Aben Ezra</i>, <i>Ioseph</i>, <i>Iachiae</i> filius, etc. Et tam potuere <i>Hebrai-\nce</i> זרעים, id est, <i>semina</i> nominari, quam <i>Graece</i> ὄσπρια. Dicuntur enim ὄσπρια,\npro σπόρια, ἀπὸ τῆς σπορᾶς, <i>a satu.</i> Itaque <i>Graecum</i> hoc nomen prorsus\nrespondet <i>Hebraico.</i> Sed et <i>Graece</i> vocantur χεδροπὰ quasi χειρόδροπα, ut\n<i>Latine legumina</i>, quia manu leguntur. Quo respiciens <i>Nicander Theriacῶν</i> ver-\nsu 752. ait."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Χειρόδροπα δ' ἵνα φῶτες ἄνευ δρεπάνοιο λέγονται\n Ὄσπρια, χέδροπά τ' ἄλλα, μεσοχλόου ἐντὸς ἀρούρης·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χειρόδροπα δ' ἵνα φῶτες ἄνευ δρεπάνοιο λέγονται\n Ὄσπρια, χέδροπά τ' ἄλλα, μεσοχλόου ἐντὸς ἀρούρης·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ubi manulegi homines sine falce legumina, atque alia ejus generis, legunt in semi-\nvirente terra.</i> His observatis statim patebit, quorsum velit <i>Iosephus</i>, columbi-\nnum stercus <i>Samaritanis</i> fuisse loco salis. <i>Theophrastus</i> (<i>De caussis plantarum</i> li-\nbri quarti capite nono) exquirens, quibus de caussis cicer aliis leguminibus citius\nmaturescat, inter caetera hanc affert, Ἡ ἅλμη πρὸς τὴν τελείωσιν συμβάλλε-\nται, <i>Salsedo</i> ciceris <i>ad</i> promptam illam <i>maturitatem confert.</i> Et libri quinti ca-\npite undecimo, Ὁ ἐρέβινθος ἀπόλλυται σφακελίας, ὅταν ἀνθοῦσιν ὕδωρ ἐπιγι-\nνόμενον ἐπικλύσῃ τὴν ἅλμην· τὸ γὰρ ἔφαλμα οἷον σφακελίζειν ἐστί. <i>Cicer\nsphacelisco perit, cum in flore salsuginem imber eluit: salsuginis enim jactura ei\nveluti sphacelismus est.</i> <i>Cato</i> quoque de cicere, <i>Rusticorum</i> capite tr[?]igesimo se-\nptimo: <i>Si cariosam in terram jacies cicer, quod vellitur, salsum est et malum.</i>\nEt <i>Columella</i> libri secundi capite decimo quarto, Tremellius <i>obesse</i> maxime ait",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ubi manulegi homines sine falce legumina, atque alia ejus generis, legunt in semi-\nvirente terra.</i> His observatis statim patebit, quorsum velit <i>Iosephus</i>, columbi-\nnum stercus <i>Samaritanis</i> fuisse loco salis. <i>Theophrastus</i> (<i>De caussis plantarum</i> li-\nbri quarti capite nono) exquirens, quibus de caussis cicer aliis leguminibus citius\nmaturescat, inter caetera hanc affert, Ἡ ἅλμη πρὸς τὴν τελείωσιν συμβάλλε-\nται, <i>Salsedo</i> ciceris <i>ad</i> promptam illam <i>maturitatem confert.</i> Et libri quinti ca-\npite undecimo, Ὁ ἐρέβινθος ἀπόλλυται σφακελίας, ὅταν ἀνθοῦσιν ὕδωρ ἐπιγι-\nνόμενον ἐπικλύσῃ τὴν ἅλμην· τὸ γὰρ ἔφαλμα οἷον σφακελίζειν ἐστί. <i>Cicer\nsphacelisco perit, cum in flore salsuginem imber eluit: salsuginis enim jactura ei\nveluti sphacelismus est.</i> <i>Cato</i> quoque de cicere, <i>Rusticorum</i> capite tr[?]igesimo se-\nptimo: <i>Si cariosam in terram jacies cicer, quod vellitur, salsum est et malum.</i>\nEt <i>Columella</i> libri secundi capite decimo quarto, Tremellius <i>obesse</i> maxime ait"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>solo</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>solo</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1798,
+    1579
+   ],
+   [
+    1798,
+    1229
+   ]
+  ],
+  "input_tokens": 8460,
+  "output_tokens": 2179,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

@@ -1,0 +1,905 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0525",
+   "line": "Χαρμὶ δηλοῖ τὴν ἄμπελον, Οὔνω περιστερὰν δὲ,",
+   "old": "ἄμπελον,",
+   "new": "ἀμπελον,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0525",
+   "line": "Χαρμὶ δηλοῖ τὴν ἄμπελον, Οὔνω περιστερὰν δὲ,",
+   "old": "Οὔνω",
+   "new": "Οὐνὼ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0525",
+   "line": "Χαρμὶ δηλοῖ τὴν ἄμπελον, Οὔνω περιστερὰν δὲ,",
+   "old": "δὲ,",
+   "new": "δε,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0526",
+   "line": "ris abunde docet. Sic 1. Dodonaeam columbam ajunt c) ἵζομένην ἐπὶ φηγὸν,",
+   "old": "ἵζομένην",
+   "new": "ἱζομένην",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0526",
+   "line": "Ἠΐδει μακάρων. ὁ δ᾽ ἀέξετο πᾶσι μέλεσσι",
+   "old": "Ἠΐδει",
+   "new": "Ἠήδει",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0526",
+   "line": "vel Charmiona vere sit οἰνάς. Itaque יונה jona per se non est οἰνάς, sed colum-",
+   "old": "οἰνάς,",
+   "new": "οἰνὰς,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0527",
+   "line": "verisimile est, atque inde paullatim in reliquum orbem esse dispersas.",
+   "old": "verisimile",
+   "new": "verissimile",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0527",
+   "line": "naeus, libro nono, Αὐτοκράτης ἐν τοῖς Ἀχαικοῖς καὶ τὸν Διά ἱστορεῖ μεταβα-",
+   "old": "Διά",
+   "new": "Διὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0528",
+   "line": "הוא מלשון עת הזמיר הגיע בחלוף הזין בסמך וכן בארמי פק דגטין זמרא",
+   "old": "דגטין",
+   "new": "דנטין",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0529",
+   "line": "γὰρ ἀδύνατον, εἰς περιστερὰν μετέβαλεν ἡ γυνή· ὁ μῦθος παρὰ Κτησίᾳ. Nam,",
+   "old": "μῦθος",
+   "new": "μύθος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0529",
+   "line": "λὰ σφίσι ἥδε ἱρή. Avibus quidem aliis vescuntur, sed a sola columba abstinent,",
+   "old": "ἱρή.",
+   "new": "ἱερή.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0529",
+   "line": "ἡ παρὰ Σύροις Ἄρταγα εἶναι, ἣν διὰ τὸ περιστερᾶς καὶ ἰχθύος ἀπέχεσθαι τι-",
+   "old": "περιστερᾶς",
+   "new": "περιστερὰς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0530",
+   "line": "הכנעם באהבה אל מלכם ההוא אשר אות דגלה יונה חבבו אותה והקימוה",
+   "old": "והקימוה",
+   "new": "והקימוהו",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0530",
+   "line": "rent ei erexisse in vertice montis Garizim prope urbem Sichem, quae tum erat me-",
+   "old": "rent",
+   "new": "vent",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0530",
+   "line": "Dixit Rab Nachman, Isaaci filius, columbae imaginem iis invenerunt, quam cole-",
+   "old": "filius,",
+   "new": "filins,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0531",
+   "line": "betur in Lege Mosis, sed חור וגוזל turturum et gozal, quae vox non solum",
+   "old": "חור",
+   "new": "תור",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0531",
+   "line": "Punice חציר־גזורל azirgozol, id est, herba pipionis, in Herbario Apuleii capite",
+   "old": "חציר־גזורל",
+   "new": "חציר־גוזול",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0534",
+   "line": "scribit: „Et candidae columbae apud Graecos tum primum visae sunt, cum antea",
+   "old": "cum",
+   "new": "cùm",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0534",
+   "line": "τριήρεις παρακάμπτουσαι τὸν Ἄθω· Charon vero Lampsacenus asserit, circa",
+   "old": "τριήρεις",
+   "new": "τριέρεις",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0534",
+   "line": "datur, adeoque quasi jam effossum inveni-",
+   "old": "effossum",
+   "new": "effissum",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0535",
+   "line": "Et Lucianus in Gallo ad divitem avarum, Οἴμωζε, καὶ ἀγρύπνει, καὶ ὅμοιος",
+   "old": "ἀγρύπνει,",
+   "new": "ἀγρυπνεῖ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0536",
+   "line": "rem mutantia. Ita testatur Hieronymus ad Pammachium contra errores Johannis",
+   "old": "Johannis",
+   "new": "Iohannis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0537",
+   "line": "ri, quia oculi sunt in amore duces. Et ἐκ τοῦ ὁρᾶν γίνεται ἐρᾶν. Unde Iohan-",
+   "old": "ὁρᾶν",
+   "new": "ὁρᾷν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0537",
+   "line": "ri, quia oculi sunt in amore duces. Et ἐκ τοῦ ὁρᾶν γίνεται ἐρᾶν. Unde Iohan-",
+   "old": "ἐρᾶν.",
+   "new": "ἐρᾷν.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0538",
+   "line": "designari vult לא בולטות יותר מדאי ולא שוקעות אלא יושבות מלאת גומא",
+   "old": "שוקעות",
+   "new": "שיקעות",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0538",
+   "line": "Ναρκίσσους ἄλλους Λάκωνας ὄντας τῶν Φιλοσκίων.",
+   "old": "Φιλοσκίων.",
+   "new": "φιλοσκίων.",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0540",
+   "line": "ριστεραῖς μελετώσαις ἀπεικασθήσονται· στένουσι γὰρ ἔοικε τῶν περιστερῶν ἡ φωνή.",
+   "old": "ἀπεικασθήσονται·",
+   "new": "ἀπεικαθήσονται·",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0541",
+   "line": "exoptari, ὡς κουφοτέρας, καὶ ταχυτέρας, ut leviores et perniciores. Et Janse-",
+   "old": "Janse-",
+   "new": "Ianse-",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0541",
+   "line": "מהם מפני שהם ממהרות לשוב אל גוליהם שהניחו להאכילם מאשר בפיהם",
+   "old": "גוליהם",
+   "new": "גוזליהם",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0541",
+   "line": "Citius volant, cum redeunt ad nidos suos, quam cum ex iis exeunt, quia ad pullos,",
+   "old": "cum",
+   "new": "eum",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0542",
+   "line": "cum columba volante confert tum cum",
+   "old": "cum",
+   "new": "eum",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0542",
+   "line": "Ἦιξαν πελέιας ὠκύτητ᾽ ὀυκ ἥσσονες,",
+   "old": "Ἦιξαν",
+   "new": "Ἤιξαν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0545",
+   "line": "שובכה ונחתא ושריא בארעיח גובא, ut columba, quae foramine columbarii re-",
+   "old": "בארעיח",
+   "new": "בארעית",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0546",
+   "line": "Et quod in Diodoro Semiramis exposita fuisse legitur εἴς τινας ἐρήμους, καὶ πε-",
+   "old": "εἴς",
+   "new": "εἰς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0546",
+   "line": "العرف Alozpho est الحمام الطورانية columba montana.",
+   "old": "العرف",
+   "new": "العزف",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0548",
+   "line": "eo, quod verba יונה אלם רחקים initium",
+   "old": "רחקים",
+   "new": "רחוקים",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0549",
+   "line": "Ἀκέραιοι γὰρ λέγονται περιστεραὶ τοιῶς δε,",
+   "old": "τοιῶς",
+   "new": "τοιώς",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0550",
+   "line": "οὐδὲ τὸ φρόνιμον εἴασε κακοῦργον γενέσθαι. οὔτε τὸ ἁπλοῦν ἀνόητον, ἀλλ᾽ ἐν ἀρε-",
+   "old": "ἐν",
+   "new": "ἓν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0552",
+   "line": "λειὰς, columba sedens proverbio dicitur ἐπὶ τῶν ἀπλουστάτων, de simplicissimis.",
+   "old": "ἀπλουστάτων,",
+   "new": "ἁπλουστάτων,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0553",
+   "line": "tant, quoniam τὴν ἐπὶ τῷ ἥπατι κύστιν, vesicam fellis prope jecur non habeat.",
+   "old": "ἥπατι",
+   "new": "ἤπατι",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0555",
+   "line": "miscent sicut columba, etc. Quae columbae ingenium prorsus exprimunt. Co-",
+   "old": "columbae",
+   "new": "coluinbae",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0556",
+   "line": "ab Homero dicitur, ἐπεὶ διὰ τὴν ἀσθένειαν εὐλαβὴς ἡ ὄρνις αὕτη, τρεῖν δ' ἐστὶ",
+   "old": "ἀσθένειαν",
+   "new": "ἀθένειαν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0557",
+   "line": "gentes etiam usurpasse. Propertius libro quarto Elegia ad Leuam,",
+   "old": "Leuam,",
+   "new": "Lenam,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0560",
+   "line": "igitur de caussis columba a Noacho emissa est; sed rediit non multo post, quia",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0562",
+   "line": "octavo, Ἐν δὲ τῇ θαλάττῃ ἐρυθρᾷ δένδρα τινὰ φύεται· καὶ καλοῦσιν αὐτὰ",
+   "old": "δένδρα",
+   "new": "δενδρά",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0562",
+   "line": "octavo, Ἐν δὲ τῇ θαλάττῃ ἐρυθρᾷ δένδρα τινὰ φύεται· καὶ καλοῦσιν αὐτὰ",
+   "old": "τινὰ",
+   "new": "τινα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0562",
+   "line": "δάφνην, καὶ ἐλαίαν. Ἔστι δὲ ἡ μὲν δάφνη ὅμοια τῇ ἀρίᾳ, ἡ δὲ ἐλαία τῷ φύλ-",
+   "old": "λῳ·",
+   "new": "λω·",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0562",
+   "line": "Plinio lege τοῖς ἴοις) καὶ τῷ χρώματι, καὶ τῇ ὀσμῇ, καρπὸν δ᾽ ἡλίκον ἐλαία,",
+   "old": "ἐλαία,",
+   "new": "ἐλαίᾳ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0563",
+   "line": "sterilis ob siccitatem, et arboribus careat: in mari vicino, quo alluitur, insitatae",
+   "old": "insitatae",
+   "new": "inusitatae",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0563",
+   "line": "προσκλυζόμενα τῇ θαλάττῃ, πυκναὶ δὲ τοῖς φυλλώμασι, etc. ταύτας ἀλλήλαις",
+   "old": "θαλάττῃ,",
+   "new": "θαλάττη,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0565",
+   "line": "رجلتها مملولة بالما Rediit pedibus suis aqua madentibus. Et",
+   "old": "بالما",
+   "new": "بالماء",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0565",
+   "line": "πασε, μεθίει τῶν ὀρνίθων πεῖρην ποιούμενος, εἴπου γῆν ἴδοι, τοῦ ὕδατος ἐκδῦσαν.",
+   "old": "πεῖρην",
+   "new": "πείρην",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0565",
+   "line": "غريب يدل علي اخبار ورسل لانه اخبر نوحا عليه",
+   "old": "نوحا",
+   "new": "توحا",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0565",
+   "line": "τῃσιν εὐτύχεεν· ἀφίκατο γὰρ δὴ πηλοῦ κατάπλεοι τοὺς ταρσοὺς, θεοί μιν ἐξ",
+   "old": "τῃσιν",
+   "new": "τησιν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0566",
+   "line": "cum sensum quod attinet, multis olivae folium, aut termes fuisse videtur pacis",
+   "old": "cum",
+   "new": "eum",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0566",
+   "line": "τες, συμφρονήσαντες ἐπὶ δόλῳ συνήντων αὐτῷ, θαλλοὺς ἔχοντες, καὶ στεφά-",
+   "old": "θαλλοὺς",
+   "new": "θάλλους",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0567",
+   "line": "ἐθνικὸν Ἀκταῖος καὶ Ἀκταία. Proinde ut mel Actaeum est mel Atticum apud",
+   "old": "Ἀκταία.",
+   "new": "Ἀκταῖα.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0567",
+   "line": "Τίνες γὰρ οἵδε βάκτρα νωμῶντες χεροῖν,",
+   "old": "νωμῶντες",
+   "new": "νωμᾶντες",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0567",
+   "line": "Parva sambucus item hircino collita sevo.",
+   "old": "Parva",
+   "new": "Parua",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0569",
+   "line": "saepe accidit, τῇ τῆς ἀνθολκης ἀμετρίᾳ. Nam, cum suffecisset asserere veri-",
+   "old": "ἀνθολκης",
+   "new": "ἀνθόλκης",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0572",
+   "line": "quod ex avibus, quod ex hominibus, quod ex pecudibus constit. Avium primum",
+   "old": "constit.",
+   "new": "consit.",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0573",
+   "line": "Cap. ult. ad fin. haec leguntur: προσελθεῖν",
+   "old": "προσελθεῖν",
+   "new": "προσελθῶν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0574",
+   "line": "gas libro primo De different. febr. et libro De morborum caussis, agrestium co-",
+   "old": "caussis,",
+   "new": "causis,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0574",
+   "line": "ἥλιος προσβαλὼν ἐξῆψε τήν ῥητίνην τε, καὶ τὰ ξύλα, jacebat fimus columba-",
+   "old": "τήν",
+   "new": "τὴν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0575",
+   "line": "μα τῆς τροφῆς γινόμενον εἰς τὸ σῶμα, καὶ παρέχον ἐναρμοσίαν αὐτῇ πρὸς τὴν",
+   "old": "πρὸς",
+   "new": "προς",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0576",
+   "line": "trinis, proprie locis stercoris, מוצאות, secessus: pro חרים et שיניםe), stercori-",
+   "old": "חרים",
+   "new": "חורים",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0579",
+   "line": "distracta. Fateor, de gallinis id legi, et Arabice ثبودك thabudach eum dici,",
+   "old": "ثبودك",
+   "new": "تبودك",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0580",
+   "line": "ضعيف Kuzkendem, quid est? Res est levis, ut muscus arboreus, lutea.",
+   "old": "ضعيف",
+   "new": "ضغيف",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0580",
+   "line": "sed Daphnensis est debilis. Reliqua ibi vide. Idem alibi, جوز جندم",
+   "old": "الطبع",
+   "new": "اطبع",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0582",
+   "line": "opinionis suae anteceptae in gratiam, cu-",
+   "old": "cu-",
+   "new": "eu-",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0583",
+   "line": "الي المملوحة وهو من الحمص Usnen planta est sine foliis, ra-",
+   "old": "المملوحة",
+   "new": "الملوحة",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0583",
+   "line": "mos habens tenues radici similes, teneros, multi humoris, qui crescunt, donec fit",
+   "old": "fit",
+   "new": "sit",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0583",
+   "line": "chanipha, القلي يتخذ من الحمص واجوده ما يتخذ",
+   "old": "الحمص",
+   "new": "الجمص",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0583",
+   "line": "Ἀνθρακίζων τὲρεβίνθου",
+   "old": "Ἀνθρακίζων",
+   "new": "᾿Ανθρακίζων",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0583",
+   "line": "وله اغصان دقاق شبه العقر وهي رخصة كثيرة",
+   "old": "اغصان",
+   "new": "اعضان",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0584",
+   "line": "CELSIUS Hierobot. P. II. p. [?]31. seqq.",
+   "old": "[?]31.",
+   "new": "231.",
+   "script": "common",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0585",
+   "line": "sit a verbo وشن, quod de terra, camelo, etc. tumere significat, et eminere.",
+   "old": "sit",
+   "new": "fit",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0587",
+   "line": "Sed ad Fabam potius aut lentem id pertinet. De faba enim Plinius lib. 18. cap.",
+   "old": "Fabam",
+   "new": "fabam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "Χειρόδροπα δ' ἵνα φῶτες ἄνευ δρεπάνοιο λέγονται",
+   "old": "Χειρόδροπα",
+   "new": "Χειροδροπὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "Ὄσπρια, χέδροπά τ' ἄλλα, μεσοχλόου ἐντὸς ἀρούρης·",
+   "old": "χέδροπά",
+   "new": "χεδροπά",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "num stercus Samaritanis fuisse loco salis. Theophrastus (De caussis plantarum li-",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "Maimonides sic definit, quid sint זרענים, semina, in tractatu De heterogeneis",
+   "old": "זרענים,",
+   "new": "זרעונים,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "bri quarti capite nono) exquirens, quibus de caussis cicer aliis leguminibus citius",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "νόμενον ἐπικλύσῃ τὴν ἅλμην· τὸ γὰρ ἔφαλμα οἷον σφακελίζειν ἐστί. Cicer",
+   "old": "ἅλμην·",
+   "new": "ἄλμην·",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0588",
+   "line": "libri 1. cap. 8. הזרענים נחלקין לשלושה חלקים האחד מהם הוא הנקרא תבואה",
+   "old": "הזרענים",
+   "new": "הזרעונים",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0589",
+   "line": "cum salsedine, ideo solum urit. Et libro decimo septimo, Commune omnium sa-",
+   "old": "cum",
+   "new": "cùm",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0589",
+   "line": "phyt. P. II. C. XXII. Sect. III. p. 129. חרייונים",
+   "old": "חרייונים",
+   "new": "חריינים",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

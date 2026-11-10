@@ -3,12 +3,12 @@
   {
    "type": "heading",
    "lang": "lat",
-   "text": "DE\nSCRIPTURAE ANIMALIBU[?]\nPARS SECUNDA\nLIBER PRIMUS\nDE\nDE MUNDIS AVIBUS. ⟦p. 1⟧",
+   "text": "DE\nSCRIPTURAE ANIMALIBUS\n<i>PARS SECUNDA</i>\n<i>LIBER PRIMUS</i>\nDE\nDE MUNDIS AVIBUS. ⟦p. 1⟧",
    "marker": "",
    "runs": [
     {
      "lang": "lat",
-     "text": "DE\nSCRIPTURAE ANIMALIBU[?]\nPARS SECUNDA\nLIBER PRIMUS\nDE\nDE MUNDIS AVIBUS. ⟦p. 1⟧"
+     "text": "DE\nSCRIPTURAE ANIMALIBUS\n<i>PARS SECUNDA</i>\n<i>LIBER PRIMUS</i>\nDE\nDE MUNDIS AVIBUS. ⟦p. 1⟧"
     }
    ]
   },
@@ -39,12 +39,12 @@
   {
    "type": "body",
    "lang": "lat",
-   "text": "Mundas aves Sacri Scriptores paucis attingunt, una columba excepta, de [?]\nplura habent, quam de reliquis omnibus simul sumtis. Itaque de [?]\nnecesse est agere accuratius. <i>Columbam</i> Hebraice יונה <i>jona</i> dici volunt a ver[?]\nינה <i>jana</i>, quod <i>opprimere</i> significat, quasi omnium praedae pateat. Quam[?]\nrem <i>poetae</i> proferuntur,",
+   "text": "Mundas aves Sacri Scriptores paucis attingunt, una columba excepta, de qua\nplura habent, quam de reliquis omnibus simul sumtis. Itaque de illa\nnecesse est agere accuratius. <i>Columbam</i> Hebraice יונה <i>jona</i> dici volunt a verbo\nינה <i>jana</i>, quod <i>opprimere</i> significat, quasi omnium praedae pateat. Quam in\nrem <i>poetae</i> proferuntur,",
    "marker": "",
    "runs": [
     {
      "lang": "lat",
-     "text": "Mundas aves Sacri Scriptores paucis attingunt, una columba excepta, de [?]\nplura habent, quam de reliquis omnibus simul sumtis. Itaque de [?]\nnecesse est agere accuratius. <i>Columbam</i> Hebraice יונה <i>jona</i> dici volunt a ver[?]\nינה <i>jana</i>, quod <i>opprimere</i> significat, quasi omnium praedae pateat. Quam[?]\nrem <i>poetae</i> proferuntur,"
+     "text": "Mundas aves Sacri Scriptores paucis attingunt, una columba excepta, de qua\nplura habent, quam de reliquis omnibus simul sumtis. Itaque de illa\nnecesse est agere accuratius. <i>Columbam</i> Hebraice יונה <i>jona</i> dici volunt a verbo\nינה <i>jana</i>, quod <i>opprimere</i> significat, quasi omnium praedae pateat. Quam in\nrem <i>poetae</i> proferuntur,"
     }
    ]
   },
@@ -63,24 +63,24 @@
   {
    "type": "body",
    "lang": "lat",
-   "text": "Quod videtur longe petitum. Itaque conabor aliquid afferre verosimilius.\n<i>rem. XLVI, 16.</i> et <i>L, 16. Hebraea</i> verba מפני חרב היונה <i>Graeci</i> reddunt ἀ[?]\nπροσώπου μαχαίρας Ἑλληνικῆς, <i>a facie gladii Graeci</i>; Hieronymus, <i>a facie</i> [?]\n<i>dii columbae</i>; Syrus, <i>a facie gladii</i> ܡܨܥܪܢܐ <i>cruciantis</i>; <i>R. Selomo</i> et <i>Kimchi</i>\nהאונסת, <i>opprimentis</i>: sed <i>Chaldaeus Paraphrastes</i>, קדם חרב סנאה דהיא [?]\nכחמר מרויא, <i>a facie gladii hostilis, qui est ut vinum inebrians</i>; quasi היונה [?]\na יין, id est, <i>a vino</i>, <i>Iod</i> et <i>Vau</i> permutatis. Indidem igitur יונה <i>jona</i> pro [?]\n<i>lumba</i> deduci queat. Quod si sequamur, יונה <i>jona</i> proprie erit οἰνὰς, [?]\nlumbae ferae genus, <i>a vino</i> sic appellatum. 1. Quia, <i>Eustathio</i> auctore, [?]\nοἰνωπὸς τὸ χρῶμα, id est, <i>quia vinum, vel uvas maturas colore refert.</i> 2. Q[?]\nvindemiae tempore fere apparet. <i>Aristoteles Hist.</i> lib. 8. cap. 3. Οἰνὰς δὲ [?] ⟦p. 2⟧\nφθινοπώρου καὶ φαίνεται μάλιστα, καὶ ἁλίσκεται· <i>Oenas</i> (vel, ut <i>Gaza</i> redd[?]\n<i>vinago) Autumno maxime apparet et capitur. Athenaeus</i> lib. 9. cap. 11. Ἡ [?]\nφὰψ, καὶ ἡ περιστερὰ ἀεὶ φαίνονται· ἡ δὲ οἰνὰς φθινοπώρῳ μόνῳ· <i>Palumb[?]</i>\n<i>minor et columba semper apparent; sed vinago solum autumno.</i> Sed huic etym[?]",
+   "text": "Quod videtur longe petitum. Itaque conabor aliquid afferre verosimilius. <i>Ie-</i>\n<i>rem. XLVI, 16.</i> et <i>L, 16. Hebraea</i> verba מפני חרב היונה <i>Graeci</i> reddunt ἀπὸ\nπροσώπου μαχαίρας Ἑλληνικῆς, <i>a facie gladii Graeci</i>; Hieronymus, <i>a facie gla-</i>\n<i>dii columbae</i>; Syrus, <i>a facie gladii</i> ܡܣܝܒܐ <i>cruciantis</i>; <i>R. Selomo</i> et <i>Kimchius</i>,\nהאונסת, <i>opprimentis</i>: sed <i>Chaldaeus Paraphrastes</i>, מן קדם חרב סנאה דהיא\nכחמר מרויא, <i>a facie gladii hostilis, qui est ut vinum inebrians</i>; quasi היונה fiat\na יין, id est, <i>a vino</i>, <i>Iod</i> et <i>Vau</i> permutatis. Indidem igitur יונה <i>jona</i> pro <i>co-</i>\n<i>lumba</i> deduci queat. Quod si sequamur, יונה <i>jona</i> proprie erit οἰνὰς, co-\nlumbae ferae genus, <i>a vino</i> sic appellatum. 1. Quia, <i>Eustathio</i> auctore, est\nοἰνωπὸς τὸ χρῶμα, id est, <i>quia vinum, vel uvas maturas colore refert</i>. 2. Quia\nvindemiae tempore fere apparet. <i>Aristoteles Hist.</i> lib. 8. cap. 3. Οἰνὰς δὲ τοῦ ⟦p. 2⟧\nφθινοπώρου καὶ φαίνεται μάλιστα, καὶ ἁλίσκεται· <i>Oenas</i> (vel, ut <i>Gaza</i> reddit,\n<i>vinago</i>) <i>Autumno maxime apparet et capitur</i>. <i>Athenaeus</i> lib. 9. cap. 11. Ἡ δὲ\nφὰψ, καὶ ἡ περιστερὰ ἀεὶ φαίνονται· ἡ δὲ οἰνὰς φθινοπώρῳ μόνῳ· <i>Palumbus</i>\n<i>minor et columba semper apparent; sed vinago solum autumno.</i> Sed huic etymo",
    "marker": "",
    "runs": [
     {
      "lang": "lat",
-     "text": "Quod videtur longe petitum. Itaque conabor aliquid afferre verosimilius.\n<i>rem. XLVI, 16.</i> et <i>L, 16. Hebraea</i> verba מפני חרב היונה <i>Graeci</i> reddunt ἀ[?]\nπροσώπου μαχαίρας Ἑλληνικῆς, <i>a facie gladii Graeci</i>; Hieronymus, <i>a facie</i> [?]\n<i>dii columbae</i>; Syrus, <i>a facie gladii</i> ܡܨܥܪܢܐ <i>cruciantis</i>; <i>R. Selomo</i> et <i>Kimchi</i>\nהאונסת, <i>opprimentis</i>: sed <i>Chaldaeus Paraphrastes</i>, קדם חרב סנאה דהיא [?]\nכחמר מרויא, <i>a facie gladii hostilis, qui est ut vinum inebrians</i>; quasi היונה [?]\na יין, id est, <i>a vino</i>, <i>Iod</i> et <i>Vau</i> permutatis. Indidem igitur יונה <i>jona</i> pro [?]\n<i>lumba</i> deduci queat. Quod si sequamur, יונה <i>jona</i> proprie erit οἰνὰς, [?]\nlumbae ferae genus, <i>a vino</i> sic appellatum. 1. Quia, <i>Eustathio</i> auctore, [?]\nοἰνωπὸς τὸ χρῶμα, id est, <i>quia vinum, vel uvas maturas colore refert.</i> 2. Q[?]\nvindemiae tempore fere apparet. <i>Aristoteles Hist.</i> lib. 8. cap. 3. Οἰνὰς δὲ [?] ⟦p. 2⟧\nφθινοπώρου καὶ φαίνεται μάλιστα, καὶ ἁλίσκεται· <i>Oenas</i> (vel, ut <i>Gaza</i> redd[?]\n<i>vinago) Autumno maxime apparet et capitur. Athenaeus</i> lib. 9. cap. 11. Ἡ [?]\nφὰψ, καὶ ἡ περιστερὰ ἀεὶ φαίνονται· ἡ δὲ οἰνὰς φθινοπώρῳ μόνῳ· <i>Palumb[?]</i>\n<i>minor et columba semper apparent; sed vinago solum autumno.</i> Sed huic etym[?]"
+     "text": "Quod videtur longe petitum. Itaque conabor aliquid afferre verosimilius. <i>Ie-</i>\n<i>rem. XLVI, 16.</i> et <i>L, 16. Hebraea</i> verba מפני חרב היונה <i>Graeci</i> reddunt ἀπὸ\nπροσώπου μαχαίρας Ἑλληνικῆς, <i>a facie gladii Graeci</i>; Hieronymus, <i>a facie gla-</i>\n<i>dii columbae</i>; Syrus, <i>a facie gladii</i> ܡܣܝܒܐ <i>cruciantis</i>; <i>R. Selomo</i> et <i>Kimchius</i>,\nהאונסת, <i>opprimentis</i>: sed <i>Chaldaeus Paraphrastes</i>, מן קדם חרב סנאה דהיא\nכחמר מרויא, <i>a facie gladii hostilis, qui est ut vinum inebrians</i>; quasi היונה fiat\na יין, id est, <i>a vino</i>, <i>Iod</i> et <i>Vau</i> permutatis. Indidem igitur יונה <i>jona</i> pro <i>co-</i>\n<i>lumba</i> deduci queat. Quod si sequamur, יונה <i>jona</i> proprie erit οἰνὰς, co-\nlumbae ferae genus, <i>a vino</i> sic appellatum. 1. Quia, <i>Eustathio</i> auctore, est\nοἰνωπὸς τὸ χρῶμα, id est, <i>quia vinum, vel uvas maturas colore refert</i>. 2. Quia\nvindemiae tempore fere apparet. <i>Aristoteles Hist.</i> lib. 8. cap. 3. Οἰνὰς δὲ τοῦ ⟦p. 2⟧\nφθινοπώρου καὶ φαίνεται μάλιστα, καὶ ἁλίσκεται· <i>Oenas</i> (vel, ut <i>Gaza</i> reddit,\n<i>vinago</i>) <i>Autumno maxime apparet et capitur</i>. <i>Athenaeus</i> lib. 9. cap. 11. Ἡ δὲ\nφὰψ, καὶ ἡ περιστερὰ ἀεὶ φαίνονται· ἡ δὲ οἰνὰς φθινοπώρῳ μόνῳ· <i>Palumbus</i>\n<i>minor et columba semper apparent; sed vinago solum autumno.</i> Sed huic etymo"
     }
    ]
   },
   {
    "type": "furniture",
    "lang": "lat",
-   "text": "repugn[?]",
+   "text": "repugnat",
    "marker": "",
    "runs": [
     {
      "lang": "lat",
-     "text": "repugn[?]"
+     "text": "repugnat"
     }
    ]
   }
@@ -94,17 +94,17 @@
   "reasoning_tokens": 0,
   "images": [
    [
-    1644,
+    1726,
     1512
    ],
    [
-    1644,
+    1726,
     1300
    ]
   ],
-  "input_tokens": 7854,
-  "output_tokens": 1355,
+  "input_tokens": 8157,
+  "output_tokens": 1375,
   "cost_usd": 0,
-  "seconds": 492.7
+  "seconds": 429.4
  }
 }

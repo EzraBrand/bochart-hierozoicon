@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "560 <i>De Columba Noachi.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "560 <i>De Columba Noachi.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VI.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VI."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Columba Noachi, et de Columbae specie, quae\nin Baptismo Christi apparuit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Columba Noachi, et de Columbae specie, quae\nin Baptismo Christi apparuit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Noachus</i>, in arca inclusus, cum ex corvo non didicisset, quod scire avebat,\nquousque decrevissent aquae diluvii, columbam quoque emisit, avem do-\ncilem et homini amicam, quaeque diu et procul volat, <i>Ps. V</i>, 7. et libenter\nhumi pascitur, quia est ἐκ τῶν σπερμολόγων, hocque habet a natura sua insi- ⟦p. 28⟧\ntum, ut ad nidum suum redeat undequaque, etiam e locis remotissimis. His\nigitur de caussis columba a <i>Noacho</i> emissa est; sed rediit non multo post, quia\nquietis locum non reperit: quamvis enim montium cacumina jamdudum appa-\nruissent, tamen in terra adhuc λιμναζομένῃ, ut ait <i>Iosephus</i>, id est, vel adhuc\nstagnante, vel lacunosa saltem et uliginosa, nihil tum erat firmum. At eadem,\nseptiduo post rursus emissa, rediit sub vesperam, ramum olivae in ore gestans.\nSunt ex <i>Hebraeis</i>, qui ramum illum velint in monte <i>Oliveti</i> prope <i>Ierusalem</i>\nfuisse decerptum, aut alibi in <i>Iudaea</i>, quae a diluvii aquis immunis fuerit. <i>Be-\nresith Rabba</i> cap. 33. מהיכן הביאה אותו רבי אבא בר כהנא אמר משבשושין\nשבארץ ישראל הביאה אותו רבי לוי אמר מהר המשחה הביאה אותו דלא\nטפת ארעה דישראל במבולא והוא שהקבה אומר ליחזקיאל ארץ לא מטוהרה\nועם ביום גשמה ולא היא, <i>Unde attulit</i> (columba ramum) <i>illum?</i> Rabbi Abba,\n<i>filius</i> Cahana (sacerdotis) <i>dixit: Ex arbustis terrae</i> Israelis <i>illum attulit.</i> R. Levi\n<i>dixit, Ex monte</i> Oliveto <i>attulit illum, quia terra</i> Israelis <i>diluvio non est submersa.\nProut Deus Sanctus Benedictus</i> Ezechieli <i>dixit</i> capitis vigesimi secundi versu vi-\ngesimo quarto: <i>Terra illa non mundata est, neque pluviis aspersa die indignatio-\nnis.</i> Quae sunt absurdissima, cum aquis diluvii operti fuisse legantur etiam\naltissimi montes, qui sub universo coelo sunt, <i>Gen. VII, 19.</i> Praeterea quor-\nsum terram <i>Chanaan</i>, nondum sacram, Deus ab inundatione praestitisset immu-\nnem? Quorsum <i>Noachum</i> jussisset arcam tanto molimine fabricare? Quidni\npotius eo secedere jussus est cum bestiis, feris et avibus? Et, si terrae <i>Chanaan</i>\npepercerunt aquae diluvii, quid factum est de illius terrae incolis? An hi quoque\ncommunem cladem evaserunt, et horum posteri scilicet alium parentem agno-\nscunt praeter <i>Noachum</i>, e quo totum genus humanum deduxit <i>Moses</i>? Et e tan-\nta clade superstites quomodo pelli permisit Deus a maledicto <i>Chanaane</i>, qui non\ndiu post diluvii tempus illorum sedem invaserit? Denique cum aquae vicinos\nmontes tot cubitis exsuperabant, quid obstabat, quo minus terram <i>Chanaan</i> ob-\nruerent? Dicent Dei virtute id factum, et fateor potuisse fieri. Sed, si mira-\ncula credimus cum scripta sunt, non tamen cuivis licet ea de suo sibi fingere,\nquod hi homines palam faciunt. Nam <i>Ezechielem</i> frustra citant, qui de diluvio",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Noachus</i>, in arca inclusus, cum ex corvo non didicisset, quod scire avebat,\nquousque decrevissent aquae diluvii, columbam quoque emisit, avem do-\ncilem et homini amicam, quaeque diu et procul volat, <i>Ps. V</i>, 7. et libenter\nhumi pascitur, quia est ἐκ τῶν σπερμολόγων, hocque habet a natura sua insi- ⟦p. 28⟧\ntum, ut ad nidum suum redeat undequaque, etiam e locis remotissimis. His\nigitur de caussis columba a <i>Noacho</i> emissa est; sed rediit non multo post, quia\nquietis locum non reperit: quamvis enim montium cacumina jamdudum appa-\nruissent, tamen in terra adhuc λιμναζομένῃ, ut ait <i>Iosephus</i>, id est, vel adhuc\nstagnante, vel lacunosa saltem et uliginosa, nihil tum erat firmum. At eadem,\nseptiduo post rursus emissa, rediit sub vesperam, ramum olivae in ore gestans.\nSunt ex <i>Hebraeis</i>, qui ramum illum velint in monte <i>Oliveti</i> prope <i>Ierusalem</i>\nfuisse decerptum, aut alibi in <i>Iudaea</i>, quae a diluvii aquis immunis fuerit. <i>Be-\nresith Rabba</i> cap. 33. מהיכן הביאה אותו רבי אבא בר כהנא אמר משבשושין\nשבארץ ישראל הביאה אותו רבי לוי אמר מהר המשחה הביאה אותו דלא\nטפת ארעה דישראל במבולא והוא שהקבה אומר ליחזקיאל ארץ לא מטוהרה\nועם ביום גשמה ולא היא, <i>Unde attulit</i> (columba ramum) <i>illum?</i> Rabbi Abba,\n<i>filius</i> Cahana (sacerdotis) <i>dixit: Ex arbustis terrae</i> Israelis <i>illum attulit.</i> R. Levi\n<i>dixit, Ex monte</i> Oliveto <i>attulit illum, quia terra</i> Israelis <i>diluvio non est submersa.\nProut Deus Sanctus Benedictus</i> Ezechieli <i>dixit</i> capitis vigesimi secundi versu vi-\ngesimo quarto: <i>Terra illa non mundata est, neque pluviis aspersa die indignatio-\nnis.</i> Quae sunt absurdissima, cum aquis diluvii operti fuisse legantur etiam\naltissimi montes, qui sub universo coelo sunt, <i>Gen. VII, 19.</i> Praeterea quor-\nsum terram <i>Chanaan</i>, nondum sacram, Deus ab inundatione praestitisset immu-\nnem? Quorsum <i>Noachum</i> jussisset arcam tanto molimine fabricare? Quidni\npotius eo secedere jussus est cum bestiis, feris et avibus? Et, si terrae <i>Chanaan</i>\npepercerunt aquae diluvii, quid factum est de illius terrae incolis? An hi quoque\ncommunem cladem evaserunt, et horum posteri scilicet alium parentem agno-\nscunt praeter <i>Noachum</i>, e quo totum genus humanum deduxit <i>Moses</i>? Et e tan-\nta clade superstites quomodo pelli permisit Deus a maledicto <i>Chanaane</i>, qui non\ndiu post diluvii tempus illorum sedem invaserit? Denique cum aquae vicinos\nmontes tot cubitis exsuperabant, quid obstabat, quo minus terram <i>Chanaan</i> ob-\nruerent? Dicent Dei virtute id factum, et fateor potuisse fieri. Sed, si mira-\ncula credimus cum scripta sunt, non tamen cuivis licet ea de suo sibi fingere,\nquod hi homines palam faciunt. Nam <i>Ezechielem</i> frustra citant, qui de diluvio"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "[?]",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "[?]"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1895,
+    1257
+   ],
+   [
+    1895,
+    1559
+   ]
+  ],
+  "input_tokens": 8763,
+  "output_tokens": 1675,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

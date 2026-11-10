@@ -74,6 +74,29 @@ DOCS = [
     {"slug": "chelonai", "kind": "entry", "entry": "chelonai", "vol": 2, "pages": list(range(520, 524)),
      "title": "Book 4, chapter 8: Altars like tortoises",
      "sub": "Vol. 2, pp. 520–523 · cols. 1090–1094 of 1663 · why the altars of the idols are ὡς χελῶναι, like tortoises, in the Greek of Hos 12:12; the chelonis of Holofernes (Jdt 14:13)"},
+    # Tranche 2 (10-Nov-2026): Part 2 (the birds), Book 1 (the clean birds), chs. 1-7, the dove. The
+    # column numbers of 1663 begin again at 1 in Part 2.
+    {"slug": "jonah", "kind": "entry", "entry": "jonah", "vol": 2, "pages": list(range(524, 533)),
+     "title": "Part 2, Book 1, chapter 1: The Hebrew name of the dove",
+     "sub": "Vol. 2, pp. 524–532 · cols. 1–8 of 1663 (Part 2) · Part 2, the birds; Book 1, the clean birds. יונה jonah, the dove's Hebrew name, and its etymology"},
+    {"slug": "columba-pennae", "kind": "entry", "entry": "columba-pennae", "vol": 2, "pages": list(range(533, 545)),
+     "title": "Part 2, Book 1, chapter 2: The dove's feathers, neck, eyes, moaning and flight",
+     "sub": "Vol. 2, pp. 533–544 · cols. 9–16 of 1663 (Part 2) · the dove's feathers, neck, eyes, moaning and flight in the Bible and the ancient authors"},
+    {"slug": "columbaria", "kind": "entry", "entry": "columbaria", "vol": 2, "pages": list(range(545, 549)),
+     "title": "Part 2, Book 1, chapter 3: The dwellings of doves",
+     "sub": "Vol. 2, pp. 545–548 · cols. 17–19 of 1663 (Part 2) · dovecotes, rocks and clefts (Isa 60:8, Song 2:14, Jer 48:28)"},
+    {"slug": "columba-mores", "kind": "entry", "entry": "columba-mores", "vol": 2, "pages": list(range(549, 557)),
+     "title": "Part 2, Book 1, chapter 4: The dove's simplicity, gentleness, chastity and timidity",
+     "sub": "Vol. 2, pp. 549–556 · cols. 20–25 of 1663 (Part 2) · the dove's simplicity, gentleness, chastity and timidity (Matt 10:16, Hos 7:11)"},
+    {"slug": "columba-sacrificia", "kind": "entry", "entry": "columba-sacrificia", "vol": 2, "pages": list(range(557, 560)),
+     "title": "Part 2, Book 1, chapter 5: The sacrifices of doves and turtledoves",
+     "sub": "Vol. 2, pp. 557–559 · cols. 26–27 of 1663 (Part 2) · the doves and turtledoves of the Law's sacrifices"},
+    {"slug": "columba-noachi", "kind": "entry", "entry": "columba-noachi", "vol": 2, "pages": list(range(560, 572)),
+     "title": "Part 2, Book 1, chapter 6: Noah's dove, and the dove at the baptism of Christ",
+     "sub": "Vol. 2, pp. 560–571 · cols. 28–38 of 1663 (Part 2) · Noah's dove and the olive branch (Gen 8); the form of a dove at the baptism of Christ (Matt 3:16)"},
+    {"slug": "chiryonim", "kind": "entry", "entry": "chiryonim", "vol": 2, "pages": list(range(572, 590)),
+     "title": "Part 2, Book 1, chapter 7: Chiryonim, dove's dung or chickpeas",
+     "sub": "Vol. 2, pp. 572–589 · cols. 39–50 of 1663 (Part 2) · חריונים chiryonim or דביונים dibyonim (2 Kgs 6:25), sold dear in the siege of Samaria, is a kind of chickpea, not dove's dung"},
 ]
 CONTENTS = []
 
@@ -427,7 +450,8 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: vol. 2, pp. 409–523 (Book 3, chs. 33–36, and all of Book 4, the oviparous quadrupeds).</p>
+far: vol. 2, pp. 409–589 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
+chs. 1–7, the dove).</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
 <ul class="docs">{items}</ul>

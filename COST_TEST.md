@@ -54,6 +54,32 @@ of the 283 doubtful readings and changes was done by 4 Opus subagents (one per p
 Result: 30 proposals accepted, 14 changes undone (mostly the ου ligature and the φ of this type read
 as ε and Φ), 18 corrections from the print. Catchwords read into the body text: 12 pages.
 
+## Tranche 2 (10-Nov-2026): Part 2, Book 1, chs. 1-7, the dove (66 new pages, p. 524 redone)
+
+| Step | Model | Lines / pages | Cost |
+|---|---|---|---|
+| OCR, compact (67 pages; p. 524 again, its tranche-1 crop had cut the line ends) | Opus 5.5 @low + Flash 3.8 @low, batch | 67 + 67 | about $3.7 |
+| Image judge | Opus 5.5 @low, batch, two batches (354 + 790 lines) | 1,144 lines | about $2.9 |
+| Translation, 7 chapters in parallel | Opus 5.5 @low, batch | 7 batches | about $1.7 |
+| **Total** (key usage of the day) | | | **$8.23** ($0.125 a page) |
+
+Wall-clock about 3 h, of which: the Flash OCR batch took 26 min (Opus 7 min); the judge was run
+twice because `mdz_ocr.py` had not been run for pp. 545-590 and `check.py` then flagged each of those
+pages as one block (fixed: an absent reader is skipped and reported). The scan check of 219 items
+(76 + 63 + 80) was done by 3 subagents (Claude Fable 5.1) in parallel, one per page group, with
+`logs/review_prompt_t2.md`; `apply_review.py` turned their decisions into the lists. Result: 52
+changes confirmed, 17 undone (again the ȣ ligature and the lower-case φ of this type, and three
+times قلي → قلى), 40 proposals accepted, 26 corrections from the print (misprints kept: *aleis*,
+*vent*, *filins*, *effissum*, *eum*; a Hebrew line read in visual order on p. 560; the Greek article
+τοῦ read as Hebrew דא on p. 589; a Syriac word on pp. 568 and 578; the Ethiopic መዐንቅ፡ on p. 590).
+
+New in the code: catchwords dropped automatically (`entry.drop_catchwords`; 6 on these pages),
+`(^{6})` and `^{(ᵇ)}` note-mark forms normalized or listed instead of applied, `names_candidates.py`
+and 43 new rows in `names.json` (Kimchi, Ibn Ezra, Maimonides, Avicenna, the Fathers...; the 12
+earlier chapters re-finished with them at no cost), 40 more Bible-book abbreviations. The page QA
+found three misread margin column numbers (pp. 535, 557, 567), read on the scan and fixed;
+col. 34 is not printed on pp. 567-568.
+
 ## Where the money goes now (one chapter, 22 pages)
 
 | Step | Model | Cost | Share |

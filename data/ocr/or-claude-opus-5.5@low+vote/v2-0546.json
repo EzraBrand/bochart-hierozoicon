@@ -1,0 +1,147 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "546 <i>De Columbarum sedibus.</i> P.II. L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "546 <i>De Columbarum sedibus.</i> P.II. L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>latet</i> בחגוי הסלע בסתר המדרגה, <i>in fissuris petrae, in latibulo praecipitii,</i> He-\nbraei <i>Israelitas</i> intelligunt, quos in exitu ex <i>Aegypto</i> ab una parte persequebatur\n<i>Pharao,</i> ab altera concludebat desertum, anguibus plenum. Unde <i>Chaldaeus</i>\ninterpres, הות מתילא כנישתא דישראל ליונתא דסגירא בחגוי טנרא והיוא\nמעיק לה מגיו וגצא מעיק לה מברא, <i>Similis erat ecclesia</i> Israelitica <i>columbae,\nquae inclusa est in fissuris petrae. Et serpens illam intrinsecus obsidet, et accipiter\nextrinsecus.</i> Quod <i>R. Selomo</i> pluribus persequitur. Sic apud <i>Smyrnaeum</i>\nlib. 12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>latet</i> בחגוי הסלע בסתר המדרגה, <i>in fissuris petrae, in latibulo praecipitii,</i> He-\nbraei <i>Israelitas</i> intelligunt, quos in exitu ex <i>Aegypto</i> ab una parte persequebatur\n<i>Pharao,</i> ab altera concludebat desertum, anguibus plenum. Unde <i>Chaldaeus</i>\ninterpres, הות מתילא כנישתא דישראל ליונתא דסגירא בחגוי טנרא והיוא\nמעיק לה מגיו וגצא מעיק לה מברא, <i>Similis erat ecclesia</i> Israelitica <i>columbae,\nquae inclusa est in fissuris petrae. Et serpens illam intrinsecus obsidet, et accipiter\nextrinsecus.</i> Quod <i>R. Selomo</i> pluribus persequitur. Sic apud <i>Smyrnaeum</i>\nlib. 12."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἴρηξ σεῦε πέλειαν· ἐπειγομένη δ᾽ ἄρα κείνη\nΚηραμον ἐς πέτρης κατεδύσατο· — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἴρηξ σεῦε πέλειαν· ἐπειγομένη δ᾽ ἄρα κείνη\nΚηραμον ἐς πέτρης κατεδύσατο· — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Accipiter columbam persequebatur: illa autem, cum urgeretur, in scopuli cavernam\nse subduxit.</i> Quod ex his <i>Homeri</i> sumptum <i>Iliad.</i> φ᾽. versu 495.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Accipiter columbam persequebatur: illa autem, cum urgeretur, in scopuli cavernam\nse subduxit.</i> Quod ex his <i>Homeri</i> sumptum <i>Iliad.</i> φ᾽. versu 495."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — φύγεν, ὥς τε πέλεια,\nἍ ῥά θ᾽ ὑφ᾽ ἴρηκος κοίλην εἰσέπτατο πέτρην·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — φύγεν, ὥς τε πέλεια,\nἍ ῥά θ᾽ ὑφ᾽ ἴρηκος κοίλην εἰσέπτατο πέτρην·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Fugit ut columba, quae ab accipitre volavit in cavam petram, in antrum.</i> Quam-\nvis etiam extra metum columbas in antris nidificare suadent haec <i>Poetae:</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Fugit ut columba, quae ab accipitre volavit in cavam petram, in antrum.</i> Quam-\nvis etiam extra metum columbas in antris nidificare suadent haec <i>Poetae:</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Qualis spelunca subito commota columba,\nCui domus, et dulces latebroso in pumice nidi.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qualis spelunca subito commota columba,\nCui domus, et dulces latebroso in pumice nidi.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et quod in <i>Diodoro Semiramis</i> exposita fuisse legitur εἰς τινας ἐρήμους, καὶ πε-\nτρώδεις τόπους, ἐν οἷς πολλοῦ πλήθους περιστερῶν ἐννοσσεύειν εἰωθότος, <i>in qui-\nbusdam desertis et petrosis locis, in quibus cum magna columbarum copia nidificare\nsoleret,</i> etc. Si quidem ibi agatur de columbis proprie dictis. Etiam <i>Ezech.\nVII, 16.</i> qui ex magna clade evaserunt, oberrare leguntur in montibus כיוני\nהגיאות, <i>ut columbae convallium.</i> Quae nempe metu aucupis, aut accipitris, na-\nturali sede deserta, coguntur alio secedere, ut vitae suae consulant. Columbis\nconvallium montanae opponuntur, quomodo ferae domesticis. Sic <i>Hesychio\nSemiramis</i> est περιστερὰ ὄρειος, quod jam ante est expositum. Et in <i>Alcamus</i>\nالعزف <i>Alozpho</i> est الحمام الطورانية <i>columba montana.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et quod in <i>Diodoro Semiramis</i> exposita fuisse legitur εἰς τινας ἐρήμους, καὶ πε-\nτρώδεις τόπους, ἐν οἷς πολλοῦ πλήθους περιστερῶν ἐννοσσεύειν εἰωθότος, <i>in qui-\nbusdam desertis et petrosis locis, in quibus cum magna columbarum copia nidificare\nsoleret,</i> etc. Si quidem ibi agatur de columbis proprie dictis. Etiam <i>Ezech.\nVII, 16.</i> qui ex magna clade evaserunt, oberrare leguntur in montibus כיוני\nהגיאות, <i>ut columbae convallium.</i> Quae nempe metu aucupis, aut accipitris, na-\nturali sede deserta, coguntur alio secedere, ut vitae suae consulant. Columbis\nconvallium montanae opponuntur, quomodo ferae domesticis. Sic <i>Hesychio\nSemiramis</i> est περιστερὰ ὄρειος, quod jam ante est expositum. Et in <i>Alcamus</i>\nالعزف <i>Alozpho</i> est الحمام الطورانية <i>columba montana.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Fallor, aut etiam columbae arborum, vel lucorum memorantur in titulo ⟦p. 18⟧\n<i>Psal. LVI.</i> in cujus versione puto interpretes hactenus frustra desudasse. Nam,\nut veteres praeteream, qui in diversissima abeunt, quis <i>Selomonem,</i> aut <i>Kimchium</i>\nferat, <i>Hebraea</i> verba על יונת אלם רחוקים, reddentes, <i>de columba silentii remo-\ntorum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fallor, aut etiam columbae arborum, vel lucorum memorantur in titulo ⟦p. 18⟧\n<i>Psal. LVI.</i> in cujus versione puto interpretes hactenus frustra desudasse. Nam,\nut veteres praeteream, qui in diversissima abeunt, quis <i>Selomonem,</i> aut <i>Kimchium</i>\nferat, <i>Hebraea</i> verba על יונת אלם רחוקים, reddentes, <i>de columba silentii remo-\ntorum,</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "ribus scissae rupis. Veterum interpretum\nhariolationes, quae nihil iuvant sententiae\nintelligentiam, enumeravit I. D. MICHAE-\nLIS in <i>Observatt. Critt. et Philologg. ad\nIerem.</i> p. 256.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ribus scissae rupis. Veterum interpretum\nhariolationes, quae nihil iuvant sententiae\nintelligentiam, enumeravit I. D. MICHAE-\nLIS in <i>Observatt. Critt. et Philologg. ad\nIerem.</i> p. 256."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1782,
+    1679
+   ],
+   [
+    1782,
+    1121
+   ]
+  ],
+  "input_tokens": 8359,
+  "output_tokens": 1669,
+  "cost_usd": 0,
+  "seconds": 429.4,
+  "vote": "2 decisions from v2-524-590"
+ }
+}

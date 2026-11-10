@@ -1,0 +1,242 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "586 <i>Prob.</i>, חריונים, <i>vel</i> רביונים <i>esse ciceris genus,</i> P.II. L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "586 <i>Prob.</i>, חריונים, <i>vel</i> רביונים <i>esse ciceris genus,</i> P.II. L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "frugalium aut tenuiorum cibus est cicer. Ita in <i>Aristophanis Pace</i>, ut jam su-\npra notatum, rusticus quidam optat esse cum sodalibus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "frugalium aut tenuiorum cibus est cicer. Ita in <i>Aristophanis Pace</i>, ut jam su-\npra notatum, rusticus quidam optat esse cum sodalibus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀνθρακίζων τοὐρεβίνθου,\nΤήν τε φηγὸν ἐμπυρεύων·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀνθρακίζων τοὐρεβίνθου,\nΤήν τε φηγὸν ἐμπυρεύων·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cicer super carbones torrens, et faginam glandem ad ignem assans.</i> In <i>Alexi Co-\nmico</i> apud <i>Athenaeum</i> libro secundo vetula quaedam, inopiam suam deflens, in-\nter plebejos cibos, quibus miseram vitam aegre sustinet, ἐρέβινθον et λάθυρον\nrecenset, id est, <i>cicer</i> et <i>cicerculam.</i> <i>Horatius</i> libri primi <i>Satyra</i> sexta, ut se\nparvo contentum esse doceat, et victum tenuem sibi sufficere,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cicer super carbones torrens, et faginam glandem ad ignem assans.</i> In <i>Alexi Co-\nmico</i> apud <i>Athenaeum</i> libro secundo vetula quaedam, inopiam suam deflens, in-\nter plebejos cibos, quibus miseram vitam aegre sustinet, ἐρέβινθον et λάθυρον\nrecenset, id est, <i>cicer</i> et <i>cicerculam.</i> <i>Horatius</i> libri primi <i>Satyra</i> sexta, ut se\nparvo contentum esse doceat, et victum tenuem sibi sufficere,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>inde domum me</i>\n<i>Ad porri et ciceris refero lachanique catinum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>inde domum me</i>\n<i>Ad porri et ciceris refero lachanique catinum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>De Arte</i> iis, qui ex fricto cicere et nucibus victitant, divites sic opponit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>De Arte</i> iis, qui ex fricto cicere et nucibus victitant, divites sic opponit,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Offenduntur enim, quibus est equus, et pater, et res,</i>\n<i>Nec si quid fricti ciceris probat, aut nucis emptor,</i>\n<i>Aequis accipiunt animis, donantve corona.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Offenduntur enim, quibus est equus, et pater, et res,</i>\n<i>Nec si quid fricti ciceris probat, aut nucis emptor,</i>\n<i>Aequis accipiunt animis, donantve corona.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Unde illud <i>Martialis</i> lib. 5. Epigramm. 79.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Unde illud <i>Martialis</i> lib. 5. Epigramm. 79."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et fervens cicer, et tepens lupinus,</i>\n<i>Parva est coenula, quis potest negare?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et fervens cicer, et tepens lupinus,</i>\n<i>Parva est coenula, quis potest negare?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et lib. 1. Epigramm. 104. ubi de avaro <i>Scaevola</i>, qui genium suum defraudabat:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et lib. 1. Epigramm. 104. ubi de avaro <i>Scaevola</i>, qui genium suum defraudabat:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et</i> Vejentani <i>bibitur fax crassa rubelli:</i>\n<i>Asse cicer tepidum constat, et asse</i> Venus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et</i> Vejentani <i>bibitur fax crassa rubelli:</i>\n<i>Asse cicer tepidum constat, et asse</i> Venus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et ejusdem libri Epigramm. 42.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et ejusdem libri Epigramm. 42."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — — — <i>otiosae</i>\n<i>Vendit qui madidum cicer coronae.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — — — <i>otiosae</i>\n<i>Vendit qui madidum cicer coronae.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Id est, qui plebeculae feriatae, Circoque, et scenae vacanti vilissimos cibos ven-\nditat, in quibus maceratum cicer. Eodem facit, quod <i>Romae</i> in spectaculis qui\nhonores ambibant, plebeculae gratiam captaturi, inter missilia, cum fabis et\nlupinis cicer spargebant. Quo alludunt haec <i>Horatii</i> lib. 2. <i>Satyra</i> 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Id est, qui plebeculae feriatae, Circoque, et scenae vacanti vilissimos cibos ven-\nditat, in quibus maceratum cicer. Eodem facit, quod <i>Romae</i> in spectaculis qui\nhonores ambibant, plebeculae gratiam captaturi, inter missilia, cum fabis et\nlupinis cicer spargebant. Quo alludunt haec <i>Horatii</i> lib. 2. <i>Satyra</i> 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>In cicere, atque faba, bona tu perdasque lupinis,</i>\n<i>Latus ut in</i> Circo <i>spatiere, atque aeneus ut stes.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In cicere, atque faba, bona tu perdasque lupinis,</i>\n<i>Latus ut in</i> Circo <i>spatiere, atque aeneus ut stes.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et haec <i>Persii Satyra</i> 5.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et haec <i>Persii Satyra</i> 5."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>cicer ingere large</i>\n<i>Rixanti populo, nostra ut</i> Floralia <i>possint</i>\n<i>Aprici meminisse senes.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>cicer ingere large</i>\n<i>Rixanti populo, nostra ut</i> Floralia <i>possint</i>\n<i>Aprici meminisse senes.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Sic",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sic"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1715,
+    1622
+   ],
+   [
+    1715,
+    1186
+   ]
+  ],
+  "input_tokens": 8157,
+  "output_tokens": 1467,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

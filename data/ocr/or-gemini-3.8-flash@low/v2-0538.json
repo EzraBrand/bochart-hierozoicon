@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "538\nDe Columbae oculis.\nP. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "538\nDe Columbae oculis.\nP. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ملاعب ظله <i>mulaibo dhillihi, ludens cum umbra sua</i>, et asseritur esse في\nجنس العصافير <i>in genere passerum, seu avicularum</i>. Itaque non\nest graculus, in qua sententia quandoque fui, quia de iis dicit <i>Tzetzes</i> <i>Chilia-\nde</i> 4. Hist. 119.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ملاعب ظله <i>mulaibo dhillihi, ludens cum umbra sua</i>, et asseritur esse في\nجنس العصافير <i>in genere passerum, seu avicularum</i>. Itaque non\nest graculus, in qua sententia quandoque fui, quia de iis dicit <i>Tzetzes</i> <i>Chilia-\nde</i> 4. Hist. 119."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— εἴπερ χέεις ἔλαιον ἔν τινι λεκανίσκῃ,\nΠρὸς τὴν σκιὰν τὴν ἑαυτῶν τοὺς κολοιοὺς κρατήσῃς.\nΝαρκίσσους ἄλλους Λάκωνας ὄντας τῶν Φιλοσκίων.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— εἴπερ χέεις ἔλαιον ἔν τινι λεκανίσκῃ,\nΠρὸς τὴν σκιὰν τὴν ἑαυτῶν τοὺς κολοιοὺς κρατήσῃς.\nΝαρκίσσους ἄλλους Λάκωνας ὄντας τῶν Φιλοσκίων."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Si in parva pelve oleum fundas, ad umbram suam graculos detinebis, ac si essent\nNarcissi Lacones, ex iis, qui propriam umbram amant</i>. Obiter nota, <i>Narcis-\nsum</i> non fuisse Laconem, sed <i>Boeotum</i>, ut testantur <i>Ovidius</i> <i>Metam</i>. lib. 3. Fab. 5.\n<i>Conon</i> Hist. 24. <i>Strabo</i> lib. 9. <i>Hyginus</i> Fab. 271. <i>Pausanias</i> in Boeoticis, <i>Clau-\ndianus</i> lib. 2. <i>de raptu</i>, atque alii sine numero. Tamen <i>Laconem</i> facit <i>Tzetzes</i>\nhic, et <i>Chil</i>. 1. Hist. 9. quasi fuerit <i>Hyacinthi</i> popularis, quem illi confert Hist.\n11. Quod μνημονικὸν σφάλμα in eo ferendum non est, qui in eo ipso loco ita\nse jactat,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Si in parva pelve oleum fundas, ad umbram suam graculos detinebis, ac si essent\nNarcissi Lacones, ex iis, qui propriam umbram amant</i>. Obiter nota, <i>Narcis-\nsum</i> non fuisse Laconem, sed <i>Boeotum</i>, ut testantur <i>Ovidius</i> <i>Metam</i>. lib. 3. Fab. 5.\n<i>Conon</i> Hist. 24. <i>Strabo</i> lib. 9. <i>Hyginus</i> Fab. 271. <i>Pausanias</i> in Boeoticis, <i>Clau-\ndianus</i> lib. 2. <i>de raptu</i>, atque alii sine numero. Tamen <i>Laconem</i> facit <i>Tzetzes</i>\nhic, et <i>Chil</i>. 1. Hist. 9. quasi fuerit <i>Hyacinthi</i> popularis, quem illi confert Hist.\n11. Quod μνημονικὸν σφάλμα in eo ferendum non est, qui in eo ipso loco ita\nse jactat,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Οὐδὲ γὰρ μνημονέστερον τοῦ Τζέτζου Θεὸς ἄλλον\nἌνδρα τῶν πρίν τε, καὶ τῶν νῦν ἐξέφηνεν ἐν βίῳ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Οὐδὲ γὰρ μνημονέστερον τοῦ Τζέτζου Θεὸς ἄλλον\nἌνδρα τῶν πρίν τε, καὶ τῶν νῦν ἐξέφηνεν ἐν βίῳ."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Neque enim magis Tzetze memorem Deus ullum alium in vitam produxit, eorum,\nqui fuerunt, aut nunc sunt</i>. Et paullo ante dixerat, se scire omnes libros. Sed,\nut eo redeamus, unde digressi sumus, <i>Hebraei</i>, quae nos ad columbas, ut ad co-\nlumbarum oculos referant, sacra verba sic reddunt, <i>Oculi ejus ut columbarum\n(oculi) ad decursus aquarum, lacte loti, insiti in plenitudine</i>, id est, locum suum\nimplentes ut gemma palam. Quod <i>Hebraice</i> dicitur אבן מלואת, <i>plenitudo</i>, vel\n<i>impletio lapidis</i>, Exod. XXVIII, 17. Ita <i>Aben Ezra</i> et <i>R. Selomo</i>, qui oculos\ndesignari vult לא בולטות יותר מדאי ולא שיקעות אלא יושבות מלאת גומא\nשלהם, <i>non plus aequo prominentes, aut depressos, sed ita sitos, ut fossam suam\nimpleant</i>. Atque id sequuntur novi interpretes. Sed in hac interpretatione non-\nnulla desidero: primo, quod sic color lacteus oculis tribui videtur, quorum\npraecipua pars, id est, pupilla, nigra est, aut coerulea, etc. Secundo, quod,\nquamvis lapides pala inclusi, <i>Hebraice</i> dicantur אבני מלואים, <i>lapides impletio-\nnum</i>, id est, qui palam implent, et insitio lapidis in palam אבן מלואת, <i>imple-\ntio lapidis</i>, tamen lapis, in palam insitus, nusquam dicitur יושב על מלאת, <i>ma-\nnens ad plenitudinem</i>. Neque vero id dici potest. Quis enim pecuniam ad sacci,\naut vinum ad dolii plenitudinem manere vel stare dixerit, cum saccus pecunia,\naut vinum dolio plenum est (3).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Neque enim magis Tzetze memorem Deus ullum alium in vitam produxit, eorum,\nqui fuerunt, aut nunc sunt</i>. Et paullo ante dixerat, se scire omnes libros. Sed,\nut eo redeamus, unde digressi sumus, <i>Hebraei</i>, quae nos ad columbas, ut ad co-\nlumbarum oculos referant, sacra verba sic reddunt, <i>Oculi ejus ut columbarum\n(oculi) ad decursus aquarum, lacte loti, insiti in plenitudine</i>, id est, locum suum\nimplentes ut gemma palam. Quod <i>Hebraice</i> dicitur אבן מלואת, <i>plenitudo</i>, vel\n<i>impletio lapidis</i>, Exod. XXVIII, 17. Ita <i>Aben Ezra</i> et <i>R. Selomo</i>, qui oculos\ndesignari vult לא בולטות יותר מדאי ולא שיקעות אלא יושבות מלאת גומא\nשלהם, <i>non plus aequo prominentes, aut depressos, sed ita sitos, ut fossam suam\nimpleant</i>. Atque id sequuntur novi interpretes. Sed in hac interpretatione non-\nnulla desidero: primo, quod sic color lacteus oculis tribui videtur, quorum\npraecipua pars, id est, pupilla, nigra est, aut coerulea, etc. Secundo, quod,\nquamvis lapides pala inclusi, <i>Hebraice</i> dicantur אבני מלואים, <i>lapides impletio-\nnum</i>, id est, qui palam implent, et insitio lapidis in palam אבן מלואת, <i>imple-\ntio lapidis</i>, tamen lapis, in palam insitus, nusquam dicitur יושב על מלאת, <i>ma-\nnens ad plenitudinem</i>. Neque vero id dici potest. Quis enim pecuniam ad sacci,\naut vinum ad dolii plenitudinem manere vel stare dixerit, cum saccus pecunia,\naut vinum dolio plenum est (3)."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "In",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>De plenitudine</i> aquarum, quemad-\nmodum מלאת supra explicavit Bochartus, eam vocem intellexerunt quoque interpre-\ntes veteres unanimi consensu. Vide HUF-\nNAGELII",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De plenitudine</i> aquarum, quemad-\nmodum מלאת supra explicavit Bochartus, eam vocem intellexerunt quoque interpre-\ntes veteres unanimi consensu. Vide HUF-\nNAGELII"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1760,
+    1131
+   ],
+   [
+    1760,
+    1697
+   ]
+  ],
+  "input_tokens": 3388,
+  "output_tokens": 1282,
+  "cost_usd": 0,
+  "seconds": 1587.2
+ }
+}

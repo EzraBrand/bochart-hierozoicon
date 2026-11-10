@@ -1,74 +1,1086 @@
 {
  "note": "Reviewed table of names, maintained by hand (TRANSLATION_RULES.md section 4). 'forms': the Latin forms as printed (any case); 'english': the one form the translation uses; 'id': an identification that names.py adds as ' [=id]' at the first use in a document (empty: none). Classical authors get their usual English name and no id; Arabic and Jewish authors and works keep Bochart's form, with an id. basis: 'standard'; 'context' = from the passage; 'general knowledge' = likely, not checked in a catalogue; 'guess' = check. Built from Book 3 ch. 33 on 01-Nov-2026.",
  "items": [
-  {"forms": ["Hieronymus", "Hieronymi", "Hieronymo", "Hieronymum"], "english": "Jerome", "id": "", "basis": "standard"},
-  {"forms": ["Plinius", "Plinii", "Plinio", "Plinium"], "english": "Pliny", "id": "", "basis": "standard"},
-  {"forms": ["Aelianus", "Aeliani", "Aeliano", "Aelianum"], "english": "Aelian", "id": "", "basis": "standard"},
-  {"forms": ["Aristoteles", "Aristotelis", "Aristoteli"], "english": "Aristotle", "id": "", "basis": "standard"},
-  {"forms": ["Theophrastus", "Theophrasti"], "english": "Theophrastus", "id": "", "basis": "standard"},
-  {"forms": ["Herodotus", "Herodoti", "Herodoto"], "english": "Herodotus", "id": "", "basis": "standard"},
-  {"forms": ["Photius", "Photii"], "english": "Photius", "id": "", "basis": "standard"},
-  {"forms": ["Hesychius"], "english": "Hesychius", "id": "", "basis": "standard"},
-  {"forms": ["Nicandro", "Nicander"], "english": "Nicander", "id": "", "basis": "standard"},
-  {"forms": ["Oppianus", "Oppiani"], "english": "Oppian", "id": "", "basis": "standard"},
-  {"forms": ["Solinus"], "english": "Solinus", "id": "", "basis": "standard"},
-  {"forms": ["Strabone", "Strabo"], "english": "Strabo", "id": "", "basis": "standard"},
-  {"forms": ["Polybio"], "english": "Polybius", "id": "", "basis": "standard"},
-  {"forms": ["Galeno", "Galenus"], "english": "Galen", "id": "", "basis": "standard"},
-  {"forms": ["Erotiano"], "english": "Erotian", "id": "", "basis": "standard"},
-  {"forms": ["Varro"], "english": "Varro", "id": "", "basis": "standard"},
-  {"forms": ["Martialis"], "english": "Martial", "id": "", "basis": "standard"},
-  {"forms": ["Philoni"], "english": "Philo", "id": "", "basis": "standard"},
-  {"forms": ["Theodoretus"], "english": "Theodoret", "id": "", "basis": "standard"},
-  {"forms": ["Basilius"], "english": "Basil", "id": "", "basis": "standard"},
-  {"forms": ["Apollinaris"], "english": "Apollinaris", "id": "", "basis": "standard"},
-  {"forms": ["Augustinus"], "english": "Augustine", "id": "", "basis": "standard"},
-  {"forms": ["Arnobius"], "english": "Arnobius", "id": "", "basis": "standard"},
-  {"forms": ["Beda"], "english": "Bede", "id": "", "basis": "standard"},
-  {"forms": ["Seniores", "Seniorum", "Senioribus"], "english": "the Elders", "id": "the translators of the Septuagint", "basis": "context"},
-  {"forms": ["Vulgatus"], "english": "the Vulgate translator", "id": "", "basis": "standard"},
-  {"forms": ["Onkelo", "Onkelos"], "english": "Onkelos", "id": "Targum Onkelos", "basis": "standard"},
-  {"forms": ["Ionathane"], "english": "Jonathan", "id": "Targum Jonathan", "basis": "standard"},
-  {"forms": ["Alcamus"], "english": "Alcamus", "id": "al-Qāmūs al-muḥīṭ, the Arabic dictionary of al-Fīrūzābādī, which Bochart cites like an author", "basis": "general knowledge"},
-  {"forms": ["Damir", "Damire", "Damiris"], "english": "Damir", "id": "al-Damīrī, Ḥayāt al-ḥayawān", "basis": "general knowledge"},
-  {"forms": ["Giauhari", "Geuhario"], "english": "Giauhari", "id": "al-Jawharī, al-Ṣiḥāḥ", "basis": "general knowledge"},
-  {"forms": ["Abenbitar", "Abenbitare"], "english": "Abenbitar", "id": "Ibn al-Bayṭār", "basis": "general knowledge"},
-  {"forms": ["Ibnomar Ben Abdalbar"], "english": "Ibnomar Ben Abdalbar", "id": "Abū ʿUmar ibn ʿAbd al-Barr, author of al-Tamhīd", "basis": "guess"},
-  {"forms": ["Giggeji", "Giggeio", "Giggeius"], "english": "Giggeius", "id": "Antonio Giggei, Thesaurus linguae Arabicae (Milan 1632)", "basis": "general knowledge"},
-  {"forms": ["Golius"], "english": "Golius", "id": "Jacobus Golius, Lexicon Arabico-Latinum (1653)", "basis": "general knowledge"},
-  {"forms": ["Gabriel Sionita"], "english": "Gabriel Sionita", "id": "translator of al-Idrīsī's geography into Latin (Geographia Nubiensis, Paris 1619)", "basis": "general knowledge"},
-  {"forms": ["Baal Aruch"], "english": "Baal Aruch", "id": "Nathan ben Jehiel of Rome, the ʿArukh", "basis": "standard"},
-  {"forms": ["R. Isaacum, Selomonis"], "english": "R. Isaac, son of Solomon", "id": "Isaac ibn Sahula, Meshal ha-qadmoni", "basis": "general knowledge"},
-  {"forms": ["R. Gersom"], "english": "R. Gersom", "id": "Gershon ben Solomon of Arles, Shaʿar ha-shamayim (Porta coeli)", "basis": "general knowledge"},
-  {"forms": ["David de Pomis"], "english": "David de Pomis", "id": "David de Pomis, Ṣemaḥ David (Venice 1587), a Hebrew-Latin-Italian dictionary", "basis": "general knowledge"},
-  {"forms": ["Gesnerus", "Gesnero", "Gesnerum"], "english": "Gesner", "id": "Conrad Gesner, Historia animalium", "basis": "general knowledge"},
-  {"forms": ["Scaliger"], "english": "Scaliger", "id": "J. C. Scaliger, Exercitationes (1557)", "basis": "general knowledge"},
-  {"forms": ["Cardanum", "Cardanus"], "english": "Cardano", "id": "", "basis": "standard"},
-  {"forms": ["Agricola"], "english": "Agricola", "id": "Georgius Agricola", "basis": "general knowledge"},
-  {"forms": ["Stumpfius"], "english": "Stumpf", "id": "Johannes Stumpf, Swiss chronicle", "basis": "general knowledge"},
-  {"forms": ["Buxtorfius"], "english": "Buxtorf", "id": "", "basis": "standard"},
-  {"forms": ["Postellus"], "english": "Postel", "id": "Guillaume Postel", "basis": "standard"},
-  {"forms": ["Boderianus"], "english": "Boderianus", "id": "Guy Le Fèvre de la Boderie", "basis": "general knowledge"},
-  {"forms": ["Iunius"], "english": "Junius", "id": "Franciscus Junius, of the Tremellius-Junius Latin Bible", "basis": "general knowledge"},
-  {"forms": ["Camerarius"], "english": "Camerarius", "id": "", "basis": "standard"},
-  {"forms": ["Papirius Massonus"], "english": "Papire Masson", "id": "", "basis": "standard"},
-  {"forms": ["Petrus Quinqueranus"], "english": "Pierre Quiqueran de Beaujeu", "id": "De laudibus Provinciae", "basis": "general knowledge"},
-  {"forms": ["Teixeira"], "english": "Teixeira", "id": "Pedro Teixeira, Relaciones (1610)", "basis": "general knowledge"},
-  {"forms": ["Olearius"], "english": "Olearius", "id": "Adam Olearius, travels in Persia", "basis": "general knowledge"},
-  {"forms": ["Brucius", "Brucii", "BRUCIUM", "BRUCIUS", "BRUCE", "Bruce"], "english": "Bruce", "id": "James Bruce, Travels to discover the source of the Nile (1790)", "basis": "general knowledge"},
-  {"forms": ["SHAW", "Shaw"], "english": "Shaw", "id": "Thomas Shaw, Travels (1738)", "basis": "general knowledge"},
-  {"forms": ["Hasselquist"], "english": "Hasselquist", "id": "Fredrik Hasselquist, Iter Palaestinum (1757)", "basis": "general knowledge"},
-  {"forms": ["Hassencampio"], "english": "Hassencamp", "id": "", "basis": "standard"},
-  {"forms": ["Oedmannus", "OEDMANN"], "english": "Oedmann", "id": "Samuel Ödmann, Vermischte Sammlungen aus der Naturkunde", "basis": "context (Sammlungen)"},
-  {"forms": ["Maundrellii"], "english": "Maundrell", "id": "Henry Maundrell, Journey from Aleppo to Jerusalem", "basis": "general knowledge"},
-  {"forms": ["LUDOLFI"], "english": "Ludolf", "id": "", "basis": "standard"},
-  {"forms": ["SCHULTENSIUS"], "english": "Schultens", "id": "", "basis": "standard"},
-  {"forms": ["MICHAELIS"], "english": "Michaelis", "id": "", "basis": "standard"},
-  {"forms": ["SIMONIS"], "english": "Simonis", "id": "", "basis": "standard"},
-  {"forms": ["Buffonio"], "english": "Buffon", "id": "", "basis": "standard"},
-  {"forms": ["Blumenbachius"], "english": "Blumenbach", "id": "", "basis": "standard"},
-  {"forms": ["Linnaeo"], "english": "Linnaeus", "id": "", "basis": "standard"},
-  {"forms": ["Pallasio"], "english": "Pallas", "id": "", "basis": "standard"},
-  {"forms": ["Pennantio"], "english": "Pennant", "id": "", "basis": "standard"}
+  {
+   "forms": [
+    "Hieronymus",
+    "Hieronymi",
+    "Hieronymo",
+    "Hieronymum"
+   ],
+   "english": "Jerome",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Plinius",
+    "Plinii",
+    "Plinio",
+    "Plinium"
+   ],
+   "english": "Pliny",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Aelianus",
+    "Aeliani",
+    "Aeliano",
+    "Aelianum"
+   ],
+   "english": "Aelian",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Aristoteles",
+    "Aristotelis",
+    "Aristoteli"
+   ],
+   "english": "Aristotle",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Theophrastus",
+    "Theophrasti"
+   ],
+   "english": "Theophrastus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Herodotus",
+    "Herodoti",
+    "Herodoto"
+   ],
+   "english": "Herodotus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Photius",
+    "Photii"
+   ],
+   "english": "Photius",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Hesychius"
+   ],
+   "english": "Hesychius",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Nicandro",
+    "Nicander"
+   ],
+   "english": "Nicander",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Oppianus",
+    "Oppiani"
+   ],
+   "english": "Oppian",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Solinus"
+   ],
+   "english": "Solinus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Strabone",
+    "Strabo"
+   ],
+   "english": "Strabo",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Polybio"
+   ],
+   "english": "Polybius",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Galeno",
+    "Galenus"
+   ],
+   "english": "Galen",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Erotiano"
+   ],
+   "english": "Erotian",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Varro"
+   ],
+   "english": "Varro",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Martialis"
+   ],
+   "english": "Martial",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Philoni"
+   ],
+   "english": "Philo",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Theodoretus"
+   ],
+   "english": "Theodoret",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Basilius"
+   ],
+   "english": "Basil",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Apollinaris"
+   ],
+   "english": "Apollinaris",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Augustinus"
+   ],
+   "english": "Augustine",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Arnobius"
+   ],
+   "english": "Arnobius",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Beda"
+   ],
+   "english": "Bede",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Seniores",
+    "Seniorum",
+    "Senioribus"
+   ],
+   "english": "the Elders",
+   "id": "the translators of the Septuagint",
+   "basis": "context"
+  },
+  {
+   "forms": [
+    "Vulgatus"
+   ],
+   "english": "the Vulgate translator",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Onkelo",
+    "Onkelos"
+   ],
+   "english": "Onkelos",
+   "id": "Targum Onkelos",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Ionathane"
+   ],
+   "english": "Jonathan",
+   "id": "Targum Jonathan",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Alcamus"
+   ],
+   "english": "Alcamus",
+   "id": "al-Qāmūs al-muḥīṭ, the Arabic dictionary of al-Fīrūzābādī, which Bochart cites like an author",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Damir",
+    "Damire",
+    "Damiris"
+   ],
+   "english": "Damir",
+   "id": "al-Damīrī, Ḥayāt al-ḥayawān",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Giauhari",
+    "Geuhario"
+   ],
+   "english": "Giauhari",
+   "id": "al-Jawharī, al-Ṣiḥāḥ",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Abenbitar",
+    "Abenbitare"
+   ],
+   "english": "Abenbitar",
+   "id": "Ibn al-Bayṭār",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Ibnomar Ben Abdalbar"
+   ],
+   "english": "Ibnomar Ben Abdalbar",
+   "id": "Abū ʿUmar ibn ʿAbd al-Barr, author of al-Tamhīd",
+   "basis": "guess"
+  },
+  {
+   "forms": [
+    "Giggeji",
+    "Giggeio",
+    "Giggeius"
+   ],
+   "english": "Giggeius",
+   "id": "Antonio Giggei, Thesaurus linguae Arabicae (Milan 1632)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Golius"
+   ],
+   "english": "Golius",
+   "id": "Jacobus Golius, Lexicon Arabico-Latinum (1653)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Gabriel Sionita"
+   ],
+   "english": "Gabriel Sionita",
+   "id": "translator of al-Idrīsī's geography into Latin (Geographia Nubiensis, Paris 1619)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Baal Aruch"
+   ],
+   "english": "Baal Aruch",
+   "id": "Nathan ben Jehiel of Rome, the ʿArukh",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "R. Isaacum, Selomonis"
+   ],
+   "english": "R. Isaac, son of Solomon",
+   "id": "Isaac ibn Sahula, Meshal ha-qadmoni",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "R. Gersom"
+   ],
+   "english": "R. Gersom",
+   "id": "Gershon ben Solomon of Arles, Shaʿar ha-shamayim (Porta coeli)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "David de Pomis"
+   ],
+   "english": "David de Pomis",
+   "id": "David de Pomis, Ṣemaḥ David (Venice 1587), a Hebrew-Latin-Italian dictionary",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Gesnerus",
+    "Gesnero",
+    "Gesnerum"
+   ],
+   "english": "Gesner",
+   "id": "Conrad Gesner, Historia animalium",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Scaliger"
+   ],
+   "english": "Scaliger",
+   "id": "J. C. Scaliger, Exercitationes (1557)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Cardanum",
+    "Cardanus"
+   ],
+   "english": "Cardano",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Agricola"
+   ],
+   "english": "Agricola",
+   "id": "Georgius Agricola",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Stumpfius"
+   ],
+   "english": "Stumpf",
+   "id": "Johannes Stumpf, Swiss chronicle",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Buxtorfius"
+   ],
+   "english": "Buxtorf",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Postellus"
+   ],
+   "english": "Postel",
+   "id": "Guillaume Postel",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Boderianus"
+   ],
+   "english": "Boderianus",
+   "id": "Guy Le Fèvre de la Boderie",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Iunius"
+   ],
+   "english": "Junius",
+   "id": "Franciscus Junius, of the Tremellius-Junius Latin Bible",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Camerarius"
+   ],
+   "english": "Camerarius",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Papirius Massonus"
+   ],
+   "english": "Papire Masson",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Petrus Quinqueranus"
+   ],
+   "english": "Pierre Quiqueran de Beaujeu",
+   "id": "De laudibus Provinciae",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Teixeira"
+   ],
+   "english": "Teixeira",
+   "id": "Pedro Teixeira, Relaciones (1610)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Olearius"
+   ],
+   "english": "Olearius",
+   "id": "Adam Olearius, travels in Persia",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Brucius",
+    "Brucii",
+    "BRUCIUM",
+    "BRUCIUS",
+    "BRUCE",
+    "Bruce"
+   ],
+   "english": "Bruce",
+   "id": "James Bruce, Travels to discover the source of the Nile (1790)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "SHAW",
+    "Shaw"
+   ],
+   "english": "Shaw",
+   "id": "Thomas Shaw, Travels (1738)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Hasselquist"
+   ],
+   "english": "Hasselquist",
+   "id": "Fredrik Hasselquist, Iter Palaestinum (1757)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Hassencampio"
+   ],
+   "english": "Hassencamp",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Oedmannus",
+    "OEDMANN"
+   ],
+   "english": "Oedmann",
+   "id": "Samuel Ödmann, Vermischte Sammlungen aus der Naturkunde",
+   "basis": "context (Sammlungen)"
+  },
+  {
+   "forms": [
+    "Maundrellii"
+   ],
+   "english": "Maundrell",
+   "id": "Henry Maundrell, Journey from Aleppo to Jerusalem",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "LUDOLFI"
+   ],
+   "english": "Ludolf",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "SCHULTENSIUS"
+   ],
+   "english": "Schultens",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "MICHAELIS"
+   ],
+   "english": "Michaelis",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "SIMONIS"
+   ],
+   "english": "Simonis",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Buffonio"
+   ],
+   "english": "Buffon",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Blumenbachius"
+   ],
+   "english": "Blumenbach",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Linnaeo"
+   ],
+   "english": "Linnaeus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Pallasio"
+   ],
+   "english": "Pallas",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Pennantio"
+   ],
+   "english": "Pennant",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Kimchius",
+    "Kimchii",
+    "Kimchio",
+    "Kimchium",
+    "Kimchi"
+   ],
+   "english": "Kimchi",
+   "id": "David Kimḥi (Radak), Sefer ha-Shorashim",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "R. Selomo",
+    "R. Selomonis",
+    "R. Selomoni",
+    "R. Selomonem",
+    "R. Selomone"
+   ],
+   "english": "R. Selomo",
+   "id": "Rashi (R. Solomon ben Isaac)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Aben Ezra",
+    "Aben Ezrae",
+    "Aben Ezram"
+   ],
+   "english": "Aben Ezra",
+   "id": "Abraham ibn Ezra",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Maimonides",
+    "Maimonidis",
+    "Maimonidi",
+    "Maimonidem",
+    "Maimonide"
+   ],
+   "english": "Maimonides",
+   "id": "Moses Maimonides (Rambam), Mishneh Torah",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Aruch"
+   ],
+   "english": "Aruch",
+   "id": "the ʿArukh of Nathan ben Jehiel of Rome",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Pomarius",
+    "Pomarii",
+    "Pomario",
+    "Pomarium"
+   ],
+   "english": "Pomarius",
+   "id": "David de Pomis, Ṣemaḥ David (Venice 1587)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Aquinas",
+    "Aquinatis",
+    "Aquinati",
+    "Aquinatem",
+    "Aquinate"
+   ],
+   "english": "Aquinas",
+   "id": "Philippe d'Aquin, Dictionarium hebraeo-chaldaeo-talmudico-rabbinicum (Paris 1629)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "R. Azarias",
+    "R. Azariae",
+    "R. Azariam",
+    "R. Azaria"
+   ],
+   "english": "R. Azarias",
+   "id": "Azariah de' Rossi, Meʾor ʿEnayim",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "R. Ionas",
+    "R. Ionae",
+    "R. Ionam",
+    "R. Iona",
+    "R. Jonas",
+    "R. Jonae"
+   ],
+   "english": "R. Jonah",
+   "id": "Jonah ibn Janāḥ, Sefer ha-Shorashim",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Vajikra Rabba"
+   ],
+   "english": "Vajikra Rabba",
+   "id": "Leviticus Rabbah",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Avicenna",
+    "Avicennae",
+    "Avicennam",
+    "Avicennā"
+   ],
+   "english": "Avicenna",
+   "id": "Ibn Sīnā, al-Qānūn fī l-ṭibb (the Canon)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Serapio",
+    "Serapionis",
+    "Serapioni",
+    "Serapionem",
+    "Serapione"
+   ],
+   "english": "Serapion",
+   "id": "Serapion, Liber de simplicibus medicinis (the Arabic-Latin pharmacopoeia)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Alkazuinius",
+    "Alkazuinii",
+    "Alkazuinio",
+    "Alkazuinium",
+    "Kazuinius",
+    "Kazuinii"
+   ],
+   "english": "Alkazuinius",
+   "id": "al-Qazwīnī, ʿAjāʾib al-makhlūqāt",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Semiramis",
+    "Semiramidis",
+    "Semiramidi",
+    "Semiramidem",
+    "Semiramide",
+    "Semiramin"
+   ],
+   "english": "Semiramis",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Nebucadnetsar",
+    "Nebucadnetsare",
+    "Nebucadnetsaris",
+    "Nebucadnetsarem"
+   ],
+   "english": "Nebuchadnezzar",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Ctesias",
+    "Ctesiae",
+    "Ctesiam",
+    "Ctesia"
+   ],
+   "english": "Ctesias",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Diodorus",
+    "Diodori",
+    "Diodoro",
+    "Diodorum"
+   ],
+   "english": "Diodorus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Abydenus",
+    "Abydeni",
+    "Abydeno",
+    "Abydenum"
+   ],
+   "english": "Abydenus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Charon Lampsacenus",
+    "Charonis Lampsaceni",
+    "Charone Lampsaceno"
+   ],
+   "english": "Charon of Lampsacus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Tertullianus",
+    "Tertulliani",
+    "Tertulliano",
+    "Tertullianum"
+   ],
+   "english": "Tertullian",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Origenes",
+    "Origenis",
+    "Origeni",
+    "Origenem",
+    "Origene"
+   ],
+   "english": "Origen",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Chrysostomus",
+    "Chrysostomi",
+    "Chrysostomo",
+    "Chrysostomum"
+   ],
+   "english": "Chrysostom",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Gregorius Nazianzenus",
+    "Gregorii Nazianzeni",
+    "Gregorio Nazianzeno",
+    "Gregorium Nazianzenum"
+   ],
+   "english": "Gregory of Nazianzus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Cyrillus",
+    "Cyrilli",
+    "Cyrillo",
+    "Cyrillum"
+   ],
+   "english": "Cyril",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Clemens Alexandrinus",
+    "Clementis Alexandrini",
+    "Clemente Alexandrino",
+    "Clementem Alexandrinum"
+   ],
+   "english": "Clement of Alexandria",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Iosephus",
+    "Iosephi",
+    "Iosepho",
+    "Iosephum",
+    "Josephus",
+    "Josephi",
+    "Josepho",
+    "Josephum"
+   ],
+   "english": "Josephus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Ovidius",
+    "Ovidii",
+    "Ovidio",
+    "Ovidium"
+   ],
+   "english": "Ovid",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Livius",
+    "Livii",
+    "Livio",
+    "Livium"
+   ],
+   "english": "Livy",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Virgilius",
+    "Virgilii",
+    "Virgilio",
+    "Virgilium",
+    "Vergilius",
+    "Vergilii"
+   ],
+   "english": "Virgil",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Horatius",
+    "Horatii",
+    "Horatio",
+    "Horatium"
+   ],
+   "english": "Horace",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Plutarchus",
+    "Plutarchi",
+    "Plutarcho",
+    "Plutarchum"
+   ],
+   "english": "Plutarch",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Lucianus",
+    "Luciani",
+    "Luciano",
+    "Lucianum"
+   ],
+   "english": "Lucian",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Homerus",
+    "Homeri",
+    "Homero",
+    "Homerum"
+   ],
+   "english": "Homer",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Phornutus",
+    "Phornuti",
+    "Phornuto",
+    "Phornutum"
+   ],
+   "english": "Phornutus",
+   "id": "L. Annaeus Cornutus, De natura deorum",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Bernardus",
+    "Bernardi",
+    "Bernardo",
+    "Bernardum"
+   ],
+   "english": "Bernard",
+   "id": "Bernard of Clairvaux",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Hildephonsus Toletanus",
+    "Hildephonsi Toletani",
+    "Hildephonso Toletano"
+   ],
+   "english": "Ildefonsus of Toledo",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Aloisius Cadamustus",
+    "Cadamustus",
+    "Cadamusti",
+    "Cadamusto",
+    "Cadamustum"
+   ],
+   "english": "Cadamosto",
+   "id": "Alvise Cadamosto, Navigazioni (1455-56)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Tremellius",
+    "Tremellii",
+    "Tremellio",
+    "Tremellium"
+   ],
+   "english": "Tremellius",
+   "id": "Immanuel Tremellius, of the Tremellius-Junius Latin Bible",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "CELSIUS",
+    "Celsius",
+    "CELSII",
+    "Celsii",
+    "CELSIO",
+    "Celsio"
+   ],
+   "english": "Celsius",
+   "id": "Olof Celsius, Hierobotanicon (1745-47)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "POCOK",
+    "POCOCK",
+    "Pocockius",
+    "Pocockii",
+    "Pocockio",
+    "POCOCKIUS",
+    "POCOCKII"
+   ],
+   "english": "Pococke",
+   "id": "Edward Pococke, Commentary on Hosea (1685)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "SCHLEUSNERUS",
+    "SCHLEUSNERI",
+    "Schleusnerus",
+    "Schleusneri",
+    "SCHLEUSNERO"
+   ],
+   "english": "Schleusner",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Bellonius",
+    "Bellonii",
+    "Bellonio",
+    "Bellonium"
+   ],
+   "english": "Belon",
+   "id": "Pierre Belon, Observations (1553)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "FORSKAL",
+    "Forskal",
+    "FORSKALIUS",
+    "Forskalius",
+    "Forskalii",
+    "FORSKALII"
+   ],
+   "english": "Forsskål",
+   "id": "Peter Forsskål, Descriptiones animalium (1775)",
+   "basis": "general knowledge"
+  }
  ]
 }

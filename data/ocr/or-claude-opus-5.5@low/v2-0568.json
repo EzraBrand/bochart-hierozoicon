@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "568 <i>De Columba, quae in baptismo Christi apparuit.</i> P.II.L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "568 <i>De Columba, quae in baptismo Christi apparuit.</i> P.II.L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Iam de oliva hoc solum addo, etiam in <i>America</i> jam olim hunc morem invalu-\nisse, ut rami olivae haberentur pro signo pacis. <i>Columbus Navigat.</i> cap. 103.\nubi de <i>Americana</i> quadam insula, non procul ab <i>Hispaniola: Primo adventu oc-\ncurrerunt adolescentulae triginta, quae,</i> etc. <i>ramos olivarum manibus gestabant,\net ubi appropinquabant praefecto, in signum foederis pacisque illi ramos porri-\ngebant</i> ^{(2)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam de oliva hoc solum addo, etiam in <i>America</i> jam olim hunc morem invalu-\nisse, ut rami olivae haberentur pro signo pacis. <i>Columbus Navigat.</i> cap. 103.\nubi de <i>Americana</i> quadam insula, non procul ab <i>Hispaniola: Primo adventu oc-\ncurrerunt adolescentulae triginta, quae,</i> etc. <i>ramos olivarum manibus gestabant,\net ubi appropinquabant praefecto, in signum foederis pacisque illi ramos porri-\ngebant</i> ^{(2)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In Christi baptismo, sunt e <i>Patribus</i>, qui veram columbam descendisse vo- ⟦p. 35⟧\nlunt. Ita <i>Tertullianus</i> in libro <i>De carne Christi</i> capite tertio de Spiritu, in <i>Chri-\nstum</i> descendente, scribit: <i>Tam vere erat columba, quam et spiritus: nec interfe-\ncerat</i> ^{a)} <i>substantiam propriam, assumpta substantia extranea.</i> Et <i>Augustinus, De\nAgone Christiano</i> cap. 22. <i>Christi</i> corpus cum hac columba conferens, <i>Neque hoc\nita dicimus, ut Dominum</i> Iesum <i>dicamus solum verum corpus habuisse, Spiritum\nautem Sanctum fallaciter apparuisse oculis hominum: sed ambo illa corpora vera\ncorpora credimus. Sicut enim non oportebat, ut homines falleret filius Dei, sic\nnon decebat, ut homines falleret Spiritus Sanctus. Sed omnipotenti Deo, qui uni-\nversam creaturam de nihilo fabricavit, non erat difficile, verum corpus columbae\nsine aliarum columbarum ministerio figurare, sicut ei non fuit difficile, verum cor-\npus in utero</i> Mariae <i>sine virili semine fabricare.</i> Tamen quatuor <i>Evangelistae</i> ^{b)}\ncolumbam in <i>Christum</i> descendisse non dicunt, sed ὡσεὶ περιστερὰν, <i>tanquam co-\nlumbam.</i> Et disertius <i>Lucas</i>, descendisse Spiritum Sanctum σωματικῷ εἴδει ὡσεὶ\nπεριστερὰν, <i>corporali specie tanquam columbam.</i> Ubi <i>Syrus</i>, ܒܕܡܘܬܐ\nܦܓܪܐ ܕܝܘܢܐ, <i>juxta similitudinem corporis columbae.</i> Et <i>Arabs</i>, شبه\nجسد حمامة <i>similitudine corporis columbae.</i> Et <i>Aethiops</i>, በሥጋ፡\nከመ፡ ርእየተ፡ ርግብ፡ <i>In corpore tanquam specie columbae.</i> Unde concludi\nqueat, juxta mentem <i>Aethiopis</i>, corpus fuisse, quod apparuit, sed non corpus\nverae columbae. <i>S. Augustinum</i> sequitur <i>Thomas</i> in <i>summa</i> parte 3. quaest. 39.\nart. 7. Quin omnes fere <i>Scholares theologos</i> idem sentire, scribit <i>Sixtus Senensis\nBiblioth.</i> lib. 6. annot. 13. Tamen aliter sentiunt plerique recentiorum, nempe\nnon in vera columba, sed in columbae specie Spiritum descendisse. Et de <i>Ter-\ntulliano</i> parum solliciti, <i>Augustini</i> auctoritatem bifariam eludunt. Alii enim, ut\n<i>Pamelius</i>, negant, librum <i>De Agone Christiano</i> vere esse <i>Augustini</i>. Alii, ut\n<i>Maldonatus</i>, pro genuino agnoscunt, sed ab <i>Augustino</i> contendunt solum asseri,\nverum apparuisse corpus, non tamen veram columbam. Sed neutri satisfaciunt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In Christi baptismo, sunt e <i>Patribus</i>, qui veram columbam descendisse vo- ⟦p. 35⟧\nlunt. Ita <i>Tertullianus</i> in libro <i>De carne Christi</i> capite tertio de Spiritu, in <i>Chri-\nstum</i> descendente, scribit: <i>Tam vere erat columba, quam et spiritus: nec interfe-\ncerat</i> ^{a)} <i>substantiam propriam, assumpta substantia extranea.</i> Et <i>Augustinus, De\nAgone Christiano</i> cap. 22. <i>Christi</i> corpus cum hac columba conferens, <i>Neque hoc\nita dicimus, ut Dominum</i> Iesum <i>dicamus solum verum corpus habuisse, Spiritum\nautem Sanctum fallaciter apparuisse oculis hominum: sed ambo illa corpora vera\ncorpora credimus. Sicut enim non oportebat, ut homines falleret filius Dei, sic\nnon decebat, ut homines falleret Spiritus Sanctus. Sed omnipotenti Deo, qui uni-\nversam creaturam de nihilo fabricavit, non erat difficile, verum corpus columbae\nsine aliarum columbarum ministerio figurare, sicut ei non fuit difficile, verum cor-\npus in utero</i> Mariae <i>sine virili semine fabricare.</i> Tamen quatuor <i>Evangelistae</i> ^{b)}\ncolumbam in <i>Christum</i> descendisse non dicunt, sed ὡσεὶ περιστερὰν, <i>tanquam co-\nlumbam.</i> Et disertius <i>Lucas</i>, descendisse Spiritum Sanctum σωματικῷ εἴδει ὡσεὶ\nπεριστερὰν, <i>corporali specie tanquam columbam.</i> Ubi <i>Syrus</i>, ܒܕܡܘܬܐ\nܦܓܪܐ ܕܝܘܢܐ, <i>juxta similitudinem corporis columbae.</i> Et <i>Arabs</i>, شبه\nجسد حمامة <i>similitudine corporis columbae.</i> Et <i>Aethiops</i>, በሥጋ፡\nከመ፡ ርእየተ፡ ርግብ፡ <i>In corpore tanquam specie columbae.</i> Unde concludi\nqueat, juxta mentem <i>Aethiopis</i>, corpus fuisse, quod apparuit, sed non corpus\nverae columbae. <i>S. Augustinum</i> sequitur <i>Thomas</i> in <i>summa</i> parte 3. quaest. 39.\nart. 7. Quin omnes fere <i>Scholares theologos</i> idem sentire, scribit <i>Sixtus Senensis\nBiblioth.</i> lib. 6. annot. 13. Tamen aliter sentiunt plerique recentiorum, nempe\nnon in vera columba, sed in columbae specie Spiritum descendisse. Et de <i>Ter-\ntulliano</i> parum solliciti, <i>Augustini</i> auctoritatem bifariam eludunt. Alii enim, ut\n<i>Pamelius</i>, negant, librum <i>De Agone Christiano</i> vere esse <i>Augustini</i>. Alii, ut\n<i>Maldonatus</i>, pro genuino agnoscunt, sed ab <i>Augustino</i> contendunt solum asseri,\nverum apparuisse corpus, non tamen veram columbam. Sed neutri satisfaciunt."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Non",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Non"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Forte interceperat.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Forte interceperat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Matth. III, 16. Marc. I, 10. Luc. III, 22. Ioh. I, 32.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Matth. III, 16. Marc. I, 10. Luc. III, 22. Ioh. I, 32.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Quae dehinc sequuntur de columbae Noachicae significatione typica, omittenda\nputavimus.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quae dehinc sequuntur de columbae Noachicae significatione typica, omittenda\nputavimus."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1743,
+    1475
+   ],
+   [
+    1743,
+    1329
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1798,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

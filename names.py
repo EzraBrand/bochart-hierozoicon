@@ -36,13 +36,17 @@ def identify(docs: list[list[dict]]) -> list[str]:
     done = []
     rows = sorted((r for r in items() if r["id"]), key=lambda r: -len(r["english"]))
     for r in rows:
-        rx = form_rx(r["english"])
+        # after the name, a possessive ("Giggeius'", "Gesner's") and a closing </i> that ends it; not inside
+        # a longer word ("Kimchis", the plural: 10-Nov-2026)
+        rx = re.compile(rf"(?<!\w)({re.escape(r['english'])}(?:'s|')?(?:</i>)?)(?!\w)")
         for blocks in docs:
-            hit = next((b for b in blocks if rx.search(re.sub(r"</?i>", "", b["text"]))), None)
-            if hit:
-                # after the name, a possessive ("Giggeius'", "Gesner's") and a closing </i> that ends it
-                hit["text"] = re.sub(rf"({re.escape(r['english'])}(?:'s|')?(?:</i>)?)",
-                                     lambda m: f"{m.group(1)} [={r['id']}]", hit["text"], count=1)
-                done.append(r["english"])
-                break
+            for b in blocks:
+                new, n = rx.subn(lambda m: f"{m.group(1)} [={r['id']}]", b["text"], count=1)
+                if n:
+                    b["text"] = new
+                    done.append(r["english"])
+                    break
+            else:
+                continue
+            break
     return done

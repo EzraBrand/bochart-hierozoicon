@@ -40,6 +40,9 @@ SAMPLE = [
     # of the birds) for the join. Chapter heads found in the MDZ hOCR (logs/find_caps.py).
     *[(2, c, "achbar") for c in range(446, 450)],
     *[(2, c, "book4") for c in range(471, 541)],
+    # Tranche 2 (10-Nov-2026): Pars II, Book I (the clean birds), chs. 1-7, the dove (pp. 524-589);
+    # p. 590 (CAP. VIII, the deror) for the join. Chapter heads: logs/find_chapters_t2.log.
+    *[(2, c, "birds1") for c in range(541, 607)],
 ]
 
 session = requests.Session()

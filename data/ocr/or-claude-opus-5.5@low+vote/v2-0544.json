@@ -1,0 +1,159 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "544 <i>De Columbae volatu.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "544 <i>De Columbae volatu.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "dione potuit idem <i>Brutus</i> literas columbarum ministerio et accepisse, et remi-\nsisse. Ad hanc columbarum industriam <i>poetas</i> alludere saepe videas. In quibus\n<i>Anacreon</i> Oda nona columbae suae haec affingit:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "dione potuit idem <i>Brutus</i> literas columbarum ministerio et accepisse, et remi-\nsisse. Ad hanc columbarum industriam <i>poetas</i> alludere saepe videas. In quibus\n<i>Anacreon</i> Oda nona columbae suae haec affingit:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ἐγὼ δ᾽ Ἀνακρέοντι <i>Egoque</i> Anacreonti\nΔιακονῶ τοσαῦτα, <i>In talibus ministro,</i>\nΚαὶ νῦν οἵας ἐκείνου <i>Ejusque nunc videte</i> ⟦p. 16⟧\nἘπιστολὰς κομίζω. <i>Quales fero tabellas.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ἐγὼ δ᾽ Ἀνακρέοντι <i>Egoque</i> Anacreonti\nΔιακονῶ τοσαῦτα, <i>In talibus ministro,</i>\nΚαὶ νῦν οἵας ἐκείνου <i>Ejusque nunc videte</i> ⟦p. 16⟧\nἘπιστολὰς κομίζω. <i>Quales fero tabellas.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pherecrates</i> in <i>Pictoribus</i> apud <i>Athenaeum</i> libro nono,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pherecrates</i> in <i>Pictoribus</i> apud <i>Athenaeum</i> libro nono,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀπόπεμψον ἀγγέλλοντα, τὸν περιστερὸν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀπόπεμψον ἀγγέλλοντα, τὸν περιστερὸν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Remitte columbam nunciam.</i> <i>Martialis</i> de columba in <i>Aretullae</i> sinum delapsa,\nlibri octavi <i>Epigram.</i> 32.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Remitte columbam nunciam.</i> <i>Martialis</i> de columba in <i>Aretullae</i> sinum delapsa,\nlibri octavi <i>Epigram.</i> 32."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Haec a</i> Sardois <i>tibi forsitan exulis oris,</i>\n<i>Fratre reversuro nuncia venit avis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Haec a</i> Sardois <i>tibi forsitan exulis oris,</i>\n<i>Fratre reversuro nuncia venit avis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "His non possum non addere pauca haec ex suavissima <i>Heinsii</i> τοῦ μακαρίτου <i>Ele-\ngia</i> de columbis <i>Leidensibus</i>, libri tertii <i>Elegia</i> decima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "His non possum non addere pauca haec ex suavissima <i>Heinsii</i> τοῦ μακαρίτου <i>Ele-\ngia</i> de columbis <i>Leidensibus</i>, libri tertii <i>Elegia</i> decima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hic volucrem sacram trepida demittit ab urbe,</i>\n<i>Quae referat ductus illius; illa volat.</i>\n<i>Moxque domum gaudens dulcesque revisere nidos,</i>\n<i>Per medium rursus aera lapsa fuit.</i>\n<i>Scriptaque</i> Boisoti <i>mandataque gestat in alis,</i>\n<i>Iamque ministerii dulce peregit opus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hic volucrem sacram trepida demittit ab urbe,</i>\n<i>Quae referat ductus illius; illa volat.</i>\n<i>Moxque domum gaudens dulcesque revisere nidos,</i>\n<i>Per medium rursus aera lapsa fuit.</i>\n<i>Scriptaque</i> Boisoti <i>mandataque gestat in alis,</i>\n<i>Iamque ministerii dulce peregit opus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hanc scilicet artem, intermortuam patrum nostrorum memoria, <i>Belgae</i> excita-\nrunt. Et <i>Turcae</i> quoque, quorum imperatorem scribit <i>Linschottus</i> in <i>Armu-\nziae</i> descriptione capite sexto per columbas brevi addiscere, quid fiat in remotissi-\nmis imperii sui partibus. Proinde in libro <i>De Animalibus</i>, quem ex <i>Arabico</i>\n<i>Abulsaphe</i> in <i>Hebraeum</i> sermonem transtulit <i>Calonymus</i> anno <i>Christi</i> 1316. de co-\nlumba dicitur, היונה המסולסל הוא זה המגביה לעוף נושה כתבים ואגרות\nמארץ אל ארץ לחבונתו, <i>Columba, in sublime se attollens, id est, quae volatu\nsuo exaltatur, cum per intelligentiam suam fert literas e loco in locum.</i> Nempe,\nut ait <i>Alkazuinius</i>, اذا ارسل من موضع بعيد يصعد نحو\nالهوا وتكون صعوده مدورا فلا يزال يصعد وينظر\nحتي يري شيا من علامات بلده فعند ذلك يهبط\nاليها بادني زمان <i>Cum mittitur e loco valde dissito, ascendit in summum\naërem. Et ascensus ejus fit in orbem. Neque ascendere et circumspicere desinit,\ndonec regionis suae signum aliquod animadvertat. Tum vero ad illud descendit</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hanc scilicet artem, intermortuam patrum nostrorum memoria, <i>Belgae</i> excita-\nrunt. Et <i>Turcae</i> quoque, quorum imperatorem scribit <i>Linschottus</i> in <i>Armu-\nziae</i> descriptione capite sexto per columbas brevi addiscere, quid fiat in remotissi-\nmis imperii sui partibus. Proinde in libro <i>De Animalibus</i>, quem ex <i>Arabico</i>\n<i>Abulsaphe</i> in <i>Hebraeum</i> sermonem transtulit <i>Calonymus</i> anno <i>Christi</i> 1316. de co-\nlumba dicitur, היונה המסולסל הוא זה המגביה לעוף נושה כתבים ואגרות\nמארץ אל ארץ לחבונתו, <i>Columba, in sublime se attollens, id est, quae volatu\nsuo exaltatur, cum per intelligentiam suam fert literas e loco in locum.</i> Nempe,\nut ait <i>Alkazuinius</i>, اذا ارسل من موضع بعيد يصعد نحو\nالهوا وتكون صعوده مدورا فلا يزال يصعد وينظر\nحتي يري شيا من علامات بلده فعند ذلك يهبط\nاليها بادني زمان <i>Cum mittitur e loco valde dissito, ascendit in summum\naërem. Et ascensus ejus fit in orbem. Neque ascendere et circumspicere desinit,\ndonec regionis suae signum aliquod animadvertat. Tum vero ad illud descendit</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>brevi</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>brevi</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1725,
+    1202
+   ],
+   [
+    1725,
+    1626
+   ]
+  ],
+  "input_tokens": 8219,
+  "output_tokens": 1550,
+  "cost_usd": 0,
+  "seconds": 429.4,
+  "vote": "0 decisions from v2-524-590"
+ }
+}

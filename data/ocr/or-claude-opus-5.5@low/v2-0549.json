@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. IV. <i>De Columbae simplicitate.</i> 549",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. IV. <i>De Columbae simplicitate.</i> 549"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. IV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Columbae simplicitate, mansuetudine, castitate</i>\n<i>et timiditate.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Columbae simplicitate, mansuetudine, castitate</i>\n<i>et timiditate.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Iam de columbarum acturi moribus, incipiemus a celebri <i>Christi</i> dicto <i>Matth.</i>\n<i>X, 16.</i> Γίνεσθε φρόνιμοι ὡς οἱ ὄφεις, καὶ ἀκέραιοι ὡς αἱ περιστεραί· <i>Estote</i>\n<i>prudentes ut serpentes, et simplices ut columbae.</i> A <i>Tzetze Chiliade 9.</i> Hist. 263.\nφρόνιμοι et ἀκέραιοι pro eodem sumuntur. Postquam enim prudentes eos dici\nasseruit, cum ut serpentes caput servant, id est, fidem in Deum, addit conti-\nnuo post:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam de columbarum acturi moribus, incipiemus a celebri <i>Christi</i> dicto <i>Matth.</i>\n<i>X, 16.</i> Γίνεσθε φρόνιμοι ὡς οἱ ὄφεις, καὶ ἀκέραιοι ὡς αἱ περιστεραί· <i>Estote</i>\n<i>prudentes ut serpentes, et simplices ut columbae.</i> A <i>Tzetze Chiliade 9.</i> Hist. 263.\nφρόνιμοι et ἀκέραιοι pro eodem sumuntur. Postquam enim prudentes eos dici\nasseruit, cum ut serpentes caput servant, id est, fidem in Deum, addit conti-\nnuo post:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀκέραιοι δὲ γίνεσθε, ὡς αἱ περιστεραί μοι·\nΚαὶ τοῦτο πάλιν τὸ αὐτὸ δηλοῖ τε, καὶ σημαίνει.\nἈκέραιοι γὰρ λέγονται περιστεραὶ τοιῶς δε,\nΦρόνιμοι, ὥσπερ λέγεται περιστερὰ τοῦ Νῶε.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀκέραιοι δὲ γίνεσθε, ὡς αἱ περιστεραί μοι·\nΚαὶ τοῦτο πάλιν τὸ αὐτὸ δηλοῖ τε, καὶ σημαίνει.\nἈκέραιοι γὰρ λέγονται περιστεραὶ τοιῶς δε,\nΦρόνιμοι, ὥσπερ λέγεται περιστερὰ τοῦ Νῶε."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Simplices autem mihi sitis sicut columbae. Et hoc rursus idem indicat et significat.</i>\n<i>Simplices enim dicuntur columbae, tali modo prudentes, ut dicitur columba Noe.</i>\nQuae nempe ad arcam rediit, id est, ad ecclesiam, a qua non secedendum.\nQuo nihil absurdius fingi potuit. Nam, ut serpens et columba, ita φρόνιμος et\nἀκέραιος nullo modo sunt synonyma. Neque <i>Christus</i> ut synonyma, sed ut\nopposita junxit, egregia antithesi, quali utitur <i>Martialis</i>, cum dicit libri decimi\n<i>Epigr. 47.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Simplices autem mihi sitis sicut columbae. Et hoc rursus idem indicat et significat.</i>\n<i>Simplices enim dicuntur columbae, tali modo prudentes, ut dicitur columba Noe.</i>\nQuae nempe ad arcam rediit, id est, ad ecclesiam, a qua non secedendum.\nQuo nihil absurdius fingi potuit. Nam, ut serpens et columba, ita φρόνιμος et\nἀκέραιος nullo modo sunt synonyma. Neque <i>Christus</i> ut synonyma, sed ut\nopposita junxit, egregia antithesi, quali utitur <i>Martialis</i>, cum dicit libri decimi\n<i>Epigr. 47.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Prudens simplicitas, pares amici.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Prudens simplicitas, pares amici.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nempe, ut prudentia sine simplicitate in versutiam degenerat, ita simplicitas sine\nprudentia nihil quidquam est, quam fatuitas et stultitia. <i>Prudentes Hebraice</i>\nsunt ערומים, et <i>simplices</i> פתיים, vel פתאים. Quae duo <i>Solomon</i> saepe oppo-\nnit. Sic <i>Prov. I, 4.</i> לתת לפתאים ערמה, <i>ad dandum simplicibus prudentiam.</i>\nProv. VIII, 5. <i>Intelligite simplices prudentiam.</i> Prov. XIV, 15. פתי, <i>simplex cre-</i>\n<i>dit omni verbo</i>, וערום, <i>et prudens advertit ad gressum suum.</i> Prov. XIX, 25.\nופתי יערים, <i>Et simplex prudens fiet.</i> Prov. XXII, 3. ערום, <i>Prudens, cum videt</i>\n<i>malum, abscondit se</i>, ופתיים, <i>At simplices, transeunt et mulctantur.</i> Atque, ⟦p. 20⟧\nut serpens dicitur ערום, φρόνιμος, Gen. III, 1. ita columba dicitur פתה, <i>sim-</i>\n<i>plex</i> Os. VII, 11. <i>Et factus est</i> Ephraim כיונה פתה אין לב, <i>ut columba simplex,</i>\n<i>carens corde</i>, id est, <i>vecors.</i> Ad quae duo loca haud dubie respexit <i>Christus.</i>\nSi objicias, utrumque in vitio poni, et serpentem ערום dici, non quia prudens,\nsed quia callidus est, et versipellis: Et columbam פתה, non quia simplex, sed\nquia fatua est, et אין לב, <i>vecors</i>, ut statim sequitur. Respondeo, primo tam",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nempe, ut prudentia sine simplicitate in versutiam degenerat, ita simplicitas sine\nprudentia nihil quidquam est, quam fatuitas et stultitia. <i>Prudentes Hebraice</i>\nsunt ערומים, et <i>simplices</i> פתיים, vel פתאים. Quae duo <i>Solomon</i> saepe oppo-\nnit. Sic <i>Prov. I, 4.</i> לתת לפתאים ערמה, <i>ad dandum simplicibus prudentiam.</i>\nProv. VIII, 5. <i>Intelligite simplices prudentiam.</i> Prov. XIV, 15. פתי, <i>simplex cre-</i>\n<i>dit omni verbo</i>, וערום, <i>et prudens advertit ad gressum suum.</i> Prov. XIX, 25.\nופתי יערים, <i>Et simplex prudens fiet.</i> Prov. XXII, 3. ערום, <i>Prudens, cum videt</i>\n<i>malum, abscondit se</i>, ופתיים, <i>At simplices, transeunt et mulctantur.</i> Atque, ⟦p. 20⟧\nut serpens dicitur ערום, φρόνιμος, Gen. III, 1. ita columba dicitur פתה, <i>sim-</i>\n<i>plex</i> Os. VII, 11. <i>Et factus est</i> Ephraim כיונה פתה אין לב, <i>ut columba simplex,</i>\n<i>carens corde</i>, id est, <i>vecors.</i> Ad quae duo loca haud dubie respexit <i>Christus.</i>\nSi objicias, utrumque in vitio poni, et serpentem ערום dici, non quia prudens,\nsed quia callidus est, et versipellis: Et columbam פתה, non quia simplex, sed\nquia fatua est, et אין לב, <i>vecors</i>, ut statim sequitur. Respondeo, primo tam"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Zzz 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Zzz 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "heb",
+   "text": "ערום,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ערום,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1940,
+    1591
+   ],
+   [
+    1940,
+    1241
+   ]
+  ],
+  "input_tokens": 9035,
+  "output_tokens": 1706,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

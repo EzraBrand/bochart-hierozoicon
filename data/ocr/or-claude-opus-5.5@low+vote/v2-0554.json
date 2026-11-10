@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "554 <i>De Columbae castitate.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "554 <i>De Columbae castitate.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Exemplo junctae sic sint in amore columbae,</i>\n<i>Masculus et totum foemina conjugium.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Exemplo junctae sic sint in amore columbae,</i>\n<i>Masculus et totum foemina conjugium.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "De turture quoque et palumbe <i>Philosophus</i> idem scribit: Ἔχει δὲ τὸν ἄῤῥενα ἡ\nτρυγὼν τὸν αὐτὸν καὶ φάττα, καὶ ἄλλον οὐ προσίενται, <i>Turtur quoque, et pa-\nlumbus marem unum habent., neque alterum admittunt.</i> Quin palumbos adulteria\nmorte punire, tradunt <i>Porphyrius, De abstin. anim.</i> lib. 3. et <i>Phile, De anim.</i>\ncap. 19. Uterque ex <i>Aeliano Hist.</i> lib. 3. cap. 44. ubi turtures addit eandem\nlegem sancte servare: sed columbas albas ex adulteriis solos mares perimere,\nfoeminarum misertas. <i>Clemens</i> quoque <i>Stromat</i>ων libro secundo animalia quae-\ndam esse tradit, ἃ τὴν ἐπιμιξίαν οὐ ποιεῖται πρὸς πολλὰ καὶ ἀναίδην, ἀλλὰ\nπρὸς ἓν, καὶ ὁμόφυλον· οἷαι αἱ πελειάδες, καὶ αἱ φάσσαι, καὶ τὸ τρυγόνων\nγένος, καὶ ὅσα τούτοις παραπλήσια, <i>quae cum multis et imprudenter non con-\ngrediuntur, sed cum uno, eoque ejusdem generis, ut sunt columbae, et palumbes,\net turturum genus, et quae sunt his similia.</i> Quid quod columbam nigram post\nconjugis obitum viduam ajunt permanere, atque ideo apud <i>Aegyptios</i> symbolum\nfuisse mulieris, quae a secundis nuptiis abhorret. <i>Horus</i> lib. 2. cap. 30. Γυναῖ-\nκα χήραν ἐπιμείνασαν ἄχρι θανάτου θέλοντες σημῆναι, περιστερὰν μέλαιναν\nζωγραφοῦσιν· αὕτη γὰρ οὐ συμμίγνυται ἑτέρῳ ἀνδρὶ ἕως οὗ χηρεύει <i>Mulierem,\nquae ad mortem usque vidua manet, significare cum volunt, nigram pingunt colum-\nbam: haec enim, quamdiu vidua est, alteri mari non jungitur.</i> Proinde <i>Tertul-\nlianus</i> monogamiam suam columbae exemplo stabilire conatur: <i>Avis</i>, inquit,\n<i>non tantum innocuae, sed et pudicae, quam unam unus masculus novit.</i> At id\nipsum in turtures magno consensu transtulerunt <i>Patres</i> posteriores, qua de causa\nnullus scio. <i>Origenes</i> in <i>Cant.</i> Homil. 2. <i>Turturum ferunt hujusmodi naturam\nesse, ut neque masculum praeter unam foeminam adeat aliam, nec foemina plus\nquam unum patiatur marem. Ita, ut, si accidat, altero intercepto superesse alte-\nrum, pariter cum conjuge extinctus sit ei concubitus amor. Basilius</i> in <i>Hexaëme-\nron</i> Homil. 8. Τὴν τρυγόνα φασὶ διαζευχθεῖσάν ποτε τοῦ ὁμόζυγος, μηκέτι\nτὴν πρὸς ἕτερον καταδέχεσθαι κοινωνίαν, ἀλλὰ μένειν ἀσυνδύαστον, μνήμῃ τοῦ\nποτε συζευχθέντος τὴν πρὸς ἕτερον κοινωνίαν ἀπαρνημένην· <i>Turturem ajunt\nsejugatam a conjuge, nunquam societatem inire cum alio, sed sine conjuge manere\ncoelibem, recordatione amissi consortis conjugium alterius abnuentem. Gregor.\nNazianz.</i> in <i>Praeceptis ad virgines</i> Carm. 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De turture quoque et palumbe <i>Philosophus</i> idem scribit: Ἔχει δὲ τὸν ἄῤῥενα ἡ\nτρυγὼν τὸν αὐτὸν καὶ φάττα, καὶ ἄλλον οὐ προσίενται, <i>Turtur quoque, et pa-\nlumbus marem unum habent., neque alterum admittunt.</i> Quin palumbos adulteria\nmorte punire, tradunt <i>Porphyrius, De abstin. anim.</i> lib. 3. et <i>Phile, De anim.</i>\ncap. 19. Uterque ex <i>Aeliano Hist.</i> lib. 3. cap. 44. ubi turtures addit eandem\nlegem sancte servare: sed columbas albas ex adulteriis solos mares perimere,\nfoeminarum misertas. <i>Clemens</i> quoque <i>Stromat</i>ων libro secundo animalia quae-\ndam esse tradit, ἃ τὴν ἐπιμιξίαν οὐ ποιεῖται πρὸς πολλὰ καὶ ἀναίδην, ἀλλὰ\nπρὸς ἓν, καὶ ὁμόφυλον· οἷαι αἱ πελειάδες, καὶ αἱ φάσσαι, καὶ τὸ τρυγόνων\nγένος, καὶ ὅσα τούτοις παραπλήσια, <i>quae cum multis et imprudenter non con-\ngrediuntur, sed cum uno, eoque ejusdem generis, ut sunt columbae, et palumbes,\net turturum genus, et quae sunt his similia.</i> Quid quod columbam nigram post\nconjugis obitum viduam ajunt permanere, atque ideo apud <i>Aegyptios</i> symbolum\nfuisse mulieris, quae a secundis nuptiis abhorret. <i>Horus</i> lib. 2. cap. 30. Γυναῖ-\nκα χήραν ἐπιμείνασαν ἄχρι θανάτου θέλοντες σημῆναι, περιστερὰν μέλαιναν\nζωγραφοῦσιν· αὕτη γὰρ οὐ συμμίγνυται ἑτέρῳ ἀνδρὶ ἕως οὗ χηρεύει <i>Mulierem,\nquae ad mortem usque vidua manet, significare cum volunt, nigram pingunt colum-\nbam: haec enim, quamdiu vidua est, alteri mari non jungitur.</i> Proinde <i>Tertul-\nlianus</i> monogamiam suam columbae exemplo stabilire conatur: <i>Avis</i>, inquit,\n<i>non tantum innocuae, sed et pudicae, quam unam unus masculus novit.</i> At id\nipsum in turtures magno consensu transtulerunt <i>Patres</i> posteriores, qua de causa\nnullus scio. <i>Origenes</i> in <i>Cant.</i> Homil. 2. <i>Turturum ferunt hujusmodi naturam\nesse, ut neque masculum praeter unam foeminam adeat aliam, nec foemina plus\nquam unum patiatur marem. Ita, ut, si accidat, altero intercepto superesse alte-\nrum, pariter cum conjuge extinctus sit ei concubitus amor. Basilius</i> in <i>Hexaëme-\nron</i> Homil. 8. Τὴν τρυγόνα φασὶ διαζευχθεῖσάν ποτε τοῦ ὁμόζυγος, μηκέτι\nτὴν πρὸς ἕτερον καταδέχεσθαι κοινωνίαν, ἀλλὰ μένειν ἀσυνδύαστον, μνήμῃ τοῦ\nποτε συζευχθέντος τὴν πρὸς ἕτερον κοινωνίαν ἀπαρνημένην· <i>Turturem ajunt\nsejugatam a conjuge, nunquam societatem inire cum alio, sed sine conjuge manere\ncoelibem, recordatione amissi consortis conjugium alterius abnuentem. Gregor.\nNazianz.</i> in <i>Praeceptis ad virgines</i> Carm. 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πυνθάνομ᾽ ὡς πτερόεσσα τρυγὼν τρυγόνος φιλίοιο\nΧηρωθεῖσ᾽ ὁμόλεκτρον ἑὸν ποθέουσα σαόφρων,\nΟὐ δέχεται πόσιν ἄλλον ἑῆς καθύπερθε καλιῆς·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πυνθάνομ᾽ ὡς πτερόεσσα τρυγὼν τρυγόνος φιλίοιο\nΧηρωθεῖσ᾽ ὁμόλεκτρον ἑὸν ποθέουσα σαόφρων,\nΟὐ δέχεται πόσιν ἄλλον ἑῆς καθύπερθε καλιῆς·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Alatam turturis foeminam audio, amico turture viduatam, conjugis suae desiderio\ntemperantem, in nido suo nullum alium conjugem admittere. Chrysostomus</i> Ho-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Alatam turturis foeminam audio, amico turture viduatam, conjugis suae desiderio\ntemperantem, in nido suo nullum alium conjugem admittere. Chrysostomus</i> Ho-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "milia",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "milia"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1733,
+    1460
+   ],
+   [
+    1733,
+    1352
+   ]
+  ],
+  "input_tokens": 8219,
+  "output_tokens": 1926,
+  "cost_usd": 0,
+  "seconds": 429.5,
+  "vote": "0 decisions from v2-524-590"
+ }
+}

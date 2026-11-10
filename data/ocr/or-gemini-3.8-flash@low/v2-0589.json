@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. non ftercus columbarum. 589",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. non ftercus columbarum. 589"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>folo virus ciceris et lini: alterum, quia fit falfae; alterum, quia fit fervidae natu-\nrae.</i> Et <i>Plinius</i> libri decimi octavi capite duodecimo, <i>Ciceris natura eft gigni\ncùm falfedine, ideo folum urit.</i> Et libro decimo feptimo, <i>Commune omnium fa-\ntorum vitium urica, etiam ciceris, cum falfilaginem ejus obluendo imber dulcius id\nfacit.</i> Id <i>Galenus</i> libro fexto <i>De fimplic. amaritudinem</i> vocat, cum de ciceri-\nbus dicit: Μετέχουσι δὲ τι καὶ τῆς πικρότητος· <i>Etiam amaritudinis aliquid ha-\nbent.</i> Et de cicere fylveftri, Δριμύτερός τ’ ἐστι, καὶ πικρότερος, <i>Acrius eft et\namarius.</i> Sed <i>amarum</i> pro <i>falfo</i> pofuit, ut cum <i>Poeta</i> dicit de mari,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>folo virus ciceris et lini: alterum, quia fit falfae; alterum, quia fit fervidae natu-\nrae.</i> Et <i>Plinius</i> libri decimi octavi capite duodecimo, <i>Ciceris natura eft gigni\ncùm falfedine, ideo folum urit.</i> Et libro decimo feptimo, <i>Commune omnium fa-\ntorum vitium urica, etiam ciceris, cum falfilaginem ejus obluendo imber dulcius id\nfacit.</i> Id <i>Galenus</i> libro fexto <i>De fimplic. amaritudinem</i> vocat, cum de ciceri-\nbus dicit: Μετέχουσι δὲ τι καὶ τῆς πικρότητος· <i>Etiam amaritudinis aliquid ha-\nbent.</i> Et de cicere fylveftri, Δριμύτερός τ’ ἐστι, καὶ πικρότερος, <i>Acrius eft et\namarius.</i> Sed <i>amarum</i> pro <i>falfo</i> pofuit, ut cum <i>Poeta</i> dicit de mari,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Doris amara fuam non intermifceat undam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Doris amara fuam non intermifceat undam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde ex ciceris quodam genere, ut notavimus, <i>Arabes</i> celeberrimum illud\nfal eliciunt, quod inde vocatur <i>fal alkali</i>, id eft, <i>fal adufti ciceris</i>. Ad locum\nigitur, in quo verfamur, cum monuiffent <i>Hebraei</i> vetuftiores, ftercus columba-\nrum id effe, unde elicitur fal: id mala manu acceptum a <i>Iofepho</i>, qui fcripfit,\ncolumbarum ftercus <i>Samariae</i> fuiffe ἀντὶ ἁλῶν, <i>pro fale</i>. Ex quo <i>Theodoretus</i>\nin 4. <i>Reg. Quaeft.</i> 21. Ἡ τῆς πολιορκίας ἀνάγκη, καὶ τοῦ λίμου τὸ μέγεθος\nἠνάγκασεν αὐτοὺς ἀντὶ ἁλῶν κεχρῆσθαι τῷ κόπρῳ. <i>Neceffitas obfidionis et fa-\nmis magnitudo cogebat eos ftercore uti pro fale</i> (<sup>9</sup>).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde ex ciceris quodam genere, ut notavimus, <i>Arabes</i> celeberrimum illud\nfal eliciunt, quod inde vocatur <i>fal alkali</i>, id eft, <i>fal adufti ciceris</i>. Ad locum\nigitur, in quo verfamur, cum monuiffent <i>Hebraei</i> vetuftiores, ftercus columba-\nrum id effe, unde elicitur fal: id mala manu acceptum a <i>Iofepho</i>, qui fcripfit,\ncolumbarum ftercus <i>Samariae</i> fuiffe ἀντὶ ἁλῶν, <i>pro fale</i>. Ex quo <i>Theodoretus</i>\nin 4. <i>Reg. Quaeft.</i> 21. Ἡ τῆς πολιορκίας ἀνάγκη, καὶ τοῦ λίμου τὸ μέγεθος\nἠνάγκασεν αὐτοὺς ἀντὶ ἁλῶν κεχρῆσθαι τῷ κόπρῳ. <i>Neceffitas obfidionis et fa-\nmis magnitudo cogebat eos ftercore uti pro fale</i> (<sup>9</sup>)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Vix opus videtur, ut lectorem mo-\nneamus, haec omnia in vanum effe difpu-\ntata, quum ea res, quam Arabes <i>ftercus\ncolumbarum</i> vocant, non ex ciceris genere\nfit (quo, tanquam fundamento, omnis nititur\nBocharti argumentatio), verum <i>falfugino-\nfae plantae</i> fpecies, ut abunde probavimus\n<i>not. 5.</i> Minoris momenti funt, quae in\nBocharti fententiam dixit OTHO VERBRUG-\nGE in <i>Obfervatt. Philologg. de nominum\nHebraeorum plurali numero</i> Groen. 1730.\nin duoden. pag. 7. 8. Ipfe חרייוני exiguos\npanes fignificari exiftimat a Singulari חריין,\nquod diminutivum effe vult τοῦ חרי, panis\nfpecies apud Chaldaeos atque Talmudicos.\nQuae opinio vix cuiquam probetur, quum\npanibus nullo modo conveniat, quod de\nחריינים dicitur in facro textu, ea per cabos\neffe menfurata. Multo ineptius eft, quod\nHILLERUS in medium protulit in <i>Hiero-\nphyt. P. II. C. XXII. Sect. III. p. 129.</i> חריינים\neffe <i>foramina columbina</i>, hoc eft, colum-\nbarum exta, quae perforata e corpore ci-\nbum et incrementa educunt. Quibus omni-\nbus expenfis praeftat eam vocis vexatiffi-\nmae interpretationem retinere, quam hu-\njus capitis initio primo loco recenfuit Bo-\nchartus, verum ibidem repudiavit; fed\nimmerito, ut oftendimus <i>nota prima</i>.",
+   "marker": "(9)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vix opus videtur, ut lectorem mo-\nneamus, haec omnia in vanum effe difpu-\ntata, quum ea res, quam Arabes <i>ftercus\ncolumbarum</i> vocant, non ex ciceris genere\nfit (quo, tanquam fundamento, omnis nititur\nBocharti argumentatio), verum <i>falfugino-\nfae plantae</i> fpecies, ut abunde probavimus\n<i>not. 5.</i> Minoris momenti funt, quae in\nBocharti fententiam dixit OTHO VERBRUG-\nGE in <i>Obfervatt. Philologg. de nominum\nHebraeorum plurali numero</i> Groen. 1730.\nin duoden. pag. 7. 8. Ipfe חרייוני exiguos\npanes fignificari exiftimat a Singulari חריין,\nquod diminutivum effe vult τοῦ חרי, panis\nfpecies apud Chaldaeos atque Talmudicos.\nQuae opinio vix cuiquam probetur, quum\npanibus nullo modo conveniat, quod de\nחריינים dicitur in facro textu, ea per cabos\neffe menfurata. Multo ineptius eft, quod\nHILLERUS in medium protulit in <i>Hiero-\nphyt. P. II. C. XXII. Sect. III. p. 129.</i> חריינים\neffe <i>foramina columbina</i>, hoc eft, colum-\nbarum exta, quae perforata e corpore ci-\nbum et incrementa educunt. Quibus omni-\nbus expenfis praeftat eam vocis vexatiffi-\nmae interpretationem retinere, quam hu-\njus capitis initio primo loco recenfuit Bo-\nchartus, verum ibidem repudiavit; fed\nimmerito, ut oftendimus <i>nota prima</i>."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Eeee 3 CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Eeee 3 CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1752,
+    1302
+   ],
+   [
+    1752,
+    1506
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1174,
+  "cost_usd": 0,
+  "seconds": 1587.3
+ }
+}

@@ -128,6 +128,11 @@ def main():
             continue
         n_words += len(m)
         readers = {"flash": tokens(a.flash, pk)[0], "mdz": tokens("mdz", pk)[0]}
+        for name in [n for n, r in readers.items() if not r]:  # an absent reader would flag the whole page as one block
+            print(f"{pk}: no {name} OCR (run mdz_ocr.py / ocr.py); compared without it")
+            del readers[name]
+        if not readers:
+            continue
         ops, spans = {}, []
         for name, r in readers.items():
             mdz = name == "mdz"
@@ -148,9 +153,10 @@ def main():
         for i1, i2 in merged:
             mw = " ".join(w for w, _ in m[i1:i2])
             row = {"page": pk, "script": script_of(mw), "main": mw}
-            for name, r in readers.items():
-                j1, j2 = span(ops[name], i1, i2)
-                row[name] = " ".join(w for w, _ in r[j1:j2])
+            for name in ("flash", "mdz"):
+                r = readers.get(name)
+                j1, j2 = span(ops[name], i1, i2) if r else (0, 0)
+                row[name] = " ".join(w for w, _ in r[j1:j2]) if r else ""
             mk = sorted(key(w, True) for w, _ in m[i1:i2])
             row["kind"] = ("order" if i2 - i1 > 1 and all(sorted(key(w, True) for w in row[n].split()) == mk
                                                           for n in readers if row[n])

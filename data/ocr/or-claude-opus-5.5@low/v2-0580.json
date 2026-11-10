@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "580 <i>Prob.,</i> חריונים<i>, vel</i> דביונים <i>esse ciceris genus,</i> P. II. L. I,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "580 <i>Prob.,</i> חריונים<i>, vel</i> דביונים <i>esse ciceris genus,</i> P. II. L. I,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quo</i> Chium <i>pretio cadum.</i>\n<i>Mercemur?</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quo</i> Chium <i>pretio cadum.</i>\n<i>Mercemur?</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et ut <i>cabus</i>, ita <i>cadus Hebraeae</i> est originis. Nempe ut קב <i>kab</i> est <i>cabus</i>, ita כד\n<i>cad, cadus</i>. Quamvis <i>Hebraeum</i> כד pateat latius. Nam a <i>Mose</i>, <i>Solomone</i> et\n<i>Elia</i> sumitur pro <i>hydria</i>. Vide <i>Gen. XXIV</i>, 14. <i>Eccles. XII</i>, 8. et 1 <i>Reg.</i>\n<i>XVIII</i>, 34.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et ut <i>cabus</i>, ita <i>cadus Hebraeae</i> est originis. Nempe ut קב <i>kab</i> est <i>cabus</i>, ita כד\n<i>cad, cadus</i>. Quamvis <i>Hebraeum</i> כד pateat latius. Nam a <i>Mose</i>, <i>Solomone</i> et\n<i>Elia</i> sumitur pro <i>hydria</i>. Vide <i>Gen. XXIV</i>, 14. <i>Eccles. XII</i>, 8. et 1 <i>Reg.</i>\n<i>XVIII</i>, 34."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Aliorum sententiis ita expensis, jam superest, ut nostram quoque profe-\nramus. Quae ut stabiliatur, primo hoc ponendum ut certissimum, per colum-\nbinum stercus cibi genus significari. Alioqui nulla esset in hac oratione series,\n<i>Fames erat magna</i> Samariae: <i>nam caput asini venibat octoginta argenteis</i>, <i>et quar-</i>\n<i>ta pars cabi stercoris columbini quinque argenteis</i>. Porro, cum probatum sit,\ncolumbarum stercus, ut vulgo accipiuntur hae voces, nullo modo esse in cibis,\niis aliud significari necesse est. Qua de re cum <i>Arabes</i> consuluissem, reperi, duo\nquaedam esse hoc epitheto apud illos insigniri solita. Quorum unum illud est,\nquod alio nomine vocatur كوز كندم <i>kuz kendem</i>, vel جوز جندم\n<i>giauz gendem</i>, id est, nucem a loco sic dicto. Nux enim <i>Persice</i> كوز <i>kuz</i>,\net <i>Arabice</i> جوز <i>giauz</i> dicitur. Et <i>Kendem</i>, vel <i>Gendem</i> eadem vox. Nam\n<i>Caph Persicum</i> ibi sonat <i>G</i> propter tria puncta superposita. Porro de hac nuce\nsic <i>Avicenna</i> lib. 2. <i>Can.</i> كوز كندم الماهية هو خفيف\nكالاشنة طيني وبالرقة يسمونه حرا الحمام وببغداد\nيسمي جوز جندم الاختيار اجوده المربري والذفني\nضعيف Kuzkendem, <i>quid est? Res est levis</i>, <i>ut muscus arboreus</i>, <i>lutea.</i>\n<i>Quam in urbe Racca</i> (ad <i>Euphratem</i> infra <i>Samosatam</i> in <i>Mesopotamia</i>) <i>vocant ster-</i>\n<i>cus columbarum. Et Bagdadi giauz Gendem. Electio. Optima est Barbarica,</i>\n<i>sed Daphnensis est debilis.</i> Reliqua ibi vide. Idem alibi, جوز جندم\nالطبع قال بولس له قوة مبردة مطفية مجففة\nقليلا <i>Giauz</i>, seu nux <i>Gendem. Natura ejus. Dixit</i> Paulus, <i>virtutem ha-</i>\n<i>bere refrigerandi</i>, <i>extinguendi et exsiccandi parumper.</i> Sed ibi omissa est defini-\ntio, quae in <i>Latina</i> versione sic habet: <i>Nux Kendem quid est? Est terra granosa</i>\n<i>sicut cicer</i>, <i>alba</i>, <i>declinans</i>, <i>ad citrinitatem</i>, <i>quae exportatur de Barca et de Co-</i>\n<i>rascena</i>, <i>ex qua cum melle fit vinum.</i> Quae definitio si vera est, nihil nos juvat.\nEst enim terrae species, quarum nulla est esculenta.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aliorum sententiis ita expensis, jam superest, ut nostram quoque profe-\nramus. Quae ut stabiliatur, primo hoc ponendum ut certissimum, per colum-\nbinum stercus cibi genus significari. Alioqui nulla esset in hac oratione series,\n<i>Fames erat magna</i> Samariae: <i>nam caput asini venibat octoginta argenteis</i>, <i>et quar-</i>\n<i>ta pars cabi stercoris columbini quinque argenteis</i>. Porro, cum probatum sit,\ncolumbarum stercus, ut vulgo accipiuntur hae voces, nullo modo esse in cibis,\niis aliud significari necesse est. Qua de re cum <i>Arabes</i> consuluissem, reperi, duo\nquaedam esse hoc epitheto apud illos insigniri solita. Quorum unum illud est,\nquod alio nomine vocatur كوز كندم <i>kuz kendem</i>, vel جوز جندم\n<i>giauz gendem</i>, id est, nucem a loco sic dicto. Nux enim <i>Persice</i> كوز <i>kuz</i>,\net <i>Arabice</i> جوز <i>giauz</i> dicitur. Et <i>Kendem</i>, vel <i>Gendem</i> eadem vox. Nam\n<i>Caph Persicum</i> ibi sonat <i>G</i> propter tria puncta superposita. Porro de hac nuce\nsic <i>Avicenna</i> lib. 2. <i>Can.</i> كوز كندم الماهية هو خفيف\nكالاشنة طيني وبالرقة يسمونه حرا الحمام وببغداد\nيسمي جوز جندم الاختيار اجوده المربري والذفني\nضعيف Kuzkendem, <i>quid est? Res est levis</i>, <i>ut muscus arboreus</i>, <i>lutea.</i>\n<i>Quam in urbe Racca</i> (ad <i>Euphratem</i> infra <i>Samosatam</i> in <i>Mesopotamia</i>) <i>vocant ster-</i>\n<i>cus columbarum. Et Bagdadi giauz Gendem. Electio. Optima est Barbarica,</i>\n<i>sed Daphnensis est debilis.</i> Reliqua ibi vide. Idem alibi, جوز جندم\nالطبع قال بولس له قوة مبردة مطفية مجففة\nقليلا <i>Giauz</i>, seu nux <i>Gendem. Natura ejus. Dixit</i> Paulus, <i>virtutem ha-</i>\n<i>bere refrigerandi</i>, <i>extinguendi et exsiccandi parumper.</i> Sed ibi omissa est defini-\ntio, quae in <i>Latina</i> versione sic habet: <i>Nux Kendem quid est? Est terra granosa</i>\n<i>sicut cicer</i>, <i>alba</i>, <i>declinans</i>, <i>ad citrinitatem</i>, <i>quae exportatur de Barca et de Co-</i>\n<i>rascena</i>, <i>ex qua cum melle fit vinum.</i> Quae definitio si vera est, nihil nos juvat.\nEst enim terrae species, quarum nulla est esculenta."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et aliud est genus columbini stercoris apud <i>Arabes</i>, ab hoc plane di-\nversum. Nempe id ipsum, quod vulgo vocatur <i>usnen.</i> Id enim alio nomine\nappellari constat <i>stercus passerum</i>, aut <i>columbarum</i>. <i>Avicenna</i> lib. 2. اشنان\nالماهية",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et aliud est genus columbini stercoris apud <i>Arabes</i>, ab hoc plane di-\nversum. Nempe id ipsum, quod vulgo vocatur <i>usnen.</i> Id enim alio nomine\nappellari constat <i>stercus passerum</i>, aut <i>columbarum</i>. <i>Avicenna</i> lib. 2. اشنان\nالماهية"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1694,
+    1274
+   ],
+   [
+    1694,
+    1522
+   ]
+  ],
+  "input_tokens": 8056,
+  "output_tokens": 1744,
+  "cost_usd": 0,
+  "seconds": 429.5
+ }
+}

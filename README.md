@@ -27,11 +27,18 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Book 4, ch. 6: the *tinshemeth* is the chameleon | 503–510 | [Latin](data/entries/tinshemet/la.md) · [English](data/entries/tinshemet/en.md) | 〃 |
 | Book 4, ch. 7: the *semamith* is the stellio | 510–520 | [Latin](data/entries/semamit/la.md) · [English](data/entries/semamit/en.md) | 〃 |
 | Book 4, ch. 8: altars "like tortoises" (Hos 12:12) | 520–523 | [Latin](data/entries/chelonai/la.md) · [English](data/entries/chelonai/en.md) | 〃 |
+| Part 2, Book 1, ch. 1: the Hebrew name of the dove | 524–532 | [Latin](data/entries/jonah/la.md) · [English](data/entries/jonah/en.md) | $8.23 for the 7 chapters (66 new pages; tranche 2, 10-Nov-2026) |
+| Part 2, Book 1, ch. 2: the dove's feathers, neck, eyes, moaning and flight | 533–544 | [Latin](data/entries/columba-pennae/la.md) · [English](data/entries/columba-pennae/en.md) | 〃 |
+| Part 2, Book 1, ch. 3: the dwellings of doves | 545–548 | [Latin](data/entries/columbaria/la.md) · [English](data/entries/columbaria/en.md) | 〃 |
+| Part 2, Book 1, ch. 4: the dove's simplicity, gentleness, chastity and timidity | 549–556 | [Latin](data/entries/columba-mores/la.md) · [English](data/entries/columba-mores/en.md) | 〃 |
+| Part 2, Book 1, ch. 5: the sacrifices of doves and turtledoves | 557–559 | [Latin](data/entries/columba-sacrificia/la.md) · [English](data/entries/columba-sacrificia/en.md) | 〃 |
+| Part 2, Book 1, ch. 6: Noah's dove; the dove at the baptism of Christ | 560–571 | [Latin](data/entries/columba-noachi/la.md) · [English](data/entries/columba-noachi/en.md) | 〃 |
+| Part 2, Book 1, ch. 7: *chiryonim* (2 Kgs 6:25) is a kind of chickpea, not dove's dung | 572–589 | [Latin](data/entries/chiryonim/la.md) · [English](data/entries/chiryonim/en.md) | 〃 |
 
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
-`logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv` and `logs/vote_v2-455-524.csv` (column `outcome`),
-and for tranche 1 the scan-check answers in `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is
-not in git.
+`logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv` and
+`logs/vote_v2-524-590.csv` (column `outcome`), and for tranches 1 and 2 the scan-check answers in
+`logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works
 
@@ -97,14 +104,22 @@ export OPENROUTER_KEY_FILE="path/to/key.txt"
 
    Read the doubtful changes on the scan; add them to `ACCEPT` or `REJECT` in `vote.py`, and run
    `vote.py` again. For a large range, `uv run review_pack.py 455 524 --group B:463-487 ...` writes a
-   2x crop and a row per review item and per applied change, for one reader (a subagent) per group.
+   2x crop and a row per review item and per applied change, for one reader (a subagent) per group;
+   the reader's instructions are `logs/review_prompt_t2.md`, and `uv run apply_review.py 524 590
+   --groups A_524-544` turns the readers' `decisions.tsv` into the lines for `ACCEPT`, `REJECT` and
+   `entry.FIXES` (10-Nov-2026). `mdz_ocr.py` must have run for every page first: a page without the
+   MDZ reader is flagged as one block and gets no judge lines (`check.py` now says so).
 
    Check that the OCR crop did not cut the text: `ocr.safe_box` widens the crop to every MDZ text line
    since 09-Nov-2026 (before, pp. 506, 510, 520 and 524 lost their line ends, and Flash got the same
    cut crops, so only MDZ showed it).
 
 4. Add the chapter to `ENTRIES` in `entry.py` (pages, start and end patterns, subject, fixed
-   terms), join the pages and check the joins, then translate:
+   terms), join the pages and check the joins, then translate. A catchword read into the body text
+   (the last line of the page's last paragraph = the first word of the next page) is dropped
+   automatically since 10-Nov-2026 (`entry.drop_catchwords`, printed per page). `uv run
+   names_candidates.py jonah ...` lists capitalized words that `names.json` does not cover, for new
+   rows (the English form, and an identification for Jewish and Arabic authors):
 
    ```bash
    uv run entry.py choled --no-translate

@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "556 De Columbae timiditate. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "556 De Columbae timiditate. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "lumba enim est animal pavidissimum. Hinc <i>Varro</i> de columbis <i>Rust.</i> lib. 3.\ncap. 7. <i>Propter timorem naturalem summa loca in tectis captant.</i> Et paullo post,\n<i>Nihil enim timidius columba.</i> Et apud <i>Ovidium Metam.</i> lib. 5. Fab. 10. <i>Arethusa</i>\nNympha de se et insequente <i>Alpheo</i>,\n<i>Sic ego currebam, sic me ferus ille premebat,\nUt fugere accipitrem penna trepidante columba,\nEt solet accipiter trepidas urgere columbas.</i>\n<b>Et</b> <i>Trist.</i> lib. 1. Eleg. 1.\n<i>Terretur minimo pennae stridore columba,\nUnguibus accipiter saucia facta tuis.</i>\n<b>Et</b> <i>Valerius Flaccus</i> libro octavo <i>Argonauticων</i> de Medea,\n<i>Ecce! autem pavidae virgo de more columbae,\nCum semper ingenti circumdata praepetis umbra,\nIn quemcunque tremens hominem cadit. Haud secus illa,\nIcta timore gravi, mediam se misit,</i> etc.\n<b>Ut</b> Chorus in <i>Ajace</i> Sophoclis versu 139.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "lumba enim est animal pavidissimum. Hinc <i>Varro</i> de columbis <i>Rust.</i> lib. 3.\ncap. 7. <i>Propter timorem naturalem summa loca in tectis captant.</i> Et paullo post,\n<i>Nihil enim timidius columba.</i> Et apud <i>Ovidium Metam.</i> lib. 5. Fab. 10. <i>Arethusa</i>\nNympha de se et insequente <i>Alpheo</i>,\n<i>Sic ego currebam, sic me ferus ille premebat,\nUt fugere accipitrem penna trepidante columba,\nEt solet accipiter trepidas urgere columbas.</i>\n<b>Et</b> <i>Trist.</i> lib. 1. Eleg. 1.\n<i>Terretur minimo pennae stridore columba,\nUnguibus accipiter saucia facta tuis.</i>\n<b>Et</b> <i>Valerius Flaccus</i> libro octavo <i>Argonauticων</i> de Medea,\n<i>Ecce! autem pavidae virgo de more columbae,\nCum semper ingenti circumdata praepetis umbra,\nIn quemcunque tremens hominem cadit. Haud secus illa,\nIcta timore gravi, mediam se misit,</i> etc.\n<b>Ut</b> Chorus in <i>Ajace</i> Sophoclis versu 139."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "—— πεφόβημαι\nΠτηνῆς ὡς ὄμμα πελειάς.\n<i>Timeo ut volucris oculus columbae.</i> Et alius poeta apud <i>Suidam</i> in Πελείαδες·\nΔειλαί τοι δείλοισιν ἐφεδρεύουσι πέλειαι,\n<i>Timidae timidis insident columbae.</i> Quo pertinet, quod columba τρήρων toties\nab <i>Homero</i> dicitur, ἐπεὶ διὰ τὴν ἀσθένειαν εὐλαβὴς ἡ ὄρνις αὕτη, τρεῖν δ’ ἐστὶ\n⟦p. 25.⟧ τὸ εὐλαβείσθαι, <i>quia propter imbecillitatem avis est meticulosa, nam</i> τρεῖν <i>est me-</i>\n<i>tuere.</i> Ita <i>Athenaeus</i> libro nono. Neque aliter vetus <i>Homeri Scholiastes</i>, <i>Eu-</i>\n<i>stathius</i> in <i>Odyss.</i> μ’. <i>Hesychius</i>, <i>Suidas</i>, <i>Etymologus</i>, etc. Et <i>Homerum</i> sic imi-\ntatur <i>Apollonius</i>, <i>Argonauticων</i> libro 3. versu 541.\nΤρήρων μὲν φεύγουσα βίην κίρκοιο πελειὰς,\nὙψόθεν Αἰσονίδεω πεφοβημένη ἔμπεσε κόλποις·\n<i>Pavida quidem fugiens vim accipitris columba, ex alto terrefacta in Aesonoi-</i>\n<i>dae sinum incidit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "—— πεφόβημαι\nΠτηνῆς ὡς ὄμμα πελειάς.\n<i>Timeo ut volucris oculus columbae.</i> Et alius poeta apud <i>Suidam</i> in Πελείαδες·\nΔειλαί τοι δείλοισιν ἐφεδρεύουσι πέλειαι,\n<i>Timidae timidis insident columbae.</i> Quo pertinet, quod columba τρήρων toties\nab <i>Homero</i> dicitur, ἐπεὶ διὰ τὴν ἀσθένειαν εὐλαβὴς ἡ ὄρνις αὕτη, τρεῖν δ’ ἐστὶ\n⟦p. 25.⟧ τὸ εὐλαβείσθαι, <i>quia propter imbecillitatem avis est meticulosa, nam</i> τρεῖν <i>est me-</i>\n<i>tuere.</i> Ita <i>Athenaeus</i> libro nono. Neque aliter vetus <i>Homeri Scholiastes</i>, <i>Eu-</i>\n<i>stathius</i> in <i>Odyss.</i> μ’. <i>Hesychius</i>, <i>Suidas</i>, <i>Etymologus</i>, etc. Et <i>Homerum</i> sic imi-\ntatur <i>Apollonius</i>, <i>Argonauticων</i> libro 3. versu 541.\nΤρήρων μὲν φεύγουσα βίην κίρκοιο πελειὰς,\nὙψόθεν Αἰσονίδεω πεφοβημένη ἔμπεσε κόλποις·\n<i>Pavida quidem fugiens vim accipitris columba, ex alto terrefacta in Aesonoi-</i>\n<i>dae sinum incidit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "google/gemini-3.8-flash:batch",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1810,
+    1311
+   ],
+   [
+    1810,
+    1501
+   ]
+  ],
+  "input_tokens": 3406,
+  "output_tokens": 863,
+  "cost_usd": 0,
+  "seconds": 1587.2
+ }
+}

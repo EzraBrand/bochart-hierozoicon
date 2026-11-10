@@ -201,7 +201,17 @@ BOOKS = {"Gen": "Gen", "Exod": "Exod", "Levit": "Lev", "Lev": "Lev", "Deut": "De
          # tranche 1 (09-Nov-2026); "Reg." (Vulgate 1-4 Kings = 1-2 Sam, 1-2 Kgs) is left as printed
          "Psalm": "Ps", "Num": "Num", "Ios": "Josh", "Iob": "Job", "Eccles": "Eccl", "Ies": "Isa",
          "Ierem": "Jer", "Os": "Hos", "Sophon": "Zeph", "Zephan": "Zeph", "Zeph": "Zeph",
-         "Iudith": "Jdt", "Tob": "Tob", "Macchab": "Macc", "Cor": "Cor"}
+         "Iudith": "Jdt", "Tob": "Tob", "Macchab": "Macc", "Cor": "Cor",
+         # tranche 2 (10-Nov-2026, the birds): the books the dove chapters cite. "Reg." and "Iud." (Judges
+         # or Jude) stay as printed
+         "Cant": "Song", "Cantic": "Song", "Canticor": "Song", "Matth": "Matt", "Matt": "Matt", "Marc": "Mark",
+         "Luc": "Luke", "Ioh": "John", "Iohan": "John", "Joh": "John", "Act": "Acts", "Rom": "Rom",
+         "Apoc": "Rev", "Ezech": "Ezek", "Dan": "Dan", "Ion": "Jonah", "Mich": "Mic", "Nah": "Nah",
+         "Hab": "Hab", "Habac": "Hab", "Zach": "Zech", "Zachar": "Zech", "Mal": "Mal", "Malach": "Mal",
+         "Nehem": "Neh", "Esdr": "Ezra", "Thren": "Lam", "Sap": "Wis", "Sapient": "Wis", "Hebr": "Heb",
+         "Iac": "Jas", "Pet": "Pet", "Judic": "Judg", "Iudic": "Judg", "Ruth": "Ruth", "Esth": "Esth",
+         "Ezr": "Ezra", "Hagg": "Hag", "Obad": "Obad", "Amos": "Amos", "Jerem": "Jer", "Jes": "Isa",
+         "Ies": "Isa", "Jos": "Josh", "Iosu": "Josh", "Josu": "Josh"}
 # the dot after the verse number ("Levit. XI, 5.") is the number's, not a sentence end: dropped
 BIBLE = re.compile(r"\b(" + "|".join(sorted(BOOKS, key=len, reverse=True)) + r")[.,]?\s+([IVXLC]+)[.,]?\s*(\d+)\b\.?")
 

@@ -15,6 +15,7 @@ mark at the top of a page continues the last note of the page before.
 import argparse
 import hashlib
 import json
+import os
 import re
 import sys
 import time
@@ -23,7 +24,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
-SOURCE = "or-claude-opus-5.5@low+vote"
+SOURCE = os.environ.get("ENTRY_SOURCE", "or-claude-opus-5.5@low+vote")  # ENTRY_SOURCE: a dry run on another OCR
 CHUNK_CHARS = 5000
 
 # start / end: regexes for the first block of the chapter and the first block after it.
@@ -110,6 +111,56 @@ ENTRIES = {
                  "about": "the chapter on why the Greek version (the Septuagint) of Hosea says that the altars "
                           "of the idols are ὡς χελῶναι, like tortoises",
                  "terms": '"testudo" -> "tortoise" (or "tortoise shell" where the shell is meant);'},
+    # Tranche 2, 10-Nov-2026: Pars II (the birds), Book 1 (the clean birds), chs. 1-7: the dove. Chapter
+    # heads from the MDZ hOCR (logs/find_chapters_t2.log). The margin columns of 1663 start again at 1.
+    "jonah": {"vol": 2, "pages": list(range(524, 534)),
+              "title": "Part 2, Book 1, chapter 1: The Hebrew name of the dove (vol. 2, pp. 524–532)",
+              "start": r"PARS SECUNDA", "end": r"^CAP\.\s*II\.",
+              "about": "the first chapter of Part 2 (the birds), Book 1 (the clean birds): the Hebrew name of "
+                       "the dove, יונה (jonah), and its etymology",
+              "terms": '"columba" -> "dove" (never "pigeon"); "turtur" -> "turtledove"; "palumbes" -> "wood '
+                       'pigeon"; "jonah"/"jona" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "columba-pennae": {"vol": 2, "pages": list(range(533, 546)),
+                       "title": "Part 2, Book 1, chapter 2: The dove's feathers, neck, eyes, moaning and flight "
+                                "(vol. 2, pp. 533–544)",
+                       "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.",
+                       "about": "the chapter on the dove's feathers, neck, eyes, moaning and flight in the Bible",
+                       "terms": '"columba" -> "dove" (never "pigeon"); "turtur" -> "turtledove"; "gemitus" -> '
+                                '"moaning"; "pennae" -> "feathers" (or "wings" where the flight is meant);'},
+    "columbaria": {"vol": 2, "pages": list(range(545, 550)),
+                   "title": "Part 2, Book 1, chapter 3: The dwellings of doves (vol. 2, pp. 545–548)",
+                   "start": r"^CAP\.\s*III\.", "end": r"^CAP\.\s*IV\.",
+                   "about": "the chapter on where doves dwell: dovecotes, rocks and clefts",
+                   "terms": '"columba" -> "dove" (never "pigeon"); "columbarium" -> "dovecote";'},
+    "columba-mores": {"vol": 2, "pages": list(range(549, 558)),
+                      "title": "Part 2, Book 1, chapter 4: The dove's simplicity, gentleness, chastity and "
+                               "timidity (vol. 2, pp. 549–556)",
+                      "start": r"^CAP\.\s*IV\.", "end": r"^CAP\.\s*V\.",
+                      "about": "the chapter on the dove's simplicity, gentleness, chastity and timidity",
+                      "terms": '"columba" -> "dove" (never "pigeon"); "simplicitas" -> "simplicity"; '
+                               '"mansuetudo" -> "gentleness"; "castitas" -> "chastity";'},
+    "columba-sacrificia": {"vol": 2, "pages": list(range(557, 561)),
+                           "title": "Part 2, Book 1, chapter 5: The sacrifices of doves and turtledoves "
+                                    "(vol. 2, pp. 557–559)",
+                           "start": r"^CAP\.\s*V\.", "end": r"^CAP\.\s*VI\.",
+                           "about": "the chapter on the sacrifices of doves and turtledoves in the Law",
+                           "terms": '"columba" -> "dove" (never "pigeon"); "turtur" -> "turtledove"; '
+                                    '"pullus columbae" -> "young dove";'},
+    "columba-noachi": {"vol": 2, "pages": list(range(560, 573)),
+                       "title": "Part 2, Book 1, chapter 6: Noah's dove, and the form of a dove at the baptism "
+                                "of Christ (vol. 2, pp. 560–571)",
+                       "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.",
+                       "about": "the chapter on Noah's dove (Gen 8) and on the form of a dove in which the Spirit "
+                                "appeared at the baptism of Christ",
+                       "terms": '"columba" -> "dove" (never "pigeon"); "ramus olivae" -> "olive branch";'},
+    "chiryonim": {"vol": 2, "pages": list(range(572, 591)),
+                  "title": "Part 2, Book 1, chapter 7: Chiryonim or dibyonim (2 Kgs 6:25) is a kind of chickpea, "
+                           "not dove's dung (vol. 2, pp. 572–589)",
+                  "start": r"^CAP\.\s*VII\.", "end": r"^CAP\.\s*VIII\.",
+                  "about": "the chapter arguing that חריונים (chiryonim) or דביונים (dibyonim) of 2 Kgs 6:25, "
+                           "sold at a high price in the siege of Samaria, is a kind of chickpea, not dove's dung",
+                  "terms": '"columba" -> "dove" (never "pigeon"); "cicer" -> "chickpea"; "stercus columbarum"/'
+                           '"fimus columbinus" -> "dove\'s dung"; Bochart\'s romanized Hebrew names stay as printed;'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -159,6 +210,36 @@ FIXES = {
     511: [('Εἱλίσσετε', 'Εἰλίσσετε')],
     512: [('στάχυς (lege', 'στάχους (lege')],
     517: [('ἐκδύνηται·', 'ἐκδύηται·')],
+    # tranche 2 (10-Nov-2026): margin column numbers read on the scan (qa.py found the gaps in the
+    # sequence); col. 34 is not printed on pp. 567-568
+    535: [("⟦p. 19⟧", "⟦p. 10⟧"), ('והחורים', 'והתורים')],  # the Hebrew: group A scan check
+    557: [("⟦p. 24⟧", "⟦p. 26⟧")],
+    567: [("⟦p. 39⟧", "⟦p. 33⟧")],
+    # tranche 2, group A, scan check (10-Nov-2026): the print differs from the vote's text (misprints kept)
+    525: [('περιστερὰν δε,', 'περιστεράν δε,')],
+    528: [('albis', 'aleis')],
+    529: [('παλαιοῦ', 'παλαίου')],
+    531: [('cum حمام', 'eum حمام')],
+    537: [('فراف <i>riphraph</i>', 'رفراف <i>riphraph</i>')],
+    542: [('ὀυκ', 'οὐκ')],
+    # tranche 2, group B, scan check (10-Nov-2026): the print differs from the vote's text (misprints kept);
+    # p. 560: the Hebrew words of Ezek 22:24 were read in visual order and without the ו of גושמה
+    546: [('Ἅ ῥά θ᾽ ὑφ᾽', 'Ἥ ῥάθ᾽ ὑφ᾽')],
+    548: [('ἀγροὺς,', 'ἄγρους,')],
+    551: [('مثل', 'مشل'), ('ἀπλούστατοι', 'ἁπλούστατοι')],
+    559: [('למקדשין', 'למקדשי')],
+    560: [('ועם ביום גשמה ולא היא,', 'היא ולא גושמה ביום זעם,')],
+    562: [('Ἄλλα', 'Ἀλλὰ')],
+    563: [('σεγαστὰς', 'στεγαστὰς')],
+    565: [('ὑῶν', 'ὑὼν'), ('مملولة', 'مبلولة')],
+    # tranche 2, group C, scan check (10-Nov-2026): the print differs from the vote's text (misprints kept);
+    # p. 568 Syriac as in the Peshitta of Luke 3:22; p. 589 the Greek article was read as Hebrew דא
+    568: [('ܦܓܪܐ ܕܝܘܢܐ,', 'ܓܘܫܡܐ ܕܝܘܢܐ,')],
+    576: [('מחראות^{d)}', 'טחוראות^{d)}')],
+    578: [('ܢܩܒܐ', 'ܚܪܘܪܐ')],
+    579: [('מדת של', 'מרת של'), ('חטים,', 'חטום,'), ('Φοινικηίου', 'Φοινικηΐου')],
+    589: [('חרי דא,', 'τοῦ חרי,')],
+    590: [('ሞሆኒቅ፡', 'መዐንቅ፡')],
 }
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]
@@ -195,8 +276,39 @@ def page_blocks(vol: int, page: int) -> list[dict]:
         hits[0]["text"] = hits[0]["text"].replace(old, new)
     for b in blocks:
         b["text"] = re.sub(r"\^\{([a-z])\}\)", r"^{\1)}", b["text"])  # p. 419: ^{a}) for ^{a)}
+        b["text"] = re.sub(r"\(\^\{(\d+)\}\)", r"^{(\1)}", b["text"])  # p. 541: (^{6}) for ^{(6)}
         b["text"] = MARGIN.sub(r"[col. \1]", b["text"])
     return blocks
+
+
+CATCHWORD_KEY = re.compile(r"</?i>|[^\w\s֐-ۿ܀-ݏͰ-Ͽἀ-῿-]")
+
+
+def drop_catchwords(vol: int, pages: list[int], blocks: dict[int, list[dict]]) -> None:
+    """The catchword at the foot of a page is often read into the body text, as the last line of the
+    page's last body block (tranche 1: 12 of 74 pages). It is dropped where that last line (1-3 words)
+    is the same as the first words of the next page's first body block. In place; prints each drop.
+    A closing </i> in the dropped line is kept ("caeci de-\\ngunt</i>," -> "caeci de-</i>")."""
+    for page in pages:
+        nxt = blocks.get(page + 1) or page_blocks_or_none(vol, page + 1)
+        if nxt is None:
+            continue
+        body = [b for b in blocks[page] if b["type"] == "body"]
+        first = next((b for b in nxt if b["type"] == "body"), None)
+        if not body or first is None or "\n" not in body[-1]["text"]:
+            continue
+        head, last = body[-1]["text"].rsplit("\n", 1)
+        words = CATCHWORD_KEY.sub("", last).split()
+        if not words or len(last.split()) > 3:
+            continue
+        first_words = CATCHWORD_KEY.sub("", first["text"].split("\n", 1)[0]).split()[:len(words)]
+        if words == first_words:
+            body[-1]["text"] = head + ("</i>" if "</i>" in last and last.count("</i>") > last.count("<i>") else "")
+            print(f"catchword on p. {page} dropped: {last!r}")
+
+
+def page_blocks_or_none(vol: int, page: int) -> list[dict] | None:
+    return page_blocks(vol, page) if (DATA / "ocr" / SOURCE / f"{page_key(vol, page)}.json").exists() else None
 
 
 def build(cfg: dict) -> tuple[list[dict], list[dict]]:
@@ -204,9 +316,11 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
     vol = cfg["vol"]
     main, notes, started, ended = [], [], False, False
     page_text, other_text = {}, {}
+    blocks = {page: page_blocks(vol, page) for page in cfg["pages"]}
+    drop_catchwords(vol, cfg["pages"], blocks)
     for page in cfg["pages"]:
         first_on_page = True
-        for b in page_blocks(vol, page):
+        for b in blocks[page]:
             text = b["text"].strip()
             if b["type"] == "furniture":
                 continue

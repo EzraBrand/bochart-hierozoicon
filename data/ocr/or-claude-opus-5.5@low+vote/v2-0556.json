@@ -1,0 +1,207 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "556 <i>De Columbae timiditate.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "556 <i>De Columbae timiditate.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "lumba enim est animal pavidissimum. Hinc <i>Varro</i> de columbis <i>Rust.</i> lib. 3.\ncap. 7. <i>Propter timorem naturalem summa loca in tectis captant.</i> Et paullo post,\n<i>Nihil enim timidius columba.</i> Et apud <i>Ovidium Metam.</i> lib. 5. Fab. 10. <i>Arethusa</i>\nNympha de se et insequente <i>Alpheo,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "lumba enim est animal pavidissimum. Hinc <i>Varro</i> de columbis <i>Rust.</i> lib. 3.\ncap. 7. <i>Propter timorem naturalem summa loca in tectis captant.</i> Et paullo post,\n<i>Nihil enim timidius columba.</i> Et apud <i>Ovidium Metam.</i> lib. 5. Fab. 10. <i>Arethusa</i>\nNympha de se et insequente <i>Alpheo,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sic ego currebam, sic me ferus ille premebat,</i>\n<i>Ut fugere accipitrem penna trepidante columba,</i>\n<i>Et solet accipiter trepidas urgere columbas.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sic ego currebam, sic me ferus ille premebat,</i>\n<i>Ut fugere accipitrem penna trepidante columba,</i>\n<i>Et solet accipiter trepidas urgere columbas.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Trist.</i> lib. 1. <i>Eleg.</i> 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Trist.</i> lib. 1. <i>Eleg.</i> 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Terretur minimo pennae stridore columba,</i> ⟦p. 24⟧\n<i>Unguibus accipiter saucia facta tuis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Terretur minimo pennae stridore columba,</i> ⟦p. 24⟧\n<i>Unguibus accipiter saucia facta tuis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Valerius Flaccus</i> libro octavo <i>Argonautic</i>ων de Medea,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Valerius Flaccus</i> libro octavo <i>Argonautic</i>ων de Medea,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ecce! autem pavidae virgo de more columbae,</i>\n<i>Cum semper ingenti circumdata praepetis umbra,</i>\n<i>In quemcunque tremens hominem cadit. Haud secus illa,</i>\n<i>Icta timore gravi, mediam se misit,</i> etc.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ecce! autem pavidae virgo de more columbae,</i>\n<i>Cum semper ingenti circumdata praepetis umbra,</i>\n<i>In quemcunque tremens hominem cadit. Haud secus illa,</i>\n<i>Icta timore gravi, mediam se misit,</i> etc."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut Chorus in <i>Ajace Sophoclis</i> versu 139.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut Chorus in <i>Ajace Sophoclis</i> versu 139."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — πεφόβημαι\nΠτηνῆς ὡς ὄμμα πελειάς.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — πεφόβημαι\nΠτηνῆς ὡς ὄμμα πελειάς."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Timeo ut volucris oculus columbae.</i> Et alius <i>poeta</i> apud <i>Suidam</i> in Πελειάδες",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Timeo ut volucris oculus columbae.</i> Et alius <i>poeta</i> apud <i>Suidam</i> in Πελειάδες"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δειλαί τοι δείλοισιν ἐφεδρεύουσι πέλειαι,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δειλαί τοι δείλοισιν ἐφεδρεύουσι πέλειαι,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Timidae timidis insident columbae.</i> Quo pertinet, quod columba τρήρων toties\nab <i>Homero</i> dicitur, ἐπεὶ διὰ τὴν ἀθένειαν εὐλαβὴς ἡ ὄρνις αὕτη, τρεῖν δ' ἐστὶ\nτὸ εὐλαβεῖσθαι, <i>quia propter imbecillitatem avis est meticulosa, nam</i> τρεῖν <i>est me-</i> ⟦p. 25⟧\n<i>tuere.</i> Ita <i>Athenaeus</i> libro nono. Neque aliter vetus <i>Homeri Scholiastes, Eu-</i>\n<i>stathius</i> in <i>Odyss.</i> μ'. <i>Hesychius, Suidas, Etymologus,</i> etc. Et <i>Homerum</i> sic imi-\ntatur <i>Apollonius, Argonautic</i>ων libro 3. versu 541.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Timidae timidis insident columbae.</i> Quo pertinet, quod columba τρήρων toties\nab <i>Homero</i> dicitur, ἐπεὶ διὰ τὴν ἀθένειαν εὐλαβὴς ἡ ὄρνις αὕτη, τρεῖν δ' ἐστὶ\nτὸ εὐλαβεῖσθαι, <i>quia propter imbecillitatem avis est meticulosa, nam</i> τρεῖν <i>est me-</i> ⟦p. 25⟧\n<i>tuere.</i> Ita <i>Athenaeus</i> libro nono. Neque aliter vetus <i>Homeri Scholiastes, Eu-</i>\n<i>stathius</i> in <i>Odyss.</i> μ'. <i>Hesychius, Suidas, Etymologus,</i> etc. Et <i>Homerum</i> sic imi-\ntatur <i>Apollonius, Argonautic</i>ων libro 3. versu 541."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τρήρων μὲν φεύγουσα βίην κίρκοιο πελειὰς,\nὙψόθεν Αἰσονίδεω πεφοβημένη ἔμπεσε κόλποις·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τρήρων μὲν φεύγουσα βίην κίρκοιο πελειὰς,\nὙψόθεν Αἰσονίδεω πεφοβημένη ἔμπεσε κόλποις·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pavida quidem fugiens vim accipitris columba, ex alto terrefacta in</i> Aesoni-\n<i>dae sinum incidit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pavida quidem fugiens vim accipitris columba, ex alto terrefacta in</i> Aesoni-\n<i>dae sinum incidit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1810,
+    1311
+   ],
+   [
+    1810,
+    1501
+   ]
+  ],
+  "input_tokens": 8460,
+  "output_tokens": 1447,
+  "cost_usd": 0,
+  "seconds": 429.5,
+  "vote": "1 decisions from v2-524-590"
+ }
+}
