@@ -1,0 +1,218 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XI. <i>De Grue.</i> 621",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XI. <i>De Grue.</i> 621"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>lapides mercatoribus auri indices.</i> Sed hoc commentum ita refellit <i>Aristoteles,</i>\n<i>Historiae animalium</i> libri octavi capite duodecimo, Τὸ δὲ περὶ τοῦ λίθου ψεῦδός\nἐστι· λέγεται γὰρ ὡς ἔχουσιν ἕρμα λίθον, ὃς γίνεται χρήσιμος πρὸς τὰς τοῦ\nχρυσοῦ βασάνους, ὅταν ἐκπέσῃ. <i>Quod de lapide narrant, falsum est; lapidem</i>\n<i>nempe eas pro saburra habere, qui, cum deciderit, utilis sit ad auri probationem.</i>\nSed, si hoc sit commentitium, erunt fortasse veriora, quae jam sequentur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>lapides mercatoribus auri indices.</i> Sed hoc commentum ita refellit <i>Aristoteles,</i>\n<i>Historiae animalium</i> libri octavi capite duodecimo, Τὸ δὲ περὶ τοῦ λίθου ψεῦδός\nἐστι· λέγεται γὰρ ὡς ἔχουσιν ἕρμα λίθον, ὃς γίνεται χρήσιμος πρὸς τὰς τοῦ\nχρυσοῦ βασάνους, ὅταν ἐκπέσῃ. <i>Quod de lapide narrant, falsum est; lapidem</i>\n<i>nempe eas pro saburra habere, qui, cum deciderit, utilis sit ad auri probationem.</i>\nSed, si hoc sit commentitium, erunt fortasse veriora, quae jam sequentur."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Mirus est inter illas concentus, consensusque, mira animorum concordia.\nPlinius, <i>Quando proficiscuntur</i>, <i>consentiunt.</i> Solinus, <i>Concors cura omnium pro</i>\n<i>fatigatis</i>, <i>adeo, ut, si quae defecerunt</i>, <i>congruant universae, lassatasque sustol-</i> ⟦p. 73⟧\n<i>lant, usque dum vires otio recuperentur.</i> Ubi nota <i>congruendi</i> verbum, a grui-\nbus sumptum: de gruibus proprie usurpari, unde ad alia transfertur. <i>Festus,</i>\nCongruere <i>dictum est a gruibus, quae non se segregant, sive cum volant, sive cum</i>\n<i>pascunt.</i> Ita <i>ingruere</i> est <i>gruum instar magno agmine irruere.</i> Unde ad milites,\nad imbrem, ad grandinem, et ad alia translatum. Et in <i>Solino</i> leguntur <i>fluctus</i>\n<i>ingrui.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Mirus est inter illas concentus, consensusque, mira animorum concordia.\nPlinius, <i>Quando proficiscuntur</i>, <i>consentiunt.</i> Solinus, <i>Concors cura omnium pro</i>\n<i>fatigatis</i>, <i>adeo, ut, si quae defecerunt</i>, <i>congruant universae, lassatasque sustol-</i> ⟦p. 73⟧\n<i>lant, usque dum vires otio recuperentur.</i> Ubi nota <i>congruendi</i> verbum, a grui-\nbus sumptum: de gruibus proprie usurpari, unde ad alia transfertur. <i>Festus,</i>\nCongruere <i>dictum est a gruibus, quae non se segregant, sive cum volant, sive cum</i>\n<i>pascunt.</i> Ita <i>ingruere</i> est <i>gruum instar magno agmine irruere.</i> Unde ad milites,\nad imbrem, ad grandinem, et ad alia translatum. Et in <i>Solino</i> leguntur <i>fluctus</i>\n<i>ingrui.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nec immerito <i>Oppianus,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nec immerito <i>Oppianus,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — ὑψιπετῆ γεράνων χορὸν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — ὑψιπετῆ γεράνων χορὸν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>altivolantem gruum chorum:</i> et <i>Antipater Sidonius,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>altivolantem gruum chorum:</i> et <i>Antipater Sidonius,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — ὑψιπετῆ Βιστόνιαν γέρανον,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — ὑψιπετῆ Βιστόνιαν γέρανον,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>altivolantem</i> Bistoniam <i>gruem</i> dixit. Et <i>Virgilius,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>altivolantem</i> Bistoniam <i>gruem</i> dixit. Et <i>Virgilius,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aëriae fugêre grues,</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aëriae fugêre grues,</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "id est, interprete <i>Servio</i>, <i>in altum volantes.</i> Et <i>Ausonius</i> in <i>Monosyllabis,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "id est, interprete <i>Servio</i>, <i>in altum volantes.</i> Et <i>Ausonius</i> in <i>Monosyllabis,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ibycus <i>ut periit index fuit altivolans grus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ibycus <i>ut periit index fuit altivolans grus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et grus de seipsa in <i>Avieno</i>, Fabula 15.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et grus de seipsa in <i>Avieno</i>, Fabula 15."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>Sublimis in aera penna</i>\n<i>Proxima sideribus numinibusque feror.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>Sublimis in aera penna</i>\n<i>Proxima sideribus numinibusque feror.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In altum enim volant grues, ad omnes aeris mutationes intentae, ne a tempe-\nstate obruantur. <i>Aristoteles, Historiae animalium</i> lib. 9. cap. 10. Εἰς ὕψος πέ-\nτονται πρὸς τὸ καθορᾷν τὰ πόῤῥω, καὶ ἐὰν ἴδωσι νέφη, καὶ χειμέρια (<i>Antigo-</i>\n<i>nus</i> καὶ συστροφὴν) καταπτᾶσαι ἡσυχάζουσιν· <i>In altum volant, ut procul prospi-</i>\n<i>ciant: et si nubes et tempestatem</i> (aut <i>turbinem</i>) <i>videant, infra devolantes quietae</i>\n<i>manent.</i> Itaque est inter prognostica futurae tempestatis, cum nauta e medio\nmari videt γεράνους ὑποστρεφούσας, καὶ τὴν ἔμπαλιν πετομένας, <i>grues rever-</i>\n<i>tentes, et retro volantes.</i> Ita <i>Aelianus Historiae</i> libri 3. capite 14. Quibus simi-\nlia videas apud <i>Aratum, Virgilium, Plinium, Theonem</i> et <i>Avienum.</i> Sed et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In altum enim volant grues, ad omnes aeris mutationes intentae, ne a tempe-\nstate obruantur. <i>Aristoteles, Historiae animalium</i> lib. 9. cap. 10. Εἰς ὕψος πέ-\nτονται πρὸς τὸ καθορᾷν τὰ πόῤῥω, καὶ ἐὰν ἴδωσι νέφη, καὶ χειμέρια (<i>Antigo-</i>\n<i>nus</i> καὶ συστροφὴν) καταπτᾶσαι ἡσυχάζουσιν· <i>In altum volant, ut procul prospi-</i>\n<i>ciant: et si nubes et tempestatem</i> (aut <i>turbinem</i>) <i>videant, infra devolantes quietae</i>\n<i>manent.</i> Itaque est inter prognostica futurae tempestatis, cum nauta e medio\nmari videt γεράνους ὑποστρεφούσας, καὶ τὴν ἔμπαλιν πετομένας, <i>grues rever-</i>\n<i>tentes, et retro volantes.</i> Ita <i>Aelianus Historiae</i> libri 3. capite 14. Quibus simi-\nlia videas apud <i>Aratum, Virgilium, Plinium, Theonem</i> et <i>Avienum.</i> Sed et"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iiii 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iiii 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "grues",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "grues"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1788,
+    1496
+   ],
+   [
+    1788,
+    1320
+   ]
+  ],
+  "input_tokens": 8423,
+  "output_tokens": 1837,
+  "cost_usd": 0,
+  "seconds": 308.0
+ }
+}

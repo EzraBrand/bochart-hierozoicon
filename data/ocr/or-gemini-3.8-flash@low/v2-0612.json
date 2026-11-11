@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "612 De Hirundine. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "612 De Hirundine. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et quinto <i>Avieni</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et quinto <i>Avieni</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nam, cum vere novo tellus se dura relaxat</i>,\n<i>Culminibusque cavis blandum strepit ales hirundo</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nam, cum vere novo tellus se dura relaxat</i>,\n<i>Culminibusque cavis blandum strepit ales hirundo</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed, si una duntaxat aut altera hirundo appareat, ex <i>Aristotele</i> notum est <i>Graecorum proverbium Moralium</i> libri primi capite sexto, Μία χελιδὼν ἔαρ ὀ ποιεῖ,\n<i>Una hirundo non facit ver</i>. Hirundinis apud nos mora solet esse sex mensium\n<i>Plinius</i> libri decimi capite vigesimo quinto, <i>Temporum magna differentia avibus. Perennes, ut columbae; semestres, ut hirundines; trimestres, ut turdi et turtures</i>. Nempe hirundines initio veris veniunt, et abeunt in fine aestatis.\n<i>Plinius</i> de Arcturo libri decimi octavi capite trigesimo primo, <i>Signum orientis ejus sideris servetur hirundinum abitu</i>. <i>Arcturus</i> autem oritur Septembri mense.\n<i>Galenus</i>, Ἔσι μὲν ὡραιότατον τῆς ἐλάτης τὸ σπέρμα περὶ τὴν ἐπιτολὴν τῶ\nἈρκτύρο, ὅστις καιρὸς ἐν Ῥώμῃ ὁ καλέμενος μὲν Σεπτέμβριός ἐσι. Et circa\nautumni aequinoctium. <i>Theophrastus</i> de ceronia <i>Historiae plantarum</i> libri quarti\ncapite secundo, Ἀνθεῖ περὶ Ἀρκτῦρον, καὶ ἰσημερίαν: vel (ut <i>Plinius</i> expressius libri secundi capite quadragesimo septimo) <i>Arcturus oritur undecim diebus ante aequinoctium</i>. Itaque quando migrent hirundines, satis compertum est,\nsed quo migrent, non itidem. <i>Isidorus</i> in genere, <i>maria transvolat</i> (hirundo)\n<i>ibique commoratur</i>. Anacreon ubi supra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed, si una duntaxat aut altera hirundo appareat, ex <i>Aristotele</i> notum est <i>Graecorum proverbium Moralium</i> libri primi capite sexto, Μία χελιδὼν ἔαρ ὀ ποιεῖ,\n<i>Una hirundo non facit ver</i>. Hirundinis apud nos mora solet esse sex mensium\n<i>Plinius</i> libri decimi capite vigesimo quinto, <i>Temporum magna differentia avibus. Perennes, ut columbae; semestres, ut hirundines; trimestres, ut turdi et turtures</i>. Nempe hirundines initio veris veniunt, et abeunt in fine aestatis.\n<i>Plinius</i> de Arcturo libri decimi octavi capite trigesimo primo, <i>Signum orientis ejus sideris servetur hirundinum abitu</i>. <i>Arcturus</i> autem oritur Septembri mense.\n<i>Galenus</i>, Ἔσι μὲν ὡραιότατον τῆς ἐλάτης τὸ σπέρμα περὶ τὴν ἐπιτολὴν τῶ\nἈρκτύρο, ὅστις καιρὸς ἐν Ῥώμῃ ὁ καλέμενος μὲν Σεπτέμβριός ἐσι. Et circa\nautumni aequinoctium. <i>Theophrastus</i> de ceronia <i>Historiae plantarum</i> libri quarti\ncapite secundo, Ἀνθεῖ περὶ Ἀρκτῦρον, καὶ ἰσημερίαν: vel (ut <i>Plinius</i> expressius libri secundi capite quadragesimo septimo) <i>Arcturus oritur undecim diebus ante aequinoctium</i>. Itaque quando migrent hirundines, satis compertum est,\nsed quo migrent, non itidem. <i>Isidorus</i> in genere, <i>maria transvolat</i> (hirundo)\n<i>ibique commoratur</i>. Anacreon ubi supra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Χειμῶνι δ' εἷς ἄφαντος,\nἪ Νεῖλον, ἢ 'πὶ Μέμφιν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χειμῶνι δ' εἷς ἄφαντος,\nἪ Νεῖλον, ἢ 'πὶ Μέμφιν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hyeme autem non conspiceris</i>, ⟦p. 67.⟧\n<i>Sive Nilum aut Memphim petas</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hyeme autem non conspiceris</i>, ⟦p. 67.⟧\n<i>Sive Nilum aut Memphim petas</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Herodotus</i> libri secundi capite vigesimo secundo, de Aethiopia sub Aegypto,\nἸκτῖνοι δὲ, καὶ χελιδόνες δι' ἔτεος ἐόντες ὀκ ἀπολείπωσι· <i>Milvi et hirundines toto anni tempore ibi sunt, nec per hyemem discedunt</i>. Utut sit, discedens agmen\ndeserere apud eas grave crimen est, si vera sunt haec <i>Martialis</i> libri quinti <i>Epigrammate</i> 68.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Herodotus</i> libri secundi capite vigesimo secundo, de Aethiopia sub Aegypto,\nἸκτῖνοι δὲ, καὶ χελιδόνες δι' ἔτεος ἐόντες ὀκ ἀπολείπωσι· <i>Milvi et hirundines toto anni tempore ibi sunt, nec per hyemem discedunt</i>. Utut sit, discedens agmen\ndeserere apud eas grave crimen est, si vera sunt haec <i>Martialis</i> libri quinti <i>Epigrammate</i> 68."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hibernos peterent solito cum more recessus</i>\n<i>Atthides in nidis una remansit avis:</i>\n<i>Deprendere nefas ad tempora verna reversae</i>,\n<i>Et profugam volucres diripuere suae</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hibernos peterent solito cum more recessus</i>\n<i>Atthides in nidis una remansit avis:</i>\n<i>Deprendere nefas ad tempora verna reversae</i>,\n<i>Et profugam volucres diripuere suae</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et a frigore manentibus non leve imminet periculum. <i>Plinius</i> in loco jam\ncitato de <i>Arcturo</i>, sidere, <i>Signum orientis ejus sideris servetur hirundinum abitu; namque deprehensae intereunt</i>. Tamen in apricis locis quasdam manere, certum\nest, quae non moriuntur omnes, sed nudantur et deplumantur. Quocirca <i>Philosophus Historiae animalium</i> libri octavi capite decimo sexto, postquam milvos",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et a frigore manentibus non leve imminet periculum. <i>Plinius</i> in loco jam\ncitato de <i>Arcturo</i>, sidere, <i>Signum orientis ejus sideris servetur hirundinum abitu; namque deprehensae intereunt</i>. Tamen in apricis locis quasdam manere, certum\nest, quae non moriuntur omnes, sed nudantur et deplumantur. Quocirca <i>Philosophus Historiae animalium</i> libri octavi capite decimo sexto, postquam milvos"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1824,
+    1493
+   ],
+   [
+    1824,
+    1311
+   ]
+  ],
+  "input_tokens": 3406,
+  "output_tokens": 1151,
+  "cost_usd": 0.0069,
+  "seconds": 11.7
+ }
+}

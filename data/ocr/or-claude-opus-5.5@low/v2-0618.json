@@ -1,0 +1,254 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "618 <i>De Grue.</i> P.II.L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "618 <i>De Grue.</i> P.II.L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libri quinti versu 711.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libri quinti versu 711."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Strymona <i>sic gelidum, bruma pellente, relinquunt,</i>\n<i>Poturae te,</i> Nile <i>grues.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Strymona <i>sic gelidum, bruma pellente, relinquunt,</i>\n<i>Poturae te,</i> Nile <i>grues.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libri septimi versu 832.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libri septimi versu 832."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>vos, quae</i> Nilo <i>mutare soletis</i>\nThreïcias <i>hyemes.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>vos, quae</i> Nilo <i>mutare soletis</i>\nThreïcias <i>hyemes.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> nuper citatus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> nuper citatus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec quae</i> Strymonio <i>de grege ripa sonat.</i> ⟦p. 71⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec quae</i> Strymonio <i>de grege ripa sonat.</i> ⟦p. 71⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Oedipo</i> Actu tertio,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Oedipo</i> Actu tertio,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec tanta gelidi</i> Strymonis <i>fugiens minas</i>\n<i>Permutat hyemes ales, et coelum secans</i>\n<i>Tepente</i> Nilo <i>pensat</i> Arctoas <i>nives.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec tanta gelidi</i> Strymonis <i>fugiens minas</i>\n<i>Permutat hyemes ales, et coelum secans</i>\n<i>Tepente</i> Nilo <i>pensat</i> Arctoas <i>nives.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Claudianus</i> de bello <i>Gildonico,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Claudianus</i> de bello <i>Gildonico,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>aestiva relinquunt</i>\nThracia, <i>cum tepido permutant</i> Strymona Nilo.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>aestiva relinquunt</i>\nThracia, <i>cum tepido permutant</i> Strymona Nilo."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Antipater Sidonius</i> capite decimo sexto libri tertii <i>Anthologiae,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Antipater Sidonius</i> capite decimo sexto libri tertii <i>Anthologiae,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — — καὶ ἀρπάκτειραν ἐρύκων\nΣπέρματος ὑψιπετῆ Βιστονίαν γέρανον· — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — — καὶ ἀρπάκτειραν ἐρύκων\nΣπέρματος ὑψιπετῆ Βιστονίαν γέρανον· — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et seminis direptricem arcens altivolam</i> Bistoniam <i>gruem.</i> E <i>Thracia</i> discessurae\ndicuntur ad <i>Hebrum</i> amnem convenire. <i>Aelianus</i> libri secundi capite primo,\n Ὅταν τὰ ἤθη τὰ τῶν Θρακῶν καὶ τοὺς κρυμοὺς ἀπολείπωσι τοὺς Θρακίους αἱ γέ-\nρανοι, ἀθροίζονται μὲν ἐς τὸν Ἕβρον· <i>Cum</i> Thracum <i>sedes et frigora grues re-\nlinquunt, congregantur ad</i> Hebrum. <i>Tzetzes</i> Chiliad. 4. <i>Hist.</i> 120.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et seminis direptricem arcens altivolam</i> Bistoniam <i>gruem.</i> E <i>Thracia</i> discessurae\ndicuntur ad <i>Hebrum</i> amnem convenire. <i>Aelianus</i> libri secundi capite primo,\n Ὅταν τὰ ἤθη τὰ τῶν Θρακῶν καὶ τοὺς κρυμοὺς ἀπολείπωσι τοὺς Θρακίους αἱ γέ-\nρανοι, ἀθροίζονται μὲν ἐς τὸν Ἕβρον· <i>Cum</i> Thracum <i>sedes et frigora grues re-\nlinquunt, congregantur ad</i> Hebrum. <i>Tzetzes</i> Chiliad. 4. <i>Hist.</i> 120."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὅταν γοῦν πρὸς τὸν Αἴγυπτον μέλλουσιν ἀποτρέχειν,\nὩς πρὸς τὸν Ἕβρον ποταμὸν τὸν Θρακικὸν ἐλθοῦσαι·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὅταν γοῦν πρὸς τὸν Αἴγυπτον μέλλουσιν ἀποτρέχειν,\nὩς πρὸς τὸν Ἕβρον ποταμὸν τὸν Θρακικὸν ἐλθοῦσαι·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cum in</i> Aegyptum <i>evolaturae sunt, ubi ad</i> Hebrum Thraciae <i>fluvium venerint.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cum in</i> Aegyptum <i>evolaturae sunt, ubi ad</i> Hebrum Thraciae <i>fluvium venerint.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed <i>Scythicis</i> gruibus alio est iter, nempe per <i>Pontum</i>, quem transvolant.\nUnde <i>Virgilius</i> libro sexto <i>Aeneidos,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed <i>Scythicis</i> gruibus alio est iter, nempe per <i>Pontum</i>, quem transvolant.\nUnde <i>Virgilius</i> libro sexto <i>Aeneidos,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>ad terram gurgite ab alto</i>\n<i>Cum multae glomerantur aves, ubi frigidus annus</i>\n<i>Trans</i> Pontum <i>fugat, et terris immittit apricis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>ad terram gurgite ab alto</i>\n<i>Cum multae glomerantur aves, ubi frigidus annus</i>\n<i>Trans</i> Pontum <i>fugat, et terris immittit apricis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Atque illas <i>certum est</i>, inquit <i>Plinius</i>, Pontum <i>transvolaturas, primum omnium\nangustias petere inter duo promontoria</i> Criu-metopon <i>et</i> Carambin. Quae non-\nnisi CLXXM passuum intervallo distant, ut idem asserit libri quarti capite duode-\ncimo.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Atque illas <i>certum est</i>, inquit <i>Plinius</i>, Pontum <i>transvolaturas, primum omnium\nangustias petere inter duo promontoria</i> Criu-metopon <i>et</i> Carambin. Quae non-\nnisi CLXXM passuum intervallo distant, ut idem asserit libri quarti capite duode-\ncimo."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1793,
+    1132
+   ],
+   [
+    1793,
+    1700
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1607,
+  "cost_usd": 0,
+  "seconds": 308.0
+ }
+}

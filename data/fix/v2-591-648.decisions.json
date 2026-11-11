@@ -1,0 +1,945 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0591",
+   "line": "voce dici putatur. Damir, سميت بحكاية صوتها Nomen habet",
+   "old": "صوتها",
+   "new": "صوته",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0592",
+   "line": "interpretationem repudiat eam ob caussam,",
+   "old": "caussam,",
+   "new": "causam,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0593",
+   "line": "Ἐκ τᾶς ἀρκεύθω καθελὼν, τηνεὶ γὰρ ἐφείσδει.",
+   "old": "ἀρκεύθω",
+   "new": "ἀρκεύθῳ",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0594",
+   "line": "Glossator scribit, טבלאות של אמה היו עושין והן חדין כסכין סביבותיה ומסמרין",
+   "old": "טבלאות",
+   "new": "טבלאת",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0594",
+   "line": "unt, qui sata servant. Et rursus, במקדש ראשון ששכינה שרויה בו לא היו",
+   "old": "שרויה",
+   "new": "שרוייה",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0595",
+   "line": "[?]dringenta magni ponderis, et tota illa retia sic adaptasse, ut sonarent tintinna-",
+   "old": "[?]dringenta",
+   "new": "quadringenta",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0596",
+   "line": "turturibus loquaciores appellans. Haec Eustathius, in illud Homeri Iliad. ι.",
+   "old": "ι.",
+   "new": "l.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0597",
+   "line": "λους (τῶν τεττίγων) καὶ ᾄδοντας ἀχέτας· τοὺς δὲ μικροὺς τεττιγόνια. Unde",
+   "old": "ἀχέτας·",
+   "new": "ἄχετας·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0597",
+   "line": "[?]ων τὰ ὦτα, Insuavitate, seu ineptiis suis, ἀποκναίων, id est, aures obtun-",
+   "old": "[?]ων",
+   "new": "πτων",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0597",
+   "line": "[?]ur de loquaculis dictum, Τρυγόνες ἐκκναισεῦντι, Dorice pro ἐκκναίουσι,",
+   "old": "ἐκκναίουσι,",
+   "new": "ἐκκναίσουσι,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0597",
+   "line": "[?]ur de loquaculis dictum, Τρυγόνες ἐκκναισεῦντι, Dorice pro ἐκκναίουσι,",
+   "old": "[?]rtures",
+   "new": "Turtures",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0598",
+   "line": "Nyssenus in Cant. Homil. 5. Ἐν γὰρ τῷ χειμῶνι φεύγει ἡ ἀηδὼν, ναρκᾷ ἡ χε-",
+   "old": "τῷ",
+   "new": "τῇ",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0600",
+   "line": "turis, collum tuum sicut monile. Quia ב et כ permutatis, pro בתורים, legerunt",
+   "old": "בתורים,",
+   "new": "בחורים,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0600",
+   "line": "ὁμοιώματα? An pro תורי legerunt צירי, id est, imagines? vel תורי זהב dici",
+   "old": "צירי,",
+   "new": "ציורי,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0601",
+   "line": "animas, qui te sciunt, id est, qui te noverunt. Quasi legerint נפש חדעך, ani-",
+   "old": "חדעך,",
+   "new": "תדעך,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0601",
+   "line": "daica versio Iosephi Coeci, נפשת מאלפי אורייתך, animas docentium Legem tuam.",
+   "old": "אורייתך,",
+   "new": "אוריתך,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0603",
+   "line": "والناس يسمونه سنونوا بضم السين المهملة ونوحين",
+   "old": "ونوحين",
+   "new": "ونونين",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0605",
+   "line": "علي روسهم Assununu (seu hirundines) tangunt eos super capita sua. Tan-",
+   "old": "روسهم",
+   "new": "راسهم",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0605",
+   "line": "Italice zisillare. Sed euphoniae caussa additum est N epentheticum, quod in Ro-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0606",
+   "line": "δὲ ἶβις, Ἄρης δὲ λεπιδωτὸς ἰχθὺς, Ἄρτεμις δὲ αἴλουρος (sic legendum pro σί-",
+   "old": "ἶβις,",
+   "new": "ἴβις,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0606",
+   "line": "מדוע נסחף אביריך, quomodo legerunt pro אביריך. Et in historia Gigantoma-",
+   "old": "אביריך,",
+   "new": "אבירך,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0606",
+   "line": "Duxque gregis, dixit, fis Iuppiter, unde recurvis",
+   "old": "fis",
+   "new": "sis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0607",
+   "line": "— — — — ἁ δ' ὀλολυγὼν",
+   "old": "ὀλολυγὼν",
+   "new": "ἐλολυγὼν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0611",
+   "line": "*) Vide Athenaeum lib. 8. cap. 15. et Eustathium in Odyss. Φ'.",
+   "old": "Φ'.",
+   "new": "φ'.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0612",
+   "line": "Χειμῶνι δ' εἶς ἄφαντος,",
+   "old": "εἶς",
+   "new": "εἷς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "et [?]irundines hyeme in tepidiora loca conferre se docuit, cum non sunt remo-",
+   "old": "[?]irundines",
+   "new": "hirundines",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "ta [?]imis, Οἱ δὲ πορρωτέρω ὄντες τῶν τοιούτων, inquit, οὐκ ἐκτοπίζουσι, ἀλλὰ",
+   "old": "πορρωτέρω",
+   "new": "ποῤῥοτέρω",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "et u[?]us e septem Sapientibus, quos Graecia celebravit, Καιρὸν γνῶθι, Nosce",
+   "old": "temp[?]us.",
+   "new": "tempus.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "cim[?], τὰ στρουθία, aviculas in ejus oculos stercus egessisse, quod pertinere ad",
+   "old": "cim[?],",
+   "new": "cimo,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "κρ[?]πτουσιν ἑαυτούς· ἤδη γὰρ ὤμμέναι εἰσὶ πολλαὶ χελιδόνες ἐν ἀγγείοις (lege",
+   "old": "ὤμμέναι",
+   "new": "ὠμμέναι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "hiru[?]dines, recte vidit Hieronymus, qui sic reddit: Contigit, ut ex nido hirun-",
+   "old": "hiru[?]dines,",
+   "new": "hirundines,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "ni pe[?]culiare est, quod pullorum stercora aut ipsa mater ex nido ejicit, cum par-",
+   "old": "pe[?]culiare",
+   "new": "peculiare",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "ἐν [?]γκεσι, vel ἐν ἀγκείαις) ἐψιλωμέναι πάμπαν· Quae autem aves ab hujus-",
+   "old": "[?]γκεσι,",
+   "new": "ἄγκεσι,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "mo, Γοργίας δὲ ὁ Σοφιστής, χελιδόνος ἀφείσης ἐπ᾽ αὐτὸν ἀπόπατον, ἀναβλέ-",
+   "old": "Σοφιστής,",
+   "new": "Σοφιστὴς,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "ψας πρὸς αὐτὴν, Οὐ καλὰ ταῦτα (εἶπεν) ὦ Φιλομήλα· Gorgias Sophista,",
+   "old": "Φιλομήλα·",
+   "new": "Φιλομῆλα·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "cum h[?]rundo stercus in eum emisisset, oculis ad illam conversis, haec, inquit, de-",
+   "old": "h[?]rundo",
+   "new": "hirundo",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0613",
+   "line": "di [?]irundini Eutropii, eunuchi jam effoeti depile caput, et tinea exesum, Clau-",
+   "old": "[?]irundini",
+   "new": "hirundini",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0614",
+   "line": "— — — — ταὶ δ᾽ ἐφέροντο",
+   "old": "ταὶ",
+   "new": "ταί",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0615",
+   "line": "Ὑψόθεν ἐκ νεφέων ἐνιαύσια κεκληγυίης,",
+   "old": "κεκληγυίης,",
+   "new": "κεκλαγυίης,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0616",
+   "line": "reliquae dormiunt: والذي يحرس يهتف خافي كانه يندر",
+   "old": "يندر",
+   "new": "ينذر",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0616",
+   "line": "بانه حارس Et quae in custodia est nonnisi submissa voce murmurat, ac si sci-",
+   "old": "حارس",
+   "new": "جارس",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0617",
+   "line": "γέρανοι γίνονται μὲν ἐν Θρᾴκῃ· Grues quidem in Thracia nascuntur. Et paullo",
+   "old": "Θρᾴκῃ·",
+   "new": "Θράκῃ·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0618",
+   "line": "— — — — καὶ ἀρπάκτειραν ἐρύκων",
+   "old": "ἀρπάκτειραν",
+   "new": "ἁρπάκτειραν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0619",
+   "line": "Αἴτ᾽ ἄμφω ξυνίασιν ἐναντίαι, οὐ μὲν ἐοῦσαι",
+   "old": "Αἴτ᾽",
+   "new": "Αἵτ'",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0620",
+   "line": "φέρωνται· καὶ εἰ μὲν ἐπὶ θαλάσσης ἤκοι ὁ λίθος ἀνύουσι τὴν ὁδόν· εἰ δὲ ἐπὶ γῆς,",
+   "old": "ἤκοι",
+   "new": "ἥκοι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0620",
+   "line": "Αἳ στομάτων ἔκτοσθεν ἀοσσητῆρα κελεύθου",
+   "old": "Αἳ",
+   "new": "Αἱ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0620",
+   "line": "dictitant. Idem Aelianus libri tertii, capite decimo tertio, Γέρανος δὲ λίθον ὃν",
+   "old": "ὃν",
+   "new": "ὅν-",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0621",
+   "line": "τονται πρὸς τὸ καθορᾷν τὰ πόῤῥω, καὶ ἐὰν ἴδωσι νέφη, καὶ χειμέρια (Antigo-",
+   "old": "καθορᾷν",
+   "new": "καθορᾶν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0622",
+   "line": "aër, quod his verbis testatur Horus lib. 2. cap. 93. Ὑψηλῶς πάνυ ἵπταται (γέ-",
+   "old": "ἵπταται",
+   "new": "ἵπτάται",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0622",
+   "line": "Εἰς ὁρμαθὸν τρίστοιχον ὀξυγωνίου,",
+   "old": "ὁρμαθὸν",
+   "new": "ὀρμαθὸν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0624",
+   "line": "Damir Arabs, يتقدمها واحد منها كالرايس لها وهي",
+   "old": "يتقدمها",
+   "new": "يقدمها",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0624",
+   "line": "متقدما حتي يصير الذي كان متقدما موخرا Prae-",
+   "old": "متقدما",
+   "new": "مقدما",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0624",
+   "line": "متقدما حتي يصير الذي كان متقدما موخرا Prae-",
+   "old": "متقدما",
+   "new": "مقدما",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0625",
+   "line": "بالنوبة فاذا قضي نوبته قام الذي كان نايما",
+   "old": "نوبته",
+   "new": "نوبتة",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0625",
+   "line": "dens indiligentiam coarguat. Solinus, Vigiles pondускula digitis amplectuntur,",
+   "old": "pondускula",
+   "new": "ponduscula",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0626",
+   "line": "ἐμβολὰς τῶν ἀνέμων ἔρμα, ut et pro coena habeant, et pro saburra adversus",
+   "old": "ἔρμα,",
+   "new": "ἕρμα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0627",
+   "line": "μὲν [?]άρ ἐδεὶς ἐξηγεῖται τῶν πίστεως ἀξίων ἀνδρῶν. Pecora ipsis sunt parvae oves,",
+   "old": "[?]άρ",
+   "new": "γὰρ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0627",
+   "line": "μὲν [?]άρ ἐδεὶς ἐξηγεῖται τῶν πίστεως ἀξίων ἀνδρῶν. Pecora ipsis sunt parvae oves,",
+   "old": "ἐδεὶς",
+   "new": "οὐδεὶς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0627",
+   "line": "men [?]t pugnaces. Et fortasse ob naturalem horum parvitatem (veteres ibi loco-",
+   "old": "[?]t",
+   "new": "et",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0627",
+   "line": "εἰρηναῖα τοῦ αέρος ὑποστρέφουσιν ὀπίσω· Cum incipit aëris serenitas et tranquilli-",
+   "old": "αέρος",
+   "new": "ἀέρος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0627",
+   "line": "Meg[?]sthenem et Daimachum, de quibus Strabo lib. 2. Ἐνεκαίνισαν δὲ καὶ τὴν",
+   "old": "Meg[?]sthenem",
+   "new": "Megasthenem",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0630",
+   "line": "gemina Symmachi versio, ὡς χελιδὼν ἐγκλειϑεῖσα, ut hirundo inclusa; quasi",
+   "old": "ἐγκλειϑεῖσα,",
+   "new": "ἐγκλειθεῖσα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0630",
+   "line": "mus ciconiam reddit, et Graeci ἀγροῦ στρουϑία. Sed ἀγροῦ factum ex ἀγώρ, et στρου-",
+   "old": "ἀγώρ,",
+   "new": "ἀγὼρ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0630",
+   "line": "mus ciconiam reddit, et Graeci ἀγροῦ στρουϑία. Sed ἀγροῦ factum ex ἀγώρ, et στρου-",
+   "old": "ϑία",
+   "new": "θία",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0630",
+   "line": "Φασί τινες (inquit Xenophon libro octavo Cyropaediae) ϑᾶττον τῶν γεράνων",
+   "old": "ϑᾶττον",
+   "new": "θᾶττον",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0630",
+   "line": "ὡς ἵππος ἀγώρ· et Theodotion, ὡς χελιδὼν ἀγώρ, quia vocem ignotam descri-",
+   "old": "ἀγώρ,",
+   "new": "ἀγὼρ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0631",
+   "line": "Arabum عبر rediit significat, nam inde",
+   "old": "عبر",
+   "new": "عجر",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0631",
+   "line": "VELTHUSEN (in Symbolis Kilониens. P. II.",
+   "old": "Kilониens.",
+   "new": "Kiloniens.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0634",
+   "line": "nem, ita grui potuerunt aliam avem substituere. At saltem hoc habemus, av[?]",
+   "old": "av[?]",
+   "new": "avi",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0634",
+   "line": "المنقار اخضر اللون تحبه الاعراب وتتيمن به ويشهبون",
+   "old": "وتتيمن",
+   "new": "وتتيبن",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0635",
+   "line": "snepptam; et Galli beccassam a magnitudine rostri. Quo eodem refero Hebrae-",
+   "old": "snepptam;",
+   "new": "sneppam;",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0636",
+   "line": "ptera quod nonnulla eorum, quae de",
+   "old": "ptera",
+   "new": "pterca",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0636",
+   "line": "praeterea de قارية aperte false afferitur,",
+   "old": "afferitur,",
+   "new": "asseritur,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0636",
+   "line": "Kore קרא redditur a Graecis ʽνυκτικόραξ nycticorax 1 Sam. XXVI, 20. sed",
+   "old": "ʽνυκτικόραξ",
+   "new": "νυκτικόραξ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0637",
+   "line": "re parte. Rursus in Berachoth cap. 9. fol. 57. b. כל מינין עופות יפין לחלום",
+   "old": "עופות",
+   "new": "עופית",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0637",
+   "line": "Alter de kore locus Ierem. XVII, 11. קרא דגר ולא ילד Graece sic explica-",
+   "old": "ילד",
+   "new": "ילך",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0638",
+   "line": "sit, illud etiam parum verisimile est, perdicem, etiamsi maxime vellet, alieno",
+   "old": "verisimile",
+   "new": "verissimile",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0639",
+   "line": "ἕκαστος, κατὰ γένος, πρὸς τοὺς οἰκείους ἀνίπτανται, καὶ ἔρημον αὐτὴν κατα-",
+   "old": "ἀνίπτανται,",
+   "new": "ἀνίπταται,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0639",
+   "line": "ἕκαστος, κατὰ γένος, πρὸς τοὺς οἰκείους ἀνίπτανται, καὶ ἔρημον αὐτὴν κατα-",
+   "old": "ἔρημον",
+   "new": "ἔρημόν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0639",
+   "line": "pensius nutrimentorum educantem exhauserit, atque adolescere pulli coeperint, tunc",
+   "old": "pensius",
+   "new": "pensus",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0640",
+   "line": "῎Εθος φασὶ τοὺς πέρδικας, μετὰ τὸ ἀποτεχθῆναι τῶν ὠῶν, τοὺς νεοττοὺς τῇ",
+   "old": "῎Εθος",
+   "new": "Ἔθος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0642",
+   "line": "tius quam ulli avium accidat, ut ova foveat, quae non excludat, caussae plures",
+   "old": "caussae",
+   "new": "causae",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0642",
+   "line": "αὐτὸς, ἀλλ᾽ ἐν οὗ ἂν τέκῃ νεοττιᾷ, οὗτος ὁ ὄρνις ἐκκολάπτει καὶ τρέφει. Theo-",
+   "old": "νεοττιᾷ,",
+   "new": "νεοττίᾳ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0643",
+   "line": "θων καλιαῖς ἐπιπηδᾷ οὗτός γε, ἀλλὰ κορύδου, καὶ φάττης, καὶ χλωρίδος, καὶ",
+   "old": "καλιαῖς",
+   "new": "καλίαις",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0644",
+   "line": "tum ἐξιλασμὸς ἥξει, propitiatio veniet, quasi קפרה per Koph et Daleth idem",
+   "old": "קפרה",
+   "new": "קפדה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0645",
+   "line": "Syrachide, ut in Philosopho αἱ πῆκται. Hesychius Κάρταλον (lege Κάρταλλον)·",
+   "old": "πῆκται.",
+   "new": "πήκται.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0646",
+   "line": "Ζῶον ἦν τι πτηνὸν ἐν κλωβῷ κατὰ τὰ βασίλεια αἰωρούμενον. Avis quaedam in",
+   "old": "πτηνὸν",
+   "new": "πτῆνον",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0647",
+   "line": "δευτό σοι, ὥς τέ σοι μὲν τὰ συμφέροντα ὑπηρετεῖν, τὰς δὲ ὁμοφύλους ὄρνιθας",
+   "old": "ὑπηρετεῖν,",
+   "new": "ὑπερητεῖν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0648",
+   "line": "prostravit. Et Psal. CV, 40. Petentibus coturnices invexit, et pane coelorum sa-",
+   "old": "Petentibus",
+   "new": "Peientibus",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0648",
+   "line": "Hebraeum coturnicis nomen est שלו selau; Chaldaicum quoque סלוי selau;",
+   "old": "סלוי",
+   "new": "סליו",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

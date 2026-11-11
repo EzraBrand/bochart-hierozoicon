@@ -211,7 +211,13 @@ BOOKS = {"Gen": "Gen", "Exod": "Exod", "Levit": "Lev", "Lev": "Lev", "Deut": "De
          "Nehem": "Neh", "Esdr": "Ezra", "Thren": "Lam", "Sap": "Wis", "Sapient": "Wis", "Hebr": "Heb",
          "Iac": "Jas", "Pet": "Pet", "Judic": "Judg", "Iudic": "Judg", "Ruth": "Ruth", "Esth": "Esth",
          "Ezr": "Ezra", "Hagg": "Hag", "Obad": "Obad", "Amos": "Amos", "Jerem": "Jer", "Jes": "Isa",
-         "Ies": "Isa", "Jos": "Josh", "Iosu": "Josh", "Josu": "Josh"}
+         "Ies": "Isa", "Jos": "Josh", "Iosu": "Josh", "Josu": "Josh",
+         # tranche 3 (11-Nov-2026, chs. 8-13): Chronicles ("1 Par. II, 1" -> "1 Chr 2:1") and Sirach
+         "Par": "Chr", "Paral": "Chr", "Paralip": "Chr", "Sirach": "Sir", "Sirac": "Sir", "Syrac": "Sir",
+         "Ecclesiastic": "Sir", "Ecclus": "Sir", "Bar": "Bar", "Baruch": "Bar"}
+# "Eccles." is Ecclesiastes or Ecclesiasticus (Sirach): the verse decides (Qohelet's chapters have these
+# many verses; "Eccles. XI, 31" in ch. 13 is Sir 11:31)
+QOHELET = [18, 26, 22, 16, 20, 12, 29, 17, 18, 20, 10, 14]
 # the dot after the verse number ("Levit. XI, 5.") is the number's, not a sentence end: dropped
 BIBLE = re.compile(r"\b(" + "|".join(sorted(BOOKS, key=len, reverse=True)) + r")[.,]?\s+([IVXLC]+)[.,]?\s*(\d+)\b\.?")
 
@@ -220,7 +226,10 @@ SENTENCE_NEXT = re.compile(r"(?:</i>)?(?:\s+[A-Z֐-׿]|\s*$)")  # after "28." a 
 
 
 def _bible(m: re.Match) -> str:
-    out = f"{BOOKS[m.group(1)]} {roman(m.group(2))}:{m.group(3)}"
+    book, ch, verse = BOOKS[m.group(1)], roman(m.group(2)), int(m.group(3))
+    if book == "Eccl" and (ch > len(QOHELET) or verse > QOHELET[ch - 1]):
+        book = "Sir"
+    out = f"{book} {ch}:{verse}"
     # the dot after the verse is dropped, unless it also ends the sentence ("Prov. XXX, 28. Sed")
     if m.group(0).endswith(".") and SENTENCE_NEXT.match(m.string, m.end()):
         out += "."

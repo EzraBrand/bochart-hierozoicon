@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "616 <i>De Grue.</i> P.II. L.I,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "616 <i>De Grue.</i> P.II. L.I,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Claudianus</i> de bello <i>Gildonico,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Claudianus</i> de bello <i>Gildonico,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ingenti clamore grues aestiva relinquunt</i>\nThracia, <i>cum tepido permutant</i> Strymona Nilo.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ingenti clamore grues aestiva relinquunt</i>\nThracia, <i>cum tepido permutant</i> Strymona Nilo."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde <i>Eustathius</i> gruem dicit avem esse φωνητικὴν, <i>vocalem.</i> Et notandum,\nplerasque linguas ipso avis nomine vocem illius utcumque imitari. Ita <i>Hebrae-\num</i> עגור <i>agor</i>, Chaldaeum כורכיא <i>kurkeja</i>, Arabica كركي <i>kurki</i> ^{(1)}, et\nغرنوق <i>gurnuk</i> ^{(2)}, Graecum γέρανος, Cambro-Britannicum <i>garan</i>, German.\n<i>cran</i>, Romanum <i>grus</i> sunt totidem voces ὀνοματοποιητικαί. Hinc <i>Isidorus</i>, ⟦p. 70⟧\n<i>Grues nomen de propria voce sumpserunt. Tali enim voce susurrant.</i> Et <i>gruere</i>\nest <i>gruum more clangere.</i> Festus, <i>Gruere dicuntur grues, ut sues grunnire.</i>\nPoëmatium <i>De cantu Philomelae,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde <i>Eustathius</i> gruem dicit avem esse φωνητικὴν, <i>vocalem.</i> Et notandum,\nplerasque linguas ipso avis nomine vocem illius utcumque imitari. Ita <i>Hebrae-\num</i> עגור <i>agor</i>, Chaldaeum כורכיא <i>kurkeja</i>, Arabica كركي <i>kurki</i> ^{(1)}, et\nغرنوق <i>gurnuk</i> ^{(2)}, Graecum γέρανος, Cambro-Britannicum <i>garan</i>, German.\n<i>cran</i>, Romanum <i>grus</i> sunt totidem voces ὀνοματοποιητικαί. Hinc <i>Isidorus</i>, ⟦p. 70⟧\n<i>Grues nomen de propria voce sumpserunt. Tali enim voce susurrant.</i> Et <i>gruere</i>\nest <i>gruum more clangere.</i> Festus, <i>Gruere dicuntur grues, ut sues grunnire.</i>\nPoëmatium <i>De cantu Philomelae,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Grus gruit, inque glomis cygni prope flumina drensant.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Grus gruit, inque glomis cygni prope flumina drensant.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Glossarium</i> vetus: <i>Gruunt</i>, γερανίζουσι. Interim, ne quis putet, grues semper\nsonora voce clangere, <i>Damir</i> haec habet de grue, quae excubias agit, dum\nreliquae dormiunt: والذي يحرس يهتف خافي كانه يندر\nبانه حارس <i>Et quae in custodia est nonnisi submissa voce murmurat, ac si sci-\nret, se esse in custodia.</i> Quod ipsum <i>ad Ezechiae</i> locum non absurde referatur,\nquasi hoc gruis lene murmur cum hirundinis minuritione junxerit.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Glossarium</i> vetus: <i>Gruunt</i>, γερανίζουσι. Interim, ne quis putet, grues semper\nsonora voce clangere, <i>Damir</i> haec habet de grue, quae excubias agit, dum\nreliquae dormiunt: والذي يحرس يهتف خافي كانه يندر\nبانه حارس <i>Et quae in custodia est nonnisi submissa voce murmurat, ac si sci-\nret, se esse in custodia.</i> Quod ipsum <i>ad Ezechiae</i> locum non absurde referatur,\nquasi hoc gruis lene murmur cum hirundinis minuritione junxerit."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Nunc",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nunc"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Inter Alexandriae <i>aves migratorias</i>\nFORSKALIUS in <i>Descript. Animall.</i> p. 9.\nrecenset quoque <i>Kurki</i>: „vocatur et <i>Vaes\naraki</i> [إوز أرقي <i>anas vigilans</i>, quod\nquidem <i>gruis</i> nomen esse possit, quum\n<i>gruis vigilantia</i> satis sit celebrata, vid.\nBochart. infra]. Constantinopoli advenit\nOctobri, post tres menses redit, vel ad In-\ndiam, ut perhibetur, transit“. Sed p. 3.\nidem Forskalius <i>Vaes araki</i> anatis anseris\nnomen refert. Vnde VELTHUSEN (in\n<i>Animadverss. ad Cantic. Hisk.</i> Symbolis\nKiloniensibus insertis P. II. pag. 323. sequ.)\nrecte concludit, fuisse pluribus avibus unum\nnomen commune. Certe tamen <i>Kurki</i>,\nكركي, et <i>gruem</i> vocari ab Arabi-\nbus, vel patet ex proverbio, quod dein-\nceps Bochartus afferet de homine cauto,\nاحرس من الكركي <i>vigilan-\ntior grue.</i>",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Inter Alexandriae <i>aves migratorias</i>\nFORSKALIUS in <i>Descript. Animall.</i> p. 9.\nrecenset quoque <i>Kurki</i>: „vocatur et <i>Vaes\naraki</i> [إوز أرقي <i>anas vigilans</i>, quod\nquidem <i>gruis</i> nomen esse possit, quum\n<i>gruis vigilantia</i> satis sit celebrata, vid.\nBochart. infra]. Constantinopoli advenit\nOctobri, post tres menses redit, vel ad In-\ndiam, ut perhibetur, transit“. Sed p. 3.\nidem Forskalius <i>Vaes araki</i> anatis anseris\nnomen refert. Vnde VELTHUSEN (in\n<i>Animadverss. ad Cantic. Hisk.</i> Symbolis\nKiloniensibus insertis P. II. pag. 323. sequ.)\nrecte concludit, fuisse pluribus avibus unum\nnomen commune. Certe tamen <i>Kurki</i>,\nكركي, et <i>gruem</i> vocari ab Arabi-\nbus, vel patet ex proverbio, quod dein-\nceps Bochartus afferet de homine cauto,\nاحرس من الكركي <i>vigilan-\ntior grue.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Idem nomen inter <i>aves Arabiae ob-\nscuras</i> habet Forskal pag. VIII. „<i>Ghornak</i>\nalba; oestris pascitur, in tergo boum nidi-\nficantibus“. Patet, hanc avem non esse\ngruem. Attamen quum in fabula de\nPygmaeis, quam ex Arabe quodam nobis\ndabit Bochartus infra p. 77., sub غرانيق\naperte <i>grues</i> sint intelligendi, ego hoc idem\nnomen diversis in regionibus de animali-\nbus diversis usitatum putem. <i>In Maurita-\nnia</i> quaedam <i>vulturis</i> species eo nomine\nnuncupatur, vid. HOESTII <i>Descript. regni\nFessani et Maroccani</i> p. 298. vers. germ.\nCf. VELTHUSEN l. c. p. 321.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Idem nomen inter <i>aves Arabiae ob-\nscuras</i> habet Forskal pag. VIII. „<i>Ghornak</i>\nalba; oestris pascitur, in tergo boum nidi-\nficantibus“. Patet, hanc avem non esse\ngruem. Attamen quum in fabula de\nPygmaeis, quam ex Arabe quodam nobis\ndabit Bochartus infra p. 77., sub غرانيق\naperte <i>grues</i> sint intelligendi, ego hoc idem\nnomen diversis in regionibus de animali-\nbus diversis usitatum putem. <i>In Maurita-\nnia</i> quaedam <i>vulturis</i> species eo nomine\nnuncupatur, vid. HOESTII <i>Descript. regni\nFessani et Maroccani</i> p. 298. vers. germ.\nCf. VELTHUSEN l. c. p. 321."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1802,
+    1533
+   ],
+   [
+    1802,
+    1299
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1769,
+  "cost_usd": 0,
+  "seconds": 308.0
+ }
+}

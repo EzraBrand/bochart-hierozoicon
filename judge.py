@@ -48,7 +48,8 @@ old form or a misprint, write what is printed. It may be that no reading is righ
 - Latin: write the long s as "s"; "f" only where the letter has the full cross bar of f. Keep \
 the spelling (causa vs. caussa), the punctuation (comma vs. full stop) and hyphens at the line end.
 - Greek: the accents and breathings as printed (acute ´, grave `, circumflex ῀; smooth vs. rough \
-breathing); write the ligature ȣ as ου.
+breathing); write the ligature ȣ as ου (it is never ε or ο). The lower-case φ of this type is \
+tall and looks like a capital Φ: write φ unless the word is a proper name or begins a sentence.
 - Hebrew: the letters as printed; ״ for the double stroke of an abbreviation; easy to confuse: \
 ם/ס, ו/ז/י, ח/ת/ה, ד/ר, ב/כ, ג/נ. Do not add a letter of the full word to an abbreviation.
 - Arabic: the letters and their dots as printed: count the dots (ب ت ث ن ي; ف ق; ع غ; د ذ; ر ز; \

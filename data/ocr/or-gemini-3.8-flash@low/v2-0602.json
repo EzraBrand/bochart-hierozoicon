@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "602 De Hirundine. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "602 De Hirundine. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "docent [haec <i>Selomonis</i>: יונתן תירגם לשון תורים ובני יונה, <i>Ionathan reddidit</i>,\n<i>ut in legis locis, quibus agitur de turturibus et filiis columbarum</i>. Quod Hebraei\nmerito sequuntur, et recentiores interpretes, quotquot habentur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "docent [haec <i>Selomonis</i>: יונתן תירגם לשון תורים ובני יונה, <i>Ionathan reddidit</i>,\n<i>ut in legis locis, quibus agitur de turturibus et filiis columbarum</i>. Quod Hebraei\nmerito sequuntur, et recentiores interpretes, quotquot habentur."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. X.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. X."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Hirundine</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Hirundine</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Cum תור <i>thor</i>, id est <i>turture</i>, junguntur סוס <i>sis</i> et עגור <i>agor</i>, ut aves pariter\nmigratoriae, in his <i>Ierem. VIII</i>, 7. <i>Et thor, et sis, et agor custodierunt</i>\n<i>tempus adventus sui</i>. Et de <i>turture</i> cum sit actum, sequitur, ut agamus de <i>sis</i>\net <i>agor</i>. Quae voces rursus occurrunt in <i>Ezechiae</i>, regis, cantico <i>Es. XXXVIII</i>,\n14. <i>Ut sis (inquit) et agor pipiebam, gemebam ut columba</i>. Sed harum alibi nul-\nla mentio. Et cum utroque loco סוס in textu scribatur per <i>Vau</i>, tamen in <i>Iere-</i>\n<i>mia</i> Hebraei סיס <i>sis</i>, per <i>Iod</i> legunt. Quam lectionem maxime probo, cum ut ⟦p. 60.⟧\nסיס <i>sis</i>, a voce סוס <i>sus</i>, differat, qua significatur <i>equus</i>, tum quia סוס <i>sis</i> vi-\ndetur magis exprimere naturam rei, quae hoc nomine significatur (<sup>1</sup>). Quod\nipsum, quia in quaestione est, jam disquirendum. <i>Pagninus</i>, <i>Munsterus</i>, <i>Bux-</i>\n<i>torfius</i>, <i>Schindlerus</i>, <i>Iunius</i>, et <i>Tremellius</i>, <i>Angli</i>, <i>Itali</i>, etc. et plerique alii\nnovi interpretes סוס <i>sis gruem</i> constanter exponunt. Ita nimirum statuunt <i>He-</i>\n<i>braeorum</i> doctissimi, <i>Iarchius</i>, <i>Kimchius</i> et <i>Pomarius</i>, <i>Ionathanem</i> sequuti in\n<i>Chaldaica Paraphrasi</i>, quae pro סוס <i>sis</i> habet כורכיא <i>kurkeja</i>. Porro כורכיא\n<i>kurkeja gruem</i> esse, tam ex <i>Talmude</i> constat, quam ex <i>Arabum</i> scriptoribus, qui\nscribunt كركي <i>kurki</i>. Pro כורכיא <i>kurkeja</i> quandoque reperias כרוכיא\n<i>krukeja</i>, ut in tractatu <i>Kiddusim</i> cap. 2. fol. 44. a. Cui voci simillima est vox\nכרוכא <i>kruka</i>, quae pro חגב <i>chagab</i>, seu <i>cicada</i>, apud <i>Ionathanem</i> occurrit <i>Levit.</i>\n<i>XI</i>, 22. Extabat etiam olim in <i>Paraphrasi Ierusalem</i>, ex qua citatur ab <i>Elia</i> in\n<i>Methurgeman</i>. Unde natus jocularis error in <i>Symmacho</i>, qui, promiscue su-\nmens voces כרוכא <i>kruka</i> et כרוכיא <i>krukeja</i>, ex <i>grue</i> in <i>Ieremia cicadam</i> fecit.\nHinc <i>Hieronymus</i> in <i>Ieremiam</i>: <i>Symmachus cicadam transtulit</i>, quae Hebraice\ndicitur סוס <i>sis</i>. Et ibidem <i>Theodoretus</i>, Τρυγὼν, καὶ τέττιξ, καὶ χελιδὼν,\nἀγρῦ στρθία, ἐφύλαξαν καιρὸς εἰσόδων αὐτῶν· <i>Turtur, et cicada, et hirundo</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cum תור <i>thor</i>, id est <i>turture</i>, junguntur סוס <i>sis</i> et עגור <i>agor</i>, ut aves pariter\nmigratoriae, in his <i>Ierem. VIII</i>, 7. <i>Et thor, et sis, et agor custodierunt</i>\n<i>tempus adventus sui</i>. Et de <i>turture</i> cum sit actum, sequitur, ut agamus de <i>sis</i>\net <i>agor</i>. Quae voces rursus occurrunt in <i>Ezechiae</i>, regis, cantico <i>Es. XXXVIII</i>,\n14. <i>Ut sis (inquit) et agor pipiebam, gemebam ut columba</i>. Sed harum alibi nul-\nla mentio. Et cum utroque loco סוס in textu scribatur per <i>Vau</i>, tamen in <i>Iere-</i>\n<i>mia</i> Hebraei סיס <i>sis</i>, per <i>Iod</i> legunt. Quam lectionem maxime probo, cum ut ⟦p. 60.⟧\nסיס <i>sis</i>, a voce סוס <i>sus</i>, differat, qua significatur <i>equus</i>, tum quia סוס <i>sis</i> vi-\ndetur magis exprimere naturam rei, quae hoc nomine significatur (<sup>1</sup>). Quod\nipsum, quia in quaestione est, jam disquirendum. <i>Pagninus</i>, <i>Munsterus</i>, <i>Bux-</i>\n<i>torfius</i>, <i>Schindlerus</i>, <i>Iunius</i>, et <i>Tremellius</i>, <i>Angli</i>, <i>Itali</i>, etc. et plerique alii\nnovi interpretes סוס <i>sis gruem</i> constanter exponunt. Ita nimirum statuunt <i>He-</i>\n<i>braeorum</i> doctissimi, <i>Iarchius</i>, <i>Kimchius</i> et <i>Pomarius</i>, <i>Ionathanem</i> sequuti in\n<i>Chaldaica Paraphrasi</i>, quae pro סוס <i>sis</i> habet כורכיא <i>kurkeja</i>. Porro כורכיא\n<i>kurkeja gruem</i> esse, tam ex <i>Talmude</i> constat, quam ex <i>Arabum</i> scriptoribus, qui\nscribunt كركي <i>kurki</i>. Pro כורכיא <i>kurkeja</i> quandoque reperias כרוכיא\n<i>krukeja</i>, ut in tractatu <i>Kiddusim</i> cap. 2. fol. 44. a. Cui voci simillima est vox\nכרוכא <i>kruka</i>, quae pro חגב <i>chagab</i>, seu <i>cicada</i>, apud <i>Ionathanem</i> occurrit <i>Levit.</i>\n<i>XI</i>, 22. Extabat etiam olim in <i>Paraphrasi Ierusalem</i>, ex qua citatur ab <i>Elia</i> in\n<i>Methurgeman</i>. Unde natus jocularis error in <i>Symmacho</i>, qui, promiscue su-\nmens voces כרוכא <i>kruka</i> et כרוכיא <i>krukeja</i>, ex <i>grue</i> in <i>Ieremia cicadam</i> fecit.\nHinc <i>Hieronymus</i> in <i>Ieremiam</i>: <i>Symmachus cicadam transtulit</i>, quae Hebraice\ndicitur סוס <i>sis</i>. Et ibidem <i>Theodoretus</i>, Τρυγὼν, καὶ τέττιξ, καὶ χελιδὼν,\nἀγρῦ στρθία, ἐφύλαξαν καιρὸς εἰσόδων αὐτῶν· <i>Turtur, et cicada, et hirundo</i>,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>agri</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>agri</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Quam scriptionis diversitatem VELT-\nHUSEN (<i>Beytrag zur Aufklär. des Dank-</i>\n<i>liedes Hiskiae</i>, in den <i>Beyträgen zur Be-</i>\n<i>förderung theologischer Kenntnisse</i> a I. A.\nCRAMERO editt. P. I. p. 60. 61. not.) inde\nortam putat, quod, quum veteres Hebraei\ncarerent signo aliquo certo, quo sonum il-\nlum, ex <i>u</i> et <i>i</i> mixtum (<i>ü</i>), exprimerent,\nqui in <i>Ssüfs</i>, סוס, auditur, nunc littera י\nnunc ו essent usi.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quam scriptionis diversitatem VELT-\nHUSEN (<i>Beytrag zur Aufklär. des Dank-</i>\n<i>liedes Hiskiae</i>, in den <i>Beyträgen zur Be-</i>\n<i>förderung theologischer Kenntnisse</i> a I. A.\nCRAMERO editt. P. I. p. 60. 61. not.) inde\nortam putat, quod, quum veteres Hebraei\ncarerent signo aliquo certo, quo sonum il-\nlum, ex <i>u</i> et <i>i</i> mixtum (<i>ü</i>), exprimerent,\nqui in <i>Ssüfs</i>, סוס, auditur, nunc littera י\nnunc ו essent usi."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1846,
+    1686
+   ],
+   [
+    1846,
+    1126
+   ]
+  ],
+  "input_tokens": 3411,
+  "output_tokens": 1365,
+  "cost_usd": 0.0077,
+  "seconds": 14.5
+ }
+}

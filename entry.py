@@ -161,6 +161,56 @@ ENTRIES = {
                            "sold at a high price in the siege of Samaria, is a kind of chickpea, not dove's dung",
                   "terms": '"columba" -> "dove" (never "pigeon"); "cicer" -> "chickpea"; "stercus columbarum"/'
                            '"fimus columbinus" -> "dove\'s dung"; Bochart\'s romanized Hebrew names stay as printed;'},
+    # Tranche 3, 11-Nov-2026: Pars II, Book I, chs. 8-13. Chapter heads from the MDZ hOCR
+    # (logs/find_chapters_t3_*.log).
+    "deror": {"vol": 2, "pages": list(range(590, 597)),
+              "title": "Part 2, Book 1, chapter 8: Deror is not the swallow but a kind of wild dove, the turtledove "
+                       "or the wood pigeon (vol. 2, pp. 590–596)",
+              "start": r"^CAP\.\s*VIII\.", "end": r"^CAP\.\s*IX\.",
+              "about": "the chapter arguing that the Hebrew דרור (deror) is not the swallow, as is held, but a kind "
+                       "of wild dove, the turtledove or the wood pigeon",
+              "terms": '"hirundo" -> "swallow"; "columba" -> "dove" (never "pigeon"); "turtur" -> "turtledove"; '
+                       '"palumbes"/"palumbus" -> "wood pigeon"; "passer" -> "sparrow"; "deror" stays "deror" '
+                       '(never "swallow" or "sparrow": the identity of the bird is what the chapter argues about);'},
+    "turtur": {"vol": 2, "pages": list(range(596, 603)),
+               "title": "Part 2, Book 1, chapter 9: The turtledove (vol. 2, pp. 596–602)",
+               "start": r"^CAP\.\s*IX\.", "end": r"^CAP\.\s*X\.", "first_col": 54,
+               "about": "the chapter on the turtledove, Hebrew תור (thor), Greek τρυγών: its names, its moaning, "
+                        "its chastity and its migration",
+               "terms": '"turtur" -> "turtledove"; "columba" -> "dove" (never "pigeon"); "gemere"/"gemitus" -> '
+                        '"moan"/"moaning"; "thor" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "sis": {"vol": 2, "pages": list(range(602, 615)),
+            "title": "Part 2, Book 1, chapter 10: The swallow (vol. 2, pp. 602–613)",
+            "start": r"^CAP\.\s*X\.", "end": r"^CAP\.\s*XI\.", "first_col": 59,
+            "about": "the chapter arguing that the Hebrew סיס (sis) of Jer 8:7 and Isa 38:14 is the swallow, with "
+                     "the swallow's names, migration and chirping in the ancient authors",
+            "terms": '"hirundo" -> "swallow"; "grus" -> "crane"; "sis", "sus" and "agur"/"agor" (Bochart\'s '
+                     'romanized Hebrew) stay as printed; "sis" stays "sis" (never "swallow": the identity of the '
+                     'bird is what the chapter argues about);'},
+    "agur": {"vol": 2, "pages": list(range(614, 633)),
+             "title": "Part 2, Book 1, chapter 11: The crane (vol. 2, pp. 614–631)",
+             "start": r"^CAP\.\s*XI\.", "end": r"^CAP\.\s*XII\.", "first_col": 68,
+             "about": "the chapter arguing that the Hebrew עגור (agur) of Isa 38:14 and Jer 8:7 is the crane, with "
+                      "the crane's voice, migration, order of flight and the ancient accounts of it",
+             "terms": '"grus" -> "crane"; "hirundo" -> "swallow"; "agur"/"agor" (Bochart\'s romanized Hebrew) stays '
+                      'as printed (never "crane": the identity of the bird is what the chapter argues about);'},
+    "kore": {"vol": 2, "pages": list(range(632, 646)),
+             "title": "Part 2, Book 1, chapter 12: Kore is not the partridge but a kind of woodcock "
+                      "(vol. 2, pp. 632–644)",
+             "start": r"^CAP\.\s*XII\.", "end": r"^CAP\.\s*XIII\.", "first_col": 80,
+             "about": "the chapter arguing that the Hebrew קורא (kore) of 1 Sam 26:20 and Jer 17:11 is not the "
+                      "partridge, as has been believed, but a kind of woodcock (rusticula, gallinago)",
+             "terms": '"perdix" -> "partridge"; "rusticula" -> "woodcock" (with "<i>rusticula</i>" in brackets at '
+                      'the first use); "gallinago" -> "<i>gallinago</i>" (kept in Latin); "kore" stays "kore" '
+                      '(never "partridge": the identity of the bird is what the chapter argues about);'},
+    "perdix-cavea": {"vol": 2, "pages": list(range(645, 649)),
+                     "title": "Part 2, Book 1, chapter 13: The hunter partridge in a cage (Sirach 11) "
+                              "(vol. 2, pp. 645–647)",
+                     "start": r"^CAP\.\s*XIII\.", "end": r"^CAP\.\s*XIV\.", "first_col": 89,
+                     "about": "the chapter on the πέρδιξ θηρευτὴς ἐν καρτάλλῳ, the hunter partridge in a cage, of "
+                              "Sirach 11, and on the true partridge, its tameness and its use as a decoy",
+                     "terms": '"perdix" -> "partridge"; "perdix venator" -> "hunter partridge" (Bochart\'s rendering '
+                              'of θηρευτής; not "decoy"); "cavea" -> "cage"; "cicur" -> "tame"; "laqueus" -> "snare";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -240,6 +290,29 @@ FIXES = {
     579: [('מדת של', 'מרת של'), ('חטים,', 'חטום,'), ('Φοινικηίου', 'Φοινικηΐου')],
     589: [('חרי דא,', 'τοῦ חרי,')],
     590: [('ሞሆኒቅ፡', 'መዐንቅ፡')],
+    # tranche 3 (11-Nov-2026): the note mark *) of p. 611 was read plain, not as ^{*)}; the margin number
+    # of p. 611 is 66 (Opus and MDZ read 661; qa.py found the gap)
+    611: [('hirundo</i> *). Et apud', 'hirundo</i>^{*)}. Et apud'), ('⟦p. 661⟧', '⟦p. 66⟧')],
+    # tranche 3, scan check (11-Nov-2026): the print differs from the vote's text (misprints kept)
+    594: [('ἁλυσιδωτοὺς,', 'ἀλυσιδωτοὺς,'), ('ἁλυσιδωτὰς,', 'ἀλυσιδωτὰς,')],
+    597: [('צרצירלחא', 'צרצילתא'), ('ἀναισθησίᾳ', 'ἀναιθησίᾳ'), ('πραττόν-\nτων,', 'πρατ-\nτων,'), ('[?]αύσοιο', 'Ναύσοιο'), ('[?]idquam', 'quidquam'), ('[?]κναίειν', 'Ἐκκναίειν'), ('[?]s.</i> Quod', 'dens.</i> Quod'), ('[?], δήπου', 'δίᾳ, δήπου'), ('[?]m ineptiis', 'enim ineptiis'), ('[?]ur de', 'igitur de'), ('[?]<i>rtures', '<i>Turtures')],
+    613: [('tae [?]montium', 'tae montium'), ('ta [?]imis', 'ta nimis'), ('κρ[?]πτουσιν', 'κρύπτουσιν'), ('mo[?]i', 'modi'), ('val[?]bus', 'vallibus'), ('lib[?]', 'libri'), ('dia[?]us', 'dianus'), ('Sed [?] cum', 'Sed cum'), ('risq[?]e', 'risque'), ('u[?]us', 'unus'), ('temp[?]us', 'tempus'), ('dinu[?]n', 'dinum')],
+    615: [('ἐπακούσῃς,', 'ἐπακούσης,')],
+    619: [('πόλεως σαδίους δισχιλίους,', 'πόλεως σταδίους δισχιλίους,')],
+    628: [('ἐπακούσῃς,', 'ἐπακούσης,'), ('Ἥτ᾽', 'Ἡτ᾽'), ('ὡρα-\nθέρους', 'ὥρα-\nθέρους')],
+    629: [('Βιστονίαν', 'Βιστόνιαν'), ('</i> Pygmaeo <i>sanguine', '</i> Pygmaëo <i>sanguine')],
+    630: [('ἄνϑρωπους,', 'ἀνθρώπους,')],
+    631: [('στρουθία,', 'στρουθια,'), ('Syriaco [?],', 'Syriaco ܥܓܘܪܐ,')],
+    633: [('זיל חהא מלגלג', 'זיל תהא מלגלג'), ('ﺩﺟﺮ,', 'دجر,')],
+    638: [('פרדי״ו', 'פרד״יז')],
+    639: [('α.', 'ά.')],
+    645: [('ἐπικορρίζουσι)', 'ἐπικοῤῥίζουσι)'), ('ܩܠܘܒܐ', 'ܩܠܘܒܝܐ'), ('קורא esse', 'קֹרֵא esse')],
+    595: [('[?]<i>quadringenta', '<i>quadringenta'), ('[?]<i>, et aves', '<i>bula, et aves'), ('[?]<i>um laquearibus', '<i>ticuum laquearibus'), ('[?] <i>Regum</i>', 'mo <i>Regum</i>'), ('[?]ue in <i>Iosepho', 'neque in <i>Iosepho'), ('[?] lib. 6. cap. 6.', '<i>Iudaico</i> lib. 6. cap. 6.'), ('[?]ινι', 'μή τινι'), ('[?]<i>ebat', '<i>horrebat'), ('[?] כלה,', 'כלה עורב,'), ('[?]emplum', 'nis templum'), ('[?]mo,', 'summo,')],
+    598: [('Arab. [?],', 'Arab. سمرمر,')],
+    627: [('ca[?]rae', 'caprae'), ('q[?]ales', 'quales')],
+    634: [('קר[?]', 'קר')],
+    # (the pairs with [?] above: a smear over the left margin of pp. 595, 597 and 613 in the scan hides one to
+    # six letters at the line start; restored from the letters that show and the sense, 11-Nov-2026)
 }
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]

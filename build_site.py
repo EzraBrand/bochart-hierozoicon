@@ -97,6 +97,25 @@ DOCS = [
     {"slug": "chiryonim", "kind": "entry", "entry": "chiryonim", "vol": 2, "pages": list(range(572, 590)),
      "title": "Part 2, Book 1, chapter 7: Chiryonim, dove's dung or chickpeas",
      "sub": "Vol. 2, pp. 572–589 · cols. 39–50 of 1663 (Part 2) · חריונים chiryonim or דביונים dibyonim (2 Kgs 6:25), sold dear in the siege of Samaria, is a kind of chickpea, not dove's dung"},
+    # Tranche 3 (11-Nov-2026): Part 2, Book 1, chs. 8-13.
+    {"slug": "deror", "kind": "entry", "entry": "deror", "vol": 2, "pages": list(range(590, 597)),
+     "title": "Part 2, Book 1, chapter 8: The deror",
+     "sub": "Vol. 2, pp. 590–596 · cols. 51–54 of 1663 (Part 2) · דרור deror (Ps 84:4, Prov 26:2) is not the swallow but a wild dove, the turtledove or the wood pigeon"},
+    {"slug": "turtur", "kind": "entry", "entry": "turtur", "vol": 2, "pages": list(range(596, 603)),
+     "title": "Part 2, Book 1, chapter 9: The turtledove",
+     "sub": "Vol. 2, pp. 596–602 · cols. 54–59 of 1663 (Part 2) · תור thor, the turtledove: its names, moaning, chastity and migration (Song 2:12, Jer 8:7)"},
+    {"slug": "sis", "kind": "entry", "entry": "sis", "vol": 2, "pages": list(range(602, 614)),
+     "title": "Part 2, Book 1, chapter 10: The swallow",
+     "sub": "Vol. 2, pp. 602–613 · cols. 59–68 of 1663 (Part 2) · סיס sis (Jer 8:7, Isa 38:14) is the swallow: its names, migration and chirping"},
+    {"slug": "agur", "kind": "entry", "entry": "agur", "vol": 2, "pages": list(range(614, 632)),
+     "title": "Part 2, Book 1, chapter 11: The crane",
+     "sub": "Vol. 2, pp. 614–631 · cols. 68–80 of 1663 (Part 2) · עגור agur (Isa 38:14, Jer 8:7) is the crane: its voice, migration and order of flight"},
+    {"slug": "kore", "kind": "entry", "entry": "kore", "vol": 2, "pages": list(range(632, 645)),
+     "title": "Part 2, Book 1, chapter 12: The kore",
+     "sub": "Vol. 2, pp. 632–644 · cols. 80–89 of 1663 (Part 2) · קורא kore (1 Sam 26:20, Jer 17:11) is not the partridge but a kind of woodcock"},
+    {"slug": "perdix-cavea", "kind": "entry", "entry": "perdix-cavea", "vol": 2, "pages": list(range(645, 648)),
+     "title": "Part 2, Book 1, chapter 13: The hunter partridge in a cage",
+     "sub": "Vol. 2, pp. 645–647 · cols. 89–91 of 1663 (Part 2) · the πέρδιξ θηρευτὴς ἐν καρτάλλῳ, the hunter partridge in a cage, of Sir 11:30, and the true partridge"},
 ]
 CONTENTS = []
 
@@ -450,8 +469,8 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: vol. 2, pp. 409–589 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
-chs. 1–7, the dove).</p>
+far: vol. 2, pp. 409–647 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
+chs. 1–13: the dove, the deror, the turtledove, the swallow, the crane, the kore and the partridge).</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
 <ul class="docs">{items}</ul>

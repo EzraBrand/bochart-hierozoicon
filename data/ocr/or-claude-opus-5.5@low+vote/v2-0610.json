@@ -1,0 +1,219 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "610 <i>De Hirundine.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "610 <i>De Hirundine.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "rundines prae moerore non sic canere. Avis enim cantus, quamlibet sit in spe-\nciem lugubris, non est moeroris effectus, sed naturae.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "rundines prae moerore non sic canere. Avis enim cantus, quamlibet sit in spe-\nciem lugubris, non est moeroris effectus, sed naturae."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Iam pauca de migratione hirundinum in <i>Ierem. VIII,</i> 7. Et migratorias\nquidem esse aves, lippis notum et tonsoribus. Idque observatum ab omni aevo.\n<i>Homerus</i> in Εἰρεσιώνῃ apud <i>Herodotum</i> in ejus vita,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam pauca de migratione hirundinum in <i>Ierem. VIII,</i> 7. Et migratorias\nquidem esse aves, lippis notum et tonsoribus. Idque observatum ab omni aevo.\n<i>Homerus</i> in Εἰρεσιώνῃ apud <i>Herodotum</i> in ejus vita,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Νεῦμαι σοι, νεῦμαι ἐνιαύσιος, ὥστε χελιδὼν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Νεῦμαι σοι, νεῦμαι ἐνιαύσιος, ὥστε χελιδὼν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Apud te redeo quotannis, ut hirundo.</i> Anacreon <i>Oda</i> trigesima tertia,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Apud te redeo quotannis, ut hirundo.</i> Anacreon <i>Oda</i> trigesima tertia,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Σὺ μὲν, φίλη χελιδὼν <i>Tu quidem, amica hirundo,</i>\nἘτησίη μολοῦσα, <i>Annuatim veniens,</i>\nΘέρει πλέκεις καλίην, <i>Aestate nidum texis,</i>\nΧειμῶσι δ' εἶς ἄφαντος. <i>Et hyeme non appares.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Σὺ μὲν, φίλη χελιδὼν <i>Tu quidem, amica hirundo,</i>\nἘτησίη μολοῦσα, <i>Annuatim veniens,</i>\nΘέρει πλέκεις καλίην, <i>Aestate nidum texis,</i>\nΧειμῶσι δ' εἶς ἄφαντος. <i>Et hyeme non appares.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Aristoteles <i>Hist.</i> lib. 8. cap. 12. Ἀπαίρουσι δὲ, etc. καὶ οὐ χειμάζουσι, καὶ αἱ χε-\nλιδόνες, καὶ αἱ τρυγόνες· <i>Abeunt autem, et apud nos non hyemant tam hirundi-\nnes, quam turtures.</i> Auctor ad <i>Herennium, Hirundines aestivo tempore praesto\nsunt, hieme pulsae recedunt.</i> <i>Plinius</i> libri decimi capite vigesimo quarto, <i>Ab-\neunt et hirundines hybernis mensibus.</i> Damir, وهو من الطيور القواطع\n<i>Est ex avibus migratoriis.</i> <i>Columella</i> in prosa <i>De cultu hortorum</i> libri duodeci-\nmi capite tertio, <i>Mox ubi bruma confecta est, intermissis quadraginta diebus, cir-\nca hirundinis adventum, cum jam</i> Favonius <i>exoritur.</i> Et libri decimi capite deci-\nmo quarto, <i>Dum</i> Arcturi <i>ortus, et hirundinis adventus commodiores pollicean-\ntur tempestates.</i> Apud <i>Plinium</i> libri secundi capite quadragesimo septimo, <i>Fa-\nvonium quidam ad</i> VII. <i>Calendas</i> Martias <i>Chelidoniam vocant ab hirundinis visu.\nFavonium,</i> id est, <i>Zephyrum.</i> Hinc <i>Horatius</i> libri primi Epistola septima <i>ad\nMaecenatem,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aristoteles <i>Hist.</i> lib. 8. cap. 12. Ἀπαίρουσι δὲ, etc. καὶ οὐ χειμάζουσι, καὶ αἱ χε-\nλιδόνες, καὶ αἱ τρυγόνες· <i>Abeunt autem, et apud nos non hyemant tam hirundi-\nnes, quam turtures.</i> Auctor ad <i>Herennium, Hirundines aestivo tempore praesto\nsunt, hieme pulsae recedunt.</i> <i>Plinius</i> libri decimi capite vigesimo quarto, <i>Ab-\neunt et hirundines hybernis mensibus.</i> Damir, وهو من الطيور القواطع\n<i>Est ex avibus migratoriis.</i> <i>Columella</i> in prosa <i>De cultu hortorum</i> libri duodeci-\nmi capite tertio, <i>Mox ubi bruma confecta est, intermissis quadraginta diebus, cir-\nca hirundinis adventum, cum jam</i> Favonius <i>exoritur.</i> Et libri decimi capite deci-\nmo quarto, <i>Dum</i> Arcturi <i>ortus, et hirundinis adventus commodiores pollicean-\ntur tempestates.</i> Apud <i>Plinium</i> libri secundi capite quadragesimo septimo, <i>Fa-\nvonium quidam ad</i> VII. <i>Calendas</i> Martias <i>Chelidoniam vocant ab hirundinis visu.\nFavonium,</i> id est, <i>Zephyrum.</i> Hinc <i>Horatius</i> libri primi Epistola septima <i>ad\nMaecenatem,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cum</i> Zephyris <i>si concedes, et hirundine prima.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cum</i> Zephyris <i>si concedes, et hirundine prima.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Oppianus</i> de hirundine lib. 3. <i>Halieuticῶν</i> versu 244.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Oppianus</i> de hirundine lib. 3. <i>Halieuticῶν</i> versu 244."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — εἰαρινὴ Ζεφύρου πρωτάγγελος ὄρνις,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — εἰαρινὴ Ζεφύρου πρωτάγγελος ὄρνις,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Avis verna</i> Zephyri <i>prima nuntia.</i> Et <i>Nonnus</i> libro secundo <i>Dionysiacῶν</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Avis verna</i> Zephyri <i>prima nuntia.</i> Et <i>Nonnus</i> libro secundo <i>Dionysiacῶν</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — εἰαρινοῖο φίλη Ζεφύροιο χελιδὼν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — εἰαρινοῖο φίλη Ζεφύροιο χελιδὼν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Verni amica</i> Zephyri <i>hirundo.</i> Et libro quadragesimo septimo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Verni amica</i> Zephyri <i>hirundo.</i> Et libro quadragesimo septimo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καὶ Ζεφύρου καλὸς ὄρνις ὑπωροφίην χέε μολπὴν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καὶ Ζεφύρου καλὸς ὄρνις ὑπωροφίην χέε μολπὴν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et</i> Zephyri <i>pulchra avis sub tecto fudit cantilenam.</i> Tanquam alludentes ad\n<i>Graecum</i> proverbium, Νέα χελιδὼν, <i>Nova hirundo,</i> quod lapsu memoriae citat\n<i>Suidas</i> ex <i>Aristophanis Avibus</i>, cum alibi non legatur, quam in <i>Equitibus</i> Actu\nprimo his verbis,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et</i> Zephyri <i>pulchra avis sub tecto fudit cantilenam.</i> Tanquam alludentes ad\n<i>Graecum</i> proverbium, Νέα χελιδὼν, <i>Nova hirundo,</i> quod lapsu memoriae citat\n<i>Suidas</i> ex <i>Aristophanis Avibus</i>, cum alibi non legatur, quam in <i>Equitibus</i> Actu\nprimo his verbis,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Σκέψασθε",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Σκέψασθε"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1751,
+    1669
+   ],
+   [
+    1751,
+    1131
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1819,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "0 decisions from v2-591-648"
+ }
+}

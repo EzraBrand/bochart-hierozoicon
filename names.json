@@ -241,7 +241,11 @@
   },
   {
    "forms": [
-    "Ionathane"
+    "Ionathane",
+    "Ionathan",
+    "Ionathanem",
+    "Ionathanis",
+    "Ionathani"
    ],
    "english": "Jonathan",
    "id": "Targum Jonathan",
@@ -537,11 +541,14 @@
   },
   {
    "forms": [
-    "MICHAELIS"
+    "MICHAELIS",
+    "Michaelis",
+    "MICHAELI",
+    "Michaeli"
    ],
    "english": "Michaelis",
-   "id": "",
-   "basis": "standard"
+   "id": "J. D. Michaelis, Supplementa ad lexica hebraica (1784–92)",
+   "basis": "general knowledge"
   },
   {
    "forms": [
@@ -609,7 +616,10 @@
     "R. Selomonis",
     "R. Selomoni",
     "R. Selomonem",
-    "R. Selomone"
+    "R. Selomone",
+    "Rabbi Selomo",
+    "Rabbi Selomonis",
+    "Rabbi Selomoni"
    ],
    "english": "R. Selomo",
    "id": "Rashi (R. Solomon ben Isaac)",
@@ -1080,6 +1090,88 @@
    ],
    "english": "Forsskål",
    "id": "Peter Forsskål, Descriptiones animalium (1775)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Iarchius",
+    "Iarchii",
+    "Iarchio",
+    "Iarchium",
+    "Iarchi",
+    "Jarchius",
+    "Jarchi"
+   ],
+   "english": "Jarchi",
+   "id": "Rashi (R. Solomon ben Isaac), called Jarchi by the Christian Hebraists",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Phile",
+    "Philes",
+    "Philen",
+    "Philae"
+   ],
+   "english": "Philes",
+   "id": "Manuel Philes, De animalium proprietate (14th c.)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "SCHNURRERUS",
+    "Schnurrerus",
+    "SCHNURRERI",
+    "Schnurreri",
+    "SCHNURRERO"
+   ],
+   "english": "Schnurrer",
+   "id": "C. F. Schnurrer, Dissertationes philologico-criticae (1790)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "HUFNAGEL",
+    "Hufnagel",
+    "HUFNAGELIUS",
+    "Hufnagelius"
+   ],
+   "english": "Hufnagel",
+   "id": "W. F. Hufnagel, in Paulus's Repertorium für biblische und morgenländische Litteratur",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "PAULUS",
+    "PAULI",
+    "PAULO"
+   ],
+   "english": "Paulus",
+   "id": "H. E. G. Paulus, Clavis über die Psalmen (1791)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Velthusen",
+    "VELTHUSEN",
+    "Velthusenius",
+    "Velthusenii"
+   ],
+   "english": "Velthusen",
+   "id": "J. C. Velthusen, in Symbolae litterariae Kilonienses",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "CASTELLUS",
+    "Castellus",
+    "CASTELLI",
+    "Castelli",
+    "CASTELLO",
+    "Castello"
+   ],
+   "english": "Castell",
+   "id": "Edmund Castell, Lexicon heptaglotton (London 1669)",
    "basis": "general knowledge"
   }
  ]

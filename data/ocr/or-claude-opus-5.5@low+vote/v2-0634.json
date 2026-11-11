@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "634 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P.II. L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "634 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P.II. L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "nem, ita grui potuerunt aliam avem substituere. At saltem hoc habemus, avi\n<i>kore</i> longum esse rostrum. Quod idem asserunt <i>Hebraei</i> omnes. <i>Aruch</i> in קר[?]\nquinto עוף הוא ופיו שמנקר בו ארוך ביותר, <i>Avis est, cujus os, id est, ro-</i>\n<i>strum, valde longum est.</i> Ita etiam <i>R. Aquinas</i>, et <i>David de Pomis</i>, קורא\nצפור שיש לו מקרא ארוך, Kore, <i>avis longum habens rostrum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "nem, ita grui potuerunt aliam avem substituere. At saltem hoc habemus, avi\n<i>kore</i> longum esse rostrum. Quod idem asserunt <i>Hebraei</i> omnes. <i>Aruch</i> in קר[?]\nquinto עוף הוא ופיו שמנקר בו ארוך ביותר, <i>Avis est, cujus os, id est, ro-</i>\n<i>strum, valde longum est.</i> Ita etiam <i>R. Aquinas</i>, et <i>David de Pomis</i>, קורא\nצפור שיש לו מקרא ארוך, Kore, <i>avis longum habens rostrum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed multo plura nos docent <i>Arabes</i> de ave قارية <i>karia,</i> quam <i>Damir</i> sic\ndescribit: القارية كسارية طاير قصير الرجلين طويل\nالمنقار اخضر اللون تحبه الاعراب وتتيبن به ويشهبون ⟦p. 82⟧\nبه الرجل السخي Karia, <i>nomen ejusdem formae, cujus</i> saria (id est,\n<i>trabs</i> Luc. VI, 41.) <i>avis est, quae pedes habet breves, longum rostrum, viridem</i>\n<i>colorem</i> (aliud exemplar habet اخضر الظهر <i>dorsum viride</i>) <i>eam amant</i>\nArabes, <i>ut qui habeant pro ave auspicata, et hominem liberalem illi conferunt.</i> Et\n<i>Giauhari</i>, القارية طير خضر تحبها الاعراب ويشهبون\nبها الرجل السخي وذلك لانها تنذر بالمطر Karia,\n<i>avis viridis, quam amant</i> Arabes, <i>et liberali homini comparant; quia pluviam</i>\n<i>significat.</i> Et <i>Alcamus</i> القارية طاير اذا راوه استبشروا بالمطر\nكانه رسول الغيث او مقدمة السحاب Karia <i>avis, quam</i>\n<i>qui vident propter futuram pluviam laetantur, ac si imbris esset praenuntia, ac</i>\n<i>nubium anteambulo.</i> Rursus <i>Damir</i> in titulo <i>De ejus usu</i>, الحل لان العرب\nكانت تاكلها <i>Esus ejus concessus est; quia comedunt</i> Arabes. Et\nliber, cui titulus الحج <i>Alchag</i>, seu <i>Peregrinatio</i>, الحمام يغدي\nبشاه وما دونه من القواري وغيرها يغدي بالقيمة <i>Colum-</i>\n<i>ba</i> (quam quis peregrinantium ad pseudo-prophetae sepulchrum dono daturum\nse vovit) <i>ove redimitur: sed quidquid est infra columbam</i> (<i>puta</i> kariae <i>aves, aut</i>\n<i>aliae similes</i>) <i>ejus pretio dato redimitur.</i> Inde duo collegit <i>Damir</i>, primo, edu-\nlem esse avem, secundo, a columba differre. Quamvis <i>Ibno Sachith</i>, in libro\n<i>De puritate sermonis</i>, القواري id est, <i>karias</i> aves definiat طير خضر\nلها ترجيع <i>aves virides, quae vocem in gutture reciprocant</i>, ad instar ge-\nmentis columbae, quod alioqui iis avibus proprium est, quae aquam uno hau-\nstu sorbent. Id <i>Arabice</i> dicitur عب <i>abba.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed multo plura nos docent <i>Arabes</i> de ave قارية <i>karia,</i> quam <i>Damir</i> sic\ndescribit: القارية كسارية طاير قصير الرجلين طويل\nالمنقار اخضر اللون تحبه الاعراب وتتيبن به ويشهبون ⟦p. 82⟧\nبه الرجل السخي Karia, <i>nomen ejusdem formae, cujus</i> saria (id est,\n<i>trabs</i> Luc. VI, 41.) <i>avis est, quae pedes habet breves, longum rostrum, viridem</i>\n<i>colorem</i> (aliud exemplar habet اخضر الظهر <i>dorsum viride</i>) <i>eam amant</i>\nArabes, <i>ut qui habeant pro ave auspicata, et hominem liberalem illi conferunt.</i> Et\n<i>Giauhari</i>, القارية طير خضر تحبها الاعراب ويشهبون\nبها الرجل السخي وذلك لانها تنذر بالمطر Karia,\n<i>avis viridis, quam amant</i> Arabes, <i>et liberali homini comparant; quia pluviam</i>\n<i>significat.</i> Et <i>Alcamus</i> القارية طاير اذا راوه استبشروا بالمطر\nكانه رسول الغيث او مقدمة السحاب Karia <i>avis, quam</i>\n<i>qui vident propter futuram pluviam laetantur, ac si imbris esset praenuntia, ac</i>\n<i>nubium anteambulo.</i> Rursus <i>Damir</i> in titulo <i>De ejus usu</i>, الحل لان العرب\nكانت تاكلها <i>Esus ejus concessus est; quia comedunt</i> Arabes. Et\nliber, cui titulus الحج <i>Alchag</i>, seu <i>Peregrinatio</i>, الحمام يغدي\nبشاه وما دونه من القواري وغيرها يغدي بالقيمة <i>Colum-</i>\n<i>ba</i> (quam quis peregrinantium ad pseudo-prophetae sepulchrum dono daturum\nse vovit) <i>ove redimitur: sed quidquid est infra columbam</i> (<i>puta</i> kariae <i>aves, aut</i>\n<i>aliae similes</i>) <i>ejus pretio dato redimitur.</i> Inde duo collegit <i>Damir</i>, primo, edu-\nlem esse avem, secundo, a columba differre. Quamvis <i>Ibno Sachith</i>, in libro\n<i>De puritate sermonis</i>, القواري id est, <i>karias</i> aves definiat طير خضر\nلها ترجيع <i>aves virides, quae vocem in gutture reciprocant</i>, ad instar ge-\nmentis columbae, quod alioqui iis avibus proprium est, quae aquam uno hau-\nstu sorbent. Id <i>Arabice</i> dicitur عب <i>abba.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "His ita explicatis sequitur, avem קרא <i>kore</i>, vel قارية <i>karia</i>, si mavis,\nprout <i>Arabice</i> vocatur, nobis esse ignotam; quia constat, apud nos nullam ha-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "His ita explicatis sequitur, avem קרא <i>kore</i>, vel قارية <i>karia</i>, si mavis,\nprout <i>Arabice</i> vocatur, nobis esse ignotam; quia constat, apud nos nullam ha-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "beri",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "beri"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1895,
+    1229
+   ],
+   [
+    1895,
+    1591
+   ]
+  ],
+  "input_tokens": 8763,
+  "output_tokens": 1555,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "2 decisions from v2-591-648"
+ }
+}

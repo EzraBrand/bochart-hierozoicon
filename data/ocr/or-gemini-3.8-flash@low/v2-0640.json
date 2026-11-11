@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "640 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "640 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Μήτηρ μέν τ’ ἐμέ φησι τῦ ἔμμεναι αὐτὰρ ἔγωγε\nΟὐκ οἶδ’. ὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω. ⟦p. 86.⟧\n<i>Mater quidam me ejus esse asserit: at ego nescio. Neque enim ullus suum genito-\nrem ipse cognovit. Et Menander apud Eustathium in illum locum,</i>\nΑὐτὸν γὰρ ἐδεὶς οἶδε τῦ ποτ’ ἐγένετο,\nἈλλ’ ὑπονοῦμεν πάντες, ἢ πιστεύομεν.\n<i>Se ipsum nemo novit, a quo sit editus, sed suspicamur omnes, aut credimus.</i> Et\nvel si verum id esset, quod de perdicum pullis tradunt, tamen vix ac ne vix qui-\ndem potuisset observari. Pone enim e pluribus pullis, qui matrem perdicem se-\nquuntur, unum, aut alterum eam deserere, ut ad aliam se conferant, quis ausit\npro certo affirmare, hoc ideo fieri, quod exclusi fuerint ex ovis alteri illi furre-\nptis? Quam multa supponenda sunt, ut haec observatio pro vera et comperta\nhabeatur? Itaque apud veteres rerum naturalium scriptores nihil tale occurrit.\nEt memoria fefellit <i>Hieronymum</i>, cum in Ieremiam haec scripsit; <i>Ajunt scripto-\nres naturalis historiae, tam bestiarum et volucrum, quam arborum herbarumque,\nquorum principes sunt apud Graecos Aristoteles et Theophrastus, apud nos Pli-\nnius Secundus, hanc perdicis esse naturam, ut ova alterius perdicis, id est, aliena\nfuretur, et eis incubet foveatque, cumque foetus adoleverit, avolare ab eo et alie-\nnum parentem relinquere.</i> Sed et pii viri, qui cum illo hoc commentum in li-\nteras retulerunt, plus fidei, quam par fuit, τοῖς τερατολόγοις habuerunt, qui-\nbus id propositum fuit, ut populum detinerent per haec portenta narrationum.\nNam, ut recte <i>Synesius</i> in <i>Calvitii encomio</i>, Τὸ δὲ ῥᾷςον καταγελάσεται ὁ δῆ-\nμος· δεῖται γὰρ τερατείας. <i>Quod facile est, ridet plebs; eget enim narratione\nprodigiosa.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Μήτηρ μέν τ’ ἐμέ φησι τῦ ἔμμεναι αὐτὰρ ἔγωγε\nΟὐκ οἶδ’. ὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω. ⟦p. 86.⟧\n<i>Mater quidam me ejus esse asserit: at ego nescio. Neque enim ullus suum genito-\nrem ipse cognovit. Et Menander apud Eustathium in illum locum,</i>\nΑὐτὸν γὰρ ἐδεὶς οἶδε τῦ ποτ’ ἐγένετο,\nἈλλ’ ὑπονοῦμεν πάντες, ἢ πιστεύομεν.\n<i>Se ipsum nemo novit, a quo sit editus, sed suspicamur omnes, aut credimus.</i> Et\nvel si verum id esset, quod de perdicum pullis tradunt, tamen vix ac ne vix qui-\ndem potuisset observari. Pone enim e pluribus pullis, qui matrem perdicem se-\nquuntur, unum, aut alterum eam deserere, ut ad aliam se conferant, quis ausit\npro certo affirmare, hoc ideo fieri, quod exclusi fuerint ex ovis alteri illi furre-\nptis? Quam multa supponenda sunt, ut haec observatio pro vera et comperta\nhabeatur? Itaque apud veteres rerum naturalium scriptores nihil tale occurrit.\nEt memoria fefellit <i>Hieronymum</i>, cum in Ieremiam haec scripsit; <i>Ajunt scripto-\nres naturalis historiae, tam bestiarum et volucrum, quam arborum herbarumque,\nquorum principes sunt apud Graecos Aristoteles et Theophrastus, apud nos Pli-\nnius Secundus, hanc perdicis esse naturam, ut ova alterius perdicis, id est, aliena\nfuretur, et eis incubet foveatque, cumque foetus adoleverit, avolare ab eo et alie-\nnum parentem relinquere.</i> Sed et pii viri, qui cum illo hoc commentum in li-\nteras retulerunt, plus fidei, quam par fuit, τοῖς τερατολόγοις habuerunt, qui-\nbus id propositum fuit, ut populum detinerent per haec portenta narrationum.\nNam, ut recte <i>Synesius</i> in <i>Calvitii encomio</i>, Τὸ δὲ ῥᾷςον καταγελάσεται ὁ δῆ-\nμος· δεῖται γὰρ τερατείας. <i>Quod facile est, ridet plebs; eget enim narratione\nprodigiosa.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Graecorum Patrum</i> nonnullis aliud persuasum fuit, nempe perdicem foe-\nminam ad alterius perdicis nidum, ea absente, accedere, et pullis ita imponere\nimitatione maternae vocis, ut illi, nido relicto, eam sequantur, donec, vera\nmatre redeunte, poeniteat erroris. Quod <i>Chrysostomus</i> nonnisi ex parte refert.\nἜθος φασὶ τὲς πέρδικας, μετὰ τὸ ἀποτεχθῆναι τῶν ὠῶν, τὲς νεοττὲς τῇ\nφωνῇ προσκαλεῖσθαι, καὶ γυμνῦν τὴν τεκῦσαν· <i>Perdicibus ajunt in more esse,\nut post ovorum partum aliarum pullos voce invitent, atque ea matrem spolient.</i>\nSed <i>Olympiodorus</i> plenius, Ὁ πέρδιξ, ὥς φασιν, ὑπερήφανος ὢν, διὰ τῆς\nφωνῆς τὲς ἀλλοτρίως προσκαλεῖται νεοττὲς, οἵτινες γνόντες ὕςερον ὅτι ἐκ εἰσὶν\nαὐτῦ, καταλιμπάνεσιν αὐτόν. <i>Perdix, ut ajunt, cum superbus sit, alienos\npullos voce allicit; a quibus tamen deseritur, postquam se illius non esse tandem\ncognoverunt.</i> Et <i>Hippolytus</i> plenissime, Τῦ πέρδικος κενοδόξυ ζώε ὑπάρχον-\nτος, ἐπὰν πλησίον ἴδῃ ἑτέρω πέρδικος καλιὰν νεοττὲς ἔχεσαν, ἀποπτάντος\nτῦ πατρὸς αὐτῶν ἐπὶ τὴν νομὴν, μιμέμενος τὴν τῦ ἀλλοτρίω φωνὴν, προσκα-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Graecorum Patrum</i> nonnullis aliud persuasum fuit, nempe perdicem foe-\nminam ad alterius perdicis nidum, ea absente, accedere, et pullis ita imponere\nimitatione maternae vocis, ut illi, nido relicto, eam sequantur, donec, vera\nmatre redeunte, poeniteat erroris. Quod <i>Chrysostomus</i> nonnisi ex parte refert.\nἜθος φασὶ τὲς πέρδικας, μετὰ τὸ ἀποτεχθῆναι τῶν ὠῶν, τὲς νεοττὲς τῇ\nφωνῇ προσκαλεῖσθαι, καὶ γυμνῦν τὴν τεκῦσαν· <i>Perdicibus ajunt in more esse,\nut post ovorum partum aliarum pullos voce invitent, atque ea matrem spolient.</i>\nSed <i>Olympiodorus</i> plenius, Ὁ πέρδιξ, ὥς φασιν, ὑπερήφανος ὢν, διὰ τῆς\nφωνῆς τὲς ἀλλοτρίως προσκαλεῖται νεοττὲς, οἵτινες γνόντες ὕςερον ὅτι ἐκ εἰσὶν\nαὐτῦ, καταλιμπάνεσιν αὐτόν. <i>Perdix, ut ajunt, cum superbus sit, alienos\npullos voce allicit; a quibus tamen deseritur, postquam se illius non esse tandem\ncognoverunt.</i> Et <i>Hippolytus</i> plenissime, Τῦ πέρδικος κενοδόξυ ζώε ὑπάρχον-\nτος, ἐπὰν πλησίον ἴδῃ ἑτέρω πέρδικος καλιὰν νεοττὲς ἔχεσαν, ἀποπτάντος\nτῦ πατρὸς αὐτῶν ἐπὶ τὴν νομὴν, μιμέμενος τὴν τῦ ἀλλοτρίω φωνὴν, προσκα-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "λεῖται",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "λεῖται"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1798,
+    1616
+   ],
+   [
+    1798,
+    1216
+   ]
+  ],
+  "input_tokens": 3399,
+  "output_tokens": 1229,
+  "cost_usd": 0.0072,
+  "seconds": 12.3
+ }
+}

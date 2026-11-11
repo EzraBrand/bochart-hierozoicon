@@ -44,6 +44,20 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 3 (scan check 11-Nov-2026, apply_review.py; group C finished in the main session)
+    ('v2-0591', 'καρπήσιον·'): 'π is clear, no descender; not χ',
+    ('v2-0602', 'סיס'): 'middle letter short (yod); the following סוס has a longer vav',
+    ('v2-0607', 'οὔρεα,'): 'ȣ ligature with breathing and acute: οὔρεα',
+    ('v2-0609', 'ἤ'): 'acute on the second ἤ (the first ἢ has the grave)',
+    ('v2-0627', 'ὑποστρέφουσιν'): "vowel after φ is the ȣ ligature (MDZ's ε confirms), not ω",
+    ('v2-0631', 'عجر,'): 'the stroke before ج is the lead-in of the letter (half the height of an alif; same in السخي p. 634), not ا',
+    ('v2-0633', 'חהא'): 'print תהא (first letter has the left foot of ת, middle letter is ה (open left leg); neither חהא nor חזא)',
+    ('v2-0634', 'السخي'): 'three teeth of س, then the lead-in of خ (not as tall as the ا and ل of the article)',
+    ('v2-0636', 'قارية'): 'print قارية: two dots under the ي [first reader]',
+    ('v2-0636', 'شُقِرّاق,'): 'letters ش-kashida-ق-ر-ا-ق (no second ر); vowel marks not resolvable [first reader]',
+    ('v2-0640', 'Αὑτὸν'): 'the mark over υ is c-shaped (rough breathing)',
+    ('v2-0645', 'ܩܠܘܒܐ'): 'print ܩܠܘܒܝܐ (six letters with yod (klubja); first letter a closed loop (qoph), unlike the open beth)',
+    ('v2-0645', 'קורא'): 'print קֹרֵא (three letters, pointed: holem after ק, tsere under ר)',
     # tranche 2, group A (scan check 10-Nov-2026, apply_review.py)
     ('v2-0525', 'πολλοῦ.'): 'footnote a) prints πολλȣ̃ = ȣ ligature with circumflex = πολλοῦ; not ῷ',
     ('v2-0532', 'Ὅσα'): 'final letter is α, not οι; Ὅσα printed',
@@ -106,6 +120,41 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # tranche 3 (scan check 11-Nov-2026, apply_review.py; group C finished in the main session)
+    ('v2-0593', 'ἀρκεύθω'),
+    ('v2-0595', '[?]mo,'),
+    ('v2-0597', '[?]s.'),
+    ('v2-0597', '[?]ur'),
+    ('v2-0598', 'τῷ'),
+    ('v2-0601', 'חדעך,'),
+    ('v2-0606', 'ἶβις,'),
+    ('v2-0607', 'ὀλολυγὼν'),
+    ('v2-0611', "Φ'."),
+    ('v2-0613', 'risq[?]e'),
+    ('v2-0613', 'u[?]us'),
+    ('v2-0613', 'dinu[?]n'),
+    ('v2-0613', 'mo[?]i'),
+    ('v2-0613', 'dia[?]us'),
+    ('v2-0615', 'ὥς, Ἠΰτε περ'),
+    ('v2-0616', 'حارس'),
+    ('v2-0621', 'καθορᾷν'),
+    ('v2-0622', 'ἵπταται'),
+    ('v2-0622', 'ὁρμαθὸν'),
+    ('v2-0622', 'a)'),
+    ('v2-0625', 'نوبته'),
+    ('v2-0627', 'ca[?]rae,'),
+    ('v2-0627', 'q[?]ales'),
+    ('v2-0628', 'ἀρότοιό'),
+    ('v2-0630', 'ܕܡܨܦܪܐ,'),
+    ('v2-0631', 'عبر'),
+    ('v2-0634', 'وتتيمن'),
+    ('v2-0636', 'ptera'),
+    ('v2-0637', 'עופות'),
+    ('v2-0637', 'ילד'),
+    ('v2-0638', 'verisimile'),
+    ('v2-0644', 'קפרה'),
+    ('v2-0646', 'ܡܨܝܕܬܐ'),
+    ('v2-0648', 'Petentibus'),
     # pilot, ch. 33 (read on the scan 01-Nov-2026)
     ("v2-0410", "וחתול"), ("v2-0428", "τῷ"), ("v2-0428", "Scholia-"), ("v2-0428", "caussa"),
     ("v2-0416", "Viggeio"), ("v2-0416", "alphenec,"), ("v2-0429", "σθαι"),
@@ -211,6 +260,10 @@ def ambiguous(old: str, new: str) -> str:
         return "ȣ ligature (ου) read as ε or υ"
     if o.replace("στ", "ς") == n:
         return "στ ligature written ς"
+    # the lower-case φ of this type is tall and looks like a capital: every φ -> Φ change of tranches 1-2
+    # was wrong on the scan (11-Nov-2026)
+    if o != n and len(o) == len(n) and all(a == b or {a, b} == {"φ", "Φ"} for a, b in zip(o, n)):
+        return "φ/Φ: the lower-case φ of this type looks like a capital"
     if len(n) < len(o) and n in o and len(o) - len(n) >= 2:
         return "shorter reading (the judge read a part)"
     return ""

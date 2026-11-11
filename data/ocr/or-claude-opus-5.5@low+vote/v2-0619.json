@@ -1,0 +1,135 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. IX. <i>De Grue.</i> 619",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. IX. <i>De Grue.</i> 619"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "cimo. Alii quidem aliter statuunt, nempe tridui navigatione, vel, quod fere\nidem est, bis mille quingentis stadiis ab invicem distare duo haec promontoria.\n<i>Dionysius Periegetes</i> versu 155.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "cimo. Alii quidem aliter statuunt, nempe tridui navigatione, vel, quod fere\nidem est, bis mille quingentis stadiis ab invicem distare duo haec promontoria.\n<i>Dionysius Periegetes</i> versu 155."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αἵτ' ἄμφω ξυνίασιν ἐναντίαι, οὐ μὲν ἐοῦσαι\nἘγγύθεν, ἀλλ᾽ ὅσον ὁλκὰς ἐπὶ τρίτον ἦμαρ ἀνύσσῃ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αἵτ' ἄμφω ξυνίασιν ἐναντίαι, οὐ μὲν ἐοῦσαι\nἘγγύθεν, ἀλλ᾽ ὅσον ὁλκὰς ἐπὶ τρίτον ἦμαρ ἀνύσσῃ."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quae <i>Priscianus</i> itá reddidit:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quae <i>Priscianus</i> itá reddidit:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ergo conveniunt adversi gurgite tanto</i>\n<i>Distantes, quantum ternis transire diebus</i>\n<i>Evaleat navis.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ergo conveniunt adversi gurgite tanto</i>\n<i>Distantes, quantum ternis transire diebus</i>\n<i>Evaleat navis.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Ammianus</i> libro vigesimo secundo, <i>Haud procul inde attollitur</i> Carambis <i>etc.</i>\n<i>Cujus e regione</i> Criu-metopon, Tauricae <i>promontorium, duobus millibus et quin-\ngentis stadiis disparatum.</i> <i>Strabo</i> etiam libro secundo, Τὸ μὲν οὖν τῆς Εὐρώπης\nἀκρωτήριον καλεῖται Κριοῦ μέτωπον, τὸ δὲ τῆς Ἀσίας Κάραμβις, διέχοντα\nἀλλήλων περὶ δισχιλίους σαδίους, καὶ πεντακοσίους· Europae <i>quidem promontori-\num vocatur</i> Criu-metopon (frons arietis), Asiae <i>autem</i> Carambis, <i>ab invicem\ndistantia stadiis circiter</i> MMD. Quae tamen sunt falsissima, et palam refelluntur\nipsius <i>Strabonis</i> verbis libro tertio, Διέσηκε δὲ ἡ Κάραμβις τῆς μὲν τῶν Χερσο-\nνησιτῶν πόλεως σαδίους δισχιλίους, καὶ πεντακοσίους, τοῦ δὲ Κριοῦ μετώπου πολὺ\nἐλάττους τὸν ἀριθμόν· Carambis <i>quidem distat ab urbe</i> Chersonesitarum <i>stadiis\nbis mille quingentis, sed</i> Criu-metopon <i>longe minus.</i> Recte omnino: nam aliud\n<i>Chersonesus</i> urbs, aliud <i>Chersonesus</i> regio, in qua urbs illa sita. Et urbs qui-\ndem, quae est in <i>boreali Chersonesi</i> parte, a <i>Carambi</i> vere distat MMD stadiis. Sed\nin opposita parte <i>Chersonesi Criu-metopon</i> est <i>Carambi</i> multo propius. Tamen\nhaec promiscue sumpta sunt: et quod de urbe <i>Chersoneso</i> nonnulli scripserant,\nillam a <i>Carambi</i> distare stadiis MMD, ita sumptum est, quasi de tota <i>Chersoneso</i>\ndictum, atque illius parte maxime <i>australi,</i> nempe <i>Criu-metopo.</i> Sed hujus\ncommenti vanitas ex eo maxime apparet, quod ibidem a <i>Strabone</i> additur, Συ-\nχνοὶ γοῦν τῶν διαπλευσάντων τὸν πορθμὸν, ἅμα φασὶν ἀμφοτέρας ἰδεῖν τὰς\nἄκρας ἑκατέρωθεν· <i>Multi eorum, qui hoc fretum enavigarunt, se simul vidisse\najunt utrumque promontorium,</i> in medio scilicet spatio constituti; quod non fie- ⟦p. 72⟧\nret, si fretum pateret MMD stadiis. Imbecillior enim est humani oculi acies,\nquam ut ad MCCL stadia possit penetrare, quae faciunt horarias leucas plus LII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Ammianus</i> libro vigesimo secundo, <i>Haud procul inde attollitur</i> Carambis <i>etc.</i>\n<i>Cujus e regione</i> Criu-metopon, Tauricae <i>promontorium, duobus millibus et quin-\ngentis stadiis disparatum.</i> <i>Strabo</i> etiam libro secundo, Τὸ μὲν οὖν τῆς Εὐρώπης\nἀκρωτήριον καλεῖται Κριοῦ μέτωπον, τὸ δὲ τῆς Ἀσίας Κάραμβις, διέχοντα\nἀλλήλων περὶ δισχιλίους σαδίους, καὶ πεντακοσίους· Europae <i>quidem promontori-\num vocatur</i> Criu-metopon (frons arietis), Asiae <i>autem</i> Carambis, <i>ab invicem\ndistantia stadiis circiter</i> MMD. Quae tamen sunt falsissima, et palam refelluntur\nipsius <i>Strabonis</i> verbis libro tertio, Διέσηκε δὲ ἡ Κάραμβις τῆς μὲν τῶν Χερσο-\nνησιτῶν πόλεως σαδίους δισχιλίους, καὶ πεντακοσίους, τοῦ δὲ Κριοῦ μετώπου πολὺ\nἐλάττους τὸν ἀριθμόν· Carambis <i>quidem distat ab urbe</i> Chersonesitarum <i>stadiis\nbis mille quingentis, sed</i> Criu-metopon <i>longe minus.</i> Recte omnino: nam aliud\n<i>Chersonesus</i> urbs, aliud <i>Chersonesus</i> regio, in qua urbs illa sita. Et urbs qui-\ndem, quae est in <i>boreali Chersonesi</i> parte, a <i>Carambi</i> vere distat MMD stadiis. Sed\nin opposita parte <i>Chersonesi Criu-metopon</i> est <i>Carambi</i> multo propius. Tamen\nhaec promiscue sumpta sunt: et quod de urbe <i>Chersoneso</i> nonnulli scripserant,\nillam a <i>Carambi</i> distare stadiis MMD, ita sumptum est, quasi de tota <i>Chersoneso</i>\ndictum, atque illius parte maxime <i>australi,</i> nempe <i>Criu-metopo.</i> Sed hujus\ncommenti vanitas ex eo maxime apparet, quod ibidem a <i>Strabone</i> additur, Συ-\nχνοὶ γοῦν τῶν διαπλευσάντων τὸν πορθμὸν, ἅμα φασὶν ἀμφοτέρας ἰδεῖν τὰς\nἄκρας ἑκατέρωθεν· <i>Multi eorum, qui hoc fretum enavigarunt, se simul vidisse\najunt utrumque promontorium,</i> in medio scilicet spatio constituti; quod non fie- ⟦p. 72⟧\nret, si fretum pateret MMD stadiis. Imbecillior enim est humani oculi acies,\nquam ut ad MCCL stadia possit penetrare, quae faciunt horarias leucas plus LII."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Utut sit, tam in hujus freti trajectu, quam in reliquo itinere, miram emi-\ncare gruum industriam tradunt veteres. <i>Plinius Pontum</i> transvolaturas <i>saburra\nstabiliri</i> asserit, et, <i>cum medium transierint, abjici lapillos e pedibus, cum attige-\nrint continentem, et e gutture arenam.</i> Id est, tum demum non jam lapillos,\nsed arenam etiam evomi. Quod <i>Solinus</i> disertius, <i>Ne pergentibus ad destinata</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Utut sit, tam in hujus freti trajectu, quam in reliquo itinere, miram emi-\ncare gruum industriam tradunt veteres. <i>Plinius Pontum</i> transvolaturas <i>saburra\nstabiliri</i> asserit, et, <i>cum medium transierint, abjici lapillos e pedibus, cum attige-\nrint continentem, et e gutture arenam.</i> Id est, tum demum non jam lapillos,\nsed arenam etiam evomi. Quod <i>Solinus</i> disertius, <i>Ne pergentibus ad destinata</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iiii 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iiii 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>vis</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>vis</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1988,
+    1201
+   ],
+   [
+    1988,
+    1639
+   ]
+  ],
+  "input_tokens": 9137,
+  "output_tokens": 1894,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "1 decisions from v2-591-648"
+ }
+}

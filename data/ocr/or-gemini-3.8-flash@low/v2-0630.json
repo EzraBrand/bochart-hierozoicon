@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "630 De Grue. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "630 De Grue. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Id est, attagen et grus nondum erant in <i>Romanorum</i> deliciis. Et <i>Statius</i> etiam\nin <i>Hercule Vindic.</i> sui temporis catillones, quibus palatum erat aequo doctius,\nita perstringit:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Id est, attagen et grus nondum erant in <i>Romanorum</i> deliciis. Et <i>Statius</i> etiam\nin <i>Hercule Vindic.</i> sui temporis catillones, quibus palatum erat aequo doctius,\nita perstringit:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ah miseri! quos nosse juvat quid Phasidis ales</i>\n<i>Distet ab hiberna Rhodopes grue.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ah miseri! quos nosse juvat quid Phasidis ales</i>\n<i>Distet ab hiberna Rhodopes grue.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Haec de voce עגור <i>agor</i> hactenus, in qua haesisse video priscos interpre-\ntes. In <i>Esaia</i> pro verbis כסוס עגור, <i>ut hirundo et agor</i>, id est, <i>grus</i>, Graeci\n<i>Seniores</i> solum habent ὡς χελιδὼν, et <i>Arabs</i>, مثل سنونة <i>ut hirundo</i>,\nsequenti voce prorsus omissa: et Hieronymus, <i>Sicut pullus hirundinis:</i> Aquila,\nὡς ἵππος ἀγὼρ· et Theodotion, ὡς χελιδὼν ἀγὼρ, quia vocem ignotam descri-\nbere sat habuerunt. At <i>Syrus</i>, ܐܝܟ ܣܢܘܢܝܬܐ ܕܡܥܘܓܐ, <i>sicut hirun-</i>\n<i>do quae garrit:</i> et <i>Chaldaeus</i> כסוסיא דאחיד, <i>sicut hirundo, quae capta est:</i> cui\ngemina <i>Symmachi</i> versio, ὡς χελιδὼν ἐγκλειθεῖσα, <i>ut hirundo inclusa;</i> quasi\nlegerint סגור <i>sagur</i>, pro עגור <i>agor</i>. Sed legendum esse עגור <i>agor</i>, docent <i>Aquila</i>,\n<i>Symmachus</i>, <i>Hebraei</i> omnes, et hujus loci collatio cum <i>Ierem. VIII, 7.</i> Ubi rur-\nsus eaedem voces סיס <i>sis</i> et עגור <i>agor</i> junctae sunt, et quidem ita junctae, ut appa-\nreat, עגור <i>agor</i> esse avis nomen, ut תור <i>thor</i> et סיס <i>sis</i>, quae praecedunt. <i>Hierony-</i>\n<i>mus</i> ciconiam reddit, et <i>Graeci</i> ἀγρῦ στρθία. Sed ἀγρῦ factum ex ἀγὼρ, et στρ-\nθία est Glosema, quod ex margine in textum irrepsit. <i>Chaldaeus</i> et <i>Syrus</i> optime\nܟܘܪܟܝܐ <i>kurkeja</i>, id est, <i>gruem</i> exponunt, quamvis ordine non suo, ut ⟦p. 80.⟧\nsupra notavimus (³).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Haec de voce עגור <i>agor</i> hactenus, in qua haesisse video priscos interpre-\ntes. In <i>Esaia</i> pro verbis כסוס עגור, <i>ut hirundo et agor</i>, id est, <i>grus</i>, Graeci\n<i>Seniores</i> solum habent ὡς χελιδὼν, et <i>Arabs</i>, مثل سنونة <i>ut hirundo</i>,\nsequenti voce prorsus omissa: et Hieronymus, <i>Sicut pullus hirundinis:</i> Aquila,\nὡς ἵππος ἀγὼρ· et Theodotion, ὡς χελιδὼν ἀγὼρ, quia vocem ignotam descri-\nbere sat habuerunt. At <i>Syrus</i>, ܐܝܟ ܣܢܘܢܝܬܐ ܕܡܥܘܓܐ, <i>sicut hirun-</i>\n<i>do quae garrit:</i> et <i>Chaldaeus</i> כסוסיא דאחיד, <i>sicut hirundo, quae capta est:</i> cui\ngemina <i>Symmachi</i> versio, ὡς χελιδὼν ἐγκλειθεῖσα, <i>ut hirundo inclusa;</i> quasi\nlegerint סגור <i>sagur</i>, pro עגור <i>agor</i>. Sed legendum esse עגור <i>agor</i>, docent <i>Aquila</i>,\n<i>Symmachus</i>, <i>Hebraei</i> omnes, et hujus loci collatio cum <i>Ierem. VIII, 7.</i> Ubi rur-\nsus eaedem voces סיס <i>sis</i> et עגור <i>agor</i> junctae sunt, et quidem ita junctae, ut appa-\nreat, עגור <i>agor</i> esse avis nomen, ut תור <i>thor</i> et סיס <i>sis</i>, quae praecedunt. <i>Hierony-</i>\n<i>mus</i> ciconiam reddit, et <i>Graeci</i> ἀγρῦ στρθία. Sed ἀγρῦ factum ex ἀγὼρ, et στρ-\nθία est Glosema, quod ex margine in textum irrepsit. <i>Chaldaeus</i> et <i>Syrus</i> optime\nܟܘܪܟܝܐ <i>kurkeja</i>, id est, <i>gruem</i> exponunt, quamvis ordine non suo, ut ⟦p. 80.⟧\nsupra notavimus (³)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quamvis עגור <i>agor</i> pro <i>grue</i> hodie non usurpetur apud <i>Arabes</i>, tamen\npotuit olim usurpari, atque inde fieri, quod verbo عجر <i>agara</i> significant\n<i>aliquem ad lares suos postliminio reverti</i>, vel <i>aufugere</i>, quod gruum est maxime\nproprium. Illas enim amore patriae in <i>Scythiam</i> et <i>Thraciam</i>, unde ortae sunt,\nquotannis redire constat, adeoque τὴν ἑαυτῶν ἕκαστον καλιὰν ἀναγνωρίζειν,\nὡς τὴν οἰκίαν ἀνθρώπως, <i>unamquamque nidum suum recognoscere, ut homines</i>\n<i>domum:</i> quod pluribus docet <i>Aelianus</i> lib. 3. cap. 13. et 23. Atque indidem for-\ntasse factum, quod a <i>Syris</i> et <i>Persis</i> Ἄγγαροι <i>aggari</i>, vel <i>angari</i> dicebantur\ncursores regii. Angari enim cum gruibus certare credebantur celeritate cursus.\nΦασί τινες (inquit <i>Xenophon</i> libro octavo <i>Cyropaedias</i>) θᾶττον τῶν γεράνων\nταύτην τὴν πορείαν ἀνύττειν· <i>Quidam hoc iter gruum volatu celerius confici refe-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quamvis עגור <i>agor</i> pro <i>grue</i> hodie non usurpetur apud <i>Arabes</i>, tamen\npotuit olim usurpari, atque inde fieri, quod verbo عجر <i>agara</i> significant\n<i>aliquem ad lares suos postliminio reverti</i>, vel <i>aufugere</i>, quod gruum est maxime\nproprium. Illas enim amore patriae in <i>Scythiam</i> et <i>Thraciam</i>, unde ortae sunt,\nquotannis redire constat, adeoque τὴν ἑαυτῶν ἕκαστον καλιὰν ἀναγνωρίζειν,\nὡς τὴν οἰκίαν ἀνθρώπως, <i>unamquamque nidum suum recognoscere, ut homines</i>\n<i>domum:</i> quod pluribus docet <i>Aelianus</i> lib. 3. cap. 13. et 23. Atque indidem for-\ntasse factum, quod a <i>Syris</i> et <i>Persis</i> Ἄγγαροι <i>aggari</i>, vel <i>angari</i> dicebantur\ncursores regii. Angari enim cum gruibus certare credebantur celeritate cursus.\nΦασί τινες (inquit <i>Xenophon</i> libro octavo <i>Cyropaedias</i>) θᾶττον τῶν γεράνων\nταύτην τὴν πορείαν ἀνύττειν· <i>Quidam hoc iter gruum volatu celerius confici refe-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>runt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>runt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "De veterum interpretationibus conferendus etiam MICHAELIS in <i>Sup-</i>\n<i>plemm.</i> P. V. p. 1832.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De veterum interpretationibus conferendus etiam MICHAELIS in <i>Sup-</i>\n<i>plemm.</i> P. V. p. 1832."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1835,
+    1522
+   ],
+   [
+    1835,
+    1274
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1266,
+  "cost_usd": 0.0073,
+  "seconds": 12.0
+ }
+}

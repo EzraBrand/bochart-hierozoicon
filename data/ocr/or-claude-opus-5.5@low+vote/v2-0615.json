@@ -1,0 +1,207 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XI. <i>De Grue.</i> 615",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XI. <i>De Grue.</i> 615"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἄσπετον· οἰμωγὴ δὲ πέλεν στονόεσσα γυναίκων\nΕἰδομένων γεράνοισιν, ὅτ᾽ αἰετὸν ἀθρήσωσιν.\nὙψόθεν αἴσσοντα δι᾽ αἰθέρος, οὐδ᾽ ἄρα τῇσι\nΘαρσαλέον στέρνοισι πέλει μένος, ἀλλὰ ἑ μοῦνον\nΜακρὸν ἀνατρύζουσι, φοβούμεναι ἱερὸν ὄρνιν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἄσπετον· οἰμωγὴ δὲ πέλεν στονόεσσα γυναίκων\nΕἰδομένων γεράνοισιν, ὅτ᾽ αἰετὸν ἀθρήσωσιν.\nὙψόθεν αἴσσοντα δι᾽ αἰθέρος, οὐδ᾽ ἄρα τῇσι\nΘαρσαλέον στέρνοισι πέλει μένος, ἀλλὰ ἑ μοῦνον\nΜακρὸν ἀνατρύζουσι, φοβούμεναι ἱερὸν ὄρνιν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et juvenum caesorum gemitus erat miserabilis, omnesque domus horrendum resona-\nbant. Et tristissimus erat mulierum ejulatus, gruibus similium, cum aquilam vi-\ndent, ex alto per aetherem irruentem. Nec fortis illis in pectore vis residet, sed\ntantummodo multum strident, sacram</i> Iovis <i>alitem formidantes. Homerus</i> quoque\nmilitum barritum cum gruum clangore conferens initio libri tertii <i>Iliados</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et juvenum caesorum gemitus erat miserabilis, omnesque domus horrendum resona-\nbant. Et tristissimus erat mulierum ejulatus, gruibus similium, cum aquilam vi-\ndent, ex alto per aetherem irruentem. Nec fortis illis in pectore vis residet, sed\ntantummodo multum strident, sacram</i> Iovis <i>alitem formidantes. Homerus</i> quoque\nmilitum barritum cum gruum clangore conferens initio libri tertii <i>Iliados</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τρῶες μὲν κλαγγῇ τ᾽ ἐνοπῇ τ᾽ ἴσαν ὄρνιθες ὥς,\nἨΰτε περ κλαγγὴ γεράνων πέλει οὐρανόθι πρό.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τρῶες μὲν κλαγγῇ τ᾽ ἐνοπῇ τ᾽ ἴσαν ὄρνιθες ὥς,\nἨΰτε περ κλαγγὴ γεράνων πέλει οὐρανόθι πρό."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Trojani <i>quidem cum clangore et clamore ibant ut aves, qualis est gruum clangor\nad coelum usque.</i> Quod <i>Maro</i> imitatus <i>Aeneidos</i> libro decimo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Trojani <i>quidem cum clangore et clamore ibant ut aves, qualis est gruum clangor\nad coelum usque.</i> Quod <i>Maro</i> imitatus <i>Aeneidos</i> libro decimo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>clamorem ad sidera tollunt</i>\nDardanidae <i>e muris, quales sub nubibus atris</i>\nStrymoniae <i>dant signa grues, atque aethera tranant</i>\n<i>Cum sonitu, fugiuntque</i> Notos <i>clamore secundo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>clamorem ad sidera tollunt</i>\nDardanidae <i>e muris, quales sub nubibus atris</i>\nStrymoniae <i>dant signa grues, atque aethera tranant</i>\n<i>Cum sonitu, fugiuntque</i> Notos <i>clamore secundo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Martialis</i>, ut anum <i>Philenidem</i> non loquacem solum, sed et vocalem ac\n<i>Stentoream</i> fuisse significet, libri noni <i>Epigrammate 30.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Martialis</i>, ut anum <i>Philenidem</i> non loquacem solum, sed et vocalem ac\n<i>Stentoream</i> fuisse significet, libri noni <i>Epigrammate 30.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Heu, quae lingua silet! Non illam mille catastae</i>\n<i>Vincebant, nec quae turba</i> Serapin <i>amat.</i>\n<i>Nec matutini cirrata caterva magistri,</i>\n<i>Nec quae</i> Strymonio <i>de grege ripa sonat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Heu, quae lingua silet! Non illam mille catastae</i>\n<i>Vincebant, nec quae turba</i> Serapin <i>amat.</i>\n<i>Nec matutini cirrata caterva magistri,</i>\n<i>Nec quae</i> Strymonio <i>de grege ripa sonat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et ad gruum clamorem pertinent, quae sequuntur. <i>Homerus</i> iterum ubi\nsupra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et ad gruum clamorem pertinent, quae sequuntur. <i>Homerus</i> iterum ubi\nsupra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Κλαγγῇ ταί γε πέτονται ἐπ᾽ Ὠκεανοῖο ῥοάων,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Κλαγγῇ ταί γε πέτονται ἐπ᾽ Ὠκεανοῖο ῥοάων,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cum clangore hae volant ad</i> Oceani <i>fluenta. Hesiodus</i> in <i>Operibus</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cum clangore hae volant ad</i> Oceani <i>fluenta. Hesiodus</i> in <i>Operibus</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Φράζεσθαι δ᾽ εὖτ᾽ ἂν φωνὴν γεράνου ἐπακούσῃς,\nὙψόθεν ἐκ νεφέων ἐνιαύσια κεκλαγυίης,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Φράζεσθαι δ᾽ εὖτ᾽ ἂν φωνὴν γεράνου ἐπακούσῃς,\nὙψόθεν ἐκ νεφέων ἐνιαύσια κεκλαγυίης,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Attende, cum vocem gruis audieris sursum ex nubibus quotannis clangentis. Lu-\ncretius</i> libri quarti versu 18.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Attende, cum vocem gruis audieris sursum ex nubibus quotannis clangentis. Lu-\ncretius</i> libri quarti versu 18."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Parvus ut est cygni melior canor, ille gruum quam</i>\n<i>Clamor in aethereis dispersis nubibus</i> austri.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Parvus ut est cygni melior canor, ille gruum quam</i>\n<i>Clamor in aethereis dispersis nubibus</i> austri."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Claudia-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Claudia-</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1744,
+    1399
+   ],
+   [
+    1744,
+    1033
+   ]
+  ],
+  "input_tokens": 7376,
+  "output_tokens": 1563,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "1 decisions from v2-591-648"
+ }
+}

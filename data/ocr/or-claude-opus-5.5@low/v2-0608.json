@@ -1,0 +1,266 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "508 <i>De Hirundine.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "508 <i>De Hirundine.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Qualia sub densis ramorum concinit umbris</i>\nDaulias <i>absumpti fata gemens</i> Ityli.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qualia sub densis ramorum concinit umbris</i>\nDaulias <i>absumpti fata gemens</i> Ityli."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Horatius</i> lib. 4. <i>Oda</i> 12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Horatius</i> lib. 4. <i>Oda</i> 12."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nidum ponit</i> Ityn <i>flebiliter gemens</i>\n<i>Infelix avis</i>, etc. — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nidum ponit</i> Ityn <i>flebiliter gemens</i>\n<i>Infelix avis</i>, etc. — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Cl. <i>Albinovanus</i> ad <i>Liviam</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cl. <i>Albinovanus</i> ad <i>Liviam</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Deflet</i> Threicium Daulias <i>ales</i> Ityn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Deflet</i> Threicium Daulias <i>ales</i> Ityn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ovidius Tristium</i> lib. 5. <i>Eleg.</i> 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ovidius Tristium</i> lib. 5. <i>Eleg.</i> 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Est aliquid fatale malum per verba levare,</i>\n<i>Hoc querulam</i> Prognen <i>halcyonasque facit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Est aliquid fatale malum per verba levare,</i>\n<i>Hoc querulam</i> Prognen <i>halcyonasque facit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Hercule Oeteo</i> Actu 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Hercule Oeteo</i> Actu 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>qualis natum</i>\nDaulias <i>ales solet</i> Ismaria\n<i>Flere sub umbra.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>qualis natum</i>\nDaulias <i>ales solet</i> Ismaria\n<i>Flere sub umbra.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Agamemnone</i> Actu 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Agamemnone</i> Actu 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Non quae tectis</i> Bistonis <i>ales</i>\n<i>Residet summis, impia diri</i>\n<i>Furta mariti garrula deflet.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Non quae tectis</i> Bistonis <i>ales</i>\n<i>Residet summis, impia diri</i>\n<i>Furta mariti garrula deflet.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Hercule Furente</i> Actu 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Hercule Furente</i> Actu 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pennasque novo tradere soli</i>\n<i>Gestit querulos inter nidos</i>\nThracia <i>pellex.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pennasque novo tradere soli</i>\n<i>Gestit querulos inter nidos</i>\nThracia <i>pellex.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Octavia</i>, fere initio,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Octavia</i>, fere initio,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>repete assuetos</i>\n<i>Iam tibi questus, atque aequoreas</i>\n<i>Vince halcyonas, vince et volucres</i>\nPandionias. <i>Gravior namque his</i>\n<i>Fortuna tua est.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>repete assuetos</i>\n<i>Iam tibi questus, atque aequoreas</i>\n<i>Vince halcyonas, vince et volucres</i>\nPandionias. <i>Gravior namque his</i>\n<i>Fortuna tua est.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> ad <i>Faustum</i> lib. 10. <i>Epigramm.</i> 51.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> ad <i>Faustum</i> lib. 10. <i>Epigramm.</i> 51."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ismarium <i>pellex</i> Attica <i>plorat</i> Ityn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ismarium <i>pellex</i> Attica <i>plorat</i> Ityn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Statius Thebaidos</i> lib. 8. versu 616.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Statius Thebaidos</i> lib. 8. versu 616."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sic</i> Pandioniae <i>repetunt ubi fida volucres</i>\n<i>Hospitia, atque larem bruma pulsante relictum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sic</i> Pandioniae <i>repetunt ubi fida volucres</i>\n<i>Hospitia, atque larem bruma pulsante relictum,</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1292,
+    1641
+   ],
+   [
+    1292,
+    1127
+   ]
+  ],
+  "input_tokens": 6595,
+  "output_tokens": 1173,
+  "cost_usd": 0,
+  "seconds": 308.0
+ }
+}

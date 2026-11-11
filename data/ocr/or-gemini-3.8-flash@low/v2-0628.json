@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "628 De Grue. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "628 De Grue. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>tas postliminio revertitur. Et Maximus Tyrius,</i> Αἱ γέρανοι ἐξ Αἰγύπτου ὥρᾳ\nθέρους ἀφισάμεναι, ἐκ ἀνεχόμεναι τὸ θάλπος, τείνασαι πτέρυγας ὥσπερ\nἱσία, φέρονται διὰ τοῦ ἀέρος εὐθὺ τῶν Σκυθῶν γῆς· <i>Grues per aestatem ex Ae-</i>\n<i>gypto abscedentes, quia calorem pati non possunt, alis velorum instar expansis</i>\n<i>per aërem ad Scythicam plagam recta feruntur.</i> Proinde <i>aestatis advenas</i> vocat\n<i>Plinius</i>. Quod ita excipio, ut <i>aestatis</i> nomine etiam <i>ver</i> intelligam. In hanc\n<i>Theocriti Idyll.</i> 10.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>tas postliminio revertitur. Et Maximus Tyrius,</i> Αἱ γέρανοι ἐξ Αἰγύπτου ὥρᾳ\nθέρους ἀφισάμεναι, ἐκ ἀνεχόμεναι τὸ θάλπος, τείνασαι πτέρυγας ὥσπερ\nἱσία, φέρονται διὰ τοῦ ἀέρος εὐθὺ τῶν Σκυθῶν γῆς· <i>Grues per aestatem ex Ae-</i>\n<i>gypto abscedentes, quia calorem pati non possunt, alis velorum instar expansis</i>\n<i>per aërem ad Scythicam plagam recta feruntur.</i> Proinde <i>aestatis advenas</i> vocat\n<i>Plinius</i>. Quod ita excipio, ut <i>aestatis</i> nomine etiam <i>ver</i> intelligam. In hanc\n<i>Theocriti Idyll.</i> 10."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "῾Α αἲξ τὸν κύτισον, ὁ λύκος τὰν αἶγα διώκει,\n῾Α γέρανος τ᾿ ὤροτρον, — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "῾Α αἲξ τὸν κύτισον, ὁ λύκος τὰν αἶγα διώκει,\n῾Α γέρανος τ᾿ ὤροτρον, — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Capra cytisum, lupus capram sequitur, grus aratrum,</i> sic habet <i>Scholiastes:</i> ᾿Αρ-\nχομένου γὰρ σπόρου αἱ γέρανοι φαίνονται, <i>Sementis enim initio grues apparent.</i>\nQuod non capio, quia sementis tempore non veniunt grues, sed migrant. Gru-\num enim migratio in <i>autumnum</i> incidit, qui est sationis solemne tempus. <i>Virgi-</i>\n<i>lius</i> lib. 1. Georgicorum,\n<i>Libra die somnique pares ubi fecerit horas,</i>\n<i>Et medium luci atque umbris jam dividit orbem,</i>\n<i>Exercete viri tauros, serite ordea campis.</i>\nAd quae verba <i>Servius, Dicit frumenta serenda esse autumnali tempore.</i> Itaque\nnugatur <i>Graeculus</i>, a quo haec Scholia scripta sunt. Huic proinde <i>Aristopha-</i>\n<i>nes</i> est διαρρήδην oppositus. Is enim in <i>Avibus</i> nos jubet\nΣπείρειν μὲν ὅταν γέρανος κρώζουσ᾿ ἐς τὴν Λιβύην μεταχωρῇ,\n<i>Seminare cum grus clamans in Libyam migrat.</i> Quod <i>Scholiastes</i> observat sum-\nptum esse ex <i>Hesiodi Operibus</i> versu 446.\nΦράζεσθαι δ᾿ εὖ τ᾿ ἂν φωνὴν γεράνου ἐπακούσῃς,\n῾Υψόθεν ἐκ νεφέων ἐνιαύσια κεκληγυίης,\nἭτ᾿ ἀροτοῖο τε σῆμα φέρει, καὶ χείματος ὥρην\nΔεικνύει ὀμβρηρᾶς· — — —\n<i>Adverte, cum migrantis gruis vocem audiveris, ex alto in nubibus quotannis clan-</i>\n<i>gentis, quae arationis signum edit, et hyemis umbriferae tempus indicat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Capra cytisum, lupus capram sequitur, grus aratrum,</i> sic habet <i>Scholiastes:</i> ᾿Αρ-\nχομένου γὰρ σπόρου αἱ γέρανοι φαίνονται, <i>Sementis enim initio grues apparent.</i>\nQuod non capio, quia sementis tempore non veniunt grues, sed migrant. Gru-\num enim migratio in <i>autumnum</i> incidit, qui est sationis solemne tempus. <i>Virgi-</i>\n<i>lius</i> lib. 1. Georgicorum,\n<i>Libra die somnique pares ubi fecerit horas,</i>\n<i>Et medium luci atque umbris jam dividit orbem,</i>\n<i>Exercete viri tauros, serite ordea campis.</i>\nAd quae verba <i>Servius, Dicit frumenta serenda esse autumnali tempore.</i> Itaque\nnugatur <i>Graeculus</i>, a quo haec Scholia scripta sunt. Huic proinde <i>Aristopha-</i>\n<i>nes</i> est διαρρήδην oppositus. Is enim in <i>Avibus</i> nos jubet\nΣπείρειν μὲν ὅταν γέρανος κρώζουσ᾿ ἐς τὴν Λιβύην μεταχωρῇ,\n<i>Seminare cum grus clamans in Libyam migrat.</i> Quod <i>Scholiastes</i> observat sum-\nptum esse ex <i>Hesiodi Operibus</i> versu 446.\nΦράζεσθαι δ᾿ εὖ τ᾿ ἂν φωνὴν γεράνου ἐπακούσῃς,\n῾Υψόθεν ἐκ νεφέων ἐνιαύσια κεκληγυίης,\nἭτ᾿ ἀροτοῖο τε σῆμα φέρει, καὶ χείματος ὥρην\nΔεικνύει ὀμβρηρᾶς· — — —\n<i>Adverte, cum migrantis gruis vocem audiveris, ex alto in nubibus quotannis clan-</i>\n<i>gentis, quae arationis signum edit, et hyemis umbriferae tempus indicat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ex iis, quae de gruum migratione dicta sunt, constat, eas a Propheta in\nprudentiae naturalis exemplum non immerito proponi. <i>Hirundo,</i> inquit, <i>et</i>\n<i>grus custodierunt tempus adventus sui: at populus meus non novit jus Domini.</i>\nProinde <i>Philosophus</i> (<i>Histor.</i> lib. 9. cap. 10.) migrationis gruum historiam ita\norditur, Φρόνιμα δὲ πολλὰ καὶ περὶ τὰς γεράνους δοκεῖ συμβαίνειν· <i>A gruibus</i>\n<i>quoque videntur multa prudenter fieri.</i> Et τὸ κυβερνητικὸν, <i>gubernandi, artem</i>\nab iis homines didicisse, contendit <i>Aelianus Historiae</i> lib. 3. capite 14. Et <i>Mercu-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ex iis, quae de gruum migratione dicta sunt, constat, eas a Propheta in\nprudentiae naturalis exemplum non immerito proponi. <i>Hirundo,</i> inquit, <i>et</i>\n<i>grus custodierunt tempus adventus sui: at populus meus non novit jus Domini.</i>\nProinde <i>Philosophus</i> (<i>Histor.</i> lib. 9. cap. 10.) migrationis gruum historiam ita\norditur, Φρόνιμα δὲ πολλὰ καὶ περὶ τὰς γεράνους δοκεῖ συμβαίνειν· <i>A gruibus</i>\n<i>quoque videntur multa prudenter fieri.</i> Et τὸ κυβερνητικὸν, <i>gubernandi, artem</i>\nab iis homines didicisse, contendit <i>Aelianus Historiae</i> lib. 3. capite 14. Et <i>Mercu-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>rium</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>rium</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1804,
+    1257
+   ],
+   [
+    1804,
+    1547
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1153,
+  "cost_usd": 0.0069,
+  "seconds": 13.2
+ }
+}

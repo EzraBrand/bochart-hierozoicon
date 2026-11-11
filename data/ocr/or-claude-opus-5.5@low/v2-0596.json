@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "596 <i>De Turture.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "596 <i>De Turture.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. IX.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. IX."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Turture.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Turture.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Turtur <i>Hebraice</i> תור <i>thor</i> dicitur, et <i>Graece</i> τρυγών. Quae nomina, utut ⟦p. 55⟧\nsimilia, non tamen sunt ab invicem deducta, sed ὀνοματοποιητικά. Facta\nnimirum ad imitationem cantus turturis, qui <i>Graece</i> dicitur τρυσμὸς, a verbo\nτρύζειν, id est, <i>turturis more gemere</i>, <i>Pollux</i> lib. 5. cap. 14. sectione <i>De avium\nvocibus</i>, Εἴποις δ' ἂν τρυγόνας τρύζειν, περιστερὰς γογγύζειν. Sed et τρύζειν\n<i>Suidae</i> et <i>Etymologo</i> est ψιθυρίζειν, γογγύζειν, ἀσήμως λαλεῖν παρὰ καὶ ἡ\nτρυγὼν, ἐπεὶ καὶ ἀσήμως φθέγγεται καὶ γογγυστικῶς, <i>susurrare, murmurare,\nobscure loqui, ut et turtur, quia obscure canit et cum murmure.</i> Unde <i>Clemens</i>\nlibro quinto <i>Stromat</i>ων, Γογγύζουσα ἡ τρυγὼν, μέμψεως καταλαλιὰν ἀχάρι-\nστον ἐμφαίνουσα, εἰκότως ἐξοικίζεται. <i>Turtur murmurans, quaerelae ingratam\nostendens maledicentiam, merito domo expellitur.</i> Aliis τρύζειν est πολυφωνεῖν,\nκαὶ πολυλογεῖν, <i>multa garrire.</i> Quia τὴν τρυγόνα ἡ παροιμία ἐπὶ σκώμματι\nτῶν πολυλογούντων παραλαμβάνει, λαλιστέρους τῶν τρυγόνων τοιούτους καλοῦσα,\n<i>turturem adhibet proverbium, in eorum suggillationem, qui multa garriunt, eos\nturturibus loquaciores appellans.</i> Haec <i>Eustathius</i>, in illud <i>Homeri Iliad.</i> ι.\nversu 31.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Turtur <i>Hebraice</i> תור <i>thor</i> dicitur, et <i>Graece</i> τρυγών. Quae nomina, utut ⟦p. 55⟧\nsimilia, non tamen sunt ab invicem deducta, sed ὀνοματοποιητικά. Facta\nnimirum ad imitationem cantus turturis, qui <i>Graece</i> dicitur τρυσμὸς, a verbo\nτρύζειν, id est, <i>turturis more gemere</i>, <i>Pollux</i> lib. 5. cap. 14. sectione <i>De avium\nvocibus</i>, Εἴποις δ' ἂν τρυγόνας τρύζειν, περιστερὰς γογγύζειν. Sed et τρύζειν\n<i>Suidae</i> et <i>Etymologo</i> est ψιθυρίζειν, γογγύζειν, ἀσήμως λαλεῖν παρὰ καὶ ἡ\nτρυγὼν, ἐπεὶ καὶ ἀσήμως φθέγγεται καὶ γογγυστικῶς, <i>susurrare, murmurare,\nobscure loqui, ut et turtur, quia obscure canit et cum murmure.</i> Unde <i>Clemens</i>\nlibro quinto <i>Stromat</i>ων, Γογγύζουσα ἡ τρυγὼν, μέμψεως καταλαλιὰν ἀχάρι-\nστον ἐμφαίνουσα, εἰκότως ἐξοικίζεται. <i>Turtur murmurans, quaerelae ingratam\nostendens maledicentiam, merito domo expellitur.</i> Aliis τρύζειν est πολυφωνεῖν,\nκαὶ πολυλογεῖν, <i>multa garrire.</i> Quia τὴν τρυγόνα ἡ παροιμία ἐπὶ σκώμματι\nτῶν πολυλογούντων παραλαμβάνει, λαλιστέρους τῶν τρυγόνων τοιούτους καλοῦσα,\n<i>turturem adhibet proverbium, in eorum suggillationem, qui multa garriunt, eos\nturturibus loquaciores appellans.</i> Haec <i>Eustathius</i>, in illud <i>Homeri Iliad.</i> ι.\nversu 31."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὡς μή μοι τρύζητε παρήμενοι ἄλλοθεν ἄλλος,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὡς μή μοι τρύζητε παρήμενοι ἄλλοθεν ἄλλος,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut ne mihi garriatis assidentes aliunde alius.</i> Proverbii meminere, praeter <i>Paroe-\nmiographos</i>, <i>Alexis</i> in <i>Thrasone</i> apud <i>Athenaeum</i> libro quarto, <i>Menander</i> in\n<i>Plocio</i>, <i>Demetrius</i> in <i>Sicilia</i> apud <i>Aelianum De animalibus</i> libri duodecimi ca-\npite duodecimo, et <i>Clemens</i> libro primo <i>Stromat</i>ων. Quo pertinet, quod de\ngarrulis mulierculis habetur in <i>Theocriti Syracusiis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut ne mihi garriatis assidentes aliunde alius.</i> Proverbii meminere, praeter <i>Paroe-\nmiographos</i>, <i>Alexis</i> in <i>Thrasone</i> apud <i>Athenaeum</i> libro quarto, <i>Menander</i> in\n<i>Plocio</i>, <i>Demetrius</i> in <i>Sicilia</i> apud <i>Aelianum De animalibus</i> libri duodecimi ca-\npite duodecimo, et <i>Clemens</i> libro primo <i>Stromat</i>ων. Quo pertinet, quod de\ngarrulis mulierculis habetur in <i>Theocriti Syracusiis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τρυγόνες ἐκκναισεῦντι πλατυάσδοισαι ἅπαντα,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τρυγόνες ἐκκναισεῦντι πλατυάσδοισαι ἅπαντα,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut turtures obtundunt ad omnia os diducentes.</i> Nec placet, quod vir magnus pro\nἐκκναισεῦντι legi vult ἐκ Ναύσοιο, id est, <i>ex insula Sicilia.</i> Ναῦσος, ait, sicut\nΝᾶσος, <i>Dorum</i> et <i>Siculorum</i> est, qui ita vocabant suam <i>Siciliam.</i> Poeta igitur\nurbanissime τοὺς Δωριζούσας, et ore lato omnia pronuntiantes, τρυγόνας ἐκ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut turtures obtundunt ad omnia os diducentes.</i> Nec placet, quod vir magnus pro\nἐκκναισεῦντι legi vult ἐκ Ναύσοιο, id est, <i>ex insula Sicilia.</i> Ναῦσος, ait, sicut\nΝᾶσος, <i>Dorum</i> et <i>Siculorum</i> est, qui ita vocabant suam <i>Siciliam.</i> Poeta igitur\nurbanissime τοὺς Δωριζούσας, et ore lato omnia pronuntiantes, τρυγόνας ἐκ"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Ναύσοιο",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ναύσοιο"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "CASTELLI <i>Lexic. Hexapl.</i> pag. 77c. Sed\nצפור <i>et aves quasvis</i> significat, et speciatim\n<i>passerem.</i> <i>Formica</i> vero parum apta fue-\nrit loco Proverb. XXVI, 2. (דרור לעוף).\nNeque <i>formicae</i> tribui potest <i>nidus</i>, קן,\nquod fit Psal. LXXXIV, 4. — Ego דרור\n<i>turturis</i> nomen ὀνοματοποιητικον crediderim,\nquum in eo consentiant interpretes veteres\nomnes.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CASTELLI <i>Lexic. Hexapl.</i> pag. 77c. Sed\nצפור <i>et aves quasvis</i> significat, et speciatim\n<i>passerem.</i> <i>Formica</i> vero parum apta fue-\nrit loco Proverb. XXVI, 2. (דרור לעוף).\nNeque <i>formicae</i> tribui potest <i>nidus</i>, קן,\nquod fit Psal. LXXXIV, 4. — Ego דרור\n<i>turturis</i> nomen ὀνοματοποιητικον crediderim,\nquum in eo consentiant interpretes veteres\nomnes."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1824,
+    1434
+   ],
+   [
+    1824,
+    1378
+   ]
+  ],
+  "input_tokens": 8627,
+  "output_tokens": 1856,
+  "cost_usd": 0,
+  "seconds": 308.0
+ }
+}

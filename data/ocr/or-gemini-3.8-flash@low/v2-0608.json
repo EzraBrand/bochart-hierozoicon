@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "608 De Hirundine.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "608 De Hirundine."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Qualia sub densis ramorum concinit umbris\nDaulias absumpti fata gemens Ityli.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qualia sub densis ramorum concinit umbris\nDaulias absumpti fata gemens Ityli.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Horatius</i> lib. 4. Oda 12.\n<i>Nidum ponit Ityn flebiliter gemens\nInfelix avis</i>, etc. — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Horatius</i> lib. 4. Oda 12.\n<i>Nidum ponit Ityn flebiliter gemens\nInfelix avis</i>, etc. — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Cl. <i>Albinovanus</i> ad <i>Liviam</i>,\n<i>Deflet Threicium Daulias ales Ityn.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cl. <i>Albinovanus</i> ad <i>Liviam</i>,\n<i>Deflet Threicium Daulias ales Ityn.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ovidius Tristium</i> lib. 5. Eleg. 1.\n<i>Est aliquid fatale malum per verba levare,\nHoc querulam Prognen halcyonasque facit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ovidius Tristium</i> lib. 5. Eleg. 1.\n<i>Est aliquid fatale malum per verba levare,\nHoc querulam Prognen halcyonasque facit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Hercule Oeteo</i> Actu 1.\n— — — <i>qualis natum\nDaulias ales solet Ismaria\nFlere sub umbra.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Hercule Oeteo</i> Actu 1.\n— — — <i>qualis natum\nDaulias ales solet Ismaria\nFlere sub umbra.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Agamemnone</i> Actu 3.\n<i>Non quae tectis Bistonis ales\nResidet summis, impia diri\nFurta mariti garrula deflet.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Agamemnone</i> Actu 3.\n<i>Non quae tectis Bistonis ales\nResidet summis, impia diri\nFurta mariti garrula deflet.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Hercule Furente</i> Actu 1.\n<i>Pennasque novo tradere soli\nGestit querulos inter nidos\nThracia pellex.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Hercule Furente</i> Actu 1.\n<i>Pennasque novo tradere soli\nGestit querulos inter nidos\nThracia pellex.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Octavia</i>, fere initio,\n— — — — <i>repete assuetos\nIam tibi questus, atque aequoreas\nVince halcyonas, vince et volucres\nPandionias. Gravior namque his\nFortuna tua est.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Octavia</i>, fere initio,\n— — — — <i>repete assuetos\nIam tibi questus, atque aequoreas\nVince halcyonas, vince et volucres\nPandionias. Gravior namque his\nFortuna tua est.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> ad <i>Faustum</i> lib. 10. Epigramm. 51.\n<i>Ismarium pellex Attica plorat Ityn.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> ad <i>Faustum</i> lib. 10. Epigramm. 51.\n<i>Ismarium pellex Attica plorat Ityn.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Statius Thebaidos</i> lib. 8. versu 616.\n<i>Sic Pandioniae repetunt ubi fida volucres\nHospitia, atque larem bruma pulsante relictum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Statius Thebaidos</i> lib. 8. versu 616.\n<i>Sic Pandioniae repetunt ubi fida volucres\nHospitia, atque larem bruma pulsante relictum,</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1292,
+    1641
+   ],
+   [
+    1292,
+    1127
+   ]
+  ],
+  "input_tokens": 3392,
+  "output_tokens": 760,
+  "cost_usd": 0.0054,
+  "seconds": 6.5
+ }
+}

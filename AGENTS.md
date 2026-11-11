@@ -8,7 +8,9 @@ after each one. Commits to this repository are allowed without asking (standing 
 Lessons that cost a run: run `mdz_ocr.py` right after `fetch.py sample` (a page without the MDZ
 reader gets no judge lines); the models "correct" the print toward the expected word, so MDZ-only
 flags are kept (they find the printer's errors); type quirks the judge gets wrong: the ȣ (ου)
-ligature read as ε, the lower-case φ that looks like Φ, ד/ר, ذ/ن, قلي read قلى.
+ligature read as ε, the lower-case φ that looks like Φ, ד/ר, ذ/ن, قلي read قلى, the lead-in stroke of ج/خ read as an alif (عجر, السخي). `ACCEPT` in `vote.py` applies
+only to "MDZ only" items: a reader's APPLY on another kind of review item, and every word with `[?]`,
+needs a pair in `entry.FIXES` (grep `la.md` for `[?]` before translating).
 
 ## Ideas backlog (11-Nov-2026, after tranche 3)
 
@@ -24,7 +26,7 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
       not to Opus. Keep the MDZ-only flags that change a letter: those find the printer's errors.
 - [ ] **One translation batch per tranche.** `tranche.py translate` submits one batch per chapter;
       collect all chunks and submit once.
-- [ ] **Cost per step in `tranche.py`.** The batch results carry no cost; read the key's spend
+- [x] **Cost per step in `tranche.py`.** Done 11-Nov-2026 (`tranche.spend`). The batch results carry no cost; read the key's spend
       (`/api/v1/key`) before and after each step and print the delta, so the README cost column
       needs no hand calculation.
 
@@ -39,7 +41,7 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
 - [ ] **Translation spot-check.** Nothing checks the English against the Latin. A cheap batch pass
       with another model (GPT or Gemini) that flags sentences where the English drops a clause, a
       hedge or a number. Report only; no rewriting.
-- [ ] **Banned-words grep after translation.** Each chapter sets its own fixed terms (dove, never
+- [x] **Banned-words grep after translation.** Done 11-Nov-2026 (`banned.py`; counts the English word against its Latin/Greek sources per paragraph). Each chapter sets its own fixed terms (dove, never
       pigeon; deror stays deror). A grep of the English for the banned words (pigeon, coney, hyrax,
       rock badger, swallow in the deror chapter, crane in the agur chapter) catches slips for free.
 
@@ -56,7 +58,7 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
 
 ### Project management
 
-- [ ] **Tranche table in the README** (date, pages, cost, minutes, review items, changes). The three
+- [x] **Tranche table in the README** Done 11-Nov-2026. (date, pages, cost, minutes, review items, changes). The three
       tranches are in prose now; a table shows the trend.
 
 Done: the blog post on the project was published 10-Nov-2026:

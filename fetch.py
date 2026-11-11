@@ -43,6 +43,10 @@ SAMPLE = [
     # Tranche 2 (10-Nov-2026): Pars II, Book I (the clean birds), chs. 1-7, the dove (pp. 524-589);
     # p. 590 (CAP. VIII, the deror) for the join. Chapter heads: logs/find_chapters_t2.log.
     *[(2, c, "birds1") for c in range(541, 607)],
+    # Tranche 3 (11-Nov-2026): Pars II, Book I, chs. 8-13 (deror, turtledove, swallow, crane, kore,
+    # the partridge in the cage; pp. 590-647); p. 648 (CAP. XIV, the quail) for the join. Chapter heads:
+    # logs/find_chapters_t3_*.log.
+    *[(2, c, "birds2") for c in range(607, 665)],
 ]
 
 session = requests.Session()

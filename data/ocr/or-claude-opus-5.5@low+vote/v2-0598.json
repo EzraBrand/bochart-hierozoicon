@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "598 <i>De Turture.</i> P.II.L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "598 <i>De Turture.</i> P.II.L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "φάττα μὲν οὖν, καὶ περιστερὰ ἀεὶ φαίνονται· τρυγὼν δὲ τοῦ θέρους· τοῦ γὰρ\nχειμῶνος ἀφανίζεται· <i>Palumbus et columba semper apparent: sed turtur aestate\ntantum. Nam hyeme non conspicitur.</i> Et libri octavi capite duodecimo, de pa-\nlumbo id ipsum negans, quod hic affirmaverat, solas columbas jugiter manere\nscribit. Verba sunt: Ἀπαίρουσι δὲ καὶ αἱ φάτται, καὶ αἱ πελειάδες, καὶ οὐ χει-\nμάζουσι, καὶ αἱ χελιδόνες, καὶ αἱ τρυγόνες, αἱ δὲ περιστεραὶ καταμένουσιν· <i>Dis-\ncedunt autem et palumbi, et liviae, et hirundines, et turtures, neque</i> (hic) <i>hye-\nmant, sed columbae manent.</i> Et capite decimo sexto docet, hoc turturis maxi-\nme esse proprium, ut hyeme lateat. Φωλεῖ γὰρ, inquit, καὶ πελαργὸς, καὶ\nκόττυφος, καὶ τρυγὼν, καὶ κόρυδος. καὶ ἥ γε τρυγὼν ὁμολογουμένως μάλιστα\nπάντων. οὐδεὶς γὰρ, ὡς εἰπεῖν, λέγεται τρυγόνα ἰδεῖν οὐδαμοῦ χειμῶνος· <i>Nam\net ciconia latet, et merula, et turtur, et alauda. Sed de turture maxime omnium\nconstat: nemo enim, prope dixerim, turturem per hyemem uspiam vidisse memo-\nratur. Varro</i> etiam <i>Rustic.</i> lib. 3. cap. 5. <i>Turdi quotannis in</i> Italiam <i>trans ma-\nre advolant circiter aequinoctium autumnale, et eodem revolant ad aequinoctium\nvernum. Et alio tempore turtures ac coturnices immani numero.</i> Et <i>Cicero, De\nFinib.</i> libro secundo, <i>Turtures cursu et peregrinatione laetantur.</i> Et <i>Gregorius\nNyssenus</i> in <i>Cant.</i> Homil. 5. Ἐν γὰρ τῇ χειμῶνι φεύγει ἡ ἀηδὼν, ναρκᾷ ἡ χε-\nλιδὼν, ἀποξενοῦται τῆς καλίας ἡ τρυγών· <i>Hyeme enim fugit luscinia, torpet hi-\nrundo, a nido peregrinatur turtur.</i> Sunt tamen, qui turturem putant non tam\nabire, quam occultari. <i>Plinius</i> libri decimi capite vigesimo quarto, <i>Verius\nturtur occultatur, pennasque amittit.</i> Alii <i>vere</i> perperam legunt. Neque enim\nturtur vere occultatur, sed hyeme. Quin ipse <i>Aristoteles</i> ubi supra capite duo-\ndecimo turtures nonnullos remanere ἐν εὐηλίοις χωρίοις non diffitetur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "φάττα μὲν οὖν, καὶ περιστερὰ ἀεὶ φαίνονται· τρυγὼν δὲ τοῦ θέρους· τοῦ γὰρ\nχειμῶνος ἀφανίζεται· <i>Palumbus et columba semper apparent: sed turtur aestate\ntantum. Nam hyeme non conspicitur.</i> Et libri octavi capite duodecimo, de pa-\nlumbo id ipsum negans, quod hic affirmaverat, solas columbas jugiter manere\nscribit. Verba sunt: Ἀπαίρουσι δὲ καὶ αἱ φάτται, καὶ αἱ πελειάδες, καὶ οὐ χει-\nμάζουσι, καὶ αἱ χελιδόνες, καὶ αἱ τρυγόνες, αἱ δὲ περιστεραὶ καταμένουσιν· <i>Dis-\ncedunt autem et palumbi, et liviae, et hirundines, et turtures, neque</i> (hic) <i>hye-\nmant, sed columbae manent.</i> Et capite decimo sexto docet, hoc turturis maxi-\nme esse proprium, ut hyeme lateat. Φωλεῖ γὰρ, inquit, καὶ πελαργὸς, καὶ\nκόττυφος, καὶ τρυγὼν, καὶ κόρυδος. καὶ ἥ γε τρυγὼν ὁμολογουμένως μάλιστα\nπάντων. οὐδεὶς γὰρ, ὡς εἰπεῖν, λέγεται τρυγόνα ἰδεῖν οὐδαμοῦ χειμῶνος· <i>Nam\net ciconia latet, et merula, et turtur, et alauda. Sed de turture maxime omnium\nconstat: nemo enim, prope dixerim, turturem per hyemem uspiam vidisse memo-\nratur. Varro</i> etiam <i>Rustic.</i> lib. 3. cap. 5. <i>Turdi quotannis in</i> Italiam <i>trans ma-\nre advolant circiter aequinoctium autumnale, et eodem revolant ad aequinoctium\nvernum. Et alio tempore turtures ac coturnices immani numero.</i> Et <i>Cicero, De\nFinib.</i> libro secundo, <i>Turtures cursu et peregrinatione laetantur.</i> Et <i>Gregorius\nNyssenus</i> in <i>Cant.</i> Homil. 5. Ἐν γὰρ τῇ χειμῶνι φεύγει ἡ ἀηδὼν, ναρκᾷ ἡ χε-\nλιδὼν, ἀποξενοῦται τῆς καλίας ἡ τρυγών· <i>Hyeme enim fugit luscinia, torpet hi-\nrundo, a nido peregrinatur turtur.</i> Sunt tamen, qui turturem putant non tam\nabire, quam occultari. <i>Plinius</i> libri decimi capite vigesimo quarto, <i>Verius\nturtur occultatur, pennasque amittit.</i> Alii <i>vere</i> perperam legunt. Neque enim\nturtur vere occultatur, sed hyeme. Quin ipse <i>Aristoteles</i> ubi supra capite duo-\ndecimo turtures nonnullos remanere ἐν εὐηλίοις χωρίοις non diffitetur."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cant. I, 10.</i> sponsae dicitur in <i>Graeca</i> versione, Τί ὡραιώθησαν σιαγόνες\nσου ὡς τρυγόνος; et in <i>Vulgata, Quam speciosae factae sunt genae tuae tanquam\nturturis?</i> Ad quem locum multa habent de castitate turturis, et sede pudoris in\ngenis <i>Graeci</i> doctores, <i>Origenes, Gregorius Nyssenus, Philo Carpathius, Theo-\ndoretus</i> et <i>Romani, Iustus Orgelitanus, Gregorius Magnus, Beda, Aponius,\nBernardus,</i> atque alii magni nominis viri. Sed omnia praeter rem, quod illo-\nrum pace dixerim. Neque enim ibi agitur de turture, quae cum σιαγόνες, id\nest, <i>genas</i>, aut <i>malas</i> non habeat, quis credat, sponsae genas cum turturis genis\nconferri? Ἡ δὲ ὄρνις (inquit <i>Philosophus De partib. animal.</i> libro 2. cap. 16.)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cant. I, 10.</i> sponsae dicitur in <i>Graeca</i> versione, Τί ὡραιώθησαν σιαγόνες\nσου ὡς τρυγόνος; et in <i>Vulgata, Quam speciosae factae sunt genae tuae tanquam\nturturis?</i> Ad quem locum multa habent de castitate turturis, et sede pudoris in\ngenis <i>Graeci</i> doctores, <i>Origenes, Gregorius Nyssenus, Philo Carpathius, Theo-\ndoretus</i> et <i>Romani, Iustus Orgelitanus, Gregorius Magnus, Beda, Aponius,\nBernardus,</i> atque alii magni nominis viri. Sed omnia praeter rem, quod illo-\nrum pace dixerim. Neque enim ibi agitur de turture, quae cum σιαγόνες, id\nest, <i>genas</i>, aut <i>malas</i> non habeat, quis credat, sponsae genas cum turturis genis\nconferri? Ἡ δὲ ὄρνις (inquit <i>Philosophus De partib. animal.</i> libro 2. cap. 16.)"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "ἀντὶ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "ἀντὶ"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "243. not. <i>b.</i>) <i>turturem</i> confundit cum <i>tur-\ndo</i>, Arab. [?], quem Forskal. p. VI.\nlibri laudati Halebae advenire ait mense\nIulio et Augusto. Sed <i>turdum</i> esse toto ge-\nnere diversum a <i>turture</i>, nemo est qui\nnesciat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "243. not. <i>b.</i>) <i>turturem</i> confundit cum <i>tur-\ndo</i>, Arab. [?], quem Forskal. p. VI.\nlibri laudati Halebae advenire ait mense\nIulio et Augusto. Sed <i>turdum</i> esse toto ge-\nnere diversum a <i>turture</i>, nemo est qui\nnesciat."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1725,
+    1536
+   ],
+   [
+    1725,
+    1256
+   ]
+  ],
+  "input_tokens": 8095,
+  "output_tokens": 1919,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "1 decisions from v2-591-648"
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "614 De Grue. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "614 De Grue. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>cora non sunt, o Philomela.</i> Quod laudat <i>Philosophus</i> tanquam apposite dictum\n<i>Rhetoricorum</i> libri tertii capite tertio. Quia ὄρνιθι μὲν, εἰ ἐποίησεν, ἐκ αἰσχρὸν,\nπαρθένῳ δὲ αἰσχρόν· εὖ ὖν ἐλοιδόρησεν, εἰπὼν ὃ ἦν ἀλλ᾽ 8χ᾽ ὃ ἔσιν, <i>avi quidem,\nsi fecerat, id turpe non est, sed puellae turpe est. Recte igitur eam convitiatus est,\nid dicens, quod fuerat, non autem, quod tum erat.</i> Nec est, quod quis miretur,\nhirundini indi <i>Philomelae</i> nomen, cum vulgo sit persuasissimum, Philomelam\nesse lusciniam. Res enim est in ambiguo. Et multi veterum <i>Prognen</i> in lusci-\nniam, ac <i>Philomelam</i> in hirundinem mutatam fuisse diferte tradunt. Quod nul-\nlo negotio probaverim, si haec res ageretur. Sed alio jam properamus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>cora non sunt, o Philomela.</i> Quod laudat <i>Philosophus</i> tanquam apposite dictum\n<i>Rhetoricorum</i> libri tertii capite tertio. Quia ὄρνιθι μὲν, εἰ ἐποίησεν, ἐκ αἰσχρὸν,\nπαρθένῳ δὲ αἰσχρόν· εὖ ὖν ἐλοιδόρησεν, εἰπὼν ὃ ἦν ἀλλ᾽ 8χ᾽ ὃ ἔσιν, <i>avi quidem,\nsi fecerat, id turpe non est, sed puellae turpe est. Recte igitur eam convitiatus est,\nid dicens, quod fuerat, non autem, quod tum erat.</i> Nec est, quod quis miretur,\nhirundini indi <i>Philomelae</i> nomen, cum vulgo sit persuasissimum, Philomelam\nesse lusciniam. Res enim est in ambiguo. Et multi veterum <i>Prognen</i> in lusci-\nniam, ac <i>Philomelam</i> in hirundinem mutatam fuisse diferte tradunt. Quod nul-\nlo negotio probaverim, si haec res ageretur. Sed alio jam properamus."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XI.\n<i>De Grue.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XI.\n<i>De Grue.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In anatomia gruis aliquid peculiare observasse se scribit <i>Bellonius</i> libri quarti ca-\npite primo <i>De Avibus</i>, <i>quod nimirum canna pulmonis aliter se habet, quam\nin aliis. Sterno enim, inquit, adhaerens carnem utrimque penetrat. Ac proin-\nde mirum non est, quod vox ejus tam longe auditur. Neque enim ulla est avis tam\nvocalis atque grus.</i> Hinc Ezechias in eucharistico carmine, postquam a morbo ⟦p. 69.⟧\nconvaluit <i>Es. XXXVIII</i>, 14. כסוס עגור כן אצפצף, <i>ut sis et agor pipiebam,\nid est, ut hirundo et grus;</i> quarum avium una querulam, altera contentissimam\nhabet vocem. Inter <i>sis</i> et <i>agor</i> deest Copulativa <i>Vau;</i> ut <i>Hab. III</i>, 11. שמש\nירח עמד זבלה, <i>sol, luna</i> (id est, <i>sol et luna) steterunt in loco suo.</i> Et <i>1 Par.\nII</i>, 1. <i>Ruben, Simeon, Levi</i>, pro <i>Ruben, et Simeon, et Levi.</i> Itaque mens\nEzechiae haec est, se, gravi morbo afflictum, non modo instar hirundinis leni\nmurmure gemuisse, sed et gruis instar contenta voce ejulasse. Sic <i>Talmudici</i> in\ntractatu <i>Kiddusim</i> cap. 2. fol. 44. a. וציורו דל ככורכיא, <i>Et clamabat ut grus do-\nminus Lakis.</i> Et <i>Smyrnaeus</i> libro tertio de Nereidum planctu in morte Achillis,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In anatomia gruis aliquid peculiare observasse se scribit <i>Bellonius</i> libri quarti ca-\npite primo <i>De Avibus</i>, <i>quod nimirum canna pulmonis aliter se habet, quam\nin aliis. Sterno enim, inquit, adhaerens carnem utrimque penetrat. Ac proin-\nde mirum non est, quod vox ejus tam longe auditur. Neque enim ulla est avis tam\nvocalis atque grus.</i> Hinc Ezechias in eucharistico carmine, postquam a morbo ⟦p. 69.⟧\nconvaluit <i>Es. XXXVIII</i>, 14. כסוס עגור כן אצפצף, <i>ut sis et agor pipiebam,\nid est, ut hirundo et grus;</i> quarum avium una querulam, altera contentissimam\nhabet vocem. Inter <i>sis</i> et <i>agor</i> deest Copulativa <i>Vau;</i> ut <i>Hab. III</i>, 11. שמש\nירח עמד זבלה, <i>sol, luna</i> (id est, <i>sol et luna) steterunt in loco suo.</i> Et <i>1 Par.\nII</i>, 1. <i>Ruben, Simeon, Levi</i>, pro <i>Ruben, et Simeon, et Levi.</i> Itaque mens\nEzechiae haec est, se, gravi morbo afflictum, non modo instar hirundinis leni\nmurmure gemuisse, sed et gruis instar contenta voce ejulasse. Sic <i>Talmudici</i> in\ntractatu <i>Kiddusim</i> cap. 2. fol. 44. a. וציורו דל ככורכיא, <i>Et clamabat ut grus do-\nminus Lakis.</i> Et <i>Smyrnaeus</i> libro tertio de Nereidum planctu in morte Achillis,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — ταί δ᾽ ἐφέροντο\nΚλαγγηδὸν κραιπνῇσιν ἐειδόμεναι γεράνοισιν,\nὈσσόμεναι ª) μέγα χεῖμα, — —\n<i>Illae vero ferebantur cum clangore, citis gruibus similes, quae magnam tempesta-\ntem praesentiiscunt.</i> Et libro decimo tertio, ubi de <i>Trojae</i> excidio,\n— — — γοναχὴ δὲ δαϊκταμένων αἰζηῶν\nἜπλετο λευγαλέη, περὶ δ᾽ ἴαχε πάντα μέλαθρα",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — ταί δ᾽ ἐφέροντο\nΚλαγγηδὸν κραιπνῇσιν ἐειδόμεναι γεράνοισιν,\nὈσσόμεναι ª) μέγα χεῖμα, — —\n<i>Illae vero ferebantur cum clangore, citis gruibus similes, quae magnam tempesta-\ntem praesentiiscunt.</i> Et libro decimo tertio, ubi de <i>Trojae</i> excidio,\n— — — γοναχὴ δὲ δαϊκταμένων αἰζηῶν\nἜπλετο λευγαλέη, περὶ δ᾽ ἴαχε πάντα μέλαθρα"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "grc",
+   "text": "<i>Lege</i> Ὀσσομέναις.",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "<i>Lege</i> Ὀσσομέναις."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Ἄσπετον",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἄσπετον"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1815,
+    1121
+   ],
+   [
+    1815,
+    1683
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1121,
+  "cost_usd": 0.0068,
+  "seconds": 11.5
+ }
+}

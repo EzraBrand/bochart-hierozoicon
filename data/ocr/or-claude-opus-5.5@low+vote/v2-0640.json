@@ -1,0 +1,111 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "640 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P.II. L.I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "640 קורא <i>esse rusticulae, vel gallinaginis genus.</i> P.II. L.I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Μήτηρ μέν τ᾽ ἐμέ φησι τοῦ ἔμμεναι αὐτὰρ ἔγωγε\nΟὐκ οἶδ᾽. οὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω. ⟦p. 86⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Μήτηρ μέν τ᾽ ἐμέ φησι τοῦ ἔμμεναι αὐτὰρ ἔγωγε\nΟὐκ οἶδ᾽. οὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω. ⟦p. 86⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Mater quidam me ejus esse asserit: at ego nescio. Neque enim ullus suum genito-\nrem ipse cognovit.</i> Et <i>Menander</i> apud <i>Eustathium</i> in illum locum,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Mater quidam me ejus esse asserit: at ego nescio. Neque enim ullus suum genito-\nrem ipse cognovit.</i> Et <i>Menander</i> apud <i>Eustathium</i> in illum locum,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αὑτὸν γὰρ οὐδεὶς οἶδε τοῦ ποτ᾽ ἐγένετο,\n᾽Αλλ᾽ ὑπονοοῦμεν πάντες, ἢ πιστεύομεν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αὑτὸν γὰρ οὐδεὶς οἶδε τοῦ ποτ᾽ ἐγένετο,\n᾽Αλλ᾽ ὑπονοοῦμεν πάντες, ἢ πιστεύομεν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Se ipsum nemo novit, a quo sit editus, sed suspicamur omnes, aut credimus.</i> Et\nvel si verum id esset, quod de perdicum pullis tradunt, tamen vix ac ne vix qui-\ndem potuisset observari. Pone enim e pluribus pullis, qui matrem perdicem se-\nquuntur, unum, aut alterum eam deserere, ut ad aliam se conferant, quis ausit\npro certo affirmare, hoc ideo fieri, quod exclusi fuerint ex ovis alteri illi surre-\nptis? Quam multa supponenda sunt, ut haec observatio pro vera et comperta\nhabeatur? Itaque apud veteres rerum naturalium scriptores nihil tale occurrit.\nEt memoria fefellit <i>Hieronymum</i>, cum in <i>Ieremiam</i> haec scripsit; <i>Ajunt scripto-\nres naturalis historiae, tam bestiarum et volucrum, quam arborum herbarumque,\nquorum principes sunt apud</i> Graecos Aristoteles <i>et</i> Theophrastus, <i>apud nos</i> Pli-\nnius Secundus, <i>hanc perdicis esse naturam, ut ova alterius perdicis, id est, aliena\nfuretur, et eis incubet foveatque, cumque foetus adoleverit, avolare ab eo et alie-\nnum parentem relinquere.</i> Sed et pii viri, qui cum illo hoc commentum in li-\nteras retulerunt, plus fidei, quam par fuit, τοῖς τερατολόγοις habuerunt, qui-\nbus id propositum fuit, ut populum detinerent per haec portenta narrationum.\nNam, ut recte <i>Synesius</i> in <i>Calvitii encomio</i>, Τὸ δὲ ῥᾷστον καταγελάσεται ὁ δῆ-\nμος· δεῖται γὰρ τερατείας. <i>Quod facile est, ridet plebs; eget enim narratione\nprodigiosa.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Se ipsum nemo novit, a quo sit editus, sed suspicamur omnes, aut credimus.</i> Et\nvel si verum id esset, quod de perdicum pullis tradunt, tamen vix ac ne vix qui-\ndem potuisset observari. Pone enim e pluribus pullis, qui matrem perdicem se-\nquuntur, unum, aut alterum eam deserere, ut ad aliam se conferant, quis ausit\npro certo affirmare, hoc ideo fieri, quod exclusi fuerint ex ovis alteri illi surre-\nptis? Quam multa supponenda sunt, ut haec observatio pro vera et comperta\nhabeatur? Itaque apud veteres rerum naturalium scriptores nihil tale occurrit.\nEt memoria fefellit <i>Hieronymum</i>, cum in <i>Ieremiam</i> haec scripsit; <i>Ajunt scripto-\nres naturalis historiae, tam bestiarum et volucrum, quam arborum herbarumque,\nquorum principes sunt apud</i> Graecos Aristoteles <i>et</i> Theophrastus, <i>apud nos</i> Pli-\nnius Secundus, <i>hanc perdicis esse naturam, ut ova alterius perdicis, id est, aliena\nfuretur, et eis incubet foveatque, cumque foetus adoleverit, avolare ab eo et alie-\nnum parentem relinquere.</i> Sed et pii viri, qui cum illo hoc commentum in li-\nteras retulerunt, plus fidei, quam par fuit, τοῖς τερατολόγοις habuerunt, qui-\nbus id propositum fuit, ut populum detinerent per haec portenta narrationum.\nNam, ut recte <i>Synesius</i> in <i>Calvitii encomio</i>, Τὸ δὲ ῥᾷστον καταγελάσεται ὁ δῆ-\nμος· δεῖται γὰρ τερατείας. <i>Quod facile est, ridet plebs; eget enim narratione\nprodigiosa.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Graecorum Patrum</i> nonnullis aliud persuasum fuit, nempe perdicem foe-\nminam ad alterius perdicis nidum, ea absente, accedere, et pullis ita imponere\nimitatione maternae vocis, ut illi, nido relicto, eam sequantur, donec, vera\nmatre redeunte, poeniteat erroris. Quod <i>Chrysostomus</i> nonnisi ex parte refert.\nἜθος φασὶ τοὺς πέρδικας, μετὰ τὸ ἀποτεχθῆναι τῶν ὠῶν, τοὺς νεοττοὺς τῇ\nφωνῇ προσκαλεῖσθαι, καὶ γυμνοῦν τὴν τεκοῦσαν· <i>Perdicibus ajunt in more esse,\nut post ovorum partum aliarum pullos voce invitent, atque ea matrem spolient.</i>\nSed <i>Olympiodorus</i> plenius, Ὁ πέρδιξ, ὥς φασιν, ὑπερήφανος ὢν, διὰ τῆς\nφωνῆς τοὺς ἀλλοτρίους προσκαλεῖται νεοττοὺς, οἵτινες γνόντες ὕστερον ὅτι οὐκ εἰσὶν\nαὐτοῦ, καταλιμπάνουσιν αὐτόν. <i>Perdix, ut ajunt, cum superbus sit, alienos\npullos voce allicit; a quibus tamen deseritur, postquam se illius non esse tandem\ncognoverunt.</i> Et <i>Hippolytus</i> plenissime, Τοῦ πέρδικος κενοδόξου ζώου ὑπάρχον-\nτος, ἐπὰν πλησίον ἴδῃ ἑτέρου πέρδικος καλιὰν νεοττοὺς ἔχουσαν, ἀποπτάντος\nτοῦ πατρὸς αὐτῶν ἐπὶ τὴν νομὴν, μιμούμενος τὴν τοῦ ἀλλοτρίου φωνὴν, προσκα-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Graecorum Patrum</i> nonnullis aliud persuasum fuit, nempe perdicem foe-\nminam ad alterius perdicis nidum, ea absente, accedere, et pullis ita imponere\nimitatione maternae vocis, ut illi, nido relicto, eam sequantur, donec, vera\nmatre redeunte, poeniteat erroris. Quod <i>Chrysostomus</i> nonnisi ex parte refert.\nἜθος φασὶ τοὺς πέρδικας, μετὰ τὸ ἀποτεχθῆναι τῶν ὠῶν, τοὺς νεοττοὺς τῇ\nφωνῇ προσκαλεῖσθαι, καὶ γυμνοῦν τὴν τεκοῦσαν· <i>Perdicibus ajunt in more esse,\nut post ovorum partum aliarum pullos voce invitent, atque ea matrem spolient.</i>\nSed <i>Olympiodorus</i> plenius, Ὁ πέρδιξ, ὥς φασιν, ὑπερήφανος ὢν, διὰ τῆς\nφωνῆς τοὺς ἀλλοτρίους προσκαλεῖται νεοττοὺς, οἵτινες γνόντες ὕστερον ὅτι οὐκ εἰσὶν\nαὐτοῦ, καταλιμπάνουσιν αὐτόν. <i>Perdix, ut ajunt, cum superbus sit, alienos\npullos voce allicit; a quibus tamen deseritur, postquam se illius non esse tandem\ncognoverunt.</i> Et <i>Hippolytus</i> plenissime, Τοῦ πέρδικος κενοδόξου ζώου ὑπάρχον-\nτος, ἐπὰν πλησίον ἴδῃ ἑτέρου πέρδικος καλιὰν νεοττοὺς ἔχουσαν, ἀποπτάντος\nτοῦ πατρὸς αὐτῶν ἐπὶ τὴν νομὴν, μιμούμενος τὴν τοῦ ἀλλοτρίου φωνὴν, προσκα-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "λεῖται",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "λεῖται"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1798,
+    1616
+   ],
+   [
+    1798,
+    1216
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1986,
+  "cost_usd": 0,
+  "seconds": 308.0,
+  "vote": "1 decisions from v2-591-648"
+ }
+}

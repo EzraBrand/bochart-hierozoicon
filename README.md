@@ -34,10 +34,28 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 1, ch. 5: the sacrifices of doves and turtledoves | 557–559 | [Latin](data/entries/columba-sacrificia/la.md) · [English](data/entries/columba-sacrificia/en.md) | 〃 |
 | Part 2, Book 1, ch. 6: Noah's dove; the dove at the baptism of Christ | 560–571 | [Latin](data/entries/columba-noachi/la.md) · [English](data/entries/columba-noachi/en.md) | 〃 |
 | Part 2, Book 1, ch. 7: *chiryonim* (2 Kgs 6:25) is a kind of chickpea, not dove's dung | 572–589 | [Latin](data/entries/chiryonim/la.md) · [English](data/entries/chiryonim/en.md) | 〃 |
+| Part 2, Book 1, ch. 8: the *deror* is not the swallow but a kind of wild dove | 590–596 | [Latin](data/entries/deror/la.md) · [English](data/entries/deror/en.md) | $7.40 for the 6 chapters (58 new pages; tranche 3, 11-Nov-2026) |
+| Part 2, Book 1, ch. 9: the turtledove | 596–602 | [Latin](data/entries/turtur/la.md) · [English](data/entries/turtur/en.md) | 〃 |
+| Part 2, Book 1, ch. 10: the swallow (*sis*) | 602–613 | [Latin](data/entries/sis/la.md) · [English](data/entries/sis/en.md) | 〃 |
+| Part 2, Book 1, ch. 11: the crane (*agur*) | 614–631 | [Latin](data/entries/agur/la.md) · [English](data/entries/agur/en.md) | 〃 |
+| Part 2, Book 1, ch. 12: the *kore* is not the partridge but a kind of woodcock | 632–644 | [Latin](data/entries/kore/la.md) · [English](data/entries/kore/en.md) | 〃 |
+| Part 2, Book 1, ch. 13: the hunter partridge in a cage (Sirach 11) | 645–647 | [Latin](data/entries/perdix-cavea/la.md) · [English](data/entries/perdix-cavea/en.md) | 〃 |
+
+### Tranches
+
+| Tranche | Date | Pages (new) | Chapters | Cost | Per page | Wall-clock | Scan-check items | Changes confirmed / undone | Proposals accepted | Corrections from the print |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 09-Nov-2026 | 429–523 (74) | 10 | $9.71 | $0.131 | about 1.5 h | 283 | n/a / 14 | 30 | 18 |
+| 2 | 10-Nov-2026 | 524–589 (66) | 7 | $8.23 | $0.125 | about 3 h | 219 | 52 / 17 | 40 | 26 |
+| 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | about 2 h (machine steps 30 min) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
+
+Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
+the six translation batches 10. The rest of the time is the scan check; the run was interrupted
+once and continued in a second session.
 
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
-`logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv` and
-`logs/vote_v2-524-590.csv` (column `outcome`), and for tranches 1 and 2 the scan-check answers in
+`logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
+`logs/vote_v2-524-590.csv` and `logs/vote_v2-591-648.csv` (column `outcome`), and for tranches 1 to 3 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works
@@ -78,6 +96,19 @@ export OPENROUTER_KEY_FILE="path/to/key.txt"
 
 0. Find the chapter heads in the MDZ OCR (`uv run find_chapters.py 470 560`). A tranche of
    60–100 pages that ends at a chapter end costs about $10 (09-Nov-2026: $0.13 a page).
+
+   Since 11-Nov-2026 `tranche.py` runs steps 1–3 in one go, with a log per step in `logs/`
+   (`SAMPLE` must hold the pages first): Flash reads the pages synchronously with 4 workers while
+   the Opus batch runs (its batch took 26 minutes in tranche 2, Opus's 7), then check, judge, vote,
+   QA and the review crops. After the scan check, `tranche.py translate` runs the chapters'
+   translation batches at the same time and builds the site. Both print the cost of each paid step
+   (the key's spend before and after). `uv run banned.py` then checks the English against the
+   chapters' fixed terms (no model call; a list to look at):
+
+   ```bash
+   uv run tranche.py prepare 591 648 --tag t3 --group A:591-610 --group B:611-630 --group C:631-648
+   uv run tranche.py translate deror turtur sis agur kore perdix-cavea --tag t3
+   ```
 
 1. Add the canvases to `SAMPLE` in `fetch.py`, then fetch the scans and the MDZ OCR:
 

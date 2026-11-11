@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X.\tDe Hirundine.\t607",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X.\tDe Hirundine.\t607"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ezechias</i> in morbo dicit se ut hirundinem pipivisse [Ies. XXXVIII, 14.],\nquia vox hirundinis videtur aliquid habere querulum et luctuosum. Hoc uno\nore clamant omnes <i>poetae</i>. <i>Hesiodus</i> in <i>Operibus</i> versu 366.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ezechias</i> in morbo dicit se ut hirundinem pipivisse [Ies. XXXVIII, 14.],\nquia vox hirundinis videtur aliquid habere querulum et luctuosum. Hoc uno\nore clamant omnes <i>poetae</i>. <i>Hesiodus</i> in <i>Operibus</i> versu 366."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τὸν δὲ μετ᾽ ὀρθρογόη Πανδιονὶς ὦρτο χελιδὼν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τὸν δὲ μετ᾽ ὀρθρογόη Πανδιονὶς ὦρτο χελιδὼν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Post hunc mane lugens Pandionis filia prodiit hirundo</i>. Unde Suidas, Ὀρθρογόη\nχελιδών. Alii malunt ὀρθογόη. <i>Hesychius</i>, Ὀρθογόη· ἡ χελιδών. Itaque\nhinc corrigenda in <i>Cyrilli Lexico</i> apud me MSS. Ὀρθογόν· χελιδών. In <i>Ety-\nmologico</i> ὀρθογόη redditur ἡ μεγάλως θρηνῦσα, <i>quae multum luget</i>. Ita etiam\nin <i>Phavorino</i>, qui addit, de hirundine dici. <i>Aristophanes</i> in <i>Ranis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Post hunc mane lugens Pandionis filia prodiit hirundo</i>. Unde Suidas, Ὀρθρογόη\nχελιδών. Alii malunt ὀρθογόη. <i>Hesychius</i>, Ὀρθογόη· ἡ χελιδών. Itaque\nhinc corrigenda in <i>Cyrilli Lexico</i> apud me MSS. Ὀρθογόν· χελιδών. In <i>Ety-\nmologico</i> ὀρθογόη redditur ἡ μεγάλως θρηνῦσα, <i>quae multum luget</i>. Ita etiam\nin <i>Phavorino</i>, qui addit, de hirundine dici. <i>Aristophanes</i> in <i>Ranis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δὴ χείλεσιν ἀμφιλάλοις\nΔεινὸν ἐπιβρέμεται\nΘρῃκία χελιδὼν,\nἘπὶ βάρβαρον ἑζομένη πέταλον,\nΚελαδεῖ δ᾽ ἐπίκλαυτον ἀηδόνιον νόμον,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δὴ χείλεσιν ἀμφιλάλοις\nΔεινὸν ἐπιβρέμεται\nΘρῃκία χελιδὼν,\nἘπὶ βάρβαρον ἑζομένη πέταλον,\nΚελαδεῖ δ᾽ ἐπίκλαυτον ἀηδόνιον νόμον,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Iam labris loquacibus\nGrave resonat\nThracia hirundo,\nSupra barbarum sedens folium,\nCanit autem luctuosam stridulam cantilenam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Iam labris loquacibus\nGrave resonat\nThracia hirundo,\nSupra barbarum sedens folium,\nCanit autem luctuosam stridulam cantilenam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Moschus <i>Idyll.</i> 3.\nΟὐδὲ τόσον θρήνησεν ἀν᾽ ὤρεα μακρὰ χελιδὼν,\n<i>Neque tantum luxit per magnos montes hirundo</i>. Palladas <i>Anthol.</i> lib. 1. cap. 60.\nΤίπτε πανημέριος, Πανδιονὶ κάμμορε κόρη, ⟦p. 64.⟧\nΜυρομένη κελαδεῖς τραυλὰ διὰ σομάτων.\n<i>Cur tota die, o Pandionis filia, infelix puella, lugens, blaesa carmina ore\ncanis?</i> Proinde ad haec Theocriti in <i>Thalysiis</i>,\n— — — ἁ δ᾽ ὀλολυγὼν\nΤηλόθεν ἐν πυκινῇσι βάτων τρύζεσκεν ἀκάνθαις,\n<i>Et ololygon procul in densis ruborum gemebat spinis</i>, ὀλολυγὼν a Scholiaste ex-\nponitur ἡ χελιδὼν ἡ τὸν Ἴτυν ὀλοφυρομένη, <i>hirundo, Ityn deflens</i>. Et <i>Aga-\nthias Anthol.</i> lib. 7. <i>Epigr.</i> 65. hirundines sic alloquitur:\nἈλλ᾽ Ἴτυλον κλαίοιτε κατ᾽ ὄρεα, καὶ γοάοιτε,\n<i>Sed Itylum deflete in montibus, et lugete</i>. Neque aliter <i>Romani poetae</i>. <i>Catul-\ntus ad Ortalum</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Moschus <i>Idyll.</i> 3.\nΟὐδὲ τόσον θρήνησεν ἀν᾽ ὤρεα μακρὰ χελιδὼν,\n<i>Neque tantum luxit per magnos montes hirundo</i>. Palladas <i>Anthol.</i> lib. 1. cap. 60.\nΤίπτε πανημέριος, Πανδιονὶ κάμμορε κόρη, ⟦p. 64.⟧\nΜυρομένη κελαδεῖς τραυλὰ διὰ σομάτων.\n<i>Cur tota die, o Pandionis filia, infelix puella, lugens, blaesa carmina ore\ncanis?</i> Proinde ad haec Theocriti in <i>Thalysiis</i>,\n— — — ἁ δ᾽ ὀλολυγὼν\nΤηλόθεν ἐν πυκινῇσι βάτων τρύζεσκεν ἀκάνθαις,\n<i>Et ololygon procul in densis ruborum gemebat spinis</i>, ὀλολυγὼν a Scholiaste ex-\nponitur ἡ χελιδὼν ἡ τὸν Ἴτυν ὀλοφυρομένη, <i>hirundo, Ityn deflens</i>. Et <i>Aga-\nthias Anthol.</i> lib. 7. <i>Epigr.</i> 65. hirundines sic alloquitur:\nἈλλ᾽ Ἴτυλον κλαίοιτε κατ᾽ ὄρεα, καὶ γοάοιτε,\n<i>Sed Itylum deflete in montibus, et lugete</i>. Neque aliter <i>Romani poetae</i>. <i>Catul-\ntus ad Ortalum</i>,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Qualia</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qualia</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2040,
+    1128
+   ],
+   [
+    2040,
+    1692
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1038,
+  "cost_usd": 0.0064,
+  "seconds": 12.4
+ }
+}

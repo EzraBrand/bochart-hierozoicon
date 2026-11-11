@@ -153,3 +153,30 @@ part of the prompt is larger than the image part; maybe −15% on the judge).
 - `vote.py`: `--judge`, `--skip-mdz-only`.
 - `translate.py`: `request_body()` and `parse()` split out of `translate()`, for batches.
 - Test scripts and the translation outputs in `costtest/`; test outputs in `data/ocr/*+batchc`, `*+syncc`, `data/fix/*.judge.*.jsonl`.
+
+## Tranche 3 (11-Nov-2026): Part 2, Book 1, chs. 8-13 (58 new pages, pp. 591-648; p. 648 for the join)
+
+| Step | Model | Lines / pages | Cost | Minutes |
+|---|---|---|---|---|
+| Fetch (scans and MDZ hOCR) | none | 58 | $0 | 4 |
+| OCR, compact | Opus 5.5 @low batch + Flash 3.8 @low sync, 4 workers | 58 + 58 | $0.42 for Flash; Opus is in the next line | 6 |
+| Image judge (and the Opus OCR batch) | Opus 5.5 @low, batch | 967 lines | about $5.5 together | 10 |
+| Translation, 6 chapters in parallel | Opus 5.5 @low, batch | 6 batches | $1.50 | 10 |
+| **Total** (key spend, $28.19 to $35.59) | | | **$7.40** ($0.128 a page) | 30 |
+
+First run of `tranche.py` (one command for fetch to review crops, one for translation and site).
+Flash sync with 4 workers was done before the Opus batch: the OCR stage took 6 minutes against 35.
+The check flagged 1,480 words, 613 of them Greek (Aristotle, Aelian, Pollux), which is why the judge
+did not get cheaper. The scan check of 238 items (66 + 90 + 82) was done by subagents for groups A
+and B; group C stopped at 25 items (spend limit of the Claude account) and was finished in the main
+session. Result: 69 changes confirmed, 13 undone (the ȣ ligature again, an alif seen in the lead-in
+stroke of ج and خ, three times قارية), 34 proposals accepted, 22 corrections from the print
+(misprints kept: *Peientibus*, ὑπερητεῖν, ἀναιθησίᾳ, ἐλολυγὼν). A smear over the left margin of
+pp. 595, 597 and 613 in the scan hides the line starts: 35 words were restored from the letters that
+show and the sense (`entry.FIXES`, marked). 18 items stay unsure
+(`logs/review/*/decisions.tsv`).
+
+New in the code: `tranche.py` (with the cost per paid step from the key's spend), `banned.py`
+(English against the fixed terms, no model call), the φ/Φ rule in `vote.py` and the judge prompt,
+Chronicles, Sirach and Baruch in the Bible abbreviations ("Eccles. XI, 31" is Sirach when the verse
+does not exist in Qohelet), 7 new rows in `names.json`.
