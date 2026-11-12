@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "654 <i>Variae Coturnicum species juxta Hebraeos.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "654 <i>Variae Coturnicum species juxta Hebraeos.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "οὐδὲ κιχλίζειν ἐξῆν, <i>pisces edere, neque turdos licebat,</i> id est, delicate vesci. Et\n<i>Pompejus</i> aeger a <i>Lucullo</i> turdum peti noluit, quamvis jubente medico, hoc ce-\nlebri dicto usus, Οὐκοῦν, εἰ μὴ Λούκουλλος ἐτρύφα, Πομπήϊος οὐκ ἂν ἔζησεν;\n<i>An igitur absque</i> Luculli <i>luxu</i> Pompejus <i>non viveret?</i> Quod <i>Plutarcho</i> ita placuit,\nut id referret quater minimum, nempe in <i>Lucullo,</i> et in <i>Pompejo,</i> et in <i>Apo-</i>\n<i>phthegmatis,</i> et in libro <i>An seni gerenda sit respublica?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "οὐδὲ κιχλίζειν ἐξῆν, <i>pisces edere, neque turdos licebat,</i> id est, delicate vesci. Et\n<i>Pompejus</i> aeger a <i>Lucullo</i> turdum peti noluit, quamvis jubente medico, hoc ce-\nlebri dicto usus, Οὐκοῦν, εἰ μὴ Λούκουλλος ἐτρύφα, Πομπήϊος οὐκ ἂν ἔζησεν;\n<i>An igitur absque</i> Luculli <i>luxu</i> Pompejus <i>non viveret?</i> Quod <i>Plutarcho</i> ita placuit,\nut id referret quater minimum, nempe in <i>Lucullo,</i> et in <i>Pompejo,</i> et in <i>Apo-</i>\n<i>phthegmatis,</i> et in libro <i>An seni gerenda sit respublica?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Superest phasianus, qui olim videtur fuisse deliciarum ultimus finis. Pro-\ninde <i>Athenaei</i> lib. 14. <i>Ptolemaeus Physcon,</i> quamvis in <i>Aegypto</i> phasianos magno\nnumero aleret, οὐδὲ Φασιανικοῦ ὄρνιθός ποτε γεύσασθαι ὡμολόγησεν, ἀλλ᾽ ὥσπερ\nτι κειμήλιον ἀνακείμενον εἶχε τοὺς δὲ τοὺς ὄρνιθας, <i>se phasianum nunquam gu-</i>\n<i>stasse professus est, sed has aves habuit ut repositum thesaurum.</i> Sic apud <i>Capito-</i>\n<i>linum</i> Pertinax <i>fasianum</i> (nam per <i>f</i> ibi scribitur) <i>nunquam privato convivio come-</i>\n<i>dit, aut alicui misit.</i> Apud <i>Lampridium Alexander</i> Severus nonnisi <i>Calendis Ia-</i>\n<i>nuariis, et Hilariis</i> matris Deum, et ludis <i>Apollinaribus,</i> et Iovis epulo, et <i>Sa-</i>\n<i>turnalibus,</i> et hujusmodi festis diebus fasianum mensis adhibebat. Apud <i>Vo-</i>\n<i>piscum</i> Tacitus imperator <i>Fasianam avem nonnisi suo et suorum natali, et diebus</i>\n<i>festivissimis posuit.</i> Et, <i>Ammiano</i> teste lib. 2. <i>Iulianus in convivio Caesaris pha-</i>\n<i>sianum exigi vetuit, et inferri.</i> Nempe avi, per se eximiae, raritas pretium adde-\nbat. <i>Petronius</i> in <i>Satyrico,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Superest phasianus, qui olim videtur fuisse deliciarum ultimus finis. Pro-\ninde <i>Athenaei</i> lib. 14. <i>Ptolemaeus Physcon,</i> quamvis in <i>Aegypto</i> phasianos magno\nnumero aleret, οὐδὲ Φασιανικοῦ ὄρνιθός ποτε γεύσασθαι ὡμολόγησεν, ἀλλ᾽ ὥσπερ\nτι κειμήλιον ἀνακείμενον εἶχε τοὺς δὲ τοὺς ὄρνιθας, <i>se phasianum nunquam gu-</i>\n<i>stasse professus est, sed has aves habuit ut repositum thesaurum.</i> Sic apud <i>Capito-</i>\n<i>linum</i> Pertinax <i>fasianum</i> (nam per <i>f</i> ibi scribitur) <i>nunquam privato convivio come-</i>\n<i>dit, aut alicui misit.</i> Apud <i>Lampridium Alexander</i> Severus nonnisi <i>Calendis Ia-</i>\n<i>nuariis, et Hilariis</i> matris Deum, et ludis <i>Apollinaribus,</i> et Iovis epulo, et <i>Sa-</i>\n<i>turnalibus,</i> et hujusmodi festis diebus fasianum mensis adhibebat. Apud <i>Vo-</i>\n<i>piscum</i> Tacitus imperator <i>Fasianam avem nonnisi suo et suorum natali, et diebus</i>\n<i>festivissimis posuit.</i> Et, <i>Ammiano</i> teste lib. 2. <i>Iulianus in convivio Caesaris pha-</i>\n<i>sianum exigi vetuit, et inferri.</i> Nempe avi, per se eximiae, raritas pretium adde-\nbat. <i>Petronius</i> in <i>Satyrico,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ales Phasiacis petita Colchis,\nAtque Afrae volucres placent palato,\nQuod non sunt faciles.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ales Phasiacis petita Colchis,\nAtque Afrae volucres placent palato,\nQuod non sunt faciles.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ales Phasiacis petita Colchis,</i> id est, phasianus, ex <i>Phaside</i> petitus, <i>Colchidis</i>\n<i>amne.</i> Inde enim afferebatur, quod ipsum nomen indicat. <i>Agatharchides</i> de\n<i>Phaside</i> apud <i>Athenaeum</i> libro nono, Πλῆθος δὲ ὀρνίθων τῶν καλουμένων Φα-\nσιανῶν φοιτᾷ τροφῆς χάριν πρὸς τὰς ἐμβολὰς τῶν στομάτων· <i>Avium, quas</i>\n<i>phasianos vocant, magna copia cibi causa ad fluminis ostia se confert.</i> <i>Petronius</i>\nidem alibi,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ales Phasiacis petita Colchis,</i> id est, phasianus, ex <i>Phaside</i> petitus, <i>Colchidis</i>\n<i>amne.</i> Inde enim afferebatur, quod ipsum nomen indicat. <i>Agatharchides</i> de\n<i>Phaside</i> apud <i>Athenaeum</i> libro nono, Πλῆθος δὲ ὀρνίθων τῶν καλουμένων Φα-\nσιανῶν φοιτᾷ τροφῆς χάριν πρὸς τὰς ἐμβολὰς τῶν στομάτων· <i>Avium, quas</i>\n<i>phasianos vocant, magna copia cibi causa ad fluminis ostia se confert.</i> <i>Petronius</i>\nidem alibi,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>Iam Phasidis unda\nOrbata est avibus.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>Iam Phasidis unda\nOrbata est avibus.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> in <i>Xeniis,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> in <i>Xeniis,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Argiva primum sum transportata carina:\nAnte mihi notum nil nisi Phasis erat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Argiva primum sum transportata carina:\nAnte mihi notum nil nisi Phasis erat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Statius</i> in <i>Psittaco Melioris</i> lib. 2. <i>Sylvarum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Statius</i> in <i>Psittaco Melioris</i> lib. 2. <i>Sylvarum,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quem non gemmata volucris Iunonia cauda\nVinceret aspectu, gelidi non Phasidis ales.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quem non gemmata volucris Iunonia cauda\nVinceret aspectu, gelidi non Phasidis ales.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Clemens</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Clemens</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1776,
+    1367
+   ],
+   [
+    1776,
+    1469
+   ]
+  ],
+  "input_tokens": 3416,
+  "output_tokens": 1303,
+  "cost_usd": 0.0074,
+  "seconds": 10.5
+ }
+}

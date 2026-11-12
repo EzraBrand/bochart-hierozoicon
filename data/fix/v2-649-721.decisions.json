@@ -1,0 +1,934 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0649",
+   "line": "الهزلي فقطنه الغسل Avis est, quam demisit Deus Excelsus super",
+   "old": "فقطنه",
+   "new": "فظنه",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0650",
+   "line": "Rabbi Selomo in Exod. XVI. השלו מין עוף ושמן מאר, Coturnix, avis species,",
+   "old": "מאר,",
+   "new": "מאד,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0650",
+   "line": "τυγομήτραν. Et Psal. CIV, 40. Ἤτησαν, καὶ ἦλθεν ὀρτυγομήτρα. Et Apol-",
+   "old": "Ἤτησαν,",
+   "new": "Ἤιτησαν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0650",
+   "line": "quae est obesissima. Et Kimchius in Lexico הוא שמן מאר, est pinguis valde. In",
+   "old": "מאר,",
+   "new": "מאד,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0651",
+   "line": "lib. 8. cap. 12. Ὅταν δ' ἐντεῦθεν ἀπαίρωσιν (οἱ ὄρτυγες) ἥ τε γλωττὶς συν-",
+   "old": "ἀπαίρωσιν",
+   "new": "ἀπάρωσιν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0652",
+   "line": "XVI, 13. וסליקו פסיונין וחפו ית משריתא, Et ascenderunt phasiani, et coope-",
+   "old": "פסיונין",
+   "new": "פסיינין",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0655",
+   "line": "cum تذرج tadrug.",
+   "old": "تذرج",
+   "new": "تدرج",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0658",
+   "line": "وهي جيدة الكيموس طيبة الطعم نافعه للاصحا",
+   "old": "الكيموس",
+   "new": "الكيموص",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0658",
+   "line": "id est, qualeae, ejusdem temperamenti sunt, cujus perdices, sed licioris. Probe",
+   "old": "licioris.",
+   "new": "siccioris.",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0659",
+   "line": "Et Assariph in Abenbitare de coturnice, انا لعقت مرارته نفعت",
+   "old": "انا",
+   "new": "اذا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0659",
+   "line": "a) Vid. Arist. Problem. sect. 30. initio.",
+   "old": "Arist.",
+   "new": "Aristot.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0660",
+   "line": "القواطع لا يدري من اين ياتي حتي ان بعض",
+   "old": "ياتي",
+   "new": "يابي",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0660",
+   "line": "والاخر منشور كالقلع والاهل مصر به عناية",
+   "old": "عناية",
+   "new": "عنايه",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0662",
+   "line": "significare ventum auferri, quam immitti. Sonticae tamen caussae sunt, ut qui-",
+   "old": "caussae",
+   "new": "causae",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0663",
+   "line": "appellari; quia fuit מורחי דרומי, id est, partim orientalis, partim australis,",
+   "old": "מורחי",
+   "new": "מזרחי",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0663",
+   "line": "Arias, Proficisci fecit Eurum in coelis. Felix Pratensis, Movit Eurum in coelis.",
+   "old": "Proficisci",
+   "new": "Profecisci",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0664",
+   "line": "βόρεια, τὰ δὲ νότια, τὰδ᾽ ἄλλα τούτων παρεκβάσεις, Quomodo in ventis alii",
+   "old": "τὰδ᾽",
+   "new": "τάδ'",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0665",
+   "line": "parallelorum, haud quidem notatum LOW-",
+   "old": "LOW-",
+   "new": "Low-",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0666",
+   "line": "οἱ πνέοντες ἀπὸ τῆς θερινῆς δύσεως ἀργέσαι κοινωνοῦσι τῆς τῶν Ἐτησίων προση-",
+   "old": "θερινῆς",
+   "new": "θηρινῆς",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0666",
+   "line": "Nat. des Oiseaux P. II. p. 461. Je crois",
+   "old": "Je",
+   "new": "Ie",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0668",
+   "line": "אנפי ארעא והוו מהלכין בהון עד פרתהון מטול דלא ילען בומן מכנשהון",
+   "old": "ילען",
+   "new": "ילעון",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0668",
+   "line": "אנפי ארעא והוו מהלכין בהון עד פרתהון מטול דלא ילען בומן מכנשהון",
+   "old": "בומן",
+   "new": "בזמן",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0669",
+   "line": "ova. Hebraice חמר chomer dicitur, quod ad חמור chamor, id est, asinum, re-",
+   "old": "חמר",
+   "new": "חומר",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0672",
+   "line": "aëris tepor eas alliciat, seu soli ubertas et foecunditas. Hinc Josephus, Τρέφει",
+   "old": "Josephus,",
+   "new": "Iosephus,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0672",
+   "line": "plus triginta millia: et Josephus d) hominum septingentas et quinquaginta myria-",
+   "old": "Josephus",
+   "new": "Iosephus",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0675",
+   "line": "(tractatu De Idololatria) Adramelech et Anamelech, id est, ταώς, et phasianus.",
+   "old": "ταώς,",
+   "new": "ταὼς,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0675",
+   "line": "Et ταῶς idem est, quod pavo, idoli nomen, quod notum. Et phasianus, id",
+   "old": "ταῶς",
+   "new": "ταὼς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0677",
+   "line": "baria censentur ברבורים אבוסים, id est, תרנגולין פטימין, galli saginati, ut in",
+   "old": "פטימין,",
+   "new": "פטומין,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0680",
+   "line": "tim additum sit אפרחהא. Quodsi igitur hic",
+   "old": "אפרחהא.",
+   "new": "אפרחתא.",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0681",
+   "line": "tiones habent, Et vesperum super fines terrae consurgere facis? Et novae su-",
+   "old": "tiones",
+   "new": "ditiones",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0682",
+   "line": "super filios tunc consurgere facis? Illud tunc, alioqui in illa versione rarum, re-",
+   "old": "tunc",
+   "new": "tune",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0682",
+   "line": "super filios tunc consurgere facis? Illud tunc, alioqui in illa versione rarum, re-",
+   "old": "tunc,",
+   "new": "tune,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0682",
+   "line": "ctura et imagines, Es. II, 16. et אבן משכית, lapis pictus, Levit. XXVI, 1.",
+   "old": "ctura",
+   "new": "cturae",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0683",
+   "line": "tinas preces habetur haec oratio, באי אמה אשר נתן לשכוי בינה להבין בין יום",
+   "old": "באי",
+   "new": "בא״י",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0683",
+   "line": "tinas preces habetur haec oratio, באי אמה אשר נתן לשכוי בינה להבין בין יום",
+   "old": "אמה",
+   "new": "אמ״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0683",
+   "line": "gerunt בטוות, in netricibus. Et לשכוי, ad pingendum, aut variandum, pro",
+   "old": "לשכוי,",
+   "new": "לשכות,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0685",
+   "line": "Hebraice esset similior. Sed rescribendum דמזורכל, qui superbe incedit. Ne-",
+   "old": "דמזורכל,",
+   "new": "דמודרכל,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0685",
+   "line": "lud דמזורכל plane respondet Graecis verbis ἐμπεριπατῶν εὐψύχως. Fuere et",
+   "old": "דמזורכל",
+   "new": "דמודרכל",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0685",
+   "line": "Eo igitur pertinet Chaldaeum et Syrum ܒܟܐ abacha, quo putaverim non gal-",
+   "old": "ܒܟܐ",
+   "new": "ܐܒܟܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0686",
+   "line": "Et, quod gallum asserunt caponi sic apponi, ad rem non est. Quippe ut capo",
+   "old": "Quippe",
+   "new": "Quippè",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0687",
+   "line": "אתונו וכמו שהתרנגול יודע בעתים כן בלעם יודע לכוין השעה שהקבה כועס",
+   "old": "שהקבה",
+   "new": "שהקב״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0687",
+   "line": "התרנגול ילך למיתה ואני אלך לחיים טובים עם ישראל אמן, Iste gallus sit per-",
+   "old": "ישראל",
+   "new": "ירשאל",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0687",
+   "line": "תרנגולא דמיטלטל מאתר לאתר, Ut gallus, qui deportatur e loco in locum. Quae",
+   "old": "דמיטלטל",
+   "new": "דמטלטל",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0687",
+   "line": "ex mente Iudaei illius, a quo Hebraicas literas didicerat, ut ipse monet in Notis,",
+   "old": "quo",
+   "new": "quò",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0690",
+   "line": "τρίς· Non cantabit gallus, prius quam ter me neges. Quae videntur ἀσύστατα·",
+   "old": "τρίς·",
+   "new": "τρὶς·",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "negasset, se nosse Christum, quae prima fuit abnegatio, μετὰ βϱαχὺ, paullo",
+   "old": "βϱαχὺ,",
+   "new": "βραχὺ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "2. Ex Lucae verbis μετὰ βϱαχὺ non sequi, inter primam et secundam Petri",
+   "old": "βϱαχὺ",
+   "new": "βραχὺ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "interstitio, tamen in Matthaeo et Marco, μετὰ μικϱὸν, paullo post, contigisse",
+   "old": "μικϱὸν,",
+   "new": "μικρὸν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "narratur. Itaque illud μετὰ μικϱὸν, vel, quod idem est, μετὰ βϱαχὺ, potest",
+   "old": "μικϱὸν,",
+   "new": "μικρὸν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "narratur. Itaque illud μετὰ μικϱὸν, vel, quod idem est, μετὰ βϱαχὺ, potest",
+   "old": "βϱαχὺ,",
+   "new": "βραχὺ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0691",
+   "line": "dixerit praecise, horam unam intercessisse, sed ὡσεὶ ὥϱας μιᾶς, horam circiter",
+   "old": "ὥϱας",
+   "new": "ὥρας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0692",
+   "line": "'Οψίας γενομένης a), Cum vespera jam advenisset, id est, in ipso occasu solis",
+   "old": "'Οψίας",
+   "new": "Ὀψίας",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0693",
+   "line": "عشر ساعة يقسط اصواته عليها كما كان يقسطه",
+   "old": "ساعة",
+   "new": "ساعه",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0693",
+   "line": "Hierosolymis, והיה קולו נשמע משלש פרסאות מעשה באגריפס המלך שהיה",
+   "old": "משלש",
+   "new": "משלוש",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0693",
+   "line": "בא בדרך ושמע קולו בשלש פרסאות וכשבא לביתו שיגר לו מתנות, Vox ejus",
+   "old": "בשלש",
+   "new": "בשלוש",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0694",
+   "line": "bimus, rei tantae caussas exquirentem, ad fabulas confugere. Fingit enim,",
+   "old": "caussas",
+   "new": "causas",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0694",
+   "line": "men apud eundem Democritus optimis verbis caussam explicat, cur ante lucem galli",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0695",
+   "line": "sae gallinae procreentur. Neque aliud significatur in his Theophrasti, De caussis",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0696",
+   "line": "Μέσφα μιν οὐράνιον κρύος ὤλεσεν. ἦ γὰρ ἔμεινεν",
+   "old": "Μέσφα",
+   "new": "Μέσφά",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0696",
+   "line": "Πρόκνη, καὶ Μήδεια, κατ᾽ αἴδος αἰδέσθητε,",
+   "old": "αἴδος",
+   "new": "ἀΐδος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0700",
+   "line": "jam citato: רבנן אמרי עוף טהור הוא ומעולא הוא והיה בא מברבריאה והיה",
+   "old": "אמרי",
+   "new": "אמרו",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0700",
+   "line": "que. Cujus appellationis caussas, qui harum rerum curiosus est, reperiet apud",
+   "old": "caussas,",
+   "new": "causas,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0702",
+   "line": "xto, Strident potius quam loquuntur. Ut Solinus, Ignari sermonis strident potius",
+   "old": "Strident",
+   "new": "Stridunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0702",
+   "line": "xto, Strident potius quam loquuntur. Ut Solinus, Ignari sermonis strident potius",
+   "old": "strident",
+   "new": "stridunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0705",
+   "line": "Liberalis Metamorphosi secunda de Meleagri sororibus, Αὐτὰς Ἄρτεμις ἀψαμέ-",
+   "old": "ἀψαμέ-",
+   "new": "ἁψαμέ-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0706",
+   "line": "afferenda conspirare taceam Seniores cum Talmudicis, analogia requirit, ut, quo-",
+   "old": "afferenda",
+   "new": "asserenda",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "rantur bos unus, sex oves electae et aves. Electae Hebraicae sunt ברורות, quae",
+   "old": "ברורות,",
+   "new": "בררות,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "prima geminata dici potuissent ברבורות. Idem nempe sunt ברורות et ברבורות,",
+   "old": "ברבורות.",
+   "new": "ברברות.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "prima geminata dici potuissent ברבורות. Idem nempe sunt ברורות et ברבורות,",
+   "old": "ברורות",
+   "new": "בררות",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "prima geminata dici potuissent ברבורות. Idem nempe sunt ברורות et ברבורות,",
+   "old": "ברבורות,",
+   "new": "ברברות,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "nisi quod in ברבורות significatio est intensior propter literam geminatam. Ita-",
+   "old": "ברבורות",
+   "new": "ברברות",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0707",
+   "line": "que si ברורות electa sonat, ברבורות essent electissima (2).",
+   "old": "ברבורות",
+   "new": "ברברות",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "maluerit Deodatius ὁ μακαϱίτης, nullus capio. A recepta versione recedere pa-",
+   "old": "μακαϱίτης,",
+   "new": "μακαρίτης,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "quitatum libro nono fere in fine, Οἱ δὲ μετοικισθέντες εἰς Σαμάϱειαν Χουθαῖοι",
+   "old": "Σαμάϱειαν",
+   "new": "Σαμάρειαν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-",
+   "old": "γὰϱ",
+   "new": "γὰρ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-",
+   "old": "ἐχϱῶντο",
+   "new": "ἐχρῶντο",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-",
+   "old": "μέχϱι",
+   "new": "μέχρι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-",
+   "old": "δεῦϱο",
+   "new": "δεῦρο",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-",
+   "old": "πϱοσηγοϱίᾳ,",
+   "new": "προσηγορίᾳ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "μένης χώϱας μεταχθῆναι, αὕτη δ᾽ ἐστὶν ἐν τῇ Πεϱσίδι, καὶ ποταμὸς τοῦ τ᾽ ἔχων",
+   "old": "χώϱας",
+   "new": "χώρας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0709",
+   "line": "μένης χώϱας μεταχθῆναι, αὕτη δ᾽ ἐστὶν ἐν τῇ Πεϱσίδι, καὶ ποταμὸς τοῦ τ᾽ ἔχων",
+   "old": "Πεϱσίδι,",
+   "new": "Περσίδι,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0711",
+   "line": "تري في وسط كل ريش دايرة من الذهب مختلطة",
+   "old": "مختلطة",
+   "new": "مخلطة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0711",
+   "line": "48. Ita ovis modo כבש chebes vocatur, modo כשב cheseb. Et Aethiopes He-",
+   "old": "כבש",
+   "new": "כבס",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0712",
+   "line": "αὐτῷ καὶ χρυσὸς ἐν τοῖς πτεροῖς, κύκλῳ δὲ τὸ ἀλουργὲς τὸν χρυσὸν περιθέει τὸν",
+   "old": "ἀλουργὲς",
+   "new": "ἁλουργὲς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0713",
+   "line": "ova eorum afferat suo tempore denariis venisse quinis, ipsos facile quinquagenis.",
+   "old": "afferat",
+   "new": "asserat",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0713",
+   "line": "Quid quod in Symeone Sethi pavonis caro ἰνώδης, καὶ περιττωματική, καὶ δύσ-",
+   "old": "περιττωματική,",
+   "new": "περιττωματικὴ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0720",
+   "line": "شجر يعمل منه الغسي Sasim; arbor nigra, aut ebenus, aut",
+   "old": "الغسي",
+   "new": "القسي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0720",
+   "line": "ياخذ اغصان خشب بعض اصناف الشوك والخشب",
+   "old": "اغصان",
+   "new": "اعضان",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

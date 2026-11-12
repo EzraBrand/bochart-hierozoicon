@@ -4,7 +4,8 @@
       fetch.py sample (SAMPLE must hold the pages) -> mdz_ocr.py -> OCR: Opus batch and Flash sync
       (4 workers) at the same time -> check.py -> judge.py --batch -> vote.py -> qa.py -> review_pack.py
   uv run tranche.py translate deror turtur hirundo --tag t3
-      entry.py X --batch --effort low for every chapter at once (one batch each), then the site
+      one batch for the chunks of all the chapters (entry.batch_all), then entry.py X for the fixed
+      steps of every chapter, then the site
 
 The second reader (Flash) ran as a batch in tranches 1-2 and took 26 minutes against Opus's 7; sync
 with 4 workers it is done before the Opus batch is (about $0.50 more on 60 pages). Logs:
@@ -127,9 +128,11 @@ def prepare(a) -> None:
 def translate(a) -> None:
     t = time.monotonic()
     before = spend()
+    # one batch for all the chapters' chunks (12-Nov-2026; a batch per chapter before), then the fixed steps
+    run(["-c", f"import entry; entry.batch_all({a.entries!r}, {OPUS!r}, {a.effort!r}, {a.tag!r})"],
+        log_path(a.tag, "translate_batch"), "translation batch")
     procs = [(e, start(["entry.py", e, "--batch", "--effort", a.effort], log_path(a.tag, f"translate_{e}")))
              for e in a.entries]
-    print(f"[{time.strftime('%H:%M')}] translation: {len(procs)} chapters started", flush=True)
     failed = []
     for e, p in procs:
         p.wait()

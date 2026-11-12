@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XV. Solvuntur V quaestiones de Mosis coturnicibus. 665",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XV. Solvuntur V quaestiones de Mosis coturnicibus. 665"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ce idem ventus videtur significari, <i>Auster</i> nimirum, aut <i>Africus</i> ^{(6)}, qui ex\nintima <i>Aegypto</i> coturnices <i>Israelitis</i> advexerit ^{(7)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ce idem ventus videtur significari, <i>Auster</i> nimirum, aut <i>Africus</i> ^{(6)}, qui ex\nintima <i>Aegypto</i> coturnices <i>Israelitis</i> advexerit ^{(7)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "At unum potest objici, nempe <i>austro</i> flante non volare coturnices, <i>Aristo-</i>\n<i>teles Hist.</i> lib. 8. cap. 12. Οἱ δὲ ὄρτυγες, ὅταν πέσωσιν, ἐὰν μὲν εὐδία ᾖ βόρειον\nᾖ, συνδυάζονταί τε, καὶ ἠρεμῦσιν. ἐὰν δὲ νότος, χαλεπῶς ἔχουσι, διὰ τὸ\nμὴ εἶναι πτητικοί· ὑγρὸς γὰρ καὶ βαρὺς ὁ ἄνεμος· διὸ καὶ οἱ θηρεύοντες ἐπι-\nχειρῦσι τοῖς νοτίοις· <i>Coturnices, cum cadunt</i> (imo ὅταν πέτονται, <i>cum volant</i>),\n<i>si sudum coelum, et ventus ab aquilone est, sociantur, et quiete degunt. At, si</i>\n<i>auster est, graviter se habent, quia non facile volant; humidus enim et gravis est</i>\n<i>ventus. Quamobrem qui aucupantur, austrinis ventis eas aggrediuntur.</i> Et <i>Pli-</i>\n<i>nius</i> libro decimo capite vigesimo tertio, <i>Austro non volant, humido scilicet et</i>\n<i>gravi vento. Aura tamen vehi volunt, propter pondus corporum viresque par-</i>\n<i>vas,</i> etc. <i>Aquilone ergo maxime volant.</i> Et Solinus, <i>Austro nunquam exeunt:</i>\n<i>nam metuunt vim flatus tumidioris. Plurimum se aquilonibus credunt, ut corpora</i>\n<i>pinguiuscula, atque eo tarda, facilius provehat ficcior et vehementior spiritus.</i> Eo-\ndem facit, quod venti, <i>Ornithiae</i> dicti, quasi aves adducant, ab <i>aquilone</i>, aut\nsaltem ab <i>occasu</i> flare scribuntur. <i>Aristoteles</i> libro <i>De mundo</i>, Οἱ δὲ ὀρνιθίαι κα-\nλέμενοι, ἐαρινοί τινες ὄντες ἄνεμοι, βόρειοί εἰσι τῷ γένει. Quae <i>Budaeus</i> ita\nreddidit, <i>Ornithiae, quasi Aviarii, venti quidam dicti sunt ex Aquilonio genere,</i>\n<i>verno tempore invalescentes.</i> Sed <i>Apulejus</i> multo aliter, <i>Ornithiae verni (alii</i>\n<i>venti) aquilonum genus ex aëre prolati minori nisu, nec jugi perseverantia spiri-</i>\n<i>tus perferentes.</i> Quae scilicet non tam ex hoc loco petita sunt, quam ex <i>Meteo-</i>\n<i>rologicorum</i> libri secundi capite quinto, ubi <i>Ornithiae</i> dicuntur esse Ἐτησίαι\nἀσθενεῖς· ἐλάττες δὲ, καὶ ὀψιαίτεροι τῶν Ἐτησίων πνέοντες, <i>Etesiae debiles,</i>\n<i>sed quae veris Etesiis minores et tardiores sunt.</i> Quibus verbis Ornithiae Etesiis\nadscribuntur. Etesiae autem vel ab occiduo axe flant, vel a septentrionali plaga.\n<i>Diodorus</i> libro primo, Τὲς Ἐτησίας ἰδεῖν ἐστιν ὐδέν τι μᾶλλον ἀπὸ τῆς ἄρκτε",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "At unum potest objici, nempe <i>austro</i> flante non volare coturnices, <i>Aristo-</i>\n<i>teles Hist.</i> lib. 8. cap. 12. Οἱ δὲ ὄρτυγες, ὅταν πέσωσιν, ἐὰν μὲν εὐδία ᾖ βόρειον\nᾖ, συνδυάζονταί τε, καὶ ἠρεμῦσιν. ἐὰν δὲ νότος, χαλεπῶς ἔχουσι, διὰ τὸ\nμὴ εἶναι πτητικοί· ὑγρὸς γὰρ καὶ βαρὺς ὁ ἄνεμος· διὸ καὶ οἱ θηρεύοντες ἐπι-\nχειρῦσι τοῖς νοτίοις· <i>Coturnices, cum cadunt</i> (imo ὅταν πέτονται, <i>cum volant</i>),\n<i>si sudum coelum, et ventus ab aquilone est, sociantur, et quiete degunt. At, si</i>\n<i>auster est, graviter se habent, quia non facile volant; humidus enim et gravis est</i>\n<i>ventus. Quamobrem qui aucupantur, austrinis ventis eas aggrediuntur.</i> Et <i>Pli-</i>\n<i>nius</i> libro decimo capite vigesimo tertio, <i>Austro non volant, humido scilicet et</i>\n<i>gravi vento. Aura tamen vehi volunt, propter pondus corporum viresque par-</i>\n<i>vas,</i> etc. <i>Aquilone ergo maxime volant.</i> Et Solinus, <i>Austro nunquam exeunt:</i>\n<i>nam metuunt vim flatus tumidioris. Plurimum se aquilonibus credunt, ut corpora</i>\n<i>pinguiuscula, atque eo tarda, facilius provehat ficcior et vehementior spiritus.</i> Eo-\ndem facit, quod venti, <i>Ornithiae</i> dicti, quasi aves adducant, ab <i>aquilone</i>, aut\nsaltem ab <i>occasu</i> flare scribuntur. <i>Aristoteles</i> libro <i>De mundo</i>, Οἱ δὲ ὀρνιθίαι κα-\nλέμενοι, ἐαρινοί τινες ὄντες ἄνεμοι, βόρειοί εἰσι τῷ γένει. Quae <i>Budaeus</i> ita\nreddidit, <i>Ornithiae, quasi Aviarii, venti quidam dicti sunt ex Aquilonio genere,</i>\n<i>verno tempore invalescentes.</i> Sed <i>Apulejus</i> multo aliter, <i>Ornithiae verni (alii</i>\n<i>venti) aquilonum genus ex aëre prolati minori nisu, nec jugi perseverantia spiri-</i>\n<i>tus perferentes.</i> Quae scilicet non tam ex hoc loco petita sunt, quam ex <i>Meteo-</i>\n<i>rologicorum</i> libri secundi capite quinto, ubi <i>Ornithiae</i> dicuntur esse Ἐτησίαι\nἀσθενεῖς· ἐλάττες δὲ, καὶ ὀψιαίτεροι τῶν Ἐτησίων πνέοντες, <i>Etesiae debiles,</i>\n<i>sed quae veris Etesiis minores et tardiores sunt.</i> Quibus verbis Ornithiae Etesiis\nadscribuntur. Etesiae autem vel ab occiduo axe flant, vel a septentrionali plaga.\n<i>Diodorus</i> libro primo, Τὲς Ἐτησίας ἰδεῖν ἐστιν ὐδέν τι μᾶλλον ἀπὸ τῆς ἄρκτε"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "πνέοντας,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "πνέοντας,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„Videtur potius nomen קדים genera-\ntim dictum esse de vento, eoque vehemen-\ntiore, ut Psal. XLVIII, 8. Est enim genus\nparallelorum, haud quidem notatum Low-\nTHIO <i>de S. poesi Hebr.</i> praelect. XIX.\nnec tamen illud admodum infrequens, quo\nprimum aliquid universe dicitur et genera-\ntim, deinde vero designatur distinctius, vel-\nuti vs. 43. <i>quum ederet in Aegypto mira-</i>\n<i>cula sua, et prodigia sua in regione Ta-</i>\n<i>nes.</i> Atque sic Syrus etiam interpres\nlocum intellexisse videtur, qui vertit:\nܐܰܦ݁ܰܚ ܪܽܘܚܳܐ ܒ݁ܰܫܡܰܝܳܐ, <i>concita-</i>\n<i>vit ventos in coelo</i>, nisi malis enuntiare\nܪܽܘܚܳܐ, <i>ventum</i>“. Haec SCHNURRERUS\nloc. cit.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„Videtur potius nomen קדים genera-\ntim dictum esse de vento, eoque vehemen-\ntiore, ut Psal. XLVIII, 8. Est enim genus\nparallelorum, haud quidem notatum Low-\nTHIO <i>de S. poesi Hebr.</i> praelect. XIX.\nnec tamen illud admodum infrequens, quo\nprimum aliquid universe dicitur et genera-\ntim, deinde vero designatur distinctius, vel-\nuti vs. 43. <i>quum ederet in Aegypto mira-</i>\n<i>cula sua, et prodigia sua in regione Ta-</i>\n<i>nes.</i> Atque sic Syrus etiam interpres\nlocum intellexisse videtur, qui vertit:\nܐܰܦ݁ܰܚ ܪܽܘܚܳܐ ܒ݁ܰܫܡܰܝܳܐ, <i>concita-</i>\n<i>vit ventos in coelo</i>, nisi malis enuntiare\nܪܽܘܚܳܐ, <i>ventum</i>“. Haec SCHNURRERUS\nloc. cit."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Imo ex <i>Arabia felici</i> f. <i>Iemen</i>, ut\nbene observat OEDMANN Fasc. IV. p. 65.,\nubi et aliorum sententiae diiudicantur.",
+   "marker": "(7)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Imo ex <i>Arabia felici</i> f. <i>Iemen</i>, ut\nbene observat OEDMANN Fasc. IV. p. 65.,\nubi et aliorum sententiae diiudicantur."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI Hieroz. Tom. II. Pppp",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI Hieroz. Tom. II. Pppp"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2076,
+    1167
+   ],
+   [
+    2076,
+    1685
+   ]
+  ],
+  "input_tokens": 3444,
+  "output_tokens": 1453,
+  "cost_usd": 0.008,
+  "seconds": 15.2
+ }
+}

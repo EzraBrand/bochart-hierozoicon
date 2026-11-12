@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "696          <i>De gallinae affectu erga pullos suos.</i>          P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "696          <i>De gallinae affectu erga pullos suos.</i>          P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "λὰ μὴν καὶ ὄρνιθας καὶ ὀρνίθια νῦν μόνον ἡ συνήθεια καλεῖ τὰς θηλείας· <i>Nunc\nquidem fert consuetudo, ut solae</i> (gallorum) <i>foeminae</i> ὄρνιθες <i>dicantur et</i> ὀρνίθια.\nItaque in <i>Matthaeo</i> et <i>Luca</i> ὄρνις non est طير vel طاير <i>avis in genere</i>,\nut <i>Vulgatus</i> et <i>Arabum</i> unus in <i>Luca</i>, alter utroque loco reddit, sed دجاجة\n<i>gallina</i>, ut in <i>Matthaeo</i> habent <i>Vulgatus</i> et <i>Erpenianus Arabs</i>. Proinde <i>Syrus</i>\netiam constanter explicat ܐܦܪܘܚܐ, et <i>Aethiops</i> ደርሆ: id est, <i>galli-\nnam</i>. Ita etiam <i>Cyprianus</i>, et <i>Hilarius</i>, et <i>Hieronymus</i>, et <i>Augustinus</i>, et ple-\nrique veteres, praeter <i>Ambrosium</i> in <i>Lucam</i>, ubi hic locus ita redditur: <i>Quoties\nvolui congregare filios tuos, ut avis nidum suum sub pennis?</i> Sed id gallinae ma-\nxime proprium est, quod non solum ovis incubat, quomodo reliquae aves, sed\net pullos jam editos sub alis congregat, ut materno calore foveantur et vegeten- ⟦p. 126⟧\ntur. Unde est, quod <i>Arabice</i> cognominatur ام حفصة <i>mater congregatio-\nnis</i>. Ita diserte scribunt insignes duo <i>Lexicographi Giauhari</i> et <i>Alcamus</i>, et e\nnaturae scriptoribus saepe a nobis citatus <i>Damir</i>. Hujus gallinae Φιλοστοργίας\necce illustre exemplum ex <i>Alpheo Mitylenaeo Anthologiae</i> lib. 1. cap. 87.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "λὰ μὴν καὶ ὄρνιθας καὶ ὀρνίθια νῦν μόνον ἡ συνήθεια καλεῖ τὰς θηλείας· <i>Nunc\nquidem fert consuetudo, ut solae</i> (gallorum) <i>foeminae</i> ὄρνιθες <i>dicantur et</i> ὀρνίθια.\nItaque in <i>Matthaeo</i> et <i>Luca</i> ὄρνις non est طير vel طاير <i>avis in genere</i>,\nut <i>Vulgatus</i> et <i>Arabum</i> unus in <i>Luca</i>, alter utroque loco reddit, sed دجاجة\n<i>gallina</i>, ut in <i>Matthaeo</i> habent <i>Vulgatus</i> et <i>Erpenianus Arabs</i>. Proinde <i>Syrus</i>\netiam constanter explicat ܐܦܪܘܚܐ, et <i>Aethiops</i> ደርሆ: id est, <i>galli-\nnam</i>. Ita etiam <i>Cyprianus</i>, et <i>Hilarius</i>, et <i>Hieronymus</i>, et <i>Augustinus</i>, et ple-\nrique veteres, praeter <i>Ambrosium</i> in <i>Lucam</i>, ubi hic locus ita redditur: <i>Quoties\nvolui congregare filios tuos, ut avis nidum suum sub pennis?</i> Sed id gallinae ma-\nxime proprium est, quod non solum ovis incubat, quomodo reliquae aves, sed\net pullos jam editos sub alis congregat, ut materno calore foveantur et vegeten- ⟦p. 126⟧\ntur. Unde est, quod <i>Arabice</i> cognominatur ام حفصة <i>mater congregatio-\nnis</i>. Ita diserte scribunt insignes duo <i>Lexicographi Giauhari</i> et <i>Alcamus</i>, et e\nnaturae scriptoribus saepe a nobis citatus <i>Damir</i>. Hujus gallinae Φιλοστοργίας\necce illustre exemplum ex <i>Alpheo Mitylenaeo Anthologiae</i> lib. 1. cap. 87."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Χειμερίαις νιφάδεσσι παλυνομένα τιθὰς ὄρνις\n   Τέκνοις εὐναίας ἀμφέχεε πτέρυγας·\nΜέσφά μιν ὀράνιον κρύος ὤλεσεν. ἦ γὰρ ἔμεινεν\n   Αἰθέρος ὀρανίων ἀντίπαλος νεφέων.\nΠρόκνη, καὶ Μήδεια, κατ’ ἀΐδος αἰδέσθητε,\n   Μητέρες, ὀρνιθίων ἔργα διδασκόμεναι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χειμερίαις νιφάδεσσι παλυνομένα τιθὰς ὄρνις\n   Τέκνοις εὐναίας ἀμφέχεε πτέρυγας·\nΜέσφά μιν ὀράνιον κρύος ὤλεσεν. ἦ γὰρ ἔμεινεν\n   Αἰθέρος ὀρανίων ἀντίπαλος νεφέων.\nΠρόκνη, καὶ Μήδεια, κατ’ ἀΐδος αἰδέσθητε,\n   Μητέρες, ὀρνιθίων ἔργα διδασκόμεναι."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hyemalibus nivibus aspersa mitis gallina pullis soporiferas circumfudit alas: donec\nillam perdidit coeleste frigus. Certe permansit coelestium oppugnatrix nubium.\nO matres, Progne et Medea, in Inferis erubescite, gallinarum opera discentes</i>.\nEt eximius scriptor <i>Plutarchus</i> in libro <i>De philostorgia</i> ob oculos rem ita ponit,\nΤὰς δὲ ἀλεκτορίδας ἐν τοῖς ὄμμασι καθ’ ἡμέραν ἔχομεν, ὃν τρόπον τὰ νεοττία\nπεριέπεσι, τοῖς μὲν ἐνδῦναι χαλῶσαι τὰς πτέρυγας, τὰ δὲ ἐπιβαίνοντα τῶν\nνώτων, καὶ προσέρχονται πανταχόθεν ἀναδεχόμεναι, μετὰ τῦ γεγηθὸς, ἦ\nκαὶ προσφιλὲς ἐπιφθέγγεσθαι. κυνέας δὲ, καὶ δρακοντίας</i> (lege</i> κύνας δὲ, καὶ\nδράκοντας</i>, vel</i> δρακόντια) ἂν περὶ αὐτῶν φοβηθῶσι φεύγεσιν· ἂν δὲ περὶ\nτῶν τέκνων, ἀμύνονται, καὶ διαμάχονται παρὰ δύναμιν. <i>Gallinae autem,\nquae quotidie oculis nostris obversantur, quanta cura pullos suos tuentur, aliis qui-\ndem alas, quas subeunt remittentes, aliis autem dorsum conscendentibus? Et acce-\ndunt undequaque suspicientes, ita, ut gaudium et amorem voce testentur. Canes\nautem et dracones, si sibi metuant, fugiunt: at pullis si metuant, propulsant, et\nsupra vires dimicant</i>. Quod ipsum his verbis observat <i>Augustinus</i> in <i>Quaestioni-\nbus Evangelicis</i> lib. 1. quaest. 36. <i>Quod difficilius in caeteris animantibus invenies</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hyemalibus nivibus aspersa mitis gallina pullis soporiferas circumfudit alas: donec\nillam perdidit coeleste frigus. Certe permansit coelestium oppugnatrix nubium.\nO matres, Progne et Medea, in Inferis erubescite, gallinarum opera discentes</i>.\nEt eximius scriptor <i>Plutarchus</i> in libro <i>De philostorgia</i> ob oculos rem ita ponit,\nΤὰς δὲ ἀλεκτορίδας ἐν τοῖς ὄμμασι καθ’ ἡμέραν ἔχομεν, ὃν τρόπον τὰ νεοττία\nπεριέπεσι, τοῖς μὲν ἐνδῦναι χαλῶσαι τὰς πτέρυγας, τὰ δὲ ἐπιβαίνοντα τῶν\nνώτων, καὶ προσέρχονται πανταχόθεν ἀναδεχόμεναι, μετὰ τῦ γεγηθὸς, ἦ\nκαὶ προσφιλὲς ἐπιφθέγγεσθαι. κυνέας δὲ, καὶ δρακοντίας</i> (lege</i> κύνας δὲ, καὶ\nδράκοντας</i>, vel</i> δρακόντια) ἂν περὶ αὐτῶν φοβηθῶσι φεύγεσιν· ἂν δὲ περὶ\nτῶν τέκνων, ἀμύνονται, καὶ διαμάχονται παρὰ δύναμιν. <i>Gallinae autem,\nquae quotidie oculis nostris obversantur, quanta cura pullos suos tuentur, aliis qui-\ndem alas, quas subeunt remittentes, aliis autem dorsum conscendentibus? Et acce-\ndunt undequaque suspicientes, ita, ut gaudium et amorem voce testentur. Canes\nautem et dracones, si sibi metuant, fugiunt: at pullis si metuant, propulsant, et\nsupra vires dimicant</i>. Quod ipsum his verbis observat <i>Augustinus</i> in <i>Quaestioni-\nbus Evangelicis</i> lib. 1. quaest. 36. <i>Quod difficilius in caeteris animantibus invenies</i>,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>aliis</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>aliis</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1869,
+    1150
+   ],
+   [
+    1869,
+    1670
+   ]
+  ],
+  "input_tokens": 3411,
+  "output_tokens": 1329,
+  "cost_usd": 0.0075,
+  "seconds": 15.3
+ }
+}

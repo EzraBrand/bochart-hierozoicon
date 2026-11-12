@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XX. <i>De Pavonibus.</i> 709",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XX. <i>De Pavonibus.</i> 709"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XX.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XX."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Pavonibus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Pavonibus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "De pavone est insignis locus <i>1 Reg. X, 22.</i> et <i>2 Par. IX, 21.</i> <i>Semel singulis tri-</i> ⟦p. 136⟧\n<i>enniis ibat</i> (Solomonis) <i>classis in</i> Tharsis, <i>et afferebat aurum et argentum,</i>\n<i>dentes elephantinos, simias et pavones.</i> Hebraeum <i>pavonum</i> nomen תכיים <i>thou-</i>\n<i>cijim</i>, vel תוכיים <i>thuccijim</i>, <i>Graeci</i> interpretes reliquerunt ἀνεϱμήνευτον, quia\nnon intellexerunt. Sed <i>pavones</i> explicant <i>Chaldaeus</i>, <i>Syrus</i>, <i>Arabs</i> et <i>Latinus</i>\ninterpres, et ex <i>Hebraeis</i> quotquot sunt alicujus nominis, <i>R. Selomo</i>, <i>R. Levi</i>,\n<i>Kimchius</i>, <i>Pomarius</i>, <i>Aquinas.</i> Obscuri enim et ignoti sunt, qui apud <i>Kim-</i>\n<i>chium</i> in <i>Lexico</i> גאטו מימון <i>gato maimon</i>, id est, <i>cercopithecum</i> reddunt. Ita\netiam qui <i>psittacum</i>, quod in margine notat <i>Iunius</i> ^{(1)}. Itaque cur hos sequi\nmaluerit <i>Deodatius</i> ὁ μακαϱίτης, nullus capio. A recepta versione recedere pa-\nrum tutum est, nisi graves causae subsint, quales hic nullas video. De vocis\norigine ita <i>Mercerus</i> in <i>Thesauro</i>: <i>Vox videtur peregrina. Etymon enim est igno-</i>\n<i>tum. Forsan a percutiendo per onomatopaeam.</i> Galli nimirum vocibus <i>toc, toc,</i>\nὀνοματοποιητικῶς sonum exprimunt pulsantis fores. Unde <i>toquer</i> est <i>percutere,</i>\nut <i>Italice toccare.</i> Sed, ut haec fere arbitraria sunt, <i>Hebraeis</i> תוך תוך <i>thoc</i>\n<i>thoc</i> dicitur de sono bullientis ollae. Sic in <i>Berachoth</i> cap. 6. fol. 39. a. דיתיב\nאבי תפי ועביד תוך תוך, <i>Quod positum est in loco positionis</i> (ollarum ad ignem),\n<i>et facit thoc thoc.</i> Sed quoquomodo intelligas, nihil hoc ad pavonem. Neque\nulla potest fingi ratio, cur a percutiendo dicatur. Aliud igitur sentio, nempe\npavones inversa voce dictos תוכיים <i>thuccijim</i>, pro כותיים <i>cuthijim</i>, quasi <i>Cuthae-</i>\n<i>os</i> dixeris, seu <i>Persicos.</i> Nam <i>Cuth</i> (al. <i>Chuth</i>) est in <i>Perside.</i> <i>Iosephus Anti-</i>\n<i>quitatum</i> libro nono fere in fine, Οἱ δὲ μετοικισθέντες εἰς Σαμάϱειαν Χουθαῖοι\n(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-\nμένης χώϱας μεταχθῆναι, αὕτη δ᾽ ἐστὶν ἐν τῇ Πεϱσίδι, καὶ ποταμὸς τοῦ τ᾽ ἔχων\nὄνομα). Chuthaei <i>in</i> Samariam <i>deportati</i> (<i>Sic enim tum appellabantur, quia ex</i>\nChutha <i>regione translati fuerant, quae regio est in</i> Perside, <i>ubi et amnis ejusdem</i>\n<i>nominis</i>).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De pavone est insignis locus <i>1 Reg. X, 22.</i> et <i>2 Par. IX, 21.</i> <i>Semel singulis tri-</i> ⟦p. 136⟧\n<i>enniis ibat</i> (Solomonis) <i>classis in</i> Tharsis, <i>et afferebat aurum et argentum,</i>\n<i>dentes elephantinos, simias et pavones.</i> Hebraeum <i>pavonum</i> nomen תכיים <i>thou-</i>\n<i>cijim</i>, vel תוכיים <i>thuccijim</i>, <i>Graeci</i> interpretes reliquerunt ἀνεϱμήνευτον, quia\nnon intellexerunt. Sed <i>pavones</i> explicant <i>Chaldaeus</i>, <i>Syrus</i>, <i>Arabs</i> et <i>Latinus</i>\ninterpres, et ex <i>Hebraeis</i> quotquot sunt alicujus nominis, <i>R. Selomo</i>, <i>R. Levi</i>,\n<i>Kimchius</i>, <i>Pomarius</i>, <i>Aquinas.</i> Obscuri enim et ignoti sunt, qui apud <i>Kim-</i>\n<i>chium</i> in <i>Lexico</i> גאטו מימון <i>gato maimon</i>, id est, <i>cercopithecum</i> reddunt. Ita\netiam qui <i>psittacum</i>, quod in margine notat <i>Iunius</i> ^{(1)}. Itaque cur hos sequi\nmaluerit <i>Deodatius</i> ὁ μακαϱίτης, nullus capio. A recepta versione recedere pa-\nrum tutum est, nisi graves causae subsint, quales hic nullas video. De vocis\norigine ita <i>Mercerus</i> in <i>Thesauro</i>: <i>Vox videtur peregrina. Etymon enim est igno-</i>\n<i>tum. Forsan a percutiendo per onomatopaeam.</i> Galli nimirum vocibus <i>toc, toc,</i>\nὀνοματοποιητικῶς sonum exprimunt pulsantis fores. Unde <i>toquer</i> est <i>percutere,</i>\nut <i>Italice toccare.</i> Sed, ut haec fere arbitraria sunt, <i>Hebraeis</i> תוך תוך <i>thoc</i>\n<i>thoc</i> dicitur de sono bullientis ollae. Sic in <i>Berachoth</i> cap. 6. fol. 39. a. דיתיב\nאבי תפי ועביד תוך תוך, <i>Quod positum est in loco positionis</i> (ollarum ad ignem),\n<i>et facit thoc thoc.</i> Sed quoquomodo intelligas, nihil hoc ad pavonem. Neque\nulla potest fingi ratio, cur a percutiendo dicatur. Aliud igitur sentio, nempe\npavones inversa voce dictos תוכיים <i>thuccijim</i>, pro כותיים <i>cuthijim</i>, quasi <i>Cuthae-</i>\n<i>os</i> dixeris, seu <i>Persicos.</i> Nam <i>Cuth</i> (al. <i>Chuth</i>) est in <i>Perside.</i> <i>Iosephus Anti-</i>\n<i>quitatum</i> libro nono fere in fine, Οἱ δὲ μετοικισθέντες εἰς Σαμάϱειαν Χουθαῖοι\n(ταύτῃ γὰϱ ἐχϱῶντο μέχϱι δεῦϱο τῇ πϱοσηγοϱίᾳ, διὰ τὸ ἐκ τῆς Χουθᾶς καλου-\nμένης χώϱας μεταχθῆναι, αὕτη δ᾽ ἐστὶν ἐν τῇ Πεϱσίδι, καὶ ποταμὸς τοῦ τ᾽ ἔχων\nὄνομα). Chuthaei <i>in</i> Samariam <i>deportati</i> (<i>Sic enim tum appellabantur, quia ex</i>\nChutha <i>regione translati fuerant, quae regio est in</i> Perside, <i>ubi et amnis ejusdem</i>\n<i>nominis</i>)."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Vvvv 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vvvv 3"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Scribit PLINIUS <i>Hist. Nat.</i> L. X.\nc. 42. §. 58. <i>Psittacum</i> in India vocari <i>Sit-</i>\n<i>tacen.</i> Quod nomen ADR. RELANDUS in\n<i>Dissertatt. Miscellann.</i> P. I. p. 184. factum\nexistimat ex <i>Tedac</i>, et hoc a חך: „sive, in-\nquit, a חך geminata prima, vel addita,\nsimilis soni litera, fecerint alii [?], sive\nex <i>Tedac</i>, rejecta ob soni similitudinem\nalterutra priorum literarum, natum sit חך“.\nQuod quam lubricum sit atque incertum,\nquisque intelliget ipse. Praetermitto alio-\nrum de hoc vocabulo somnia, quae qui sci-\nre cupit, adeat SIMONIS <i>Lexic.</i> sub voce.\nEquidem acquiescendum putem in iis, quae\nBochartus acute non minus quam docte hic\ndisputavit.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Scribit PLINIUS <i>Hist. Nat.</i> L. X.\nc. 42. §. 58. <i>Psittacum</i> in India vocari <i>Sit-</i>\n<i>tacen.</i> Quod nomen ADR. RELANDUS in\n<i>Dissertatt. Miscellann.</i> P. I. p. 184. factum\nexistimat ex <i>Tedac</i>, et hoc a חך: „sive, in-\nquit, a חך geminata prima, vel addita,\nsimilis soni litera, fecerint alii [?], sive\nex <i>Tedac</i>, rejecta ob soni similitudinem\nalterutra priorum literarum, natum sit חך“.\nQuod quam lubricum sit atque incertum,\nquisque intelliget ipse. Praetermitto alio-\nrum de hoc vocabulo somnia, quae qui sci-\nre cupit, adeat SIMONIS <i>Lexic.</i> sub voce.\nEquidem acquiescendum putem in iis, quae\nBochartus acute non minus quam docte hic\ndisputavit."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1760,
+    1123
+   ],
+   [
+    1760,
+    1685
+   ]
+  ],
+  "input_tokens": 8321,
+  "output_tokens": 2130,
+  "cost_usd": 0,
+  "seconds": 553.1
+ }
+}

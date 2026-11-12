@@ -211,6 +211,70 @@ ENTRIES = {
                               "Sirach 11, and on the true partridge, its tameness and its use as a decoy",
                      "terms": '"perdix" -> "partridge"; "perdix venator" -> "hunter partridge" (Bochart\'s rendering '
                               'of θηρευτής; not "decoy"); "cavea" -> "cage"; "cicur" -> "tame"; "laqueus" -> "snare";'},
+    # Tranche 4, 12-Nov-2026: Pars II, Book I, chs. 14-20 (uv run find_chapters.py 648 760).
+    "selav": {"vol": 2, "pages": list(range(648, 657)),
+              "title": "Part 2, Book 1, chapter 14: The names of the quail, and its kinds according to the "
+                       "Hebrews (vol. 2, pp. 648–655)",
+              "start": r"^CAP\.\s*XIV\.", "end": r"^CAP\.\s*XV\.", "first_col": 91,
+              "about": "the chapter on the names of the quail, Hebrew שלו (selau), Arabic سلوي and سماني, and on "
+                       "the four kinds that the Talmud counts: sichli (συκαλίς), kichli (κίχλη), pasyoni (the "
+                       "pheasant) and selav",
+              "terms": '"coturnix" -> "quail"; "ortygometra" -> "ortygometra" (the Latin name is kept); '
+                       '"phasianus" -> "pheasant"; "turdus" -> "thrush"; "ficedula" -> "fig-pecker"; "locusta" -> '
+                       '"locust"; "selau"/"selav" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "selav-quaestiones": {"vol": 2, "pages": list(range(656, 677)),
+                          "title": "Part 2, Book 1, chapter 15: Five questions about the quails of Moses "
+                                   "(vol. 2, pp. 656–675)",
+                          "start": r"^CAP\.\s*XV\.", "end": r"^CAP\.\s*XVI\.", "first_col": 96,
+                          "about": "the chapter that answers five questions about the quails of Exod 16 and Num 11: "
+                                   "how many times God gave quails to the Israelites, whether the quail is "
+                                   "wholesome food, from where the quails came, how many came, and what the "
+                                   "punishment of those who ate them was",
+                          "terms": '"coturnix" -> "quail"; "ortygometra" -> "ortygometra"; "auster" -> "south wind"; '
+                                   '"eurus" -> "east wind"; "chomer"/"corus" -> "homer"/"cor" (the measures); '
+                                   '"cubitus" -> "cubit"; "selau"/"selav" stays as printed;'},
+    "gallinaceum": {"vol": 2, "pages": list(range(676, 689)),
+                    "title": "Part 2, Book 1, chapter 16: Twelve passages of Scripture that some interpreters refer "
+                             "to the cock and the hen (vol. 2, pp. 676–687)",
+                    "start": r"^CAP\.\s*XVI\.", "end": r"^CAP\.\s*XVII\.", "first_col": 109,
+                    "about": "the chapter that examines twelve passages of the Old Testament which some interpreters "
+                             "refer to the gallinaceous kind (Lev 14:4; 1 Kgs 4:23; 2 Kgs 17:30; Job 3:7; 38:32; "
+                             "38:36; 39:13; Ps 50:11; 80:14; Prov 30:31; Eccl 12:4; Isa 22:17)",
+                    "terms": '"gallus"/"gallus gallinaceus" -> "cock"; "gallina" -> "hen"; "gallinaceum genus" -> '
+                             '"the gallinaceous kind"; "capo" -> "capon"; Bochart\'s romanized Hebrew and Aramaic '
+                             '(sechvi, zarzir, tarnegol, abacha, achaba, geber) stays as printed;'},
+    "galli-cantus": {"vol": 2, "pages": list(range(688, 696)),
+                     "title": "Part 2, Book 1, chapter 17: The crowing of the cock (vol. 2, pp. 688–694)",
+                     "start": r"^CAP\.\s*XVII\.", "end": r"^CAP\.\s*XVIII\.", "first_col": 119,
+                     "about": "the chapter on the crowing of the cock in the New Testament (the denial of Peter), "
+                              "the times of cockcrow, and the Jewish and Arabic accounts of the cock",
+                     "terms": '"gallus" -> "cock"; "galli cantus" -> "the crowing of the cock"; "gallicinium" -> '
+                              '"cockcrow"; "canere" (of the cock) -> "crow"; "vigilia" -> "watch" (of the night);'},
+    "gallina-pulli": {"vol": 2, "pages": list(range(695, 699)),
+                      "title": "Part 2, Book 1, chapter 18: The hen's love for her chicks (vol. 2, pp. 695–697)",
+                      "start": r"^CAP\.\s*XVIII\.", "end": r"^CAP\.\s*XIX\.", "first_col": 124,
+                      "about": "the chapter on the hen's love for her chicks (Matt 23:37; Luke 13:34)",
+                      "terms": '"gallina" -> "hen"; "pulli" -> "chicks"; "gallus" -> "cock"; "alae" -> "wings";'},
+    "barburim": {"vol": 2, "pages": list(range(698, 710)),
+                 "title": "Part 2, Book 1, chapter 19: What the barburim abusim on the table of Solomon were "
+                          "(1 Kgs 4:23) (vol. 2, pp. 698–708)",
+                 "start": r"^CAP\.\s*XIX\.", "end": r"^CAP\.\s*XX\.", "first_col": 126,
+                 "about": "the chapter on the ברבורים אבוסים (barburim abusim, 'fattened barburim') of the table of "
+                          "Solomon, 1 Kgs 4:23 (5:3): the interpretations (cocks, capons, birds of the vivarium, "
+                          "birds from Barbary) and Bochart's own, the choicest fattened fowl",
+                 "terms": '"barburim"/"barbur" stay as printed (never "fowl", "swans" or "geese" for the Hebrew '
+                          'word: the identity of the bird is what the chapter argues about); "saginatus" -> '
+                          '"fattened"; "altilia"/"altiles" -> "fattened fowl"; "capo" -> "capon"; "gallus" -> '
+                          '"cock"; "vivarium" -> "vivarium"; "bibar" stays as printed;'},
+    "tukkiyim": {"vol": 2, "pages": list(range(709, 722)),
+                 "title": "Part 2, Book 1, chapter 20: The peacocks (vol. 2, pp. 709–720)",
+                 "start": r"^CAP\.\s*XX\.", "end": r"^CAP\.\s*XXI\.", "first_col": 135,
+                 "about": "the chapter on the תכיים (thuccijim) that the ships of Solomon brought (1 Kgs 10:22; "
+                          "2 Chr 9:21), which Bochart takes as peacocks, with the peacock in the ancient authors, "
+                          "and on ivory and ebony (hobnim, Ezek 27:15)",
+                 "terms": '"pavo" -> "peacock"; "psittacus" -> "parrot"; "simia" -> "ape"; "cercopithecus" -> '
+                          '"long-tailed monkey"; "ebur" -> "ivory"; "ebenus"/"hebenus" -> "ebony"; "thuccijim", '
+                          '"hobnim", "algumim" (Bochart\'s romanized Hebrew) stay as printed;'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -313,7 +377,46 @@ FIXES = {
     634: [('קר[?]', 'קר')],
     # (the pairs with [?] above: a smear over the left margin of pp. 595, 597 and 613 in the scan hides one to
     # six letters at the line start; restored from the letters that show and the sense, 11-Nov-2026)
+    # tranche 4 (scan check 12-Nov-2026, apply_review.py): the print differs from the vote's text
+    650: [('ፈረፈረት:', 'ፈርፈርት፡')],
+    651: [('ἐστί·', 'ἐστὶ·'), ('ἡλίκη τρυγὼν,', 'ἡ λίκη τρυγὼν,')],  # the second: a reader's APPLY that vote.ACCEPT does not apply
+    655: [('φοινικέους', 'φοινικέου')],
+    662: [('ἀλλήλοιιν·', 'ἀλλήλοιϊν·')],
+    675: [('לעז', 'לע״ז')],
+    676: [('Ἀνίβα', 'Ἀννίβα')],
+    679: [('رمّون', 'ܪܡܘܢ')],
+    681: [('ὄσα.', 'οὖσα.'), ('بنو', 'بنى')],
+    684: [('ܬܪܢܓܠܐ', 'ܬܪܢܓܘܠ'), ('ܕܡܬܪܘܪܒ', 'ܕܡܙܕܪܟܠ'), ('rescribendum אבכא דמודרכל', 'rescribendum אבכא דמזדרכל')],
+    685: [('rescribendum דמודרכל,', 'rescribendum דמזדרכל,'), ('lud דמודרכל', 'lud דמזדרכל'), ('ܕܡܙܪܙܠ in', 'ܕܡܙܕܪܟܠ in'), ('דמזורכיל.', 'דמזדרכיל.'), ('דמזרזו,', 'דמזרז,'), ('ܕܡܙܪܙܠ ܒܝܢܬ', 'ܕܡܙܕܪܟܠ ܒܝܢܬ'), ('ܙܪܙܠ,', 'ܕܪܟܠ,')],
+    696: [('ዶሮ፡', 'ዶርሆ፡')],
+    715: [('⟦p. 140⟧', '⟦p. 141⟧'), ('Ὀρ-', 'Ὁρ-')],
+    716: [('φορους', 'φόρους')],
+    718: [('εὐχροιν,', 'εὔχρουν,')],
+    719: [('بادم', 'بادر')],
+    # tranche 4 (12-Nov-2026): words the OCR left open or misread, read on the scan at 4x to 6x.
+    # p. 648 the Ethiopic word of the chapter head; p. 649 the [?] was the row of vowel signs over the
+    # Arabic word; p. 680 the Greek article was read as Hebrew; pp. 684-685 the Aramaic of Prov 30:31
+    # (the narrow letter after מ is ז by the Syriac ܕܡܙܕܪܟܠ; ו and ז hardly differ in this type);
+    # p. 699 the four Syriac words (the second and third letters of words 3 and 4 are not certain);
+    # p. 709 Reland's Arabic word (Tedac); p. 715 the margin number: the last digit is damaged, 141 by
+    # the sequence (p. 714 has 140, p. 717 has 142)
+    648: [('سماني, [?]', 'سماني, ፈርፈርት')],
+    649: [('Ar.\n[?]\nسمرمر', 'Ar.\nسمرمر')],
+    # p. 661: note (3) has no mark in the text of the print; put after the verses it refers to, so that the note is kept
+    661: [('LXXVIII, 26. 27.</i>', 'LXXVIII, 26. 27.</i>^{(3)}')],
+    680: [('quum זגתא עם', 'quum τῷ זגתא')],
+    698: [('דמשתכחאביני', 'דמשתכחא ביני'), ('recense-\nri ברבו׳', 'recense-\nri ברבורי׳'), ('pro ברבו׳', 'pro ברבר׳')],
+    699: [('vocibus [?], et [?], et [?], et [?].', 'vocibus ܓܓܘܠܬܐ, et ܩܝܩܘܠܬܐ, et ܨܘܨܠܬܐ, et ܫܘܫܠܬܐ.')],
+    # p. 709, Reland's note: the Hebrew word is תך (the left leg has a foot), read as חך three times; found in
+    # the English after the translation. p. 684: the Syriac word, as on p. 685
+    709: [('alii [?],', 'alii تدك,'), ('hoc a חך:', 'hoc a תך:'), ('a חך geminata', 'a תך geminata'), ('natum sit חך', 'natum sit תך')],
 }
+# A page number written twice in the FIXES literal: Python keeps only the second list, without a word
+# (tranche 4 lost two pairs that way until a check found it). Stop at import.
+_src = Path(__file__).read_text(encoding="utf-8")
+_keys = re.findall(r"^    (\d+): \[", _src[_src.index("\nFIXES = {"):_src.index("\n# A page number written twice")], re.M)
+if len(_keys) != len(set(_keys)):
+    sys.exit(f"entry.FIXES: page(s) listed twice: {sorted({k for k in _keys if _keys.count(k) > 1})}")
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]
 NOTE_MARK = re.compile(r"\^\{(\(\d+\)|[a-z]\))\}")
@@ -486,6 +589,54 @@ def render(title: str, main: list[dict], notes: list[dict]) -> str:
     return "\n".join(out)
 
 
+def pending(name: str, model: str, effort: str, main_blocks: list[dict], notes: list[dict]) -> tuple[dict, dict]:
+    """The translation chunks of a chapter that are not cached yet -> (request bodies, {id: (chunk, cache)})."""
+    import translate as T
+    cfg = ENTRIES[name]
+    T.CHAPTER = {"about": cfg["about"], "terms": cfg.get("terms", "")} if cfg.get("about") else None
+    bodies, todo = {}, {}
+    for kind, blocks in (("text", main_blocks), ("notes", notes)):
+        for i, ch in enumerate(chunks(blocks), 1):
+            src_key = hashlib.sha1(json.dumps([T.RULES_VERSION, model, effort, ch], ensure_ascii=False)
+                                   .encode("utf-8")).hexdigest()[:16]
+            cache = DATA / "entries" / name / "chunks" / f"{kind}-{i:03d}-{src_key}.json"
+            if not cache.exists():
+                bodies[f"{kind}-{i:03d}"] = T.request_body(ch, effort, notes=kind == "notes")
+                todo[f"{kind}-{i:03d}"] = (ch, cache)
+    return bodies, todo
+
+
+def save_batch(res: dict, todo: dict, model: str, effort: str, seconds: float, prefix: str = "") -> None:
+    import translate as T
+    for cid, (ch, cache) in todo.items():
+        try:
+            r = T.parse(res.get(prefix + cid, {"error": "no result"}), len(ch), model, effort, seconds)
+        except Exception as e:
+            print(f"{prefix}{cid}: FAILED {type(e).__name__}: {e} (the sync loop of entry.py retries it)", flush=True)
+            continue
+        cache.parent.mkdir(exist_ok=True)
+        cache.write_text(json.dumps(r, ensure_ascii=False), encoding="utf-8")
+
+
+def batch_all(names: list[str], model: str, effort: str, tag: str) -> None:
+    """One OpenRouter batch for the chunks of several chapters (tranche.py translate, 12-Nov-2026); then
+    `entry.py NAME --batch` finds every chunk cached and only does the fixed steps."""
+    import orbatch
+    bodies, todos = {}, {}
+    for name in names:
+        main_blocks, notes = build(ENTRIES[name])
+        b, todos[name] = pending(name, model, effort, main_blocks, notes)
+        # the batch's custom_id takes only [A-Za-z0-9_-]
+        bodies.update({f"{name}__{cid}": body for cid, body in b.items()})
+        print(f"{name}: {len(b)} chunks to translate", flush=True)
+    if not bodies:
+        return
+    t = time.monotonic()
+    res = orbatch.run_batch(model, bodies, log_name=f"translate_{tag}_{effort}_{len(bodies)}")
+    for name in names:
+        save_batch(res, todos[name], model, effort, time.monotonic() - t, prefix=f"{name}__")
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("entry", choices=ENTRIES)
@@ -516,26 +667,11 @@ def main():
     en_main, en_notes, cost = [], [], 0.0
     if a.batch:  # all chunks not cached yet in one OpenRouter batch (half price); then the loop reads the cache
         import orbatch
-        bodies, todo = {}, {}
-        for kind, blocks in (("text", main_blocks), ("notes", notes)):
-            for i, ch in enumerate(chunks(blocks), 1):
-                src_key = hashlib.sha1(json.dumps([T.RULES_VERSION, a.model, a.effort, ch], ensure_ascii=False)
-                                       .encode("utf-8")).hexdigest()[:16]
-                cache = out / "chunks" / f"{kind}-{i:03d}-{src_key}.json"
-                if not cache.exists():
-                    bodies[f"{kind}-{i:03d}"] = T.request_body(ch, a.effort, notes=kind == "notes")
-                    todo[f"{kind}-{i:03d}"] = (ch, cache)
+        bodies, todo = pending(a.entry, a.model, a.effort, main_blocks, notes)
         if bodies:
             t = time.monotonic()
             res = orbatch.run_batch(a.model, bodies, log_name=f"translate_{a.entry}_{a.effort}_{len(bodies)}")
-            for cid, (ch, cache) in todo.items():
-                try:
-                    r = T.parse(res.get(cid, {"error": "no result"}), len(ch), a.model, a.effort, time.monotonic() - t)
-                except Exception as e:
-                    print(f"{cid}: FAILED {type(e).__name__}: {e} (the sync loop below retries it)", flush=True)
-                    continue
-                cache.parent.mkdir(exist_ok=True)
-                cache.write_text(json.dumps(r, ensure_ascii=False), encoding="utf-8")
+            save_batch(res, todo, a.model, a.effort, time.monotonic() - t)
     for kind, blocks, target in (("text", main_blocks, en_main), ("notes", notes, en_notes)):
         for i, ch in enumerate(chunks(blocks), 1):
             # each chunk is saved when done, keyed by its source and the rules: a stopped run resumes

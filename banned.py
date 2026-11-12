@@ -35,6 +35,10 @@ RULES = {
     "kore": [PIGEON, PARTRIDGE],
     "perdix-cavea": [PIGEON, (r"\bdecoys?\b", r"illic|illex|allect|παλευ")],
 }
+# tranche 4: barburim stays barburim (the English must not decide the bird)
+RULES["barburim"] = [PIGEON, (r"\bswans?\b", r"cygn|olor|κύκν"), (r"\bgeese\b|\bgoose\b", r"anser|χ[ήη]ν")]
+for e in ("selav", "selav-quaestiones", "gallinaceum", "galli-cantus", "gallina-pulli", "tukkiyim"):
+    RULES[e] = [PIGEON, (r"\broosters?\b", "")]
 for e in ("jonah", "columba-pennae", "columbaria", "columba-mores", "columba-sacrificia", "columba-noachi",
           "chiryonim"):
     RULES[e] = [PIGEON, WOOD_PIGEON]

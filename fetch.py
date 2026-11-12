@@ -47,6 +47,10 @@ SAMPLE = [
     # the partridge in the cage; pp. 590-647); p. 648 (CAP. XIV, the quail) for the join. Chapter heads:
     # logs/find_chapters_t3_*.log.
     *[(2, c, "birds2") for c in range(607, 665)],
+    # Tranche 4 (12-Nov-2026): Pars II, Book I, chs. 14-20 (the quail and its five questions, the
+    # gallinaceous kind, the cock's crow, the hen, the barburim, the peacocks; pp. 648-720); p. 721
+    # (CAP. XXI, tsippor) for the join. Chapter heads: uv run find_chapters.py 648 760.
+    *[(2, c, "birds3") for c in range(665, 738)],
 ]
 
 session = requests.Session()

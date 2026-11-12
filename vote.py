@@ -114,6 +114,13 @@ REJECT = {
     ("v2-0454", "kipp[?]d"): "smeared right edge of the scan",
     ("v2-0437", "στον"): "print στ ligature (δυσανταγωνι-|στον)",
     ("v2-0441", "metalla"): "print metalla (the m looks like in)",
+    # tranche 4 (scan check 12-Nov-2026)
+    ('v2-0656', 'X'): 'scan check',
+    ('v2-0661', 'κατασκεύαζον.'): 'scan check',
+    ('v2-0673', 'ἐσθίομεν'): 'scan check',
+    ('v2-0681', 'ערש'): 'scan check',
+    ('v2-0690', 'ᾀδόντων.'): 'scan check',
+    ('v2-0710', 'οὐκ'): 'scan check',
 }
 
 # Since 08-Nov-2026 a change that only MDZ supports (with the judge) is not applied but listed as
@@ -233,6 +240,25 @@ ACCEPT = {
     ('v2-0588', 'χέδροπά'),
     ('v2-0588', 'caussis'),
     ('v2-0588', 'ἅλμην·'),
+    # tranche 4 (scan check 12-Nov-2026)
+    ('v2-0650', 'מאר,'),
+    ('v2-0650', 'מאר,'),
+    ('v2-0651', 'ἡλίκη τρυγὼν,'),
+    ('v2-0652', 'פסיונין'),
+    ('v2-0658', 'الكيموس'),
+    ('v2-0658', 'licioris.'),
+    ('v2-0659', 'انا'),
+    ('v2-0660', 'ياتي'),
+    ('v2-0660', 'عناية'),
+    ('v2-0663', 'Proficisci'),
+    ('v2-0666', 'θερινῆς'),
+    ('v2-0666', 'Je'),
+    ('v2-0680', 'אפרחהא.'),
+    ('v2-0683', 'לשכוי,'),
+    ('v2-0687', 'ישראל'),
+    ('v2-0687', 'quo'),
+    ('v2-0698', 'דמשתכחאביני'),
+    ('v2-0711', 'כבש'),
 }
 
 # Differences that the scan cannot decide or that are conventions, not readings: never changed by the

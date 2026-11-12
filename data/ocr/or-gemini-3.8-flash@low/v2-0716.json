@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "716 De Pavonibus. P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "716 De Pavonibus. P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Id est, ex intima <i>Aethiopia</i>. Sunt, qui <i>Indicae</i> et <i>Aethiopicae Aegyptiam</i> ebe-\nnum addunt, tanquam auctore <i>Lucano</i>, cujus verba sunt lib. 10.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Id est, ex intima <i>Aethiopia</i>. Sunt, qui <i>Indicae</i> et <i>Aethiopicae Aegyptiam</i> ebe-\nnum addunt, tanquam auctore <i>Lucano</i>, cujus verba sunt lib. 10."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>ebenus Mareotica vastos</i>\n<i>Non operit postes.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>ebenus Mareotica vastos</i>\n<i>Non operit postes.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Maereotica</i>, id est, ex <i>Mareotide</i>, <i>Aegypti</i> parte, ut volunt, prope <i>Alexandri-</i>\n<i>am</i>. Quibus consona haec <i>Servii</i>, <i>Atqui et in Aegypto nascitur ebenus</i>. Sed\nutrobique mendum est. Nam in <i>Lucano</i> legendum <i>Meroitica</i>, quod egregie\nprobat Cl. <i>Salmasius</i> in <i>Solinum</i>; qui infra habetur in eodem <i>Lucani</i> libro,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Maereotica</i>, id est, ex <i>Mareotide</i>, <i>Aegypti</i> parte, ut volunt, prope <i>Alexandri-</i>\n<i>am</i>. Quibus consona haec <i>Servii</i>, <i>Atqui et in Aegypto nascitur ebenus</i>. Sed\nutrobique mendum est. Nam in <i>Lucano</i> legendum <i>Meroitica</i>, quod egregie\nprobat Cl. <i>Salmasius</i> in <i>Solinum</i>; qui infra habetur in eodem <i>Lucani</i> libro,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>nigris Meroe foecunda colonis,</i>\n<i>Laeta comis ebeni.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>nigris Meroe foecunda colonis,</i>\n<i>Laeta comis ebeni.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde <i>Diodorus</i> lib. 1. ubi de insula <i>Meroe</i>, Πρὸς δὲ τούτοις (λέγουσιν) ἔχειν\nπλῆθος ἐβένου, <i>Eam insuper ajunt copiam habere ebeni</i>. Et <i>Plinius</i> allatam fuis-\nse Neroni memorat <i>raram arborem ebenum, Meroen usque a Syene fine imperii</i>\n(petitam) <i>per nongenta nonaginta sex millia passuum</i>. Sed et in his <i>Servii</i>, <i>At-</i>\n<i>qui et in Aegypto nascitur</i>, mendum est manifestum. Omnino enim scripserat,\n<i>Atqui et in Aethiopia nascitur</i>, quod sequentia docent, <i>Sed Indiam omnem pla-</i>\n<i>gam Aethiopiae accipimus</i>. Quae erunt ἀνακόλουθα, si legamus, <i>in Aegypto</i>.\nHaec enim habet <i>Servius</i> ad <i>Virgilii</i> locum, de quo supra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde <i>Diodorus</i> lib. 1. ubi de insula <i>Meroe</i>, Πρὸς δὲ τούτοις (λέγουσιν) ἔχειν\nπλῆθος ἐβένου, <i>Eam insuper ajunt copiam habere ebeni</i>. Et <i>Plinius</i> allatam fuis-\nse Neroni memorat <i>raram arborem ebenum, Meroen usque a Syene fine imperii</i>\n(petitam) <i>per nongenta nonaginta sex millia passuum</i>. Sed et in his <i>Servii</i>, <i>At-</i>\n<i>qui et in Aegypto nascitur</i>, mendum est manifestum. Omnino enim scripserat,\n<i>Atqui et in Aethiopia nascitur</i>, quod sequentia docent, <i>Sed Indiam omnem pla-</i>\n<i>gam Aethiopiae accipimus</i>. Quae erunt ἀνακόλουθα, si legamus, <i>in Aegypto</i>.\nHaec enim habet <i>Servius</i> ad <i>Virgilii</i> locum, de quo supra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>sola India nigrum</i>\n<i>Fert ebenum.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>sola India nigrum</i>\n<i>Fert ebenum.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quem verum esse contendit, etsi ebenus etiam in <i>Aethiopia</i> nascatur; quia <i>Indiae</i>\nnomen <i>Aethiopiam</i> complectitur. At, si ebenum in <i>Aegypto</i> nasci dixeris, nul-\nla erit haec excusatio. Aliud enim <i>Aegyptus</i>, aliud <i>Aethiopia</i>. Nec quisquam\nest, qui <i>Indiae</i> nomine <i>Aegyptum</i> intelligat. Quinto, ebenus et ebur una cum\neuro perpetuum fuit <i>Aethiopum</i> tributum. Hinc apud <i>Diodorum</i> lib. 1. pag. 35.\ncum <i>Aegyptiorum</i> rex antiquissimus <i>Sesoosis</i> (al. <i>Sesostres</i>) <i>Aethiopes</i> debellasset,\nἠνάγκασε τὸ ἔθνος φόρους τελεῖν, ἔβενον, καὶ χρυσὸν, καὶ τῶν ἐλεφάντων\nτοὺς ὀδόντας, <i>genti pro tributo imposuit ebenum, et aurum, et elephantorum den-</i>\n<i>tes</i>. Quae eadem ab iisdem <i>Aethiopibus</i> exegisse <i>Persae</i> leguntur. <i>Herodotus</i>\n<i>Musa</i> 3. cap. 97. Ἀγινέεσι δὲ καὶ τὸ μέχρι ἐμεῦ δύο χοίνικας ἀπύρου χρυσίου,\nκαὶ διηκοσίας Φαλάγγας ἐβένου, καὶ ἐλέφαντος ὀδόντας μεγάλους εἴκοσι· <i>Ad</i>\n<i>meam usque aetatem</i> (<i>Aethiopes Persis pro</i> triennali tributo) <i>vehunt duos choenices</i>\n<i>auri apyri</i> (id est, ignem nondum experti), <i>et ducentas ebeni phalangas, et ma-</i>\n<i>gnos elephantis dentes viginti</i>. Nempe horum trium ferax est regio, ut idem\nscribit cap. 114. Αὕτη δὲ χρυσόν τε φέρει πολλὸν, καὶ ἐλέφαντας ἀμφιλαφέας,\nκαὶ δένδρεα πάντα ἄγρια, καὶ ἔβενον· <i>Haec auri multum fert, et elephantes</i>\n<i>amplissimos, et sylvestres arbores omne genus, et ebenum</i>. <i>Plinius</i> quoque libri",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quem verum esse contendit, etsi ebenus etiam in <i>Aethiopia</i> nascatur; quia <i>Indiae</i>\nnomen <i>Aethiopiam</i> complectitur. At, si ebenum in <i>Aegypto</i> nasci dixeris, nul-\nla erit haec excusatio. Aliud enim <i>Aegyptus</i>, aliud <i>Aethiopia</i>. Nec quisquam\nest, qui <i>Indiae</i> nomine <i>Aegyptum</i> intelligat. Quinto, ebenus et ebur una cum\neuro perpetuum fuit <i>Aethiopum</i> tributum. Hinc apud <i>Diodorum</i> lib. 1. pag. 35.\ncum <i>Aegyptiorum</i> rex antiquissimus <i>Sesoosis</i> (al. <i>Sesostres</i>) <i>Aethiopes</i> debellasset,\nἠνάγκασε τὸ ἔθνος φόρους τελεῖν, ἔβενον, καὶ χρυσὸν, καὶ τῶν ἐλεφάντων\nτοὺς ὀδόντας, <i>genti pro tributo imposuit ebenum, et aurum, et elephantorum den-</i>\n<i>tes</i>. Quae eadem ab iisdem <i>Aethiopibus</i> exegisse <i>Persae</i> leguntur. <i>Herodotus</i>\n<i>Musa</i> 3. cap. 97. Ἀγινέεσι δὲ καὶ τὸ μέχρι ἐμεῦ δύο χοίνικας ἀπύρου χρυσίου,\nκαὶ διηκοσίας Φαλάγγας ἐβένου, καὶ ἐλέφαντος ὀδόντας μεγάλους εἴκοσι· <i>Ad</i>\n<i>meam usque aetatem</i> (<i>Aethiopes Persis pro</i> triennali tributo) <i>vehunt duos choenices</i>\n<i>auri apyri</i> (id est, ignem nondum experti), <i>et ducentas ebeni phalangas, et ma-</i>\n<i>gnos elephantis dentes viginti</i>. Nempe horum trium ferax est regio, ut idem\nscribit cap. 114. Αὕτη δὲ χρυσόν τε φέρει πολλὸν, καὶ ἐλέφαντας ἀμφιλαφέας,\nκαὶ δένδρεα πάντα ἄγρια, καὶ ἔβενον· <i>Haec auri multum fert, et elephantes</i>\n<i>amplissimos, et sylvestres arbores omne genus, et ebenum</i>. <i>Plinius</i> quoque libri"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "12."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1735,
+    1432
+   ],
+   [
+    1735,
+    1380
+   ]
+  ],
+  "input_tokens": 3387,
+  "output_tokens": 1382,
+  "cost_usd": 0.0077,
+  "seconds": 10.8
+ }
+}

@@ -40,6 +40,13 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 1, ch. 11: the crane (*agur*) | 614–631 | [Latin](data/entries/agur/la.md) · [English](data/entries/agur/en.md) | 〃 |
 | Part 2, Book 1, ch. 12: the *kore* is not the partridge but a kind of woodcock | 632–644 | [Latin](data/entries/kore/la.md) · [English](data/entries/kore/en.md) | 〃 |
 | Part 2, Book 1, ch. 13: the hunter partridge in a cage (Sirach 11) | 645–647 | [Latin](data/entries/perdix-cavea/la.md) · [English](data/entries/perdix-cavea/en.md) | 〃 |
+| Part 2, Book 1, ch. 14: the names of the quail (*selav*) and its kinds | 648–655 | [Latin](data/entries/selav/la.md) · [English](data/entries/selav/en.md) | $8.70 for the 7 chapters (73 new pages; tranche 4, 12-Nov-2026) |
+| Part 2, Book 1, ch. 15: five questions about the quails of Moses | 656–675 | [Latin](data/entries/selav-quaestiones/la.md) · [English](data/entries/selav-quaestiones/en.md) | 〃 |
+| Part 2, Book 1, ch. 16: twelve passages that some refer to the cock and the hen | 676–687 | [Latin](data/entries/gallinaceum/la.md) · [English](data/entries/gallinaceum/en.md) | 〃 |
+| Part 2, Book 1, ch. 17: the crowing of the cock | 688–694 | [Latin](data/entries/galli-cantus/la.md) · [English](data/entries/galli-cantus/en.md) | 〃 |
+| Part 2, Book 1, ch. 18: the hen's love for her chicks | 695–697 | [Latin](data/entries/gallina-pulli/la.md) · [English](data/entries/gallina-pulli/en.md) | 〃 |
+| Part 2, Book 1, ch. 19: the *barburim* of Solomon's table (1 Kgs 4:23) are the choicest fattened fowl | 698–708 | [Latin](data/entries/barburim/la.md) · [English](data/entries/barburim/en.md) | 〃 |
+| Part 2, Book 1, ch. 20: the peacocks (*thuccijim*); ivory and ebony | 709–720 | [Latin](data/entries/tukkiyim/la.md) · [English](data/entries/tukkiyim/en.md) | 〃 |
 
 ### Tranches
 
@@ -48,14 +55,26 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | 1 | 09-Nov-2026 | 429–523 (74) | 10 | $9.71 | $0.131 | about 1.5 h | 283 | n/a / 14 | 30 | 18 |
 | 2 | 10-Nov-2026 | 524–589 (66) | 7 | $8.23 | $0.125 | about 3 h | 219 | 52 / 17 | 40 | 26 |
 | 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | about 2 h (machine steps 30 min) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
+| 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | about 3 h (machine steps 45 min) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
 once and continued in a second session.
 
+Tranche 4 (12-Nov-2026): OCR $3.21, judge $3.61, translation $1.84 and two chunks translated again. New
+in the code: a Greek flag where Flash agrees with Opus and MDZ differs only by an accent, by ε for the
+ου ligature or by Φ for φ is not sent to the judge (`check.py`, kind `quirk`: 133 of 1,555 flags); one
+translation batch for all the chapters (`entry.batch_all`); `entry.py` stops when a page is listed twice
+in `FIXES`. The scan check was read in the main session from contact sheets of 8 line crops
+(`logs/sheets_t4.py`). Three wrong words were found only in the English (the Hebrew תך read as חך on
+p. 709, a Syriac word on p. 684, and the expansion of "Hist. Nat." as Buffon where Pliny was meant): a
+reason for the translation spot-check in the backlog of [AGENTS.md](AGENTS.md). Not certain: the four
+Syriac words on p. 699 (letters 2 and 3 of the third and fourth word), `מאד` for the print's `מאר`-like
+shape on p. 650, and the note mark (3) of p. 661, which the print does not have in the text.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv` and `logs/vote_v2-591-648.csv` (column `outcome`), and for tranches 1 to 3 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv` and `logs/vote_v2-649-721.csv` (column `outcome`), and for tranches 1 to 4 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works
@@ -100,8 +119,8 @@ export OPENROUTER_KEY_FILE="path/to/key.txt"
    Since 11-Nov-2026 `tranche.py` runs steps 1–3 in one go, with a log per step in `logs/`
    (`SAMPLE` must hold the pages first): Flash reads the pages synchronously with 4 workers while
    the Opus batch runs (its batch took 26 minutes in tranche 2, Opus's 7), then check, judge, vote,
-   QA and the review crops. After the scan check, `tranche.py translate` runs the chapters'
-   translation batches at the same time and builds the site. Both print the cost of each paid step
+   QA and the review crops. After the scan check, `tranche.py translate` sends the chunks of all the
+   chapters as one translation batch and builds the site. Both print the cost of each paid step
    (the key's spend before and after). `uv run banned.py` then checks the English against the
    chapters' fixed terms (no model call; a list to look at):
 

@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "656 <i>Solvuntur V quaestiones de Mosis coturnicibus.</i> P. II. L. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "656 <i>Solvuntur V quaestiones de Mosis coturnicibus.</i> P. II. L. I."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Solvuntur quinque quaestiones de Mosis Coturnicibus.</i>\n<i>I. Quoties coturnices Israelitis Deus dederit? II. An</i>\n<i>salubris sit cibus? III. Hae coturnices unde venerint?</i>\n<i>IV. Quanta copia venerint? V. Qualis fuerit poena</i>\n<i>coturnices comedentium?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Solvuntur quinque quaestiones de Mosis Coturnicibus.</i>\n<i>I. Quoties coturnices Israelitis Deus dederit? II. An</i>\n<i>salubris sit cibus? III. Hae coturnices unde venerint?</i>\n<i>IV. Quanta copia venerint? V. Qualis fuerit poena</i>\n<i>coturnices comedentium?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "De <i>Mosis</i> coturnicibus quinque potissimum quaeruntur. 1. Quoties <i>Israelitis</i> ⟦p. 97⟧\neas immiserit Deus? 2. An salubris fuerit cibus? 3. Unde venerint?\n4. Quanta copia? 5. Cur illarum esu <i>Israelitae</i> Deum in se concitaverint?",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De <i>Mosis</i> coturnicibus quinque potissimum quaeruntur. 1. Quoties <i>Israelitis</i> ⟦p. 97⟧\neas immiserit Deus? 2. An salubris fuerit cibus? 3. Unde venerint?\n4. Quanta copia? 5. Cur illarum esu <i>Israelitae</i> Deum in se concitaverint?"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "I. Et ad primam quaestionem, re non satis explorata, multi respondent,\nsemel tantum fuisse immissas. Tamen repetitum fuisse hoc miraculum, multa\nnon suadent solum, sed et plane persuadent. Nam <i>Exod. XVI, 13.</i> una cum\nManna dantur coturnices in deserto <i>Sin</i> paullo post exitum ex <i>Aegypto</i> die deci-\nma quinta secundi mensis, antequam venissent in montem <i>Sinai</i>, ut apparet ex\ninitio capitis. Sed <i>Num. XI, 6.</i> cum populus obmurmurasset, eo quod praeter\nManna nihil viderent, ibidem versu trigesimo primo Deus illis coturnices largi-\ntur in <i>Kibroth-thaava</i>, quo demum venerunt post excessum e deserto <i>Sinai,</i>\n<i>Num. XXXIII, 16.</i> Idque tertia die, <i>Num. X, 33.</i> E <i>Sinai</i> autem discesserant\nanno secundo, die vigesima secundi mensis, <i>Num. X, 11.</i> Ut uno anno serius\npriore contigisse necesse sit hoc miraculum. Praeterea priores coturnices solum\nin diem, posteriores in totum mensem a Deo indultae fuerunt. Proinde illae\nsolum castra tegebant; hae etiam extra castra erant, hinc et inde dispersae ad\niter unius diei. Et harum, non illarum, esu Deus graviter irritatus populum\nmagna plaga percussit. Itaque utramque historiam refert <i>Iosephus</i> diversis locis;\nillam capite primo, hanc capite decimo tertio libri tertii <i>Antiquitatum.</i> Quo-\nmodo etiam <i>Hieronymus</i> Epist. CXXVII. ad <i>Fabiolam,</i> mansionibus X et XIII.\nQuod objiciunt, nihil esse causae, cur Deus his potius, quam illis fuerit infensus,\nrefelluntur in fine capitis. Iam, si quaeras, quomodo <i>Moses Num. XI, 21.</i> du-\nbitaverit, an possent reperiri carnes, quae sufficerent tot millibus, si jam aliud\nsimile miraculum viderat, <i>Exod. XVI, 13.</i> Respondeo, prius miraculum poste-\nriori non fuisse omni ex parte simile. Nam in priori, quod jam observavimus,\nhunc populum Deus carnibus nonnisi in unum diem paverat. At hic id ipsum se\nfacturum pollicetur in mensem integrum, quod <i>Mosi</i> visum est multo majus.\nItaque hoc ipsum Deo objicit. <i>Sexcenties mille peditum</i>, inquit, <i>populus iste est,</i>\n<i>in cujus medio ego sum: et tu dicis, te carnem eis daturum per mensem integrum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "I. Et ad primam quaestionem, re non satis explorata, multi respondent,\nsemel tantum fuisse immissas. Tamen repetitum fuisse hoc miraculum, multa\nnon suadent solum, sed et plane persuadent. Nam <i>Exod. XVI, 13.</i> una cum\nManna dantur coturnices in deserto <i>Sin</i> paullo post exitum ex <i>Aegypto</i> die deci-\nma quinta secundi mensis, antequam venissent in montem <i>Sinai</i>, ut apparet ex\ninitio capitis. Sed <i>Num. XI, 6.</i> cum populus obmurmurasset, eo quod praeter\nManna nihil viderent, ibidem versu trigesimo primo Deus illis coturnices largi-\ntur in <i>Kibroth-thaava</i>, quo demum venerunt post excessum e deserto <i>Sinai,</i>\n<i>Num. XXXIII, 16.</i> Idque tertia die, <i>Num. X, 33.</i> E <i>Sinai</i> autem discesserant\nanno secundo, die vigesima secundi mensis, <i>Num. X, 11.</i> Ut uno anno serius\npriore contigisse necesse sit hoc miraculum. Praeterea priores coturnices solum\nin diem, posteriores in totum mensem a Deo indultae fuerunt. Proinde illae\nsolum castra tegebant; hae etiam extra castra erant, hinc et inde dispersae ad\niter unius diei. Et harum, non illarum, esu Deus graviter irritatus populum\nmagna plaga percussit. Itaque utramque historiam refert <i>Iosephus</i> diversis locis;\nillam capite primo, hanc capite decimo tertio libri tertii <i>Antiquitatum.</i> Quo-\nmodo etiam <i>Hieronymus</i> Epist. CXXVII. ad <i>Fabiolam,</i> mansionibus X et XIII.\nQuod objiciunt, nihil esse causae, cur Deus his potius, quam illis fuerit infensus,\nrefelluntur in fine capitis. Iam, si quaeras, quomodo <i>Moses Num. XI, 21.</i> du-\nbitaverit, an possent reperiri carnes, quae sufficerent tot millibus, si jam aliud\nsimile miraculum viderat, <i>Exod. XVI, 13.</i> Respondeo, prius miraculum poste-\nriori non fuisse omni ex parte simile. Nam in priori, quod jam observavimus,\nhunc populum Deus carnibus nonnisi in unum diem paverat. At hic id ipsum se\nfacturum pollicetur in mensem integrum, quod <i>Mosi</i> visum est multo majus.\nItaque hoc ipsum Deo objicit. <i>Sexcenties mille peditum</i>, inquit, <i>populus iste est,</i>\n<i>in cujus medio ego sum: et tu dicis, te carnem eis daturum per mensem integrum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Praeterea",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Praeterea"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1864,
+    1691
+   ],
+   [
+    1864,
+    1129
+   ]
+  ],
+  "input_tokens": 8729,
+  "output_tokens": 1541,
+  "cost_usd": 0,
+  "seconds": 553.1
+ }
+}

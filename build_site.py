@@ -116,6 +116,27 @@ DOCS = [
     {"slug": "perdix-cavea", "kind": "entry", "entry": "perdix-cavea", "vol": 2, "pages": list(range(645, 648)),
      "title": "Part 2, Book 1, chapter 13: The hunter partridge in a cage",
      "sub": "Vol. 2, pp. 645–647 · cols. 89–91 of 1663 (Part 2) · the πέρδιξ θηρευτὴς ἐν καρτάλλῳ, the hunter partridge in a cage, of Sir 11:30, and the true partridge"},
+    {"slug": "selav", "kind": "entry", "entry": "selav", "vol": 2, "pages": list(range(648, 656)),
+     "title": "Part 2, Book 1, chapter 14: The names of the quail",
+     "sub": "Vol. 2, pp. 648–655 · cols. 92–96 of 1663 (Part 2) · שלו selau, the quail: its names and the four kinds that the Talmud counts"},
+    {"slug": "selav-quaestiones", "kind": "entry", "entry": "selav-quaestiones", "vol": 2, "pages": list(range(656, 676)),
+     "title": "Part 2, Book 1, chapter 15: Five questions about the quails of Moses",
+     "sub": "Vol. 2, pp. 656–675 · cols. 97–109 of 1663 (Part 2) · how often, how wholesome, from where, how many, and the punishment (Exod 16, Num 11)"},
+    {"slug": "gallinaceum", "kind": "entry", "entry": "gallinaceum", "vol": 2, "pages": list(range(676, 688)),
+     "title": "Part 2, Book 1, chapter 16: Twelve passages referred to the cock and the hen",
+     "sub": "Vol. 2, pp. 676–687 · cols. 110–119 of 1663 (Part 2) · twelve passages of the Old Testament that some interpreters refer to the gallinaceous kind"},
+    {"slug": "galli-cantus", "kind": "entry", "entry": "galli-cantus", "vol": 2, "pages": list(range(688, 695)),
+     "title": "Part 2, Book 1, chapter 17: The crowing of the cock",
+     "sub": "Vol. 2, pp. 688–694 · cols. 120–124 of 1663 (Part 2) · the cockcrow of the Gospels and the denial of Peter"},
+    {"slug": "gallina-pulli", "kind": "entry", "entry": "gallina-pulli", "vol": 2, "pages": list(range(695, 698)),
+     "title": "Part 2, Book 1, chapter 18: The hen's love for her chicks",
+     "sub": "Vol. 2, pp. 695–697 · cols. 125–126 of 1663 (Part 2) · the hen that gathers her chicks under her wings (Matt 23:37)"},
+    {"slug": "barburim", "kind": "entry", "entry": "barburim", "vol": 2, "pages": list(range(698, 709)),
+     "title": "Part 2, Book 1, chapter 19: The barburim of Solomon's table",
+     "sub": "Vol. 2, pp. 698–708 · cols. 127–135 of 1663 (Part 2) · ברבורים אבוסים barburim abusim (1 Kgs 4:23) are the choicest fattened fowl"},
+    {"slug": "tukkiyim", "kind": "entry", "entry": "tukkiyim", "vol": 2, "pages": list(range(709, 721)),
+     "title": "Part 2, Book 1, chapter 20: The peacocks",
+     "sub": "Vol. 2, pp. 709–720 · cols. 136–145 of 1663 (Part 2) · תכיים thuccijim (1 Kgs 10:22) are peacocks; ivory and ebony"},
 ]
 CONTENTS = []
 
@@ -469,8 +490,9 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: vol. 2, pp. 409–647 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
-chs. 1–13: the dove, the deror, the turtledove, the swallow, the crane, the kore and the partridge).</p>
+far: vol. 2, pp. 409–720 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
+chs. 1–20: the dove, the deror, the turtledove, the swallow, the crane, the kore, the partridge, the quail,
+the cock and the hen, the barburim and the peacock).</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
 <ul class="docs">{items}</ul>

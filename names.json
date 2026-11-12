@@ -307,7 +307,10 @@
   },
   {
    "forms": [
-    "Golius"
+    "Golius",
+    "Golii",
+    "Golio",
+    "Golium"
    ],
    "english": "Golius",
    "id": "Jacobus Golius, Lexicon Arabico-Latinum (1653)",
@@ -398,11 +401,13 @@
   },
   {
    "forms": [
-    "Buxtorfius"
+    "Buxtorfius",
+    "Buxtorfii",
+    "Buxtorfio"
    ],
    "english": "Buxtorf",
-   "id": "",
-   "basis": "standard"
+   "id": "Johannes Buxtorf the Elder, Synagoga Judaica and Lexicon Chaldaicum Talmudicum et Rabbinicum",
+   "basis": "general knowledge"
   },
   {
    "forms": [
@@ -492,7 +497,9 @@
   },
   {
    "forms": [
-    "Hasselquist"
+    "Hasselquist",
+    "HASSELQUIST",
+    "Hasselquistius"
    ],
    "english": "Hasselquist",
    "id": "Fredrik Hasselquist, Iter Palaestinum (1757)",
@@ -509,7 +516,9 @@
   {
    "forms": [
     "Oedmannus",
-    "OEDMANN"
+    "OEDMANN",
+    "Oedmann",
+    "Oedmanni"
    ],
    "english": "Oedmann",
    "id": "Samuel Ödmann, Vermischte Sammlungen aus der Naturkunde",
@@ -525,19 +534,25 @@
   },
   {
    "forms": [
-    "LUDOLFI"
+    "LUDOLFI",
+    "LUDOLFUS",
+    "Ludolfus",
+    "Ludolfi",
+    "Ludolfo"
    ],
    "english": "Ludolf",
-   "id": "",
-   "basis": "standard"
+   "id": "Hiob Ludolf, Historia Aethiopica (1681) and its Commentarius (1691)",
+   "basis": "general knowledge"
   },
   {
    "forms": [
-    "SCHULTENSIUS"
+    "SCHULTENSIUS",
+    "Schultensius",
+    "Schultensii"
    ],
    "english": "Schultens",
-   "id": "",
-   "basis": "standard"
+   "id": "Albert Schultens, Liber Jobi (1737)",
+   "basis": "general knowledge"
   },
   {
    "forms": [
@@ -1086,7 +1101,8 @@
     "FORSKALIUS",
     "Forskalius",
     "Forskalii",
-    "FORSKALII"
+    "FORSKALII",
+    "Forsk."
    ],
    "english": "Forsskål",
    "id": "Peter Forsskål, Descriptiones animalium (1775)",
@@ -1172,6 +1188,248 @@
    ],
    "english": "Castell",
    "id": "Edmund Castell, Lexicon heptaglotton (London 1669)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Aldrovandus",
+    "Aldrovandi",
+    "Aldrovando",
+    "Aldrovandum",
+    "ALDROVANDUS",
+    "ALDROVANDI",
+    "ALDROVANDO",
+    "ALDROVANDUM",
+    "ULYSS. ALDROVANDUS"
+   ],
+   "english": "Aldrovandi",
+   "id": "Ulisse Aldrovandi, Ornithologia (1599–1603)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "NIEBUHR",
+    "Niebuhr",
+    "Niebuhrio",
+    "Niebuhrius",
+    "Niebuhrii",
+    "NIEBUHRIUS"
+   ],
+   "english": "Niebuhr",
+   "id": "Carsten Niebuhr, Beschreibung von Arabien (1772)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "FABER",
+    "Faber",
+    "Fabr."
+   ],
+   "english": "Faber",
+   "id": "J. E. Faber, notes to the German edition of Harmer's Observations (Beobachtungen über den Orient, 1772–79)",
+   "basis": "context"
+  },
+  {
+   "forms": [
+    "Russel",
+    "RUSSEL",
+    "Russelius"
+   ],
+   "english": "Russell",
+   "id": "Alexander Russell, The Natural History of Aleppo (1756)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Aloysius Mundella",
+    "Mundella"
+   ],
+   "english": "Aloysius Mundella",
+   "id": "Luigi Mondella, physician of Brescia (16th c.), Epistolae medicinales",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Nicolaus Massa",
+    "Massa"
+   ],
+   "english": "Nicolaus Massa",
+   "id": "Niccolò Massa, physician of Venice (d. 1569), Epistolae medicinales",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Salmasius",
+    "Salmasii",
+    "Salmasio",
+    "Salmasium",
+    "SALMASIUS",
+    "SALMASII",
+    "SALMASIO",
+    "SALMASIUM"
+   ],
+   "english": "Salmasius",
+   "id": "Claude Saumaise (1588–1653), Plinianae exercitationes",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Fullerus",
+    "Fulleri",
+    "Fullero",
+    "Fullerum",
+    "FULLERUS",
+    "FULLERI",
+    "FULLERO",
+    "FULLERUM"
+   ],
+   "english": "Fuller",
+   "id": "Nicholas Fuller, Miscellanea theologica / sacra (1612–22)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Mercerus",
+    "Merceri",
+    "Mercero",
+    "Mercerum",
+    "MERCERUS",
+    "MERCERI",
+    "MERCERO",
+    "MERCERUM"
+   ],
+   "english": "Mercerus",
+   "id": "Jean Mercier (d. 1570), commentaries on Job and Proverbs",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Assariph",
+    "Assariphus",
+    "Alsariph"
+   ],
+   "english": "Assariph",
+   "id": "al-Sharif (probably al-Idrisi), a source that Ibn al-Baytar quotes",
+   "basis": "guess"
+  },
+  {
+   "forms": [
+    "RELANDUS",
+    "Relandus",
+    "RELANDI",
+    "Relandi",
+    "ADR. RELANDUS"
+   ],
+   "english": "Reland",
+   "id": "Adriaan Reland, Dissertationes miscellaneae (1706–08)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Santes Pagninus",
+    "Pagninus",
+    "Pagnini",
+    "Pagnino"
+   ],
+   "english": "Pagninus",
+   "id": "Santes Pagnino, Latin Bible (1528) and Thesaurus linguae sanctae",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Arias",
+    "Arias Montanus"
+   ],
+   "english": "Arias",
+   "id": "Benito Arias Montano, the interlinear Latin of the Antwerp Polyglot",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Castalio",
+    "Castellio",
+    "Castalionis",
+    "Castellionis"
+   ],
+   "english": "Castalio",
+   "id": "Sebastian Castellio, Latin Bible (1551)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Erpenianus",
+    "Erpeniano",
+    "Erpenianus Arabs"
+   ],
+   "english": "Erpenianus",
+   "id": "the Arabic version edited by Thomas Erpenius (Pentateuch 1622; New Testament 1616)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Elias",
+    "Eliae",
+    "Elia"
+   ],
+   "english": "Elias",
+   "id": "Elijah Levita (1469–1549), author of the Aramaic lexicon Meturgeman and of Tishbi",
+   "basis": "context"
+  },
+  {
+   "forms": [
+    "Symeone Sethi",
+    "Symeon Sethi",
+    "Simeon Sethi"
+   ],
+   "english": "Symeon Seth",
+   "id": "Symeon Seth (11th c.), Syntagma de alimentorum facultatibus",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Felix Pratensis"
+   ],
+   "english": "Felix Pratensis",
+   "id": "Felix of Prato, Latin Psalter from the Hebrew (1515)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Iansenius",
+    "Iansenii",
+    "Jansenius"
+   ],
+   "english": "Jansenius",
+   "id": "Cornelius Jansen of Ghent (d. 1576), commentary on Wisdom",
+   "basis": "guess"
+  },
+  {
+   "forms": [
+    "Erasmus",
+    "Erasmi",
+    "Erasmo"
+   ],
+   "english": "Erasmus",
+   "id": "Desiderius Erasmus, Adagia",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Abarbanel",
+    "Abarbenel",
+    "Abrabanel"
+   ],
+   "english": "Abarbanel",
+   "id": "Isaac Abarbanel (1437–1508), commentary on the Bible",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Paulus Venetus",
+    "Pauli Veneti"
+   ],
+   "english": "Paulus Venetus",
+   "id": "Marco Polo",
    "basis": "general knowledge"
   }
  ]

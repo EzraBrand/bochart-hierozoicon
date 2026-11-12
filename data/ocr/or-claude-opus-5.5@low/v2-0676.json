@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "676 <i>Prophetarum loca duodecim</i> P.II. L.[?]",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "676 <i>Prophetarum loca duodecim</i> P.II. L.[?]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XVI.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XVI."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Prophetarum loca duodecim, quae ad Gallinaceum ge-\nnus referunt nonnulli interpretes. I. Levit. XIV, 4.\nII. 1 Reg. IV, 23.</i> al. <i>V, 3. III. 2 Reg. XVII, 30. IV. Iob. III, 7.\nV. Iob. XXXVIII, 32. VI. Iob. XXXVIII, 36. VII. Iob.\nXXXIX, 13. VIII. Ps. L, 11. IX. Ps. LXXX, 14. X. Prov.\nXXX, 31. XI. Eccles. XII, 4.</i> al. <i>6. XII. Esaj. XXII, 17.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Prophetarum loca duodecim, quae ad Gallinaceum ge-\nnus referunt nonnulli interpretes. I. Levit. XIV, 4.\nII. 1 Reg. IV, 23.</i> al. <i>V, 3. III. 2 Reg. XVII, 30. IV. Iob. III, 7.\nV. Iob. XXXVIII, 32. VI. Iob. XXXVIII, 36. VII. Iob.\nXXXIX, 13. VIII. Ps. L, 11. IX. Ps. LXXX, 14. X. Prov.\nXXX, 31. XI. Eccles. XII, 4.</i> al. <i>6. XII. Esaj. XXII, 17.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Gallus</i> dicitur <i>Arabice</i> ديك <i>dic</i>, et <i>Syriace</i> ܬܪܢܓܠ <i>tarnegol;</i> utroque ⟦p. 110⟧\nnomine, nisi fallor, valde vetusto. Nam prioris vestigia sunt in <i>Hebraeo</i>\nדוכיפת <i>dukiphat</i>, quo <i>Moses upupam</i> vocat; voce, ut videtur, composita ex\nדוך, et כיפה. Ita, ut <i>gallum saxorum</i>, seu <i>saxatilem</i> significet, ut alibi doce-\nbimus. Et a <i>Syro</i> ܬܪܢܓܠ <i>tarnegol Phoenices</i>, qui cum <i>Cadmo</i> in <i>Boeotiam</i>\nvenerant, <i>Tanagrae</i> puto dedisse nomen, <i>Boeotiae</i> urbi antiquissimae, in qua\n<i>Tanagraei</i> galli: quos ut pugnacissimos commendant <i>Varro</i>, <i>Columella</i>, <i>Pli-\nnius</i>, <i>Pausanias</i>, <i>Hesychius</i>, <i>Suidas</i>, alii, quorum loca citavimus in nostro ⟦p. 111⟧\n<i>Chanaan</i> lib. 1. cap. 16. Nempe a gallis illis urbs ipsa <i>Tarnegol</i>, aut <i>Tarnegal</i>,\na <i>Phoenicibus</i> appellata est. Et <i>Graeci</i>, <i>l</i> finali rejecto, ut in Ἀνίβα et Ἀσδρού-\nβα, ex <i>Tarnegal</i> primo <i>Tarnegam</i>, deinde <i>Tanagram</i> fecerunt, unius literae\ntrajectione. Ita, ut urbs <i>Tanagra</i> sit <i>urbs galli</i>, sive <i>gallorum.</i> Horum scilicet\ntanta fuit nobilitas, ut apud veteres <i>gallus</i> et Ταναγραῖος fere sint ἀντίστροφα,\nquasi omnes gallos necesse sit <i>Tanagra</i> esse oriundos. Unde est, quod in <i>Gal-\nlo Luciani Micyllus</i> dicit <i>Pythagorae,</i> in gallum transmutato, Εἰπὲ δὲ ὅμως, ὦ\nΜνησάρχου παῖ, ὅπως ἡμῖν ἀντὶ μὲν ἀνθρώπου ὄρνις, ἀντὶ δὲ Σαμίου Τανα-\nγραῖος ἀναπέφηνας· <i>Tamen expone</i>, Mnesarchi <i>fili</i>, <i>qui factum sit</i>, <i>ut ex ho-\nmine avis</i>, <i>et ex</i> Samio Tanagraeus <i>nobis apparueris.</i> <i>Tanagraeus</i>, id est, <i>gal-\nlus</i> תרנגול. Interim neutrum galli nomen in <i>Propheticis</i> libris apparet. Sed\nneque satis scitur, quomodo <i>Hebraei</i> veteres <i>gallum</i> appellaverint; quanquam\nad gallinaceum genus interpretes multa <i>Prophetarum</i> loca referant, sed conje-\ncturis non satis certis, ut ea percurrenti constabit, quod sequentia palam\nfacient.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Gallus</i> dicitur <i>Arabice</i> ديك <i>dic</i>, et <i>Syriace</i> ܬܪܢܓܠ <i>tarnegol;</i> utroque ⟦p. 110⟧\nnomine, nisi fallor, valde vetusto. Nam prioris vestigia sunt in <i>Hebraeo</i>\nדוכיפת <i>dukiphat</i>, quo <i>Moses upupam</i> vocat; voce, ut videtur, composita ex\nדוך, et כיפה. Ita, ut <i>gallum saxorum</i>, seu <i>saxatilem</i> significet, ut alibi doce-\nbimus. Et a <i>Syro</i> ܬܪܢܓܠ <i>tarnegol Phoenices</i>, qui cum <i>Cadmo</i> in <i>Boeotiam</i>\nvenerant, <i>Tanagrae</i> puto dedisse nomen, <i>Boeotiae</i> urbi antiquissimae, in qua\n<i>Tanagraei</i> galli: quos ut pugnacissimos commendant <i>Varro</i>, <i>Columella</i>, <i>Pli-\nnius</i>, <i>Pausanias</i>, <i>Hesychius</i>, <i>Suidas</i>, alii, quorum loca citavimus in nostro ⟦p. 111⟧\n<i>Chanaan</i> lib. 1. cap. 16. Nempe a gallis illis urbs ipsa <i>Tarnegol</i>, aut <i>Tarnegal</i>,\na <i>Phoenicibus</i> appellata est. Et <i>Graeci</i>, <i>l</i> finali rejecto, ut in Ἀνίβα et Ἀσδρού-\nβα, ex <i>Tarnegal</i> primo <i>Tarnegam</i>, deinde <i>Tanagram</i> fecerunt, unius literae\ntrajectione. Ita, ut urbs <i>Tanagra</i> sit <i>urbs galli</i>, sive <i>gallorum.</i> Horum scilicet\ntanta fuit nobilitas, ut apud veteres <i>gallus</i> et Ταναγραῖος fere sint ἀντίστροφα,\nquasi omnes gallos necesse sit <i>Tanagra</i> esse oriundos. Unde est, quod in <i>Gal-\nlo Luciani Micyllus</i> dicit <i>Pythagorae,</i> in gallum transmutato, Εἰπὲ δὲ ὅμως, ὦ\nΜνησάρχου παῖ, ὅπως ἡμῖν ἀντὶ μὲν ἀνθρώπου ὄρνις, ἀντὶ δὲ Σαμίου Τανα-\nγραῖος ἀναπέφηνας· <i>Tamen expone</i>, Mnesarchi <i>fili</i>, <i>qui factum sit</i>, <i>ut ex ho-\nmine avis</i>, <i>et ex</i> Samio Tanagraeus <i>nobis apparueris.</i> <i>Tanagraeus</i>, id est, <i>gal-\nlus</i> תרנגול. Interim neutrum galli nomen in <i>Propheticis</i> libris apparet. Sed\nneque satis scitur, quomodo <i>Hebraei</i> veteres <i>gallum</i> appellaverint; quanquam\nad gallinaceum genus interpretes multa <i>Prophetarum</i> loca referant, sed conje-\ncturis non satis certis, ut ea percurrenti constabit, quod sequentia palam\nfacient."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "I. Primus, quod meminerim, locus est <i>Levit. XIV, 4.</i> ubi leprosus, qui\nmundatus est, jubetur offerre Deo δύο ὀρνίθια ζῶντα καθαρὰ, id est, ut non-\nnullis placet, <i>duas gallinulas vivas puras.</i> <i>Origenes</i> in <i>Leviticum</i> Homilia 8.\n<i>Praecipit, ut accipiantur duae gallinae vivae ei, qui mundatur.</i> Et paullo post,\n<i>Videntur mihi etiam hic duae istae gallinae habere similitudinem quandam duorum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "I. Primus, quod meminerim, locus est <i>Levit. XIV, 4.</i> ubi leprosus, qui\nmundatus est, jubetur offerre Deo δύο ὀρνίθια ζῶντα καθαρὰ, id est, ut non-\nnullis placet, <i>duas gallinulas vivas puras.</i> <i>Origenes</i> in <i>Leviticum</i> Homilia 8.\n<i>Praecipit, ut accipiantur duae gallinae vivae ei, qui mundatur.</i> Et paullo post,\n<i>Videntur mihi etiam hic duae istae gallinae habere similitudinem quandam duorum</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>hirco-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>hirco-</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1894,
+    1698
+   ],
+   [
+    1894,
+    1134
+   ]
+  ],
+  "input_tokens": 8831,
+  "output_tokens": 1958,
+  "cost_usd": 0,
+  "seconds": 553.1
+ }
+}

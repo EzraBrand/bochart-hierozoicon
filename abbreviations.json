@@ -28,7 +28,7 @@
   {"abbr": "Lexic. Amhar.", "kind": "bibliography", "mode": "expand", "expansion": "Hiob Ludolf, Lexicon Amharico-Latinum (1698)", "basis": "general knowledge"},
   {"abbr": "Supplemm. ad Lexx.", "kind": "bibliography", "mode": "expand", "expansion": "J. D. Michaelis, Supplementa ad lexica Hebraica", "basis": "context (Michaelis, p. 1908)"},
   {"abbr": "Commentar. ad Prov.", "kind": "bibliography", "mode": "expand", "expansion": "Albert Schultens, Commentarius in Proverbia Salomonis (1748)", "basis": "general knowledge"},
-  {"abbr": "Hist. Nat.", "kind": "bibliography", "mode": "expand", "expansion": "Buffon, Histoire naturelle", "basis": "context (Buffon, Supplement)"},
+  {"abbr": "Hist. Nat. des Oiseaux", "kind": "bibliography", "mode": "expand", "expansion": "Buffon, Histoire naturelle des oiseaux", "basis": "context (Buffon, Supplement)"},
   {"abbr": "Clim.", "kind": "source", "mode": "expand", "expansion": "climate (section) of al-Idrīsī's geography, in the Latin Geographia Nubiensis", "basis": "context"}
  ]
 }

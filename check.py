@@ -16,6 +16,8 @@ glued to the next word is split off.
 A difference where the same words come in another order is "order"; a span of more than 6 words
 is "block" (text in another place: Flash's line order, note columns). Both are left to the page
 join check, not to the judges.
+A Greek flag where Flash agrees with the main OCR and MDZ differs only by an accent, by ε for the
+ου ligature or by Φ for φ is "quirk": not judged (12-Nov-2026; see is_mdz_quirk).
 Each flag has the line of the main OCR and, for the image judge, the box of the matching line in
 the MDZ hOCR (found by fuzzy match).
 """
@@ -50,6 +52,24 @@ def key(word: str, mdz: bool = False) -> str:
     w = PUNCT.sub("", unicodedata.normalize("NFC", word)).replace("ſ", "s").replace('"', "״")
     w = AR_MARKS.sub("", HEB_POINTS.sub("", w))
     return w.translate(MDZ_FOLD) if mdz else w
+
+
+def quirk_fold(word: str) -> str:
+    """The key against MDZ without the differences that are MDZ's habit in Greek: accents and
+    breathings, the ου ligature (ȣ) read as ε, and the lower-case φ of this type read as Φ."""
+    k = "".join(c for c in unicodedata.normalize("NFD", key(word, True)) if unicodedata.category(c) != "Mn")
+    return unicodedata.normalize("NFC", k).replace("ου", "ε").replace("ȣ", "ε").replace("Φ", "φ")
+
+
+def is_mdz_quirk(row: dict) -> bool:
+    """Greek flag where Flash reads exactly as the main OCR and MDZ differs only by its habits
+    (12-Nov-2026). In tranche 3 that was 187 of 1,467 flags; the judge kept 160 and changed 2, both
+    an iota subscript. Such a flag gets the kind "quirk": listed in the CSV, not sent to the judge."""
+    if row["script"] != "Greek" or not row["flash"] or not row["mdz"]:
+        return False
+    m = row["main"].split()
+    return ([key(w) for w in m] == [key(w) for w in row["flash"].split()]
+            and [quirk_fold(w) for w in m] == [quirk_fold(w) for w in row["mdz"].split()])
 
 
 def tokens(engine: str, page: str) -> tuple[list[tuple[str, int]], list[str]]:
@@ -118,6 +138,7 @@ def main():
     p.add_argument("--main", default="or-claude-opus-5.5@low")
     p.add_argument("--flash", default="or-gemini-3.8-flash@low")
     p.add_argument("--run", default="", help="suffix of the check CSV, e.g. .argon (another main OCR)")
+    p.add_argument("--no-quirk-rule", action="store_true", help="send the Greek MDZ-habit flags to the judge too (as before 12-Nov-2026)")
     a = p.parse_args()
     rows, n_words = [], 0
     for page in range(a.first, a.last + 1):
@@ -161,6 +182,8 @@ def main():
             row["kind"] = ("order" if i2 - i1 > 1 and all(sorted(key(w, True) for w in row[n].split()) == mk
                                                           for n in readers if row[n])
                            else "block" if i2 - i1 > 6 else "replace")
+            if row["kind"] == "replace" and not a.no_quirk_rule and is_mdz_quirk(row):
+                row["kind"] = "quirk"
             li = m[i1][1]
             row["line"] = lines[li]
             row["line_no"] = li
@@ -177,7 +200,7 @@ def main():
         tally[r["script"]] = tally.get(r["script"], 0) + 1
     weak = sum(1 for r in rows if r["box_match"] and float(r["box_match"]) < 70)
     print(f"{n_words} words in {a.main}; {len(rows)} flags {tally}; "
-          f"{sum(r['kind'] == 'order' for r in rows)} order, {sum(r['kind'] == 'block' for r in rows)} block;{weak} with a weak line match; wrote {out}")
+          f"{sum(r['kind'] == 'order' for r in rows)} order, {sum(r['kind'] == 'block' for r in rows)} block, {sum(r['kind'] == 'quirk' for r in rows)} quirk (not judged); {weak} with a weak line match; wrote {out}")
 
 
 if __name__ == "__main__":

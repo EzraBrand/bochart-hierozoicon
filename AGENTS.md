@@ -10,21 +10,34 @@ reader gets no judge lines); the models "correct" the print toward the expected 
 flags are kept (they find the printer's errors); type quirks the judge gets wrong: the ȣ (ου)
 ligature read as ε, the lower-case φ that looks like Φ, ד/ר, ذ/ن, قلي read قلى, the lead-in stroke of ج/خ read as an alif (عجر, السخي). `ACCEPT` in `vote.py` applies
 only to "MDZ only" items: a reader's APPLY on another kind of review item, and every word with `[?]`,
-needs a pair in `entry.FIXES` (grep `la.md` for `[?]` before translating).
+needs a pair in `entry.FIXES` (grep `la.md` for `[?]` before translating). A page number written twice in
+the `FIXES` literal keeps only the second list (`entry.py` now stops at import when that happens). Do not
+edit `entry.py` while `tranche.py translate` runs. Write edit scripts with a file tool, not a shell heredoc
+(the heredoc halves backslashes). The Greek σθ ligature looks like a θ with a loop in front: MDZ and the
+judge drop the σ (δυσθαλπής, ἐσθίομεν, αἰσθήσει); keep it. The scan check runs well in the main session
+from contact sheets (`logs/sheets_t4.py`: 8 line crops per image, 4 images per call; 214 items in about an
+hour).
 
-## Ideas backlog (11-Nov-2026, after tranche 3)
+## Ideas backlog (11-Nov-2026, after tranche 3; updated 12-Nov-2026, after tranche 4)
 
 Low-effort improvements, not yet done. Pick from the top; tick off here when done.
 
 ### Pipeline and cost
 
-- [ ] **Greek accent pre-filter for the Flash flags.** Tranche 3 flagged 613 Greek words, most
+- [x] **Greek accent pre-filter for the Flash flags.** Measured 12-Nov-2026 and not done as written: a
+      stripped key for Flash removes only 15 of the 1,467 flags of tranche 3. The Greek noise comes from MDZ
+      (367 Greek flags where Flash agrees with Opus); see the next item. Tranche 3 flagged 613 Greek words, most
       of them accent differences. Compare Greek on a stripped key for Flash (as f/s is folded for
       MDZ) and let only MDZ raise accent flags. Biggest cost cut for the bird books.
-- [ ] **Rule list before the judge for the known MDZ quirks.** Flags where Flash agrees with Opus
+- [x] **Rule list before the judge for the known MDZ quirks.** Done 12-Nov-2026 for Greek (`check.is_mdz_quirk`,
+      kind `quirk`): Flash agrees with Opus and MDZ differs only by an accent, ε for the ου ligature or Φ for φ.
+      133 of 1,555 flags in tranche 4 were not judged. The price, from tranche 3: about 2 real accent changes
+      (an iota subscript) per tranche are not found. Still open: the same for Latin (f/s is folded already).
+      Flags where Flash agrees with Opus
       and MDZ differs only by f/s, hamza, ى, a dropped accent or glued punctuation go to a rule,
       not to Opus. Keep the MDZ-only flags that change a letter: those find the printer's errors.
-- [ ] **One translation batch per tranche.** `tranche.py translate` submits one batch per chapter;
+- [x] **One translation batch per tranche.** Done 12-Nov-2026 (`entry.batch_all`; custom ids take only
+      `[A-Za-z0-9_-]`). `tranche.py translate` submits one batch per chapter;
       collect all chunks and submit once.
 - [x] **Cost per step in `tranche.py`.** Done 11-Nov-2026 (`tranche.spend`). The batch results carry no cost; read the key's spend
       (`/api/v1/key`) before and after each step and print the delta, so the README cost column
