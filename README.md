@@ -47,6 +47,18 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 1, ch. 18: the hen's love for her chicks | 695–697 | [Latin](data/entries/gallina-pulli/la.md) · [English](data/entries/gallina-pulli/en.md) | 〃 |
 | Part 2, Book 1, ch. 19: the *barburim* of Solomon's table (1 Kgs 4:23) are the choicest fattened fowl | 698–708 | [Latin](data/entries/barburim/la.md) · [English](data/entries/barburim/en.md) | 〃 |
 | Part 2, Book 1, ch. 20: the peacocks (*thuccijim*); ivory and ebony | 709–720 | [Latin](data/entries/tukkiyim/la.md) · [English](data/entries/tukkiyim/en.md) | 〃 |
+| Part 2, Book 1, ch. 21: the word *tsippor*, any bird and specially the sparrow | 721–727 | [Latin](data/entries/tsippor/la.md) · [English](data/entries/tsippor/en.md) | $7.45 for the 12 chapters (66 new pages; tranche 5, 13-Nov-2026) |
+| Part 2, Book 1, ch. 22: nine passages that some refer to sparrows | 727–735 | [Latin](data/entries/passer-prophetae/la.md) · [English](data/entries/passer-prophetae/en.md) | 〃 |
+| Part 2, Book 1, ch. 23: the providence of God for sparrows (Matt 10:29) | 735–738 | [Latin](data/entries/passer-providentia/la.md) · [English](data/entries/passer-providentia/en.md) | 〃 |
+| Part 2, Book 2, ch. 1: the eagle, king of the birds: name, beak, talons, plumage, baldness, renewal | 739–749 | [Latin](data/entries/aquila/la.md) · [English](data/entries/aquila/en.md) | 〃 |
+| Part 2, Book 2, ch. 2: the eagle's wings, flight, nest, sight and food | 750–758 | [Latin](data/entries/aquila-volatus/la.md) · [English](data/entries/aquila-volatus/en.md) | 〃 |
+| Part 2, Book 2, ch. 3: the eagle's love for its young (Deut 32:11) | 759–766 | [Latin](data/entries/aquila-pulli/la.md) · [English](data/entries/aquila-pulli/en.md) | 〃 |
+| Part 2, Book 2, ch. 4: mystical eagles: God, the angels, the faithful, the great kings | 766–770 | [Latin](data/entries/aquila-mystica/la.md) · [English](data/entries/aquila-mystica/en.md) | 〃 |
+| Part 2, Book 2, ch. 5: the *peres* is the ossifrage | 770–773 | [Latin](data/entries/peres/la.md) · [English](data/entries/peres/en.md) | 〃 |
+| Part 2, Book 2, ch. 6: the *oznija* is not the haliaeetus but the black eagle | 774–776 | [Latin](data/entries/oznija/la.md) · [English](data/entries/oznija/en.md) | 〃 |
+| Part 2, Book 2, ch. 7: *daa* or *raa*, the kite | 777–778 | [Latin](data/entries/daah/la.md) · [English](data/entries/daah/en.md) | 〃 |
+| Part 2, Book 2, ch. 8: the *aja* is the merlin | 779–782 | [Latin](data/entries/ajah/la.md) · [English](data/entries/ajah/en.md) | 〃 |
+| Part 2, Book 2, ch. 9: the *daja* is the black vulture | 782–786 | [Latin](data/entries/dajah/la.md) · [English](data/entries/dajah/en.md) | 〃 |
 
 ### Tranches
 
@@ -56,6 +68,7 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | 2 | 10-Nov-2026 | 524–589 (66) | 7 | $8.23 | $0.125 | about 3 h | 219 | 52 / 17 | 40 | 26 |
 | 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | about 2 h (machine steps 30 min) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
 | 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | about 3 h (machine steps 45 min) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
+| 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | about 3.5 h (machine steps 65 min: the judge batch took 25) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -72,9 +85,25 @@ reason for the translation spot-check in the backlog of [AGENTS.md](AGENTS.md). 
 Syriac words on p. 699 (letters 2 and 3 of the third and fourth word), `מאד` for the print's `מאר`-like
 shape on p. 650, and the note mark (3) of p. 661, which the print does not have in the text.
 
+Tranche 5 (13-Nov-2026): OCR $2.98, judge $2.93, translation $1.28; the rest is three chunks translated again
+and the spot-check. The MDZ OCR does not have the heads of chs. 22 and 23 (pp. 727 and 735), so
+`find_chapters.py` showed one chapter where there are three: look for `CAP.` in the Opus OCR too. New in the
+code: a Latin flag where Flash agrees with Opus and MDZ differs only by its habits (in for m, tt/ft for
+ct/st, fl for ss, S for s, l/J for I) is not sent to the judge (`check.is_latin_quirk`: 88 flags; with the
+Greek rule, 188 of 1,399); `spotcheck.py`, a second model that lists where the English does not match the
+Latin (report only; $0.14 for the tranche, $0.58 for all the older chapters); Ethiopic gets a transliteration
+in brackets, in code (`translate.ethiopic_translit`); `concordance.py` and the
+[Hebrew concordance](https://ezrabrand.github.io/bochart-hierozoicon/hebrew.html) of every Hebrew-letter
+string, for the owner's QA. That QA found ו read for ז four times; the spot-check then listed more words that
+do not fit Bochart's own romanization, and 8 of 12 were wrong on the scan (ו/ז, ד/ר, ח/ת): these letters
+look alike in this type and all the readers agreed, so nothing was flagged. Not certain: the Samaritan
+words on pp. 770 and 778 (from the letter count and Bochart's romanization), `עוזא` for the third *uza* of
+p. 775, `שפשף` on p. 734, `الفينة` (*Phena*) on p. 773, and the Syriac of p. 782. The name "Jonathan" on
+p. 751 is the son of Saul, and the program identifies it as the Targum.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv` and `logs/vote_v2-649-721.csv` (column `outcome`), and for tranches 1 to 4 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv` and `logs/vote_v2-721-787.csv` (column `outcome`), and for tranches 1 to 5 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works
@@ -122,7 +151,8 @@ export OPENROUTER_KEY_FILE="path/to/key.txt"
    QA and the review crops. After the scan check, `tranche.py translate` sends the chunks of all the
    chapters as one translation batch and builds the site. Both print the cost of each paid step
    (the key's spend before and after). `uv run banned.py` then checks the English against the
-   chapters' fixed terms (no model call; a list to look at):
+   chapters' fixed terms (no model call; a list to look at), and `uv run spotcheck.py CHAPTER ... --tag t5`
+   lists where a second model finds that the English does not match the Latin (a few cents):
 
    ```bash
    uv run tranche.py prepare 591 648 --tag t3 --group A:591-610 --group B:611-630 --group C:631-648

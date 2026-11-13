@@ -1,0 +1,682 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0722",
+   "line": "paxaro (id est, passerem). Hinc Pomarius, קמחי אומר שלפעמים יוקח בער",
+   "old": "בער",
+   "new": "בעד",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0722",
+   "line": "aves ita dici contendit; שבעלות השחר מתחילות לרנן ולצפצף, quia ad ortum",
+   "old": "ולצפצף,",
+   "new": "ולצפצוף",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0723",
+   "line": "tamen avicularum multas species complectitur. Damir, وهو انواع منها",
+   "old": "وهو",
+   "new": "وهى",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0723",
+   "line": "من الصورة وعصفور الجنة وهو الخطاف والعصفور",
+   "old": "الصورة",
+   "new": "الصرورة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0724",
+   "line": "βιοτεύουσιν), ὁ δὲ ἀπαλὰς οὔσας ἐσθίει τὰς ἀκάνθας· Inimici sunt asinus et acan-",
+   "old": "ἀπαλὰς",
+   "new": "ἁπαλὰς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0725",
+   "line": "Tamen magis proprie צפצף est pipitus passerum. Pomarius, צפצף עשה קול",
+   "old": "צפצף",
+   "new": "צפצוף",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0729",
+   "line": "meminit. Itaque Iobi locum, quem diximus, Hieronymus ita explicat: Num-",
+   "old": "Num-",
+   "new": "Nun-",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0734",
+   "line": "Aruch ad vocem שמשך, qua significatur pertica, visco illita, ad aviculas capiendas.",
+   "old": "שמשך,",
+   "new": "שפשף,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0735",
+   "line": "ἀσσάριον. Lege, Ἓν ἥμισυ καὶ ἀσσάριον. Glossae Graeco-latinae Philoxeni,",
+   "old": "Philoxeni,",
+   "new": "Phloxeni,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0735",
+   "line": "הסלע ארבעה דינרין והדינר שש מעין ומעה היא הקראת בימי משה רבינו",
+   "old": "הקראת",
+   "new": "היקראת",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0735",
+   "line": "כמצא משקל המעה והיא הגרה שש עשרה שעורות ומשקל האסר ארבע שעורות",
+   "old": "כמצא",
+   "new": "נמצא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0736",
+   "line": "Et in Vibennios,",
+   "old": "Vibennios,",
+   "new": "Vivennios,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0740",
+   "line": "Αἰετὸς ἐὺν ὄρνισι μεταπρέπει ἀγρομένοισιν,",
+   "old": "ἐὺν",
+   "new": "εἰν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0741",
+   "line": "Mahometi: هبط علي جبريل فقال يا محمد ان لكل",
+   "old": "جبريل",
+   "new": "جبرييل",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0741",
+   "line": "وسيد الروم صهيب وسيد فارس سليمان وسيد",
+   "old": "صهيب",
+   "new": "صحيب",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0742",
+   "line": "pennarum dictam afferunt, quia נשר Rabbinis est defluere. Aut a visu; quia נשר",
+   "old": "afferunt,",
+   "new": "asserunt,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0743",
+   "line": "(1) نِسْر hodiernum esse Arabicum",
+   "old": "hodiernum",
+   "new": "hodienum",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0744",
+   "line": "ܡܠܝܢ ܛܦܪܘܗܝ, pleni ungues ejus, et versu septimo, ܣܓܝܐܢ",
+   "old": "ܛܦܪܘܗܝ,",
+   "new": "ܛܦܪ̈ܘܗܝ,",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0744",
+   "line": "vis propriae voces non desint, ut μαδίζεσθαι, πτερορρυῆσαι, et ἀποβάλλειν τὰ",
+   "old": "πτερορρυῆσαι,",
+   "new": "πτεροῤῥυῆσαι,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0745",
+   "line": "Graeci γῆρας, Romani senium et senectutem appellant. Itaque verba Psaltis eo-",
+   "old": "γῆρας,",
+   "new": "γήρας,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0746",
+   "line": "Michaeas (cap. I. vers. 16.) quidni pilos eis tribuere potuerit Propheta Daniel?",
+   "old": "I.",
+   "new": "1.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0747",
+   "line": "בים לקרר חומו ושם ימרט נוצתו ויתחדש נוצה אחרת ויתחדש כחו עד ק'",
+   "old": "ק'",
+   "new": "ק׳",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0748",
+   "line": "καὶ λούεται ἐπὶ τὴν ψυχρὰν λίμνην, καὶ κάθηται κατὰ τὸ ἡλιακὸν θερμὸν,",
+   "old": "ψυχρὰν",
+   "new": "ψυγρὰν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0749",
+   "line": "non sine caussa hoc dixerunt Scripturae. Nos quidquid illud significat faciamus, et",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0749",
+   "line": "tur ab albicante cauda, a fusco colore μορφνὸς, a nigro μελανάετος, ab ala-",
+   "old": "μελανάετος,",
+   "new": "μελαναίετος,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0749",
+   "line": "rum notis περκνόπτερος, et χρυσάετος, quae et ἀστερίας, ab aureo fulgore,",
+   "old": "χρυσάετος,",
+   "new": "χρυσαίετος,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0749",
+   "line": "maximam, haec Aeliani nos docent Hist. lib. 2. cap. 39. Ἀκούω δὲ τι καὶ γένος",
+   "old": "δὲ",
+   "new": "δέ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0749",
+   "line": "ἀετῶν, καὶ ὄνομα αὐτῶν χρυσάετον ἔθεντο· ἄλλοι δὲ ἀστερίαν τὸν αὐτὸν κα-",
+   "old": "χρυσάετον",
+   "new": "χρυσαίετον",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0751",
+   "line": "أبلء, intelligentis, perpensa est, et Bo-",
+   "old": "أبلء,",
+   "new": "إباء,",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0752",
+   "line": "pres habet, Si efferam alas meam ܐܝܟ ܢܫܪܐ, sicut aquila, et habitem in ex-",
+   "old": "ܢܫܪܐ,",
+   "new": "ܕܢܫܪܐ,",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0753",
+   "line": "כשרים, A Rameses Succotham sunt itineris centum viginti millia, quae unius ho-",
+   "old": "כשרים,",
+   "new": "נשרים,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0753",
+   "line": "Dio lib. 56. in Augusti funere, Καὶ ἡ πύρα μὲν ἀνηλίσκετο· ἀετὸς δέ τις ἐξ",
+   "old": "ἀνηλίσκετο·",
+   "new": "ἀναλίσκετο·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0756",
+   "line": "يري الجيفة من اربع مايه فرسخ Est acerrimi visus, ita,",
+   "old": "مايه",
+   "new": "ماية",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0759",
+   "line": "Graecorum χρυσαιετος, et narret TAUBE",
+   "old": "χρυσαιετος,",
+   "new": "χρυσαίετος,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0759",
+   "line": "so grofs, als ein Welscher Hahn, der bey",
+   "old": "grofs,",
+   "new": "gross,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0759",
+   "line": "dafs er wohl mit einem grofsen Lamme",
+   "old": "dafs",
+   "new": "dass",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0759",
+   "line": "dafs er wohl mit einem grofsen Lamme",
+   "old": "grofsen",
+   "new": "grossen",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0759",
+   "line": "davon fliegen könne, und dafs er viele",
+   "old": "dafs",
+   "new": "dass",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0760",
+   "line": "Excitandi verbum ita explicat R. Selomo: הוה רחמני על בניו ואינו נכנס לקנו",
+   "old": "הוה",
+   "new": "הזה",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0760",
+   "line": "id est, σκιάϱπαξ, umbrae suae raptrix: quia, cum imaginem suam in aqua vi-",
+   "old": "σκιάϱπαξ,",
+   "new": "σκιάρπαξ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0761",
+   "line": "docet primos πτερυγισμοὺς et ὀρταλισμοὺς. Itaque Propheta post ירחף addit",
+   "old": "ὀρταλισμοὺς.",
+   "new": "ὀρταλισμούς.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0763",
+   "line": "tustiorum occurrit, qui idem afferat. Tamen, si Aeliano credimus Hist. lib. 7.",
+   "old": "afferat.",
+   "new": "asserat.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0764",
+   "line": "τῶν ἀετῶν στοργῆς, De aquilarum amore erga pullos, in quo inter caetera haec ha-",
+   "old": "ἀετῶν",
+   "new": "αἰετῶν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0764",
+   "line": "bentur: Ζηλοτυπώτατον δὲ ἐστι ζῶον ἀετὸς περὶ τὰ νεόττια. ἐὰν γοῦν θεάση-",
+   "old": "δὲ",
+   "new": "δέ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0764",
+   "line": "Excipit, attollitque humeris, plausuque secundo",
+   "old": "secundo",
+   "new": "secundò",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0770",
+   "line": "et Schindlero. Sed Ionathani עזוא uza, de qua sequenti capite. Arabibus",
+   "old": "עזוא",
+   "new": "עוזא",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0771",
+   "line": "vocabulum פרס paras. Sed et haec conjectura duabus de caussis inanis est.",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0772",
+   "line": "كاسر id est, fractor, vel كاسر العظام fractor ossium (1). Itaque",
+   "old": "العظام",
+   "new": "اعظام",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0773",
+   "line": "κατεάκτης· in altero, sed perperam, ὀστοκόραξ, Dioscoridi φῖνις. Φῖνις, in-",
+   "old": "φῖνις.",
+   "new": "φίνις.",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0773",
+   "line": "κατεάκτης· in altero, sed perperam, ὀστοκόραξ, Dioscoridi φῖνις. Φῖνις, in-",
+   "old": "Φῖνις,",
+   "new": "Φίνις,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "Notandum, tam עוניה oznija, quam פרס peres, a nonnullis pro gryphe",
+   "old": "עוניה",
+   "new": "עזניה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "haberi. Ac proinde utrumque עזו uz, vel עזוא uza reddi, quae vox paraphra-",
+   "old": "עזו",
+   "new": "עוז",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "haberi. Ac proinde utrumque עזו uz, vel עזוא uza reddi, quae vox paraphra-",
+   "old": "עזוא",
+   "new": "עוזא",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "מכנף העזו, ex ala τοῦ uz, id est, gryphis, Glossator haec habet: עוף הוא",
+   "old": "העזו,",
+   "new": "העוז,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "ששמו עזניה ורגילים היו לעשות כלים מכנף אותו העזו, Avis est, quae (in",
+   "old": "העזו,",
+   "new": "העוז,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "כף העזו מכל הכפים, Planta (avis) uz omni alia praestat, pro כנף העזו מכל",
+   "old": "העזו",
+   "new": "העוז",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "כף העזו מכל הכפים, Planta (avis) uz omni alia praestat, pro כנף העזו מכל",
+   "old": "העזו",
+   "new": "העוז",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0775",
+   "line": "nus verisimiles, ut opinor, protulit MI-",
+   "old": "verisimiles,",
+   "new": "verissimiles,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0776",
+   "line": "risimile, aquilam esse nigram, quam Graeci composita voce μελαναίετον appellant.",
+   "old": "risimile,",
+   "new": "rissimile,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0777",
+   "line": "etc. Budaeus, Horam integram, aut plus eo, milvos observavimus, non iacta-",
+   "old": "iacta-",
+   "new": "jacta-",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0778",
+   "line": "ex Abenbitare clarum, capite قاطانانقي Catananke, in quo Graeca haec",
+   "old": "قاطانانقي",
+   "new": "قاطاننقي",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0780",
+   "line": "هو الذي مجز به وهو المغص وهو طاير صغير",
+   "old": "مجز",
+   "new": "منجز",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0780",
+   "line": "قصير الذنب ومزاجه بالنسبة الي الماشق بارد",
+   "old": "الماشق",
+   "new": "الباشق",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0784",
+   "line": "Ἄρειον εἰσελθὼν, γύπας ἓξ· καὶ μετὰ ταῦτα δημηγορῶν τι πρὸς τοὺς στρατιώ-",
+   "old": "στρατιώ-",
+   "new": "στρατειώ-",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0787",
+   "line": "Αἰγύπιοὶ, γῦπές τε, κόραξ τ᾽ ὀμβρήρεα κρώζων,",
+   "old": "Αἰγύπιοὶ,",
+   "new": "Αἰγυπιοὶ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

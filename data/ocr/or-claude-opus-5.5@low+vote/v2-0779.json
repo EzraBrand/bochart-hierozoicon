@@ -1,0 +1,111 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VIII. <i>Probatur,</i> איה <i>esse Accipitris speciem.</i> 779",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VIII. <i>Probatur,</i> איה <i>esse Accipitris speciem.</i> 779"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VIII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> איה aja <i>esse Accipitris speciem, quam veteres</i>\n<i>aesalonem, Germani Smirle appellant, nos</i>\n<i>esmerillon.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> איה aja <i>esse Accipitris speciem, quam veteres</i>\n<i>aesalonem, Germani Smirle appellant, nos</i>\n<i>esmerillon.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Post tractatum <i>De Aquila</i> tres avium appellationes explicare conati sumus,\nnempe פרס <i>peres</i>, עזניה <i>oznija</i>, et דאה <i>daa</i>, vel ראה <i>raa</i>: quae extra im-\nmundarum catalogum nusquam reperiuntur. Itaque cum in harum interpreta-\ntione tam veteres, quam novi interpretes maxime dissentiant, aliunde exsculpi\nnon potuit vera significatio, quam ex sola vocum origine. Nunc quatuor subse-\nquentur, איה <i>aja</i> nimirum, et דיה <i>daja</i>, et עורב <i>oreb</i>, et בת־יענה <i>bath-jaana</i>:\nquae cum alibi reperiantur, in harum explicatione plus affulgebit lucis. Tamen\nde prima valde ambigitur. <i>Graeci</i> modo <i>vulturem</i>, modo <i>milvum</i> explicant. ⟦p. 193⟧\nPrius sequuntur <i>Hieronymus</i>, <i>Munsterus</i>, <i>Pagninus</i>, <i>Castalio</i>, <i>Anglica</i> et <i>Itali-</i>\n<i>ca</i> versio: posterius <i>Arabs</i> in <i>Iobo</i>, <i>Schindlerus</i> et <i>Genevenses</i>. <i>Ionathan</i> reddit\nדייתא אוכמתא, <i>vulturem nigrum</i>. Ierosolymitanus, אבו <i>ibbu</i>, quod puto idem\nesse. <i>Onkelos</i>, טרפיתא, <i>rapacem avem</i>, nomine generico, quia ignoravit spe-\nciem. <i>Arabes</i> in <i>Mose</i> الصدا <i>bubonem</i>. Kimchius, יגא״וא, <i>picam</i>. Iunius\net Buxtorfius, <i>picam</i>, aut <i>cornicem</i>. Arias, <i>variam avem</i>. Pomarius, <i>vultu-</i>\n<i>rem</i>, aut <i>accipitrem</i>. Aben Ezra, <i>avem insularem</i>, tanquam ab אי, id est, ab\n<i>insula</i> facto nomine. Alii <i>Hebraeorum</i>, ut <i>R. Levi</i>, <i>Mardochaeus</i>, <i>Aquinas</i>,\ncaeteris prudentiores, solum dicunt esse שם עוף, <i>nomen avis</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Post tractatum <i>De Aquila</i> tres avium appellationes explicare conati sumus,\nnempe פרס <i>peres</i>, עזניה <i>oznija</i>, et דאה <i>daa</i>, vel ראה <i>raa</i>: quae extra im-\nmundarum catalogum nusquam reperiuntur. Itaque cum in harum interpreta-\ntione tam veteres, quam novi interpretes maxime dissentiant, aliunde exsculpi\nnon potuit vera significatio, quam ex sola vocum origine. Nunc quatuor subse-\nquentur, איה <i>aja</i> nimirum, et דיה <i>daja</i>, et עורב <i>oreb</i>, et בת־יענה <i>bath-jaana</i>:\nquae cum alibi reperiantur, in harum explicatione plus affulgebit lucis. Tamen\nde prima valde ambigitur. <i>Graeci</i> modo <i>vulturem</i>, modo <i>milvum</i> explicant. ⟦p. 193⟧\nPrius sequuntur <i>Hieronymus</i>, <i>Munsterus</i>, <i>Pagninus</i>, <i>Castalio</i>, <i>Anglica</i> et <i>Itali-</i>\n<i>ca</i> versio: posterius <i>Arabs</i> in <i>Iobo</i>, <i>Schindlerus</i> et <i>Genevenses</i>. <i>Ionathan</i> reddit\nדייתא אוכמתא, <i>vulturem nigrum</i>. Ierosolymitanus, אבו <i>ibbu</i>, quod puto idem\nesse. <i>Onkelos</i>, טרפיתא, <i>rapacem avem</i>, nomine generico, quia ignoravit spe-\nciem. <i>Arabes</i> in <i>Mose</i> الصدا <i>bubonem</i>. Kimchius, יגא״וא, <i>picam</i>. Iunius\net Buxtorfius, <i>picam</i>, aut <i>cornicem</i>. Arias, <i>variam avem</i>. Pomarius, <i>vultu-</i>\n<i>rem</i>, aut <i>accipitrem</i>. Aben Ezra, <i>avem insularem</i>, tanquam ab אי, id est, ab\n<i>insula</i> facto nomine. Alii <i>Hebraeorum</i>, ut <i>R. Levi</i>, <i>Mardochaeus</i>, <i>Aquinas</i>,\ncaeteris prudentiores, solum dicunt esse שם עוף, <i>nomen avis</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nobis <i>Hebraeorum</i> האיה <i>haaja</i> avis eadem, quae <i>Arabum</i> اليويو\n<i>aljuju</i>. Avis est a clamore sic dicta. Nam ut aquilarum clangere est, milvo-\nrum jugere vel lipire, accipitrum pipare, et crocitare corvorum: ita hujus avis\nproprium est يايا <i>jaja</i>, secundum <i>Arabes</i>, et clamor ipse dicitur اليايا\n<i>aljajao</i>. Inde igitur ipsa avis <i>Hebraice</i> dicta videtur איה <i>aja</i>, ut <i>Arabice</i> يويو\n<i>juju</i>, et in plurali يايي <i>jaji</i>. Neque novum id videri debet, ut avis no-\nmen a voce sumatur, si vere <i>Varro</i> libro quarto <i>De lingua Latina</i>, <i>Pleraeque</i>\n(aves) <i>a suis vocibus, ut hae, upupa, cuculus, corvus, hirundo, ulula, bubo:</i>\n<i>item hae: pavo, anser, gallina, columba.</i> Est porro اليويو <i>aljuju</i> in acci-\npitrum speciebus, quorum ut <i>Aristoteles</i> decem, <i>Plinius</i> sedecim censet genera:\nita <i>Arabes</i> multa numerant. Atque in his est صقر <i>sacer</i>, vernaculo sermo-\nne <i>sacre</i>, qui rursus in tres species subdividitur, nempe in sacrum proprie di-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nobis <i>Hebraeorum</i> האיה <i>haaja</i> avis eadem, quae <i>Arabum</i> اليويو\n<i>aljuju</i>. Avis est a clamore sic dicta. Nam ut aquilarum clangere est, milvo-\nrum jugere vel lipire, accipitrum pipare, et crocitare corvorum: ita hujus avis\nproprium est يايا <i>jaja</i>, secundum <i>Arabes</i>, et clamor ipse dicitur اليايا\n<i>aljajao</i>. Inde igitur ipsa avis <i>Hebraice</i> dicta videtur איה <i>aja</i>, ut <i>Arabice</i> يويو\n<i>juju</i>, et in plurali يايي <i>jaji</i>. Neque novum id videri debet, ut avis no-\nmen a voce sumatur, si vere <i>Varro</i> libro quarto <i>De lingua Latina</i>, <i>Pleraeque</i>\n(aves) <i>a suis vocibus, ut hae, upupa, cuculus, corvus, hirundo, ulula, bubo:</i>\n<i>item hae: pavo, anser, gallina, columba.</i> Est porro اليويو <i>aljuju</i> in acci-\npitrum speciebus, quorum ut <i>Aristoteles</i> decem, <i>Plinius</i> sedecim censet genera:\nita <i>Arabes</i> multa numerant. Atque in his est صقر <i>sacer</i>, vernaculo sermo-\nne <i>sacre</i>, qui rursus in tres species subdividitur, nempe in sacrum proprie di-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Fffff 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fffff 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "ctum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ctum"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1808,
+    1567
+   ],
+   [
+    1808,
+    1233
+   ]
+  ],
+  "input_tokens": 8460,
+  "output_tokens": 1799,
+  "cost_usd": 0,
+  "seconds": 370.2,
+  "vote": "0 decisions from v2-721-787"
+ }
+}

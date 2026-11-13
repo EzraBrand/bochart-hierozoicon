@@ -1,0 +1,194 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "750\nAquilae alae et volatus.\nP. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "750\nAquilae alae et volatus.\nP. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Aquilae alae, volatus, nidus, visus, victus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquilae alae, volatus, nidus, visus, victus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Alas aquilae Scriptura commendat a magnitudine, <i>Ezechielis XVII, 3. Aquila</i> ⟦p. 170.⟧\n<i>grandis, magnis alis, longis pennis</i>, etc. Et ibi Graeci, Ὁ ἀετὸς ὁ μέ-\nγας, ὁ μεγάλε πτέρυγος, ὁ μακρὸς τῇ ἐκτάσει. Quia et magnas habet alas\naquila, et eas inter volandum quam maxime extendit. Unde τανύπτερος <i>poetis</i>,\nquasi <i>alis extensam</i> dicas. <i>Hesiodus Theogoniae</i> versu 523.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Alas aquilae Scriptura commendat a magnitudine, <i>Ezechielis XVII, 3. Aquila</i> ⟦p. 170.⟧\n<i>grandis, magnis alis, longis pennis</i>, etc. Et ibi Graeci, Ὁ ἀετὸς ὁ μέ-\nγας, ὁ μεγάλε πτέρυγος, ὁ μακρὸς τῇ ἐκτάσει. Quia et magnas habet alas\naquila, et eas inter volandum quam maxime extendit. Unde τανύπτερος <i>poetis</i>,\nquasi <i>alis extensam</i> dicas. <i>Hesiodus Theogoniae</i> versu 523."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καὶ οἱ ἐπ' αἰετὸν ὦρσε τανύπτερον,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καὶ οἱ ἐπ' αἰετὸν ὦρσε τανύπτερον,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et illi excitavit aquilam, alis extensam.</i> Et <i>Pindarus Pyth. 5.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et illi excitavit aquilam, alis extensam.</i> Et <i>Pindarus Pyth. 5.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τανύπτερος ἐν ὄρνιξιν αἰετὸς,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τανύπτερος ἐν ὄρνιξιν αἰετὸς,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aquila in avibus alis maxime extensa.</i> Quod ita describit summus Vates libro\nultimo <i>Iliados</i> versu 317.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquila in avibus alis maxime extensa.</i> Quod ita describit summus Vates libro\nultimo <i>Iliados</i> versu 317."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὅσση δ' ὑψορόφοιο θύρη θαλάμοιο τέτυκται\nἈνέρος ἀφνειοῖο ἐϋκληῒς ἀραρυῖα,\nΤόσσ' ἄρα τῶ ἑκάτερθεν ἔσαν πτερά.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὅσση δ' ὑψορόφοιο θύρη θαλάμοιο τέτυκται\nἈνέρος ἀφνειοῖο ἐϋκληῒς ἀραρυῖα,\nΤόσσ' ἄρα τῶ ἑκάτερθεν ἔσαν πτερά."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quanta autem est janua alti cubiculi viri divitis, bene serata, affabre facta, tantae</i>\n<i>utrimque erant hujus alae.</i> Et apud <i>Gesnerum</i> pag. 206. <i>Georgius Fabricius</i> ni-\ndi aquilae meminit, inter <i>Misenam</i> et <i>Bresam</i>, <i>Germaniae</i> oppida, anno 1500. re-\nperti, ac trium in eo pullorum, quorum unius alae, per transversum extensae,\nseptem ulnarum mensuram aequabant.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quanta autem est janua alti cubiculi viri divitis, bene serata, affabre facta, tantae</i>\n<i>utrimque erant hujus alae.</i> Et apud <i>Gesnerum</i> pag. 206. <i>Georgius Fabricius</i> ni-\ndi aquilae meminit, inter <i>Misenam</i> et <i>Bresam</i>, <i>Germaniae</i> oppida, anno 1500. re-\nperti, ac trium in eo pullorum, quorum unius alae, per transversum extensae,\nseptem ulnarum mensuram aequabant."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "His alis aquila rapidissime fertur et summo cum impetu, maxime cum in\npraedam ruit. Hinc <i>Apulejus</i> lib. 1. <i>Floridorum</i> aquilam ait <i>in praedam super-</i>\n<i>ne sese ruere fulminis vice.</i> Et apud <i>Ciceronem</i> lib. 2. <i>De Divinatione</i> cum ad in-\nterpretem retulisset cursor, aquilam se in somnis visum esse factum. <i>Vicisti</i>, ait\nille, <i>ista enim ave volat nulla vehementius.</i> Proinde draconem, alioqui audax\nanimal et intrepidum, alarum aquilae solo fragore fugari, veteres tradunt.\n<i>Aelianus Hist.</i> lib. 2. cap. 26. Καὶ τόν γε τῶν πτερῶν αὐτῶ ῥοῖζον, καὶ τό τῶν\nθηρίων ἀτρεπτότατον, ὅμως κατέπτηξεν ὁ δράκων ἀκύσας μόνον καὶ παρα-\nχρῆμα κατέδυ, καὶ ἀσμένως ἠφανίσθη. <i>Phile</i> cap. 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "His alis aquila rapidissime fertur et summo cum impetu, maxime cum in\npraedam ruit. Hinc <i>Apulejus</i> lib. 1. <i>Floridorum</i> aquilam ait <i>in praedam super-</i>\n<i>ne sese ruere fulminis vice.</i> Et apud <i>Ciceronem</i> lib. 2. <i>De Divinatione</i> cum ad in-\nterpretem retulisset cursor, aquilam se in somnis visum esse factum. <i>Vicisti</i>, ait\nille, <i>ista enim ave volat nulla vehementius.</i> Proinde draconem, alioqui audax\nanimal et intrepidum, alarum aquilae solo fragore fugari, veteres tradunt.\n<i>Aelianus Hist.</i> lib. 2. cap. 26. Καὶ τόν γε τῶν πτερῶν αὐτῶ ῥοῖζον, καὶ τό τῶν\nθηρίων ἀτρεπτότατον, ὅμως κατέπτηξεν ὁ δράκων ἀκύσας μόνον καὶ παρα-\nχρῆμα κατέδυ, καὶ ἀσμένως ἠφανίσθη. <i>Phile</i> cap. 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τότε δὲ καὶ τὸν ῥοῖζον ἀκύσας δράκων,\nἜπτηξέ τε παραχρῆμα, καὶ συνεστάλη,\nΚαὶ τὲς μυχὲς ὑπῆλθε τὲς ἀποκρύφες.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τότε δὲ καὶ τὸν ῥοῖζον ἀκύσας δράκων,\nἜπτηξέ τε παραχρῆμα, καὶ συνεστάλη,\nΚαὶ τὲς μυχὲς ὑπῆλθε τὲς ἀποκρύφες."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hinc est, quod <i>aquilonem</i> ventum appellari vult <i>Festus</i> <i>a vehementissimo volatu</i>\n<i>ad instar aquilae.</i> Et aquilam ipsam Graece ἀετὸν dici plerique putant ἀπὸ τῶ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hinc est, quod <i>aquilonem</i> ventum appellari vult <i>Festus</i> <i>a vehementissimo volatu</i>\n<i>ad instar aquilae.</i> Et aquilam ipsam Graece ἀετὸν dici plerique putant ἀπὸ τῶ"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "αἴσσειν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "αἴσσειν,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1963,
+    1285
+   ],
+   [
+    1963,
+    1551
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1311,
+  "cost_usd": 0.0075,
+  "seconds": 11.0
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "786 <i>Probatur,</i> דיה <i>esse Vulturem nigrum.</i> P.II. L.II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "786 <i>Probatur,</i> דיה <i>esse Vulturem nigrum.</i> P.II. L.II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et capite quinquagesimo octavo ad comitialem morbum,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et capite quinquagesimo octavo ad comitialem morbum,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Prodest cum veteri</i> Baccho <i>fel vulturis atri.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Prodest cum veteri</i> Baccho <i>fel vulturis atri.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quamvis alii <i>ampli</i> legant: et excipiat <i>Plinius</i> remedia contra serpentes, in\nquibus nigros vultures minus valere scribit libri vigesimi noni capite quarto.\n<i>Ex volucribus</i> (inquit) <i>in auxilio contra serpentes primum vultur est. Anno-\ntatum quoque, minus virium esse nigris. Nigros</i> illos <i>vultures</i> αἰγυπιοὺς pro-\nprie dici, ac utriusque sexus, contra quam alios vultures, et inter aquili-\nnum et vulturinum genus, <i>Aelianus</i> his verbis tradit libri secundi capite\nquadragesimo sexto: Τοὺς δὲ αἰγυπιοὺς (λέγουσιν) ἐν μεθορίῳ γυπῶν ὄντας\nκαὶ αἰετῶν, εἶναι καὶ ἄῤῥενας, καὶ τὴν χρόαν πεφυκέναι μέλανας. Et\n<i>Phile aegypios</i> pro <i>Aegyptiis</i> dici insinuat, cum capite secundo scribit, εἶναι\nδὲ καὶ τοὺς μέλανας ὡς Αἰγυπτίους, <i>eos etiam esse nigros, ut</i> Aegyptios^{(4)}.\nSed aliud αἰγυπιὸς, aliud Αἰγύπτιος. Illud ἀπὸ τῆς γυπός· hoc vero fa-\nctum ex <i>Cophti.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quamvis alii <i>ampli</i> legant: et excipiat <i>Plinius</i> remedia contra serpentes, in\nquibus nigros vultures minus valere scribit libri vigesimi noni capite quarto.\n<i>Ex volucribus</i> (inquit) <i>in auxilio contra serpentes primum vultur est. Anno-\ntatum quoque, minus virium esse nigris. Nigros</i> illos <i>vultures</i> αἰγυπιοὺς pro-\nprie dici, ac utriusque sexus, contra quam alios vultures, et inter aquili-\nnum et vulturinum genus, <i>Aelianus</i> his verbis tradit libri secundi capite\nquadragesimo sexto: Τοὺς δὲ αἰγυπιοὺς (λέγουσιν) ἐν μεθορίῳ γυπῶν ὄντας\nκαὶ αἰετῶν, εἶναι καὶ ἄῤῥενας, καὶ τὴν χρόαν πεφυκέναι μέλανας. Et\n<i>Phile aegypios</i> pro <i>Aegyptiis</i> dici insinuat, cum capite secundo scribit, εἶναι\nδὲ καὶ τοὺς μέλανας ὡς Αἰγυπτίους, <i>eos etiam esse nigros, ut</i> Aegyptios^{(4)}.\nSed aliud αἰγυπιὸς, aliud Αἰγύπτιος. Illud ἀπὸ τῆς γυπός· hoc vero fa-\nctum ex <i>Cophti.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Αἰγυπιον Schneiderus ad Aelian. II,\n46. eundem suspicatur, quem Bellonius\n(<i>de avibus</i> Lib. II. cap. 23.) in Aegypto fre-\nquentem vidit, et vulturem nigrum appella-\nvit, de quo tamen nondum satis constet,\nan idem sit cum <i>percnoptero</i> Linnaei. Idem\nSchneiderus <i>ad Reliqua Friderici</i> II. p. 14.\nobservat, <i>vulturem atrum</i> veterum esse\n<i>Galeranum nigrum</i> Imperatoris (pag. 28.),\n<i>Avoltoio nero</i> CETTI in <i>Histor. Nat. Sar-\ndin.</i> T. II. p. 9. seqq. vers. germ. In Lin-\nnaeani Systematis edit. novissima T. I. P. I.\np. 248. num. 9. ea vulturis species apparet\nsub lemmate <i>Vulturis nigri, remigibus\nrectricibusque fuscis, pedum pennis nigris.</i>\nDubium tamen etiam est Gmelino, <i>an me-\nra sit varietas percnopteri</i> (qui est Hebr.\net Arab. רחם)? — Quo vero argumento\nmotus PAULUS in <i>Clavi in Iesaj.</i> pag. 234.\nדיות <i>vultures albos</i> existimet, equidem non\npossum assequi.",
+   "marker": "(4)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Αἰγυπιον Schneiderus ad Aelian. II,\n46. eundem suspicatur, quem Bellonius\n(<i>de avibus</i> Lib. II. cap. 23.) in Aegypto fre-\nquentem vidit, et vulturem nigrum appella-\nvit, de quo tamen nondum satis constet,\nan idem sit cum <i>percnoptero</i> Linnaei. Idem\nSchneiderus <i>ad Reliqua Friderici</i> II. p. 14.\nobservat, <i>vulturem atrum</i> veterum esse\n<i>Galeranum nigrum</i> Imperatoris (pag. 28.),\n<i>Avoltoio nero</i> CETTI in <i>Histor. Nat. Sar-\ndin.</i> T. II. p. 9. seqq. vers. germ. In Lin-\nnaeani Systematis edit. novissima T. I. P. I.\np. 248. num. 9. ea vulturis species apparet\nsub lemmate <i>Vulturis nigri, remigibus\nrectricibusque fuscis, pedum pennis nigris.</i>\nDubium tamen etiam est Gmelino, <i>an me-\nra sit varietas percnopteri</i> (qui est Hebr.\net Arab. רחם)? — Quo vero argumento\nmotus PAULUS in <i>Clavi in Iesaj.</i> pag. 234.\nדיות <i>vultures albos</i> existimet, equidem non\npossum assequi."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1706,
+    1131
+   ],
+   [
+    1706,
+    1697
+   ]
+  ],
+  "input_tokens": 8117,
+  "output_tokens": 1326,
+  "cost_usd": 0,
+  "seconds": 370.2
+ }
+}

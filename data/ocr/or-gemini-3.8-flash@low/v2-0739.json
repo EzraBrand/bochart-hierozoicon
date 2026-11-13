@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "DE ⟦p. 161.⟧\nSCRIPTURAE ANIMALIBUS\n<i>PARS SECUNDA</i>\n<i>LIBER SECUNDUS</i>\nDE\nDE IMMUNDIS AVIBUS.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "DE ⟦p. 161.⟧\nSCRIPTURAE ANIMALIBUS\n<i>PARS SECUNDA</i>\n<i>LIBER SECUNDUS</i>\nDE\nDE IMMUNDIS AVIBUS."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. I."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Aquila, rex avium; ejus nomen, rostrum, ungues, plu-\nma, calvitium, renovatio, color.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquila, rex avium; ejus nomen, rostrum, ungues, plu-\nma, calvitium, renovatio, color.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Immundas aves in hoc libro eodem ordine proponemus, quo <i>Moses Levit. XI</i>,\n13. et <i>Deut. XIV</i>, 2. Prima omnium est aquila. Quo pertinet, quod hic\nhabet <i>Baal Hatturim</i>, פתח בנשר שהוא מלך בעופות, <i>Incepit ab aquila, quia\nest rex avium</i>. In earum scilicet avium censu, quarum esum Iudaeis interdixit\nDeus, vult aquilam merito ducere ordinem, cum in reliquas aves regnum ei\ndederit consensus gentium, propter eximias dotes, quibus supra illas eminet.\nDe Graecis res manifesta est. Aquilam enim vocat <i>Pindarus Olymp.</i> 13.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Immundas aves in hoc libro eodem ordine proponemus, quo <i>Moses Levit. XI</i>,\n13. et <i>Deut. XIV</i>, 2. Prima omnium est aquila. Quo pertinet, quod hic\nhabet <i>Baal Hatturim</i>, פתח בנשר שהוא מלך בעופות, <i>Incepit ab aquila, quia\nest rex avium</i>. In earum scilicet avium censu, quarum esum Iudaeis interdixit\nDeus, vult aquilam merito ducere ordinem, cum in reliquas aves regnum ei\ndederit consensus gentium, propter eximias dotes, quibus supra illas eminet.\nDe Graecis res manifesta est. Aquilam enim vocat <i>Pindarus Olymp.</i> 13."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — οἰωνῶν βασιλῆα,\n<i>avium regem</i>. Et <i>Pyth.</i> 1.\nΔιὸς αἰετὸν, ἀρχὸν οἰωνῶν,\n<i>Iovis aquilam, ducem avium</i>. Et <i>Istm.</i> 6.\n— — — ἀρχὸν οἰωνῶν μέγαν αἰετὸν,\n<i>principem avium, magnam aquilam</i>. Et oraculum de <i>Atheniensibus</i> in <i>Equitibus</i> ⟦p. 162.⟧\n<i>Aristophanis</i> Actu tertio,\nΑἰετὸς ὡς γίνει, καὶ πάσης γῆς βασιλεύσεις,\n<i>Esto ut aquila, et toti orbi dominabere</i>. <i>Nicander</i> etiam, ubi de aquilae et dra-\nconis pugna, <i>Theriacων</i> versu 448.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — οἰωνῶν βασιλῆα,\n<i>avium regem</i>. Et <i>Pyth.</i> 1.\nΔιὸς αἰετὸν, ἀρχὸν οἰωνῶν,\n<i>Iovis aquilam, ducem avium</i>. Et <i>Istm.</i> 6.\n— — — ἀρχὸν οἰωνῶν μέγαν αἰετὸν,\n<i>principem avium, magnam aquilam</i>. Et oraculum de <i>Atheniensibus</i> in <i>Equitibus</i> ⟦p. 162.⟧\n<i>Aristophanis</i> Actu tertio,\nΑἰετὸς ὡς γίνει, καὶ πάσης γῆς βασιλεύσεις,\n<i>Esto ut aquila, et toti orbi dominabere</i>. <i>Nicander</i> etiam, ubi de aquilae et dra-\nconis pugna, <i>Theriacων</i> versu 448."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Aaaaa 2 Τῷ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aaaaa 2 Τῷ"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1848,
+    1683
+   ],
+   [
+    1848,
+    1125
+   ]
+  ],
+  "input_tokens": 3411,
+  "output_tokens": 679,
+  "cost_usd": 0.0051,
+  "seconds": 7.4
+ }
+}

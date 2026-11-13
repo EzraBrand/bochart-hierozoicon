@@ -1,0 +1,194 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. <i>Corvi nomina, vox et color.</i> 787",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. <i>Corvi nomina, vox et color.</i> 787"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. X.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. X."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Corvi nomina, vox, color, sedes, victus, species, etc.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Corvi nomina, vox, color, sedes, victus, species, etc.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Corvus, de quo jam agendum, duo habet, quae in sensus maxime se inge- ⟦p. 198⟧\nrunt, crocitationem et nigredinem. <i>Crocitatio, Graece</i> κρωγμὸς, est vox\nrauca et aspera, ex imis ducta faucibus, quam corvi, quasi certatim, magna\ncontentione ingeminant; inprimis, cum pluvias et tempestates praesagiunt.\nHinc <i>Nicander Theriacῶν</i> versu 406.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Corvus, de quo jam agendum, duo habet, quae in sensus maxime se inge- ⟦p. 198⟧\nrunt, crocitationem et nigredinem. <i>Crocitatio, Graece</i> κρωγμὸς, est vox\nrauca et aspera, ex imis ducta faucibus, quam corvi, quasi certatim, magna\ncontentione ingeminant; inprimis, cum pluvias et tempestates praesagiunt.\nHinc <i>Nicander Theriacῶν</i> versu 406."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αἰγύπιοὶ, γῦπές τε, κόραξ τ᾽ ὀμβρήρεα κρώζων,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αἰγύπιοὶ, γῦπές τε, κόραξ τ᾽ ὀμβρήρεα κρώζων,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aegypii, et vultures, et corvus pluvia crocitans</i>, id est, pluvium tempus futu-\nrum crocitatione praenuntians. <i>Lucretius</i> libri quinti versu 1082.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aegypii, et vultures, et corvus pluvia crocitans</i>, id est, pluvium tempus futu-\nrum crocitatione praenuntians. <i>Lucretius</i> libri quinti versu 1082."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et partim mutant cum tempestatibus una</i>\n<i>Raucisonos cantus cornicum, et saec'la vetusta,</i>\n<i>Corvorumque greges, ubi aquas dicuntur et imbres</i>\n<i>Poscere, et interdum ventos aurasque vocare.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et partim mutant cum tempestatibus una</i>\n<i>Raucisonos cantus cornicum, et saec'la vetusta,</i>\n<i>Corvorumque greges, ubi aquas dicuntur et imbres</i>\n<i>Poscere, et interdum ventos aurasque vocare.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nigredo quoque corvi propria, eaque intensissima, et per totum corpus dif-\nfusa. Non tamen usquequaque verum est, quod a <i>Porphyrio</i> scribitur capite\nquinto <i>Isagoges</i>: Τὸ δὲ μέλαν εἶναι ἀχωρίστως τῷ κόρακι καὶ τῷ Αἰθίοπι συμ-\nβέβηκε· <i>Nigredo corvo et</i> Aethiopi <i>sic inest, ut separari non possit.</i> Quippe et-\niam albi corvi visi sunt. <i>Aristoteles, De generatione animalium</i> libri quinti capi-\nte sexto, Ὦπται καὶ πέρδιξ λευκὴ, καὶ κόραξ· <i>Perdix visa est alba, et corvus.</i>\n<i>Heraclides</i> in Republica <i>Cyren.</i> Ἀρκεσιλάου δὲ βασιλεύοντος λευκὸς κόραξ ἐφά-\nνη· <i>Regnante</i> Arcesilao, <i>corvus albus apparuit.</i> Quales hodieque in <i>Suecia</i> et\n<i>Norvegia</i> reperiuntur, ubi frigus est intensius. Tamen in confesso est, corvum\nalvum raro inveniri. Hinc <i>Iuvenalis Satyra</i> septima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nigredo quoque corvi propria, eaque intensissima, et per totum corpus dif-\nfusa. Non tamen usquequaque verum est, quod a <i>Porphyrio</i> scribitur capite\nquinto <i>Isagoges</i>: Τὸ δὲ μέλαν εἶναι ἀχωρίστως τῷ κόρακι καὶ τῷ Αἰθίοπι συμ-\nβέβηκε· <i>Nigredo corvo et</i> Aethiopi <i>sic inest, ut separari non possit.</i> Quippe et-\niam albi corvi visi sunt. <i>Aristoteles, De generatione animalium</i> libri quinti capi-\nte sexto, Ὦπται καὶ πέρδιξ λευκὴ, καὶ κόραξ· <i>Perdix visa est alba, et corvus.</i>\n<i>Heraclides</i> in Republica <i>Cyren.</i> Ἀρκεσιλάου δὲ βασιλεύοντος λευκὸς κόραξ ἐφά-\nνη· <i>Regnante</i> Arcesilao, <i>corvus albus apparuit.</i> Quales hodieque in <i>Suecia</i> et\n<i>Norvegia</i> reperiuntur, ubi frigus est intensius. Tamen in confesso est, corvum\nalvum raro inveniri. Hinc <i>Iuvenalis Satyra</i> septima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Felix ille tamen, corvo quoque rarior albo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Felix ille tamen, corvo quoque rarior albo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Ammianus Anthologiae</i> libri secundi capite quadragesimo sexto, <i>Epigrammate</i>\ndecimo septimo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Ammianus Anthologiae</i> libri secundi capite quadragesimo sexto, <i>Epigrammate</i>\ndecimo septimo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Θᾶττον ἔην λευκοὺς κόρακας, πτηνάς τε χελώνας\nΕὑρεῖν, ἢ δόκιμον ῥήτορα Καππαδόκην·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θᾶττον ἔην λευκοὺς κόρακας, πτηνάς τε χελώνας\nΕὑρεῖν, ἢ δόκιμον ῥήτορα Καππαδόκην·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Facilius est, albos corvos et testudines volantes reperire, quam probum rhetorem</i>\nCappadocem. Itaque, ut haec duo, crocitatio, inquam, et nigredo, sunt cor-\nvo maxime propria: ita pleraque <i>corvi</i> nomina ex alterutro sumpta sunt. Sic a\ncrocitatione ܢܥܒܐ <i>neab;</i> et <i>Arabice</i> نعاب <i>noab</i>, a verbo نعب <i>naa-</i>\n<i>ba</i> scilicet, quod <i>crocitare</i> significat. Et in <i>Aethiopico corvi</i> nomine ቋዕ፡",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Facilius est, albos corvos et testudines volantes reperire, quam probum rhetorem</i>\nCappadocem. Itaque, ut haec duo, crocitatio, inquam, et nigredo, sunt cor-\nvo maxime propria: ita pleraque <i>corvi</i> nomina ex alterutro sumpta sunt. Sic a\ncrocitatione ܢܥܒܐ <i>neab;</i> et <i>Arabice</i> نعاب <i>noab</i>, a verbo نعب <i>naa-</i>\n<i>ba</i> scilicet, quod <i>crocitare</i> significat. Et in <i>Aethiopico corvi</i> nomine ቋዕ፡"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ggggg 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ggggg 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>koe</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>koe</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1872,
+    1177
+   ],
+   [
+    1872,
+    1631
+   ]
+  ],
+  "input_tokens": 8729,
+  "output_tokens": 1688,
+  "cost_usd": 0,
+  "seconds": 370.2
+ }
+}

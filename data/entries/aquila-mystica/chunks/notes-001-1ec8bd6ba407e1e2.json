@@ -1,0 +1,1 @@
+{"blocks": [{"type": "footnote", "marker": "a)", "text": "<i>Ezech. I, 10. et X, 14. Apoc. IV, 7.</i>"}, {"type": "footnote", "marker": "b)", "text": "<i>Part 2, book 2, ch. 1, p. 163.</i>"}], "meta": {"model": "anthropic/claude-opus-5.5:batch", "effort": "low", "input_tokens": 2931, "output_tokens": 112, "reasoning_tokens": 0, "cost_usd": 0, "seconds": 984.3}}

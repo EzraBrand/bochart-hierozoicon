@@ -51,6 +51,10 @@ SAMPLE = [
     # gallinaceous kind, the cock's crow, the hen, the barburim, the peacocks; pp. 648-720); p. 721
     # (CAP. XXI, tsippor) for the join. Chapter heads: uv run find_chapters.py 648 760.
     *[(2, c, "birds3") for c in range(665, 738)],
+    # Tranche 5 (13-Nov-2026): Pars II, Book I, ch. 21 (tsippor, pp. 721-738) and Book II (the unclean
+    # birds), chs. 1-9 (the eagle, peres, oznija, daa, aja, daja; pp. 739-786); p. 787 (CAP. X, the
+    # raven) for the join. Chapter heads: uv run find_chapters.py 737 850.
+    *[(2, c, "birds4") for c in range(738, 804)],
 ]
 
 session = requests.Session()

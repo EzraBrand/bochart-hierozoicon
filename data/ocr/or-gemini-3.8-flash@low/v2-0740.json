@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "740 Aquila, rex avium. P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "740 Aquila, rex avium. P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τῷ μέν τ᾽ ἔκπαγλον κοτέων βασιλήϊος ὄρνις\nΑἰετὸς, — — — — — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τῷ μέν τ᾽ ἔκπαγλον κοτέων βασιλήϊος ὄρνις\nΑἰετὸς, — — — — — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>In hunc autem immanem in modum exaestuans regia avis aquila.</i> Et <i>Boëus</i> libro\nprimo <i>Ornithogoniae</i>, de <i>Periphante</i>, a Iove in aquilam mutato, Ποιεῖ γὰρ\nαὐτὸν ἐν πᾶσι τοῖς ὄρνισι βασιλέα. <i>Facit enim eum regem inter omnes aves.</i> Et\n<i>Dionysius</i> in <i>Baffaricis</i> apud <i>Stephanum</i> in Κάσπειρος,\nΑἰετὸς εἶν ὄρνισι μεταπρέπει ἀγρομένοισιν,\n<i>Aquila inter agrestes aves excellit.</i> Et <i>Quintus Smyrnaeus</i> libri tertii ver-\nsu 353.\nΑἰετὸς οἰωνῶν προφερέστατος,\n<i>Aquila avium praestantissima.</i> Et <i>Oppianus Halieuticῶν</i> libri secundi ver-\nsu 539.\nὍσσον γὰρ κέφοισι μετ᾽ οἰωνοῖσιν ἄνακτες\nΑἰετοί. — — — — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In hunc autem immanem in modum exaestuans regia avis aquila.</i> Et <i>Boëus</i> libro\nprimo <i>Ornithogoniae</i>, de <i>Periphante</i>, a Iove in aquilam mutato, Ποιεῖ γὰρ\nαὐτὸν ἐν πᾶσι τοῖς ὄρνισι βασιλέα. <i>Facit enim eum regem inter omnes aves.</i> Et\n<i>Dionysius</i> in <i>Baffaricis</i> apud <i>Stephanum</i> in Κάσπειρος,\nΑἰετὸς εἶν ὄρνισι μεταπρέπει ἀγρομένοισιν,\n<i>Aquila inter agrestes aves excellit.</i> Et <i>Quintus Smyrnaeus</i> libri tertii ver-\nsu 353.\nΑἰετὸς οἰωνῶν προφερέστατος,\n<i>Aquila avium praestantissima.</i> Et <i>Oppianus Halieuticῶν</i> libri secundi ver-\nsu 539.\nὍσσον γὰρ κέφοισι μετ᾽ οἰωνοῖσιν ἄνακτες\nΑἰετοί. — — — — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quantum leves inter aves</i> (excellunt) <i>reges aquilae.</i> Et <i>Aelianus Hist.</i> lib. 9. cap. ⟦p. 163.⟧\n2. Τὸν ἀετὸν, τὸν τῶν ὀρνίθων βασιλέα, 8 μόνον παρόντα, καὶ ζῶντα δέδοι-\nκε τὰ ὄρνεα· <i>Avium regem aquilam, non solum viventem et praesentem timent\naves. Phile</i> denique πτηνοκράτορα nominat, id est, <i>avium principem</i>. Et\n<i>Tzetzes Chiliad.</i> 5. Hist. 9. tam aquilas, quam leones cadavera negat attingere,\nut qui reges sint, ille avium, hic ferarum. Et e <i>Romanis</i> scriptoribus <i>Horatius</i>\nlibri quarti Oda quarta,\n<i>Qualem ministrum fulminis alitem,\nCui rex Deorum regnum in aves vagas\nPermisit</i>, etc.\n<i>Martialis</i> libri quinti Epigrammate quinquagesimo sexto,\n<i>Dic mihi quem portes, volucrum regina.</i>\n<i>Apulejus asini</i> libro sexto, <i>Primi Iovis regalis avis illa. Claudianus</i> Praefatione\nin tertium consulatum Honorii,\n— — <i>volucrumque potens, et fulminis haeres.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quantum leves inter aves</i> (excellunt) <i>reges aquilae.</i> Et <i>Aelianus Hist.</i> lib. 9. cap. ⟦p. 163.⟧\n2. Τὸν ἀετὸν, τὸν τῶν ὀρνίθων βασιλέα, 8 μόνον παρόντα, καὶ ζῶντα δέδοι-\nκε τὰ ὄρνεα· <i>Avium regem aquilam, non solum viventem et praesentem timent\naves. Phile</i> denique πτηνοκράτορα nominat, id est, <i>avium principem</i>. Et\n<i>Tzetzes Chiliad.</i> 5. Hist. 9. tam aquilas, quam leones cadavera negat attingere,\nut qui reges sint, ille avium, hic ferarum. Et e <i>Romanis</i> scriptoribus <i>Horatius</i>\nlibri quarti Oda quarta,\n<i>Qualem ministrum fulminis alitem,\nCui rex Deorum regnum in aves vagas\nPermisit</i>, etc.\n<i>Martialis</i> libri quinti Epigrammate quinquagesimo sexto,\n<i>Dic mihi quem portes, volucrum regina.</i>\n<i>Apulejus asini</i> libro sexto, <i>Primi Iovis regalis avis illa. Claudianus</i> Praefatione\nin tertium consulatum Honorii,\n— — <i>volucrumque potens, et fulminis haeres.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aegyptios</i> quoque idem sensisse, docent haec <i>Diodori</i> libro primo: Τὸν δ᾽ ἀε-\nτὸν Θηβαῖοι τιμῶσι, διὰ τὸ βασιλικὸν εἶναι δοκεῖν τοῦτο ζῶον, καὶ τοῦ Διὸς\nἄξιον· <i>Aquilam Thebani colunt, quia regium esse putant hoc animal, et Iove di-\ngnum.</i> Unde etiam apud <i>Arabes</i> manaverat aquilae cultus. Talmudici in libro\n<i>De Idololatria</i> cap. 1. fol. 11. b. בתי עז קבועין אלו הן בית בל בבבל בית נבו\nבכורסי תרעתא שבמפג צריפא שבאשקלון נשרא שבערביא, <i>Templa idololatri-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aegyptios</i> quoque idem sensisse, docent haec <i>Diodori</i> libro primo: Τὸν δ᾽ ἀε-\nτὸν Θηβαῖοι τιμῶσι, διὰ τὸ βασιλικὸν εἶναι δοκεῖν τοῦτο ζῶον, καὶ τοῦ Διὸς\nἄξιον· <i>Aquilam Thebani colunt, quia regium esse putant hoc animal, et Iove di-\ngnum.</i> Unde etiam apud <i>Arabes</i> manaverat aquilae cultus. Talmudici in libro\n<i>De Idololatria</i> cap. 1. fol. 11. b. בתי עז קבועין אלו הן בית בל בבבל בית נבו\nבכורסי תרעתא שבמפג צריפא שבאשקלון נשרא שבערביא, <i>Templa idololatri-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>ca</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ca</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1915,
+    1123
+   ],
+   [
+    1915,
+    1685
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1062,
+  "cost_usd": 0.0065,
+  "seconds": 10.4
+ }
+}

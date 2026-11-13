@@ -18,7 +18,18 @@ judge drop the σ (δυσθαλπής, ἐσθίομεν, αἰσθήσει); ke
 from contact sheets (`logs/sheets_t4.py`: 8 line crops per image, 4 images per call; 214 items in about an
 hour).
 
-## Ideas backlog (11-Nov-2026, after tranche 3; updated 12-Nov-2026, after tranche 4)
+Tranche 5 (13-Nov-2026): the MDZ OCR can miss a chapter head (`find_chapters.py` did not show chs. 22 and
+23): after the OCR, grep the Opus text for `CAP.` before `entry.ENTRIES` is written. In Hebrew, ו/ז, ד/ר,
+ח/ת and י/ו look alike and all three readers can agree on the wrong letter, so the vote sees nothing: the
+check is Bochart's own romanization and Latin next to the word (*zana* for a printed-looking ונה is זנה).
+`spotcheck.py` lists these (kind `quote`); read each on the scan (`logs/hebcrops_t5.py`) before a change,
+and do not "correct" a letter against the romanization (two such corrections of tranches 1-2, צרק for *tsuk*
+and מרת for *mensura*, were taken back). Corrections of the English go into the cached chunks
+(`logs/patch_en_t5.py`), not into `en.json`, which the next run writes again. `entry.py NAME --batch`
+translates again every chunk whose Latin changed: to run only the fixed steps, call `translate.finish`
+(`logs/refinish_t5.py`). The owner reviews the Hebrew in `docs/hebrew.html` (`concordance.py`).
+
+## Ideas backlog (11-Nov-2026, after tranche 3; updated 13-Nov-2026, after tranche 5)
 
 Low-effort improvements, not yet done. Pick from the top; tick off here when done.
 
@@ -35,7 +46,8 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
       (an iota subscript) per tranche are not found. Still open: the same for Latin (f/s is folded already).
       Flags where Flash agrees with Opus
       and MDZ differs only by f/s, hamza, ى, a dropped accent or glued punctuation go to a rule,
-      not to Opus. Keep the MDZ-only flags that change a letter: those find the printer's errors.
+      not to Opus. Done for Latin 13-Nov-2026 (`check.is_latin_quirk`: in for m, tt/ft for ct/st, fl for ss,
+      S for s, l/J for I; 88 flags in tranche 5; accents and other capitals are still judged). Keep the MDZ-only flags that change a letter: those find the printer's errors.
 - [x] **One translation batch per tranche.** Done 12-Nov-2026 (`entry.batch_all`; custom ids take only
       `[A-Za-z0-9_-]`). `tranche.py translate` submits one batch per chapter;
       collect all chunks and submit once.
@@ -51,12 +63,19 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
 - [ ] **Table of the readers' disagreements with the judge, across tranches.** The readers already
       report them; collected, they say what to add to the judge prompt next (the φ/Φ and ȣ rules
       came from exactly this).
-- [ ] **Translation spot-check.** Nothing checks the English against the Latin. A cheap batch pass
+- [x] **Translation spot-check.** Done 13-Nov-2026 (`spotcheck.py`, Gemini Flash, report only; about a third
+      of its rows are real). Nothing checks the English against the Latin. A cheap batch pass
       with another model (GPT or Gemini) that flags sentences where the English drops a clause, a
       hedge or a number. Report only; no rewriting.
 - [x] **Banned-words grep after translation.** Done 11-Nov-2026 (`banned.py`; counts the English word against its Latin/Greek sources per paragraph). Each chapter sets its own fixed terms (dove, never
       pigeon; deror stays deror). A grep of the English for the banned words (pigeon, coney, hyrax,
       rock badger, swallow in the deror chapter, crane in the agur chapter) catches slips for free.
+
+- [ ] **A ו/ז pass over the Hebrew.** The owner's QA found ו for ז four times in tranches 1-4. A judge call
+      for every Hebrew word with ו or ז next to a romanization that has z (or has none where ו is read) would
+      find the rest; the concordance has the rows.
+- [ ] **An override for a wrong identification.** "Jonathan" (the son of Saul, p. 751) gets the tooltip of
+      the Targum; `names.identify` has no way to say "not here".
 
 ### Reader-facing
 

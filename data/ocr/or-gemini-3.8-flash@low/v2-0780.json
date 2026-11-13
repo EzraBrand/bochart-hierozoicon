@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "780 <i>Probatur,</i> איה <i>esse accipitris speciem.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "780 <i>Probatur,</i> איה <i>esse accipitris speciem.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ctum ^{(1)}, كـوناج <i>chauneg</i>, et يـويـو <i>juju</i>, de quo sic <i>Damir</i>: الصنف\nالثالث من الصقور اليويو وتسميه اهل مصر\nوالشام الجلم لخفة جناحه وسرعته ولان الجلم\nهو الذي منجز به وهو البقص وهو طاير صغير\nقصير الذنب ومزاجه بالنسبة الي الباشق بارد\nرطب لانه اصبر منه نفسا واثقل حركة ويشرب\nالما شربا ضروريا كما يشربه الباسق الا انه ابنخر\nومزاجه بالنسبة الي الصقر حار يابس واذلك هو\nاشجع منه ويقال ان اول من ضراه واصطاب به بهرام\nجور وذلك انه شاهد يويو يطارد قبرة ويراوغها\nويترفع وينخفض معها وما تركها الي ان صابها\nفاعجبه ذلك وامر به فادب وصاد به ⟦p. 194.⟧\n<i>Tertia</i>\n<i>species est aljuju, quem Aegyptii et Syri vocant algelem, propter alarum levita-</i>\n<i>tem et celeritatem. Nempe algelem secula, seu falce instructum sonat (quasi aërem</i>\n<i>alis tanquam falce dividat). Est autem avis parva, brevis caudae: cujus tempe-</i>\n<i>ramentum si conferas cum albasik (alio genere accipitris), est frigidum et humi-</i>\n<i>dum; quia spiritum diutius continet, et motu gravior est, et bibit aquam, cum ne-</i>\n<i>cesse est, quomodo bibit albasik; eo tamen est foetidior. At, si conferas cum sacro</i>\n<i>(proprie dicto), temperamenti calidi et sicci videbitur, ac proinde illo est audacior.</i>\n<i>Quidam porro, nomine Behram Giur, primus eum ad venationem adhibuisse dici-</i>\n<i>tur. Cum scilicet eo praesente avis juju alaudam insequutus fuisset, et ei collucta-</i>\n<i>tus, cum illa sese efferens, et demittens, neque relinquens donec cepisset: id ille</i>\n<i>admiratus, avem erudiri jussit, et postmodum ad venationem ea usus est. Haec in</i>\nDamire, unde constat, eam avem describi, quae Germanice <i>Smirle</i>, Italice <i>smer-</i>\n<i>lo</i> et <i>smeriglio</i>, Gallice dicitur <i>esmerillon</i>. Quippe etiam is censetur inter accipi-\ntrum et falconum species. Sed <i>quantitate minimus est</i> (inquit <i>Albertus</i> libri vige-\nsimi tertii capite decimo quarto), <i>nulli tamen animo et audacia cedit pro corporis</i>\n<i>et virium suarum portione</i>, etc. <i>Itaque Guilielmus Falconarius refert, se harum</i>\n<i>avium opera aliquando gruem cepisse. Alioqui enim alaudas et similes aves tantum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ctum ^{(1)}, كـوناج <i>chauneg</i>, et يـويـو <i>juju</i>, de quo sic <i>Damir</i>: الصنف\nالثالث من الصقور اليويو وتسميه اهل مصر\nوالشام الجلم لخفة جناحه وسرعته ولان الجلم\nهو الذي منجز به وهو البقص وهو طاير صغير\nقصير الذنب ومزاجه بالنسبة الي الباشق بارد\nرطب لانه اصبر منه نفسا واثقل حركة ويشرب\nالما شربا ضروريا كما يشربه الباسق الا انه ابنخر\nومزاجه بالنسبة الي الصقر حار يابس واذلك هو\nاشجع منه ويقال ان اول من ضراه واصطاب به بهرام\nجور وذلك انه شاهد يويو يطارد قبرة ويراوغها\nويترفع وينخفض معها وما تركها الي ان صابها\nفاعجبه ذلك وامر به فادب وصاد به ⟦p. 194.⟧\n<i>Tertia</i>\n<i>species est aljuju, quem Aegyptii et Syri vocant algelem, propter alarum levita-</i>\n<i>tem et celeritatem. Nempe algelem secula, seu falce instructum sonat (quasi aërem</i>\n<i>alis tanquam falce dividat). Est autem avis parva, brevis caudae: cujus tempe-</i>\n<i>ramentum si conferas cum albasik (alio genere accipitris), est frigidum et humi-</i>\n<i>dum; quia spiritum diutius continet, et motu gravior est, et bibit aquam, cum ne-</i>\n<i>cesse est, quomodo bibit albasik; eo tamen est foetidior. At, si conferas cum sacro</i>\n<i>(proprie dicto), temperamenti calidi et sicci videbitur, ac proinde illo est audacior.</i>\n<i>Quidam porro, nomine Behram Giur, primus eum ad venationem adhibuisse dici-</i>\n<i>tur. Cum scilicet eo praesente avis juju alaudam insequutus fuisset, et ei collucta-</i>\n<i>tus, cum illa sese efferens, et demittens, neque relinquens donec cepisset: id ille</i>\n<i>admiratus, avem erudiri jussit, et postmodum ad venationem ea usus est. Haec in</i>\nDamire, unde constat, eam avem describi, quae Germanice <i>Smirle</i>, Italice <i>smer-</i>\n<i>lo</i> et <i>smeriglio</i>, Gallice dicitur <i>esmerillon</i>. Quippe etiam is censetur inter accipi-\ntrum et falconum species. Sed <i>quantitate minimus est</i> (inquit <i>Albertus</i> libri vige-\nsimi tertii capite decimo quarto), <i>nulli tamen animo et audacia cedit pro corporis</i>\n<i>et virium suarum portione</i>, etc. <i>Itaque Guilielmus Falconarius refert, se harum</i>\n<i>avium opera aliquando gruem cepisse. Alioqui enim alaudas et similes aves tantum</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>vincere</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>vincere</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "FORSKAL in Descript. Animall. p. 8.\ninter recensum avium, Alexandriae perma-\nnentium, a venatore quodam Arabico acce-\nptum habet: „<i>Vultur — Sákr</i>\". Quae de\neodem falcone scripsere medii aevi scri-\nptores, diligenter collegit atque explicavit\nIO. GOTTL. SCHNEIDER ad <i>Reliqua libro-\nrum Frideric. II. de arte venandi cum\navibus</i>, p. 90. 109. 185. 186.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "FORSKAL in Descript. Animall. p. 8.\ninter recensum avium, Alexandriae perma-\nnentium, a venatore quodam Arabico acce-\nptum habet: „<i>Vultur — Sákr</i>\". Quae de\neodem falcone scripsere medii aevi scri-\nptores, diligenter collegit atque explicavit\nIO. GOTTL. SCHNEIDER ad <i>Reliqua libro-\nrum Frideric. II. de arte venandi cum\navibus</i>, p. 90. 109. 185. 186."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1767,
+    1118
+   ],
+   [
+    1767,
+    1678
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1049,
+  "cost_usd": 0.0065,
+  "seconds": 11.2
+ }
+}

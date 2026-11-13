@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. <i>Milvum potius a volatu dici</i> דאה, <i>quam</i> ראה. 777",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. <i>Milvum potius a volatu dici</i> דאה, <i>quam</i> ראה. 777"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VII. ⟦p. 191⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VII. ⟦p. 191⟧"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Milvum potius a volatu dici</i> דאה daa, <i>ut in Levitico;</i>\n<i>quam a visu</i> ראה raa, <i>ut in Deuteronomio.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Milvum potius a volatu dici</i> דאה daa, <i>ut in Levitico;</i>\n<i>quam a visu</i> ראה raa, <i>ut in Deuteronomio.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sequitur דאה <i>daa</i>, vel ראה <i>raa</i>. Neque enim certum est, utro modo sit scri-\nbendum. Quia eadem avis in <i>Levitico</i> דאה vocatur, et in <i>Deuteronomio</i>\nראה <i>raa:</i> quorum unum <i>a volatu</i>, alterum <i>a visu</i> sumptum. Nam דאה <i>daa</i>\nverbum <i>volare</i> est, et ראה <i>raa, videre.</i> Nempe literas <i>Daleth</i> et <i>Res,</i> quia sunt\nvalde affines, librarii saepe confundunt. Sic iidem sunt דודנים <i>Dodanim</i>, Gen.\nX, 4. et רודנים <i>Rodanim</i>, 1 Par. I, 7. ריפת <i>Riphath</i>, Gen. X, 3. et דיפת <i>Di-\nphath</i>, 1 Par. I, 6. הדר <i>Hadar</i>, Gen. XXXVI, 39. et הדד <i>Hadad</i>, 1 Par. I, 46.\nהדד־עזר <i>Hadad-ezer,</i> 2 Sam. VIII, 3. et הדר־עזר <i>Hadar-ezer,</i> 1 Par. XVIII, 3.\nההרודי <i>Harodites</i>, 2 Sam. XXIII, 25. et ההרורי <i>Harorites</i>, 1 Paral. XI, 27.\nחמדן <i>Hamdan,</i> Gen. XXXVI, 26. et חמרן <i>Hamran</i>, 1 Par. I, 39. (al. 41.). דעואל\n<i>Daguel</i>, Num. I, 14. et VII, 42. et רעואל <i>Raguel</i>, Num. II, 14. Et de Deo\ndicitur <i>2 Sam. XXII, 11.</i> וירא vajera, <i>et apparuit</i>, pro וידא vajeda, <i>et volavit,</i>\nPsal. XVIII, 11. Qua omnino ratione eadem avis alibi דאה <i>daa</i> vocatur; alibi\nראה <i>raa.</i> Sed illa avis, si vere <i>milvus</i> est, prout statuunt plerique veterum et\nrecentiorum interpretum, in his <i>Hieronymus</i>, <i>Arabes</i>, <i>Munsterus</i>, <i>Castalio,</i>\n<i>Iunius</i>, <i>Deodatius</i>, <i>Buxtorfius</i>, <i>Schindlerus,</i> etc. malim דאה <i>daa</i> scribi, quam\nראה <i>raa; a volatu</i> ducto nomine potius, quam <i>a visu.</i> Quia cum in milvi visu\npeculiare nihil observent rerum naturae scriptores: in volatu primo hoc habet\neximium, quod alis prope immotis in aëre omnium avium diutissime libratur.\n<i>Munsterus</i>, דדה, <i>Motus est, ut milvus scilicet in aëre movetur, alis non motis,</i>\netc. Budaeus, <i>Horam integram, aut plus eo, milvos observavimus, non iacta-\ntis alis, captare praedam,</i> etc. <i>Hoc</i> Itali <i>aucupes</i> tendere <i>vocant</i>, Galli planare.\n<i>Elata namque paullisper ala, motum aëris in reliquum etiam corpus excipiunt, at-\nque ita sustinentur.</i> Praeterea vix ulla est avis, quae milvo volet altius. <i>Mar-\ntialis</i> lib. 9. <i>Epigrammate</i> 55.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sequitur דאה <i>daa</i>, vel ראה <i>raa</i>. Neque enim certum est, utro modo sit scri-\nbendum. Quia eadem avis in <i>Levitico</i> דאה vocatur, et in <i>Deuteronomio</i>\nראה <i>raa:</i> quorum unum <i>a volatu</i>, alterum <i>a visu</i> sumptum. Nam דאה <i>daa</i>\nverbum <i>volare</i> est, et ראה <i>raa, videre.</i> Nempe literas <i>Daleth</i> et <i>Res,</i> quia sunt\nvalde affines, librarii saepe confundunt. Sic iidem sunt דודנים <i>Dodanim</i>, Gen.\nX, 4. et רודנים <i>Rodanim</i>, 1 Par. I, 7. ריפת <i>Riphath</i>, Gen. X, 3. et דיפת <i>Di-\nphath</i>, 1 Par. I, 6. הדר <i>Hadar</i>, Gen. XXXVI, 39. et הדד <i>Hadad</i>, 1 Par. I, 46.\nהדד־עזר <i>Hadad-ezer,</i> 2 Sam. VIII, 3. et הדר־עזר <i>Hadar-ezer,</i> 1 Par. XVIII, 3.\nההרודי <i>Harodites</i>, 2 Sam. XXIII, 25. et ההרורי <i>Harorites</i>, 1 Paral. XI, 27.\nחמדן <i>Hamdan,</i> Gen. XXXVI, 26. et חמרן <i>Hamran</i>, 1 Par. I, 39. (al. 41.). דעואל\n<i>Daguel</i>, Num. I, 14. et VII, 42. et רעואל <i>Raguel</i>, Num. II, 14. Et de Deo\ndicitur <i>2 Sam. XXII, 11.</i> וירא vajera, <i>et apparuit</i>, pro וידא vajeda, <i>et volavit,</i>\nPsal. XVIII, 11. Qua omnino ratione eadem avis alibi דאה <i>daa</i> vocatur; alibi\nראה <i>raa.</i> Sed illa avis, si vere <i>milvus</i> est, prout statuunt plerique veterum et\nrecentiorum interpretum, in his <i>Hieronymus</i>, <i>Arabes</i>, <i>Munsterus</i>, <i>Castalio,</i>\n<i>Iunius</i>, <i>Deodatius</i>, <i>Buxtorfius</i>, <i>Schindlerus,</i> etc. malim דאה <i>daa</i> scribi, quam\nראה <i>raa; a volatu</i> ducto nomine potius, quam <i>a visu.</i> Quia cum in milvi visu\npeculiare nihil observent rerum naturae scriptores: in volatu primo hoc habet\neximium, quod alis prope immotis in aëre omnium avium diutissime libratur.\n<i>Munsterus</i>, דדה, <i>Motus est, ut milvus scilicet in aëre movetur, alis non motis,</i>\netc. Budaeus, <i>Horam integram, aut plus eo, milvos observavimus, non iacta-\ntis alis, captare praedam,</i> etc. <i>Hoc</i> Itali <i>aucupes</i> tendere <i>vocant</i>, Galli planare.\n<i>Elata namque paullisper ala, motum aëris in reliquum etiam corpus excipiunt, at-\nque ita sustinentur.</i> Praeterea vix ulla est avis, quae milvo volet altius. <i>Mar-\ntialis</i> lib. 9. <i>Epigrammate</i> 55."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hinc prope summa rapax milvus in astra volat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hinc prope summa rapax milvus in astra volat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Bellonius, <i>De Avibus</i> lib. 2. cap. 26. <i>Cum accipiter in milvum immittitur, utri-\nque in summum aërem ita evehuntur, ut hominum visus fugiant.</i> Budaeus <i>in</i> Phi-\nlologia, <i>Nec ardeae, nec milvi, intra nubes conditi, evadere humanas manus possunt.</i>\nVolando denique milvus non facile delassatur. Unde <i>Persius</i> de <i>Vectidio</i> Satyra 4.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Bellonius, <i>De Avibus</i> lib. 2. cap. 26. <i>Cum accipiter in milvum immittitur, utri-\nque in summum aërem ita evehuntur, ut hominum visus fugiant.</i> Budaeus <i>in</i> Phi-\nlologia, <i>Nec ardeae, nec milvi, intra nubes conditi, evadere humanas manus possunt.</i>\nVolando denique milvus non facile delassatur. Unde <i>Persius</i> de <i>Vectidio</i> Satyra 4."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— <i>arat</i> Curibus <i>quantum non milvus oberret.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— <i>arat</i> Curibus <i>quantum non milvus oberret.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ubi <i>Cornutus</i>, <i>Quod dici solet secundum proverbium,</i> „Quantum milvi non vo-\nlant“, <i>quia milvi multum volant.</i> Et <i>Iuvenalis</i> Satyra 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ubi <i>Cornutus</i>, <i>Quod dici solet secundum proverbium,</i> „Quantum milvi non vo-\nlant“, <i>quia milvi multum volant.</i> Et <i>Iuvenalis</i> Satyra 9."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. II."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Fffff",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fffff"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "— <i>cui</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— <i>cui</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1840,
+    1564
+   ],
+   [
+    1840,
+    1240
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 2073,
+  "cost_usd": 0,
+  "seconds": 370.2
+ }
+}

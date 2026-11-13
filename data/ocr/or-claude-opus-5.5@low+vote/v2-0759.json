@@ -1,0 +1,147 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. III. <i>De aquilae affectu erga pullos suos.</i> 759",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. III. <i>De aquilae affectu erga pullos suos.</i> 759"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. III."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Aquilae affectu erga pullos suos ex Deut.\nXXXII, 11.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Aquilae affectu erga pullos suos ex Deut.\nXXXII, 11.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nunc dicendum de aquilae affectu ergo pullos suos, quem esse tenerrimum,\nhaec verba <i>Mosis</i> indicant <i>Deuter. XXXII, 11. Ut aquila excitat nidum su-\num, et super pullos suos volitat, extensis alis, et accipiens eos gestat super pennas\nsuas. Nidum suum,</i> id est, <i>pullitiem suam;</i> Continens pro contento. Quod lo-\nquendi genus <i>Romanis</i> frequens. <i>Virgilius</i> libro 4. <i>Georgicorum</i> de merope et\nhirundine,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nunc dicendum de aquilae affectu ergo pullos suos, quem esse tenerrimum,\nhaec verba <i>Mosis</i> indicant <i>Deuter. XXXII, 11. Ut aquila excitat nidum su-\num, et super pullos suos volitat, extensis alis, et accipiens eos gestat super pennas\nsuas. Nidum suum,</i> id est, <i>pullitiem suam;</i> Continens pro contento. Quod lo-\nquendi genus <i>Romanis</i> frequens. <i>Virgilius</i> libro 4. <i>Georgicorum</i> de merope et\nhirundine,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ore ferunt dulcem nidis immitibus escam:</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ore ferunt dulcem nidis immitibus escam:</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "id est, <i>crudelibus pullis</i>, ut ibi <i>Servius</i>. Hinc <i>Nonius</i>, <i>Nidos non solum domi-\ncilia avium, sed etiam foetus earum</i>, Virgilio <i>auctore, dicere possumus.</i> Et <i>Colu-</i> ⟦p. 177⟧\n<i>mella</i> in <i>Horto</i> id sequutus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "id est, <i>crudelibus pullis</i>, ut ibi <i>Servius</i>. Hinc <i>Nonius</i>, <i>Nidos non solum domi-\ncilia avium, sed etiam foetus earum</i>, Virgilio <i>auctore, dicere possumus.</i> Et <i>Colu-</i> ⟦p. 177⟧\n<i>mella</i> in <i>Horto</i> id sequutus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Veris et adventum nidis cantarit hirundo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Veris et adventum nidis cantarit hirundo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut <i>Solinus</i> de ibi, <i>Ea serpentum pabulatur ova, gratissimamque ex his escam nidis\nsuis defert.</i> Et de eadem <i>Ammianus</i> libro vigesimo secundo, <i>Nidulis suis ad ci-\nbum suggerens ova serpentum.</i> Unde <i>Glossae</i>, Νεοσσὸς, <i>Nidus, pullus.</i> Et\n<i>Iuvenalis Satyra</i> quinta de liberis quoque usurpat,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut <i>Solinus</i> de ibi, <i>Ea serpentum pabulatur ova, gratissimamque ex his escam nidis\nsuis defert.</i> Et de eadem <i>Ammianus</i> libro vigesimo secundo, <i>Nidulis suis ad ci-\nbum suggerens ova serpentum.</i> Unde <i>Glossae</i>, Νεοσσὸς, <i>Nidus, pullus.</i> Et\n<i>Iuvenalis Satyra</i> quinta de liberis quoque usurpat,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Sed</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sed</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "numquam cadaver attingat. Quod ipsum\nnon est ita certum, ut citra omnem dubita-\ntionem positum sit; quum de aquila aurea\n(<i>dem Steinadler, Goldadler</i>), quae est\nGraecorum χρυσαίετος, et narret TAUBE\nin Descript. Slavon. T. I. p. 25., eam equos\net boves mortuos comedere, et historiae\nnaturalis peritissimus Forskal, qui semper\nLinnaeanis animalium denominationibus\nutitur, in Descript. Animal. p. 12. haec ha-\nbeat: <i>Aquila, Nisr, carne et cadaveribus\nvictitat.</i> Tamen si illis locis aquilae vul-\nturinam speciem aliquam innui quis velit,\nme non magnopere adversantem habebit,\nqui נשר non ad certam aliquam aquilini ge-\nneris avem restringendum putem, sed ad\nuniversum genus illud extendendum. Vid.\nsupra not. 1. Leo Africanus de suo Nisr:\n<i>ubi animal mortuum videat, subito se de-\nmittit.</i> Id quod confirmat HOEST, Be-\nschreibung von Fes und Marocco pag. 298.,\ncujus haec sunt verba: <i>Ich habe auch ei-\nnen hellgrauen Vogel gesehen, zweymal\nso gross, als ein Welscher Hahn, der bey\neinem Aase stand. Die Mohren sagten,\ndass er wohl mit einem grossen Lamme\ndavon fliegen könne, und dass er viele\nSchaafe umbringe. Einige nannten den\nVogel</i> Ensir, نسر, <i>andere</i> Gernuk,\nغرنوق. Lectu digna quoque sunt,\nquae super hac re dixit I. D. Michaelis in\nBibl. Orient. T. IX. p. 37. seqq. in censura\nlibri Forskaliani.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "numquam cadaver attingat. Quod ipsum\nnon est ita certum, ut citra omnem dubita-\ntionem positum sit; quum de aquila aurea\n(<i>dem Steinadler, Goldadler</i>), quae est\nGraecorum χρυσαίετος, et narret TAUBE\nin Descript. Slavon. T. I. p. 25., eam equos\net boves mortuos comedere, et historiae\nnaturalis peritissimus Forskal, qui semper\nLinnaeanis animalium denominationibus\nutitur, in Descript. Animal. p. 12. haec ha-\nbeat: <i>Aquila, Nisr, carne et cadaveribus\nvictitat.</i> Tamen si illis locis aquilae vul-\nturinam speciem aliquam innui quis velit,\nme non magnopere adversantem habebit,\nqui נשר non ad certam aliquam aquilini ge-\nneris avem restringendum putem, sed ad\nuniversum genus illud extendendum. Vid.\nsupra not. 1. Leo Africanus de suo Nisr:\n<i>ubi animal mortuum videat, subito se de-\nmittit.</i> Id quod confirmat HOEST, Be-\nschreibung von Fes und Marocco pag. 298.,\ncujus haec sunt verba: <i>Ich habe auch ei-\nnen hellgrauen Vogel gesehen, zweymal\nso gross, als ein Welscher Hahn, der bey\neinem Aase stand. Die Mohren sagten,\ndass er wohl mit einem grossen Lamme\ndavon fliegen könne, und dass er viele\nSchaafe umbringe. Einige nannten den\nVogel</i> Ensir, نسر, <i>andere</i> Gernuk,\nغرنوق. Lectu digna quoque sunt,\nquae super hac re dixit I. D. Michaelis in\nBibl. Orient. T. IX. p. 37. seqq. in censura\nlibri Forskaliani."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1800,
+    1139
+   ],
+   [
+    1800,
+    1165
+   ]
+  ],
+  "input_tokens": 7290,
+  "output_tokens": 1615,
+  "cost_usd": 0,
+  "seconds": 370.2,
+  "vote": "5 decisions from v2-721-787"
+ }
+}

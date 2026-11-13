@@ -91,5 +91,7 @@ input#filter{width:100%;padding:.5rem .7rem;font:inherit;border:1px solid var(--
 table.abbr{width:100%;border-collapse:collapse;font-size:.92rem}
 table.abbr th,table.abbr td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}
 table.abbr td:first-child{white-space:nowrap;font-weight:600}
+table.conc{table-layout:fixed}table.conc td:first-child{white-space:normal;overflow-wrap:anywhere}
+table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:50%}table.conc th:nth-child(3){width:13%}
 footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
 @media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}

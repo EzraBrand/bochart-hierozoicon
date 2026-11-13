@@ -1,0 +1,1 @@
+{"blocks": [{"type": "footnote", "marker": "a)", "text": "<i>Part 2, book 1, ch. 1, p. 6.</i>"}], "meta": {"model": "anthropic/claude-opus-5.5:batch", "effort": "low", "input_tokens": 2879, "output_tokens": 58, "reasoning_tokens": 0, "cost_usd": 0, "seconds": 984.3}}

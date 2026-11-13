@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "774 <i>Probatur,</i> עזניה <i>non esse Haliaeetum,</i> P.II. L.II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "774 <i>Probatur,</i> עזניה <i>non esse Haliaeetum,</i> P.II. L.II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VI.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VI."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> עזניה oznija <i>non esse Haliaeetum, ut plerique\nvolunt, sed Melanaeetum, seu Valeriam aquilam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> עזניה oznija <i>non esse Haliaeetum, ut plerique\nvolunt, sed Melanaeetum, seu Valeriam aquilam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In immundis avibus tertia est עזניא <i>oznija.</i> Ἁλιαίετον <i>Graeci</i> reddunt, unde\n<i>Hieronymus, Munsterus, Castalio, Pagninus, Arias, Iunius, Deodatius,\nhaliaeetum,</i> vel <i>aquilam marinam:</i> et Angli <i>ospray</i>, quod idem est: Genevenses\n<i>falconem</i>, quorsum, non satis scio, nisi quod aquilam marinam pro falcone\nnonnulli habent, quos tamen refellit <i>Gesnerus.</i> In voce עזניה <i>oznija Hebraei</i>\nmonent, <i>Nun</i> esse נוסף, seu <i>epentheticum:</i> et עזניה <i>oznija</i> dici pro עזיה <i>ozja.</i>\nProinde <i>Onkelos</i> hic habet עזיה <i>ozja.</i> Et hanc aquilae speciem ab עוז <i>oz</i>, seu\n<i>robore</i> sic appellari, in confesso est. Unde valde verissimili ratione colligo,\npotius esse μελαναίετον, id est, <i>nigram aquilam;</i> quae, utut aquilarum mini-\nma, tamen est robustissima. Proinde <i>Valeriam Romani</i> vocant, ut quae vi-\nribus maxime valeat. <i>Plinius</i> ubi supra, <i>Melanaeetos a</i> Graecis <i>dicta, eademque\nValeria, minima magnitudine, viribus praecipua, colore nigricans</i>, etc.\nEt ante <i>Plinium Philosophus</i> lib. 9. cap. 32. Ἕτερος δὲ μέλας τὴν χρόαν, καὶ\nμέγεθος ἐλάχιστος, καὶ κράτιστος τούτων. οὗτος οἰκεῖ ὄρη, καὶ ὕλας· καλεῖται\nδὲ μελαναίετος, καὶ λαγωφόνος. <i>Alia autem est aquila, colore nigra, magni-</i> ⟦p. 189⟧\n<i>tudine minima, sed viribus praestantissima. Ea montes et sylvas colit: vocaturque\nmelanaeetus</i> (id est, <i>nigra aquila</i>) <i>et leporicida.</i> Et ante <i>Philosophum Poeta</i> sum-\nmus de <i>Achille Iliad.</i> φ΄. versu 252.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In immundis avibus tertia est עזניא <i>oznija.</i> Ἁλιαίετον <i>Graeci</i> reddunt, unde\n<i>Hieronymus, Munsterus, Castalio, Pagninus, Arias, Iunius, Deodatius,\nhaliaeetum,</i> vel <i>aquilam marinam:</i> et Angli <i>ospray</i>, quod idem est: Genevenses\n<i>falconem</i>, quorsum, non satis scio, nisi quod aquilam marinam pro falcone\nnonnulli habent, quos tamen refellit <i>Gesnerus.</i> In voce עזניה <i>oznija Hebraei</i>\nmonent, <i>Nun</i> esse נוסף, seu <i>epentheticum:</i> et עזניה <i>oznija</i> dici pro עזיה <i>ozja.</i>\nProinde <i>Onkelos</i> hic habet עזיה <i>ozja.</i> Et hanc aquilae speciem ab עוז <i>oz</i>, seu\n<i>robore</i> sic appellari, in confesso est. Unde valde verissimili ratione colligo,\npotius esse μελαναίετον, id est, <i>nigram aquilam;</i> quae, utut aquilarum mini-\nma, tamen est robustissima. Proinde <i>Valeriam Romani</i> vocant, ut quae vi-\nribus maxime valeat. <i>Plinius</i> ubi supra, <i>Melanaeetos a</i> Graecis <i>dicta, eademque\nValeria, minima magnitudine, viribus praecipua, colore nigricans</i>, etc.\nEt ante <i>Plinium Philosophus</i> lib. 9. cap. 32. Ἕτερος δὲ μέλας τὴν χρόαν, καὶ\nμέγεθος ἐλάχιστος, καὶ κράτιστος τούτων. οὗτος οἰκεῖ ὄρη, καὶ ὕλας· καλεῖται\nδὲ μελαναίετος, καὶ λαγωφόνος. <i>Alia autem est aquila, colore nigra, magni-</i> ⟦p. 189⟧\n<i>tudine minima, sed viribus praestantissima. Ea montes et sylvas colit: vocaturque\nmelanaeetus</i> (id est, <i>nigra aquila</i>) <i>et leporicida.</i> Et ante <i>Philosophum Poeta</i> sum-\nmus de <i>Achille Iliad.</i> φ΄. versu 252."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αἰετοῦ οἴματ᾽ ἔχων μέλανος, τοῦ θηρητῆρος·\nὍς θ᾽ ἅμα κάρτιστός τε, καὶ ὤκιστος πετεηνῶν·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αἰετοῦ οἴματ᾽ ἔχων μέλανος, τοῦ θηρητῆρος·\nὍς θ᾽ ἅμα κάρτιστός τε, καὶ ὤκιστος πετεηνῶν·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aquilae impetum habens nigrae, venatricis, quae alitum simul est fortissima et ce-\nlerrima.</i> Ad quem locum <i>Eustathius</i>, Αἰετοῦ μέλανος τῆς θηρητῆρος, ὃν καὶ\nμελαναίετόν τινες συνθέτως φασὶ, τὸν καὶ φασσοφόνον (forte legendum λα-\nγωφόνον) μικρὸν μέν φασιν ὄντα, τῶν ἄλλων δὲ ἰσχυρότερον· <i>Aquilae nigrae ve-\nnatricis, quam composita voce quidam melanaeetum et palumbariam, parvam qui-\ndem, ut ajunt, sed aliis robustiorem. Homeri</i> vetus <i>Scholiastes</i> scribit, <i>Aristote-\nlem</i> pro μέλανος τοῦ, conjunctis vocibus legisse μελανόστου, ut significetur, aqui-\nlam habere <i>nigra ossa</i>, et alios μελανόσσου, quasi sit <i>nigris oculis.</i> Sed in <i>Ari-\nstotelis</i> libris, qui extant, nihil occurrit simile. Et frustra sollicitatur <i>Poetae</i> le-\nctio, quae commoda est et erudita, eum conciliat in descriptione nigrae aqui-\nlae cum <i>Aristotele</i> et <i>Plinio.</i> Horum igitur consensu cum nigra aquila sit omni-\num validissima, quidni a robore עזניה <i>osnija</i> ab <i>Hebraeis</i> dicta fuerit. ut a <i>Ro-\nmanis valeria?</i> Praeterea inter aquilarum species hanc a <i>Mose</i> fuisse omissam, ve-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquilae impetum habens nigrae, venatricis, quae alitum simul est fortissima et ce-\nlerrima.</i> Ad quem locum <i>Eustathius</i>, Αἰετοῦ μέλανος τῆς θηρητῆρος, ὃν καὶ\nμελαναίετόν τινες συνθέτως φασὶ, τὸν καὶ φασσοφόνον (forte legendum λα-\nγωφόνον) μικρὸν μέν φασιν ὄντα, τῶν ἄλλων δὲ ἰσχυρότερον· <i>Aquilae nigrae ve-\nnatricis, quam composita voce quidam melanaeetum et palumbariam, parvam qui-\ndem, ut ajunt, sed aliis robustiorem. Homeri</i> vetus <i>Scholiastes</i> scribit, <i>Aristote-\nlem</i> pro μέλανος τοῦ, conjunctis vocibus legisse μελανόστου, ut significetur, aqui-\nlam habere <i>nigra ossa</i>, et alios μελανόσσου, quasi sit <i>nigris oculis.</i> Sed in <i>Ari-\nstotelis</i> libris, qui extant, nihil occurrit simile. Et frustra sollicitatur <i>Poetae</i> le-\nctio, quae commoda est et erudita, eum conciliat in descriptione nigrae aqui-\nlae cum <i>Aristotele</i> et <i>Plinio.</i> Horum igitur consensu cum nigra aquila sit omni-\num validissima, quidni a robore עזניה <i>osnija</i> ab <i>Hebraeis</i> dicta fuerit. ut a <i>Ro-\nmanis valeria?</i> Praeterea inter aquilarum species hanc a <i>Mose</i> fuisse omissam, ve-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "rissimile",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "rissimile"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1762,
+    1616
+   ],
+   [
+    1762,
+    1212
+   ]
+  ],
+  "input_tokens": 8321,
+  "output_tokens": 1918,
+  "cost_usd": 0,
+  "seconds": 370.2
+ }
+}

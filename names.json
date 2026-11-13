@@ -562,7 +562,7 @@
     "Michaeli"
    ],
    "english": "Michaelis",
-   "id": "J. D. Michaelis, Supplementa ad lexica hebraica (1784–92)",
+   "id": "J. D. Michaelis (1717–91), orientalist: Supplementa ad lexica hebraica; Fragen an eine Gesellschaft gelehrter Männer",
    "basis": "general knowledge"
   },
   {
@@ -1163,7 +1163,7 @@
     "PAULO"
    ],
    "english": "Paulus",
-   "id": "H. E. G. Paulus, Clavis über die Psalmen (1791)",
+   "id": "H. E. G. Paulus, Clavis über die Psalmen (1791) and Clavis über den Jesaias (1793)",
    "basis": "general knowledge"
   },
   {
@@ -1430,6 +1430,115 @@
    ],
    "english": "Paulus Venetus",
    "id": "Marco Polo",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Baal Hatturim"
+   ],
+   "english": "Baal Hatturim",
+   "id": "Jacob ben Asher (d. 1343), commentary on the Torah",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Abu Navvas"
+   ],
+   "english": "Abu Navvas",
+   "id": "Abū Nuwās (d. c. 814), hunting poems (ṭardiyyāt)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Bembus",
+    "Bembi",
+    "Bembo",
+    "Petrus Bembus"
+   ],
+   "english": "Pietro Bembo",
+   "id": "Pietro Bembo, Historia Veneta (1551)",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Censorinus",
+    "Censorini",
+    "Censorino",
+    "Censorinum"
+   ],
+   "english": "Censorinus",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Obsequens",
+    "Iulius Obsequens"
+   ],
+   "english": "Julius Obsequens",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Paulus Diaconus"
+   ],
+   "english": "Paul the Deacon",
+   "id": "",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Samonicus",
+    "Samonici"
+   ],
+   "english": "Serenus Sammonicus",
+   "id": "Quintus Serenus Sammonicus, Liber medicinalis",
+   "basis": "standard"
+  },
+  {
+   "forms": [
+    "Turnero",
+    "Turnerus",
+    "Turneri"
+   ],
+   "english": "Turner",
+   "id": "William Turner, Avium praecipuarum historia (1544)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "CETTI",
+    "Cetti"
+   ],
+   "english": "Cetti",
+   "id": "Francesco Cetti, Storia naturale di Sardegna (1774–77)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Gmelino",
+    "Gmelinus",
+    "GMELIN"
+   ],
+   "english": "Gmelin",
+   "id": "J. F. Gmelin, 13th edition of Linnaeus, Systema naturae (1788–93)",
+   "basis": "general knowledge"
+  },
+  {
+   "forms": [
+    "Muaphius"
+   ],
+   "english": "Muaphius",
+   "id": "",
+   "basis": "guess"
+  },
+  {
+   "forms": [
+    "Ibnosaida"
+   ],
+   "english": "Ibnosaida",
+   "id": "Ibn Sīda (d. 1066), lexicographer, as cited by al-Damīrī",
    "basis": "general knowledge"
   }
  ]

@@ -4,7 +4,7 @@
 
 ### ‎<i>Avem</i> דרור deror <i>non esse Hirundinem, ut volunt, sed</i> <i>Columbae ferae speciem, puta Turturem, aut</i> <i>Palumbum.</i>
 
-‎Ex avium genere una est, quam <i>Hebraei</i> דרור <i>deror</i>, id est, <i>libertatem,</i> aut <i>libe-</i> <i>ram</i> appellant; מפני שחרה בבית כבשרה, <i>quia tam libere versatur in domo,</i> <i>quam in agro.</i> Ita statuit <i>R. Ismael</i> in tractatu <i>Talmudico Betsa</i> cap. 3. pag. 24. a. Hinc <i>Hebraei</i> recentiores, quique illos sequuti sunt nuperi <i>Lexicographi</i> et <i>Bi-</i> <i>bliorum</i> interpretes, summo consensu statuunt, דרור <i>deror</i> esse <i>hirundinem</i>: quia duae leguntur esse species hirundinum,
+‎Ex avium genere una est, quam <i>Hebraei</i> דרור <i>deror</i>, id est, <i>libertatem,</i> aut <i>libe-</i> <i>ram</i> appellant; מפני שדרה בבית כבשדה, <i>quia tam libere versatur in domo,</i> <i>quam in agro.</i> Ita statuit <i>R. Ismael</i> in tractatu <i>Talmudico Betsa</i> cap. 3. pag. 24. a. Hinc <i>Hebraei</i> recentiores, quique illos sequuti sunt nuperi <i>Lexicographi</i> et <i>Bi-</i> <i>bliorum</i> interpretes, summo consensu statuunt, דרור <i>deror</i> esse <i>hirundinem</i>: quia duae leguntur esse species hirundinum,
 
 ‎<i>quarum petit altera sylvas,</i> <i>Altera tecta subit.</i> — — — — <sup>a)</sup>
 

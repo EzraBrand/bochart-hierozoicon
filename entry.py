@@ -275,6 +275,106 @@ ENTRIES = {
                  "terms": '"pavo" -> "peacock"; "psittacus" -> "parrot"; "simia" -> "ape"; "cercopithecus" -> '
                           '"long-tailed monkey"; "ebur" -> "ivory"; "ebenus"/"hebenus" -> "ebony"; "thuccijim", '
                           '"hobnim", "algumim" (Bochart\'s romanized Hebrew) stay as printed;'},
+    # Tranche 5, 13-Nov-2026: Part 2, Book 1, chs. 21-23 (tsippor and the sparrow: the end of the clean
+    # birds) and Book 2 (the unclean birds), chs. 1-9: the eagle and the birds of prey of Lev 11:13-14 and
+    # Deut 14:12-13. Chapter heads: uv run find_chapters.py 737 850 (the MDZ OCR does not have the heads
+    # of chs. 22 and 23, pp. 727 and 735: they were found in the Opus OCR, logs/cols_t5.py). No first_col
+    # where the column mark stands in the chapter head itself (Book 2 chs. 1, 4 and 7).
+    "tsippor": {"vol": 2, "pages": list(range(721, 728)),
+                "title": "Part 2, Book 1, chapter 21: The word tsippor, which means any bird and specially the "
+                         "sparrow (vol. 2, pp. 721–727)",
+                "start": r"^CAP\.\s*XXI\.", "end": r"^CAP\.\s*XXII\.", "first_col": 145,
+                "about": "the chapter on the Hebrew צפור (tsippor), which means any bird and specially the "
+                         "sparrow: its kinds according to the Arabs, the house sparrow and its chirping",
+                "terms": '"passer" -> "sparrow"; "avis"/"avicula" -> "bird"/"little bird"; "pipitus"/"pipire" -> '
+                         '"chirping"/"chirp"; "tsippor" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "passer-prophetae": {"vol": 2, "pages": list(range(727, 736)),
+                         "title": "Part 2, Book 1, chapter 22: Nine passages of the Prophets that some "
+                                  "interpreters refer to sparrows, most of them not certain (vol. 2, pp. 727–735)",
+                         "start": r"^CAP\.\s*XXII\.", "end": r"^CAP\.\s*XXIII\.", "first_col": 150,
+                         "about": "the chapter that examines nine passages of the Old Testament in which some "
+                                  "interpreters take צפור (tsippor) as the sparrow (Lev 14; Job 40:24; Ps 11:1; "
+                                  "84:4; 102:8; 104:17; 124:7; Eccl 12:4; Lam 3:52)",
+                         "terms": '"passer" -> "sparrow"; "avis"/"avicula" -> "bird"/"little bird"; "tsippor" and '
+                                  '"tsipporim" (Bochart\'s romanized Hebrew) stay as printed;'},
+    "passer-providentia": {"vol": 2, "pages": list(range(735, 740)),
+                           "title": "Part 2, Book 1, chapter 23: The providence of God for sparrows and little "
+                                    "birds, in Matt 10:29 and Luke 12:6 (vol. 2, pp. 735–738)",
+                           "start": r"^CAP\.\s*XXIII\.", "end": r"PARS SECUNDA", "first_col": 157,
+                           "about": "the chapter on the sparrows sold for an assarion (Matt 10:29; Luke 12:6): "
+                                    "the price, and the providence of God for the smallest birds",
+                           "terms": '"passer" -> "sparrow"; "avicula" -> "little bird"; "assarium" -> "assarion"; '
+                                    '"as" (the coin) -> "as"; "semissis" -> "half an as"; "providentia" -> '
+                                    '"providence";'},
+    "aquila": {"vol": 2, "pages": list(range(739, 751)),
+               "title": "Part 2, Book 2, chapter 1: The eagle, king of the birds: its name, beak, talons, "
+                        "plumage, baldness, renewal and colour (vol. 2, pp. 739–749)",
+               "start": r"PARS SECUNDA", "end": r"^CAP\.\s*II\.",
+               "about": "the first chapter of Book 2 (the unclean birds, in the order of Lev 11:13 and Deut "
+                        "14:12): the eagle, נשר (nesher), king of the birds; its name, beak, talons, plumage, "
+                        "baldness (Mic 1:16), renewal (Ps 103:5) and colour",
+               "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "ossifraga" -> "ossifrage"; "haliaeetus" -> "haliaeetus" (the name is kept; "aquila marina" -> "sea eagle"); "pullus" -> "chick" (of the eagle: "eaglet" is allowed); "nesher" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "aquila-volatus": {"vol": 2, "pages": list(range(750, 760)),
+                       "title": "Part 2, Book 2, chapter 2: The eagle's wings, flight, nest, sight and food "
+                                "(vol. 2, pp. 750–758)",
+                       "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.", "first_col": 169,
+                       "about": "the chapter on the eagle's wings, flight, nest, sight and food in Scripture and "
+                                "in the ancient authors",
+                       "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "ossifraga" -> "ossifrage"; "haliaeetus" -> "haliaeetus" (the name is kept; "aquila marina" -> "sea eagle"); "pullus" -> "chick" (of the eagle: "eaglet" is allowed); "nesher" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "aquila-pulli": {"vol": 2, "pages": list(range(759, 767)),
+                     "title": "Part 2, Book 2, chapter 3: The eagle's love for its young, from Deut 32:11 "
+                              "(vol. 2, pp. 759–766)",
+                     "start": r"^CAP\.\s*III\.", "end": r"^CAP\.\s*IV\.", "first_col": 176,
+                     "about": "the chapter on the eagle's love for its young (Deut 32:11: the eagle stirs up "
+                              "its nest, hovers over its young and carries them on its wings), and on the trial "
+                              "of the young by the sun",
+                     "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "ossifraga" -> "ossifrage"; "haliaeetus" -> "haliaeetus" (the name is kept; "aquila marina" -> "sea eagle"); "pullus" -> "chick" (of the eagle: "eaglet" is allowed); "nesher" (Bochart\'s romanized Hebrew) stays as printed; "nidus" -> "nest" (also where Bochart says it means the brood);'},
+    "aquila-mystica": {"vol": 2, "pages": list(range(766, 771)),
+                       "title": "Part 2, Book 2, chapter 4: Mystical eagles: God, the angels, the faithful, the "
+                                "great kings, above all the Assyrian (vol. 2, pp. 766–770)",
+                       "start": r"^CAP\.\s*IV\.", "end": r"^CAP\.\s*V\.",
+                       "about": "the chapter on what Scripture compares with the eagle: God (Exod 19:4), the "
+                                "angels, the faithful, empires and great kings, above all the king of Assyria "
+                                "and Babylon (Ezek 17; Dan 7:4)",
+                       "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "ossifraga" -> "ossifrage"; "haliaeetus" -> "haliaeetus" (the name is kept; "aquila marina" -> "sea eagle"); "pullus" -> "chick" (of the eagle: "eaglet" is allowed); "nesher" (Bochart\'s romanized Hebrew) stays as printed;'},
+    "peres": {"vol": 2, "pages": list(range(770, 775)),
+              "title": "Part 2, Book 2, chapter 5: Peres is the ossifrage (vol. 2, pp. 770–773)",
+              "start": r"^CAP\.\s*V\.", "end": r"^CAP\.\s*VI\.", "first_col": 185,
+              "about": "the chapter arguing that the Hebrew פרס (peres) of Lev 11:13 and Deut 14:12, which the "
+                       "Greek renders γρύψ, is the ossifrage, the bird that breaks bones",
+              "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "peres" stays "peres" (the identity of the bird is what the chapter argues);'},
+    "oznija": {"vol": 2, "pages": list(range(774, 778)),
+               "title": "Part 2, Book 2, chapter 6: Oznija is not the haliaeetus, as most hold, but the "
+                        "melanaeetus or Valerian eagle (vol. 2, pp. 774–776)",
+               "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.", "first_col": 188,
+               "about": "the chapter arguing that the Hebrew עזניה (oznija) of Lev 11:13 and Deut 14:12 is not "
+                        "the haliaeetus (sea eagle, osprey), as most interpreters hold, but the melanaeetus "
+                        "(black eagle) or Valerian eagle",
+               "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "aquila Valeria" -> "Valerian eagle"; "oznija" stays "oznija";'},
+    "daah": {"vol": 2, "pages": list(range(777, 780)),
+             "title": "Part 2, Book 2, chapter 7: The kite is better called daa, from its flight, as in "
+                      "Leviticus, than raa, from its sight, as in Deuteronomy (vol. 2, pp. 777–778)",
+             "start": r"^CAP\.\s*VII\.", "end": r"^CAP\.\s*VIII\.",
+             "about": "the chapter on the bird written דאה (daa) in Lev 11:14 and ראה (raa) in Deut 14:13, "
+                      "the kite: the scribes confuse ד and ר, and the name from flying (daa) is the better "
+                      "one",
+             "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "daa" and "raa" stay as printed (the difference of ד and ר is the subject: copy '
+                      'each Hebrew word exactly as the source has it);'},
+    "ajah": {"vol": 2, "pages": list(range(779, 783)),
+             "title": "Part 2, Book 2, chapter 8: Aja is a kind of hawk, which the ancients call aesalon, "
+                      "the Germans Smirle, the French esmerillon (vol. 2, pp. 779–782)",
+             "start": r"^CAP\.\s*VIII\.", "end": r"^CAP\.\s*IX\.", "first_col": 192,
+             "about": "the chapter arguing that the Hebrew איה (aja) of Lev 11:14, Deut 14:13 and Job 28:7 is "
+                      "a kind of hawk, the aesalon of the ancients, the merlin (German Smirle, French "
+                      "esmerillon)",
+             "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "esmerillon"/"Smirle" stay as printed ("merlin" may follow in brackets once); '
+                      '"aja" stays "aja";'},
+    "dajah": {"vol": 2, "pages": list(range(782, 788)),
+              "title": "Part 2, Book 2, chapter 9: Daja is the black vulture (vol. 2, pp. 782–786)",
+              "start": r"^CAP\.\s*IX\.", "end": r"^CAP\.\s*X\.", "first_col": 195,
+              "about": "the chapter arguing that the Hebrew דיה (daja) of Deut 14:13 and Isa 34:15 is not the "
+                       "kite but the black vulture",
+              "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "vultur niger" -> "black vulture"; "daja" stays "daja";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -314,7 +414,6 @@ FIXES = {
     # tranche 1, scan check (09-Nov-2026): the print differs from the vote's proposal
     455: [('Poniarius</i> ריצ"ו', 'Poniarius</i> ריצ"יו'), ('Selomo</i> הריצון', 'Selomo</i> הריצ"ון')],
     461: [('ὄπω', 'οὔπω')],
-    474: [('צוק', 'צרק')],
     475: [('ܚܪܕܘܢܐ', 'ܚܕܪܘܢܐ')],
     484: [('ἁρμόζει', 'ἁρμώζει')],
     486: [('ΧΑΡΟΥΚΙ,', 'ΧΑΡΟΥΚῚ,')],
@@ -342,6 +441,9 @@ FIXES = {
     548: [('ἀγροὺς,', 'ἄγρους,')],
     551: [('مثل', 'مشل'), ('ἀπλούστατοι', 'ἁπλούστατοι')],
     559: [('למקדשין', 'למקדשי')],
+    # the owner's review of the Hebrew concordance, 13-Nov-2026: ו read for ז (pp. 443, 561, 684), איותי for אייתו (p. 679)
+    443: [('חרוא', 'חרזא')],
+    561: [('דויתהא', 'דזיתהא')],
     560: [('ועם ביום גשמה ולא היא,', 'היא ולא גושמה ביום זעם,')],
     562: [('Ἄλλα', 'Ἀλλὰ')],
     563: [('σεγαστὰς', 'στεγαστὰς')],
@@ -351,7 +453,7 @@ FIXES = {
     568: [('ܦܓܪܐ ܕܝܘܢܐ,', 'ܓܘܫܡܐ ܕܝܘܢܐ,')],
     576: [('מחראות^{d)}', 'טחוראות^{d)}')],
     578: [('ܢܩܒܐ', 'ܚܪܘܪܐ')],
-    579: [('מדת של', 'מרת של'), ('חטים,', 'חטום,'), ('Φοινικηίου', 'Φοινικηΐου')],
+    579: [('Φοινικηίου', 'Φοινικηΐου')],
     589: [('חרי דא,', 'τοῦ חרי,')],
     590: [('ሞሆኒቅ፡', 'መዐንቅ፡')],
     # tranche 3 (11-Nov-2026): the note mark *) of p. 611 was read plain, not as ^{*)}; the margin number
@@ -384,9 +486,9 @@ FIXES = {
     662: [('ἀλλήλοιιν·', 'ἀλλήλοιϊν·')],
     675: [('לעז', 'לע״ז')],
     676: [('Ἀνίβα', 'Ἀννίβα')],
-    679: [('رمّون', 'ܪܡܘܢ')],
+    679: [('رمّون', 'ܪܡܘܢ'), ('איותי', 'אייתו')],  # אייתו: the owner's review, 13-Nov-2026
     681: [('ὄσα.', 'οὖσα.'), ('بنو', 'بنى')],
-    684: [('ܬܪܢܓܠܐ', 'ܬܪܢܓܘܠ'), ('ܕܡܬܪܘܪܒ', 'ܕܡܙܕܪܟܠ'), ('rescribendum אבכא דמודרכל', 'rescribendum אבכא דמזדרכל')],
+    684: [('דמודרז', 'דמזדרז'), ('ܬܪܢܓܠܐ', 'ܬܪܢܓܘܠ'), ('ܕܡܬܪܘܪܒ', 'ܕܡܙܕܪܟܠ'), ('rescribendum אבכא דמודרכל', 'rescribendum אבכא דמזדרכל')],
     685: [('rescribendum דמודרכל,', 'rescribendum דמזדרכל,'), ('lud דמודרכל', 'lud דמזדרכל'), ('ܕܡܙܪܙܠ in', 'ܕܡܙܕܪܟܠ in'), ('דמזורכיל.', 'דמזדרכיל.'), ('דמזרזו,', 'דמזרז,'), ('ܕܡܙܪܙܠ ܒܝܢܬ', 'ܕܡܙܕܪܟܠ ܒܝܢܬ'), ('ܙܪܙܠ,', 'ܕܪܟܠ,')],
     696: [('ዶሮ፡', 'ዶርሆ፡')],
     715: [('⟦p. 140⟧', '⟦p. 141⟧'), ('Ὀρ-', 'Ὁρ-')],
@@ -410,6 +512,29 @@ FIXES = {
     # p. 709, Reland's note: the Hebrew word is תך (the left leg has a foot), read as חך three times; found in
     # the English after the translation. p. 684: the Syriac word, as on p. 685
     709: [('alii [?],', 'alii تدك,'), ('hoc a חך:', 'hoc a תך:'), ('a חך geminata', 'a תך geminata'), ('natum sit חך', 'natum sit תך')],
+    # tranche 5 (scan check 13-Nov-2026): the print differs from the vote's text
+    726: [('الذكر.', 'الذكرة.')],
+    731: [('والنفر', 'والتفرد')],
+    740: [('עז', 'ע״ז')],
+    742: [('وينتغله', 'ويقتلعه'), ('הצפורות,', 'העופות,')],
+    750: [('εὐκλὴϊς', 'εὐκληῒς')],
+    751: [('αἴσσειν,', 'ἀΐσσειν,')],
+    756: [('ὀξυωπέστε-', 'ὀξυωπήστε-')],
+    767: [('αγκάλους.', 'αγκαλίους.')],
+    775: [('עזוא', 'עוזא'), ('ἔτος', 'οὗτος'), ('</i> [?] <i>uza', '</i> ࠏࠅࠆࠀ <i>uza'), ('pro [?] <i>oznija', 'pro ࠏࠆࠍࠉࠄ <i>oznija')],
+    780: [('المغص', 'المقص')],
+    781: [('τῆς', 'τοῦ')],
+    783: [('ἐλαφοι.', 'ἐλάφους.')],
+    # the Samaritan words (13-Nov-2026): pp. 770 and 778 read from the letter count and Bochart's romanization
+    # (bezaa; 'per Daleth', 'per Res'), p. 775 by Flash and the judge; not by a reader of the script
+    770: [('בלאבֿו', 'בלאבֿוז'), ('est [?] <i>bezaa', 'est ࠁࠆࠀࠄ <i>bezaa')],
+    777: [('דדה,', 'רחף,')],
+    778: [('legi [?] per', 'legi ࠃࠀࠄ per'), ('nusquam [?] per', 'nusquam ࠓࠀࠄ per')],
+    773: [('الغبنة', 'الفينة'), ('فانا خاف', 'فاذا خاف')],  # ذ/ن: "cum timet"
+    # listed by spotcheck.py against Bochart's romanization (tsophtsoph, tsaphtsapha: ف/غ have one shape) and
+    # the verse of Plautus (milvinis; Flash read it so)
+    725: [('صغصف', 'صفصف')],
+    744: [('nilvinis', 'milvinis')],
 }
 # A page number written twice in the FIXES literal: Python keeps only the second list, without a word
 # (tranche 4 lost two pairs that way until a check found it). Stop at import.
@@ -417,6 +542,23 @@ _src = Path(__file__).read_text(encoding="utf-8")
 _keys = re.findall(r"^    (\d+): \[", _src[_src.index("\nFIXES = {"):_src.index("\n# A page number written twice")], re.M)
 if len(_keys) != len(set(_keys)):
     sys.exit(f"entry.FIXES: page(s) listed twice: {sorted({k for k in _keys if _keys.count(k) > 1})}")
+# Hebrew words corrected after the owner's review of the concordance (13-Nov-2026): ו/ז, ד/ר and ח/ת look
+# alike in this type and the readers agreed on the wrong letter, so nothing was flagged. Each was listed by
+# spotcheck.py (the word does not fit Bochart's romanization or Latin next to it) and read again on the scan,
+# except p. 590, which is from the sense alone (Rashi: שדרה בבית כבשדה; "versatur in domo, quam in agro").
+FIXES_HEBREW_QA = {
+    476: [('ועיע את הימים', 'וזיע את הימים')],  # "Movit (Deus) maria"
+    489: [('ונה <i>zana', 'זנה <i>zana')],
+    519: [('in quo חפש est', 'in quo תפש est'), ('<i>Hebraeis</i> חפש, <i>capere', '<i>Hebraeis</i> תפש, <i>capere')],
+    584: [('חרי מיני שתיתאה', 'תרי מיני שתיתאה')],  # "duas species"
+    590: [('שחרה בבית כבשרה', 'שדרה בבית כבשדה')],
+    600: [('permutatis, pro בחורים,', 'permutatis, pro בתורים,')],  # Song 1:10
+    614: [('וצווח דל ככורכיא', 'וצווח ר״ל ככורכיא')],  # "dominus Lakis": the print has the abbreviation marks
+    637: [('ubi pro קריא per <i>Daleth', 'ubi pro קדיא per <i>Daleth')],
+}
+for _p, _pairs in FIXES_HEBREW_QA.items():
+    FIXES.setdefault(_p, []).extend(_pairs)
+
 # the same foreign-script corrections, for an English translation made before them (translate.finish)
 SCRIPT_SYNC = [("ሰጊሔ፡", "ለጊሔ፡"), ("ኮርገሊሎን፡", "ኮሮገሬሊወን፡"), ("[?] <i>taphsa", "ࠈࠐࠎࠄ <i>taphsa")]
 NOTE_MARK = re.compile(r"\^\{(\(\d+\)|[a-z]\))\}")

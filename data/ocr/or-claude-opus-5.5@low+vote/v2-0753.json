@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. II. <i>Aquilae volatus.</i> 753",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. II. <i>Aquilae volatus.</i> 753"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "נשרים, <i>A</i> Rameses Succotham <i>sunt itineris centum viginti millia, quae unius ho-\nrae spatio confecerunt: prout dicitur, „Et eos tollam super alas aquilarum</i>“.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "נשרים, <i>A</i> Rameses Succotham <i>sunt itineris centum viginti millia, quae unius ho-\nrae spatio confecerunt: prout dicitur, „Et eos tollam super alas aquilarum</i>“."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Neque hoc omittendum, nullam esse avium, quae aquila sublimius se effe-\nrat ^{(2)}. Unde oraculo de <i>Atheniensibus</i> edito,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Neque hoc omittendum, nullam esse avium, quae aquila sublimius se effe-\nrat ^{(2)}. Unde oraculo de <i>Atheniensibus</i> edito,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αἰετὸς ἐν νεφέλῃσι γενήσεαι, — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αἰετὸς ἐν νεφέλῃσι γενήσεαι, — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aquila in nubibus fies</i>, Scholiastes <i>Aristophanis</i> in <i>Avibus</i> significari ait illos\nτοσοῦτον αὐξηθήσεσθαι, ὅσον αἰετὸς τῶν ἄλλων ὀρνέων ἐν ταῖς νεφέλαις προὔχει,\n<i>tantum augendos, quantum aquila in nubibus supra reliquas aves eminet. Aben\nEzra</i> quoque in <i>Iob. XXIX, 30.</i> אין עוף שיגבה יותר ממנו, <i>Nulla est avis,\nquae sublimius se attollat.</i> Et <i>Kimchius</i> in <i>Ierem. XLIX, 16.</i> eandem volare asse-\nrit גבוה מכל העופות, <i>omnibus avibus celsius.</i> Et <i>Apulejus</i> lib. 1. <i>Floridorum,\nAquila enimvero cum se nubium tenus altissime sublimavit, evecta alis, totum istud\nspatium, quo pluitur et ningitur, ultra quod cacumen nec fulmini, nec fulguri lo-\ncus est, in ipso, ut ita dixerim, solo aetheris et fastigio hyemis.</i> Et <i>Horus</i> lib. 2.\ncap. 53. ὑψηλότερον πάντων τῶν πετεινῶν ἵπταται, <i>omnium avium altissime vo-\nlat.</i> Unde est, quod a <i>poetis</i> dicitur ὑψιπετὴς <i>et</i> ὑψιπετήεις ^{a)}, <i>altivolans.</i>\nQuin ob id ipsum, quod in sublime volat, si <i>Aristoteli</i> credimus <i>Histor.</i> lib. 9.\ncap. 32. θεῖον οἱ ἄνθρωποί φασιν εἶναι μόνον τῶν ὀρνέων, <i>homines solam avium di-\nvinam esse perhibent.</i> Saltem hinc ortae fabulae de aquila in sinu <i>Iovis</i>, et ful-\nminum administra. Et quod ejus pennas alii ad ignem elementarem, alii ad vi-\ncini solis radios exuri somniarunt. Ut de aquila taceam, e rogo <i>Caesarum</i> emitti\nsolita, tanquam principis animam in coelum delatura. Ita enim credebatur.\n<i>Dio</i> lib. 56. in <i>Augusti funere</i>, Καὶ ἡ πύρα μὲν ἀναλίσκετο· ἀετὸς δέ τις ἐξ\nαὐτῆς ἀφεθεὶς ἀπίπτατο, ὃ καὶ δὲ τὴν ψυχὴν αὐτοῦ ἐς τὸν οὐρανὸν ἀναφέρων.\n<i>Et rogus consumptus est, ex quo evolavit aquila, ejus animam in coelum ferens.\nHerodianus</i> lib. 4. Ἀετὸς ἀφίεται σὺν τῷ πυρὶ ἀνελευσόμενος εἰς τὸν αἰθέρα,\nὃς φέρειν ἀπὸ γῆς ἐς οὐρανὸν τὴν τοῦ βασιλέως ψυχὴν πιστεύεται ὑπὸ Ῥωμαίων·\n<i>Simul cum</i> (subjecto) <i>igne ascensura in aetherem aquila demittitur, quam e terra in\ncoelum principis animam deferre,</i> Romani <i>credunt.</i> Proinde in veterum nummis\nab una parte videre est imperatoris effigiem, ab altera aquilam, cui sedeat impe-\nrator, cum hac inscriptione: CONSECRATIO S. C. Et, si rex, aut princeps\naquila vehi se somniet, id illis mortem portendere, scribit <i>Artemidorus</i> lib. 2.\ncap. 20.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquila in nubibus fies</i>, Scholiastes <i>Aristophanis</i> in <i>Avibus</i> significari ait illos\nτοσοῦτον αὐξηθήσεσθαι, ὅσον αἰετὸς τῶν ἄλλων ὀρνέων ἐν ταῖς νεφέλαις προὔχει,\n<i>tantum augendos, quantum aquila in nubibus supra reliquas aves eminet. Aben\nEzra</i> quoque in <i>Iob. XXIX, 30.</i> אין עוף שיגבה יותר ממנו, <i>Nulla est avis,\nquae sublimius se attollat.</i> Et <i>Kimchius</i> in <i>Ierem. XLIX, 16.</i> eandem volare asse-\nrit גבוה מכל העופות, <i>omnibus avibus celsius.</i> Et <i>Apulejus</i> lib. 1. <i>Floridorum,\nAquila enimvero cum se nubium tenus altissime sublimavit, evecta alis, totum istud\nspatium, quo pluitur et ningitur, ultra quod cacumen nec fulmini, nec fulguri lo-\ncus est, in ipso, ut ita dixerim, solo aetheris et fastigio hyemis.</i> Et <i>Horus</i> lib. 2.\ncap. 53. ὑψηλότερον πάντων τῶν πετεινῶν ἵπταται, <i>omnium avium altissime vo-\nlat.</i> Unde est, quod a <i>poetis</i> dicitur ὑψιπετὴς <i>et</i> ὑψιπετήεις ^{a)}, <i>altivolans.</i>\nQuin ob id ipsum, quod in sublime volat, si <i>Aristoteli</i> credimus <i>Histor.</i> lib. 9.\ncap. 32. θεῖον οἱ ἄνθρωποί φασιν εἶναι μόνον τῶν ὀρνέων, <i>homines solam avium di-\nvinam esse perhibent.</i> Saltem hinc ortae fabulae de aquila in sinu <i>Iovis</i>, et ful-\nminum administra. Et quod ejus pennas alii ad ignem elementarem, alii ad vi-\ncini solis radios exuri somniarunt. Ut de aquila taceam, e rogo <i>Caesarum</i> emitti\nsolita, tanquam principis animam in coelum delatura. Ita enim credebatur.\n<i>Dio</i> lib. 56. in <i>Augusti funere</i>, Καὶ ἡ πύρα μὲν ἀναλίσκετο· ἀετὸς δέ τις ἐξ\nαὐτῆς ἀφεθεὶς ἀπίπτατο, ὃ καὶ δὲ τὴν ψυχὴν αὐτοῦ ἐς τὸν οὐρανὸν ἀναφέρων.\n<i>Et rogus consumptus est, ex quo evolavit aquila, ejus animam in coelum ferens.\nHerodianus</i> lib. 4. Ἀετὸς ἀφίεται σὺν τῷ πυρὶ ἀνελευσόμενος εἰς τὸν αἰθέρα,\nὃς φέρειν ἀπὸ γῆς ἐς οὐρανὸν τὴν τοῦ βασιλέως ψυχὴν πιστεύεται ὑπὸ Ῥωμαίων·\n<i>Simul cum</i> (subjecto) <i>igne ascensura in aetherem aquila demittitur, quam e terra in\ncoelum principis animam deferre,</i> Romani <i>credunt.</i> Proinde in veterum nummis\nab una parte videre est imperatoris effigiem, ab altera aquilam, cui sedeat impe-\nrator, cum hac inscriptione: CONSECRATIO S. C. Et, si rex, aut princeps\naquila vehi se somniet, id illis mortem portendere, scribit <i>Artemidorus</i> lib. 2.\ncap. 20."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Vide Iliad. μ'. 206. 219. Iliad. ν'. 822. Iliad. χ'. 308. Odyss. υ'. 243. et\nω'. 537. Nonn. Dionys. lib. 40. etc.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vide Iliad. μ'. 206. 219. Iliad. ν'. 822. Iliad. χ'. 308. Odyss. υ'. 243. et\nω'. 537. Nonn. Dionys. lib. 40. etc.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "LEO AFRICANUS de Nesir c. 57. <i>Inter volandum adeo excelse in aërem se attol-\nlit, ut conspici nequeat.</i>",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "LEO AFRICANUS de Nesir c. 57. <i>Inter volandum adeo excelse in aërem se attol-\nlit, ut conspici nequeat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. II. Cccc",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. II. Cccc"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1772,
+    1461
+   ],
+   [
+    1772,
+    1351
+   ]
+  ],
+  "input_tokens": 8423,
+  "output_tokens": 1999,
+  "cost_usd": 0,
+  "seconds": 370.1,
+  "vote": "2 decisions from v2-721-787"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "742 <i>Aquilae nomen et rostrum.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "742 <i>Aquilae nomen et rostrum.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nebucadnetſar rex fuit omnium terrae regum. Hinc in Maſal Kadmoni Fabula\ntriceſima octava hanc habet inſcriptionem:</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nebucadnetſar rex fuit omnium terrae regum. Hinc in Maſal Kadmoni Fabula\ntriceſima octava hanc habet inſcriptionem:</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "heb",
+   "text": ": צורת הנשר על מושבו\n: וסנהדרי' העוף יושבים סביבו",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ": צורת הנשר על מושבו\n: וסנהדרי' העוף יושבים סביבו"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Figura aquilae ſuper ſolium ſuum, et ſynhedrium avium, circa illam ſedentium.</i>\nNempe in avium concilio pingitur aquila, corona inſignis, et in ſolio ſublimis,\net illi adſtant aves reliquae. Et de aquila <i>Baal Hatturim</i> hujus capitis ſtatim ini-\ntio, הוא מלך העופות, <i>Ea in aves regnum obtinet. Patres</i> denique id ipſum\nſic definiunt. Ita <i>Ambroſius Hexaëm.</i> lib. 5. cap. 18. aquilam appellat <i>regalem\navem</i>, et ei tribuit <i>regale faſtigium. Hieronymus in Mich. 1. Aquila, quae regi-\nna eſt avium. Et in Dan. VII. Ut leo inter beſtias, ita aquila inter aves regnum\ntenet. Epiphanius in Phyſiologo</i> capite ſexto, Ἔστι γὰρ ὁ ἀετὸς βασιλεὺς τῶν\nὀρνέων· <i>Aquila enim eſt avium rex, aut regina, ſi mavis. Theodoretus</i> Praefa-\ntione in <i>Canticum</i>, de loco <i>Ezech. XVII</i>, 3. Ἀετὸν μὲν τὸν βασιλέα (ἐνόησεν),\nἐπειδὰν καὶ τὸ ζῶον βασιλικόν· <i>Aquilae nomine regem intellexit, quia regium\neſt animal. Theodorus Heracleenſis in Pſal. CII.</i> Ἐπειδὴ ὁ ἀετὸς δοκεῖ βασι-\nλεύειν τῶν πετεινῶν ἁπάντων· <i>Quia aquila imperare videtur omnibus volucribus\nEt</i> paullo poſt, Διὰ γὰρ τοῦ ὄρνιθος τοῦ ἀετοῦ τὴν βασιλείαν αἰνίττεται, <i>Nam\nper aquilam regnum ſignificat.</i> Quid quod vulgo perſuaſum fuit, aquilae cum\ntrochilo ideo eſſe certamen, quia καλεῖται πρέσβυς, καὶ βασιλεὺς, <i>vocatur\nſenator et rex</i>, quaſi hoc illi nomen invideat? Ita teſtatur <i>Philoſophus Hiſt.</i> lib. 9.\ncap. 11. Unde <i>Plinius</i> lib. 10. cap. 74. <i>Diſſident aquilae et trochilus, ſi credimus,\nquoniam rex appellatur avium.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Figura aquilae ſuper ſolium ſuum, et ſynhedrium avium, circa illam ſedentium.</i>\nNempe in avium concilio pingitur aquila, corona inſignis, et in ſolio ſublimis,\net illi adſtant aves reliquae. Et de aquila <i>Baal Hatturim</i> hujus capitis ſtatim ini-\ntio, הוא מלך העופות, <i>Ea in aves regnum obtinet. Patres</i> denique id ipſum\nſic definiunt. Ita <i>Ambroſius Hexaëm.</i> lib. 5. cap. 18. aquilam appellat <i>regalem\navem</i>, et ei tribuit <i>regale faſtigium. Hieronymus in Mich. 1. Aquila, quae regi-\nna eſt avium. Et in Dan. VII. Ut leo inter beſtias, ita aquila inter aves regnum\ntenet. Epiphanius in Phyſiologo</i> capite ſexto, Ἔστι γὰρ ὁ ἀετὸς βασιλεὺς τῶν\nὀρνέων· <i>Aquila enim eſt avium rex, aut regina, ſi mavis. Theodoretus</i> Praefa-\ntione in <i>Canticum</i>, de loco <i>Ezech. XVII</i>, 3. Ἀετὸν μὲν τὸν βασιλέα (ἐνόησεν),\nἐπειδὰν καὶ τὸ ζῶον βασιλικόν· <i>Aquilae nomine regem intellexit, quia regium\neſt animal. Theodorus Heracleenſis in Pſal. CII.</i> Ἐπειδὴ ὁ ἀετὸς δοκεῖ βασι-\nλεύειν τῶν πετεινῶν ἁπάντων· <i>Quia aquila imperare videtur omnibus volucribus\nEt</i> paullo poſt, Διὰ γὰρ τοῦ ὄρνιθος τοῦ ἀετοῦ τὴν βασιλείαν αἰνίττεται, <i>Nam\nper aquilam regnum ſignificat.</i> Quid quod vulgo perſuaſum fuit, aquilae cum\ntrochilo ideo eſſe certamen, quia καλεῖται πρέσβυς, καὶ βασιλεὺς, <i>vocatur\nſenator et rex</i>, quaſi hoc illi nomen invideat? Ita teſtatur <i>Philoſophus Hiſt.</i> lib. 9.\ncap. 11. Unde <i>Plinius</i> lib. 10. cap. 74. <i>Diſſident aquilae et trochilus, ſi credimus,\nquoniam rex appellatur avium.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aquila</i> Hebraice נשר <i>neſer</i> unde dicatur, magiſtros latuit hactenus. Ab-\nſurdum enim eſt commentum <i>Rabbi Bechai in Gen. II.</i> deduci a Chaldaeo נשר\n<i>neſar</i>, quod <i>decidere</i> eſt; quia, cum volatu ſe ſuſtulit ad elementum ignis, ut\nquidem volunt, inde praeceps in mare decidit. Nec iis aſſentior, qui a <i>deﬂuvio\npennarum</i> dictam aſſerunt, quia נשר <i>Rabbinis eſt deﬂuere. Aut a viſu;</i> quia נשר\n<i>neſer</i> videtur alludere ad verbum שור <i>ſur</i>, quod <i>videre</i> eſt. Sed <i>Arabes</i> maxi-\nme probo, quibus نسـر <i>naſara</i> eſt <i>roſtro vellicare:</i> et منسـر <i>minſar, ro-\nſtrum,</i> idque proprie <i>rapacis avis.</i> Inde igitur aquilam نسـر <i>neſr</i> appellari\nvolunt; لانه ينسر الشي ويقـتـلـعه <i>quia rem roſtro carpit et\nvellicat.</i> Ita <i>Giauhari</i>, et <i>Damir</i>, et <i>Alcamus.</i> Roſtro quidem vellicant etiam\naliae rapaces aves; tamen rapacium principi, aquilae, id ſpeciali jure tribuitur, ⟦p. 165.⟧\nquia roſtro eſt magis adunco, et eo carpit fortius. Ita in praedam involare\ncommune eſt omnibus, quod <i>Hebraeis</i> eſt העיט. Unde עיט <i>ajit</i> eſt in genere",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aquila</i> Hebraice נשר <i>neſer</i> unde dicatur, magiſtros latuit hactenus. Ab-\nſurdum enim eſt commentum <i>Rabbi Bechai in Gen. II.</i> deduci a Chaldaeo נשר\n<i>neſar</i>, quod <i>decidere</i> eſt; quia, cum volatu ſe ſuſtulit ad elementum ignis, ut\nquidem volunt, inde praeceps in mare decidit. Nec iis aſſentior, qui a <i>deﬂuvio\npennarum</i> dictam aſſerunt, quia נשר <i>Rabbinis eſt deﬂuere. Aut a viſu;</i> quia נשר\n<i>neſer</i> videtur alludere ad verbum שור <i>ſur</i>, quod <i>videre</i> eſt. Sed <i>Arabes</i> maxi-\nme probo, quibus نسـر <i>naſara</i> eſt <i>roſtro vellicare:</i> et منسـر <i>minſar, ro-\nſtrum,</i> idque proprie <i>rapacis avis.</i> Inde igitur aquilam نسـر <i>neſr</i> appellari\nvolunt; لانه ينسر الشي ويقـتـلـعه <i>quia rem roſtro carpit et\nvellicat.</i> Ita <i>Giauhari</i>, et <i>Damir</i>, et <i>Alcamus.</i> Roſtro quidem vellicant etiam\naliae rapaces aves; tamen rapacium principi, aquilae, id ſpeciali jure tribuitur, ⟦p. 165.⟧\nquia roſtro eſt magis adunco, et eo carpit fortius. Ita in praedam involare\ncommune eſt omnibus, quod <i>Hebraeis</i> eſt העיט. Unde עיט <i>ajit</i> eſt in genere"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>avis</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>avis</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1682,
+    1549
+   ],
+   [
+    1682,
+    1255
+   ]
+  ],
+  "input_tokens": 3386,
+  "output_tokens": 1338,
+  "cost_usd": 0.0076,
+  "seconds": 12.8
+ }
+}

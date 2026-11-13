@@ -1,0 +1,62 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "738 <i>De providentia Dei circa passeres.</i> P. II. L. I. Cap. XXIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "738 <i>De providentia Dei circa passeres.</i> P. II. L. I. Cap. XXIII."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "non fuisse curae, et summum illum ducem fugisse, quot milites in exercitu suo\nconscripserit? Denique quid <i>Christi</i> verbis disertius, <i>nullum ex passeribus in ter-\nram cadere sine Deo</i>, aut <i>in oblivione esse coram illo?</i> In quem locum haec obser-\nvanda, quae ex <i>Talmude Hierosolymitano</i> profert doctissimus <i>Buxtorfius Lexici\nTalmudici</i> pag. 553. Rabbi Simeon Ben Iochai <i>latebat in quadam spelunca. Die\nquodam sedens ad ostium speluncae, et videns aucupem, aves capientem et rete ex-\ntendentem, audivit filiam vocis</i> (oraculum), <i>quae cum dicebat</i> דימוס <i>dimos</i> (id est,\n<i>liberatio</i>), <i>tum evadebat avis. Quando vero filia vocis dicebat</i> ספיקולא, <i>spicula</i>\n(id est, <i>sententia mortis</i>), <i>tum avis capiebatur. Proinde dixit oraculum,</i> צפור\nמבלברי שמיא לא יבדא כל שכן בר נשא, <i>Avicula sine coelo</i> (id est, sine Dei\nvoluntate et providentia) <i>non perit: quanto minus homo!</i> Pro לא יבדא lege לא\nיאבד. His etiam <i>ethnici</i> non dissimilia scribunt. Sic <i>Plutarchus</i> alicubi ex <i>Ho-\nmero</i> probat, veteres in ea fuisse sententia, Dei numine curari οὐ μόνον βόας,\nἀλλὰ καὶ πάντα τὰ ἄλλα ζῶα, <i>non solum boves, sed et omnia alia animalia.</i>\nEt <i>Aelianus Hist.</i> lib. 11. cap. 31. Ἴδιον δὲ ἄρα τῶν ζώων καὶ ἐκεῖνο ἀγαθὸν,\nπρόνοιαν αὐτῶν καὶ οἱ Θεοὶ ποιοῦνται, καὶ οὔτε αὐτῶν καταφρονοῦσιν, οὐδὲ μὴν\nὀλιγώρως ἔχουσιν· <i>Etiam brutis competit hoc bonum, quod iis Dii provident, ne-\nque illa despiciunt, aut susque deque habent.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "non fuisse curae, et summum illum ducem fugisse, quot milites in exercitu suo\nconscripserit? Denique quid <i>Christi</i> verbis disertius, <i>nullum ex passeribus in ter-\nram cadere sine Deo</i>, aut <i>in oblivione esse coram illo?</i> In quem locum haec obser-\nvanda, quae ex <i>Talmude Hierosolymitano</i> profert doctissimus <i>Buxtorfius Lexici\nTalmudici</i> pag. 553. Rabbi Simeon Ben Iochai <i>latebat in quadam spelunca. Die\nquodam sedens ad ostium speluncae, et videns aucupem, aves capientem et rete ex-\ntendentem, audivit filiam vocis</i> (oraculum), <i>quae cum dicebat</i> דימוס <i>dimos</i> (id est,\n<i>liberatio</i>), <i>tum evadebat avis. Quando vero filia vocis dicebat</i> ספיקולא, <i>spicula</i>\n(id est, <i>sententia mortis</i>), <i>tum avis capiebatur. Proinde dixit oraculum,</i> צפור\nמבלברי שמיא לא יבדא כל שכן בר נשא, <i>Avicula sine coelo</i> (id est, sine Dei\nvoluntate et providentia) <i>non perit: quanto minus homo!</i> Pro לא יבדא lege לא\nיאבד. His etiam <i>ethnici</i> non dissimilia scribunt. Sic <i>Plutarchus</i> alicubi ex <i>Ho-\nmero</i> probat, veteres in ea fuisse sententia, Dei numine curari οὐ μόνον βόας,\nἀλλὰ καὶ πάντα τὰ ἄλλα ζῶα, <i>non solum boves, sed et omnia alia animalia.</i>\nEt <i>Aelianus Hist.</i> lib. 11. cap. 31. Ἴδιον δὲ ἄρα τῶν ζώων καὶ ἐκεῖνο ἀγαθὸν,\nπρόνοιαν αὐτῶν καὶ οἱ Θεοὶ ποιοῦνται, καὶ οὔτε αὐτῶν καταφρονοῦσιν, οὐδὲ μὴν\nὀλιγώρως ἔχουσιν· <i>Etiam brutis competit hoc bonum, quod iis Dii provident, ne-\nque illa despiciunt, aut susque deque habent.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "DE",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "DE"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1777,
+    1296
+   ],
+   [
+    1777,
+    1520
+   ]
+  ],
+  "input_tokens": 8423,
+  "output_tokens": 1013,
+  "cost_usd": 0,
+  "seconds": 370.1
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXII. quae ad passeres referunt nonnulli interpretes. 733",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXII. quae ad passeres referunt nonnulli interpretes. 733"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>tectoque profanus\nIncubuit bubo, thalamique in culmine sedit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>tectoque profanus\nIncubuit bubo, thalamique in culmine sedit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Ibin</i> versu 223.\n<i>Sedit in adverso nocturnus culmine bubo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Ibin</i> versu 223.\n<i>Sedit in adverso nocturnus culmine bubo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tibullus</i> lib. 1. <i>Elegia</i> 6.\n— — — <i>e tectis strix violenta canat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tibullus</i> lib. 1. <i>Elegia</i> 6.\n— — — <i>e tectis strix violenta canat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Propertius</i> lib. 4. in Epistola <i>Arethusae</i> ad <i>Lycotam</i>,\n<i>Sive in finitimo gemuit stans noctua tigno.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Propertius</i> lib. 4. in Epistola <i>Arethusae</i> ad <i>Lycotam</i>,\n<i>Sive in finitimo gemuit stans noctua tigno.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et Poeta summus lib. 1. <i>Georgicorum</i>,\n— — — — <i>de culmine summo\nNequicquam seros exercet noctua cantus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et Poeta summus lib. 1. <i>Georgicorum</i>,\n— — — — <i>de culmine summo\nNequicquam seros exercet noctua cantus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in loco, nuper citato,\n<i>Solaque culminibus ferali carmine bubo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in loco, nuper citato,\n<i>Solaque culminibus ferali carmine bubo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et apud Historicos hujusmodi exempla passim occurrunt. <i>Lampridius</i> ubi de ⟦p. 156.⟧\nmorte <i>Commodi</i> imperatoris, <i>Bubo etiam supra cubiculum ejus deprehensus est tam\nRomae, quam Lavinii. Supra cubiculum</i>, id est, <i>supra tectum cubiculi. Dio</i>\netiam in <i>Commodo</i>, Ὁ βύας ἐπʼ αὐτõ ἔβυξεν, <i>Bubo super illud</i> (id est, super\n<i>Capitolii tectum) bubulavit.</i> Ita enim legunt nonnulli pro ἀπʼ αὐτõ, <i>ab eo.</i> Et\nin ejusdem <i>Augusto</i> bellum <i>Actiacum</i> significavit bubo, in templum Concordiae\nvolans, καὶ ἐπὶ τὰς ἄλλες ἐπικαθήμενος, <i>et aliis</i> (id est, aliorum tectis) <i>insi-\ndens. Ammianus</i> denique lib. 30. ubi de <i>Valentiniani</i> obitu, <i>Apud Sabariam\neodem adhuc constituto, bubo culminibus regii lavacri insidens occentansque fune-\nbria, etc.</i> Concludimus igitur, <i>Psaltis</i> avem solitariam, quaeque noctu vigilat\net tectis insidet, non esse passerem, ut volunt, sed bubonem, aut noctuam.\nPasser quidem sub tecto nidificat, sed non על גג <i>super tectum</i>, quod ait <i>Psaltes.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et apud Historicos hujusmodi exempla passim occurrunt. <i>Lampridius</i> ubi de ⟦p. 156.⟧\nmorte <i>Commodi</i> imperatoris, <i>Bubo etiam supra cubiculum ejus deprehensus est tam\nRomae, quam Lavinii. Supra cubiculum</i>, id est, <i>supra tectum cubiculi. Dio</i>\netiam in <i>Commodo</i>, Ὁ βύας ἐπʼ αὐτõ ἔβυξεν, <i>Bubo super illud</i> (id est, super\n<i>Capitolii tectum) bubulavit.</i> Ita enim legunt nonnulli pro ἀπʼ αὐτõ, <i>ab eo.</i> Et\nin ejusdem <i>Augusto</i> bellum <i>Actiacum</i> significavit bubo, in templum Concordiae\nvolans, καὶ ἐπὶ τὰς ἄλλες ἐπικαθήμενος, <i>et aliis</i> (id est, aliorum tectis) <i>insi-\ndens. Ammianus</i> denique lib. 30. ubi de <i>Valentiniani</i> obitu, <i>Apud Sabariam\neodem adhuc constituto, bubo culminibus regii lavacri insidens occentansque fune-\nbria, etc.</i> Concludimus igitur, <i>Psaltis</i> avem solitariam, quaeque noctu vigilat\net tectis insidet, non esse passerem, ut volunt, sed bubonem, aut noctuam.\nPasser quidem sub tecto nidificat, sed non על גג <i>super tectum</i>, quod ait <i>Psaltes.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "VI. Sextus locus est <i>Psal. CIV, 16. Saturabuntur arbores Dei, cedri Liba-\nni, quas plantavit, ubi</i> צפורים tsipporim <i>nidificant. Arbores Dei</i>, id est, <i>ar-\nbores celsissimae.</i> Tale <i>Cedri Dei</i>, Psal. LXXX, 11. <i>Montes Dei</i>, Psal. XXXVI,\n7. <i>Flamma Dei</i>, Cantic. VIII, 6. id est, <i>flamma vehementissima. Luctationes\nDei</i>, Gen. XXX, 5. id est, <i>luctationes gravissimae.</i> Itaque <i>arbores Dei</i> et <i>cedri\nLibani</i> proponuntur ut synonyma; quia cedri sunt inter arbores procerissimas.\nEt <i>saturari</i> dicuntur <i>arbores Dei</i> et <i>cedri Libani</i>, imbre scilicet, de quo versu 13.\nEt Deus has <i>plantare</i>, ut arbores aloës <i>Num. XXIV, 6.</i> quia sponte proveni-\nunt, et solo Dei nutu, absque hominum labore et cura. Additur, in his <i>nidi-\nficare</i> צפורים <i>tsipporim</i>, id est, <i>passeres</i>, ut multi putant. Ita enim Lxx. Ἐκεῖ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "VI. Sextus locus est <i>Psal. CIV, 16. Saturabuntur arbores Dei, cedri Liba-\nni, quas plantavit, ubi</i> צפורים tsipporim <i>nidificant. Arbores Dei</i>, id est, <i>ar-\nbores celsissimae.</i> Tale <i>Cedri Dei</i>, Psal. LXXX, 11. <i>Montes Dei</i>, Psal. XXXVI,\n7. <i>Flamma Dei</i>, Cantic. VIII, 6. id est, <i>flamma vehementissima. Luctationes\nDei</i>, Gen. XXX, 5. id est, <i>luctationes gravissimae.</i> Itaque <i>arbores Dei</i> et <i>cedri\nLibani</i> proponuntur ut synonyma; quia cedri sunt inter arbores procerissimas.\nEt <i>saturari</i> dicuntur <i>arbores Dei</i> et <i>cedri Libani</i>, imbre scilicet, de quo versu 13.\nEt Deus has <i>plantare</i>, ut arbores aloës <i>Num. XXIV, 6.</i> quia sponte proveni-\nunt, et solo Dei nutu, absque hominum labore et cura. Additur, in his <i>nidi-\nficare</i> צפורים <i>tsipporim</i>, id est, <i>passeres</i>, ut multi putant. Ita enim Lxx. Ἐκεῖ"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Zzzz 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Zzzz 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "στρουθία",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "στρουθία"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1824,
+    1150
+   ],
+   [
+    1824,
+    1658
+   ]
+  ],
+  "input_tokens": 3411,
+  "output_tokens": 1261,
+  "cost_usd": 0.0073,
+  "seconds": 10.7
+ }
+}

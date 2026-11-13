@@ -121,6 +121,28 @@ REJECT = {
     ('v2-0681', 'ערש'): 'scan check',
     ('v2-0690', 'ᾀδόντων.'): 'scan check',
     ('v2-0710', 'οὐκ'): 'scan check',
+    # tranche 5 (scan check 13-Nov-2026)
+    ('v2-0722', 'pharmacum'): 'scan check',
+    ('v2-0725', 'الغمران'): 'scan check',
+    ('v2-0726', 'οὖν'): 'scan check',
+    ('v2-0731', 'يقفر'): 'scan check',
+    ('v2-0731', 'قفرانا'): 'scan check',
+    ('v2-0732', 'صدي'): 'scan check',
+    ('v2-0733', 'LXX.'): 'scan check',
+    ('v2-0735', 'pauxillo'): 'scan check',
+    ('v2-0736', 'CCCIↃↃↃ'): 'scan check',
+    ('v2-0737', 'ἐπιλησθήσεται,'): 'scan check',
+    ('v2-0740', 'Clandianus'): 'scan check',
+    ('v2-0741', 'שבמפג'): 'scan check',
+    ('v2-0748', 'οὗτος'): 'scan check',
+    ('v2-0759', 'Ensir,'): 'scan check',
+    ('v2-0770', 'בלאבֿו'): 'print בלאבֿוז',
+    ('v2-0773', 'ὀστοκόραξ,'): 'scan check',
+    ('v2-0773', 'الغبنة'): 'print الفينة',
+    ('v2-0780', 'صادها'): 'scan check',
+    ('v2-0780', 'واصطاد'): 'scan check',
+    ('v2-0784', 'πολλοὺς,'): 'scan check',
+    ('v2-0787', 'Ὦπται'): 'scan check',
 }
 
 # Since 08-Nov-2026 a change that only MDZ supports (with the judge) is not applied but listed as
@@ -259,6 +281,24 @@ ACCEPT = {
     ('v2-0687', 'quo'),
     ('v2-0698', 'דמשתכחאביני'),
     ('v2-0711', 'כבש'),
+    # tranche 5 (scan check 13-Nov-2026)
+    ('v2-0722', 'בער'),
+    ('v2-0722', 'ולצפצף,'),
+    ('v2-0723', 'وهو'),
+    ('v2-0725', 'צפצף'),
+    ('v2-0734', 'שמשך,'),
+    ('v2-0740', 'ἐὺν'),
+    ('v2-0741', 'صهيب'),
+    ('v2-0743', 'hodiernum'),
+    ('v2-0748', 'ψυχρὰν'),
+    ('v2-0760', 'הוה'),
+    ('v2-0764', 'ἀετῶν'),
+    ('v2-0764', 'secundo'),
+    ('v2-0772', 'العظام'),
+    ('v2-0775', 'Samaritana uza'),
+    ('v2-0775', 'oznija.'),
+    ('v2-0775', 'verisimiles,'),
+    ('v2-0777', 'דדה,'),
 }
 
 # Differences that the scan cannot decide or that are conventions, not readings: never changed by the

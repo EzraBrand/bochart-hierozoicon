@@ -1,0 +1,62 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "738  <i>De providentia Dei circa paſſeres.</i>  P. II. L. I. Cap. XXIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "738  <i>De providentia Dei circa paſſeres.</i>  P. II. L. I. Cap. XXIII."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "non fuiſſe curae, et ſummum illum ducem fugiſſe, quot milites in exercitu ſuo\nconſcripſerit? Denique quid <i>Chriſti</i> verbis diſertius, <i>nullum ex paſſeribus in ter-\nram cadere ſine Deo, aut in oblivione eſſe coram illo?</i> In quem locum haec obſer-\nvanda, quae ex <i>Talmude Hieroſolymitano</i> profert doctiſſimus <i>Buxtorfius Lexici\nTalmudici</i> pag. 553. Rabbi Simeon Ben Iochai <i>latebat in quadam ſpelunca. Die\nquodam ſedens ad oſtium ſpeluncae, et videns aucupem, aves capientem et rete ex-\ntendentem, audivit filiam vocis</i> (oraculum), <i>quae cum dicebat</i> דימוס <i>dimos</i> (id eſt,\n<i>liberatio</i>), <i>tum evadebat avis. Quando vero filia vocis dicebat</i> ספיקולא, <i>ſpicula</i>\n(id eſt, <i>ſententia mortis</i>), <i>tum avis capiebatur. Proinde dixit oraculum</i>, צפור\nמבלעדי שמיא לא יבדא כל שכן בר נשא, <i>Avicula ſine coelo</i> (id eſt, ſine Dei\nvoluntate et providentia) <i>non perit: quanto minus homo!</i> Pro לא יבדא lege לא\nיאבד. His etiam ethnici non diſſimilia ſcribunt. Sic <i>Plutarchus</i> alicubi ex <i>Ho-\nmero</i> probat, veteres in ea fuiſſe ſententia, Dei numine curari ὀ μόνον βόας,\nἀλλὰ καὶ πάντα τὰ ἄλλα ζῶα, <i>non ſolum boves, ſed et omnia alia animalia</i>.\nEt <i>Aelianus Hiſt.</i> lib. 11. cap. 31. Ἴδιον δὲ ἄρα τῶν ζῴων καὶ ἐκεῖνο ἀγαθὸν,\nπρόνοιαν αὐτῶν καὶ οἱ Θεοὶ ποιεῦνται, καὶ ὔτε αὐτῶν καταφρονῦσιν, ὀδὲ μὴν\nὀλιγώρως ἔχυσιν· <i>Etiam brutis competit hoc bonum, quod iis Dii provident, ne-\nque illa deſpiciunt, aut ſusque deque habent.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "non fuiſſe curae, et ſummum illum ducem fugiſſe, quot milites in exercitu ſuo\nconſcripſerit? Denique quid <i>Chriſti</i> verbis diſertius, <i>nullum ex paſſeribus in ter-\nram cadere ſine Deo, aut in oblivione eſſe coram illo?</i> In quem locum haec obſer-\nvanda, quae ex <i>Talmude Hieroſolymitano</i> profert doctiſſimus <i>Buxtorfius Lexici\nTalmudici</i> pag. 553. Rabbi Simeon Ben Iochai <i>latebat in quadam ſpelunca. Die\nquodam ſedens ad oſtium ſpeluncae, et videns aucupem, aves capientem et rete ex-\ntendentem, audivit filiam vocis</i> (oraculum), <i>quae cum dicebat</i> דימוס <i>dimos</i> (id eſt,\n<i>liberatio</i>), <i>tum evadebat avis. Quando vero filia vocis dicebat</i> ספיקולא, <i>ſpicula</i>\n(id eſt, <i>ſententia mortis</i>), <i>tum avis capiebatur. Proinde dixit oraculum</i>, צפור\nמבלעדי שמיא לא יבדא כל שכן בר נשא, <i>Avicula ſine coelo</i> (id eſt, ſine Dei\nvoluntate et providentia) <i>non perit: quanto minus homo!</i> Pro לא יבדא lege לא\nיאבד. His etiam ethnici non diſſimilia ſcribunt. Sic <i>Plutarchus</i> alicubi ex <i>Ho-\nmero</i> probat, veteres in ea fuiſſe ſententia, Dei numine curari ὀ μόνον βόας,\nἀλλὰ καὶ πάντα τὰ ἄλλα ζῶα, <i>non ſolum boves, ſed et omnia alia animalia</i>.\nEt <i>Aelianus Hiſt.</i> lib. 11. cap. 31. Ἴδιον δὲ ἄρα τῶν ζῴων καὶ ἐκεῖνο ἀγαθὸν,\nπρόνοιαν αὐτῶν καὶ οἱ Θεοὶ ποιεῦνται, καὶ ὔτε αὐτῶν καταφρονῦσιν, ὀδὲ μὴν\nὀλιγώρως ἔχυσιν· <i>Etiam brutis competit hoc bonum, quod iis Dii provident, ne-\nque illa deſpiciunt, aut ſusque deque habent.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "DE",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "DE"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1777,
+    1296
+   ],
+   [
+    1777,
+    1520
+   ]
+  ],
+  "input_tokens": 3406,
+  "output_tokens": 714,
+  "cost_usd": 0.0052,
+  "seconds": 8.3
+ }
+}
