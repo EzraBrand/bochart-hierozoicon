@@ -16,3 +16,5 @@ data/ocr/*+vote-*/
 data/fix/*.decisions.*.json
 # OpenRouter model list (prices), fetched for costtest/costs.py
 costtest/models.json
+# spot-check answers (cache of spotcheck.py)
+data/entries/*/spotcheck/

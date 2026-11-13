@@ -57,7 +57,10 @@ edition: "Plinius libri octavi capite quinquagesimo quinto" -> "Pliny, book 8, c
 stays "p. 1012".
 - Hebrew and Aramaic in Hebrew letters: keep exactly as given; do NOT transliterate.
 - Syriac script: keep exactly as given; do NOT transliterate (a program adds Hebrew letters).
-- Ethiopic and Samaritan script: keep exactly as given; nothing added.
+- Ethiopic and Samaritan script: keep exactly as given; nothing added (a program adds the \
+transliteration).
+- Any other script that is not Latin (Coptic, Armenian, ...): keep exactly as given and add a \
+scholarly transliteration in square brackets right after each word or phrase.
 - Arabic and Persian script: keep exactly as given, and add an IJMES transliteration in square \
 brackets right after each word or phrase: "اليربوع [al-yarbūʿ] <i>aljarbuo</i>". Transliterate \
 what is written, also where the spelling looks wrong ("الجرد" -> [al-jurd]); write no vowels \
@@ -174,9 +177,53 @@ SAMARITAN_TO_HEBREW = dict(zip("ࠀࠁࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋࠌࠍࠎࠏ
 SAMARITAN_RUN = re.compile(r"[ࠀ-ࠕ][ࠀ-࠿]*")
 
 
+# Ethiopic (Ge'ez): a transliteration in brackets, as Greek and Arabic have (13-Nov-2026). The script is a
+# syllabary: Unicode has 8 places per consonant, in the order a, u, i, ā, ē, ə, o (the seventh place of
+# the block, e.g. ሏ, is the labialized ʷā). The sixth order is written ə inside a word and nothing at the
+# word end; the script does not say where the ə is silent (ወርቅ comes out warəq, read warq), so the
+# result is mechanical: what is written, not the pronunciation.
+ETHIOPIC_CONS = {0x1200: "h", 0x1208: "l", 0x1210: "ḥ", 0x1218: "m", 0x1220: "ś", 0x1228: "r", 0x1230: "s",
+                 0x1238: "š", 0x1240: "q", 0x1248: "qʷ", 0x1250: "q̱", 0x1258: "q̱ʷ", 0x1260: "b", 0x1268: "v",
+                 0x1270: "t", 0x1278: "č", 0x1280: "ḫ", 0x1288: "ḫʷ", 0x1290: "n", 0x1298: "ñ", 0x12A0: "ʾ",
+                 0x12A8: "k", 0x12B0: "kʷ", 0x12B8: "x", 0x12C0: "xʷ", 0x12C8: "w", 0x12D0: "ʿ", 0x12D8: "z",
+                 0x12E0: "ž", 0x12E8: "y", 0x12F0: "d", 0x12F8: "ḍ", 0x1300: "ǧ", 0x1308: "g", 0x1310: "gʷ",
+                 0x1318: "ŋ", 0x1320: "ṭ", 0x1328: "č̣", 0x1330: "p̣", 0x1338: "ṣ", 0x1340: "ṣ́", 0x1348: "f",
+                 0x1350: "p"}
+ETHIOPIC_VOWELS = ["a", "u", "i", "ā", "ē", "ə", "o", "ʷā"]
+ETHIOPIC_RUN = re.compile(r"[ሀ-ፚ][ሀ-፼]*(?:[  ]+[ሀ-ፚ][ሀ-፼]*)*")
+
+
+def ethiopic_word(word: str) -> str:
+    out = []
+    for c in word:
+        cp = ord(c)
+        cons = ETHIOPIC_CONS.get(cp & ~7)
+        if cons is None:  # ፡ (word divider) and other punctuation: not written
+            continue
+        out.append(cons + ETHIOPIC_VOWELS[cp & 7])
+    t = "".join(out)
+    return t[:-1] if t.endswith("ə") else t
+
+
+def ethiopic_translit(run: str) -> str:
+    return " ".join(w for w in (ethiopic_word(x) for x in run.split()) if w)
+
+
+def _ethiopic(m: re.Match) -> str:
+    t = ethiopic_translit(m.group(0))
+    if not t or m.string[m.end():].lstrip(" ").startswith("["):  # a bracket is there already
+        return m.group(0)
+    return f"{m.group(0)} [{t}]"
+
+
+LOOKALIKES = str.maketrans("аеорсхіАЕОРСХ", "aeopcxiAEOPCX")  # Cyrillic letters in a transliteration (p. 434)
+
+
 def add_hebrew_letters(text: str) -> str:
+    """Brackets that a program adds: Hebrew letters for Syriac and Samaritan, a transliteration for Ethiopic."""
     text = SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
-    return SAMARITAN_RUN.sub(lambda m: f"{m.group(0)} [{samaritan_to_hebrew(m.group(0))}]", text)
+    text = ETHIOPIC_RUN.sub(_ethiopic, text)
+    return SAMARITAN_RUN.sub(lambda m: f"{m.group(0)} [{samaritan_to_hebrew(m.group(0))}]", text).translate(LOOKALIKES)
 
 
 def samaritan_to_hebrew(word: str) -> str:

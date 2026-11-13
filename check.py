@@ -17,7 +17,9 @@ A difference where the same words come in another order is "order"; a span of mo
 is "block" (text in another place: Flash's line order, note columns). Both are left to the page
 join check, not to the judges.
 A Greek flag where Flash agrees with the main OCR and MDZ differs only by an accent, by ε for the
-ου ligature or by Φ for φ is "quirk": not judged (12-Nov-2026; see is_mdz_quirk).
+ου ligature or by Φ for φ is "quirk": not judged (12-Nov-2026; see is_mdz_quirk). The same for a
+Latin flag where MDZ differs only by in for m, tt/ft for ct/st, fl for ss, S for an initial s, or l/J
+for I (13-Nov-2026; see is_latin_quirk).
 Each flag has the line of the main OCR and, for the image judge, the box of the matching line in
 the MDZ hOCR (found by fuzzy match).
 """
@@ -61,10 +63,35 @@ def quirk_fold(word: str) -> str:
     return unicodedata.normalize("NFC", k).replace("ου", "ε").replace("ȣ", "ε").replace("Φ", "φ")
 
 
+def latin_fold(word: str) -> str:
+    """The key against MDZ without MDZ's habits in the Latin of this type (13-Nov-2026): m read as in/ın
+    (cuin, quaın), ct and the long-s st read as tt/ft (fatta, noftis), ss read as fl (fuifle), a capital S
+    for an initial long s, and l or J for a capital I (ludaei, Jerichuntem). Accents and the other
+    capitals are not folded: MDZ found quò and Ie for Je that way."""
+    k = key(word, True).replace("ı", "i")
+    k = re.sub(r"^[lJS]", lambda m: "s" if m.group(0) == "S" else "I", k)
+    return k.replace("m", "in").replace("ct", "tt").replace("st", "tt").replace("sl", "ss")
+
+
+def is_latin_quirk(row: dict) -> bool:
+    """Latin flag where Flash reads exactly as the main OCR and MDZ differs only by the habits of
+    latin_fold. Measured on tranches 2-4: about 100-150 flags a tranche; the judge kept all but 5, and
+    those 5 were the judge following MDZ (cuin, quain, Certuin, coluinbae, sinaragdis)."""
+    if row["script"] != "Latin" or not row["flash"] or not row["mdz"]:
+        return False
+    m = row["main"].split()
+    if any(re.match(r"[lJ]", w) for w in (key(x, True) for x in m)):  # main has l/J itself: no fold of the initial
+        return False
+    return ([key(w) for w in m] == [key(w) for w in row["flash"].split()]
+            and [latin_fold(w) for w in m] == [latin_fold(w) for w in row["mdz"].split()])
+
+
 def is_mdz_quirk(row: dict) -> bool:
     """Greek flag where Flash reads exactly as the main OCR and MDZ differs only by its habits
     (12-Nov-2026). In tranche 3 that was 187 of 1,467 flags; the judge kept 160 and changed 2, both
     an iota subscript. Such a flag gets the kind "quirk": listed in the CSV, not sent to the judge."""
+    if is_latin_quirk(row):
+        return True
     if row["script"] != "Greek" or not row["flash"] or not row["mdz"]:
         return False
     m = row["main"].split()

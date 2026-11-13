@@ -137,6 +137,42 @@ DOCS = [
     {"slug": "tukkiyim", "kind": "entry", "entry": "tukkiyim", "vol": 2, "pages": list(range(709, 721)),
      "title": "Part 2, Book 1, chapter 20: The peacocks",
      "sub": "Vol. 2, pp. 709–720 · cols. 136–145 of 1663 (Part 2) · תכיים thuccijim (1 Kgs 10:22) are peacocks; ivory and ebony"},
+    {"slug": "tsippor", "kind": "entry", "entry": "tsippor", "vol": 2, "pages": list(range(721, 728)),
+     "title": "Part 2, Book 1, chapter 21: The word tsippor",
+     "sub": "Vol. 2, pp. 721–727 · cols. 145–150 of 1663 (Part 2) · צפור tsippor means any bird and specially the sparrow; its kinds according to the Arabs"},
+    {"slug": "passer-prophetae", "kind": "entry", "entry": "passer-prophetae", "vol": 2, "pages": list(range(727, 736)),
+     "title": "Part 2, Book 1, chapter 22: Nine passages referred to sparrows",
+     "sub": "Vol. 2, pp. 727–735 · cols. 150–157 of 1663 (Part 2) · nine passages of the Old Testament that some interpreters refer to sparrows"},
+    {"slug": "passer-providentia", "kind": "entry", "entry": "passer-providentia", "vol": 2, "pages": list(range(735, 739)),
+     "title": "Part 2, Book 1, chapter 23: The providence of God for sparrows",
+     "sub": "Vol. 2, pp. 735–738 · cols. 157–160 of 1663 (Part 2) · the sparrows sold for an assarion (Matt 10:29, Luke 12:6)"},
+    {"slug": "aquila", "kind": "entry", "entry": "aquila", "vol": 2, "pages": list(range(739, 750)),
+     "title": "Part 2, Book 2, chapter 1: The eagle, king of the birds",
+     "sub": "Vol. 2, pp. 739–749 · cols. 161–169 of 1663 (Part 2) · נשר nesher: its name, beak, talons, plumage, baldness, renewal and colour"},
+    {"slug": "aquila-volatus", "kind": "entry", "entry": "aquila-volatus", "vol": 2, "pages": list(range(750, 759)),
+     "title": "Part 2, Book 2, chapter 2: The eagle's wings, flight, nest, sight and food",
+     "sub": "Vol. 2, pp. 750–758 · cols. 169–176 of 1663 (Part 2) · the eagle's wings, flight, nest, sight and food"},
+    {"slug": "aquila-pulli", "kind": "entry", "entry": "aquila-pulli", "vol": 2, "pages": list(range(759, 767)),
+     "title": "Part 2, Book 2, chapter 3: The eagle's love for its young",
+     "sub": "Vol. 2, pp. 759–766 · cols. 176–181 of 1663 (Part 2) · the eagle that stirs up its nest and carries its young (Deut 32:11)"},
+    {"slug": "aquila-mystica", "kind": "entry", "entry": "aquila-mystica", "vol": 2, "pages": list(range(766, 771)),
+     "title": "Part 2, Book 2, chapter 4: Mystical eagles",
+     "sub": "Vol. 2, pp. 766–770 · cols. 182–185 of 1663 (Part 2) · God, the angels, the faithful and the great kings as eagles"},
+    {"slug": "peres", "kind": "entry", "entry": "peres", "vol": 2, "pages": list(range(770, 774)),
+     "title": "Part 2, Book 2, chapter 5: Peres is the ossifrage",
+     "sub": "Vol. 2, pp. 770–773 · cols. 185–188 of 1663 (Part 2) · פרס peres (Lev 11:13) is the ossifrage"},
+    {"slug": "oznija", "kind": "entry", "entry": "oznija", "vol": 2, "pages": list(range(774, 777)),
+     "title": "Part 2, Book 2, chapter 6: Oznija is the black eagle",
+     "sub": "Vol. 2, pp. 774–776 · cols. 188–190 of 1663 (Part 2) · עזניה oznija (Lev 11:13) is not the haliaeetus but the melanaeetus or Valerian eagle"},
+    {"slug": "daah", "kind": "entry", "entry": "daah", "vol": 2, "pages": list(range(777, 779)),
+     "title": "Part 2, Book 2, chapter 7: Daa or raa, the kite",
+     "sub": "Vol. 2, pp. 777–778 · cols. 191–192 of 1663 (Part 2) · דאה daa (Lev 11:14) and ראה raa (Deut 14:13): the kite, named from its flight"},
+    {"slug": "ajah", "kind": "entry", "entry": "ajah", "vol": 2, "pages": list(range(779, 783)),
+     "title": "Part 2, Book 2, chapter 8: Aja is the merlin",
+     "sub": "Vol. 2, pp. 779–782 · cols. 192–195 of 1663 (Part 2) · איה aja (Lev 11:14, Job 28:7) is a kind of hawk, the aesalon or merlin"},
+    {"slug": "dajah", "kind": "entry", "entry": "dajah", "vol": 2, "pages": list(range(782, 787)),
+     "title": "Part 2, Book 2, chapter 9: Daja is the black vulture",
+     "sub": "Vol. 2, pp. 782–786 · cols. 195–197 of 1663 (Part 2) · דיה daja (Deut 14:13, Isa 34:15) is the black vulture"},
 ]
 CONTENTS = []
 
@@ -213,9 +249,10 @@ def inline(text: str, page: int, ctx: dict) -> str:
         out = f'<bdi class="{cls}" dir="{direction}">{m.group(1)}</bdi>'
         br = m.group(3)
         # a bracket is a transliteration only where the rules add one: Syriac -> Hebrew letters,
-        # Arabic/Greek -> Latin. Any other bracket (e.g. the author's own "[בית]") stays text.
-        is_tr = br and ((cls == "syc" and re.match(r"[א-ת]", br)) or
-                        (cls in ("ara", "grc") and re.match(r"[A-Za-zʾʿĀ-ž(]", br)))
+        # Samaritan -> Hebrew letters, Arabic/Greek/Ethiopic -> Latin. Any other bracket (e.g. the author's own "[בית]") stays text.
+        is_tr = br and ((cls in ("syc", "sam") and re.match(r"[א-ת]", br)) or
+                        (cls in ("ara", "grc") and re.match(r"[A-Za-zʾʿĀ-ž(]", br)) or
+                        (cls == "eth" and not re.search(r"[ሀ-᎟א-ת]", br)))  # in code since 13-Nov-2026
         if br and not is_tr:
             return out + " [" + RUN.sub(run, br) + "]"
         if br:
@@ -305,7 +342,7 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 
 
 def header(active: str) -> str:
-    links = [("index.html", "Chapters"), ("abbreviations.html", "Abbreviations"), ("names.html", "Names"),
+    links = [("index.html", "Chapters"), ("abbreviations.html", "Abbreviations"), ("names.html", "Names"), ("hebrew.html", "Hebrew"),
              (FACTCHECK, "Fact-check"), (REPO, "Code and data")]
     nav = " ".join(f'<a href="{h}"{" aria-current=page" if h == active else ""}>{t}</a>' for h, t in links)
     nav += ('<label class="theme">Theme <select id="theme" aria-label="Colour theme">'
@@ -490,9 +527,10 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: vol. 2, pp. 409–720 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; Part 2, Book 1,
-chs. 1–20: the dove, the deror, the turtledove, the swallow, the crane, the kore, the partridge, the quail,
-the cock and the hen, the barburim and the peacock).</p>
+far: vol. 2, pp. 409–786 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; all of Part 2,
+Book 1, the clean birds: the dove, the deror, the turtledove, the swallow, the crane, the kore, the
+partridge, the quail, the cock and the hen, the barburim, the peacock and the sparrow; Part 2, Book 2,
+the unclean birds, chs. 1–9: the eagle, the peres, the oznija, the daa, the aja and the daja).</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
 <ul class="docs">{items}</ul>
@@ -575,6 +613,48 @@ catalogue; <b>guess</b> = check.</p>
 <tbody>{rows}</tbody></table>
 </main>"""
     return page_html("Names · Bochart, Hierozoicon", body)
+
+
+def hebrew_html() -> str:
+    """The concordance of the Hebrew-letter strings (concordance.py), for a reader's QA."""
+    import concordance as C
+    occ = C.rows()
+    ws = [w for w in C.words(occ) if w["looks_like"]]
+    titles = {d["slug"]: d["title"].split(":")[0].replace("chapter ", "ch. ") for d in DOCS}
+    esc = html.escape
+    rows = "".join(
+        f'<tr><td><bdi class="heb" dir="rtl">{esc(r["hebrew"])}</bdi></td>'
+        f'<td>{esc(r["before"])} <b><bdi class="heb" dir="rtl">{esc(r["hebrew"])}</bdi></b> {esc(r["after"])}</td>'
+        f'<td><i>{esc(r["romanization"])}</i></td>'
+        f'<td><a href="{r["site_url"].rsplit("/", 1)[1]}">{esc(titles[r["chapter"]])}</a>'
+        f'{" (note)" if r["part"] == "note" else ""}<br><a class="pg" href="{r["scan_url"]}" target="_blank" '
+        f'rel="noopener" title="Scan of this page">II,&nbsp;{r["page"]}</a></td></tr>'
+        for r in sorted(occ, key=lambda r: (r["key"], r["page"])))
+    like = "".join(
+        f'<tr><td><bdi class="heb" dir="rtl">{esc(w["word"])}</bdi></td><td>{w["count"]}</td>'
+        f'<td><bdi class="heb" dir="rtl">{esc(w["looks_like"])}</bdi></td><td>{esc(w["pages"])}</td></tr>'
+        for w in sorted(ws, key=lambda w: (w["count"], w["word"])))
+    body = f"""{header("hebrew.html")}
+<main class="index">
+<h1>Hebrew concordance</h1>
+<p class="lede">Every string in Hebrew letters (Hebrew and Aramaic) in the chapters published so far:
+{len(occ):,} strings, {len({r["key"] for r in occ}):,} distinct, in alphabetical order, each with the words
+around it, Bochart's romanization where one follows, and a link to the scan. This is a list for
+checking: the text is a machine transcription, and in this type ד and ר, ה, ח and ת, ו, ז, י and ן, ב and
+כ are hard to tell apart. The same rows as a spreadsheet:
+<a href="{REPO}/blob/main/data/concordance/hebrew.csv">hebrew.csv</a>,
+<a href="{REPO}/blob/main/data/concordance/hebrew_words.csv">hebrew_words.csv</a>.</p>
+<input id="filter" type="search" placeholder="Filter, e.g. שפן or saphan or a page number" aria-label="Filter">
+<table class="abbr conc"><thead><tr><th>Hebrew</th><th>Context</th><th>Romanization</th><th>Chapter, page</th></tr></thead>
+<tbody>{rows}</tbody></table>
+<h2 id="lookalikes">Words with a look-alike</h2>
+<p>{len(ws)} words that differ from another word of the concordance only by letters that look alike in this
+type (the count of the other word in brackets). Most are different words; a word found once beside a
+frequent look-alike is the first place to check. Rarest first.</p>
+<table class="abbr"><thead><tr><th>Word</th><th>Count</th><th>Looks like</th><th>Pages (vol. 2)</th></tr></thead>
+<tbody>{like}</tbody></table>
+</main>"""
+    return page_html("Hebrew concordance · Bochart, Hierozoicon", body)
 
 
 def stamp(text: str) -> str:
@@ -676,6 +756,8 @@ input#filter{width:100%;padding:.5rem .7rem;font:inherit;border:1px solid var(--
 table.abbr{width:100%;border-collapse:collapse;font-size:.92rem}
 table.abbr th,table.abbr td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}
 table.abbr td:first-child{white-space:nowrap;font-weight:600}
+table.conc{table-layout:fixed}table.conc td:first-child{white-space:normal;overflow-wrap:anywhere}
+table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:50%}table.conc th:nth-child(3){width:13%}
 footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
 @media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}
 """
@@ -786,13 +868,16 @@ def main():
     (OUT / "index.html").write_text(index_html(), encoding="utf-8")
     (OUT / "abbreviations.html").write_text(abbreviations_html(), encoding="utf-8")
     (OUT / "names.html").write_text(names_html(), encoding="utf-8")
+    (OUT / "hebrew.html").write_text(hebrew_html(), encoding="utf-8")
     for d in CONTENTS + DOCS:
         if d["kind"] == "entry" and not (DATA / "entries" / d["entry"] / "en.json").exists():
             print(f"skip docs/{d['slug']}.html (no translation yet)")
             continue
         (OUT / f"{d['slug']}.html").write_text(doc_html(d), encoding="utf-8")
         print(f"wrote docs/{d['slug']}.html")
-    print("wrote docs/index.html, docs/abbreviations.html, docs/names.html")
+    import concordance  # the same rows as CSV, for a spreadsheet
+    concordance.main()
+    print("wrote docs/index.html, docs/abbreviations.html, docs/names.html, docs/hebrew.html")
 
 
 if __name__ == "__main__":

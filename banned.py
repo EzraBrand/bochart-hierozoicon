@@ -39,6 +39,20 @@ RULES = {
 RULES["barburim"] = [PIGEON, (r"\bswans?\b", r"cygn|olor|κύκν"), (r"\bgeese\b|\bgoose\b", r"anser|χ[ήη]ν")]
 for e in ("selav", "selav-quaestiones", "gallinaceum", "galli-cantus", "gallina-pulli", "tukkiyim"):
     RULES[e] = [PIGEON, (r"\broosters?\b", "")]
+# tranche 5: the birds of prey keep Bochart's romanized names where the identity is argued
+EAGLE = (r"\beagles?\b|\beaglets?\b", r"aquil|ἀετ|αἰετ|ἀέτ|נשר|نسر|عقاب|aigle|adler|haliaee|melanaee|nesher")
+VULTURE = (r"\bvultures?\b", r"vult|γύ[ψπ]|γῦπ|γυπ|رخم|نسر|vautour|geier|aegypi|αἰγυπι")
+KITE = (r"\bkites?\b", r"milv|ἰκτ[ῖι]ν|حدا|حداة|milan|weihe")
+OSPREY = (r"\bospreys?\b", r"ospray|osprey|ossifrag")
+for e in ("tsippor", "passer-prophetae", "passer-providentia"):
+    RULES[e] = [PIGEON, SWALLOW]
+for e in ("aquila", "aquila-volatus", "aquila-pulli", "aquila-mystica"):
+    RULES[e] = [PIGEON, VULTURE, KITE]
+RULES["peres"] = [VULTURE, EAGLE, OSPREY]
+RULES["oznija"] = [VULTURE, OSPREY]
+RULES["daah"] = [VULTURE, EAGLE]
+RULES["ajah"] = [VULTURE, EAGLE, KITE]
+RULES["dajah"] = [EAGLE, KITE]
 for e in ("jonah", "columba-pennae", "columbaria", "columba-mores", "columba-sacrificia", "columba-noachi",
           "chiryonim"):
     RULES[e] = [PIGEON, WOOD_PIGEON]

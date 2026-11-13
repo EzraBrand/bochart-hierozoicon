@@ -84,6 +84,13 @@ As in Lewysohn: Hebrew and Aramaic in square script, **no transliteration**; Syr
 letters in brackets (in code, `add_hebrew_letters`); Arabic and Persian get **IJMES**, Greek
 **SBL** transliteration in brackets.
 
+Ethiopic (13-Nov-2026): a transliteration in brackets, added in code (`translate.ethiopic_translit`):
+`ርግብ፡ [rəgəb]`. The vowel orders are a, u, i, ā, ē, ə, o; the sixth order is written ə inside a word and
+nothing at the word end. The script does not show where the ə is silent, so the form is what is
+written, not the pronunciation (`ወርቅ፡ [warəq]`, read *warq*). Samaritan gets Hebrew letters, as
+Syriac does. Any other script (Coptic, Armenian ...) gets a transliteration in brackets from the
+translator. Only Hebrew and Aramaic in square script stay without one.
+
 The new point: Bochart already gives his own transliteration after most foreign words:
 `اليربوع aljarbuo`. R: keep both. The IJMES form goes in its bracket right after the Arabic, and
 Bochart's form stays after it: `اليربوع [al-yarbūʿ] aljarbuo`. In the reading edition, the
