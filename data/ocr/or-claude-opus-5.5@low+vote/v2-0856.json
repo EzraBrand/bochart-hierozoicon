@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "856 <i>Explicantur Iobi reliqua de Struthione.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "856 <i>Explicantur Iobi reliqua de Struthione.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πῶς δ᾽ ἄρ ἐν οἰωνοῖσι ποθὴν ἀλίαστον ἔχουσιν\nὯν τεκέων φῆναί τε, βαρύφθογγοί τε πέλειαι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πῶς δ᾽ ἄρ ἐν οἰωνοῖσι ποθὴν ἀλίαστον ἔχουσιν\nὯν τεκέων φῆναί τε, βαρύφθογγοί τε πέλειαι."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quomodo etiam inter aves amorem perpetuum suorum pullorum habent ossifragae,\net gravi gemitu columbae.</i> Corvis quoque pullos esse odio, licet permulti asse-\nrant, res tamen est commentitia, quod abunde supra probatum ^{a)}: et aqui-\nlam ^{b)} ovum aut pullum unum non alia de causa e nido suo ejicere, quam quia\nomnibus alendis et fovendis impar est. Sed struthionem ova sua non raro in\nterra relinquere et negligere, quamvis non tradant <i>Graeci</i> et <i>Romani</i> scriptores,\nquibus hujus animalis natura non fuit satis cognita, mihi tamen ex <i>Arabum</i> mo-\nnumentis est compertissimum. <i>Damir,</i> وهي تخرج لطلب الطعم\nفمتي وجدت بيض نعامة اخري تحضنه وتنسي\nبيضها ولعلها ان تصاد فلا ترجع اليه ولهذا\nتوصف بالحمق ويضرب بها المثل في ذلك <i>Cum e</i> ⟦p. 252⟧\nnido <i>prodit, ut cibum quaerat, si reperiat ovum struthionis alterius, illi incubat,\net proprii obliviscitur, et a venatoribus inde pulsa nunquam redit. Unde est, quod\nstulta describitur, et illam ferit proverbium ea de re</i> ^{(2)}. Nempe احمق\nنعامة <i>Struthione stultior</i>, quod in sectione <i>De Proverbiis</i> idem exponit.\nEt singula haec designant <i>Arabes</i> propriis nominibus. بيضة in genere est\n<i>ovum</i>, ut <i>Hebraice</i> ביצה, iisdem literis. Unde hic Plurale cum Affixo ביציה,\n<i>ova sua.</i> Cur <i>ovum</i> sic dicatur, <i>Hebraeos latet</i>, sed <i>Arabes</i> deducunt <i>ab albedi-\nne.</i> Illis enim باض Verbum <i>album esse</i> sonat. At struthionis ovum speciali\nnomine تومة <i>thauma</i> dicitur, quod <i>Graece</i> est <i>miraculum.</i> Et تريكة\ntharicha, <i>cum ex eo pullus exiit.</i> Et نثل nethel, <i>cum a mare relictum est,</i>\nvel بيضة البلد <i>ovum regionis.</i> Alcamus, تومة بيضة\nالنعام Thauma, <i>ovum struthionis.</i> التريكة البيضة بعد\nان",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quomodo etiam inter aves amorem perpetuum suorum pullorum habent ossifragae,\net gravi gemitu columbae.</i> Corvis quoque pullos esse odio, licet permulti asse-\nrant, res tamen est commentitia, quod abunde supra probatum ^{a)}: et aqui-\nlam ^{b)} ovum aut pullum unum non alia de causa e nido suo ejicere, quam quia\nomnibus alendis et fovendis impar est. Sed struthionem ova sua non raro in\nterra relinquere et negligere, quamvis non tradant <i>Graeci</i> et <i>Romani</i> scriptores,\nquibus hujus animalis natura non fuit satis cognita, mihi tamen ex <i>Arabum</i> mo-\nnumentis est compertissimum. <i>Damir,</i> وهي تخرج لطلب الطعم\nفمتي وجدت بيض نعامة اخري تحضنه وتنسي\nبيضها ولعلها ان تصاد فلا ترجع اليه ولهذا\nتوصف بالحمق ويضرب بها المثل في ذلك <i>Cum e</i> ⟦p. 252⟧\nnido <i>prodit, ut cibum quaerat, si reperiat ovum struthionis alterius, illi incubat,\net proprii obliviscitur, et a venatoribus inde pulsa nunquam redit. Unde est, quod\nstulta describitur, et illam ferit proverbium ea de re</i> ^{(2)}. Nempe احمق\nنعامة <i>Struthione stultior</i>, quod in sectione <i>De Proverbiis</i> idem exponit.\nEt singula haec designant <i>Arabes</i> propriis nominibus. بيضة in genere est\n<i>ovum</i>, ut <i>Hebraice</i> ביצה, iisdem literis. Unde hic Plurale cum Affixo ביציה,\n<i>ova sua.</i> Cur <i>ovum</i> sic dicatur, <i>Hebraeos latet</i>, sed <i>Arabes</i> deducunt <i>ab albedi-\nne.</i> Illis enim باض Verbum <i>album esse</i> sonat. At struthionis ovum speciali\nnomine تومة <i>thauma</i> dicitur, quod <i>Graece</i> est <i>miraculum.</i> Et تريكة\ntharicha, <i>cum ex eo pullus exiit.</i> Et نثل nethel, <i>cum a mare relictum est,</i>\nvel بيضة البلد <i>ovum regionis.</i> Alcamus, تومة بيضة\nالنعام Thauma, <i>ovum struthionis.</i> التريكة البيضة بعد\nان"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cap. 11. pag. 205 etc.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cap. 11. pag. 205 etc.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cap. 3. pag. 181.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cap. 3. pag. 181.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Loca παράλληλα ex Arabum poetis\neorumque interpretibus dabit SCHULTEN-\nSIUS in <i>Commentar.</i> ad loc. p. 1120. 1121.\n1122., qui omnino legendus est, quum et\naliorum sententias ibi perpensas invenias.\nNeque contulisse poenitebit SHAWII <i>Itine-\nrar.</i> pag. 388. seqq. vers. germ. Lips. 1765.\nIllustrat is omnem Iobi locum his, quae\nipse observavit, atque, quae Bochartus ex\nArabum libris attulit, suo testimonio con-\nfirmat. Fabulam de struthione, ova oculo-\nrum sola acie excludente, e Geuhario pro-\ndit WANSLEBEN in <i>Itinerario</i>, a <i>Paulo</i>\nedito in Sylloges Itinerariorum P. III. p. 186.\nNeque quae ad ea monuit Paulus in Notis\nad libri calcem pag. 395. sunt praetermit-\ntenda.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Loca παράλληλα ex Arabum poetis\neorumque interpretibus dabit SCHULTEN-\nSIUS in <i>Commentar.</i> ad loc. p. 1120. 1121.\n1122., qui omnino legendus est, quum et\naliorum sententias ibi perpensas invenias.\nNeque contulisse poenitebit SHAWII <i>Itine-\nrar.</i> pag. 388. seqq. vers. germ. Lips. 1765.\nIllustrat is omnem Iobi locum his, quae\nipse observavit, atque, quae Bochartus ex\nArabum libris attulit, suo testimonio con-\nfirmat. Fabulam de struthione, ova oculo-\nrum sola acie excludente, e Geuhario pro-\ndit WANSLEBEN in <i>Itinerario</i>, a <i>Paulo</i>\nedito in Sylloges Itinerariorum P. III. p. 186.\nNeque quae ad ea monuit Paulus in Notis\nad libri calcem pag. 395. sunt praetermit-\ntenda."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1737,
+    1656
+   ],
+   [
+    1737,
+    1164
+   ]
+  ],
+  "input_tokens": 8321,
+  "output_tokens": 1651,
+  "cost_usd": 0,
+  "seconds": 309.1,
+  "vote": "1 decisions from v2-788-870"
+ }
+}

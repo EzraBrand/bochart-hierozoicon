@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XV.   <i>Probatur</i>, תחמס <i>esse Struthionem marem.</i>   837",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XV.   <i>Probatur</i>, תחמס <i>esse Struthionem marem.</i>   837"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Turpe duci visum est rapiendi tempora belli</i>\n<i>In segnes haesisse moras.</i> ——\nEt libri sexti versu 372.\n—— <i>et gurgite rapto</i>\nApidanos, <i>nunquamque celer nisi mistus</i> Enipeus.\nPlinius <i>in Panegyrico, Cum legiones duceres, vel potius, tanta velocitas erat,</i>\n<i>raperes.</i> Cui geminum quidem <i>Lucani</i>, poëtae, illud de <i>Caesare</i> libro primo,\n—— <i>rapit agmina ductor</i>\n<i>Impiger.</i> ——",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Turpe duci visum est rapiendi tempora belli</i>\n<i>In segnes haesisse moras.</i> ——\nEt libri sexti versu 372.\n—— <i>et gurgite rapto</i>\nApidanos, <i>nunquamque celer nisi mistus</i> Enipeus.\nPlinius <i>in Panegyrico, Cum legiones duceres, vel potius, tanta velocitas erat,</i>\n<i>raperes.</i> Cui geminum quidem <i>Lucani</i>, poëtae, illud de <i>Caesare</i> libro primo,\n—— <i>rapit agmina ductor</i>\n<i>Impiger.</i> ——"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> ad <i>Priscum</i> libri duodecimi Epigrammate decimo quarto,\n<i>Parcius utaris, moneo, rapiente veredo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> ad <i>Priscum</i> libri duodecimi Epigrammate decimo quarto,\n<i>Parcius utaris, moneo, rapiente veredo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde <i>Arabicum</i> equi nomen فرس <i>pharas Damir</i> a rapiendo ita deducit in\ncapite <i>De equo:</i> لفظها مشتق من الافتراس كانها تغرس\nالارض بسرعة مشيتها <i>Nomen ejus derivatur a rapiendo, quasi diripiat</i>\n<i>terram incessus sui celeritate.</i> Et خطف <i>chatapha</i> Verbum primo rapere, de-\ninde velocem esse significat. Inde igitur hirundo dici potuit خطاف <i>chottaph</i>,\nut e camelis <i>dromas</i> خيطف <i>chaitaph</i>, et <i>praeceps incessus</i> حيطفي <i>chai-</i>\n<i>tapha</i>, et fulmen خاطف <i>chatiph, quia praestringit oculos, inquiunt, rapidi-</i>\n<i>tate motus sui.</i> Itaque tam falluntur, qui خطاف <i>chottaph</i>, vel, quod idem\nest, חטפיתא <i>chatphitha</i>, et חטופיתא <i>chatophitha</i>, quam qui תחמס pro ave ra-\npace sumunt ex genere τῶν γαμψωνύχων· cum הטפיתא hirundinem, et תחמס\nstruthionem sonet, ut probare conati sumus. Iam sequetur expositio verborum,\nquibus struthio in <i>Iobo</i> describitur: quae verba sunt eximia; sed, ut putamus,\nnondum satis intellecta, ac proinde hic explicanda.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde <i>Arabicum</i> equi nomen فرس <i>pharas Damir</i> a rapiendo ita deducit in\ncapite <i>De equo:</i> لفظها مشتق من الافتراس كانها تغرس\nالارض بسرعة مشيتها <i>Nomen ejus derivatur a rapiendo, quasi diripiat</i>\n<i>terram incessus sui celeritate.</i> Et خطف <i>chatapha</i> Verbum primo rapere, de-\ninde velocem esse significat. Inde igitur hirundo dici potuit خطاف <i>chottaph</i>,\nut e camelis <i>dromas</i> خيطف <i>chaitaph</i>, et <i>praeceps incessus</i> حيطفي <i>chai-</i>\n<i>tapha</i>, et fulmen خاطف <i>chatiph, quia praestringit oculos, inquiunt, rapidi-</i>\n<i>tate motus sui.</i> Itaque tam falluntur, qui خطاف <i>chottaph</i>, vel, quod idem\nest, חטפיתא <i>chatphitha</i>, et חטופיתא <i>chatophitha</i>, quam qui תחמס pro ave ra-\npace sumunt ex genere τῶν γαμψωνύχων· cum הטפיתא hirundinem, et תחמס\nstruthionem sonet, ut probare conati sumus. Iam sequetur expositio verborum,\nquibus struthio in <i>Iobo</i> describitur: quae verba sunt eximia; sed, ut putamus,\nnondum satis intellecta, ac proinde hic explicanda."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Nnnnn 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nnnnn 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1688,
+    1361
+   ],
+   [
+    1688,
+    1291
+   ]
+  ],
+  "input_tokens": 3446,
+  "output_tokens": 754,
+  "cost_usd": 0.0054,
+  "seconds": 7.7
+ }
+}

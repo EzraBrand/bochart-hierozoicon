@@ -42,6 +42,23 @@ def spend() -> float | None:
         return None
 
 
+def balance_notice(need: float = 20.0) -> None:
+    """Print a notice when the key's balance is low (14-Nov-2026). OpenRouter refuses a batch whose cost
+    ESTIMATE (about 5 times the real cost) is above the balance; orbatch then sends the batch in parts, one
+    after the other, which costs waiting time. The agent that runs the tranche tells the owner at once."""
+    try:
+        import requests
+        key = Path(os.environ["OPENROUTER_KEY_FILE"]).read_text(encoding="utf-8").strip()
+        d = requests.get("https://openrouter.ai/api/v1/key", headers={"Authorization": "Bearer " + key}, timeout=60).json()["data"]
+        left = d.get("limit_remaining")
+        if left is not None and left < need:
+            print(f"NOTICE FOR THE OWNER: the key has ${left:.2f} left (expires {str(d.get('expires_at'))[:10]}). "
+                  f"Below about ${need:.0f} a batch can be refused for its estimate and is then sent in parts "
+                  f"(slower, same price). Below about $10 a tranche of 80 pages cannot finish.", flush=True)
+    except Exception as e:
+        print(f"(key balance not read: {type(e).__name__})", flush=True)
+
+
 def cost_since(before: float | None, name: str) -> None:
     after = spend()
     if before is not None and after is not None:
@@ -83,6 +100,7 @@ def missing(engine: str, ks: list[str]) -> list[str]:
 
 
 def prepare(a) -> None:
+    balance_notice()
     ks = keys(a.first, a.last)
     run(["fetch.py", "sample"], log_path(a.tag, "fetch"), "fetch")
     for k in ks:
@@ -126,6 +144,7 @@ def prepare(a) -> None:
 
 
 def translate(a) -> None:
+    balance_notice()
     t = time.monotonic()
     before = spend()
     # one batch for all the chapters' chunks (12-Nov-2026; a batch per chapter before), then the fixed steps

@@ -44,6 +44,17 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 6 (scan check 14-Nov-2026)
+    ('v2-0793', 'BOS'): 'small capitals, as LAMB.',
+    ('v2-0805', 'Ἰξευτικῶν,'): 'breathing before the capital: same letter',
+    ('v2-0805', 'Ἀπόλλωνι·'): 'breathing before the capital: same letter',
+    ('v2-0807', 'ערבויים'): 'two yods, as MDZ and the romanization Arabojim',
+    ('v2-0837', 'تفترس'): 'print تفرس (four letters; medial ف)',
+    ('v2-0837', 'חטפיתא'): 'ח by the sense (chatphitha); ה and ח look alike',
+    ('v2-0856', 'نثل'): 'print نتل',
+    ('v2-0856', 'البيضة'): 'البيضة is printed',
+    ('v2-0858', 'calefit;'): 'calefit with f',
+    ('v2-0867', 'نغض'): 'نغض (nagada); the dot is faint',
     # tranche 3 (scan check 11-Nov-2026, apply_review.py; group C finished in the main session)
     ('v2-0591', 'καρπήσιον·'): 'π is clear, no descender; not χ',
     ('v2-0602', 'סיס'): 'middle letter short (yod); the following סוס has a longer vav',
@@ -149,6 +160,19 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # tranche 6 (scan check 14-Nov-2026)
+    ('v2-0801', 'يعود'),
+    ('v2-0803', 'فخرج'),
+    ('v2-0806', 'nutriant.'),
+    ('v2-0807', '161 165.'),
+    ('v2-0814', 'τῷ'),
+    ('v2-0824', 'cele-'),
+    ('v2-0835', 'انا'),
+    ('v2-0847', 'προτερή-'),
+    ('v2-0858', 'oblivi scitur'),
+    ('v2-0858', 'ܘܛܥܝܐ ܕܪܓܠܐ ܕܨܦܪܐ ܐܝܬ ܠܗ ܐܝܬ,'),
+    ('v2-0860', 'חסמם,'),
+    ('v2-0863', 'وتحضن'),
     # tranche 3 (scan check 11-Nov-2026, apply_review.py; group C finished in the main session)
     ('v2-0593', 'ἀρκεύθω'),
     ('v2-0595', '[?]mo,'),

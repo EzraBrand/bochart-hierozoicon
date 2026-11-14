@@ -18,3 +18,5 @@ data/fix/*.decisions.*.json
 costtest/models.json
 # spot-check answers (cache of spotcheck.py)
 data/entries/*/spotcheck/
+# the Hebrew Bible text for biblecheck.py (Sefaria export; fetched by biblecheck.py fetch)
+data/tanakh/

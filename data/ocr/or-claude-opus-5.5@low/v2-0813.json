@@ -1,0 +1,290 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIV. <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> 813",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIV. <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> 813"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>dulante, pullos ejus fluctus abripit.</i> Vide etiam <i>Etymologum</i> in Ἀλκυὼν, et\n<i>Phavorinum</i> in Εὐηνίνη. Sed et <i>poetae</i> vetustiores eandem avem ut θρηνητικὴν\ndescribunt, quamvis diversa de causa. <i>Homerus</i> libri noni <i>Iliados</i> versu 559.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>dulante, pullos ejus fluctus abripit.</i> Vide etiam <i>Etymologum</i> in Ἀλκυὼν, et\n<i>Phavorinum</i> in Εὐηνίνη. Sed et <i>poetae</i> vetustiores eandem avem ut θρηνητικὴν\ndescribunt, quamvis diversa de causa. <i>Homerus</i> libri noni <i>Iliados</i> versu 559."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Μήτηρ ἀλκυόνος πολυπένθεος οἶτον ἔχουσα,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Μήτηρ ἀλκυόνος πολυπένθεος οἶτον ἔχουσα,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Mater luctuosae alcyonis luctum habens.</i> Euripides <i>Iphigeniae in Tauris</i> ver-\nsu 1089.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Mater luctuosae alcyonis luctum habens.</i> Euripides <i>Iphigeniae in Tauris</i> ver-\nsu 1089."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὄρνις, ἃ παρὰ τὰς πετρίνας\nΠόντου δειράδας ἀλκυὼν\nἜλεγον οἶτον ἀείδεις.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὄρνις, ἃ παρὰ τὰς πετρίνας\nΠόντου δειράδας ἀλκυὼν\nἜλεγον οἶτον ἀείδεις."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>O avis alcyon, quae circa maris scopulos lamentabili luctu canis.</i> Moschus <i>in</i>\nEpitaphio Bionis,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>O avis alcyon, quae circa maris scopulos lamentabili luctu canis.</i> Moschus <i>in</i>\nEpitaphio Bionis,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀλκυόνος δ᾽ οὐ τόσσον ἐπ᾽ ἄλγεσιν ἴσχετο κήυξ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀλκυόνος δ᾽ οὐ τόσσον ἐπ᾽ ἄλγεσιν ἴσχετο κήυξ,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Neque alcyonis doloribus adeo premebatur ceyx</i>, qui est mas alcyonis. <i>Proper-\ntius</i> libro tertio, Elegia <i>De natali amicae suae,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Neque alcyonis doloribus adeo premebatur ceyx</i>, qui est mas alcyonis. <i>Proper-\ntius</i> libro tertio, Elegia <i>De natali amicae suae,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Alcyonum positis requiescant ora querelis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Alcyonum positis requiescant ora querelis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ovidius Metamorphoseωs</i> libri undecimi <i>Fabula</i> decima <i>De Alcyone,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ovidius Metamorphoseωs</i> libri undecimi <i>Fabula</i> decima <i>De Alcyone,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Dumque volat moesto similem, plenumque querelae\nOra dedere sonum, tenui crepitantia rostro.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Dumque volat moesto similem, plenumque querelae\nOra dedere sonum, tenui crepitantia rostro.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Tristium</i> libri quinti <i>Elegia</i> prima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Tristium</i> libri quinti <i>Elegia</i> prima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Est aliquid fatale malum per verba levare:\nHoc querulam</i> Prognen, Alcyonasque <i>facit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Est aliquid fatale malum per verba levare:\nHoc querulam</i> Prognen, Alcyonasque <i>facit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Hercule Oeteo,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Hercule Oeteo,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>raptum conjux</i>\nCeyca <i>gemit.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>raptum conjux</i>\nCeyca <i>gemit.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Agamemnone,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Agamemnone,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>Licet alcyones</i>\nCeyca <i>suum fluctu leviter\nPlangente sonent.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>Licet alcyones</i>\nCeyca <i>suum fluctu leviter\nPlangente sonent.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Octavia,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Octavia,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>repete assuetos\nIam tibi questus, atque aequoreas\nVince alcyonas.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>repete assuetos\nIam tibi questus, atque aequoreas\nVince alcyonas.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Oppianus</i> libro primo <i>Halieuticῶν,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Oppianus</i> libro primo <i>Halieuticῶν,</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Kkkkk 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Kkkkk 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "— σοῦ-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— σοῦ-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1696,
+    1544
+   ],
+   [
+    1696,
+    1208
+   ]
+  ],
+  "input_tokens": 7995,
+  "output_tokens": 1384,
+  "cost_usd": 0,
+  "seconds": 308.9
+ }
+}

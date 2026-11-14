@@ -59,6 +59,14 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 2, ch. 7: *daa* or *raa*, the kite | 777–778 | [Latin](data/entries/daah/la.md) · [English](data/entries/daah/en.md) | 〃 |
 | Part 2, Book 2, ch. 8: the *aja* is the merlin | 779–782 | [Latin](data/entries/ajah/la.md) · [English](data/entries/ajah/en.md) | 〃 |
 | Part 2, Book 2, ch. 9: the *daja* is the black vulture | 782–786 | [Latin](data/entries/dajah/la.md) · [English](data/entries/dajah/en.md) | 〃 |
+| Part 2, Book 2, ch. 10: the raven: names, voice, colour, haunts, food and kinds | 787–794 | [Latin](data/entries/corvus/la.md) · [English](data/entries/corvus/en.md) | $9.54 for the 8 chapters (83 new pages; tranche 6, 14-Nov-2026) |
+| Part 2, Book 2, ch. 11: the providence of God for ravens | 794–800 | [Latin](data/entries/corvus-providentia/la.md) · [English](data/entries/corvus-providentia/en.md) | 〃 |
+| Part 2, Book 2, ch. 12: the raven that Noah sent out of the ark | 800–806 | [Latin](data/entries/corvus-noachi/la.md) · [English](data/entries/corvus-noachi/en.md) | 〃 |
+| Part 2, Book 2, ch. 13: the ravens that fed Elijah (1 Kgs 17) | 806–811 | [Latin](data/entries/corvus-eliae/la.md) · [English](data/entries/corvus-eliae/en.md) | 〃 |
+| Part 2, Book 2, ch. 14: *bath jaana* is the female ostrich | 811–830 | [Latin](data/entries/bath-jaana/la.md) · [English](data/entries/bath-jaana/en.md) | 〃 |
+| Part 2, Book 2, ch. 15: *thachmas* is the male ostrich | 830–838 | [Latin](data/entries/thachmas/la.md) · [English](data/entries/thachmas/en.md) | 〃 |
+| Part 2, Book 2, ch. 16: the most obscure verse on the ostrich, Job 39:13 | 838–854 | [Latin](data/entries/struthio-iob/la.md) · [English](data/entries/struthio-iob/en.md) | 〃 |
+| Part 2, Book 2, ch. 17: the rest of Job on the ostrich, Job 39:14-18 (end of vol. 2) | 854–870 | [Latin](data/entries/struthio-iob-reliqua/la.md) · [English](data/entries/struthio-iob-reliqua/en.md) | 〃 |
 
 ### Tranches
 
@@ -69,6 +77,7 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | about 2 h (machine steps 30 min) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
 | 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | about 3 h (machine steps 45 min) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
 | 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | about 3.5 h (machine steps 65 min: the judge batch took 25) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
+| 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | about 4 h with other work (machine steps 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -101,9 +110,36 @@ words on pp. 770 and 778 (from the letter count and Bochart's romanization), `ע
 p. 775, `שפשף` on p. 734, `الفينة` (*Phena*) on p. 773, and the Syriac of p. 782. The name "Jonathan" on
 p. 751 is the son of Saul, and the program identifies it as the Targum.
 
+Tranche 6 (14-Nov-2026) ends volume 2: OCR $3.59 (with two pages read twice), judge $3.49, translation $2.11,
+the rest is four chunks translated again and the spot-check ($0.18). What went wrong and is now in the code:
+
+- **A batch refused for its estimate.** OpenRouter refuses a batch whose cost estimate is above the key's
+  balance (HTTP 402); the estimate is about 5 times the real cost. The judge batch (estimate $18.32, balance
+  $13.49) and the translation batch (estimate $11.41, balance $9.85) were refused. `orbatch.run_batch` now
+  sends such a batch in parts, one after the other, and `tranche.py` prints a notice when the key has less
+  than about $20.
+- **Two pages cut at the top.** On pp. 844 and 846 the text box began in the middle of the page, so Opus and
+  Flash both read only the lower part and agreed with each other; only `qa.py` showed it (length 0.49 and 0.75
+  of the MDZ text). `ocr.safe_box` now takes the height from the MDZ lines too when three or more of them lie
+  outside the box. No page of tranches 1-5 is affected (`logs/boxaudit_t6.py`).
+- **Accepted proposals that were not applied.** `vote.ACCEPT` does not apply an item of the kind "not
+  similar": three such items went into `entry.FIXES` after the spot-check showed the old words in the English.
+  After `apply_review.py`, look for each accepted word in the voted text.
+
+New in the code: `hebcheck.py` (Bochart's romanization against the Hebrew letters) and `biblecheck.py` (Hebrew
+quotations against the Masoretic text), both without a model call and report-only. On the 44 older chapters
+and the 8 new ones they listed 8 words; all are right as printed (a ketiv, construct forms that Bochart writes
+on purpose, a printer's form). `entry.MARKERS` corrects the letter of a footnote; `no_id` in an entry stops a
+wrong identification of a name (the prophet Elijah was marked as Elijah Levita; "Jonathan" on p. 751). The
+reading edition has the chapters grouped by book, an index of Bible passages, a search page, fixed links to
+paragraphs, pages and columns, a look-up on selection, and flags on the Hebrew page. Not certain: the Syriac
+lines of pp. 838 and 859 and the Samaritan words of p. 802 (read from the shapes and Bochart's Latin);
+`נוצה` or `ניצה` on p. 850; `متفواتا` on p. 797; `فصاح` on p. 825; `ἑστιῶν` on p. 791 (the ligature looks like
+ϑ). No rows were added to `names.json` in this tranche: `names_candidates.py` lists the new names.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv` and `logs/vote_v2-721-787.csv` (column `outcome`), and for tranches 1 to 5 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv` and `logs/vote_v2-788-870.csv` (column `outcome`), and for tranches 1 to 6 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works
@@ -152,7 +188,9 @@ export OPENROUTER_KEY_FILE="path/to/key.txt"
    chapters as one translation batch and builds the site. Both print the cost of each paid step
    (the key's spend before and after). `uv run banned.py` then checks the English against the
    chapters' fixed terms (no model call; a list to look at), and `uv run spotcheck.py CHAPTER ... --tag t5`
-   lists where a second model finds that the English does not match the Latin (a few cents):
+   lists where a second model finds that the English does not match the Latin (a few cents). Before the
+   translation, `uv run hebcheck.py CHAPTER ...` and `uv run biblecheck.py CHAPTER ...` list Hebrew words
+   that do not fit Bochart's romanization or the Bible verse (free; `biblecheck.py fetch` once):
 
    ```bash
    uv run tranche.py prepare 591 648 --tag t3 --group A:591-610 --group B:611-630 --group C:631-648

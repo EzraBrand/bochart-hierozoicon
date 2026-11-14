@@ -47,13 +47,13 @@ def clean(s: str) -> str:
     return " ".join(TAGS.sub("", s).split())
 
 
-def rows() -> list[dict]:
+def rows(require_en: bool = True) -> list[dict]:
     import build_site as B
     ids = B.scan_ids()
     out = []
     for d in B.DOCS:
         f = DATA / "entries" / d["entry"] / "la.json"
-        if d["kind"] != "entry" or not f.exists() or not (f.parent / "en.json").exists():
+        if d["kind"] != "entry" or not f.exists() or (require_en and not (f.parent / "en.json").exists()):
             continue
         la = json.loads(f.read_text(encoding="utf-8"))
         for part in ("main", "notes"):

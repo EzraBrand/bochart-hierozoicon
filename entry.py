@@ -314,7 +314,7 @@ ENTRIES = {
                         "14:12): the eagle, נשר (nesher), king of the birds; its name, beak, talons, plumage, "
                         "baldness (Mic 1:16), renewal (Ps 103:5) and colour",
                "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "ossifraga" -> "ossifrage"; "haliaeetus" -> "haliaeetus" (the name is kept; "aquila marina" -> "sea eagle"); "pullus" -> "chick" (of the eagle: "eaglet" is allowed); "nesher" (Bochart\'s romanized Hebrew) stays as printed;'},
-    "aquila-volatus": {"vol": 2, "pages": list(range(750, 760)),
+    "aquila-volatus": {"no_id": {"Jonathan": 1}, "vol": 2, "pages": list(range(750, 760)),
                        "title": "Part 2, Book 2, chapter 2: The eagle's wings, flight, nest, sight and food "
                                 "(vol. 2, pp. 750–758)",
                        "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.", "first_col": 169,
@@ -375,6 +375,70 @@ ENTRIES = {
               "about": "the chapter arguing that the Hebrew דיה (daja) of Deut 14:13 and Isa 34:15 is not the "
                        "kite but the black vulture",
               "terms": '"aquila" -> "eagle"; "vultur" -> "vulture"; "accipiter" -> "hawk"; "milvus" -> "kite"; "falco" -> "falcon"; "ossifraga" -> "ossifrage"; "gryps"/"gryphus" -> "griffin"; "haliaeetus", "melanaeetus", "aesalon" -> the name is kept; "vultur niger" -> "black vulture"; "daja" stays "daja";'},
+    # Tranche 6, 14-Nov-2026: Part 2, Book 2, chs. 10-17 (the raven, chs. 10-13; the ostrich, chs. 14-17), to
+    # the end of vol. 2 (p. 870: the colophon ends the last chapter). Chapter heads: uv run
+    # find_chapters.py 800 886 (the same eight heads are in the Opus OCR). No first_col where the column
+    # mark stands in the chapter head itself (chs. 12, 13 and 16).
+    "corvus": {"vol": 2, "pages": list(range(787, 795)),
+               "title": "Part 2, Book 2, chapter 10: The raven: its names, voice, colour, haunts, food and kinds "
+                        "(vol. 2, pp. 787–794)",
+               "start": r"^CAP\.\s*X\.", "end": r"^CAP\.\s*XI\.", "first_col": 197,
+               "about": "the chapter on the raven, Hebrew ערב (oreb): its names, its croaking and blackness, "
+                        "where it lives, what it eats, and its kinds",
+               "terms": '"corvus" -> "raven"; "cornix" -> "crow"; "monedula" -> "jackdaw"; "pica" -> "magpie"; "pullus" -> "chick" (of the raven: "young raven" is allowed); "crocitare"/"crocitatio" -> "croak"/"croaking"; "oreb" and "orebim" (Bochart\'s romanized Hebrew) stay as printed;'},
+    "corvus-providentia": {"no_id": {"Elias": 99}, "vol": 2, "pages": list(range(794, 801)),
+                           "title": "Part 2, Book 2, chapter 11: The providence of God for ravens "
+                                    "(vol. 2, pp. 794–800)",
+                           "start": r"^CAP\.\s*XI\.", "end": r"^CAP\.\s*XII\.", "first_col": 203,
+                           "about": "the chapter on the passages that say God feeds the ravens and their young "
+                                    "(Job 38:41; Ps 147:9; Luke 12:24), and on the old belief that the raven "
+                                    "leaves its chicks",
+                           "terms": '"corvus" -> "raven"; "cornix" -> "crow"; "monedula" -> "jackdaw"; "pica" -> "magpie"; "pullus" -> "chick" (of the raven: "young raven" is allowed); "crocitare"/"crocitatio" -> "croak"/"croaking"; "oreb" and "orebim" (Bochart\'s romanized Hebrew) stay as printed;'},
+    "corvus-noachi": {"no_id": {"Elias": 99}, "vol": 2, "pages": list(range(800, 807)),
+                      "title": "Part 2, Book 2, chapter 12: The raven that Noah sent out of the ark "
+                               "(vol. 2, pp. 800–806)",
+                      "start": r"^CAP\.\s*XII\.", "end": r"^CAP\.\s*XIII\.",
+                      "about": "the chapter on the raven that Noah sent out of the ark (Gen 8:7): whether it "
+                               "came back, and why the Greek and the Latin say that it did not",
+                      "terms": '"corvus" -> "raven"; "cornix" -> "crow"; "monedula" -> "jackdaw"; "pica" -> "magpie"; "pullus" -> "chick" (of the raven: "young raven" is allowed); "crocitare"/"crocitatio" -> "croak"/"croaking"; "oreb" and "orebim" (Bochart\'s romanized Hebrew) stay as printed; "columba" -> "dove"; "arca" -> "ark";'},
+    "corvus-eliae": {"no_id": {"Elias": 99}, "vol": 2, "pages": list(range(806, 812)),
+                     "title": "Part 2, Book 2, chapter 13: The ravens that brought bread and meat to Elijah at "
+                              "the brook Cherith, 1 Kgs 17 (vol. 2, pp. 806–811)",
+                     "start": r"^CAP\.\s*XIII\.", "end": r"^CAP\.\s*XIV\.",
+                     "about": "the chapter on the ערבים (orebim) that fed Elijah at the brook Cherith (1 Kgs "
+                              "17:4-6): Bochart defends the ravens against those who read merchants, Arabs or "
+                              "the men of a town Orbo",
+                     "terms": '"corvus" -> "raven"; "cornix" -> "crow"; "monedula" -> "jackdaw"; "pica" -> "magpie"; "pullus" -> "chick" (of the raven: "young raven" is allowed); "crocitare"/"crocitatio" -> "croak"/"croaking"; "oreb" and "orebim" (Bochart\'s romanized Hebrew) stay as printed; "mercatores" -> "merchants"; "Arabes" -> "Arabs";'},
+    "bath-jaana": {"no_id": {"Paulus": 1}, "vol": 2, "pages": list(range(811, 831)),
+                   "title": "Part 2, Book 2, chapter 14: Bath jaana is the female ostrich (vol. 2, pp. 811–830)",
+                   "start": r"^CAP\.\s*XIV\.", "end": r"^CAP\.\s*XV\.", "first_col": 217,
+                   "about": "the chapter arguing that the Hebrew בת יענה (bath jaana) of Lev 11:16, Deut 14:15 "
+                            "and the Prophets is not the owl but the female ostrich",
+                   "terms": '"struthio", "struthiocamelus", "struthio-camelus" -> "ostrich"; "ulula" -> "owl"; "noctua" -> "little owl"; "bubo" -> "eagle owl"; "siren" -> "siren"; "draco" -> "dragon"; "ciconia" -> "stork"; "accipiter" -> "hawk"; "ardea" -> "heron"; "pavo" -> "peacock"; "bath jaana", "jaana", "jeenim", "thachmas", "renanim", "chasida", "notsa" (Bochart\'s romanized Hebrew) stay as printed;'},
+    "thachmas": {"vol": 2, "pages": list(range(830, 839)),
+                 "title": "Part 2, Book 2, chapter 15: Thachmas is the male ostrich (vol. 2, pp. 830–838)",
+                 "start": r"^CAP\.\s*XV\.", "end": r"^CAP\.\s*XVI\.", "first_col": 231,
+                 "about": "the chapter arguing that the Hebrew תחמס (thachmas) of Lev 11:16 and Deut 14:15 is "
+                          "not a bird of prey (the night hawk, the owl, the swallow) but the male ostrich",
+                 "terms": '"struthio", "struthiocamelus", "struthio-camelus" -> "ostrich"; "ulula" -> "owl"; "noctua" -> "little owl"; "bubo" -> "eagle owl"; "siren" -> "siren"; "draco" -> "dragon"; "ciconia" -> "stork"; "accipiter" -> "hawk"; "ardea" -> "heron"; "pavo" -> "peacock"; "bath jaana", "jaana", "jeenim", "thachmas", "renanim", "chasida", "notsa" (Bochart\'s romanized Hebrew) stay as printed; "falco" -> "falcon"; "hirundo" -> "swallow";'},
+    "struthio-iob": {"vol": 2, "pages": list(range(838, 855)),
+                     "title": "Part 2, Book 2, chapter 16: The most obscure passage on the ostrich, Job 39:13 "
+                              "(vol. 2, pp. 838–854)",
+                     "start": r"^CAP\.\s*XVI\.", "end": r"^CAP\.\s*XVII\.",
+                     "about": "the chapter on the first verse of the description of the ostrich in Job 39 (v. 13 "
+                              "in the modern count, 16 in Bochart's): כנף רננים נעלסה אם אברה חסידה ונצה, with "
+                              "the ancient versions and Bochart's own interpretation",
+                     "terms": '"struthio", "struthiocamelus", "struthio-camelus" -> "ostrich"; "ulula" -> "owl"; "noctua" -> "little owl"; "bubo" -> "eagle owl"; "siren" -> "siren"; "draco" -> "dragon"; "ciconia" -> "stork"; "accipiter" -> "hawk"; "ardea" -> "heron"; "pavo" -> "peacock"; "bath jaana", "jaana", "jeenim", "thachmas", "renanim", "chasida", "notsa" (Bochart\'s romanized Hebrew) stay as printed; "ala" -> "wing"; "penna" -> "feather" (or "wing" where the sense needs it); '
+                              '"pluma" -> "plumage";'},
+    "struthio-iob-reliqua": {"vol": 2, "pages": list(range(854, 871)),
+                             "title": "Part 2, Book 2, chapter 17: The rest of Job on the ostrich, Job 39:14-18 "
+                                      "(vol. 2, pp. 854–870)",
+                             "start": r"^CAP\.\s*XVII\.", "end": r"LIPSIAE", "first_col": 249,
+                             "about": "the chapter on the rest of the description of the ostrich in Job 39 "
+                                      "(vv. 14-18 in the modern count): the eggs left on the ground, the "
+                                      "hardness to its young, its want of wisdom, and its speed, which laughs "
+                                      "at the horse and its rider",
+                             "terms": '"struthio", "struthiocamelus", "struthio-camelus" -> "ostrich"; "ulula" -> "owl"; "noctua" -> "little owl"; "bubo" -> "eagle owl"; "siren" -> "siren"; "draco" -> "dragon"; "ciconia" -> "stork"; "accipiter" -> "hawk"; "ardea" -> "heron"; "pavo" -> "peacock"; "bath jaana", "jaana", "jeenim", "thachmas", "renanim", "chasida", "notsa" (Bochart\'s romanized Hebrew) stay as printed; "ovum" -> "egg"; "pullus" -> "chick";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -535,6 +599,38 @@ FIXES = {
     # the verse of Plautus (milvinis; Flash read it so)
     725: [('صغصف', 'صفصف')],
     744: [('nilvinis', 'milvinis')],
+    # tranche 6 (scan check 14-Nov-2026): the print differs from the vote's text
+    797: [('متقلواتا', 'متفواتا')],
+    811: [('καὶ εὔστομεῖν εἰωθότα,', 'καὶ εὐστομεῖν εἰωθότα,')],
+    819: [('Alanania', 'Alanama')],
+    821: [('ἐπαίκλα,', 'ἐπάϊκλα,')],
+    830: [('τυτώ vocabula', 'τυτὼ vocabula')],
+    836: [('Ἅρπυιαι·', 'Ἁρπυία·')],
+    # the last Syriac word from the Latin beside it (nidificat) and the shapes; the line is not certain
+    838: [('ונציצתא,', 'ונוציציתא,'), ('ܘܡܥܫܫܐ,', 'ܘܡܩܢܢܐ,')],
+    847: [('συνιδρουσῶν τῶν πτερύγων', 'συνιδρουσῶν τοῦ πτερύγων'), ('h)', 'b)')],  # the print has τȣ̃
+    848: [('οἶδοῦν', 'οἰδοῦν'), ('ἀπερ οὖν', 'ἅπερ οὖν')],
+    859: [('ܐܣܓܝ ܠܐ,', 'ܐܣܓܝܬ,')],
+    869: [('يصبغها', 'يصبقها')],
+    # tranche 6: found by hand (a Latin p in a Greek word; changes the vote could not apply; four letters
+    # in تفرس; the two תעזוב of p. 854; two dots in نتل)
+    # Samaritan (Gen 8:7), read by Claude from the letter count, the shapes (the first two words end in the
+    # same three letters, the third in ࠁ) and Bochart's Latin: ונפק מפוק ותב. The second word is not certain.
+    802: [('interpres, [?]\n[?] <i>Et egressus', 'interpres, ࠅࠍࠐࠒ ࠌࠐࠅࠒ\nࠅࠕࠁ <i>Et egressus')],
+    805: [('πεpαχναῦσαι', 'περαχναῦσαι')],
+    # tranche 6: three accepted proposals that vote.ACCEPT does not apply (kind "not similar"), and the ȣ
+    # ligature read as ε (found by spotcheck.py; φιλομȣ́σῳ on the scan)
+    803: [('فخرج يخرج', 'فجعل يخرج')],
+    812: [('φιλομέσῳ', 'φιλομούσῳ')],
+    858: [('ܕܨܦܪܐ ܐܝܬ\nܠܗ ܐܝܬ,', 'ܕܦܪܚܬܐ ܐܝܬ\nܠܗ̇,')],
+    860: [('חסמם,', 'תחמס,')],
+    806: [('submitto (*).', 'submitto ^{(0)}.')],  # see MARKERS
+    837: [('كانها تفترس', 'كانها تفرس')],
+    842: [('σπάνιος ὤν,', 'σπάνιος ὢν,'), ('κυκλοτέ-\nρῶς,', 'κυκλοτέ-\nρως,')],
+    852: [('περιείληφασι', 'περιειλήφασι')],
+    854: [('<i>sed Deus. Relinquit</i>, תעזב,', '<i>sed Deus. Relinquit</i>, תעזוב,'),
+          ('Idem verbum תעזב,', 'Idem verbum תעזוב,')],
+    856: [('Et نثل nethel', 'Et نتل nethel')],
 }
 # A page number written twice in the FIXES literal: Python keeps only the second list, without a word
 # (tranche 4 lost two pairs that way until a check found it). Stop at import.
@@ -582,6 +678,11 @@ def gold_blocks(path: Path, ocr: dict) -> list[dict]:
     return out
 
 
+# The letter or number of a footnote, where the OCR read it wrong (14-Nov-2026; FIXES changes only the text).
+# p. 806: Rosenmüller's one note with an asterisk, at the end of ch. 12, is given the number 0 (shown as R0).
+MARKERS = {(847, "h)"): "b)", (868, "c)"): "e)", (869, "d)"): "f)", (806, "(*)"): "(0)"}
+
+
 def page_blocks(vol: int, page: int) -> list[dict]:
     key = page_key(vol, page)
     ocr = json.loads((DATA / "ocr" / SOURCE / f"{key}.json").read_text(encoding="utf-8"))
@@ -593,6 +694,8 @@ def page_blocks(vol: int, page: int) -> list[dict]:
             sys.exit(f"p. {page}: correction {old!r} found {len(hits)} times, not once")
         hits[0]["text"] = hits[0]["text"].replace(old, new)
     for b in blocks:
+        if (page, b.get("marker")) in MARKERS:
+            b["marker"] = MARKERS[(page, b["marker"])]
         b["text"] = re.sub(r"\^\{([a-z])\}\)", r"^{\1)}", b["text"])  # p. 419: ^{a}) for ^{a)}
         b["text"] = re.sub(r"\(\^\{(\d+)\}\)", r"^{(\1)}", b["text"])  # p. 541: (^{6}) for ^{(6)}
         b["text"] = MARGIN.sub(r"[col. \1]", b["text"])

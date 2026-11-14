@@ -1,0 +1,744 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v2-0788",
+   "line": "rem κορακινον, seu corvinum, aliquid habere luminis, cum color pullus sit",
+   "old": "κορακινον,",
+   "new": "κοράκινον,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0788",
+   "line": "res nusquam occurrat. At Hebraicum עורב oreb, Chaldaicum עורבא orba, Ara-",
+   "old": "עורבא",
+   "new": "ערבא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0790",
+   "line": "maehler in Palaestina, p. 304. κόρακος no-",
+   "old": "κόρακος",
+   "new": "κορακος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0790",
+   "line": "tumans, pro חרב vero χαμαιλέωντος: utrum-",
+   "old": "χαμαιλέωντος:",
+   "new": "χαμαιλεωντος:",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0792",
+   "line": "struthionibus idem audivi ab iis, qui illas circumducunt. Et hanc caussam affert",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0792",
+   "line": "pilla totam imaginem reddat hominis. Ea caussa est, ut pleraeque alitum e mani-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0793",
+   "line": "דומין זה לזה לא במראיהם ולא בשמותיהם וכולן מין אחד, Species habet",
+   "old": "במראיהם",
+   "new": "כמראיהם",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0793",
+   "line": "Κόρακος πέτρῃ, Coracis, seu corvi petra, Ithacae locus fuit, in quo ὁ Κόραξ",
+   "old": "πέτρῃ,",
+   "new": "πέτρη,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0793",
+   "line": "Παρ' Κόρακος πέτρῃ, ἐπί τε κρήνῃ Ἀρεθόσῃ.",
+   "old": "Ἀρεθόσῃ.",
+   "new": "Ἀρεθούσῃ.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0796",
+   "line": "והם צווחים כאלו יקראו לאל בעד טרפם והקבה מזמין להם יתושין ואוכלים",
+   "old": "והקבה",
+   "new": "והקב״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0796",
+   "line": "אכל שאביהם שונאם והקבה מזמן להם יתושים הנבראים מצואתן ונכנסין לתוך",
+   "old": "והקבה",
+   "new": "והקב״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0797",
+   "line": "المنظر جدا انا تكون صغار الاجرام عظيم الروس",
+   "old": "جدا",
+   "new": "حدا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0800",
+   "line": "apud Servium in Notis ad lib. I. Georgicorum haec legi: Plinius in Naturali Hi-",
+   "old": "I.",
+   "new": "1.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0801",
+   "line": "Arabes manuscripti duo, quos in Suecia vidi, لم يعود non rediit, aut فلم",
+   "old": "يعود",
+   "new": "يعون",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0803",
+   "line": "observatio est verissima. Neque vero caussam habuere Iudaei, cur illum locum",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0804",
+   "line": "Glaphyris libro secundo, Ἐνεπνίγη δὲ, οἶμαι, τοῖς ὕδασιν, ἐρεισμά τε, καὶ",
+   "old": "ἐρεισμά",
+   "new": "ἔρεισμά",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0805",
+   "line": "c) Π[?] ἀπολαῦσαι.",
+   "old": "Π[?]",
+   "new": "Περ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0806",
+   "line": "Praecepi لعوربيم Orebimis, ut te nutriant. Et versu sexto, وكان",
+   "old": "nutriant.",
+   "new": "nuiriant.",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0807",
+   "line": "(2) Imo ערבויים, uti a שילו, Schilo,",
+   "old": "ערבויים,",
+   "new": "ערבנים,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0808",
+   "line": "Arabico et Romano textu, ἄρτους καὶ κρέας τὸ πρωΐ, καὶ ἄρτους καὶ κρέας τὸ",
+   "old": "πρωΐ,",
+   "new": "πρωῒ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0809",
+   "line": "περὶ τοὺς οἰκείους ἀπάνθρωποι νεοσσοὺς, σοῦ γίνονται ξενοδόχοι φιλότιμοι. Ἄτο-",
+   "old": "ἀπάνθρωποι",
+   "new": "ἀπανθρωποὶ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0811",
+   "line": "τῆς καλιᾶς λεφθείσης ὑπὸ κυμάτων, γοερὸν ᾄδουσι μέλος, καὶ καταθρηνοῦσι",
+   "old": "καταθρηνοῦσι",
+   "new": "καταθρήνουσι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0811",
+   "line": "jaana. Et de Idumaea Esa. XXXIV, 13. Erit lustrum draconum, חציר לבנות",
+   "old": "Idumaea",
+   "new": "Iudumaea",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0814",
+   "line": "amore hirundines; et τῷ φιλάνδρῳ πελειάδας, amore conjugis columbas (ita",
+   "old": "τῷ",
+   "new": "τὸ",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0814",
+   "line": "Ὅς τ᾽ ἐπὶ κύματος ἄνθος ἅμ᾽ ἀλκυόνεσσι ποτῆται·",
+   "old": "ποτῆται·",
+   "new": "πότηται·",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0814",
+   "line": "Ἀλκυόνες δ᾽ ἐπὶ σοὶ οἰκτρὸν γόον αἴξουσιν,",
+   "old": "αἴξουσιν,",
+   "new": "ἀΐξουσιν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0814",
+   "line": "juxta Hebraeorum editionem: quasi vox Hebraea בת-יענה bath-jaana, id signi-",
+   "old": "בת-יענה",
+   "new": "בת־יענה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0818",
+   "line": "παραπλησίως passerum instar pipire. Itaque caussa non fuit, cur hic Fullerus",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0819",
+   "line": "canus, الله جعل لكم الانعام لتركبوا Deus vobis fecit",
+   "old": "canus,",
+   "new": "camus,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0819",
+   "line": "مركب من خلقة الطير والجمل اخذ من البعير",
+   "old": "خلقة",
+   "new": "حلقة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0820",
+   "line": "in lege non prohiberi, an sequetur, fuisse praeceptum Judaeis, ut ederent? Quis",
+   "old": "Judaeis,",
+   "new": "Iudaeis,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0820",
+   "line": "אותה והיא מדלגת ומאכלה הברזל ואומרים עליה כי בראיה תאסיף ביציה",
+   "old": "והיא",
+   "new": "והוא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0824",
+   "line": "bath jaana, non solum traditum legimus in sacris literis, sed illustribus verbis cele-",
+   "old": "cele-",
+   "new": "tele-",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0824",
+   "line": "recte hic habet, הייהם קודמים להם לחיי בניהם מחמת הרעב, In extrema fame",
+   "old": "הייהם",
+   "new": "חייהם",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0828",
+   "line": "ששים כרכים ושברה שלש מאות ארזים, Et demersit sexcentos pagos, et fregit",
+   "old": "שלש",
+   "new": "שלוש",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0828",
+   "line": "Eliae credimus (non Thisbitae, sed auctori τȣ̃ THISBI) לעשות ממנו סעודה",
+   "old": "τȣ̃",
+   "new": "τοῦ",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0830",
+   "line": "Ut apud Graecos ἅρπη, ἁρπετὸς, ἅρπυια rapacium avium nomina sunt, a ra-",
+   "old": "ἅρπυια",
+   "new": "ἁρπυία",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0832",
+   "line": "الخاضب الظليم اغتلم فاحمرت ساقاه Alhadib, dtalim",
+   "old": "الخاضب",
+   "new": "الحاضب",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0832",
+   "line": "الخاضب الظليم اغتلم فاحمرت ساقاه Alhadib, dtalim",
+   "old": "فاحمرت",
+   "new": "فاخمرت",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0834",
+   "line": "ערב totum corvorum genus contineat, Mosi suffecit prohibere נשר et ערב.",
+   "old": "ערב",
+   "new": "עורב",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0834",
+   "line": "ערב totum corvorum genus contineat, Mosi suffecit prohibere נשר et ערב.",
+   "old": "ערב.",
+   "new": "עורב.",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0835",
+   "line": "قي الثاني انا اخذ فرخه في زيادة القمر وكان اول ما",
+   "old": "قي",
+   "new": "في",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0835",
+   "line": "قي الثاني انا اخذ فرخه في زيادة القمر وكان اول ما",
+   "old": "انا",
+   "new": "اذا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0835",
+   "line": "λιδόνος νεοσσῶν, ita redduntur: انا عمي فرخ من افراخ الخطاف",
+   "old": "انا",
+   "new": "اذا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0835",
+   "line": "Χελιδόνιον, id est, Herba hirundinaria, inter caetera haec habet: انا عمي",
+   "old": "انا",
+   "new": "اذا",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0836",
+   "line": "Katon cap. 3. fol. 28. a. מת פתאום זו היא מיתה חטופא, Si quis subito moria-",
+   "old": "מיתה",
+   "new": "מיתא",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0836",
+   "line": "Hesychius, Καρπάλιμον· ταχύ. Item, Ἅρπυιαι· ἁρπαγή, ἡ διὰ τάχους.",
+   "old": "ἁρπαγή,",
+   "new": "ἁρπαγὴ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0836",
+   "line": "Hesychius, Καρπάλιμον· ταχύ. Item, Ἅρπυιαι· ἁρπαγή, ἡ διὰ τάχους.",
+   "old": "ἡ",
+   "new": "ἢ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0837",
+   "line": "ut e camelis dromas خيطف chaitaph, et praeceps incessus خيطفي chai-",
+   "old": "خيطفي",
+   "new": "حيطفي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0839",
+   "line": "ad laudandum Dominum suum? Et Psal. L, 11. גלין קדמי כל מיני צפא דפרחין",
+   "old": "צפא",
+   "new": "עופא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0841",
+   "line": "δειξιν ἀφθονίας παρίστησιν. ἐᾷ γὰρ ἐμπλησθῆναι τῆς θέας τον παρεστῶτα, καὶ",
+   "old": "τον",
+   "new": "τὸν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0842",
+   "line": "λείαις, ὥς φασι, καλλωπίζεται, τὸν αὐχένα διάρας, καὶ τὸ πτερὸν κυκλοτε-",
+   "old": "κυκλοτε-",
+   "new": "κυκλοτέ-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0842",
+   "line": "λείαις, ὥς φασι, καλλωπίζεται, τὸν αὐχένα διάρας, καὶ τὸ πτερὸν κυκλοτε-",
+   "old": "ρῶς,",
+   "new": "ρως,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0843",
+   "line": "δὼν ἐν Ἰνδοῖς ἰδὼν τούσδε τοὺς ὄρνιθας ἐξεπλάγη, καὶ τοῦ κάλλους θαυμάσας",
+   "old": "ὄρνιθας",
+   "new": "ὀρνίθας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0847",
+   "line": "ταῖς δὲ πτέρυξιν αἴρασα, ὥσπερ ἱστίῳ χρωμένη. Struthionem nemo cepit, etc.",
+   "old": "αἴρασα,",
+   "new": "ἄρασα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0847",
+   "line": "ταχὺ συνιδρουσῶν τῶν πτερύγων ἀδυνατεῖ χρήσασθαι τοῖς τῆς φύσεως προτερή-",
+   "old": "προτερή-",
+   "new": "προτηρή-",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0847",
+   "line": "μασιν, καὶ ῥαδίως καταλαμβανόμενον ἁλίσκεται· Sed cum cessante vento illud",
+   "old": "ῥαδίως",
+   "new": "ῥᾳδίως",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0852",
+   "line": "διφυῆ, καὶ μεμιγμένα ταῖς ἰδέαις, ὧν αἱ μὲν ὀνομαζόμεναι στρουθοκάμηλοι",
+   "old": "περιείληφασι",
+   "new": "περιειλήφασι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0853",
+   "line": "Πτηνοῖς κάραν δεικνύσα, τοῖς θηρσὶ πόδας,",
+   "old": "θηρσὶ",
+   "new": "θερσὶ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0854",
+   "line": "Sed relinquit in terra ova sua] Hebraice, כי תעזב לארץ ביציה. Connexio",
+   "old": "תעזב",
+   "new": "תעזוב",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0854",
+   "line": "καὶ διαφθείρειν τὰ ᾠά, foetui suo insidiari, et propria ova perdere. Sed famae",
+   "old": "ᾠά,",
+   "new": "ὠὰ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0856",
+   "line": "lam b) ovum aut pullum unum non alia de caussa e nido suo ejicere, quam quia",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0858",
+   "line": "cies, pro tunc in pulvere illa calefacies? Itaque malui reddere, et super pulve-",
+   "old": "tunc",
+   "new": "tune",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0862",
+   "line": "prisci laboris mei oblivíscerer, Gen. XLI, 51. Contra, in captivitate Babylonica",
+   "old": "oblivíscerer,",
+   "new": "obliviscerer,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0863",
+   "line": "الشمس وتحضن ثلثها فاذا اخرجت فراخها",
+   "old": "وتحضن",
+   "new": "وتخضن",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0868",
+   "line": "أسقف ascaph ab eminentia. Quomodo etiam Christianorum episcopos, sed",
+   "old": "أسقف",
+   "new": "اسقف",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0844",
+   "line": "γροῦ quidem habeat: ut neque Homeri vetus Scholiastes in Iliad. β′ ad vocem Ἀρ-",
+   "old": "γροῦ",
+   "new": "γρῦ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0846",
+   "line": "Ὄρνις ἀγαλλόμενος πτερύγων πολυανθέϊ χροιῇ,",
+   "old": "χροιῇ,",
+   "new": "χροίῃ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v2-0846",
+   "line": "g) Lege Ἀνακλίσας· vide supra pag. 247.",
+   "old": "247.",
+   "new": "241.",
+   "script": "common",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v2-0846",
+   "line": "Quod Chrysippus ita miratur, ut afferat, τὸ ζῶον γεγονέναι ἕνεκα τῆς κέρκου, καὶ",
+   "old": "afferat,",
+   "new": "asserat,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

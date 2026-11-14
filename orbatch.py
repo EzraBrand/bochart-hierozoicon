@@ -11,6 +11,7 @@ logs/batch_{log_name}.json at submit, so a stopped script resumes polling with t
 
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
@@ -85,11 +86,37 @@ def run_batch(model: str, bodies: dict[str, dict], log_name: str, provider: dict
               endpoint: str = "/v1/chat/completions") -> dict[str, dict]:
     state = ROOT / "logs" / f"batch_{log_name}.json"
     state.parent.mkdir(exist_ok=True)
+    parts = json.loads(state.read_text(encoding="utf-8")).get("parts") if state.exists() else None
+    if not state.exists():
+        try:
+            batch_id = submit(model, bodies, provider, endpoint)
+        except RuntimeError as e:
+            # HTTP 402: the server holds an estimate from max_tokens (about 5 times the real cost) and
+            # refuses a batch whose estimate is above the key's balance (14-Nov-2026: a judge batch of
+            # 939 lines, estimate $18.32, balance $13.49, real cost about $4). Send it in parts, one
+            # after the other: the hold of a part is released when the part ends.
+            m = re.search(r"estimated to cost \$(\d+(?:\.\d+)?).*?balance of \$(\d+(?:\.\d+)?)", str(e))
+            if not m or len(bodies) < 2:
+                raise
+            est, bal = float(m.group(1)), float(m.group(2))
+            parts = int(est / (0.8 * bal)) + 1 if bal > 0 else 0
+            if not parts or est / parts < 0.05 or parts > 8:
+                raise
+            print(f"estimate ${est:.2f} is above the balance ${bal:.2f}: sending {parts} parts in turn", flush=True)
+            state.write_text(json.dumps({"parts": parts, "model": model, "n": len(bodies),
+                                         "submitted": time.strftime("%Y-%m-%d %H:%M")}), encoding="utf-8")
+    if parts:
+        ids, res = list(bodies), {}
+        size = -(-len(ids) // parts)
+        for i in range(parts):
+            part = {k: bodies[k] for k in ids[i * size:(i + 1) * size]}
+            if part:
+                res.update(run_batch(model, part, f"{log_name}.part{i + 1}of{parts}", provider, endpoint))
+        return res
     if state.exists():
         batch_id = json.loads(state.read_text(encoding="utf-8"))["id"]
         print(f"resuming batch {batch_id} ({state.name})", flush=True)
     else:
-        batch_id = submit(model, bodies, provider, endpoint)
         state.write_text(json.dumps({"id": batch_id, "model": model, "n": len(bodies),
                                      "submitted": time.strftime("%Y-%m-%d %H:%M")}), encoding="utf-8")
         print(f"submitted batch {batch_id}: {len(bodies)} requests to {model}:batch", flush=True)

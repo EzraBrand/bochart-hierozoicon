@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "814 <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "814 <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — στονόεντα τε φῦλα\nἈλκυόνων, — — — — ⟦p. 220⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — στονόεντα τε φῦλα\nἈλκυόνων, — — — — ⟦p. 220⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Gemebundaque saecula alcyonum.</i> <i>Sibyllina</i> carmina libro septimo de <i>Sardinia,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Gemebundaque saecula alcyonum.</i> <i>Sibyllina</i> carmina libro septimo de <i>Sardinia,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀλκυόνες δ᾽ ἐπὶ σοὶ οἰκτρὸν γόον αἴξουσιν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀλκυόνες δ᾽ ἐπὶ σοὶ οἰκτρὸν γόον αἴξουσιν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Alcyones super te miserabilem lamentationem excitabunt.</i> Lucianus <i>in</i> Alcyone,\nΘαλαττία τις ὄρνις ἀλκυὼν ὀνομαζομένη, πολύθρηνος, καὶ πολύδακρυς· <i>Ma-\nrina quaedam avis</i> alcyon <i>dicta, valde luctuosa et lacrymosa.</i> Et paullo post,\nΓοώδη γοῦν ὡς ἀληθῶς τὸν ἦχον ἀφίησι τὸ ζῶον· <i>Lugubrem profecto sonum\nemittit illud animal.</i> Item, Ὦ ὄρνι θρήνων μελῳδέ· <i>O avis, lamentationum mo-\ndulatrix.</i> Cum igitur alcyon sit omnium avium maxime lugubris, si <i>poetarum</i>\njudicio stamus, inde collegerunt veteres, eam a <i>Michea</i> significari, cum dicit,\njuxta <i>Graecos</i> interpretes, <i>Luctum edam ut Sirenes;</i> aut <i>Hebraice, ut filiae</i> jaa-\nnae. Quod tamen non sufficit, cum caetera non conveniant. Nam marina est\navis alcyon, quamque adeo dictam esse volunt παρὰ τὸ ἐν ἁλὶ κύειν, ex eo,\nquod in mari concipit et parit. Itaque ἁλκυόνα, <i>halcyonem,</i> cum spiritu aspero\nmulti scribunt: in quibus <i>Theocritus</i> in <i>Thalysiis</i> versu 57.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Alcyones super te miserabilem lamentationem excitabunt.</i> Lucianus <i>in</i> Alcyone,\nΘαλαττία τις ὄρνις ἀλκυὼν ὀνομαζομένη, πολύθρηνος, καὶ πολύδακρυς· <i>Ma-\nrina quaedam avis</i> alcyon <i>dicta, valde luctuosa et lacrymosa.</i> Et paullo post,\nΓοώδη γοῦν ὡς ἀληθῶς τὸν ἦχον ἀφίησι τὸ ζῶον· <i>Lugubrem profecto sonum\nemittit illud animal.</i> Item, Ὦ ὄρνι θρήνων μελῳδέ· <i>O avis, lamentationum mo-\ndulatrix.</i> Cum igitur alcyon sit omnium avium maxime lugubris, si <i>poetarum</i>\njudicio stamus, inde collegerunt veteres, eam a <i>Michea</i> significari, cum dicit,\njuxta <i>Graecos</i> interpretes, <i>Luctum edam ut Sirenes;</i> aut <i>Hebraice, ut filiae</i> jaa-\nnae. Quod tamen non sufficit, cum caetera non conveniant. Nam marina est\navis alcyon, quamque adeo dictam esse volunt παρὰ τὸ ἐν ἁλὶ κύειν, ex eo,\nquod in mari concipit et parit. Itaque ἁλκυόνα, <i>halcyonem,</i> cum spiritu aspero\nmulti scribunt: in quibus <i>Theocritus</i> in <i>Thalysiis</i> versu 57."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— χ᾽ ἁλκυόνες στορεσεῦντι Τὰ κύματα — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— χ᾽ ἁλκυόνες στορεσεῦντι Τὰ κύματα — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et halcyones fluctus sternent.</i> <i>At filiae jaana</i> in desertis degunt, a mari remotissi-\nmis, puta circa <i>Babylonem</i> et <i>Botsram Idumaeae,</i> Ierem. L, 39. Esa. XIII, 21. et\nXXXIV, 13. Praeterea crudelis et ἄστοργος est <i>bath jaana,</i> Thren. IV, 3. At\nalcyon, <i>Plutarcho</i> auctore ubi supra, vincit τῷ φιλοτέκνῳ χελιδόνας, <i>prolis\namore hirundines;</i> et τῷ φιλάνδρῳ πελειάδας, <i>amore conjugis columbas</i> (ita\nenim legendum, non φιλανθρώπῳ, ut habent nostrae editiones). Itaque ce-\nrylos maritos suos, aetate graves, αἱ ἀλκυόνες περιάγουσιν ἐπ᾽ αὐτῶν τῶν κα-\nλουμένων μεσοπτερυγίων, <i>interscapiliis suis sublatos alcyones circumferunt.</i> Quo\npertinent <i>Alcmanis versus</i> apud <i>Antigonum</i> Hist. 27.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et halcyones fluctus sternent.</i> <i>At filiae jaana</i> in desertis degunt, a mari remotissi-\nmis, puta circa <i>Babylonem</i> et <i>Botsram Idumaeae,</i> Ierem. L, 39. Esa. XIII, 21. et\nXXXIV, 13. Praeterea crudelis et ἄστοργος est <i>bath jaana,</i> Thren. IV, 3. At\nalcyon, <i>Plutarcho</i> auctore ubi supra, vincit τῷ φιλοτέκνῳ χελιδόνας, <i>prolis\namore hirundines;</i> et τῷ φιλάνδρῳ πελειάδας, <i>amore conjugis columbas</i> (ita\nenim legendum, non φιλανθρώπῳ, ut habent nostrae editiones). Itaque ce-\nrylos maritos suos, aetate graves, αἱ ἀλκυόνες περιάγουσιν ἐπ᾽ αὐτῶν τῶν κα-\nλουμένων μεσοπτερυγίων, <i>interscapiliis suis sublatos alcyones circumferunt.</i> Quo\npertinent <i>Alcmanis versus</i> apud <i>Antigonum</i> Hist. 27."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — βάλε δὴ, βάλε κηρύλος εἴην,\nὍς τ᾽ ἐπὶ κύματος ἄνθος ἅμ᾽ ἀλκυόνεσσι ποτῆται·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — βάλε δὴ, βάλε κηρύλος εἴην,\nὍς τ᾽ ἐπὶ κύματος ἄνθος ἅμ᾽ ἀλκυόνεσσι ποτῆται·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Utinam cerylus essem</i> (alcyonum mares sic vocant) <i>qui maris superficiem supervo-\nlat cum alcyonibus.</i> Caetera ibi vide.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Utinam cerylus essem</i> (alcyonum mares sic vocant) <i>qui maris superficiem supervo-\nlat cum alcyonibus.</i> Caetera ibi vide."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde ad alcyonem nonnisi cunctanter referunt sacri doctores, quae in\n<i>Graeca</i> versione legerant de <i>Sirenibus, Chrysostomusque</i> et <i>Cyrillus</i> addunt, ab\naliis τὴν γλαῦκα, id est <i>noctuam,</i> intelligi; idque κατὰ τὴν Ἑβραίων ἔκδοσιν,\n<i>juxta</i> Hebraeorum <i>editionem:</i> quasi vox <i>Hebraea</i> בת-יענה <i>bath-jaana,</i> id signi-\nficet. A qua sententia parum recedunt recentiores, <i>Pagninus</i> scilicet, <i>Arias,\nIunius,</i> et <i>Tremellius, Schindlerus, Buxtorfius,</i> et <i>Bibliorum</i> vernaculi interpre-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde ad alcyonem nonnisi cunctanter referunt sacri doctores, quae in\n<i>Graeca</i> versione legerant de <i>Sirenibus, Chrysostomusque</i> et <i>Cyrillus</i> addunt, ab\naliis τὴν γλαῦκα, id est <i>noctuam,</i> intelligi; idque κατὰ τὴν Ἑβραίων ἔκδοσιν,\n<i>juxta</i> Hebraeorum <i>editionem:</i> quasi vox <i>Hebraea</i> בת-יענה <i>bath-jaana,</i> id signi-\nficet. A qua sententia parum recedunt recentiores, <i>Pagninus</i> scilicet, <i>Arias,\nIunius,</i> et <i>Tremellius, Schindlerus, Buxtorfius,</i> et <i>Bibliorum</i> vernaculi interpre-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "tes;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "tes;"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1993,
+    1168
+   ],
+   [
+    1993,
+    1632
+   ]
+  ],
+  "input_tokens": 9167,
+  "output_tokens": 1980,
+  "cost_usd": 0,
+  "seconds": 309.0
+ }
+}

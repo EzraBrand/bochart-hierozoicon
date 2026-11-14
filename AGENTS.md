@@ -29,7 +29,24 @@ and מרת for *mensura*, were taken back). Corrections of the English go into t
 translates again every chunk whose Latin changed: to run only the fixed steps, call `translate.finish`
 (`logs/refinish_t5.py`). The owner reviews the Hebrew in `docs/hebrew.html` (`concordance.py`).
 
-## Ideas backlog (11-Nov-2026, after tranche 3; updated 13-Nov-2026, after tranche 5)
+Tranche 6 (14-Nov-2026): OpenRouter refuses a batch whose cost ESTIMATE is above the key's balance (HTTP
+402). The estimate comes from `max_tokens` and is about 5 times the real cost (judge batch of 939 lines:
+estimate $18.32, real cost about $4). `orbatch.run_batch` now sends such a batch in parts, one after the other
+(state files `logs/batch_NAME.partKofN.json`); nothing to do by hand. To keep one batch, the key needs a
+balance of about 5 times the step's real cost. Two free Hebrew checks run in code after the vote and before the
+translation: `uv run hebcheck.py CHAPTER ...` (Bochart's romanization against the letters) and
+`uv run biblecheck.py CHAPTER ...` (quotations against the Masoretic text; `biblecheck.py fetch` once per
+machine, it needs `gcloud`). Both are report-only: read each row on the scan (`uv run hebcrops.py NAME
+PAGE:WORD ...` writes sheets to `logs/review/heb/`). Most rows are not errors: a Latin translation that fits
+the pattern by accident, a ketiv, a construct form that Bochart writes on purpose (טלטלת, p. 686), a printer's
+form (פטדת, p. 600). On the 44 chapters of tranches 1-5 the two checks found no error that was still open. Other lessons of tranche 6: read `logs/tranche_TAG_qa.log` before the
+scan check (a page with a length far below the MDZ text was cut by the crop: pp. 844 and 846); `vote.ACCEPT`
+does not apply items of the kind "not similar", so look for each accepted word in the voted text; a FIXES
+pair that spans a printed line needs the `\n` of the page text; `logs/linecrop.py PAGE "Latin words" OUT.jpg`
+crops any line of a page for a look. The scan check of 194 items took about 45 minutes from contact sheets
+(`logs/sheets_t4.py`, group folders named `T6A`: a plain `A` writes over the folder of an older tranche).
+
+## Ideas backlog (11-Nov-2026, after tranche 3; updated 14-Nov-2026, in tranche 6)
 
 Low-effort improvements, not yet done. Pick from the top; tick off here when done.
 
@@ -71,13 +88,41 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
       pigeon; deror stays deror). A grep of the English for the banned words (pigeon, coney, hyrax,
       rock badger, swallow in the deror chapter, crane in the agur chapter) catches slips for free.
 
-- [ ] **A ו/ז pass over the Hebrew.** The owner's QA found ו for ז four times in tranches 1-4. A judge call
-      for every Hebrew word with ו or ז next to a romanization that has z (or has none where ו is read) would
-      find the rest; the concordance has the rows.
-- [ ] **An override for a wrong identification.** "Jonathan" (the son of Saul, p. 751) gets the tooltip of
+- [x] **A ו/ז pass over the Hebrew.** Done 14-Nov-2026 in code, without a judge call, and for all the
+      look-alike letters: `hebcheck.py` (the romanization must fit the letters; "swap" = it fits only when one
+      letter is changed for a look-alike) and `biblecheck.py` (every string of two words or more is placed in
+      the Tanakh by its look-alike classes and compared letter by letter). The owner's QA found ו for ז four
+      times in tranches 1-4.
+- [ ] **The same check for the Targum, the Talmud and the Septuagint.** `biblecheck.py` knows only the Hebrew
+      Bible. The Sefaria export has Onkelos, Jonathan and the Bavli (`gs://sefaria-export/json/...`); the same
+      index over those texts covers most of the Aramaic. For Greek, a Septuagint text (Rahlfs, public domain)
+      would be a reader for the accents that MDZ gets wrong.
+- [ ] **Use the scan-check decisions as data.** `logs/review/*/decisions.tsv` of tranches 2-6 hold about 1,100
+      verdicts. Count, per kind of item (script, kind of difference, who supports the change), how often the
+      change was confirmed. A kind that is confirmed 98% of the time can be applied by rule, and the scan check
+      (1-2 hours of each tranche, and the step that reaches the Claude usage limit) becomes shorter.
+- [ ] **Mark the uncertain readings in the reading edition.** The "not certain" words are only in the README.
+      A table `data/uncertain.json` (page, word, why) from the `UNSURE` rows and from `entry.FIXES` comments,
+      shown as a dotted underline with a tooltip, tells the reader at the place itself.
+- [x] **An override for a wrong identification.** Done 14-Nov-2026: `"no_id": {"Elias": 99}` in an entry
+      of `entry.ENTRIES` leaves the first n uses of the name without the identification (`names.identify`).
+      Was: "Jonathan" (the son of Saul, p. 751) gets the tooltip of
       the Targum; `names.identify` has no way to say "not here".
 
 ### Reader-facing
+
+- [x] **Chapters grouped by book on the index page, in the order of the book.** Done 14-Nov-2026
+      (`build_site.BOOK_NAMES`, `done_docs`); the chapter's thesis is the `sub` line. A new book needs a row in
+      `BOOK_NAMES`.
+- [x] **Index of Bible passages.** Done 14-Nov-2026 (`passages.html`, from the SBL references in the English).
+      Still open: the same for rabbinic citations (tractate and folio) and for classical authors.
+- [x] **Search.** Done 14-Nov-2026 (`search.html`; `docs/search-en.json` and `search-la.json`, one row per
+      paragraph; accents and points are folded). The snippet shows the folded text.
+- [x] **Flags on the Hebrew QA page.** Done 14-Nov-2026: a tick per row, kept in the browser, and "Copy the
+      flagged rows" gives a tab-separated list to send.
+- [x] **Link previews and title.** Done 14-Nov-2026 (Open Graph tags; "pilot" removed from the title). No
+      preview image yet: a 1200x630 image of a page spread would make the card stronger.
+- [ ] **Check the two-column layout on a phone.** Not looked at since the pilot.
 
 - [ ] **Names and abbreviations pages sorted by basis**, "guess" and "general knowledge" first, so
       the owner's review takes ten minutes.
@@ -85,10 +130,28 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
       in `entry.py` exists already).
 - [ ] **"See also" per chapter** to the matching Lewysohn entry and fact-check claim (the crane and
       the swallow overlap with both): one dictionary in `build_site.py`.
-- [ ] **Anchors for the columns of 1663.** The `[col. N]` marks are in the text; as HTML anchors
-      they let the blog post and the fact-check link to "Hieroz. II, col. 66".
+- [x] **Anchors for the columns of 1663.** Done 14-Nov-2026: `chapter.html#col198`, `#pg787` (a page of
+      Rosenmüller) and `#p12` (a paragraph; the ¶ at its end). A paragraph number changes if the Latin of the
+      chapter is joined again in another way; page and column anchors do not.
 
 ### Project management
+
+- [ ] **Make the volume a parameter (needed before the next tranche).** Volume 2 is complete with tranche 6.
+      Part 1, Books 1-3 chs. 1-32 are in vol. 1 and the rest of vol. 2 (pp. 1-408); Part 2 goes on in vol. 3.
+      `tranche.keys`, `fetch.SAMPLE`, the `v2-` file names, `find_chapters.py` and "printed page = canvas - 16"
+      assume vol. 2 (`VOL_IDS` in `build_site.py` already has the three ids). Find the canvas offset of the
+      other volume first (it has front matter of another length), then give `tranche.py` a `--vol`.
+- [ ] **A new OpenRouter key.** The project key expires on 15-Nov-2026. Ask for a balance of about $20 or
+      more for a tranche of 80 pages (5 times the largest step), so that no batch is split.
+- [ ] **Send the parts of a split batch at the same time where the balance permits.** `orbatch.run_batch`
+      sends the parts one after the other. For 3 or more parts it can send as many together as fit under the
+      balance (the estimate of a part is the refused estimate divided by the number of parts). With 2 parts
+      there is nothing to gain: both together are the refused batch.
+
+**Tell the owner about the key balance (owner's instruction, 14-Nov-2026).** `tranche.py` prints `NOTICE FOR
+THE OWNER` at the start when the key has less than about $20, and `orbatch` prints `estimate ... is above the
+balance` when a batch is refused and split. When either line shows, tell the owner in the next message: the
+balance, what was refused or split, and the waiting time it costs. Do not only work around it.
 
 - [x] **Tranche table in the README** Done 11-Nov-2026. (date, pages, cost, minutes, review items, changes). The three
       tranches are in prose now; a table shows the trend.

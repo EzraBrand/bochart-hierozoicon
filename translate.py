@@ -354,7 +354,7 @@ def finish(cfg: dict, out: Path) -> None:
     for p in problems:
         print(f"ABBREVIATION CHECK: {p}")
     uses = abbrev.expand([en_main, en_notes])
-    ids = names.identify([en_main, en_notes])
+    ids = names.identify([en_main, en_notes], cfg.get("no_id"))
     raw["meta"].update({"abbreviations_expanded": sorted(uses), "names_identified": ids})
     (out / "en.json").write_text(json.dumps({"main": en_main, "notes": en_notes, "meta": raw["meta"]},
                                             ensure_ascii=False, indent=1), encoding="utf-8")

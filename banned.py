@@ -53,6 +53,15 @@ RULES["oznija"] = [VULTURE, OSPREY]
 RULES["daah"] = [VULTURE, EAGLE]
 RULES["ajah"] = [VULTURE, EAGLE, KITE]
 RULES["dajah"] = [EAGLE, KITE]
+# tranche 6: the raven is never the crow; in the ostrich chapters the owl is the reading that Bochart refutes
+CROW = (r"\bcrows?\b", r"corni[xc]|κορών|κορων|corneille|kr[aä]he|غداف|زاغ")
+RAVEN = (r"\bravens?\b", r"corv|κ[όο]ρα[ξκ]|ערב|עורב|غراب|corbeau|rabe|oreb")
+OWL = (r"\bowls?\b", r"ulul|noctu|bubo|str[iy][xg]|γλα[υύῦ][ξκ]|nycticor|νυκτικ[όο]ρ|\bot[uio]|ὦτ|بوم|hibou|eule|huhu")
+OSTRICH = (r"\bostrich(?:es)?\b", r"struth|στρ[ȣο]υθ|نعام|ظليم|יענ|autruche|strau[sß]|jaana|jeenim|thachmas|תחמס|renanim|רננים")
+for e in ("corvus", "corvus-providentia", "corvus-noachi", "corvus-eliae"):
+    RULES[e] = [PIGEON, CROW, EAGLE]
+for e in ("bath-jaana", "thachmas", "struthio-iob", "struthio-iob-reliqua"):
+    RULES[e] = [PIGEON, OWL, OSTRICH]
 for e in ("jonah", "columba-pennae", "columbaria", "columba-mores", "columba-sacrificia", "columba-noachi",
           "chiryonim"):
     RULES[e] = [PIGEON, WOOD_PIGEON]

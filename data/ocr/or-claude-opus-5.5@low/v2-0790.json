@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "790 <i>Corvi sedes.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "790 <i>Corvi sedes.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "que pertinet, quod praedicitur <i>Es. XXXIV,</i> 10. fore, ut post vastatam <i>Idumae-\nam</i> in <i>Bosrae</i> metropolis ruderibus <i>noctua et corvus habitent.</i> Additur ex <i>Sophon.\nII,</i> 14. ubi de vastatione <i>Ninives</i>, <i>Vox cantantis in fenestra, corvus in superli-\nminari.</i> Ita enim habet <i>Hieronymus</i>. Et <i>Graecorum</i> versio, Θηρία φωνήσει ἐν\nτοῖς διορύγμασιν αὐτῶν, καὶ κόρακες ἐν τοῖς πυλῶσιν αὐτῆς· <i>Bestiae clama-\nbunt in eorum</i> (Ninivitarum) <i>fossis, et corvi in portis ejus</i> (Ninives). Et a <i>Theo-\ndoreto</i> ad hunc locum censentur inter vastitatis signa κοράκων νεοττίαι, <i>corvo-\nrum nidi.</i> Et a <i>Cyrillo</i> per <i>corvos</i> intelliguntur nycticoraces, qui in ipsis urbis\nportis non habitarent, nisi plurimum ibi quietis et otii esset, eorum naturae gra-\ntissimi: Οὐδ᾽ ἂν ἐμφιλοχωρήσειαν αὐτοῖς πυλῶσιν οἱ νυκτικόρακες, εἰ μὴ\nπλείστη τις ὅση καὶ ἁνδάνουσα λίαν τοῖς ὧδε φύσεως ἔχουσιν ὑπάρχῃ σχολή.\nSed <i>Hebraea</i> vox חרב <i>choreb</i>, quam <i>corvum</i> explicant ^{(1)}, <i>siccitatem</i> et <i>vastitatem</i>\nsignificat: aut, si <i>chereb</i> legas, <i>gladium.</i> Proinde <i>Syrus</i> interpres <i>gladium</i> red-\ndit, quomodo etiam <i>Aquila.</i> Et <i>Graecorum</i> alii <i>siccitatem</i>, ut testatur <i>Hiero-\nnymus</i>, qui cur maluerit <i>corvum</i> reddere, nullus capio. <i>In Hebraeo</i> (inquit)\n<i>ponitur</i> חרב, <i>quod secundum lectionis diversitatem vel</i> siccitas, <i>vel</i> gladius, <i>vel</i>\ncorvus <i>accipitur.</i> Quasi idem sint, חרב, per <i>Cheth,</i> et ערב, per <i>Ajin.</i> Quod\n<i>Hieronymo</i> nullus concesserit. Nam ערב, per <i>Ajin</i> et <i>Cholem</i>, <i>corvum</i> sonat:\nsed חרב, per <i>Cheth</i> et <i>Cholem</i>, <i>siccitatem</i> et <i>vastitatem</i>; aut <i>gladium,</i> si sit <i>Segol.</i>\nHic igitur cum חרב per <i>Cheth</i> et <i>Cholem</i> scribant, <i>Sophoniae</i> verba sic reddenda\nsunt: <i>Vox resonabit e fenestra: vastitas erit in limine, cum cedrus nudata fuerit,</i>\nid est, cedrinum tabulatum. <i>Vocem</i> hic intelligo, qualem <i>Es. XIII,</i> 21.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "que pertinet, quod praedicitur <i>Es. XXXIV,</i> 10. fore, ut post vastatam <i>Idumae-\nam</i> in <i>Bosrae</i> metropolis ruderibus <i>noctua et corvus habitent.</i> Additur ex <i>Sophon.\nII,</i> 14. ubi de vastatione <i>Ninives</i>, <i>Vox cantantis in fenestra, corvus in superli-\nminari.</i> Ita enim habet <i>Hieronymus</i>. Et <i>Graecorum</i> versio, Θηρία φωνήσει ἐν\nτοῖς διορύγμασιν αὐτῶν, καὶ κόρακες ἐν τοῖς πυλῶσιν αὐτῆς· <i>Bestiae clama-\nbunt in eorum</i> (Ninivitarum) <i>fossis, et corvi in portis ejus</i> (Ninives). Et a <i>Theo-\ndoreto</i> ad hunc locum censentur inter vastitatis signa κοράκων νεοττίαι, <i>corvo-\nrum nidi.</i> Et a <i>Cyrillo</i> per <i>corvos</i> intelliguntur nycticoraces, qui in ipsis urbis\nportis non habitarent, nisi plurimum ibi quietis et otii esset, eorum naturae gra-\ntissimi: Οὐδ᾽ ἂν ἐμφιλοχωρήσειαν αὐτοῖς πυλῶσιν οἱ νυκτικόρακες, εἰ μὴ\nπλείστη τις ὅση καὶ ἁνδάνουσα λίαν τοῖς ὧδε φύσεως ἔχουσιν ὑπάρχῃ σχολή.\nSed <i>Hebraea</i> vox חרב <i>choreb</i>, quam <i>corvum</i> explicant ^{(1)}, <i>siccitatem</i> et <i>vastitatem</i>\nsignificat: aut, si <i>chereb</i> legas, <i>gladium.</i> Proinde <i>Syrus</i> interpres <i>gladium</i> red-\ndit, quomodo etiam <i>Aquila.</i> Et <i>Graecorum</i> alii <i>siccitatem</i>, ut testatur <i>Hiero-\nnymus</i>, qui cur maluerit <i>corvum</i> reddere, nullus capio. <i>In Hebraeo</i> (inquit)\n<i>ponitur</i> חרב, <i>quod secundum lectionis diversitatem vel</i> siccitas, <i>vel</i> gladius, <i>vel</i>\ncorvus <i>accipitur.</i> Quasi idem sint, חרב, per <i>Cheth,</i> et ערב, per <i>Ajin.</i> Quod\n<i>Hieronymo</i> nullus concesserit. Nam ערב, per <i>Ajin</i> et <i>Cholem</i>, <i>corvum</i> sonat:\nsed חרב, per <i>Cheth</i> et <i>Cholem</i>, <i>siccitatem</i> et <i>vastitatem</i>; aut <i>gladium,</i> si sit <i>Segol.</i>\nHic igitur cum חרב per <i>Cheth</i> et <i>Cholem</i> scribant, <i>Sophoniae</i> verba sic reddenda\nsunt: <i>Vox resonabit e fenestra: vastitas erit in limine, cum cedrus nudata fuerit,</i>\nid est, cedrinum tabulatum. <i>Vocem</i> hic intelligo, qualem <i>Es. XIII,</i> 21."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hic quaeri potest, quorsum corvos <i>Solomon</i> appellet ערבי נחל, <i>corvos val-\nlis</i>, aut, si mavis, <i>corvos torrentis</i>, Prov. XXX, 17. Nam נחל et <i>vallem</i>, et\n<i>torrentem</i> sonat ^{(2)}. Ego crediderim <i>corvos vallis</i> cum <i>Graecis</i>, qui habent\nκόρακες ἐκ τῶν φαράγγων, id est, <i>corvos ex vallibus</i>, seu, qui nidificare amant\nin reductis vallibus, quas <i>Hebraice</i> recte dixeris נחלי הבתות, <i>valles solitudinum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hic quaeri potest, quorsum corvos <i>Solomon</i> appellet ערבי נחל, <i>corvos val-\nlis</i>, aut, si mavis, <i>corvos torrentis</i>, Prov. XXX, 17. Nam נחל et <i>vallem</i>, et\n<i>torrentem</i> sonat ^{(2)}. Ego crediderim <i>corvos vallis</i> cum <i>Graecis</i>, qui habent\nκόρακες ἐκ τῶν φαράγγων, id est, <i>corvos ex vallibus</i>, seu, qui nidificare amant\nin reductis vallibus, quas <i>Hebraice</i> recte dixeris נחלי הבתות, <i>valles solitudinum</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "cum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "cum"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Quod ipsum negat I. E. FABER in\nDissertat. <i>de animalibus, quorum mentio\nfit Zephan. II, 14.</i>, ad calcem libri Cra-\nmeriani, qui inscribitur: <i>Scythische Denk-\nmaehler in Palaestina</i>, p. 304. κόρακος no-\nmen ab interpretibus pro קאת positum au-\ntumans, pro חרב vero χαμαιλέωντος: utrum-\nque sine idonea ratione, nec alium in finem,\nnisi ut tueatur conjecturas suas leves de\nanimalium istorum nominibus. Cf. supra\np. 507. not. et 509. not.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quod ipsum negat I. E. FABER in\nDissertat. <i>de animalibus, quorum mentio\nfit Zephan. II, 14.</i>, ad calcem libri Cra-\nmeriani, qui inscribitur: <i>Scythische Denk-\nmaehler in Palaestina</i>, p. 304. κόρακος no-\nmen ab interpretibus pro קאת positum au-\ntumans, pro חרב vero χαμαιλέωντος: utrum-\nque sine idonea ratione, nec alium in finem,\nnisi ut tueatur conjecturas suas leves de\nanimalium istorum nominibus. Cf. supra\np. 507. not. et 509. not."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "נחל est <i>locus depressus in desertis,\nalvei instar, per quem pluviae tempore\ntorrens rapitur, reliquo vero anno siccus,</i>\nArab. وادي, quo ipso vocabulo pro Hebr.\nנחל recte utitur Arabs interpres in Polyglot-\ntis Num. XIII, 23. Vid. de his vallibus\nNIEBUHR <i>Descript. Arab.</i> pag. 2. DELLA\nVALLE Itiner. P. IV. p. 183. b. vers. germ.\nOEDMANN <i>Vermischte Sammlungen</i>, P.\nV. Cap. XIII. p. 116. 117.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "נחל est <i>locus depressus in desertis,\nalvei instar, per quem pluviae tempore\ntorrens rapitur, reliquo vero anno siccus,</i>\nArab. وادي, quo ipso vocabulo pro Hebr.\nנחל recte utitur Arabs interpres in Polyglot-\ntis Num. XIII, 23. Vid. de his vallibus\nNIEBUHR <i>Descript. Arab.</i> pag. 2. DELLA\nVALLE Itiner. P. IV. p. 183. b. vers. germ.\nOEDMANN <i>Vermischte Sammlungen</i>, P.\nV. Cap. XIII. p. 116. 117."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1673,
+    1425
+   ],
+   [
+    1673,
+    1371
+   ]
+  ],
+  "input_tokens": 7895,
+  "output_tokens": 2221,
+  "cost_usd": 0,
+  "seconds": 308.9
+ }
+}

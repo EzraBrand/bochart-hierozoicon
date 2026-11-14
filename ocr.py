@@ -181,6 +181,14 @@ def safe_box(path: Path, gray: Image.Image) -> tuple[int, int, int, int]:
         if lines:
             x0 = max(min(x0, min(b[0] for b in lines) - 30), 0)
             x1 = min(max(x1, max(b[2] for b in lines) + 30), gray.width)
+            # p. 844 (14-Nov-2026): text_box began in the middle of the page and both models read only the
+            # lower half. When three or more MDZ lines lie outside the box, take the height from MDZ too
+            # (without its first line, the running head, when the box did not have it).
+            out = [b for b in lines if not y0 <= (b[1] + b[3]) / 2 <= y1]
+            if len(out) >= 3:
+                tops = sorted(b[1] for b in lines)
+                y0 = max(min(y0, (tops[1] if len(tops) > 1 else tops[0]) - 15), 0)
+                y1 = min(max(y1, max(b[3] for b in lines) + 15), gray.height)
     return x0, y0, x1, y1
 
 

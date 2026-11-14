@@ -1,0 +1,159 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XV. <i>Probatur,</i> תחמס <i>esse Struthionem marem.</i> 837",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XV. <i>Probatur,</i> תחמס <i>esse Struthionem marem.</i> 837"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Turpe duci visum est rapiendi tempora belli</i>\n<i>In segnes haesisse moras.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Turpe duci visum est rapiendi tempora belli</i>\n<i>In segnes haesisse moras.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libri sexti versu 372.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libri sexti versu 372."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>et gurgite rapto</i>\nApidanos, <i>nunquamque celer nisi mistus</i> Enipeus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>et gurgite rapto</i>\nApidanos, <i>nunquamque celer nisi mistus</i> Enipeus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Plinius <i>in</i> Panegyrico, <i>Cum legiones duceres</i>, <i>vel potius</i>, <i>tanta velocitas erat</i>,\n<i>raperes</i>. Cui geminum quidem <i>Lucani</i>, <i>poëtae</i>, illud de <i>Caesare</i> libro primo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Plinius <i>in</i> Panegyrico, <i>Cum legiones duceres</i>, <i>vel potius</i>, <i>tanta velocitas erat</i>,\n<i>raperes</i>. Cui geminum quidem <i>Lucani</i>, <i>poëtae</i>, illud de <i>Caesare</i> libro primo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>rapit agmina ductor</i>\n<i>Impiger.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>rapit agmina ductor</i>\n<i>Impiger.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Martialis</i> ad <i>Priscum</i> libri duodecimi <i>Epigrammate</i> decimo quarto,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Martialis</i> ad <i>Priscum</i> libri duodecimi <i>Epigrammate</i> decimo quarto,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Parcius utaris</i>, <i>moneo</i>, <i>rapiente veredo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Parcius utaris</i>, <i>moneo</i>, <i>rapiente veredo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Proinde <i>Arabicum equi</i> nomen فرس <i>pharas Damir</i> a rapiendo ita deducit in\ncapite <i>De equo</i>: لفظها مشتق من الافتراس كانها تفترس\nالارض بسرعة مشيتها <i>Nomen ejus derivatur a rapiendo</i>, <i>quasi diripiat</i>\n<i>terram incessus sui celeritate.</i> Et خطف <i>chatapha</i> Verbum primo <i>rapere</i>, de-\ninde <i>velocem esse</i> significat. Inde igitur <i>hirundo</i> dici potuit خطاف <i>chottaph</i>,\nut e camelis <i>dromas</i> خيطف <i>chaitaph</i>, et <i>praeceps incessus</i> حيطفي <i>chai-</i>\n<i>tapha</i>, et <i>fulmen</i> خاطف <i>chatiph</i>, <i>quia praestringit oculos</i>, inquiunt, <i>rapidi-</i>\n<i>tate motus sui.</i> Itaque tam falluntur, qui خطاف <i>chottaph</i>, vel, quod idem\nest, חטפיתא <i>chatphitha</i>, et חטופיתא <i>chatophitha</i>, quam qui תחמס pro <i>ave ra-</i>\n<i>pace</i> sumunt ex genere τῶν γαμψωνύχων· cum חטפיתא <i>hirundinem</i>, et תחמס\n<i>struthionem</i> sonet, ut probare conati sumus. Iam sequetur expositio verborum,\nquibus struthio in <i>Iobo</i> describitur: quae verba sunt eximia; sed, ut putamus,\nnondum satis intellecta, ac proinde hic explicanda.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Proinde <i>Arabicum equi</i> nomen فرس <i>pharas Damir</i> a rapiendo ita deducit in\ncapite <i>De equo</i>: لفظها مشتق من الافتراس كانها تفترس\nالارض بسرعة مشيتها <i>Nomen ejus derivatur a rapiendo</i>, <i>quasi diripiat</i>\n<i>terram incessus sui celeritate.</i> Et خطف <i>chatapha</i> Verbum primo <i>rapere</i>, de-\ninde <i>velocem esse</i> significat. Inde igitur <i>hirundo</i> dici potuit خطاف <i>chottaph</i>,\nut e camelis <i>dromas</i> خيطف <i>chaitaph</i>, et <i>praeceps incessus</i> حيطفي <i>chai-</i>\n<i>tapha</i>, et <i>fulmen</i> خاطف <i>chatiph</i>, <i>quia praestringit oculos</i>, inquiunt, <i>rapidi-</i>\n<i>tate motus sui.</i> Itaque tam falluntur, qui خطاف <i>chottaph</i>, vel, quod idem\nest, חטפיתא <i>chatphitha</i>, et חטופיתא <i>chatophitha</i>, quam qui תחמס pro <i>ave ra-</i>\n<i>pace</i> sumunt ex genere τῶν γαμψωνύχων· cum חטפיתא <i>hirundinem</i>, et תחמס\n<i>struthionem</i> sonet, ut probare conati sumus. Iam sequetur expositio verborum,\nquibus struthio in <i>Iobo</i> describitur: quae verba sunt eximia; sed, ut putamus,\nnondum satis intellecta, ac proinde hic explicanda."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Nnnnn 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nnnnn 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1688,
+    1361
+   ],
+   [
+    1688,
+    1291
+   ]
+  ],
+  "input_tokens": 7751,
+  "output_tokens": 1250,
+  "cost_usd": 0,
+  "seconds": 309.0,
+  "vote": "1 decisions from v2-788-870"
+ }
+}

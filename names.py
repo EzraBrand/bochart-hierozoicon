@@ -30,9 +30,12 @@ def prompt_rows(text: str) -> str:
     return "\n".join(f'- {" / ".join(r["forms"])} -> "{r["english"]}"' for r in rows)
 
 
-def identify(docs: list[list[dict]]) -> list[str]:
+def identify(docs: list[list[dict]], skip: dict | None = None) -> list[str]:
     """Add the identification after the first use of each English form, in reading order, in place.
-    -> the English forms identified."""
+    -> the English forms identified. skip = {English form: n}: the first n uses in this chapter are
+    another person of the same name and get no identification (entry "no_id"; 14-Nov-2026: "Elias" the
+    prophet in the chapters on the ravens is not Elijah Levita; "Jonathan" on p. 751 is the son of Saul)."""
+    skip = dict(skip or {})
     done = []
     rows = sorted((r for r in items() if r["id"]), key=lambda r: -len(r["english"]))
     for r in rows:
@@ -41,7 +44,15 @@ def identify(docs: list[list[dict]]) -> list[str]:
         rx = re.compile(rf"(?<!\w)({re.escape(r['english'])}(?:'s|')?(?:</i>)?)(?!\w)")
         for blocks in docs:
             for b in blocks:
-                new, n = rx.subn(lambda m: f"{m.group(1)} [={r['id']}]", b["text"], count=1)
+                def put(m, r=r):
+                    if skip.get(r["english"], 0) > 0:
+                        skip[r["english"]] -= 1
+                        return m.group(0)
+                    put.done = True
+                    return f"{m.group(1)} [={r['id']}]"
+                put.done = False
+                new = rx.sub(lambda m: put(m) if not put.done else m.group(0), b["text"])
+                n = put.done
                 if n:
                     b["text"] = new
                     done.append(r["english"])

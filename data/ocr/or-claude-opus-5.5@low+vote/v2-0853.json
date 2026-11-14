@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap.XVI. <i>Explicatur Iobi de Struthione locus obscuriss.</i> 853",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap.XVI. <i>Explicatur Iobi de Struthione locus obscuriss.</i> 853"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ma octava, cum ferae et volucres inter se disceptarent, utrosque decipiebat Λί-\nβυσσα στρουθὸς, <i>Libycus struthio</i>, cum videretur",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ma octava, cum ferae et volucres inter se disceptarent, utrosque decipiebat Λί-\nβυσσα στρουθὸς, <i>Libycus struthio</i>, cum videretur"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Εἶναι μὲν ὄρνις, ἐκ μέρους δὲ θηρίον,\nΠτηνοῖς κάραν δεικνύσα, τοῖς θερσὶ πόδας,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Εἶναι μὲν ὄρνις, ἐκ μέρους δὲ θηρίον,\nΠτηνοῖς κάραν δεικνύσα, τοῖς θερσὶ πόδας,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Avis quidem esse, ex parte autem fera, volucribus caput, pedes feris ostendens.</i>\nCum igitur hoc animal quadrupedis tam multa habeat, hic a sacro scriptore de-\nscribitur cum feris quadrupedibus. Et quia res παράδοξος videri queat, tale animal\npennas et plumas habere, ut veras aves: ideo proponitur cum hac asseveratione,\n<i>Vere penna,</i> etc. <i>et pluma,</i> supple <i>illis est.</i> Neque obscurum est, cur non solum\npennas habere dicatur, sed et ciconiae pennas. Struthio colore pennarum pla-\nne ciconiam refert. <i>Marmolius</i> ubi supra, <i>En las alas y en la cola tiene grandes\nplumas negras y blancas</i>, <i>come las de la cigueña.</i> In alis et in cauda magnas ha-\nbet pennas, nigras et albas, ut ciconiae pennas. Hinc <i>Scaliger</i> ^{i)}, <i>Cardanum</i> ar-\nguens, quod struthioni tribuat pennas coeruleas, candidas, nigras, rubras, vi-\nrides, quibus ornantur militum galeae, <i>Risum</i>, inquit, <i>movent colores, quos\nab infectorum officinis in apothecas naturae transtulisti. Quis enim te non rideat,\nilla venditantem, hosce colores, quos in galeis infigunt, nativos esse struthio-ca-\nmelis? Omnes enim fusco et albo picti sunt, ut mihi dixerunt multi mercatores</i>\nAfricani. <i>Quod ut melius intelligerem, ciconiae colori comparabant.</i> Versus iste,\nsic expositus, sequentibus lucem inferet ^{(3)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Avis quidem esse, ex parte autem fera, volucribus caput, pedes feris ostendens.</i>\nCum igitur hoc animal quadrupedis tam multa habeat, hic a sacro scriptore de-\nscribitur cum feris quadrupedibus. Et quia res παράδοξος videri queat, tale animal\npennas et plumas habere, ut veras aves: ideo proponitur cum hac asseveratione,\n<i>Vere penna,</i> etc. <i>et pluma,</i> supple <i>illis est.</i> Neque obscurum est, cur non solum\npennas habere dicatur, sed et ciconiae pennas. Struthio colore pennarum pla-\nne ciconiam refert. <i>Marmolius</i> ubi supra, <i>En las alas y en la cola tiene grandes\nplumas negras y blancas</i>, <i>come las de la cigueña.</i> In alis et in cauda magnas ha-\nbet pennas, nigras et albas, ut ciconiae pennas. Hinc <i>Scaliger</i> ^{i)}, <i>Cardanum</i> ar-\nguens, quod struthioni tribuat pennas coeruleas, candidas, nigras, rubras, vi-\nrides, quibus ornantur militum galeae, <i>Risum</i>, inquit, <i>movent colores, quos\nab infectorum officinis in apothecas naturae transtulisti. Quis enim te non rideat,\nilla venditantem, hosce colores, quos in galeis infigunt, nativos esse struthio-ca-\nmelis? Omnes enim fusco et albo picti sunt, ut mihi dixerunt multi mercatores</i>\nAfricani. <i>Quod ut melius intelligerem, ciconiae colori comparabant.</i> Versus iste,\nsic expositus, sequentibus lucem inferet ^{(3)}."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Exercit.</i> 230.",
+   "marker": "i)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Exercit.</i> 230."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Aliorum vel opiniones, vel hariola-\ntiones in hoc versu interpretando recensere\nsupersedeo, quum satis id jam factum sit a\nSCHULTENSIO in Commentar. ad loc. pag.\n1118. seqq. Schmidii et Cocceji vanas con-\njecturas refutavit quoque TYMPIUS in <i>An-\nnotationibus et Vindiciis</i> ad <i>Noldii Con-\ncordantt. Particularr.</i> p. 903. b. not. 1460.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aliorum vel opiniones, vel hariola-\ntiones in hoc versu interpretando recensere\nsupersedeo, quum satis id jam factum sit a\nSCHULTENSIO in Commentar. ad loc. pag.\n1118. seqq. Schmidii et Cocceji vanas con-\njecturas refutavit quoque TYMPIUS in <i>An-\nnotationibus et Vindiciis</i> ad <i>Noldii Con-\ncordantt. Particularr.</i> p. 903. b. not. 1460."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ppppp 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ppppp 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1756,
+    1438
+   ],
+   [
+    1756,
+    1322
+   ]
+  ],
+  "input_tokens": 8195,
+  "output_tokens": 1218,
+  "cost_usd": 0,
+  "seconds": 309.1,
+  "vote": "1 decisions from v2-788-870"
+ }
+}

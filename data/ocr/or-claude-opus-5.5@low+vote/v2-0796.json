@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "796 <i>Dei providentia circa corvos.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "796 <i>Dei providentia circa corvos.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "πετομένων, καὶ μὴ ἀποχωρούντων, <i>a corvis, qui</i> (aliquid petentes) <i>aedium fo-\nres circumvolitant, neque inde discedunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "πετομένων, καὶ μὴ ἀποχωρούντων, <i>a corvis, qui</i> (aliquid petentes) <i>aedium fo-\nres circumvolitant, neque inde discedunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "At, inquiunt, cur a <i>Iobo</i> et <i>Davide</i> non ipsis corvis, sed corvorum pullis ⟦p. 205⟧\ntribuitur haec escae flagitatio? Cui quaestioni ut satisfiat, <i>Hebraei</i> et <i>Arabes</i> mul-\nta comminiscuntur, ut patebit ex sequentibus. <i>Rabbi Eliezer</i> in <i>Capitulis</i> fere\nin fine cap. 21. <i>Cum corvi genuerunt pullos suos, videntes, eos esse albos, aufu-\ngiunt ab illis, existimantes, illos esse pullos serpentis: tum Deus Sanctus Benedi-\nctus illis largitur alimentum absque penuria.</i> Rabbi <i>Selomo</i> in <i>Iobum</i>, יתעו מבלי\nאכל שאביהם שונאם והקב״ה מזמן להם יתושים הנבראים מצואתן ונכנסין לתוך\nפיהם, <i>Vagantur absque cibo; quia patri suo sunt exosi: sed Deus Sanctus Bene-\ndictus culices ipsis praeparat, ex proprio ipsorum stercore procreatos, qui in os\neorum ingrediantur</i>, <i>Aben Ezra</i> in <i>Psalmum CXLVII.</i> חכמי הגויים אומרים כי\nאבותם יעזבום בהולדם, <i>Philosophi</i> gentilium <i>asserunt, eos a parentibus deseri,\nquam primum nati sunt.</i> Et <i>Kimchius</i>, לפי שהם לבנים בהולדם ואמותיהם\nמניחים אותם ולא יביאו להם טרפם כי יחשבו כי אינם בניהם לפי שהם לבנים\nוהם צווחים כאלו יקראו לאל בעד טרפם והקב״ה מזמין להם יתושין ואוכלים\nאותם, <i>quia nascuntur albi, matres eos deserunt, neque iis cibum afferunt: neque\nenim pro suis agnoscunt, cum albi sint. Proinde clamant, quasi a Deo cibum\nsuum peterent. Et Deus ipsis culices praeparat, quibus vescantur.</i> Haec <i>He-\nbraei:</i> jam audi <i>Arabes.</i> In his <i>Haririus poeta</i> sic canit in مقامة <i>Mekama,</i>\nseu <i>stantia</i> 13.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "At, inquiunt, cur a <i>Iobo</i> et <i>Davide</i> non ipsis corvis, sed corvorum pullis ⟦p. 205⟧\ntribuitur haec escae flagitatio? Cui quaestioni ut satisfiat, <i>Hebraei</i> et <i>Arabes</i> mul-\nta comminiscuntur, ut patebit ex sequentibus. <i>Rabbi Eliezer</i> in <i>Capitulis</i> fere\nin fine cap. 21. <i>Cum corvi genuerunt pullos suos, videntes, eos esse albos, aufu-\ngiunt ab illis, existimantes, illos esse pullos serpentis: tum Deus Sanctus Benedi-\nctus illis largitur alimentum absque penuria.</i> Rabbi <i>Selomo</i> in <i>Iobum</i>, יתעו מבלי\nאכל שאביהם שונאם והקב״ה מזמן להם יתושים הנבראים מצואתן ונכנסין לתוך\nפיהם, <i>Vagantur absque cibo; quia patri suo sunt exosi: sed Deus Sanctus Bene-\ndictus culices ipsis praeparat, ex proprio ipsorum stercore procreatos, qui in os\neorum ingrediantur</i>, <i>Aben Ezra</i> in <i>Psalmum CXLVII.</i> חכמי הגויים אומרים כי\nאבותם יעזבום בהולדם, <i>Philosophi</i> gentilium <i>asserunt, eos a parentibus deseri,\nquam primum nati sunt.</i> Et <i>Kimchius</i>, לפי שהם לבנים בהולדם ואמותיהם\nמניחים אותם ולא יביאו להם טרפם כי יחשבו כי אינם בניהם לפי שהם לבנים\nוהם צווחים כאלו יקראו לאל בעד טרפם והקב״ה מזמין להם יתושין ואוכלים\nאותם, <i>quia nascuntur albi, matres eos deserunt, neque iis cibum afferunt: neque\nenim pro suis agnoscunt, cum albi sint. Proinde clamant, quasi a Deo cibum\nsuum peterent. Et Deus ipsis culices praeparat, quibus vescantur.</i> Haec <i>He-\nbraei:</i> jam audi <i>Arabes.</i> In his <i>Haririus poeta</i> sic canit in مقامة <i>Mekama,</i>\nseu <i>stantia</i> 13."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "ara",
+   "text": "يا رازق النعاب في عشه\nوجابر العظم الكسير المهيض",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "يا رازق النعاب في عشه\nوجابر العظم الكسير المهيض"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>O qui corvum alis in nido suo, et</i> onagri <i>os fractum et contritum reparas.</i> Cujus\ndistichi primam partem <i>Davidi</i> tribuit <i>Scholiastes</i>, et sic exponit: الغراب اذا\nفقس عن فراخه خرجت بيضا فاذا راها ابواها\nكذلك نفرا عنها فتفتح افواها فيرسل الله\nتبارك وتعالي لها ذبابا فيدخل في افواها فيركون\nلها غذا حتي تسود فاذا اسودت عاد ابواها اليها\nفغذياها ويرفع الله الذباب عنها <i>Corvus cum pullos exclu-\ndit, albi prodeunt. Quales cum vident parentes, fugam capessunt. Illi autem\nora aperiunt. Et Deus Benedictus et excelsus, muscas iis mittit, quae, in ora in-\ngredientes, sunt ipsis pro cibo, donec nigrescant. Et tum demum parentes rede-\nuntes eos alunt. Deus autem ab illis muscas amovet.</i> Quae eadem docet <i>Alka-\nzuinius</i> verbis parum diversis. Et <i>Damir</i> aliquanto uberius, اذا خرجت\nالفراخ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>O qui corvum alis in nido suo, et</i> onagri <i>os fractum et contritum reparas.</i> Cujus\ndistichi primam partem <i>Davidi</i> tribuit <i>Scholiastes</i>, et sic exponit: الغراب اذا\nفقس عن فراخه خرجت بيضا فاذا راها ابواها\nكذلك نفرا عنها فتفتح افواها فيرسل الله\nتبارك وتعالي لها ذبابا فيدخل في افواها فيركون\nلها غذا حتي تسود فاذا اسودت عاد ابواها اليها\nفغذياها ويرفع الله الذباب عنها <i>Corvus cum pullos exclu-\ndit, albi prodeunt. Quales cum vident parentes, fugam capessunt. Illi autem\nora aperiunt. Et Deus Benedictus et excelsus, muscas iis mittit, quae, in ora in-\ngredientes, sunt ipsis pro cibo, donec nigrescant. Et tum demum parentes rede-\nuntes eos alunt. Deus autem ab illis muscas amovet.</i> Quae eadem docet <i>Alka-\nzuinius</i> verbis parum diversis. Et <i>Damir</i> aliquanto uberius, اذا خرجت\nالفراخ"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1874,
+    1116
+   ],
+   [
+    1874,
+    1676
+   ]
+  ],
+  "input_tokens": 8595,
+  "output_tokens": 1610,
+  "cost_usd": 0,
+  "seconds": 308.9,
+  "vote": "2 decisions from v2-788-870"
+ }
+}

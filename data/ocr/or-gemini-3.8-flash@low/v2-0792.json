@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "792 Corvi victus. P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "792 Corvi victus. P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quid quod ne vivorum quidem oculis parcunt? Hinc <i>Aristophanes in Avibus</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quid quod ne vivorum quidem oculis parcunt? Hinc <i>Aristophanes in Avibus</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὁ κόραξ παρελθὼν τὠπιορκοῦντος λάθρα\nΠροσπτάμενος ἐκκόψει τὸν ὀφθαλμὸν θένων·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὁ κόραξ παρελθὼν τὠπιορκοῦντος λάθρα\nΠροσπτάμενος ἐκκόψει τὸν ὀφθαλμὸν θένων·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Corvus adveniens, et clam advolans, pejerantis oculum percutiens effodiat.</i> Item,\nΟἱ δ' αὖ κόρακες τῶν ζευγαρίων, οἷσι τὴν γῆν καταρῶσι,\nΚαὶ τῶν προβάτων τοὺς ὀφθαλμοὺς ἐκκοψάντων·\n<i>Rursus corvi boum jugalium, quibus terram arant et ovium oculos ejiciant.</i> Et\n<i>Gregorius Nyssenus</i> Homilia 13. corvum vocat σαρκοβόρον τῶν ὀφθαλμῶν\nἀφανιστικὸν, <i>carnivorum oculorum corruptorem. Et Alkazuinius in capite</i> غراب\n<i>gorab, seu de Corvo</i>, يجتمع علي كل الحيوانات الكبار\nالبادية كالجمل والفرس وكذا الادمي ويقصد\nقلع عينها ولا يمتنع بالدفع والضرب لشدة جوعه\n<i>Versatur super omnia magna animalia, quae sunt in agris, ut super camelos et\nequos, adeoque super homines, et eorum oculos conatur evellere: nec propellendo,\naut verberando prohibetur propter vim famis.</i> Quanquam id corvo non sit pecu-\nliare, si vere scribit <i>Cardanus</i> lib. 7. capite 35. <i>De rerum varietate: Nullum ge- ⟦p. 202.⟧\nnus avium magnarum, seu gallinae, seu pavones, aut corvi sint, vel grues, aut\nciconiae, ita mansuescit, ut, si propius sint, non conentur tibi oculos eruere.</i> De\nstruthionibus idem audivi ab iis, qui illas circumducunt. Et hanc causam affert\n<i>Plinius</i> lib. 11. cap. 37. <i>Adeoque oculis absoluta vis speculi, ut tam parva illa pu-\npilla totam imaginem reddat hominis. Ea causa est, ut pleraeque alitum e mani-\nbus hominum oculos potissimum appetant, quod, effigiem suam in iis cernentes, vel-\nut ad cognata desideria sua tendunt.</i> Interim veteri proverbio jactatur, <i>Corvum\ncorvi oculum non eruere. Gregor. Turonensis de Chilpericho</i>, rege, (<i>Historiae</i>\nlib. 5. cap. 18.), <i>Visoque me, rex ait, o episcope, justitiam cunctis largiri debes:\net, ecce! ego justitiam a te non accipio. Sed, ut video, consentis iniquitati, et in\nte impletur proverbium illud, quod „Corvus oculum corvi non eruit“.</i> Quo pro-\nverbio innuebat, <i>Gregorium</i> episcopum in alterum episcopum, laesae majestatis\nreum, noluisse quidquam pronuntiare.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Corvus adveniens, et clam advolans, pejerantis oculum percutiens effodiat.</i> Item,\nΟἱ δ' αὖ κόρακες τῶν ζευγαρίων, οἷσι τὴν γῆν καταρῶσι,\nΚαὶ τῶν προβάτων τοὺς ὀφθαλμοὺς ἐκκοψάντων·\n<i>Rursus corvi boum jugalium, quibus terram arant et ovium oculos ejiciant.</i> Et\n<i>Gregorius Nyssenus</i> Homilia 13. corvum vocat σαρκοβόρον τῶν ὀφθαλμῶν\nἀφανιστικὸν, <i>carnivorum oculorum corruptorem. Et Alkazuinius in capite</i> غراب\n<i>gorab, seu de Corvo</i>, يجتمع علي كل الحيوانات الكبار\nالبادية كالجمل والفرس وكذا الادمي ويقصد\nقلع عينها ولا يمتنع بالدفع والضرب لشدة جوعه\n<i>Versatur super omnia magna animalia, quae sunt in agris, ut super camelos et\nequos, adeoque super homines, et eorum oculos conatur evellere: nec propellendo,\naut verberando prohibetur propter vim famis.</i> Quanquam id corvo non sit pecu-\nliare, si vere scribit <i>Cardanus</i> lib. 7. capite 35. <i>De rerum varietate: Nullum ge- ⟦p. 202.⟧\nnus avium magnarum, seu gallinae, seu pavones, aut corvi sint, vel grues, aut\nciconiae, ita mansuescit, ut, si propius sint, non conentur tibi oculos eruere.</i> De\nstruthionibus idem audivi ab iis, qui illas circumducunt. Et hanc causam affert\n<i>Plinius</i> lib. 11. cap. 37. <i>Adeoque oculis absoluta vis speculi, ut tam parva illa pu-\npilla totam imaginem reddat hominis. Ea causa est, ut pleraeque alitum e mani-\nbus hominum oculos potissimum appetant, quod, effigiem suam in iis cernentes, vel-\nut ad cognata desideria sua tendunt.</i> Interim veteri proverbio jactatur, <i>Corvum\ncorvi oculum non eruere. Gregor. Turonensis de Chilpericho</i>, rege, (<i>Historiae</i>\nlib. 5. cap. 18.), <i>Visoque me, rex ait, o episcope, justitiam cunctis largiri debes:\net, ecce! ego justitiam a te non accipio. Sed, ut video, consentis iniquitati, et in\nte impletur proverbium illud, quod „Corvus oculum corvi non eruit“.</i> Quo pro-\nverbio innuebat, <i>Gregorium</i> episcopum in alterum episcopum, laesae majestatis\nreum, noluisse quidquam pronuntiare."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ex iis, quae dicta sunt, aperte constat, τὸ σκορακίζειν, seu <i>ad corvos\nmittere, aut abjicere</i>, non solum id esse, quod supra definiebat <i>Hesychius</i>, seces-\nfum, aut relegationem in solitudinem alicui imprecari, sed et ad necem eum de-\nvovere, et ultima quaeque illi exoptare. Tamen apud sacros scriptores σκορα-\nκίζειν et ἀποσκορακίζειν solum est <i>relinquere, repellere, increpare</i>. Et σκορα-\nκισμὸς, vel ἀποσκορακισμὸς, <i>repulsio et increpatio</i>. Sic <i>Eccles.</i> XLI, 19. (Αἰ-\nσχύνεσθε) ἀπὸ σκορακισμοῦ λήψεως, καὶ δόσεως· <i>Vos pudeat ob repulsionem dati</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ex iis, quae dicta sunt, aperte constat, τὸ σκορακίζειν, seu <i>ad corvos\nmittere, aut abjicere</i>, non solum id esse, quod supra definiebat <i>Hesychius</i>, seces-\nfum, aut relegationem in solitudinem alicui imprecari, sed et ad necem eum de-\nvovere, et ultima quaeque illi exoptare. Tamen apud sacros scriptores σκορα-\nκίζειν et ἀποσκορακίζειν solum est <i>relinquere, repellere, increpare</i>. Et σκορα-\nκισμὸς, vel ἀποσκορακισμὸς, <i>repulsio et increpatio</i>. Sic <i>Eccles.</i> XLI, 19. (Αἰ-\nσχύνεσθε) ἀπὸ σκορακισμοῦ λήψεως, καὶ δόσεως· <i>Vos pudeat ob repulsionem dati</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1651,
+    1453
+   ],
+   [
+    1651,
+    1371
+   ]
+  ],
+  "input_tokens": 3399,
+  "output_tokens": 1124,
+  "cost_usd": 0.0068,
+  "seconds": 11.3
+ }
+}

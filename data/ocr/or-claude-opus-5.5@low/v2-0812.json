@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "812 <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> P.II. L.II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "812 <i>Probatur,</i> בת יענה <i>esse Struthionem foeminam.</i> P.II. L.II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>aut noctuas; utraeque enim sunt luctuosae.</i> Et nescio, quo fato factum, ut,\nquamvis ἀλκυὼν et ἀηδὼν sint voces, scriptura dissimiles satis, tamen a librariis\nnon raro confundantur. Sic in <i>Aristotele, Historiae animalium</i> libri octavi ca-\npite secundo, ubi recentiores editiones recte habent, Τὸ τῶν ἀλκυόνων δὲ γένος\nπάρυδρόν ἐστι· <i>Alcyonum autem genus ad aquas degit:</i> pro τῶν ἀλκυόνων, perpe-\nram legebatur in veteribus editionibus τῶν ἀηδόνων. Et cum apud <i>Suidam,</i> in\nἩμερινὰ ζῶα, marinis avibus adscribuntur ἀλκυὼν, ἀηδὼν, κήυκες, <i>alcyon,\nluscinia, ceyces,</i> vox ἀηδὼν nihil quidquam est, quam diversa lectio vocis ἀλ-\nκυὼν, quae ad marginem primo notata est, deinde in textum intrusa. His ob-\nservatis, <i>Cyrilli</i> verba plana erunt et perspicua: quia <i>Sirenes</i> apud <i>poetas</i> figuram ⟦p. 219⟧\navium ex parte habent, et stationem ad maris littus, et miram cantus suavitatem,\nvult Scripturae interpretes <i>Sirenum</i> nomine <i>alcyones</i> intelligere, littoreas aves,\nvalde canoras. Proinde <i>Chaeremon</i> in <i>Luciani Alcyone</i> de ejus voce, Ὡς ἡδεῖα\nταῖς ἀκοαῖς! <i>Quam jucunda est auditu!</i> Et in <i>Imaginibus</i> idem <i>Lucianus</i> quan-\ndam, ait, tam suaviter ad cytharam canere, ut, illa aliquid canente, sit ὥρα\nσιωπᾶν ταῦτα ἀλκυόσι, καὶ τέττιξι, καὶ τοῖς κύκνοις, <i>tempus illa tacendi al-\ncyonibus, et cicadis, et cygnis.</i> <i>Plutarchus</i> item in libro <i>Utra anim.</i> Ποίας γὰρ\nἀηδόνας (παραβάλλειν) ἄξιον τῷ φιλομέσῳ τῆς ἀλκυόνος; <i>Quaenam enim lu-\nsciniae cum alcyone cantus ratione conferri queant?</i> Et <i>Oppianus</i> nullam avem sua-\nvius canere asserit. Sic <i>Anthologiae</i> libri tertii capite vigesimo quarto, <i>Tymnae-\nus,</i> ut avem a cantus gratia maxime laudet, dicit, eam alcyonum cantum ex-\naequare:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>aut noctuas; utraeque enim sunt luctuosae.</i> Et nescio, quo fato factum, ut,\nquamvis ἀλκυὼν et ἀηδὼν sint voces, scriptura dissimiles satis, tamen a librariis\nnon raro confundantur. Sic in <i>Aristotele, Historiae animalium</i> libri octavi ca-\npite secundo, ubi recentiores editiones recte habent, Τὸ τῶν ἀλκυόνων δὲ γένος\nπάρυδρόν ἐστι· <i>Alcyonum autem genus ad aquas degit:</i> pro τῶν ἀλκυόνων, perpe-\nram legebatur in veteribus editionibus τῶν ἀηδόνων. Et cum apud <i>Suidam,</i> in\nἩμερινὰ ζῶα, marinis avibus adscribuntur ἀλκυὼν, ἀηδὼν, κήυκες, <i>alcyon,\nluscinia, ceyces,</i> vox ἀηδὼν nihil quidquam est, quam diversa lectio vocis ἀλ-\nκυὼν, quae ad marginem primo notata est, deinde in textum intrusa. His ob-\nservatis, <i>Cyrilli</i> verba plana erunt et perspicua: quia <i>Sirenes</i> apud <i>poetas</i> figuram ⟦p. 219⟧\navium ex parte habent, et stationem ad maris littus, et miram cantus suavitatem,\nvult Scripturae interpretes <i>Sirenum</i> nomine <i>alcyones</i> intelligere, littoreas aves,\nvalde canoras. Proinde <i>Chaeremon</i> in <i>Luciani Alcyone</i> de ejus voce, Ὡς ἡδεῖα\nταῖς ἀκοαῖς! <i>Quam jucunda est auditu!</i> Et in <i>Imaginibus</i> idem <i>Lucianus</i> quan-\ndam, ait, tam suaviter ad cytharam canere, ut, illa aliquid canente, sit ὥρα\nσιωπᾶν ταῦτα ἀλκυόσι, καὶ τέττιξι, καὶ τοῖς κύκνοις, <i>tempus illa tacendi al-\ncyonibus, et cicadis, et cygnis.</i> <i>Plutarchus</i> item in libro <i>Utra anim.</i> Ποίας γὰρ\nἀηδόνας (παραβάλλειν) ἄξιον τῷ φιλομέσῳ τῆς ἀλκυόνος; <i>Quaenam enim lu-\nsciniae cum alcyone cantus ratione conferri queant?</i> Et <i>Oppianus</i> nullam avem sua-\nvius canere asserit. Sic <i>Anthologiae</i> libri tertii capite vigesimo quarto, <i>Tymnae-\nus,</i> ut avem a cantus gratia maxime laudet, dicit, eam alcyonum cantum ex-\naequare:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὄρνεον ὦ χάρισιν μεμελημένον, ὦ παρόμοιον\nἈλκυόσιν τὸν σὸν φθόγγον ἰσωσάμενον.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὄρνεον ὦ χάρισιν μεμελημένον, ὦ παρόμοιον\nἈλκυόσιν τὸν σὸν φθόγγον ἰσωσάμενον."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Addit <i>Cyrillus,</i> alcyones in maris finibus ovis incubare, et propter nidum, a flu-\nctibus abreptum, lugubre melos fundere: ut <i>Valerius Flaccus</i> libro quarto <i>Ar-\ngonauticῶν,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Addit <i>Cyrillus,</i> alcyones in maris finibus ovis incubare, et propter nidum, a flu-\nctibus abreptum, lugubre melos fundere: ut <i>Valerius Flaccus</i> libro quarto <i>Ar-\ngonauticῶν,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Fluctus ab undisoni ceu forte crepidine saxi\nCum rapit alcyonis miserae foetumque, laremque,\nIt super aegra parens, quaeriturque tumentibus undis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Fluctus ab undisoni ceu forte crepidine saxi\nCum rapit alcyonis miserae foetumque, laremque,\nIt super aegra parens, quaeriturque tumentibus undis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ita enim <i>Scholiastae</i> veteres, ut <i>Homeri</i> ad <i>Iliada</i> nonum, Παρὰ δὲ τοῖς αἰγια-\nλοῖς τῆς ἀλκυόνος τικτούσης, συμβαίνει ἐπελθόντα τὰ κύματα, τὰ ἔκγονα\nαὐτῆς κατασύρειν. Ζεὺς δὲ θεασάμενος αὐτὴν κλαίουσαν, etc. <i>Cum ad littora\nparit alcyon, contingit, ut foetus ejus fluctus abripiant. Lugentem vero</i> Iupiter\n<i>videns,</i> etc. Et <i>Aristophanis</i> in <i>Avibus,</i> Ἐθρήνει δὲ τῶν ὠῶν αὐτῆς ἐν τῇ θα-\nλάσσῃ κλωμένων· <i>Lugebat autem propter ova sua, in mari fracta.</i> Et <i>Theo-\ncriti</i> in <i>Idyll.</i> 7. Θρηνητικὸν δὲ τὸ ζῶον, καὶ παρὰ τοῖς αἰγιαλοῖς νεοττεῦον, τὸ\nκῦμα ἀφαιρεῖται τοὺς νεοσσοὺς αὐτοῦ. <i>Luctuosum est animal, quo ad littora ni-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ita enim <i>Scholiastae</i> veteres, ut <i>Homeri</i> ad <i>Iliada</i> nonum, Παρὰ δὲ τοῖς αἰγια-\nλοῖς τῆς ἀλκυόνος τικτούσης, συμβαίνει ἐπελθόντα τὰ κύματα, τὰ ἔκγονα\nαὐτῆς κατασύρειν. Ζεὺς δὲ θεασάμενος αὐτὴν κλαίουσαν, etc. <i>Cum ad littora\nparit alcyon, contingit, ut foetus ejus fluctus abripiant. Lugentem vero</i> Iupiter\n<i>videns,</i> etc. Et <i>Aristophanis</i> in <i>Avibus,</i> Ἐθρήνει δὲ τῶν ὠῶν αὐτῆς ἐν τῇ θα-\nλάσσῃ κλωμένων· <i>Lugebat autem propter ova sua, in mari fracta.</i> Et <i>Theo-\ncriti</i> in <i>Idyll.</i> 7. Θρηνητικὸν δὲ τὸ ζῶον, καὶ παρὰ τοῖς αἰγιαλοῖς νεοττεῦον, τὸ\nκῦμα ἀφαιρεῖται τοὺς νεοσσοὺς αὐτοῦ. <i>Luctuosum est animal, quo ad littora ni-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>dulante,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>dulante,</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1857,
+    1371
+   ],
+   [
+    1857,
+    1425
+   ]
+  ],
+  "input_tokens": 8595,
+  "output_tokens": 2062,
+  "cost_usd": 0,
+  "seconds": 308.9
+ }
+}

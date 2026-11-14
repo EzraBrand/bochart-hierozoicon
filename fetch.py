@@ -55,6 +55,10 @@ SAMPLE = [
     # birds), chs. 1-9 (the eagle, peres, oznija, daa, aja, daja; pp. 739-786); p. 787 (CAP. X, the
     # raven) for the join. Chapter heads: uv run find_chapters.py 737 850.
     *[(2, c, "birds4") for c in range(738, 804)],
+    # Tranche 6 (14-Nov-2026): Pars II, Book II, chs. 10-17 (the raven, chs. 10-13, pp. 787-811; the
+    # ostrich, bath jaana and thachmas and Job 39, chs. 14-17, pp. 811-870). P. 870 is the last page of
+    # vol. 2 (canvas 886; the colophon is at its foot). Chapter heads: uv run find_chapters.py 800 886.
+    *[(2, c, "birds5") for c in range(804, 887)],
 ]
 
 session = requests.Session()

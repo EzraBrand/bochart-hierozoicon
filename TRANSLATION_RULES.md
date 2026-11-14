@@ -113,7 +113,7 @@ a tooltip at the first use in the chapter.
 | Kind | English form | Examples from the pilot |
 |---|---|---|
 | Greek and Latin authors, Church Fathers | the usual English name | Jerome, Pliny, Aelian, Aristotle, Theophrastus, Herodotus, Photius, Hesychius, Nicander, Oppian, Basil, Theodoret, Apollinaris, Augustine, Arnobius, Bede, Eucherius, Strabo, Polybius, Galen |
-| Arabic authors and works | **Bochart's form in the nominative** (as Lewysohn's romanizations are kept), identification as tooltip | Damiri [= al-Damīrī, *Ḥayāt al-ḥayawān*]; Giauhari [= al-Jawharī, *al-Ṣiḥāḥ*]; Abenbitar [= Ibn al-Bayṭār]; **Alcamus [= *al-Qāmūs al-muḥīṭ* of al-Fīrūzābādī: a dictionary, which Bochart cites like an author]**; Geographia Nubiensis [= al-Idrīsī, Latin by Gabriel Sionita, 1619] |
+| Arabic authors and works | **Bochart's form in the nominative** (as Lewysohn's romanizations are kept), identification as tooltip | Damiri [= al-Damīrī, *Ḥayāt al-ḥayawān*]; Giauhari [= al-Jawharī, *al-Ṣiḥāḥ*]; Abenbitar [= Ibn al-Bayṭār]; **Alcamus [= *al-Qāmūs al-muḥīṭ* of al-Fīrūzābādī, a dictionary]**; Geographia Nubiensis [= al-Idrīsī, Latin by Gabriel Sionita, 1619] |
 | Jewish authors and works | Bochart's form, identification as tooltip | R. Gerson, *Porta coeli* [= Gershon ben Solomon of Arles, *Shaʿar ha-shamayim*]; R. Isaac son of Solomon, *Masal Kadmoni* [= Isaac ibn Sahula, *Meshal ha-qadmoni*] |
 | Early-modern scholars and travellers | the usual modern form | Giggei (Giggeius), Golius, Teixeira, Olearius, Gesner, Maundrell, Shaw, Bruce, Hasselquist, Ludolf, Schultens, Michaelis, Simonis, Buffon, Blumenbach, Hassencamp, Oedmann |
 

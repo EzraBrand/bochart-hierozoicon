@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "870 <i>Explicantur Iobi reliqua de Struthione.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "870 <i>Explicantur Iobi reliqua de Struthione.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Αὐτοῖσιν φορέουσιν ἴσον τάχος οἰωνοῖσιν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αὐτοῖσιν φορέουσιν ἴσον τάχος οἰωνοῖσιν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ipsis avibus aequali sunt celeritate.</i> Itaque <i>Arabes</i> multa cuderunt vocabula, qui-\nbus id designarent. Sic de struthione زازا <i>zaza</i> est <i>capite, alis, et cauda elatis</i>\n<i>fluere</i> potius quam <i>incedere:</i> رفرف raphrapha <i>alas motitando currere,</i> ut <i>Tal-</i>\n<i>mudicum</i> רפרף <i>riphreph:</i> كحص chahatsa, <i>ire tam propere, ut visum prope</i>\n<i>fugiat.</i> Atque ob id ipsum struthio عصوف id est, <i>turbo</i> vocatur, et aliis\nnominibus, minimum decem, <i>a cursus rapiditate</i> ductis ^{(6)}. Quin ipsa sese ad cur-\nsum incitat spiculis quibusdam osseis, qui sub alis latent, et pro calcaribus illi\nsunt. De quibus multo plura facile esset adducere: sed haec docere sigillatim\nnon est praesentis locis; et Sacri Scriptoris mentem explicasse nobis sufficit.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ipsis avibus aequali sunt celeritate.</i> Itaque <i>Arabes</i> multa cuderunt vocabula, qui-\nbus id designarent. Sic de struthione زازا <i>zaza</i> est <i>capite, alis, et cauda elatis</i>\n<i>fluere</i> potius quam <i>incedere:</i> رفرف raphrapha <i>alas motitando currere,</i> ut <i>Tal-</i>\n<i>mudicum</i> רפרף <i>riphreph:</i> كحص chahatsa, <i>ire tam propere, ut visum prope</i>\n<i>fugiat.</i> Atque ob id ipsum struthio عصوف id est, <i>turbo</i> vocatur, et aliis\nnominibus, minimum decem, <i>a cursus rapiditate</i> ductis ^{(6)}. Quin ipsa sese ad cur-\nsum incitat spiculis quibusdam osseis, qui sub alis latent, et pro calcaribus illi\nsunt. De quibus multo plura facile esset adducere: sed haec docere sigillatim\nnon est praesentis locis; et Sacri Scriptoris mentem explicasse nobis sufficit."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Loca similia ex Arabum poetis exhibet Schultens p. 1227.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Loca similia ex Arabum poetis exhibet Schultens p. 1227."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "LIPSIAE,\nEX TYPOGRAPHEO BREITKOPFIO.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "LIPSIAE,\nEX TYPOGRAPHEO BREITKOPFIO."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter batch",
+  "model": "anthropic/claude-opus-5.5:batch",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1785,
+    1564
+   ],
+   [
+    1785,
+    1224
+   ]
+  ],
+  "input_tokens": 8295,
+  "output_tokens": 667,
+  "cost_usd": 0,
+  "seconds": 309.1,
+  "vote": "0 decisions from v2-788-870"
+ }
+}

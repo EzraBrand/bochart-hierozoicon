@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "848 <i>Explicatur Iobi de Struthione locus obscuriss.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "848 <i>Explicatur Iobi de Struthione locus obscuriss.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "αἰρθῆναι δὲ, καὶ εἰς βαθὺν ἀέρα μετεωρισθῆναι φύσιν οὐκ ἔχει. θεῖ δὲ ὤκιστα,\nκαὶ τὰς παρὰ τὴν πλευρὰν ἑκατέραν πτέρυγας ἁπλοῖ, καὶ ἐμπῖπτον τὸ πνεῦ-\nμα κολποῖ, δίκην ἱστίων αὐτάς. <i>Densis quidem alis struthio-camelus instructus\nest. Tamen ut iis a terra extollatur, et in sublime feratur, non fert ejus natura.\nSed currit quam citissime, et ab utroque latere alas explicat, quas ventus, velorum\ninstar, implet.</i> Et libri quarti capite trigesimo septimo, Εἰ δὲ αὐτὴν διώκοι τις,\nἥδε οὐκ ἐπιτολμᾷ τῇ πτήσει, θεῖ δὲ τὰς πτέρυγας ἁπλώσασα· <i>Si quis eum in-\nsequatur, volare non aggreditur, sed alis expansis currit.</i> Et libri octavi capite\ndecimo, elephantes in pugna patulas aures expandere idem narrat, δίκην τῶν\nστρουθῶν τῶν μεγάλων, ἅπερἓν τὰς πτέρυγας ἁπλώσασαι, ἢ φεύγουσιν, ἢ\nἐπιάσιν, <i>struthionum in morem, qui, sive fugiant, sive invadant, expansis alis\nferuntur.</i> Phile capite tertio,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "αἰρθῆναι δὲ, καὶ εἰς βαθὺν ἀέρα μετεωρισθῆναι φύσιν οὐκ ἔχει. θεῖ δὲ ὤκιστα,\nκαὶ τὰς παρὰ τὴν πλευρὰν ἑκατέραν πτέρυγας ἁπλοῖ, καὶ ἐμπῖπτον τὸ πνεῦ-\nμα κολποῖ, δίκην ἱστίων αὐτάς. <i>Densis quidem alis struthio-camelus instructus\nest. Tamen ut iis a terra extollatur, et in sublime feratur, non fert ejus natura.\nSed currit quam citissime, et ab utroque latere alas explicat, quas ventus, velorum\ninstar, implet.</i> Et libri quarti capite trigesimo septimo, Εἰ δὲ αὐτὴν διώκοι τις,\nἥδε οὐκ ἐπιτολμᾷ τῇ πτήσει, θεῖ δὲ τὰς πτέρυγας ἁπλώσασα· <i>Si quis eum in-\nsequatur, volare non aggreditur, sed alis expansis currit.</i> Et libri octavi capite\ndecimo, elephantes in pugna patulas aures expandere idem narrat, δίκην τῶν\nστρουθῶν τῶν μεγάλων, ἅπερἓν τὰς πτέρυγας ἁπλώσασαι, ἢ φεύγουσιν, ἢ\nἐπιάσιν, <i>struthionum in morem, qui, sive fugiant, sive invadant, expansis alis\nferuntur.</i> Phile capite tertio,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Κολπῶν ἑαυτῆς τὰ πτερὰ πρὸς τὸν δρόμον,\nὩς λαῖφος οἰδῶν ἐκ πνοῆς πλησιστίου·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Κολπῶν ἑαυτῆς τὰ πτερὰ πρὸς τὸν δρόμον,\nὩς λαῖφος οἰδῶν ἐκ πνοῆς πλησιστίου·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Alas ad cursum explicans, ut velum, turgens vento, quo impletur.</i> Hinc Plinius\nlibri decimi capite vigesimo (<i>Equitis</i>) <i>celeritatem vincunt, ad hoc demum datis pen-\nnis, ut currentem adjuvent.</i> Et Claudianus in <i>Eutropium</i> libro secundo,\n<i>Vasta velut Libyae venantur vocibus ales\nCum premitur, calidas cursu transmittit arenas,\nInque modum veli sinuatis flamine pennis\nPulverulenta volat.</i> —\n<i>Currere</i> et <i>volare</i> dicit; quia struthionis gressus in fuga medium quid est inter\ncursum et volatum, aut ex utroque mixtum. Quo pertinent haec <i>Plauti</i> in <i>Per-\nsa</i> Actus secundi Scena secunda,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Alas ad cursum explicans, ut velum, turgens vento, quo impletur.</i> Hinc Plinius\nlibri decimi capite vigesimo (<i>Equitis</i>) <i>celeritatem vincunt, ad hoc demum datis pen-\nnis, ut currentem adjuvent.</i> Et Claudianus in <i>Eutropium</i> libro secundo,\n<i>Vasta velut Libyae venantur vocibus ales\nCum premitur, calidas cursu transmittit arenas,\nInque modum veli sinuatis flamine pennis\nPulverulenta volat.</i> —\n<i>Currere</i> et <i>volare</i> dicit; quia struthionis gressus in fuga medium quid est inter\ncursum et volatum, aut ex utroque mixtum. Quo pertinent haec <i>Plauti</i> in <i>Per-\nsa</i> Actus secundi Scena secunda,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Vola curriculo. P. Isthuc marinus passer per circum solet.</i> ⟦p. 246.⟧\n<i>Marinus passer</i>, id est, <i>struthio</i>. Neque aliter recentiores struthionis cursum\nnobis describunt. <i>Leo Africanus</i> libro nono, <i>In alis pennas habet grandes et\nnigri coloris, quibus, volatu inutilis, ad cursum crebra alarum et caudae agitatio-\nne juvetur.</i> Quod idem in <i>Marmolio</i> legas <i>Africae</i> libri primi capite vigesimo\ntertio. Ita ex <i>Arabibus</i> Alkazuinius, اذا عدت النعامة ارخت\nجناحيها الي رجليها فلا يسبقها شي من الحيوانات\n<i>Cum currit struthio, alas suas usque ad pedes demittit, neque ullum animal eum\nassequitur.</i> Sed ibidem traditur res falsissima: اذا استقبلت الريح\nكان اشد ما اذا استدبرتها <i>Cum ventum habet oppositum, vehe-\nmentius currit, quam cum habet secundum.</i> Quod et naturae repugnat, et vete-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vola curriculo. P. Isthuc marinus passer per circum solet.</i> ⟦p. 246.⟧\n<i>Marinus passer</i>, id est, <i>struthio</i>. Neque aliter recentiores struthionis cursum\nnobis describunt. <i>Leo Africanus</i> libro nono, <i>In alis pennas habet grandes et\nnigri coloris, quibus, volatu inutilis, ad cursum crebra alarum et caudae agitatio-\nne juvetur.</i> Quod idem in <i>Marmolio</i> legas <i>Africae</i> libri primi capite vigesimo\ntertio. Ita ex <i>Arabibus</i> Alkazuinius, اذا عدت النعامة ارخت\nجناحيها الي رجليها فلا يسبقها شي من الحيوانات\n<i>Cum currit struthio, alas suas usque ad pedes demittit, neque ullum animal eum\nassequitur.</i> Sed ibidem traditur res falsissima: اذا استقبلت الريح\nكان اشد ما اذا استدبرتها <i>Cum ventum habet oppositum, vehe-\nmentius currit, quam cum habet secundum.</i> Quod et naturae repugnat, et vete-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "rum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "rum"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1621,
+    1565
+   ],
+   [
+    1621,
+    1223
+   ]
+  ],
+  "input_tokens": 3424,
+  "output_tokens": 1110,
+  "cost_usd": 0.0067,
+  "seconds": 9.8
+ }
+}
