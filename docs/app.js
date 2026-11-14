@@ -97,7 +97,7 @@
   var doc=document.querySelector('main.doc');
   if(doc){
     var ask=document.createElement('div'); ask.className='askbar'; ask.hidden=true; document.body.appendChild(ask);
-    var chapter=document.title.split(' · ')[0];
+    var chapter=document.title.split(' · ')[0], askWin=null;
     function links(t){
       var e=encodeURIComponent, one=t.split(' ').length===1, out=[];
       out.push(['Ask Google AI','https://www.google.com/search?udm=50&q='+e('In Samuel Bochart, Hierozoicon (1663), '+chapter+', explain: "'+t+'"')]);
@@ -113,11 +113,14 @@
       if(!document.body.classList.contains('show-ask')||!t||t.length>400||s.rangeCount===0||!doc.contains(s.anchorNode)){ask.hidden=true;return;}
       var r=s.getRangeAt(0).getBoundingClientRect();
       ask.innerHTML='';
-      links(t).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='bh-ask';a.rel='noopener';
+      links(t).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='_blank';a.rel='noopener';
         a.addEventListener('click',function(ev){
           if(window.innerWidth>=900){ev.preventDefault();
             var w=Math.min(560,Math.round(screen.availWidth*0.36));
-            window.open(l[1],'bh-ask','popup=yes,width='+w+',height='+screen.availHeight+',left='+(screen.availWidth-w)+',top=0');}});
+            // a new window for each look-up: Google cuts the link to a window it has loaded, and a second
+            // look-up sent to the same window name then stayed on the first answer (14-Nov-2026)
+            try{if(askWin&&!askWin.closed) askWin.close();}catch(e){}
+            askWin=window.open(l[1],'bh-ask-'+Date.now(),'popup=yes,width='+w+',height='+screen.availHeight+',left='+(screen.availWidth-w)+',top=0');}});
         ask.appendChild(a);});
       ask.hidden=false;
       ask.style.left=Math.max(8,Math.min(r.left+window.scrollX,window.scrollX+window.innerWidth-ask.offsetWidth-8))+'px';
