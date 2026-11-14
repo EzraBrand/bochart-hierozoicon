@@ -92,4 +92,39 @@
   tip.addEventListener('mouseleave',later);
   document.addEventListener('click',function(ev){if(!tip.hidden&&!tip.contains(ev.target)&&!ev.target.closest('a.fn')) hide();});
   document.addEventListener('keydown',function(ev){if(ev.key==='Escape') hide();});
+  // look-up on selection (14-Nov-2026): select text in a chapter to ask Google's AI mode about it, or to
+  // look a Hebrew, Greek, Arabic or Latin word up, in a narrow window beside the page
+  var doc=document.querySelector('main.doc');
+  if(doc){
+    var ask=document.createElement('div'); ask.className='askbar'; ask.hidden=true; document.body.appendChild(ask);
+    var chapter=document.title.split(' · ')[0];
+    function links(t){
+      var e=encodeURIComponent, one=t.split(' ').length===1, out=[];
+      out.push(['Ask Google AI','https://www.google.com/search?udm=50&q='+e('In Samuel Bochart, Hierozoicon (1663), '+chapter+', explain: "'+t+'"')]);
+      out.push(['Google','https://www.google.com/search?q='+e(t)]);
+      if(/[֐-׿]/.test(t)) out.push(['Sefaria','https://www.sefaria.org/search?q='+e(t)]);
+      if(/[Ͱ-Ͽἀ-῿]/.test(t)&&one) out.push(['Logeion (Greek)','https://logeion.uchicago.edu/'+e(t.replace(/[.,;:·]+$/,''))]);
+      if(/[؀-ۿ]/.test(t)) out.push(['Wiktionary (Arabic)','https://en.wiktionary.org/wiki/Special:Search?search='+e(t)]);
+      if(/^[A-Za-z]+$/.test(t)) out.push(['Logeion (Latin)','https://logeion.uchicago.edu/'+e(t.toLowerCase())]);
+      return out;
+    }
+    function place(){
+      var s=window.getSelection(), t=s?String(s).replace(/\s+/g,' ').trim():'';
+      if(!document.body.classList.contains('show-ask')||!t||t.length>400||s.rangeCount===0||!doc.contains(s.anchorNode)){ask.hidden=true;return;}
+      var r=s.getRangeAt(0).getBoundingClientRect();
+      ask.innerHTML='';
+      links(t).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='bh-ask';a.rel='noopener';
+        a.addEventListener('click',function(ev){
+          if(window.innerWidth>=900){ev.preventDefault();
+            var w=Math.min(560,Math.round(screen.availWidth*0.36));
+            window.open(l[1],'bh-ask','popup=yes,width='+w+',height='+screen.availHeight+',left='+(screen.availWidth-w)+',top=0');}});
+        ask.appendChild(a);});
+      ask.hidden=false;
+      ask.style.left=Math.max(8,Math.min(r.left+window.scrollX,window.scrollX+window.innerWidth-ask.offsetWidth-8))+'px';
+      ask.style.top=(r.bottom+window.scrollY+10)+'px';
+    }
+    var askT=null;
+    document.addEventListener('selectionchange',function(){clearTimeout(askT);askT=setTimeout(place,350);});
+    ask.addEventListener('mousedown',function(ev){ev.preventDefault();});
+  }
 })();

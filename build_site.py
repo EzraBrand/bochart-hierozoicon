@@ -173,6 +173,30 @@ DOCS = [
     {"slug": "dajah", "kind": "entry", "entry": "dajah", "vol": 2, "pages": list(range(782, 787)),
      "title": "Part 2, Book 2, chapter 9: Daja is the black vulture",
      "sub": "Vol. 2, pp. 782–786 · cols. 195–197 of 1663 (Part 2) · דיה daja (Deut 14:13, Isa 34:15) is the black vulture"},
+    {"slug": "corvus", "kind": "entry", "entry": "corvus", "vol": 2, "pages": list(range(787, 795)),
+     "title": "Part 2, Book 2, chapter 10: The raven",
+     "sub": "Vol. 2, pp. 787–794 · cols. 197–203 of 1663 (Part 2) · ערב oreb, the raven: its names, voice, colour, haunts, food and kinds"},
+    {"slug": "corvus-providentia", "kind": "entry", "entry": "corvus-providentia", "vol": 2, "pages": list(range(794, 801)),
+     "title": "Part 2, Book 2, chapter 11: The providence of God for ravens",
+     "sub": "Vol. 2, pp. 794–800 · cols. 203–209 of 1663 (Part 2) · God feeds the young ravens (Job 38:41, Ps 147:9, Luke 12:24)"},
+    {"slug": "corvus-noachi", "kind": "entry", "entry": "corvus-noachi", "vol": 2, "pages": list(range(800, 807)),
+     "title": "Part 2, Book 2, chapter 12: Noah's raven",
+     "sub": "Vol. 2, pp. 800–806 · cols. 209–214 of 1663 (Part 2) · the raven that Noah sent out of the ark (Gen 8:7)"},
+    {"slug": "corvus-eliae", "kind": "entry", "entry": "corvus-eliae", "vol": 2, "pages": list(range(806, 812)),
+     "title": "Part 2, Book 2, chapter 13: The ravens of Elijah",
+     "sub": "Vol. 2, pp. 806–811 · cols. 214–217 of 1663 (Part 2) · the ערבים orebim that fed Elijah at the brook Cherith (1 Kgs 17) are ravens, not merchants or Arabs"},
+    {"slug": "bath-jaana", "kind": "entry", "entry": "bath-jaana", "vol": 2, "pages": list(range(811, 831)),
+     "title": "Part 2, Book 2, chapter 14: Bath jaana is the female ostrich",
+     "sub": "Vol. 2, pp. 811–830 · cols. 217–231 of 1663 (Part 2) · בת יענה bath jaana (Lev 11:16) is not the owl but the female ostrich"},
+    {"slug": "thachmas", "kind": "entry", "entry": "thachmas", "vol": 2, "pages": list(range(830, 839)),
+     "title": "Part 2, Book 2, chapter 15: Thachmas is the male ostrich",
+     "sub": "Vol. 2, pp. 830–838 · cols. 231–238 of 1663 (Part 2) · תחמס thachmas (Lev 11:16) is not a bird of prey but the male ostrich"},
+    {"slug": "struthio-iob", "kind": "entry", "entry": "struthio-iob", "vol": 2, "pages": list(range(838, 855)),
+     "title": "Part 2, Book 2, chapter 16: The ostrich in Job 39:13",
+     "sub": "Vol. 2, pp. 838–854 · cols. 238–249 of 1663 (Part 2) · the most obscure verse on the ostrich, Job 39:13: the versions and Bochart's interpretation"},
+    {"slug": "struthio-iob-reliqua", "kind": "entry", "entry": "struthio-iob-reliqua", "vol": 2, "pages": list(range(854, 871)),
+     "title": "Part 2, Book 2, chapter 17: The rest of Job on the ostrich",
+     "sub": "Vol. 2, pp. 854–870 · cols. 249–262 of 1663 (Part 2) · Job 39:14-18: the eggs left on the ground, the hardness to the young, the speed that laughs at the horse. End of vol. 2"},
 ]
 CONTENTS = []
 
@@ -368,6 +392,7 @@ TOGGLES = """<div class="toggles" role="group" aria-label="Display">
 <label><input type="checkbox" data-toggle="show-de" checked> Latin</label>
 <label><input type="checkbox" data-toggle="show-exp" checked> Identifications inline</label>
 <label><input type="checkbox" data-toggle="show-tr" checked> Transliterations inline</label>
+<label title="Select text to ask Google's AI about it, or to look a word up"><input type="checkbox" data-toggle="show-ask" checked> Look-up on selection</label>
 </div>"""
 
 
@@ -871,6 +896,10 @@ h2.grp{font-size:1.25rem;margin:2rem 0 0;padding-bottom:.3rem;border-bottom:2px 
 h2.grp span{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.5rem}
 .chn{color:var(--muted);font-weight:400;font-size:.9em;margin-right:.3rem}
 p.jump{font-size:.95rem}
+.askbar{position:absolute;z-index:8;display:flex;flex-wrap:wrap;gap:.3rem;max-width:calc(100vw - 16px);background:var(--bg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.3rem}
+.askbar[hidden]{display:none}
+.askbar a{font:600 .82rem system-ui,sans-serif;text-decoration:none;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.25rem .55rem;white-space:nowrap}
+.askbar a:first-child{background:var(--accent);color:var(--bg);border-color:var(--accent)}
 table.pass td:first-child{width:9rem}
 table.pass td a{white-space:nowrap}
 #hits{padding:0}
@@ -1050,6 +1079,41 @@ JS = """(function(){
   tip.addEventListener('mouseleave',later);
   document.addEventListener('click',function(ev){if(!tip.hidden&&!tip.contains(ev.target)&&!ev.target.closest('a.fn')) hide();});
   document.addEventListener('keydown',function(ev){if(ev.key==='Escape') hide();});
+  // look-up on selection (14-Nov-2026): select text in a chapter to ask Google's AI mode about it, or to
+  // look a Hebrew, Greek, Arabic or Latin word up, in a narrow window beside the page
+  var doc=document.querySelector('main.doc');
+  if(doc){
+    var ask=document.createElement('div'); ask.className='askbar'; ask.hidden=true; document.body.appendChild(ask);
+    var chapter=document.title.split(' · ')[0];
+    function links(t){
+      var e=encodeURIComponent, one=t.split(' ').length===1, out=[];
+      out.push(['Ask Google AI','https://www.google.com/search?udm=50&q='+e('In Samuel Bochart, Hierozoicon (1663), '+chapter+', explain: "'+t+'"')]);
+      out.push(['Google','https://www.google.com/search?q='+e(t)]);
+      if(/[֐-׿]/.test(t)) out.push(['Sefaria','https://www.sefaria.org/search?q='+e(t)]);
+      if(/[Ͱ-Ͽἀ-῿]/.test(t)&&one) out.push(['Logeion (Greek)','https://logeion.uchicago.edu/'+e(t.replace(/[.,;:·]+$/,''))]);
+      if(/[؀-ۿ]/.test(t)) out.push(['Wiktionary (Arabic)','https://en.wiktionary.org/wiki/Special:Search?search='+e(t)]);
+      if(/^[A-Za-z]+$/.test(t)) out.push(['Logeion (Latin)','https://logeion.uchicago.edu/'+e(t.toLowerCase())]);
+      return out;
+    }
+    function place(){
+      var s=window.getSelection(), t=s?String(s).replace(/\\s+/g,' ').trim():'';
+      if(!document.body.classList.contains('show-ask')||!t||t.length>400||s.rangeCount===0||!doc.contains(s.anchorNode)){ask.hidden=true;return;}
+      var r=s.getRangeAt(0).getBoundingClientRect();
+      ask.innerHTML='';
+      links(t).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='bh-ask';a.rel='noopener';
+        a.addEventListener('click',function(ev){
+          if(window.innerWidth>=900){ev.preventDefault();
+            var w=Math.min(560,Math.round(screen.availWidth*0.36));
+            window.open(l[1],'bh-ask','popup=yes,width='+w+',height='+screen.availHeight+',left='+(screen.availWidth-w)+',top=0');}});
+        ask.appendChild(a);});
+      ask.hidden=false;
+      ask.style.left=Math.max(8,Math.min(r.left+window.scrollX,window.scrollX+window.innerWidth-ask.offsetWidth-8))+'px';
+      ask.style.top=(r.bottom+window.scrollY+10)+'px';
+    }
+    var askT=null;
+    document.addEventListener('selectionchange',function(){clearTimeout(askT);askT=setTimeout(place,350);});
+    ask.addEventListener('mousedown',function(ev){ev.preventDefault();});
+  }
 })();
 """
 

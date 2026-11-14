@@ -25,6 +25,10 @@ h2.grp{font-size:1.25rem;margin:2rem 0 0;padding-bottom:.3rem;border-bottom:2px 
 h2.grp span{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.5rem}
 .chn{color:var(--muted);font-weight:400;font-size:.9em;margin-right:.3rem}
 p.jump{font-size:.95rem}
+.askbar{position:absolute;z-index:8;display:flex;flex-wrap:wrap;gap:.3rem;max-width:calc(100vw - 16px);background:var(--bg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.3rem}
+.askbar[hidden]{display:none}
+.askbar a{font:600 .82rem system-ui,sans-serif;text-decoration:none;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.25rem .55rem;white-space:nowrap}
+.askbar a:first-child{background:var(--accent);color:var(--bg);border-color:var(--accent)}
 table.pass td:first-child{width:9rem}
 table.pass td a{white-space:nowrap}
 #hits{padding:0}
