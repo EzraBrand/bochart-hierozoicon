@@ -21,6 +21,19 @@ ul.docs{list-style:none;padding:0}
 ul.docs li{padding:.7rem 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column}
 ul.docs li span{color:var(--muted);font-size:.95rem}
 ul.plain li{margin:.3rem 0}
+h2.grp{font-size:1.25rem;margin:2rem 0 0;padding-bottom:.3rem;border-bottom:2px solid var(--accent);scroll-margin-top:1rem}
+h2.grp span{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.5rem}
+.chn{color:var(--muted);font-weight:400;font-size:.9em;margin-right:.3rem}
+p.jump{font-size:.95rem}
+table.pass td:first-child{width:9rem}
+table.pass td a{white-space:nowrap}
+#hits{padding:0}
+#hits li{padding:.6rem 0;border-bottom:1px solid var(--line);list-style:none}
+#hits mark{background:var(--mark);color:var(--fg)}
+#hits .w{color:var(--muted);font-size:.85rem;display:block}
+input#q{width:100%;padding:.5rem .7rem;font:inherit;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.flagbar{position:sticky;top:0;background:var(--bg);padding:.4rem 0;z-index:3;font-size:.92rem}
+.flagbar button{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.15rem .6rem;cursor:pointer}
 details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
 details.about p{margin:.5rem 0 0;font-size:.95rem}
 details.toc{border:2px solid var(--accent);background:var(--panel);padding:.7rem 1rem;border-radius:8px;margin:1rem 0}
@@ -92,6 +105,6 @@ table.abbr{width:100%;border-collapse:collapse;font-size:.92rem}
 table.abbr th,table.abbr td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}
 table.abbr td:first-child{white-space:nowrap;font-weight:600}
 table.conc{table-layout:fixed}table.conc td:first-child{white-space:normal;overflow-wrap:anywhere}
-table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:50%}table.conc th:nth-child(3){width:13%}
+table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:47%}table.conc th:nth-child(3){width:13%}table.conc th:nth-child(5){width:5%}
 footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
 @media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}

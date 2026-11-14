@@ -273,13 +273,15 @@ def inline(text: str, page: int, ctx: dict) -> str:
             cur = page_key(vol, m.group(2))
             canvas = ctx["ids"].get(cur)
             href = f"{MDZ_VIEW}/{VOL_IDS[vol]}?page={canvas}" if canvas else "#"
-            out.append(f'<a class="pg" href="{href}" target="_blank" rel="noopener" '
+            aid = f' id="pg{int(m.group(2))}"' if ctx.get("anchors") else ""
+            out.append(f'<a class="pg"{aid} href="{href}" target="_blank" rel="noopener" '
                        f'title="Scan of this page (Rosenmüller, vol. {vol})">{page_label(cur)}</a>')
             continue
         c = COL_MARK.fullmatch(part)
         if c:
             col = int(c.group(1))
-            out.append(f'<a class="col" href="{MDZ_VIEW}/{F1675}?page={col_canvas(col)}" target="_blank" '
+            aid = f' id="col{col}"' if ctx.get("anchors") else ""
+            out.append(f'<a class="col"{aid} href="{MDZ_VIEW}/{F1675}?page={col_canvas(col)}" target="_blank" '
                        f'rel="noopener" title="Column {col} of the 1663 edition: scan of the Frankfurt 1675 '
                        f'edition (same column numbers)">col.&nbsp;{col}</a>')
             continue
@@ -319,6 +321,10 @@ FONTS = ("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,
          "&family=Noto+Sans+Ethiopic&family=Noto+Sans+Samaritan&display=swap")
 
 
+DESC = ("Samuel Bochart, Hierozoicon (1663), the classic study of the animals of the Bible: Latin text and "
+        "English translation side by side, with links to the scans")
+
+
 def page_html(title: str, body: str, desc: str = "") -> str:
     return f"""<!doctype html>
 <html lang="en">
@@ -326,7 +332,12 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
-<meta name="description" content="{html.escape(desc, quote=True)}">
+<meta name="description" content="{html.escape(desc or DESC, quote=True)}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Bochart, Hierozoicon: reading edition">
+<meta property="og:title" content="{html.escape(title, quote=True)}">
+<meta property="og:description" content="{html.escape(desc or DESC, quote=True)}">
+<meta name="twitter:card" content="summary">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
@@ -342,14 +353,15 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 
 
 def header(active: str) -> str:
-    links = [("index.html", "Chapters"), ("abbreviations.html", "Abbreviations"), ("names.html", "Names"), ("hebrew.html", "Hebrew"),
+    links = [("index.html", "Chapters"), ("passages.html", "Passages"), ("search.html", "Search"),
+             ("abbreviations.html", "Abbreviations"), ("names.html", "Names"), ("hebrew.html", "Hebrew"),
              (FACTCHECK, "Fact-check"), (REPO, "Code and data")]
     nav = " ".join(f'<a href="{h}"{" aria-current=page" if h == active else ""}>{t}</a>' for h, t in links)
     nav += ('<label class="theme">Theme <select id="theme" aria-label="Colour theme">'
             '<option value="">Auto</option><option value="light">Light</option><option value="paper">Paper</option>'
             '<option value="dark">Dark</option></select></label>')
     return (f'<header class="site"><a class="brand" href="index.html">Bochart, <i>Hierozoicon</i> '
-            f'<span>· reading edition (pilot)</span></a><nav>{nav}</nav></header>')
+            f'<span>· reading edition</span></a><nav>{nav}</nav></header>')
 
 
 TOGGLES = """<div class="toggles" role="group" aria-label="Display">
@@ -462,15 +474,18 @@ def doc_html(doc: dict) -> str:
     rows = []
     pages = [page_key(vol, p) for p in doc["pages"]]
     cur = {"de": pages[0], "en": pages[0]}
-    for la, en in zip(d["de"], d["en"]):
+    for k, (la, en) in enumerate(zip(d["de"], d["en"])):
         cells = []
         for lang, b in (("de", la), ("en", en)):
-            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang}
+            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang, "anchors": lang == "en"}
             text = inline(b["text"], cur[lang], ctx)
+            if lang == "en":  # a fixed link to the paragraph (14-Nov-2026): chapter.html#p12
+                text += (f' <a class="anchor" href="#p{k}" title="Link to this paragraph" '
+                         f'aria-label="Link to this paragraph">¶</a>')
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"la" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
-        rows.append(f'<div class="row">{"".join(cells)}</div>')
+        rows.append(f'<div class="row" id="p{k}">{"".join(cells)}</div>')
     notes = []
     for i, (la, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
         cells = []
@@ -501,7 +516,8 @@ transliteration, at a Syriac word for its Hebrew letters. Dotted names and abbre
 identification, added by a program after translation from tables reviewed by hand
 (<a href="abbreviations.html">abbreviations</a>, <a href="names.html">names</a>). “II, 410”
 links to the scan of that page; “col. 1003” to that column of the 1663 edition, in the Frankfurt
-1675 reprint. R1–R13 are Rosenmüller's notes, a)–c) Bochart's. Machine output: check the scan
+1675 reprint. Fixed links: <code>#p12</code> is a paragraph (the ¶ at its end), <code>#pg787</code> a page of
+this edition, <code>#col198</code> a column of 1663. R1–R13 are Rosenmüller's notes, a)–c) Bochart's. Machine output: check the scan
 before you cite.</p></details>
 {TOGGLES}
 <div class="scans" aria-label="Scans">{thumbs}</div>
@@ -515,10 +531,32 @@ München (MDZ)</a>, rights statement NoC-NC 1.0 · Transcription, translation an
     return page_html(f"{doc['title']} · Bochart, Hierozoicon", body, doc["sub"])
 
 
+# the books of the Hierozoicon that the chapter titles name (Part 1 has no "Part" in the titles)
+BOOK_NAMES = {"Book 3": "Part 1, Book 3: the wild quadrupeds", "Book 4": "Part 1, Book 4: the oviparous quadrupeds",
+              "Part 2, Book 1": "Part 2, Book 1: the clean birds", "Part 2, Book 2": "Part 2, Book 2: the unclean birds"}
+
+
+def done_docs() -> list[dict]:
+    """The published chapters in the order of the book (DOCS is in the order of the work on them)."""
+    return sorted((d for d in DOCS if (DATA / "entries" / d["entry"] / "en.json").exists()),
+                  key=lambda d: (d["vol"], d["pages"][0], d["pages"][-1]))
+
+
 def index_html() -> str:
-    done = lambda d: (DATA / "entries" / d["entry"] / "en.json").exists()
-    items = "".join(f'<li><a href="{d["slug"]}.html"><strong>{html.escape(d["title"])}</strong></a>'
-                    f'<span>{html.escape(d["sub"])}</span></li>' for d in DOCS if done(d))
+    docs = done_docs()
+    groups = {}
+    for d in docs:
+        groups.setdefault(d["title"].split(", chapter")[0], []).append(d)
+    jump = " · ".join(f'<a href="#g{i}">{html.escape(BOOK_NAMES.get(g, g))}</a> ({len(ds)})'
+                      for i, (g, ds) in enumerate(groups.items()))
+    items = "".join(
+        f'<h2 class="grp" id="g{i}">{html.escape(BOOK_NAMES.get(g, g))} <span>{len(ds)} chapters · vol. '
+        f'{ds[0]["vol"]}, pp. {ds[0]["pages"][0]}–{max(x["pages"][-1] for x in ds)}</span></h2><ul class="docs">'
+        + "".join(f'<li><a href="{d["slug"]}.html"><strong><span class="chn">Ch. '
+                  f'{d["title"].split("chapter ")[1].split(":")[0]}</span> {html.escape(d["title"].split(": ", 1)[1])}'
+                  f'</strong></a><span>{html.escape(d["sub"])}</span></li>' for d in ds) + "</ul>"
+        for i, (g, ds) in enumerate(groups.items()))
+    first, last = min(d["pages"][0] for d in docs), max(d["pages"][-1] for d in docs)
     body = f"""{header("index.html")}
 <main class="index">
 <h1>Samuel Bochart, <i>Hierozoicon</i></h1>
@@ -527,13 +565,12 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: vol. 2, pp. 409–786 (Book 3, chs. 33–36; all of Book 4, the oviparous quadrupeds; all of Part 2,
-Book 1, the clean birds: the dove, the deror, the turtledove, the swallow, the crane, the kore, the
-partridge, the quail, the cock and the hen, the barburim, the peacock and the sparrow; Part 2, Book 2,
-the unclean birds, chs. 1–9: the eagle, the peres, the oznija, the daa, the aja and the daja).</p>
+far: {len(docs)} chapters, vol. 2, pp. {first}–{last}. Find a verse in the <a href="passages.html">index of
+Bible passages</a>, or a word in the <a href="search.html">search</a>.</p>
+<p class="jump">{jump}</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
 the <a href="{FACTCHECK}">Talmud zoology fact-check</a> (claim 7: the hyrax and the hare).</p>
-<ul class="docs">{items}</ul>
+{items}
 <h2>What this is</h2>
 <ul class="plain">
 <li>The transcription and the translation are machine output (Claude Opus 5.5). Every word where a
@@ -548,8 +585,7 @@ book and chapter numbers; “p. 1012” in Rosenmüller's notes is a column of 1
 </ul>
 </main>
 <footer>Scans: Bayerische Staatsbibliothek München (MDZ), NoC-NC 1.0. Transcription, translation and code: <a href="{REPO}/blob/main/LICENSE">MIT License</a>.</footer>"""
-    return page_html("Bochart, Hierozoicon · reading edition (pilot)", body,
-                     "Machine transcription and English translation of Samuel Bochart, Hierozoicon (1663): a pilot chapter on the shafan")
+    return page_html("Bochart, Hierozoicon · reading edition", body, DESC)
 
 
 def table_pages(rx_items) -> dict:
@@ -628,7 +664,9 @@ def hebrew_html() -> str:
         f'<td><i>{esc(r["romanization"])}</i></td>'
         f'<td><a href="{r["site_url"].rsplit("/", 1)[1]}">{esc(titles[r["chapter"]])}</a>'
         f'{" (note)" if r["part"] == "note" else ""}<br><a class="pg" href="{r["scan_url"]}" target="_blank" '
-        f'rel="noopener" title="Scan of this page">II,&nbsp;{r["page"]}</a></td></tr>'
+        f'rel="noopener" title="Scan of this page">II,&nbsp;{r["page"]}</a></td>'
+        f'<td><input type="checkbox" class="flag" aria-label="Flag this row" '
+        f'data-k="{esc(r["hebrew"])}|{esc(r["romanization"])}|{r["page"]}|{r["chapter"]}"></td></tr>'
         for r in sorted(occ, key=lambda r: (r["key"], r["page"])))
     like = "".join(
         f'<tr><td><bdi class="heb" dir="rtl">{esc(w["word"])}</bdi></td><td>{w["count"]}</td>'
@@ -644,8 +682,13 @@ checking: the text is a machine transcription, and in this type ד and ר, ה, �
 כ are hard to tell apart. The same rows as a spreadsheet:
 <a href="{REPO}/blob/main/data/concordance/hebrew.csv">hebrew.csv</a>,
 <a href="{REPO}/blob/main/data/concordance/hebrew_words.csv">hebrew_words.csv</a>.</p>
+<p>To report wrong readings: tick <b>Flag</b> on each row (the ticks are kept in this browser), then copy
+the list and send it.</p>
+<div class="flagbar"><b id="nflag">0</b> flagged · <button type="button" id="copyflags">Copy the flagged rows</button>
+<button type="button" id="onlyflags">Show only flagged</button> <button type="button" id="clearflags">Clear</button>
+<span id="flagmsg"></span></div>
 <input id="filter" type="search" placeholder="Filter, e.g. שפן or saphan or a page number" aria-label="Filter">
-<table class="abbr conc"><thead><tr><th>Hebrew</th><th>Context</th><th>Romanization</th><th>Chapter, page</th></tr></thead>
+<table class="abbr conc"><thead><tr><th>Hebrew</th><th>Context</th><th>Romanization</th><th>Chapter, page</th><th>Flag</th></tr></thead>
 <tbody>{rows}</tbody></table>
 <h2 id="lookalikes">Words with a look-alike</h2>
 <p>{len(ws)} words that differ from another word of the concordance only by letters that look alike in this
@@ -653,8 +696,146 @@ type (the count of the other word in brackets). Most are different words; a word
 frequent look-alike is the first place to check. Rarest first.</p>
 <table class="abbr"><thead><tr><th>Word</th><th>Count</th><th>Looks like</th><th>Pages (vol. 2)</th></tr></thead>
 <tbody>{like}</tbody></table>
-</main>"""
+</main>
+<script>{FLAG_JS}</script>"""
     return page_html("Hebrew concordance · Bochart, Hierozoicon", body)
+
+
+FLAG_JS = """(function(){
+  var K='bh-flags', set={};
+  try{set=JSON.parse(localStorage.getItem(K)||'{}')}catch(e){}
+  var boxes=[].slice.call(document.querySelectorAll('input.flag')), n=document.getElementById('nflag'), msg=document.getElementById('flagmsg');
+  function save(){try{localStorage.setItem(K,JSON.stringify(set))}catch(e){} n.textContent=Object.keys(set).length;}
+  boxes.forEach(function(b){b.checked=!!set[b.dataset.k];
+    b.addEventListener('change',function(){if(b.checked)set[b.dataset.k]=1;else delete set[b.dataset.k];save();});});
+  save();
+  document.getElementById('copyflags').addEventListener('click',function(){
+    var t='hebrew\\tromanization\\tpage\\tchapter\\n'+Object.keys(set).map(function(k){return k.split('|').join('\\t')}).join('\\n');
+    var done=function(){msg.textContent=' copied '+Object.keys(set).length+' rows'};
+    if(navigator.clipboard) navigator.clipboard.writeText(t).then(done,function(){prompt('Copy:',t)}); else prompt('Copy:',t);});
+  var only=false;
+  document.getElementById('onlyflags').addEventListener('click',function(){only=!only;this.textContent=only?'Show all':'Show only flagged';
+    boxes.forEach(function(b){b.closest('tr').style.display=(!only||b.checked)?'':'none';});});
+  document.getElementById('clearflags').addEventListener('click',function(){if(!confirm('Remove all flags?'))return;set={};boxes.forEach(function(b){b.checked=false});save();});
+})();"""
+
+# SBL book names in the order of the canon (the English has "Deut 14:13"; translate.modern_citations)
+CANON = [b.replace("_", " ") for b in (
+    "Gen Exod Lev Num Deut Josh Judg Ruth 1_Sam 2_Sam 1_Kgs 2_Kgs 1_Chr 2_Chr Ezra Neh Esth Job Ps Prov Eccl "
+    "Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal Tob Jdt Wis Sir Bar "
+    "1_Macc 2_Macc Matt Mark Luke John Acts Rom 1_Cor 2_Cor Gal Eph Phil Col 1_Thess 2_Thess 1_Tim 2_Tim "
+    "Titus Phlm Heb Jas 1_Pet 2_Pet 1_John Jude Rev").split()]
+REF = re.compile(r"(?<![\w.])(" + "|".join(sorted(map(re.escape, CANON), key=len, reverse=True)) + r") (\d+):(\d+)")
+
+
+def blocks_en():
+    """Every English block of the published chapters: (doc, anchor, page, text). A paragraph of the main
+    text has the anchor "pK", a note "en-nK"."""
+    for d in done_docs():
+        en = json.loads((DATA / "entries" / d["entry"] / "en.json").read_text(encoding="utf-8"))
+        for k, b in enumerate(en["main"]):
+            yield d, f"p{k}", b["page"], b["text"]
+        for k, b in enumerate(en["notes"], 1):
+            yield d, f"en-n{k}", b["page"], b["text"]
+
+
+def passages_html() -> str:
+    """Index of the Bible passages: verse -> the paragraphs and notes that cite it (14-Nov-2026)."""
+    refs = {}
+    for d, anchor, page, text in blocks_en():
+        marks = [(m.start(), int(m.group(2))) for m in PAGE_MARK.finditer(text)]
+        for m in REF.finditer(text):
+            pg = max([(pos, p) for pos, p in marks if pos < m.start()], default=(0, int(page)))[1]
+            key = (CANON.index(m.group(1)), int(m.group(2)), int(m.group(3)))
+            link = (d["slug"], anchor, d["vol"], pg, d["title"].split(": ", 1)[1])
+            if link not in refs.setdefault(key, []):
+                refs[key].append(link)
+    rows = "".join(
+        f'<tr id="{CANON[b].replace(" ", "")}{c}-{v}"><td>{CANON[b]} {c}:{v}</td><td>'
+        + " · ".join(f'<a href="{slug}.html#{a}" title="{html.escape(t, quote=True)}">{"I" * vol}, {pg}'
+                     f'{" n." if a.startswith("en-n") else ""}</a>' for slug, a, vol, pg, t in links)
+        + f'</td><td>{html.escape("; ".join(dict.fromkeys(t for *_, t in links)))}</td></tr>'
+        for (b, c, v), links in sorted(refs.items()))
+    books = {}
+    for (b, c, v), links in refs.items():
+        books[b] = books.get(b, 0) + len(links)
+    body = f"""{header("passages.html")}
+<main class="index">
+<h1>Index of Bible passages</h1>
+<p class="lede">{len(refs):,} verses that Bochart cites in the chapters published so far
+({sum(len(x) for x in refs.values()):,} citations), in the order of the canon. Each link opens the paragraph or
+note (n.) that cites the verse; the number is the page of Rosenmüller's edition. Made by a program from the
+references in the English translation: a reference to a whole chapter, and a verse that Bochart quotes without
+its number, are not here. Bochart counts some verses differently from modern editions (Job 39 above all).</p>
+<p class="jump">{" · ".join(f"{CANON[b]} ({n})" for b, n in sorted(books.items()))}</p>
+<input id="filter" type="search" placeholder="Filter, e.g. Lev 11: or Job 39:13 or eagle" aria-label="Filter">
+<table class="abbr pass"><thead><tr><th>Verse</th><th>Cited at</th><th>Chapter</th></tr></thead>
+<tbody>{rows}</tbody></table>
+</main>"""
+    return page_html("Bible passages · Bochart, Hierozoicon", body,
+                     "Index of the Bible passages cited in Bochart's Hierozoicon, with links to the paragraphs")
+
+
+def search_text(text: str) -> str:
+    s = re.sub(r"\[I{1,3}, \d+\]|\[col\. \d+\]|\^\{[^}]*\}|</?i>|⟦[^⟧]*⟧", "", text)
+    return " ".join(s.replace("-\n", "").split())
+
+
+SEARCH_JS = """(function(){
+  var q=document.getElementById('q'), out=document.getElementById('hits'), info=document.getElementById('info'), la=document.getElementById('la');
+  var data={};
+  function load(name){return data[name]?Promise.resolve(data[name]):fetch(name).then(function(r){return r.json()}).then(function(j){data[name]=j;return j;});}
+  function esc(s){return s.replace(/[&<>]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]});}
+  function fold(s){return s.normalize('NFD').replace(/[\\u0300-\\u036f\\u0591-\\u05c7\\u064b-\\u0652]/g,'').toLowerCase();}
+  function run(){
+    var term=fold(q.value.trim());
+    try{history.replaceState(null,'','?q='+encodeURIComponent(q.value.trim())+(la.checked?'&la=1':''))}catch(e){}
+    if(term.length<2){out.innerHTML='';info.textContent='Type two letters or more.';return;}
+    info.textContent='Searching…';
+    load(la.checked?'search-la.json':'search-en.json').then(function(j){
+      var html=[], n=0;
+      for(var i=0;i<j.rows.length;i++){var r=j.rows[i], t=fold(r[3]), at=t.indexOf(term);
+        if(at<0) continue; n++;
+        if(n>300) continue;
+        var a=Math.max(0,at-110), b=Math.min(t.length,at+term.length+160);
+        var snip=esc(t.slice(a,at))+'<mark>'+esc(t.slice(at,at+term.length))+'</mark>'+esc(t.slice(at+term.length,b));
+        var d=j.docs[r[0]];
+        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">II, '+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
+      out.innerHTML=html.join('');
+      info.textContent=n+' paragraph'+(n===1?'':'s')+(n>300?' (the first 300 are shown)':'')+' in the '+(la.checked?'Latin':'English')+' text.';
+    });}
+  var t=null; q.addEventListener('input',function(){clearTimeout(t);t=setTimeout(run,250);}); la.addEventListener('change',run);
+  var p=new URLSearchParams(location.search); if(p.get('la'))la.checked=true; if(p.get('q')){q.value=p.get('q');run();}
+  q.focus();
+})();"""
+
+
+def search_html() -> str:
+    """A search page over the paragraphs (14-Nov-2026): docs/search-en.json and search-la.json hold one
+    row per paragraph and note; the page looks for the typed text in the browser (no server). The snippet
+    shows the folded text (lower case, no accents or points): the link opens the paragraph itself."""
+    docs = done_docs()
+    num = {d["slug"]: i for i, d in enumerate(docs)}
+    for lang in ("en", "la"):
+        rows = []
+        for d in docs:
+            j = json.loads((DATA / "entries" / d["entry"] / f"{lang}.json").read_text(encoding="utf-8"))
+            rows += [[num[d["slug"]], f"p{k}", b["page"], search_text(b["text"])] for k, b in enumerate(j["main"])]
+            rows += [[num[d["slug"]], f"en-n{k}", b["page"], search_text(b["text"])] for k, b in enumerate(j["notes"], 1)]
+        out = {"docs": [[d["slug"], d["title"]] for d in docs], "rows": [r for r in rows if r[3]]}
+        (OUT / f"search-{lang}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    body = f"""{header("search.html")}
+<main class="index">
+<h1>Search</h1>
+<p class="lede">Looks for the exact text you type in every paragraph and note of the {len(docs)} chapters. Capitals,
+accents, Hebrew points and Arabic vowel signs are ignored: <i>korax</i> finds the transliteration of κόραξ,
+κοραξ finds κόραξ, and עורב finds the pointed word too.</p>
+<input id="q" type="search" placeholder="e.g. ostrich, Damir, עורב, κοραξ" aria-label="Search">
+<p><label><input type="checkbox" id="la"> Search the Latin text, not the English</label> · <span id="info">Type two letters or more.</span></p>
+<ul id="hits"></ul>
+</main>
+<script>{SEARCH_JS}</script>"""
+    return page_html("Search · Bochart, Hierozoicon", body, "Search the Latin and the English of Bochart's Hierozoicon")
 
 
 def stamp(text: str) -> str:
@@ -686,6 +867,19 @@ ul.docs{list-style:none;padding:0}
 ul.docs li{padding:.7rem 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column}
 ul.docs li span{color:var(--muted);font-size:.95rem}
 ul.plain li{margin:.3rem 0}
+h2.grp{font-size:1.25rem;margin:2rem 0 0;padding-bottom:.3rem;border-bottom:2px solid var(--accent);scroll-margin-top:1rem}
+h2.grp span{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:.5rem}
+.chn{color:var(--muted);font-weight:400;font-size:.9em;margin-right:.3rem}
+p.jump{font-size:.95rem}
+table.pass td:first-child{width:9rem}
+table.pass td a{white-space:nowrap}
+#hits{padding:0}
+#hits li{padding:.6rem 0;border-bottom:1px solid var(--line);list-style:none}
+#hits mark{background:var(--mark);color:var(--fg)}
+#hits .w{color:var(--muted);font-size:.85rem;display:block}
+input#q{width:100%;padding:.5rem .7rem;font:inherit;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.flagbar{position:sticky;top:0;background:var(--bg);padding:.4rem 0;z-index:3;font-size:.92rem}
+.flagbar button{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.15rem .6rem;cursor:pointer}
 details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
 details.about p{margin:.5rem 0 0;font-size:.95rem}
 details.toc{border:2px solid var(--accent);background:var(--panel);padding:.7rem 1rem;border-radius:8px;margin:1rem 0}
@@ -757,7 +951,7 @@ table.abbr{width:100%;border-collapse:collapse;font-size:.92rem}
 table.abbr th,table.abbr td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}
 table.abbr td:first-child{white-space:nowrap;font-weight:600}
 table.conc{table-layout:fixed}table.conc td:first-child{white-space:normal;overflow-wrap:anywhere}
-table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:50%}table.conc th:nth-child(3){width:13%}
+table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:47%}table.conc th:nth-child(3){width:13%}table.conc th:nth-child(5){width:5%}
 footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
 @media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}
 """
@@ -869,6 +1063,8 @@ def main():
     (OUT / "abbreviations.html").write_text(abbreviations_html(), encoding="utf-8")
     (OUT / "names.html").write_text(names_html(), encoding="utf-8")
     (OUT / "hebrew.html").write_text(hebrew_html(), encoding="utf-8")
+    (OUT / "passages.html").write_text(passages_html(), encoding="utf-8")
+    (OUT / "search.html").write_text(search_html(), encoding="utf-8")
     for d in CONTENTS + DOCS:
         if d["kind"] == "entry" and not (DATA / "entries" / d["entry"] / "en.json").exists():
             print(f"skip docs/{d['slug']}.html (no translation yet)")

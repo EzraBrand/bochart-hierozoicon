@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search · Bochart, Hierozoicon</title>
+<meta name="description" content="Search the Latin and the English of Bochart&#x27;s Hierozoicon">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Bochart, Hierozoicon: reading edition">
+<meta property="og:title" content="Search · Bochart, Hierozoicon">
+<meta property="og:description" content="Search the Latin and the English of Bochart&#x27;s Hierozoicon">
+<meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Serif+Hebrew&family=Noto+Sans+Syriac&family=Noto+Naskh+Arabic&family=Noto+Sans+Ethiopic&family=Noto+Sans+Samaritan&display=swap">
+<link rel="stylesheet" href="style.css?v=3740739b">
+<script>try{var t=localStorage.getItem('bh-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head>
+<body>
+<header class="site"><a class="brand" href="index.html">Bochart, <i>Hierozoicon</i> <span>· reading edition</span></a><nav><a href="index.html">Chapters</a> <a href="passages.html">Passages</a> <a href="search.html" aria-current=page>Search</a> <a href="abbreviations.html">Abbreviations</a> <a href="names.html">Names</a> <a href="hebrew.html">Hebrew</a> <a href="https://ezrabrand.github.io/talmud-zoology-factcheck/">Fact-check</a> <a href="https://github.com/EzraBrand/bochart-hierozoicon">Code and data</a><label class="theme">Theme <select id="theme" aria-label="Colour theme"><option value="">Auto</option><option value="light">Light</option><option value="paper">Paper</option><option value="dark">Dark</option></select></label></nav></header>
+<main class="index">
+<h1>Search</h1>
+<p class="lede">Looks for the exact text you type in every paragraph and note of the 44 chapters. Capitals,
+accents, Hebrew points and Arabic vowel signs are ignored: <i>korax</i> finds the transliteration of κόραξ,
+κοραξ finds κόραξ, and עורב finds the pointed word too.</p>
+<input id="q" type="search" placeholder="e.g. ostrich, Damir, עורב, κοραξ" aria-label="Search">
+<p><label><input type="checkbox" id="la"> Search the Latin text, not the English</label> · <span id="info">Type two letters or more.</span></p>
+<ul id="hits"></ul>
+</main>
+<script>(function(){
+  var q=document.getElementById('q'), out=document.getElementById('hits'), info=document.getElementById('info'), la=document.getElementById('la');
+  var data={};
+  function load(name){return data[name]?Promise.resolve(data[name]):fetch(name).then(function(r){return r.json()}).then(function(j){data[name]=j;return j;});}
+  function esc(s){return s.replace(/[&<>]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]});}
+  function fold(s){return s.normalize('NFD').replace(/[\u0300-\u036f\u0591-\u05c7\u064b-\u0652]/g,'').toLowerCase();}
+  function run(){
+    var term=fold(q.value.trim());
+    try{history.replaceState(null,'','?q='+encodeURIComponent(q.value.trim())+(la.checked?'&la=1':''))}catch(e){}
+    if(term.length<2){out.innerHTML='';info.textContent='Type two letters or more.';return;}
+    info.textContent='Searching…';
+    load(la.checked?'search-la.json':'search-en.json').then(function(j){
+      var html=[], n=0;
+      for(var i=0;i<j.rows.length;i++){var r=j.rows[i], t=fold(r[3]), at=t.indexOf(term);
+        if(at<0) continue; n++;
+        if(n>300) continue;
+        var a=Math.max(0,at-110), b=Math.min(t.length,at+term.length+160);
+        var snip=esc(t.slice(a,at))+'<mark>'+esc(t.slice(at,at+term.length))+'</mark>'+esc(t.slice(at+term.length,b));
+        var d=j.docs[r[0]];
+        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">II, '+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
+      out.innerHTML=html.join('');
+      info.textContent=n+' paragraph'+(n===1?'':'s')+(n>300?' (the first 300 are shown)':'')+' in the '+(la.checked?'Latin':'English')+' text.';
+    });}
+  var t=null; q.addEventListener('input',function(){clearTimeout(t);t=setTimeout(run,250);}); la.addEventListener('change',run);
+  var p=new URLSearchParams(location.search); if(p.get('la'))la.checked=true; if(p.get('q')){q.value=p.get('q');run();}
+  q.focus();
+})();</script>
+<script src="app.js?v=6aa209d0"></script>
+</body>
+</html>
