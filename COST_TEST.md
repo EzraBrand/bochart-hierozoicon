@@ -180,3 +180,28 @@ New in the code: `tranche.py` (with the cost per paid step from the key's spend)
 (English against the fixed terms, no model call), the φ/Φ rule in `vote.py` and the judge prompt,
 Chronicles, Sirach and Baruch in the Bible abbreviations ("Eccles. XI, 31" is Sirach when the verse
 does not exist in Qohelet), 7 new rows in `names.json`.
+
+## Arbiter test (14-Nov-2026): not adopted
+
+Question: can a second model call with more context than the judge (the readings of all four readers and
+the lessons about this type) give the verdict of the scan check? `arbiter_test.py` asked Opus 5.5 at medium
+effort about the 385 scan-check items of tranches 5 and 6, each with the same 2x line crop that the reader
+saw; the answer key is the scan check (`logs/review/*/decisions.tsv`). Cost $2.58 (one batch, 5 minutes).
+
+| | Items | Arbiter = scan check | Called confident | Of these = scan check |
+|---|---|---|---|---|
+| All | 383 | 69% | 41% | 89% |
+| Changes that the vote applied | 143 | 84% | 48% | 99% |
+| Review items | 240 | 61% | 38% | 82% |
+| The scan check kept the first reading | 207 | 57% | 36% | 81% |
+| The scan check took the judge's reading | 160 | 89% | 51% | 98% |
+
+The vote as it is (a change applied, a review item not applied) agrees with the scan check in 80% of the
+items, so the arbiter (69%) is worse than doing nothing. It is the same model as the judge with the same
+crop, and it leans to the judge's reading: where the first reading was right it follows the judge 4 times in
+10. Its confident answers are good (the 12 confident differences are about the stretch of text or the form of
+a note mark, not about a letter), but they cover only 41% of the items, and those are the easy ones. Not
+adopted: it costs about $1.30 a tranche to save a few minutes of a check that takes about 10. What the test
+does show: the scan check by the session model, with zoom, the Latin beside the word and the notes of
+AGENTS.md, decides differently from a single call 3 times in 10, so it stays. A test with a model of
+another family as arbiter was not made.

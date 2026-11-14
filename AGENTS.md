@@ -67,6 +67,9 @@ an impression: the README had "about 3 h" for tranches that took 1 h to 1 h 35 m
   `biblecheck.py`; after the translation `banned.py` and `spotcheck.py`, and read its rows of kind `quote`
   and `meaning` on the scan (`logs/linecrop.py`).
 - **The volume parameter and a new key** come first (see Project management below).
+- **Do not replace the scan check with a model call.** Tested 14-Nov-2026 (`arbiter_test.py`, table in
+  COST_TEST.md): a second Opus call with all the readings and the type notes agrees with the scan check in
+  69% of the items, less than the plain vote (80%). `decisions_stats.py` shows the kinds that are safe.
 
 ## Ideas backlog (11-Nov-2026, after tranche 3; updated 14-Nov-2026, in tranche 6)
 
