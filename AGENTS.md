@@ -16,7 +16,7 @@ edit `entry.py` while `tranche.py translate` runs. Write edit scripts with a fil
 (the heredoc halves backslashes). The Greek σθ ligature looks like a θ with a loop in front: MDZ and the
 judge drop the σ (δυσθαλπής, ἐσθίομεν, αἰσθήσει); keep it. The scan check runs well in the main session
 from contact sheets (`logs/sheets_t4.py`: 8 line crops per image, 4 images per call; 214 items in about an
-hour).
+hour: by the clock it is nearer 10 to 15 minutes for 200 items).
 
 Tranche 5 (13-Nov-2026): the MDZ OCR can miss a chapter head (`find_chapters.py` did not show chs. 22 and
 23): after the OCR, grep the Opus text for `CAP.` before `entry.ENTRIES` is written. In Hebrew, ו/ז, ד/ר,
@@ -45,6 +45,28 @@ does not apply items of the kind "not similar", so look for each accepted word i
 pair that spans a printed line needs the `\n` of the page text; `logs/linecrop.py PAGE "Latin words" OUT.jpg`
 crops any line of a page for a look. The scan check of 194 items took about 45 minutes from contact sheets
 (`logs/sheets_t4.py`, group folders named `T6A`: a plain `A` writes over the folder of an older tranche).
+
+## Plan for the next tranche (14-Nov-2026, agreed with the owner)
+
+Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50
+minutes (OCR 7, judge 13, translation 15, plus the failed submits), the scan check about 10, the rest is
+chapter definitions, joins, corrections and notes. Take times from the log timestamps and the commit, not from
+an impression: the README had "about 3 h" for tranches that took 1 h to 1 h 35 min.
+
+- **Larger tranches: 120 to 130 pages**, ending at a chapter end. The fixed work is the same for 80 or 130
+  pages, and the batch split removed the balance limit. With about $25 on the key nothing is split.
+- **Overlap the batches.** Start `tranche.py prepare` for tranche N+1 as soon as the OCR of tranche N is voted,
+  and do the scan check of N while it runs. `SAMPLE`, `ENTRIES` and `DOCS` must then hold both tranches.
+- **Generate the fixed work.** A script that writes the `ENTRIES`, `DOCS` and README rows from the chapter heads
+  in the Opus OCR (pages, start and end patterns, `first_col`, column range, the Latin summary as a draft
+  title); the agent writes only the subject and the fixed terms.
+- **Before the scan check:** read `logs/tranche_TAG_qa.log` (cut pages, note marks), then
+  `uv run decisions_stats.py` shows which kinds of item are confirmed almost always (Greek accents with Flash:
+  94%; Latin with Flash and MDZ: 97%; Hebrew with both: 100%); look at those last, and fast.
+- **After `apply_review.py`:** check that each accepted word is in the voted text; run `hebcheck.py` and
+  `biblecheck.py`; after the translation `banned.py` and `spotcheck.py`, and read its rows of kind `quote`
+  and `meaning` on the scan (`logs/linecrop.py`).
+- **The volume parameter and a new key** come first (see Project management below).
 
 ## Ideas backlog (11-Nov-2026, after tranche 3; updated 14-Nov-2026, in tranche 6)
 

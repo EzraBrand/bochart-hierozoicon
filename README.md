@@ -70,14 +70,16 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 
 ### Tranches
 
+The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earlier figures were impressions and about twice too high). Most of a tranche is waiting for the batches; the scan check of about 200 items takes about 10 minutes.
+
 | Tranche | Date | Pages (new) | Chapters | Cost | Per page | Wall-clock | Scan-check items | Changes confirmed / undone | Proposals accepted | Corrections from the print |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 09-Nov-2026 | 429–523 (74) | 10 | $9.71 | $0.131 | about 1.5 h | 283 | n/a / 14 | 30 | 18 |
 | 2 | 10-Nov-2026 | 524–589 (66) | 7 | $8.23 | $0.125 | about 3 h | 219 | 52 / 17 | 40 | 26 |
-| 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | about 2 h (machine steps 30 min) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
-| 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | about 3 h (machine steps 45 min) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
-| 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | about 3.5 h (machine steps 65 min: the judge batch took 25) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
-| 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | about 4 h with other work (machine steps 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
+| 3 | 11-Nov-2026 | 590–647 (58) | 6 | $7.40 | $0.128 | 1 h 10 min (08:55 to the commit at 10:05) | 238 | 69 / 13 | 34 | 22, and 35 words under a margin smear |
+| 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | 1 h (12:48 to 13:47) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
+| 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | 1 h 35 min (10:50 to 12:26; the judge batch took 25 min) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
+| 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | 1 h 20 min (08:44 to 10:02, with the site work; waiting for batches about 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts; the scan check about 10 min) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted

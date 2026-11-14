@@ -83,6 +83,8 @@ details.toc.reg li.ltr .rg{display:none}
 .cell p,.cell h3{margin:.7rem 0}
 .cell h3{font-size:1.05rem}
 .cell.de{color:var(--muted)}
+.row.q .cell p{margin-left:2.2em;line-height:1.5}
+.row.q{border-bottom-style:dotted}
 body:not(.show-de) .row{grid-template-columns:1fr;max-width:760px}
 body:not(.show-de) .cell.de{display:none}
 .row.note{font-size:.9rem}

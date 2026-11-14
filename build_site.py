@@ -265,6 +265,8 @@ def inline(text: str, page: int, ctx: dict) -> str:
     s = re.sub(r"(\w+)-\n([a-zäöüßāēīōūăĕŏḥṭṣḳ])", hyphen, s)
     if ctx.get("lines"):  # a contents list: one entry per line; leader dots -> " … "
         s = re.sub(r"(?:\s*\.){3,}\s*", " … ", s).replace("\n", "<br>")
+    if ctx.get("verse"):  # a set-off quotation keeps its printed lines
+        s = s.replace("\n", "<br>")
     s = s.replace("-\n", "-").replace("\n", " ")
 
     def run(m):
@@ -323,6 +325,30 @@ def note_html(text: str, page, ctx: dict) -> str:
     """A footnote; a numbered list in it ("\n4) ...", joined over pages) keeps its line breaks."""
     text = re.sub(r"\n(?=\d+\) )", "\u2063", text)  # invisible separator as a placeholder
     return inline(text, page, ctx).replace("\u2063", "<br>")
+
+
+_QUOTE_MARKS = re.compile(r"\[I{1,3}, \d+\]|\[col\. \d+\]|\^\{[^}]*\}|⟦[^⟧]*⟧")
+_GREEK = re.compile(r"[Ͱ-Ͽἀ-῿]")
+
+
+def is_quote(text: str) -> bool:
+    """A set-off quotation, as the print has it (indented lines of verse): a block of at most 8 short lines
+    that is all Greek, or all italic (a proper name inside italic text is roman: capitalized words may stand
+    outside the italics). The OCR keeps such a block apart from the paragraph but gives it no type of its
+    own, so this is a rule on the text (14-Nov-2026: 300 blocks in 52 chapters). It does not find prose
+    quotations, or verse in Hebrew and Arabic."""
+    lines = [l.strip() for l in _QUOTE_MARKS.sub("", text).split("\n") if l.strip()]
+    if not lines or len(lines) > 8 or max(len(re.sub(r"</?i>", "", l)) for l in lines) > 62:
+        return False
+    plain = re.sub(r"</?i>", "", " ".join(lines))
+    letters = [c for c in plain if c.isalpha()]
+    if letters and sum(bool(_GREEK.match(c)) for c in letters) > 0.8 * len(letters):
+        return len(letters) > 12
+    if "<i>" not in text:
+        return False
+    outside = re.sub(r"<i>.*?</i>", " ", " ".join(lines), flags=re.S)
+    roman = re.findall(r"[^\W\d_]{2,}", outside)
+    return all(w[0].isupper() for w in roman) and len(roman) <= 4 and len(letters) > 12
 
 
 def paragraph_page(text: str, start: str) -> str:
@@ -501,16 +527,20 @@ def doc_html(doc: dict) -> str:
     cur = {"de": pages[0], "en": pages[0]}
     for k, (la, en) in enumerate(zip(d["de"], d["en"])):
         cells = []
+        quote = la["type"] == "body" and is_quote(la["text"])
         for lang, b in (("de", la), ("en", en)):
-            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang, "anchors": lang == "en"}
-            text = inline(b["text"], cur[lang], ctx)
+            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang, "anchors": lang == "en", "verse": quote}
+            src = b["text"]
+            if quote and lang == "en" and "\n" not in src:  # the translation joins the lines: one italic run per line
+                src = src.replace("</i> <i>", "</i>\n<i>")
+            text = inline(src, cur[lang], ctx)
             if lang == "en":  # a fixed link to the paragraph (14-Nov-2026): chapter.html#p12
                 text += (f' <a class="anchor" href="#p{k}" title="Link to this paragraph" '
                          f'aria-label="Link to this paragraph">¶</a>')
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"la" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
-        rows.append(f'<div class="row" id="p{k}">{"".join(cells)}</div>')
+        rows.append(f'<div class="row{" q" if quote else ""}" id="p{k}">{"".join(cells)}</div>')
     notes = []
     for i, (la, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
         cells = []
@@ -954,6 +984,8 @@ details.toc.reg li.ltr .rg{display:none}
 .cell p,.cell h3{margin:.7rem 0}
 .cell h3{font-size:1.05rem}
 .cell.de{color:var(--muted)}
+.row.q .cell p{margin-left:2.2em;line-height:1.5}
+.row.q{border-bottom-style:dotted}
 body:not(.show-de) .row{grid-template-columns:1fr;max-width:760px}
 body:not(.show-de) .cell.de{display:none}
 .row.note{font-size:.9rem}
