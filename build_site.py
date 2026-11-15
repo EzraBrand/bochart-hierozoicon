@@ -735,6 +735,12 @@ def done_docs() -> list[dict]:
                   key=lambda d: (d["vol"], d["pages"][0], d["pages"][-1]))
 
 
+def vol_span(ds: list[dict]) -> str:
+    """'vol. 2, pp. 739–870; vol. 3, pp. 1–124' for the chapters of a group."""
+    return "; ".join(f"vol. {v}, pp. {min(d['pages'][0] for d in ds if d['vol'] == v)}–"
+                     f"{max(d['pages'][-1] for d in ds if d['vol'] == v)}" for v in sorted({d["vol"] for d in ds}))
+
+
 def index_html() -> str:
     docs = done_docs()
     groups = {}
@@ -743,14 +749,12 @@ def index_html() -> str:
     jump = " · ".join(f'<a href="#g{i}">{html.escape(BOOK_NAMES.get(g, g))}</a> ({len(ds)})'
                       for i, (g, ds) in enumerate(groups.items()))
     items = "".join(
-        f'<h2 class="grp" id="g{i}">{html.escape(BOOK_NAMES.get(g, g))} <span>{len(ds)} chapters · vol. '
-        f'{ds[0]["vol"]}, pp. {ds[0]["pages"][0]}–{max(x["pages"][-1] for x in ds)}</span></h2><ul class="docs">'
+        f'<h2 class="grp" id="g{i}">{html.escape(BOOK_NAMES.get(g, g))} <span>{len(ds)} chapters · {vol_span(ds)}</span></h2><ul class="docs">'
         + "".join(f'<li><a href="{d["slug"]}.html"><strong><span class="chn">Ch. '
                   f'{d["title"].split("chapter ")[1].split(":")[0]}</span> {html.escape(d["title"].split(": ", 1)[1])}'
                   f'</strong></a><span>{html.escape(d["sub"])}</span></li>' for d in ds) + "</ul>"
         for i, (g, ds) in enumerate(groups.items()))
-    span = "; ".join(f"vol. {v}, pp. {min(d['pages'][0] for d in docs if d['vol'] == v)}–"
-                     f"{max(d['pages'][-1] for d in docs if d['vol'] == v)}" for v in sorted({d["vol"] for d in docs}))
+    span = vol_span(docs)
     body = f"""{header("index.html")}
 <main class="index">
 <h1>Samuel Bochart, <i>Hierozoicon</i></h1>
