@@ -72,7 +72,7 @@
     tip.hidden=false;
     var r=a.getBoundingClientRect(), w=Math.min(420, window.innerWidth-24);
     tip.style.width=w+'px';
-    tip.style.left=Math.max(12, Math.min(r.left+window.scrollX-w/2, window.scrollX+window.innerWidth-w-12))+'px';
+    tip.style.left=Math.max(12, Math.min(r.left+window.scrollX-w/2, window.scrollX+document.documentElement.clientWidth-w-12))+'px';
     var below=r.bottom+window.scrollY+8;
     tip.style.top=below+'px';
     if(r.bottom+tip.offsetHeight+16>window.innerHeight&&r.top>tip.offsetHeight+16) tip.style.top=(r.top+window.scrollY-tip.offsetHeight-8)+'px';
@@ -251,7 +251,7 @@
       if(sc){if(sc==='lat'&&inEn) sc='en';
         out.push(['Wiktionary','https://en.wiktionary.org/wiki/Special:Search?search='+e(w),function(){
           lookup(w,{sc:sc,langs:WL[sc]});
-          card.style.left=Math.max(8,Math.min(ask.offsetLeft,window.scrollX+window.innerWidth-card.offsetWidth-8))+'px';
+          card.style.left=Math.max(8,Math.min(ask.offsetLeft,window.scrollX+document.documentElement.clientWidth-card.offsetWidth-8))+'px';
           card.style.top=(ask.offsetTop+ask.offsetHeight+6)+'px';}]);}
       out.push(['Ask Google AI','https://www.google.com/search?udm=50&q='+e('In Samuel Bochart, Hierozoicon (1663), '+chapter+', explain: "'+t+'"')]);
       out.push(['Google','https://www.google.com/search?q='+e(t)]);
@@ -277,7 +277,7 @@
             askWin=window.open(l[1],'bh-ask-'+Date.now(),'popup=yes,width='+w+',height='+screen.availHeight+',left='+(screen.availWidth-w)+',top=0');}});
         ask.appendChild(a);});
       ask.hidden=false;
-      ask.style.left=Math.max(8,Math.min(r.left+window.scrollX,window.scrollX+window.innerWidth-ask.offsetWidth-8))+'px';
+      ask.style.left=Math.max(8,Math.min(r.left+window.scrollX,window.scrollX+document.documentElement.clientWidth-ask.offsetWidth-8))+'px';
       ask.style.top=(r.bottom+window.scrollY+10)+'px';
     }
     var askT=null;

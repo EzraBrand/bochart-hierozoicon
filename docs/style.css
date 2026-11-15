@@ -94,7 +94,7 @@ details.toc.reg ul{columns:auto}
 details.toc.reg li.ltr{display:inline-block;margin-right:.9rem;font-size:1.05rem}
 details.toc.reg li.ltr .rg{display:none}
 .row[id],.row.note .cell{scroll-margin-top:3.2rem}
-.fntip{position:absolute;z-index:7;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font-size:.92rem;line-height:1.5;max-height:50vh;overflow-y:auto}
+.fntip{position:absolute;z-index:7;box-sizing:border-box;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font-size:.92rem;line-height:1.5;max-height:50vh;overflow-y:auto}
 .fntip p{display:inline;margin:0}
 .fntip a.fngo{display:block;margin-top:.4rem;font-size:.85rem}
 .row.note .cell:target{background:var(--mark)}
