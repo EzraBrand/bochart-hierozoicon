@@ -131,7 +131,11 @@ def prepare(a) -> None:
         if missing(engine, ks):  # a page that failed in the batch or a worker: once more, sync
             print(f"{engine}: {len(missing(engine, ks))} page(s) missing, retried sync: {missing(engine, ks)}", flush=True)
             run(["ocr.py", *missing(engine, ks), "--model", model, "--compact", *extra], log_path(a.tag, "ocr_retry"), "ocr retry")
-        if missing(engine, ks):
+        if missing(engine, ks) and model == FLASH:
+            # 15-Nov-2026: Flash refused vol. 3 p. 14 twice (finish_reason=content_filter). check.py skips an
+            # absent reader, so the page goes on with Opus and MDZ only: read its review items with more care.
+            print(f"NOTE: {engine} has no text for {missing(engine, ks)}; these pages are checked against MDZ only", flush=True)
+        elif missing(engine, ks):
             sys.exit(f"{engine}: still missing {missing(engine, ks)}")
     rng = [str(a.first), str(a.last), "--vol", str(a.vol)]
     run(["check.py", *rng], log_path(a.tag, "check"), "check")

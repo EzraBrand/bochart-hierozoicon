@@ -57,7 +57,9 @@ def main():
             elif v == "UNSURE":
                 unsure.append((g.name, d["id"], r["page"], r["main"], r["new"], note))
             elif v in ("APPLY", "OTHER"):
-                if r["kind"] == "review" and t and t == r["new"]:
+                # vote.ACCEPT applies only "MDZ only" items (lesson of tranches 3 and 6): any other review item
+                # that the reader accepts becomes a FIXES pair (15-Nov-2026)
+                if r["kind"] == "review" and t and t == r["new"] and "MDZ only" in r["outcome"]:
                     accept.append(key)
                 elif t and t != r["main"]:
                     # the text in the voted page is `new` for a change, `main` for a review item

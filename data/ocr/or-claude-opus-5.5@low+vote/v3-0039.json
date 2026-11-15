@@ -1,0 +1,75 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXIII. <i>Probatur</i>, חנשמת <i>esse Noctuam.</i> 39",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXIII. <i>Probatur</i>, חנשמת <i>esse Noctuam.</i> 39"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>de tenuis</i>, <i>et capite gravis.</i> <i>Ad quae verba pudore suffusa abiit bona no-\nctua</i> ^{(5)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>de tenuis</i>, <i>et capite gravis.</i> <i>Ad quae verba pudore suffusa abiit bona no-\nctua</i> ^{(5)}."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Sed I. D. Michaeli in <i>Supplemm. ad\nLexx.</i> P. V. p 1692. est verisimile, <i>no-\nctuam</i>, si quidem est Hebraeorum תנשמת,\na <i>spirando</i> nomen accepisse; lugubres enim\nspiritus halitusque imo pectore ducere\nquasdam noctuarum species aliquo anni\ntempore solere. Magis tamen Michaelis in\neam propendet sententiam, quam in <i>Quae-\nstione centesima, Arabiam jussu regis Da-\nniae adituris proposita</i> p. 328. in medio\nposuit, תנשמת esse <i>anserem</i>, cui a נשם,\n<i>spirando</i>, nomen inditum existimat, quod\nea avis, ubi irascitur, collo exporrecto\nstridulum spiret contra eum, quem hostem\nputat. Quod autem obvertere aliquis pos-\nset, Iudaeos anserem avibus impuris non\nadnumerare, ita conatur repellere, ut re-\nspondeat, nullam Iudaeorum traditionibus\nde significatione vocum Hebraicarum esse\nfidem, ac multa legi contraria admittere\nusuque quotidiano recepta habere. Ex spi-\nritu legis Mosaicae de cibis impuris, nul-\nlius, ne porci quidem, esu magis, quam\nanseris interdicendum fuisse, perquam in-\nsalubris, ac morbos maxime cutaneos alen-\ntis. Plura dixit in <i>Iure Mosaico</i> T. IV.\n§. 203. p. 198—200. et §. 205. pag. 214.\n215. — OEDMANNO (in den <i>Vermischt.\nSammlung</i>. Partic. III. c. V. pag. 50. seqq.)\nתנשמת est <i>Pelecanus Onocrotalus</i> Linn.\n(T. I. P. II. p. 569.), cui a <i>spiratione</i> non\nminus nomen inditnm putat, quam Lacer-\ntae <i>Chamaeleonti</i> (vid. supra Tom II. pag.\n505. edit. nostr.), quemadmodum enim\nhaec lacerta aere intro attracto intumescit,\nita in Pelecano onocrotalo etiam quod sub\ninferiori mandibula dependet, receptacu-\nlum amplissimum capacissimumque, et rugo-\nsum, spiratione facile dilatatur, mira ut\nsit ejus capacitas. Cui argumento, ex ety-\nmologia desumto, <i>Oedmannus</i> addidit ali-\nud (pag. 52. seqq.), vix credibile esse, ut\nMoses avem, in Aegypto et Palaestina tam\nfrequentem, in legibus de cibis silentio\npraetermiserit, eamque mensis Iudaeorum\nnon prohibuerit, cum avis sit vorax pisci-\num, et carnem habeat duram, atque vix\nferendi odoris, maxime cum annosior est.\n— Vides, lector, omnes has sententias,\nut ipsam quoque Bochartianam, etymolo-\ngiis niti, inter quas tamen Oedmanniana\nreliquis veri mihi similior videtur. Certi\nvero quidquam de ave תנשמת, quum in\nCodice sacro nihil praeter nomen ejus oc-\ncurrat, nemo facile dixerit.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed I. D. Michaeli in <i>Supplemm. ad\nLexx.</i> P. V. p 1692. est verisimile, <i>no-\nctuam</i>, si quidem est Hebraeorum תנשמת,\na <i>spirando</i> nomen accepisse; lugubres enim\nspiritus halitusque imo pectore ducere\nquasdam noctuarum species aliquo anni\ntempore solere. Magis tamen Michaelis in\neam propendet sententiam, quam in <i>Quae-\nstione centesima, Arabiam jussu regis Da-\nniae adituris proposita</i> p. 328. in medio\nposuit, תנשמת esse <i>anserem</i>, cui a נשם,\n<i>spirando</i>, nomen inditum existimat, quod\nea avis, ubi irascitur, collo exporrecto\nstridulum spiret contra eum, quem hostem\nputat. Quod autem obvertere aliquis pos-\nset, Iudaeos anserem avibus impuris non\nadnumerare, ita conatur repellere, ut re-\nspondeat, nullam Iudaeorum traditionibus\nde significatione vocum Hebraicarum esse\nfidem, ac multa legi contraria admittere\nusuque quotidiano recepta habere. Ex spi-\nritu legis Mosaicae de cibis impuris, nul-\nlius, ne porci quidem, esu magis, quam\nanseris interdicendum fuisse, perquam in-\nsalubris, ac morbos maxime cutaneos alen-\ntis. Plura dixit in <i>Iure Mosaico</i> T. IV.\n§. 203. p. 198—200. et §. 205. pag. 214.\n215. — OEDMANNO (in den <i>Vermischt.\nSammlung</i>. Partic. III. c. V. pag. 50. seqq.)\nתנשמת est <i>Pelecanus Onocrotalus</i> Linn.\n(T. I. P. II. p. 569.), cui a <i>spiratione</i> non\nminus nomen inditnm putat, quam Lacer-\ntae <i>Chamaeleonti</i> (vid. supra Tom II. pag.\n505. edit. nostr.), quemadmodum enim\nhaec lacerta aere intro attracto intumescit,\nita in Pelecano onocrotalo etiam quod sub\ninferiori mandibula dependet, receptacu-\nlum amplissimum capacissimumque, et rugo-\nsum, spiratione facile dilatatur, mira ut\nsit ejus capacitas. Cui argumento, ex ety-\nmologia desumto, <i>Oedmannus</i> addidit ali-\nud (pag. 52. seqq.), vix credibile esse, ut\nMoses avem, in Aegypto et Palaestina tam\nfrequentem, in legibus de cibis silentio\npraetermiserit, eamque mensis Iudaeorum\nnon prohibuerit, cum avis sit vorax pisci-\num, et carnem habeat duram, atque vix\nferendi odoris, maxime cum annosior est.\n— Vides, lector, omnes has sententias,\nut ipsam quoque Bochartianam, etymolo-\ngiis niti, inter quas tamen Oedmanniana\nreliquis veri mihi similior videtur. Certi\nvero quidquam de ave תנשמת, quum in\nCodice sacro nihil praeter nomen ejus oc-\ncurrat, nemo facile dixerit."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1752,
+    1130
+   ],
+   [
+    1752,
+    1662
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1432,
+  "cost_usd": 0.0617,
+  "seconds": 18.1,
+  "vote": "4 decisions from v3-1-125"
+ }
+}

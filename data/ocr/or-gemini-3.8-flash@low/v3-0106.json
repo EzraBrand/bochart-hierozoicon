@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "106 <i>Hebr. voce</i> אנפה <i>ſignificatur avis iracunda.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "106 <i>Hebr. voce</i> אנפה <i>ſignificatur avis iracunda.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>taco</i>, (quomodo tum appellabant) <i>eam humanam habere linguam et vocem. Ar-\nrianus</i> etiam in <i>Indicis</i>, Σιττακὸς δὲ Νέαρκος μὲν ὡς δή τι θαῦμα ἀπηγέεται,\nὅτι γίγνονται ἐν τῇ Ἰνδῶν γῇ, καὶ ὁποῖος ὄρνις ἐστὶν ὁ σιττακὸς, καὶ ὅπως φω-\nνὴν ἵει ἀνθρωπίνην. <i>Sittacos autem</i> Nearchus (qui cum <i>Alexandro</i> militavit), <i>ut\nmiraculum quoddam narrat, in</i> India <i>naſci, et qualis ſit avis ſittacus, et quomodo\nhumanam vocem exprimat.</i> Unde pſittacos colligas tum temporis in <i>Graecia</i>\nnondum fuiſſe notos. <i>Ariſtoteles Hiſtoriae</i> libri octavi capite duodecimo, Καὶ\nτὸ Ἰνδικὸν ὄρνεον ἡ ψιττακὴ, τὸ λεγόμενον ἀνθρωπόγλωττον· <i>Et</i> Indica <i>avis\npſittacus, quae dicitur humanam habere linguam. Plinius</i> libri decimi capite qua-\ndrageſimo ſecundo, <i>India autem hanc mittit, pſittacen vocat. Aelianus Hiſtoriae</i>\nlibri decimi ſexti capite ſecundo, Ἐν Ἰνδοῖς μανθάνω σιττακὸς ὄρνις γίνεσθαι.\n<i>In</i> Indis <i>procreari audio ſittacos aves.</i> Vide et libri decimi tertii caput decimum\noctavum, et libri decimi ſexti caput decimum quintum. <i>Pauſanias</i> in <i>Corin-\nthiacis</i>, Παρὰ δὲ Ἰνδῶν μόνων ἄλλα τε κομίζεται, καὶ ὄρνιθες οἱ ψιττακοί.\n<i>A ſolis</i> Indis <i>cum alia, tum pſittaci, afferuntur. Apulejus Floridorum</i> libro ſe-\ncundo, <i>Pſittacus</i> Indiae <i>avis eſt. Solinus</i> capite quinquageſimo ſecundo, <i>Sola\nIndia mittit avem pſittacum. Philoſtorgius</i> libro tertio, ubi de terris, ad extremum\nOrientem et Meridiem ſitis; Καὶ μὲν δὴ καὶ τὴν σιττακὴν ἐκεῖθεν ἴσμεν νομιζο-\nμένην· <i>Et vero pſittacum etiam novimus inde afferri.</i> Unde <i>Ovidius</i> libri ſecundi\n<i>Amorum</i> Elegia ſexta,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>taco</i>, (quomodo tum appellabant) <i>eam humanam habere linguam et vocem. Ar-\nrianus</i> etiam in <i>Indicis</i>, Σιττακὸς δὲ Νέαρκος μὲν ὡς δή τι θαῦμα ἀπηγέεται,\nὅτι γίγνονται ἐν τῇ Ἰνδῶν γῇ, καὶ ὁποῖος ὄρνις ἐστὶν ὁ σιττακὸς, καὶ ὅπως φω-\nνὴν ἵει ἀνθρωπίνην. <i>Sittacos autem</i> Nearchus (qui cum <i>Alexandro</i> militavit), <i>ut\nmiraculum quoddam narrat, in</i> India <i>naſci, et qualis ſit avis ſittacus, et quomodo\nhumanam vocem exprimat.</i> Unde pſittacos colligas tum temporis in <i>Graecia</i>\nnondum fuiſſe notos. <i>Ariſtoteles Hiſtoriae</i> libri octavi capite duodecimo, Καὶ\nτὸ Ἰνδικὸν ὄρνεον ἡ ψιττακὴ, τὸ λεγόμενον ἀνθρωπόγλωττον· <i>Et</i> Indica <i>avis\npſittacus, quae dicitur humanam habere linguam. Plinius</i> libri decimi capite qua-\ndrageſimo ſecundo, <i>India autem hanc mittit, pſittacen vocat. Aelianus Hiſtoriae</i>\nlibri decimi ſexti capite ſecundo, Ἐν Ἰνδοῖς μανθάνω σιττακὸς ὄρνις γίνεσθαι.\n<i>In</i> Indis <i>procreari audio ſittacos aves.</i> Vide et libri decimi tertii caput decimum\noctavum, et libri decimi ſexti caput decimum quintum. <i>Pauſanias</i> in <i>Corin-\nthiacis</i>, Παρὰ δὲ Ἰνδῶν μόνων ἄλλα τε κομίζεται, καὶ ὄρνιθες οἱ ψιττακοί.\n<i>A ſolis</i> Indis <i>cum alia, tum pſittaci, afferuntur. Apulejus Floridorum</i> libro ſe-\ncundo, <i>Pſittacus</i> Indiae <i>avis eſt. Solinus</i> capite quinquageſimo ſecundo, <i>Sola\nIndia mittit avem pſittacum. Philoſtorgius</i> libro tertio, ubi de terris, ad extremum\nOrientem et Meridiem ſitis; Καὶ μὲν δὴ καὶ τὴν σιττακὴν ἐκεῖθεν ἴσμεν νομιζο-\nμένην· <i>Et vero pſittacum etiam novimus inde afferri.</i> Unde <i>Ovidius</i> libri ſecundi\n<i>Amorum</i> Elegia ſexta,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pſittacus Eois ales mihi miſſus ab Indis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pſittacus Eois ales mihi miſſus ab Indis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Item,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Item,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pſittacus extremo munus ab orbe datum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pſittacus extremo munus ab orbe datum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Statius</i> libri ſecundi Elegia quarta,\n<i>Pſittacus ille plagae viridis regnator Eoae.</i>\nEt <i>vetus Poeta</i> in Aenigmate <i>De pſittaco</i>,\n<i>Indica purpureo genuit me littore tellus,\nCandidus accenſo qua redit orbe dies.</i>\nTamen, ut de <i>Novo orbe</i> taceamus, afferri etiam ex <i>Africa</i>, ſed intima, nos\ndocent hodiernae navigationes. Neque <i>Plinium</i> id latuerat, qui libri ſexti capite\nvigeſimo nono, in itineraio a <i>Syene</i> ad inſulam <i>Meroën</i>, quod ediderant <i>Ne-\nronis</i> exploratores, <i>Gagaudem</i> inſulam deſcribens, ait, <i>inde primum viſas aves\npſittacos.</i> Quod confirmat <i>Paulus Venetus</i>, cum de <i>Abaſia</i> ſcribit libri tertii ca-\npite quadrageſimo quinto; <i>Habet pſittacos et epimachos pulcherrimos.</i> Sed haec\n<i>Diodori</i> nullus capio libri ſecundi pagina 95. Αἱ δὲ τῆς Συρίας ἐσχατιαὶ ψιττα-\nκοὺς, καὶ πορφυρίωνας, καὶ μελεαγρίδας (ἐκτρέφουσι). Res eſt enim parado-\nxa, ſed et plane falſa, pſittacos in <i>Syria</i> naſci. Itaque locus ille mihi de men-\ndo ſuſpectus eſt, quamvis, quid ſit reponendum, non ſuccurrat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Statius</i> libri ſecundi Elegia quarta,\n<i>Pſittacus ille plagae viridis regnator Eoae.</i>\nEt <i>vetus Poeta</i> in Aenigmate <i>De pſittaco</i>,\n<i>Indica purpureo genuit me littore tellus,\nCandidus accenſo qua redit orbe dies.</i>\nTamen, ut de <i>Novo orbe</i> taceamus, afferri etiam ex <i>Africa</i>, ſed intima, nos\ndocent hodiernae navigationes. Neque <i>Plinium</i> id latuerat, qui libri ſexti capite\nvigeſimo nono, in itineraio a <i>Syene</i> ad inſulam <i>Meroën</i>, quod ediderant <i>Ne-\nronis</i> exploratores, <i>Gagaudem</i> inſulam deſcribens, ait, <i>inde primum viſas aves\npſittacos.</i> Quod confirmat <i>Paulus Venetus</i>, cum de <i>Abaſia</i> ſcribit libri tertii ca-\npite quadrageſimo quinto; <i>Habet pſittacos et epimachos pulcherrimos.</i> Sed haec\n<i>Diodori</i> nullus capio libri ſecundi pagina 95. Αἱ δὲ τῆς Συρίας ἐσχατιαὶ ψιττα-\nκοὺς, καὶ πορφυρίωνας, καὶ μελεαγρίδας (ἐκτρέφουσι). Res eſt enim parado-\nxa, ſed et plane falſa, pſittacos in <i>Syria</i> naſci. Itaque locus ille mihi de men-\ndo ſuſpectus eſt, quamvis, quid ſit reponendum, non ſuccurrat."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1696,
+    1453
+   ],
+   [
+    1696,
+    1255
+   ]
+  ],
+  "input_tokens": 3378,
+  "output_tokens": 1347,
+  "cost_usd": 0.0076,
+  "seconds": 11.0
+ }
+}

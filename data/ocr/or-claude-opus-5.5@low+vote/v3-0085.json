@@ -1,0 +1,159 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXIX. <i>Probatur</i>, חסידה <i>esse Ciconiam.</i> 85",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXIX. <i>Probatur</i>, חסידה <i>esse Ciconiam.</i> 85"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXIX.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXIX."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, חסידה hasida <i>esse Ciconiam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, חסידה hasida <i>esse Ciconiam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Non diu deliberandum, ex tot interpretamentis vocis חסידה <i>hasida</i>, quod po- ⟦p. 327⟧\ntissimum sit seligendum. Omnino enim חסידה est <i>ciconia.</i> Quod probatur\nprimo ex nomine. Nam חסידה <i>piam</i> et <i>benignam</i> sonat. Talis autem est cico-\nnia. <i>Romanorum usu</i> [inquit <i>Ambrosius</i> ^{a)}] <i>avis pia vocatur.</i> Et in Publio <i>pie-\ntati-cultrix</i>, in versibus notissimis, qui citantur a <i>Petronio</i>:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Non diu deliberandum, ex tot interpretamentis vocis חסידה <i>hasida</i>, quod po- ⟦p. 327⟧\ntissimum sit seligendum. Omnino enim חסידה est <i>ciconia.</i> Quod probatur\nprimo ex nomine. Nam חסידה <i>piam</i> et <i>benignam</i> sonat. Talis autem est cico-\nnia. <i>Romanorum usu</i> [inquit <i>Ambrosius</i> ^{a)}] <i>avis pia vocatur.</i> Et in Publio <i>pie-\ntati-cultrix</i>, in versibus notissimis, qui citantur a <i>Petronio</i>:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ciconia etiam grata, peregrina, hospita,\nPietati-cultrix, gracili-pes, crotalistria.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ciconia etiam grata, peregrina, hospita,\nPietati-cultrix, gracili-pes, crotalistria.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ratio est in promtu. Pietatis est ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις, <i>mutuas\nparentibus vices rependere</i>: quod jubet <i>Paulus</i> 1 <i>Tim. V</i>, 4. Id vero praestare\nciconiam, uno ore testantur omnes scriptores. E vetustioribus ea de re <i>Pla-\ntonem</i> consule in fine primi <i>Alcibiadis</i>, et <i>Aristotelem</i> libri noni <i>Historiae anima-\nlium</i> capite decimo tertio, et <i>Aristophanem</i> in <i>Avibus</i>, ubi graculus ita loquitur,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ratio est in promtu. Pietatis est ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις, <i>mutuas\nparentibus vices rependere</i>: quod jubet <i>Paulus</i> 1 <i>Tim. V</i>, 4. Id vero praestare\nciconiam, uno ore testantur omnes scriptores. E vetustioribus ea de re <i>Pla-\ntonem</i> consule in fine primi <i>Alcibiadis</i>, et <i>Aristotelem</i> libri noni <i>Historiae anima-\nlium</i> capite decimo tertio, et <i>Aristophanem</i> in <i>Avibus</i>, ubi graculus ita loquitur,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀλλ’ ἔστιν ἡμῖν τοῖσιν ὄρνισιν νόμος\nΠαλαιὸς ἐν τοῖς τῶν πελαργῶν κύρβεσιν,\nἘπὴν ὁ πατὴρ ὁ πελαργὸς ἐκπετησίμους\nΠάντας ποιήσῃ τοὺς πελαργιδεῖς τρέφων,\nΔεῖ τοὺς νεοττοὺς τὸν πατέρα πάλιν τρέφειν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀλλ’ ἔστιν ἡμῖν τοῖσιν ὄρνισιν νόμος\nΠαλαιὸς ἐν τοῖς τῶν πελαργῶν κύρβεσιν,\nἘπὴν ὁ πατὴρ ὁ πελαργὸς ἐκπετησίμους\nΠάντας ποιήσῃ τοὺς πελαργιδεῖς τρέφων,\nΔεῖ τοὺς νεοττοὺς τὸν πατέρα πάλιν τρέφειν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sed nobis avibus lex antiqua est in ciconiarum tabulis, ut, postquam pater ciconia\nevolabiles fecerit omnes pullos nutriens, ipsos patrem vicissim nutrire oporteat.</i>\nHinc <i>Plinius</i> libri decimi capite vigesimo tertio, <i>Genitricum senectam invicem\neducant.</i> Et <i>Solinus</i>, <i>Eximia illis inest pietas. Etenim quantum temporis impen-\nderint foetibus educandis, tantum et ipsae a pullis suis invicem aluntur.</i> Et <i>Aelia-\nnus</i> libri tertii capite vigesimo tertio, Τρέφειν μὲν τοὺς πατέρας πελαγοὶ γε-\nγηρακότας καὶ ἐθέλουσι, καὶ ἐμελέτησαν. κελεύει δ’ αὐτοὺς νόμος ἀνθρωπικὸς\nοὐδὲ εἰς τοῦτο, ἀλλ’ αἰτία τούτων φύσις ἀγαθή. <i>Patres jam senes ciconiae alere\nvolunt et student. Non quod eas ad id adigat ulla humana lex, sed in causa est\nnaturae bonitas.</i> Quocirca septem <i>Sapientes</i> cum interrogasset <i>Croesus</i>, Τί τῶν\nζώων εὐδαιμονέστατον; <i>Quod esset animal felicissimum?</i> Πελαργοὺς, <i>ciconias</i> non-\nnulli responderunt, quia δίχα νόμου τῇ φύσει τὸ δίκαιον ἔχουσι, <i>natura et sine\nlege justitiam observant.</i> Ita <i>Apostolius</i> Proverbio 1141. Et apud <i>Origenem</i> con-\ntra <i>Celsum</i> libro quarto <i>Celsus</i> asserit, ob id ipsum εὐσεβεστέρους εἶναι τοὺς πελαρ-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sed nobis avibus lex antiqua est in ciconiarum tabulis, ut, postquam pater ciconia\nevolabiles fecerit omnes pullos nutriens, ipsos patrem vicissim nutrire oporteat.</i>\nHinc <i>Plinius</i> libri decimi capite vigesimo tertio, <i>Genitricum senectam invicem\neducant.</i> Et <i>Solinus</i>, <i>Eximia illis inest pietas. Etenim quantum temporis impen-\nderint foetibus educandis, tantum et ipsae a pullis suis invicem aluntur.</i> Et <i>Aelia-\nnus</i> libri tertii capite vigesimo tertio, Τρέφειν μὲν τοὺς πατέρας πελαγοὶ γε-\nγηρακότας καὶ ἐθέλουσι, καὶ ἐμελέτησαν. κελεύει δ’ αὐτοὺς νόμος ἀνθρωπικὸς\nοὐδὲ εἰς τοῦτο, ἀλλ’ αἰτία τούτων φύσις ἀγαθή. <i>Patres jam senes ciconiae alere\nvolunt et student. Non quod eas ad id adigat ulla humana lex, sed in causa est\nnaturae bonitas.</i> Quocirca septem <i>Sapientes</i> cum interrogasset <i>Croesus</i>, Τί τῶν\nζώων εὐδαιμονέστατον; <i>Quod esset animal felicissimum?</i> Πελαργοὺς, <i>ciconias</i> non-\nnulli responderunt, quia δίχα νόμου τῇ φύσει τὸ δίκαιον ἔχουσι, <i>natura et sine\nlege justitiam observant.</i> Ita <i>Apostolius</i> Proverbio 1141. Et apud <i>Origenem</i> con-\ntra <i>Celsum</i> libro quarto <i>Celsus</i> asserit, ob id ipsum εὐσεβεστέρους εἶναι τοὺς πελαρ-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "L 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "L 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "γοὺς",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "γοὺς"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>In Hexaëm. lib. 5. cap. 16.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In Hexaëm. lib. 5. cap. 16.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2000,
+    1510
+   ],
+   [
+    2000,
+    1318
+   ]
+  ],
+  "input_tokens": 9239,
+  "output_tokens": 1827,
+  "cost_usd": 0.0735,
+  "seconds": 22.3,
+  "vote": "1 decisions from v3-1-125"
+ }
+}

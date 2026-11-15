@@ -95,6 +95,19 @@ def check(entry: str) -> int:
                           f"{n_la} source word(s) in the Latin | …{ctx}…")
     return found
 
+# tranche 7: the unclean birds whose identity is argued keep Bochart's romanized names; these English names need
+# their Latin, Greek or Arabic word in the paragraph
+STORK = (r"\bstorks?\b", r"ciconi|πελαργ|لقلق|cigogne|storch|chasida|hasida|asida|חסידה")
+HERON = (r"\bherons?\b", r"arde|ἐρ[ωῳ]δι|herodi|heron|reiher|مالك")
+PELICAN = (r"\bpelicans?\b", r"pel[ie]can|πελεκ[άᾶα]ν|onocrotal|ὀνοκρ[όο]ταλ")
+HOOPOE = (r"\bhoopoes?\b", r"upup|ἔπο[ψπ]|ἐποπ|هدهد|huppe|wiedehopf")
+BAT = (r"\bbats?\b", r"vespertil|νυκτερ[ίι]|خفاش|وطواط|chauve|fledermaus|atalleph|עטלף")
+GULL = (r"\bgulls?\b|\bsea-?mews?\b", r"lar[uoi]|λ[άα]ρ|gavi|mouette|mewe|möve")
+SWAN = (r"\bswans?\b", r"cygn|cycn|olor|κύκν|κυκν")
+for e in ("sachaph", "nets", "chos", "salach", "jansuph", "thinsemeth", "kaath", "racham-interpretationes", "racham",
+          "racham-objectiones", "chasida-interpretationes", "chasida", "anapha", "dukiphath", "atalleph", "aves-immundae"):
+    RULES[e] = [PIGEON, CROW, STORK, HERON, PELICAN, HOOPOE, BAT, GULL, SWAN]
+
 
 def main():
     entries = sys.argv[1:] or sorted(p.name for p in ENTRIES.iterdir() if p.name in RULES)

@@ -1,0 +1,94 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "4 <i>Probatur,</i> שחף <i>esse Larum, aut Cepphum.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "4 <i>Probatur,</i> שחף <i>esse Larum, aut Cepphum.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et cepphi, et columbae (id est, stulti et simplices) vulpeculis fiditis.</i> Et rursus\n<i>in Pluto</i>, Ὦ κέπφε, <i>O cepphe</i>, id est, <i>O fatue</i>. Proinde ad priorem locum\nScholiastes, Εὔηθες ζῶον ὁ κέπφος, <i>Fatuum est animal cepphus.</i> Et ad posterio-\nrem, Ὄρνεον γὰρ ἄφρον, ὅπερ φιλεῖ ἀφρὸν θαλάττιον ἐσθίειν. Τοῦτο βουλό-\nμενοι οἱ τῶν ἁλιέων παῖδες χειρώσασθαι, ῥίπτουσι τὸ πρῶτον πόῤῥωθεν ἀφρὸν,\nεἶτα ἐγγύτατα, εἶτα φέρουσιν τοῦτο ἐν ταῖς χερσὶν, καὶ οὕτω κατὰ μικρὸν\nἀπατῶντες, εὐχερῶς ἀγρεύουσι τοῦτο ἐμπεσὸν εἰς τὰς χεῖρας αὐτῶν· εἴλη-\nπται οὖν εἰς παροιμίαν ἐπὶ τῶν ἀλογίσων ἀνδρῶν, καὶ ἀνοήτων. <i>Stulta enim est\navis, quae marinae spumae esu delectatur. Cum igitur hanc capere volunt pisca-\ntorum filii, primo spumam eminus jaciunt, deinde propius propiusque, postea\nmanibus ferunt, atque ita paullatim inescantes, in manus suas incidentem facile\ncapiunt. Cessit itaque in proverbium in vecordes homines, atque dementes.</i> Quod\nipsum de hac ave tradiderant antiquiores. Sic Philosophus Historiae animalium\nlibri noni capite trigesimo quinto, Οἱ δὲ κέπφοι ἁλίσκονται τῷ ἀφρῷ, κόπτου-\nσι γὰρ αὐτόν· διὸ προσραίνοντες θηρεύουσιν. <i>Cepphi autem spuma capiuntur;\neam enim appetunt: proinde spuma injecta eos venantur.</i> Et Nicander <i>Alexi-\npharmacon</i> versu 165.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et cepphi, et columbae (id est, stulti et simplices) vulpeculis fiditis.</i> Et rursus\n<i>in Pluto</i>, Ὦ κέπφε, <i>O cepphe</i>, id est, <i>O fatue</i>. Proinde ad priorem locum\nScholiastes, Εὔηθες ζῶον ὁ κέπφος, <i>Fatuum est animal cepphus.</i> Et ad posterio-\nrem, Ὄρνεον γὰρ ἄφρον, ὅπερ φιλεῖ ἀφρὸν θαλάττιον ἐσθίειν. Τοῦτο βουλό-\nμενοι οἱ τῶν ἁλιέων παῖδες χειρώσασθαι, ῥίπτουσι τὸ πρῶτον πόῤῥωθεν ἀφρὸν,\nεἶτα ἐγγύτατα, εἶτα φέρουσιν τοῦτο ἐν ταῖς χερσὶν, καὶ οὕτω κατὰ μικρὸν\nἀπατῶντες, εὐχερῶς ἀγρεύουσι τοῦτο ἐμπεσὸν εἰς τὰς χεῖρας αὐτῶν· εἴλη-\nπται οὖν εἰς παροιμίαν ἐπὶ τῶν ἀλογίσων ἀνδρῶν, καὶ ἀνοήτων. <i>Stulta enim est\navis, quae marinae spumae esu delectatur. Cum igitur hanc capere volunt pisca-\ntorum filii, primo spumam eminus jaciunt, deinde propius propiusque, postea\nmanibus ferunt, atque ita paullatim inescantes, in manus suas incidentem facile\ncapiunt. Cessit itaque in proverbium in vecordes homines, atque dementes.</i> Quod\nipsum de hac ave tradiderant antiquiores. Sic Philosophus Historiae animalium\nlibri noni capite trigesimo quinto, Οἱ δὲ κέπφοι ἁλίσκονται τῷ ἀφρῷ, κόπτου-\nσι γὰρ αὐτόν· διὸ προσραίνοντες θηρεύουσιν. <i>Cepphi autem spuma capiuntur;\neam enim appetunt: proinde spuma injecta eos venantur.</i> Et Nicander <i>Alexi-\npharmacon</i> versu 165."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀφρὸν ἐπεγκεράσοιο θοῷ δορπήϊα κέπφῳ.\nΤῷ γὰρ δὴ ζωήν τε σαοῖ, καὶ πότμον ἐπισπᾷ.\nΕὖτε δόλοις νήχοντα κακοφθόρα τέκν' ἁλιήων\nΟἰωνὸν χραίνωσιν. ὁ δ' ἐς χέρας ἔμπεσε παίδων,\nΘηρεύων ἀφροῖο νέην κλύδα λευκαίνουσαν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀφρὸν ἐπεγκεράσοιο θοῷ δορπήϊα κέπφῳ.\nΤῷ γὰρ δὴ ζωήν τε σαοῖ, καὶ πότμον ἐπισπᾷ.\nΕὖτε δόλοις νήχοντα κακοφθόρα τέκν' ἁλιήων\nΟἰωνὸν χραίνωσιν. ὁ δ' ἐς χέρας ἔμπεσε παίδων,\nΘηρεύων ἀφροῖο νέην κλύδα λευκαίνουσαν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Spumam admisce citi cepphi pabulum. Illo enim et vitam servat, et fatum accer-\nsit: cum natantem avem ea dolose inquinant perniciosi piscatorum filii. Is autem\nin puerorum manus incidit, persequens spumae recentem adspersionem albicantem.</i>\nPlura vide apud Nicandri Scholiastem, Hesychium, Suidam, Etymologum ^{(2)} et\nalios, quos exscribere jam non vacat. Neque vero est opus, cum, quae jam di-\ncta sunt, nude repetant. Tantum monebo, in his Hesychii et Suidae Κεπφωθείς·\nἐπαρθεὶς, pro ἐπαρθεὶς legendum esse ἐπαχθεὶς; Ipso enim Hesychio auctore\nΚεπφωθεὶς dicitur ἐπὶ τῶν ἀλόγου δίκην ἀνοήτως συνεπαγομένων de iis, qui\nbruti ad instar stulte ducuntur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Spumam admisce citi cepphi pabulum. Illo enim et vitam servat, et fatum accer-\nsit: cum natantem avem ea dolose inquinant perniciosi piscatorum filii. Is autem\nin puerorum manus incidit, persequens spumae recentem adspersionem albicantem.</i>\nPlura vide apud Nicandri Scholiastem, Hesychium, Suidam, Etymologum ^{(2)} et\nalios, quos exscribere jam non vacat. Neque vero est opus, cum, quae jam di-\ncta sunt, nude repetant. Tantum monebo, in his Hesychii et Suidae Κεπφωθείς·\nἐπαρθεὶς, pro ἐπαρθεὶς legendum esse ἐπαχθεὶς; Ipso enim Hesychio auctore\nΚεπφωθεὶς dicitur ἐπὶ τῶν ἀλόγου δίκην ἀνοήτως συνεπαγομένων de iis, qui\nbruti ad instar stulte ducuntur."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Et apud OPPIANUM in Ἰξευτικ. Lib. II. c. 10. p. 189. ed. Schneider.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et apud OPPIANUM in Ἰξευτικ. Lib. II. c. 10. p. 189. ed. Schneider."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1696,
+    2188
+   ]
+  ],
+  "input_tokens": 2336,
+  "output_tokens": 1149,
+  "cost_usd": 0.0061,
+  "seconds": 11.4
+ }
+}

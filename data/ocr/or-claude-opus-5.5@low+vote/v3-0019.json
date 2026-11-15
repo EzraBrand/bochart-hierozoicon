@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XX. <i>an Onocrotalus.</i> 19",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XX. <i>an Onocrotalus.</i> 19"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "gula) <i>in iis avibus, quae in aquis semper manent: at haec avis modo in\naqua degit, modo ab ea divellitur;</i> ut secedat scilicet in intimam solitudi-\nnem. Hoc quoque non omittendum, <i>Psaltem</i> huic avi se conferre propter\nassiduos questus et planctus. Nam praecesserat \nמקול אנחתי\n, <i>propter vocem\ngemitus mei ossa mea carni adhaeserunt.</i> Porro vox onocrotali moestum et\nhorribile aliquid habet. <i>Aelianus</i> ubi supra, Φθέγμα δὲ ἔχει καὶ μάλα\nἀπηχὲς, <i>Vocem habet valde absonam.</i> Proinde <i>Graecis</i> dictus est ὀνοκρό-\nταλος, quasi <i>rudat instar asini:</i> et nonnullis <i>Arabum</i> \nجمل الما\n, <i>ca-\nmelus aquae,</i> quasi <i>blateret in cameli modum.</i> Hinc Albertus, <i>Quasi cornu\nsonans horribilem vocem emittit.</i> Et Olaus, <i>Magnum clamorem edit instar bo-\ntauri avis</i>, id est, <i>ardeae stellaris</i>, quae voce sua tauri mugitum imitatur.\nDenique non potuit haec avis ignota esse <i>Iudaeis</i>, cum idonei scriptores re-\nperiri testentur circa <i>Syriae Antiochiam</i> et <i>Palaestinae Gazam</i>, et in <i>Aegypto</i>\nfrequentem esse. Addi queat, inde factum esse, ut \nכוס\n <i>chos</i> a <i>Graecis</i>,\nquos reliqui sequuti sunt, pro <i>onocrotalo</i> redderetur νυκτικόραξ, quod pro\nכוס\n <i>chos</i> legerunt \nבום\n <i>bum.</i> Quae duo voces, quamvis sono differant im-\nmensum quantum, tamen apud <i>Hebraeos</i> scriptura sunt simillimae. Porro\nvoce \nבום\n <i>bum</i>, <i>noctuam</i>, et \nغراب الليل\n, <i>corvum noctis</i>, id est, <i>nycti-\ncoracem</i>, significari, saltem apud <i>Arabes</i>, quorum lingua est <i>Hebraicae</i> dia-\nlectus, abunde supra ^{a)} probavimus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "gula) <i>in iis avibus, quae in aquis semper manent: at haec avis modo in\naqua degit, modo ab ea divellitur;</i> ut secedat scilicet in intimam solitudi-\nnem. Hoc quoque non omittendum, <i>Psaltem</i> huic avi se conferre propter\nassiduos questus et planctus. Nam praecesserat \nמקול אנחתי\n, <i>propter vocem\ngemitus mei ossa mea carni adhaeserunt.</i> Porro vox onocrotali moestum et\nhorribile aliquid habet. <i>Aelianus</i> ubi supra, Φθέγμα δὲ ἔχει καὶ μάλα\nἀπηχὲς, <i>Vocem habet valde absonam.</i> Proinde <i>Graecis</i> dictus est ὀνοκρό-\nταλος, quasi <i>rudat instar asini:</i> et nonnullis <i>Arabum</i> \nجمل الما\n, <i>ca-\nmelus aquae,</i> quasi <i>blateret in cameli modum.</i> Hinc Albertus, <i>Quasi cornu\nsonans horribilem vocem emittit.</i> Et Olaus, <i>Magnum clamorem edit instar bo-\ntauri avis</i>, id est, <i>ardeae stellaris</i>, quae voce sua tauri mugitum imitatur.\nDenique non potuit haec avis ignota esse <i>Iudaeis</i>, cum idonei scriptores re-\nperiri testentur circa <i>Syriae Antiochiam</i> et <i>Palaestinae Gazam</i>, et in <i>Aegypto</i>\nfrequentem esse. Addi queat, inde factum esse, ut \nכוס\n <i>chos</i> a <i>Graecis</i>,\nquos reliqui sequuti sunt, pro <i>onocrotalo</i> redderetur νυκτικόραξ, quod pro\nכוס\n <i>chos</i> legerunt \nבום\n <i>bum.</i> Quae duo voces, quamvis sono differant im-\nmensum quantum, tamen apud <i>Hebraeos</i> scriptura sunt simillimae. Porro\nvoce \nבום\n <i>bum</i>, <i>noctuam</i>, et \nغراب الليل\n, <i>corvum noctis</i>, id est, <i>nycti-\ncoracem</i>, significari, saltem apud <i>Arabes</i>, quorum lingua est <i>Hebraicae</i> dia-\nlectus, abunde supra ^{a)} probavimus."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Pag.</i> 273.",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pag.</i> 273."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "C 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "C 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1609,
+    1465
+   ],
+   [
+    1609,
+    1319
+   ]
+  ],
+  "input_tokens": 7753,
+  "output_tokens": 1076,
+  "cost_usd": 0.0525,
+  "seconds": 16.1,
+  "vote": "0 decisions from v3-1-125"
+ }
+}

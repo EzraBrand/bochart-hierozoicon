@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXVI. <i>Probatur,</i> רחם <i>esse Vulturis speciem.</i> 63",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXVI. <i>Probatur,</i> רחם <i>esse Vulturis speciem.</i> 63"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πλὴν μαντικὴν ἔχουσιν οἱ γῦπες φύσιν·\nΚαὶ γὰρ συνεκδημοῦσι τοῖς μαχουμένοις,\nΤῶν σωμάτων ἐλπίδι πεσουμένων τότε.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πλὴν μαντικὴν ἔχουσιν οἱ γῦπες φύσιν·\nΚαὶ γὰρ συνεκδημοῦσι τοῖς μαχουμένοις,\nΤῶν σωμάτων ἐλπίδι πεσουμένων τότε."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Praeterea vultures naturam habent vaticinam: quippe cum iis peregrinantur, qui\ndimicaturi sunt, in spem cadaverum, quae tunc cadent.</i> Apud <i>Plinium</i> tradit\n<i>Umbricius</i>, aruspicum peritissimus, <i>triduo ante, aut biduo volare eos, ubi cada-\nvera futura sint.</i> Unde <i>Plautus</i> in <i>Truculento</i> Scena <i>Piscis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Praeterea vultures naturam habent vaticinam: quippe cum iis peregrinantur, qui\ndimicaturi sunt, in spem cadaverum, quae tunc cadent.</i> Apud <i>Plinium</i> tradit\n<i>Umbricius</i>, aruspicum peritissimus, <i>triduo ante, aut biduo volare eos, ubi cada-\nvera futura sint.</i> Unde <i>Plautus</i> in <i>Truculento</i> Scena <i>Piscis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>vide, ut jam, quasi volturii, triduo\nPrius praedivinant quo die esuri sient.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>vide, ut jam, quasi volturii, triduo\nPrius praedivinant quo die esuri sient.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aegyptii</i> non triduo, sed septiduo ante, vultures praelii locum designare asserunt,\nadeoque praevidere, ex qua parte major futura sit strages. <i>Horus Hieroglyphi-\ncῶn</i> libri primi capite undecimo, Πολέμου μέλλοντος τελειοῦσθαι, τὸν τόπον ὁρί-\nζει, ἐν ᾧ μέλλει ὁ πόλεμος γίνεσθαι, πρὸ ἡμέρων ἑπτὰ ἐπ' αὐτὸν παραγινομένη·\n<i>Cum belli conficiendi tempus instat, definit locum, in quo pugna committi debet,\nseptem ante diebus ad eum accedens.</i> Et rursus, Πλείονας σφαζομένους, καὶ ἡτ-\nτωμένους, βλέπει, ταμιευομένη τὴν ἑαυτοῦ ἐκ τῶν πτωμάτων τροφήν· παρ'\nὃ καὶ οἱ ἀρχαῖοι βασιλεῖς κατασκόπους ἔπεμπον σκεπτομένους κατὰ ποῖον τοῦ\nπολέμου οἱ γῦπες βλέπουσι μέρος, ἐντεῦθεν σημειούμενοι τοὺς ἡττωμένους. <i>Ubi\nplures mactandi sint, et qui vincendi, praevidet, ut ex cadaveribus cibum sibi ipsi\nseponat. Proinde prisci reges exploratores mittebant, qui observarent, in utram\naciei partem vultures respicerent, et inde colligerent, quinam esse vincendi.</i> Quae,\nut saltem ex parte vera, maxime mirantur ii <i>Patres</i>, qui in <i>Hexaëmeron</i> scripse-\nrunt. <i>Basilius</i> Homilia octava, Τίς τοῖς γυψὶ προαπαγγέλλων τῶν ἀνθρώ-\nπων τὸν θάνατον, ὅταν κατ' ἀλλήλων ἐπιστρατεύσωσιν; ἴδοις γὰρ ἂν μυρίας\nἀγέλας γυπῶν τοῖς στρατοπέδοις παρεπομένας, ἐκ τῆς τῶν ὅπλων παρασκευῆς\nτεκμαιρομένων τὴν ἔκβασιν. Quae <i>Ambrosius</i> ita reddidit, <i>Interrogabo te, tu\nautem responde mihi: Unde vultures mortem hominum signis quibusdam annuntia-\nre consueverint? Quo indicio edocti atque instructi sint, ut, cum bellum lacrima-\nbile inter se adversae acies instaurant, multo praedictae volucres sequantur agmine,\net eo significent, quia multitudo hominum casura sit bello, futura praeda vulturi-\nbus?</i> Et <i>Eustathius</i>, Ἡνίκα δέ φασιν ἄνδρες εἰς πόλεμον παρατάσσονται, ἐπ-\nακολουθεῖ αὐτοῖς, καὶ οὐκ ἀφίσταται, σαρκοβόρος ὤν· <i>Cum autem homines in\naciem instruuntur, sequitur, neque abscedit, cum sit carnis avidus.</i> Unde est,\nquod cum vulturibus conferuntur haeredipetae. Quo sensu dicit <i>Seneca</i> Epistola\nnonagesima quinta, <i>Vultur est, cadaver exspectat.</i> Et <i>Martialis</i> libri sexti <i>Epi-\ngrammate</i> sexagesimo secundo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aegyptii</i> non triduo, sed septiduo ante, vultures praelii locum designare asserunt,\nadeoque praevidere, ex qua parte major futura sit strages. <i>Horus Hieroglyphi-\ncῶn</i> libri primi capite undecimo, Πολέμου μέλλοντος τελειοῦσθαι, τὸν τόπον ὁρί-\nζει, ἐν ᾧ μέλλει ὁ πόλεμος γίνεσθαι, πρὸ ἡμέρων ἑπτὰ ἐπ' αὐτὸν παραγινομένη·\n<i>Cum belli conficiendi tempus instat, definit locum, in quo pugna committi debet,\nseptem ante diebus ad eum accedens.</i> Et rursus, Πλείονας σφαζομένους, καὶ ἡτ-\nτωμένους, βλέπει, ταμιευομένη τὴν ἑαυτοῦ ἐκ τῶν πτωμάτων τροφήν· παρ'\nὃ καὶ οἱ ἀρχαῖοι βασιλεῖς κατασκόπους ἔπεμπον σκεπτομένους κατὰ ποῖον τοῦ\nπολέμου οἱ γῦπες βλέπουσι μέρος, ἐντεῦθεν σημειούμενοι τοὺς ἡττωμένους. <i>Ubi\nplures mactandi sint, et qui vincendi, praevidet, ut ex cadaveribus cibum sibi ipsi\nseponat. Proinde prisci reges exploratores mittebant, qui observarent, in utram\naciei partem vultures respicerent, et inde colligerent, quinam esse vincendi.</i> Quae,\nut saltem ex parte vera, maxime mirantur ii <i>Patres</i>, qui in <i>Hexaëmeron</i> scripse-\nrunt. <i>Basilius</i> Homilia octava, Τίς τοῖς γυψὶ προαπαγγέλλων τῶν ἀνθρώ-\nπων τὸν θάνατον, ὅταν κατ' ἀλλήλων ἐπιστρατεύσωσιν; ἴδοις γὰρ ἂν μυρίας\nἀγέλας γυπῶν τοῖς στρατοπέδοις παρεπομένας, ἐκ τῆς τῶν ὅπλων παρασκευῆς\nτεκμαιρομένων τὴν ἔκβασιν. Quae <i>Ambrosius</i> ita reddidit, <i>Interrogabo te, tu\nautem responde mihi: Unde vultures mortem hominum signis quibusdam annuntia-\nre consueverint? Quo indicio edocti atque instructi sint, ut, cum bellum lacrima-\nbile inter se adversae acies instaurant, multo praedictae volucres sequantur agmine,\net eo significent, quia multitudo hominum casura sit bello, futura praeda vulturi-\nbus?</i> Et <i>Eustathius</i>, Ἡνίκα δέ φασιν ἄνδρες εἰς πόλεμον παρατάσσονται, ἐπ-\nακολουθεῖ αὐτοῖς, καὶ οὐκ ἀφίσταται, σαρκοβόρος ὤν· <i>Cum autem homines in\naciem instruuntur, sequitur, neque abscedit, cum sit carnis avidus.</i> Unde est,\nquod cum vulturibus conferuntur haeredipetae. Quo sensu dicit <i>Seneca</i> Epistola\nnonagesima quinta, <i>Vultur est, cadaver exspectat.</i> Et <i>Martialis</i> libri sexti <i>Epi-\ngrammate</i> sexagesimo secundo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cujus vulturis hoc erit cadaver?</i> ⟦p. 310⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cujus vulturis hoc erit cadaver?</i> ⟦p. 310⟧"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Unum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Unum"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1800,
+    1536
+   ],
+   [
+    1800,
+    1268
+   ]
+  ],
+  "input_tokens": 8460,
+  "output_tokens": 1907,
+  "cost_usd": 0.072,
+  "seconds": 23.3
+ }
+}

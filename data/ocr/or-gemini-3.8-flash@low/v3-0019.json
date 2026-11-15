@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XX. an Onocrotalus. 19",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XX. an Onocrotalus. 19"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "gula) <i>in iis avibus, quae in aquis semper manent: at haec avis modo in\naqua degit, modo ab ea divellitur; ut secedat scilicet in intimam solitudi-\nnem</i>. Hoc quoque non omittendum, Psaltem huic avi se conferre propter\nassiduos questus et planctus. Nam praecesserat מקול אנחתי, <i>propter vocem\ngemitus mei ossa mea carni adhaeserunt</i>. Porro vox onocrotali moestum et\nhorribile aliquid habet. <i>Aelianus</i> ubi supra, Φθέγμα δὲ ἔχει καὶ μάλα\nἀπηχὲς, <i>Vocem habet valde absonam</i>. Proinde Graecis dictus est ὀνοκρό-\nταλος, quasi <i>rudat instar asini:</i> et nonnullis <i>Arabum</i> جمل الماء, <i>ca-\nmelus aquae, quasi blateret in cameli modum</i>. Hinc Albertus, <i>Quasi cornu\nsonans horribilem vocem emittit</i>. Et Olaus, <i>Magnum clamorem edit instar bo-\ntauri avis, id est, ardeae stellaris, quae voce sua tauri mugitum imitatur</i>.\nDenique non potuit haec avis ignota esse <i>Iudaeis</i>, cum idonei scriptores re-\nperiri testentur circa <i>Syriae Antiochiam</i> et <i>Palaestinae Gazam</i>, et in <i>Aegypto</i>\nfrequentem esse. Addi queat, inde factum esse, ut כוס <i>chos</i> a Graecis,\nquos reliqui sequuti sunt, pro onocrotalo redderetur νυκτικόραξ, quod pro\nכוס <i>chos</i> legerunt בום <i>bum</i>. Quae duo voces, quamvis sono differant im-\nmensum quantum, tamen apud Hebraeos scriptura sunt simillimae. Porro\nvoce בום <i>bum</i>, <i>noctuam</i>, et غراب الليل, <i>corvum noctis, id est, nycti-\ncoracem,</i> significari, saltem apud <i>Arabes</i>, quorum lingua est <i>Hebraicae</i> dia-\nlectus, abunde supra ª) probavimus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "gula) <i>in iis avibus, quae in aquis semper manent: at haec avis modo in\naqua degit, modo ab ea divellitur; ut secedat scilicet in intimam solitudi-\nnem</i>. Hoc quoque non omittendum, Psaltem huic avi se conferre propter\nassiduos questus et planctus. Nam praecesserat מקול אנחתי, <i>propter vocem\ngemitus mei ossa mea carni adhaeserunt</i>. Porro vox onocrotali moestum et\nhorribile aliquid habet. <i>Aelianus</i> ubi supra, Φθέγμα δὲ ἔχει καὶ μάλα\nἀπηχὲς, <i>Vocem habet valde absonam</i>. Proinde Graecis dictus est ὀνοκρό-\nταλος, quasi <i>rudat instar asini:</i> et nonnullis <i>Arabum</i> جمل الماء, <i>ca-\nmelus aquae, quasi blateret in cameli modum</i>. Hinc Albertus, <i>Quasi cornu\nsonans horribilem vocem emittit</i>. Et Olaus, <i>Magnum clamorem edit instar bo-\ntauri avis, id est, ardeae stellaris, quae voce sua tauri mugitum imitatur</i>.\nDenique non potuit haec avis ignota esse <i>Iudaeis</i>, cum idonei scriptores re-\nperiri testentur circa <i>Syriae Antiochiam</i> et <i>Palaestinae Gazam</i>, et in <i>Aegypto</i>\nfrequentem esse. Addi queat, inde factum esse, ut כוס <i>chos</i> a Graecis,\nquos reliqui sequuti sunt, pro onocrotalo redderetur νυκτικόραξ, quod pro\nכוס <i>chos</i> legerunt בום <i>bum</i>. Quae duo voces, quamvis sono differant im-\nmensum quantum, tamen apud Hebraeos scriptura sunt simillimae. Porro\nvoce בום <i>bum</i>, <i>noctuam</i>, et غراب الليل, <i>corvum noctis, id est, nycti-\ncoracem,</i> significari, saltem apud <i>Arabes</i>, quorum lingua est <i>Hebraicae</i> dia-\nlectus, abunde supra ª) probavimus."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Pag. 273.",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pag. 273."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "C 2 CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "C 2 CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1609,
+    1465
+   ],
+   [
+    1609,
+    1319
+   ]
+  ],
+  "input_tokens": 3399,
+  "output_tokens": 688,
+  "cost_usd": 0.0051,
+  "seconds": 7.2
+ }
+}

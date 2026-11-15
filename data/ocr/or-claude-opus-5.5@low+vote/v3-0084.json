@@ -1,0 +1,75 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "84 <i>Variae interpretationes vocis</i> חסידה. P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "84 <i>Variae interpretationes vocis</i> חסידה. P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "licet nondum actum, cui <i>hasida</i> est [?] <i>hirundo</i> ^{(3)}. Nec de\niis <i>Arabum</i>, qui in Lege الصقر <i>sacrum</i> explicant <i>accipitrem:</i> et in <i>Psal-\nmis</i> الهام <i>noctuam:</i> in <i>Prophetis</i> القعقع <i>alkoko;</i> quod <i>Gabriel Sio-\nnita</i> in uno loco pro <i>grue</i>, in altero pro <i>pica</i> sumit, sed utrobique perpe-\nram, ut infra docebitur. Neque de <i>Syro</i>, qui alibi ܚܣܝܕܐ, <i>ciconiam</i> in-\nterpretatur, sed in <i>Iobo</i> ܐܛܐ <i>otum.</i> Neque de <i>Graecis</i> in <i>Zacharia</i>, qui-\nbus כנפי החסידה, sunt πτέρυγες ἔποπος, <i>alae upupae.</i> Neque de <i>Olym-\npiodoro</i> in <i>Ieremiam</i>, ubi Ἰνδικόν ἐστι γένος ὀρνέου ἡ ἀσίδα, Indicum <i>avis ge-\nnus est</i> asida. Neque de <i>Polychronio</i> in <i>Iobum</i>, ubi Τινὲς ἔφασαν τὴν\nἈραβίδα εἶναι ὄρνιν, ἥτις ἐν τῇ Μεσοποταμίᾳ εὑρίσκεται, Arabicam <i>esse\navem, nonnulli tradiderunt, quae in</i> Mesopotamia <i>reperitur.</i> Neque de <i>Lexi-\ncographis, Cyrillo</i> et <i>Phavorino:</i> quibus ἀσίδα est στρουθοκάμηλος. Quae se-\nmel et simul monuisse sufficiat, ut jam inter tot veterum fluctuationes pe-\ndem conemur in firmo loco sistere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "licet nondum actum, cui <i>hasida</i> est [?] <i>hirundo</i> ^{(3)}. Nec de\niis <i>Arabum</i>, qui in Lege الصقر <i>sacrum</i> explicant <i>accipitrem:</i> et in <i>Psal-\nmis</i> الهام <i>noctuam:</i> in <i>Prophetis</i> القعقع <i>alkoko;</i> quod <i>Gabriel Sio-\nnita</i> in uno loco pro <i>grue</i>, in altero pro <i>pica</i> sumit, sed utrobique perpe-\nram, ut infra docebitur. Neque de <i>Syro</i>, qui alibi ܚܣܝܕܐ, <i>ciconiam</i> in-\nterpretatur, sed in <i>Iobo</i> ܐܛܐ <i>otum.</i> Neque de <i>Graecis</i> in <i>Zacharia</i>, qui-\nbus כנפי החסידה, sunt πτέρυγες ἔποπος, <i>alae upupae.</i> Neque de <i>Olym-\npiodoro</i> in <i>Ieremiam</i>, ubi Ἰνδικόν ἐστι γένος ὀρνέου ἡ ἀσίδα, Indicum <i>avis ge-\nnus est</i> asida. Neque de <i>Polychronio</i> in <i>Iobum</i>, ubi Τινὲς ἔφασαν τὴν\nἈραβίδα εἶναι ὄρνιν, ἥτις ἐν τῇ Μεσοποταμίᾳ εὑρίσκεται, Arabicam <i>esse\navem, nonnulli tradiderunt, quae in</i> Mesopotamia <i>reperitur.</i> Neque de <i>Lexi-\ncographis, Cyrillo</i> et <i>Phavorino:</i> quibus ἀσίδα est στρουθοκάμηλος. Quae se-\nmel et simul monuisse sufficiat, ut jam inter tot veterum fluctuationes pe-\ndem conemur in firmo loco sistere."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„Hirundo, veris quidem nuntia, et\nmigratoria (Ierem. VIII, 7.), ideo tamen\nplane displicet, quod peculiare illi domici-\nlium non arbores altae (id quod Ps. CIV,\n17. de חסידה dicitur), sed tecta aedium.“\nHaec I. D. MICHAELIS in <i>Supplemm. ad\nLexx. Hebrr.</i> P. III. pag. 861. not., qui\nomnino de his veterum interpretationibus\nest conferendus.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„Hirundo, veris quidem nuntia, et\nmigratoria (Ierem. VIII, 7.), ideo tamen\nplane displicet, quod peculiare illi domici-\nlium non arbores altae (id quod Ps. CIV,\n17. de חסידה dicitur), sed tecta aedium.“\nHaec I. D. MICHAELIS in <i>Supplemm. ad\nLexx. Hebrr.</i> P. III. pag. 861. not., qui\nomnino de his veterum interpretationibus\nest conferendus."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1700,
+    1142
+   ],
+   [
+    1700,
+    1674
+   ]
+  ],
+  "input_tokens": 8056,
+  "output_tokens": 1067,
+  "cost_usd": 0.0536,
+  "seconds": 14.5,
+  "vote": "0 decisions from v3-1-125"
+ }
+}

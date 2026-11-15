@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "36 <i>Probatur</i>, תנשמת <i>esse Noctuam.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "36 <i>Probatur</i>, תנשמת <i>esse Noctuam.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Kimchius in Lexico</i>, כתב רש\"י ז\"ל כי הוא הנקרא צ\"ואיטא, <i>Scripsit R. Selomo</i> ⟦p. 290.⟧\n<i>Iarchi beatae memoriae, id esse animal, quod Gallice vocatur</i> chovette, <i>id est, no-</i>\n<i>ctua. Utut sit, Hebraeorum doctissimi, Baal Hatturim, Aben Ezra, Kimchius</i>\n<i>etc. avem esse volunt, quae sic dicitur, quia</i> כל רואה אותה ישום, <i>quisquis il-</i>\n<i>lam videt, miratur et obstupescit. Quod sane intelligendum est: nam mirari,</i>\n<i>vel obstupescere, est</i> שש, <i>unde ut deducatur</i> תנשמת <i>thinsemeth, non patitur</i>\n<i>forma Nominis, quam ad</i> נשם <i>nasam pertinere, palam est. Sed in illa lingua</i>\n<i>fieri potest, ut idem Verbum duas habeat origines, unam ratione formae, al-</i>\n<i>teram ratione significationis. Neque pauca verba reperies, quae cum formam</i>\n<i>habeant a Defectivis Pe-Nun, quale est</i> נשם <i>nasam, significationem sumunt a</i>\n<i>geminantibus secundam, quale est</i> שמם <i>samam. Ita</i> נחילות <i>nechiloth, tibiae</i>\n<i>species Ps. V, 1. formam habet a Verbo</i> נחל <i>nachal, possidere; sed significatio-</i>\n<i>nem a Verbo</i> חלל <i>chalal, perforare, unde etiam</i> חליל <i>chalil est tibia, Es. V, 12.</i>\n<i>et</i> חללים <i>chalalim, id est, tibiae, Ierem. XLVIII, 36. Et vox</i> נכסים <i>necasim,</i>\n<i>id est, opes, pari ratione deducitur a</i> כסס <i>casas, id est, numerare. Et</i> נארים\n<i>nearim, id est, maledicti, Ps. LXXXIX, 10. tanquam a</i> נאר, <i>significationem ha-</i>\n<i>bet ab</i> ארר <i>arar, id est, execrari. Et Es. XXII, 7. verba</i> המסכה הנסוכה, <i>ve-</i>\n<i>lamen obductum, et Es. XXX, 1.</i> וְלִנְסוֹךְ מַסֵּכָה, <i>et ad obducendum velamen,</i>\n<i>quamvis deducta a Verbo</i> נסך <i>nasach, quod est fundere, significationem tamen</i>\n<i>mutuantur a Verbo</i> סכך <i>sachach, quod tegere est, et obducere. Et Lev. XXIV,</i>\n<i>11. 16.</i> נקב <i>nakab, i. e. perforare, ter usurpatum reperies pro</i> קבב <i>kabab, i. e. ma-</i>\n<i>ledicere. Sed, ne longius exempla petantur, ut</i> תנשמת <i>thinsemeth, ita etiam</i>\nנשמה <i>nesama, anima proprie rationalis, ratione formae est a radice</i> נשם <i>nasam,</i>\n<i>at ratione significationis deduci volunt a voce</i> שמים <i>samajim, quae coelos sonat;</i>\n<i>quia</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Kimchius in Lexico</i>, כתב רש\"י ז\"ל כי הוא הנקרא צ\"ואיטא, <i>Scripsit R. Selomo</i> ⟦p. 290.⟧\n<i>Iarchi beatae memoriae, id esse animal, quod Gallice vocatur</i> chovette, <i>id est, no-</i>\n<i>ctua. Utut sit, Hebraeorum doctissimi, Baal Hatturim, Aben Ezra, Kimchius</i>\n<i>etc. avem esse volunt, quae sic dicitur, quia</i> כל רואה אותה ישום, <i>quisquis il-</i>\n<i>lam videt, miratur et obstupescit. Quod sane intelligendum est: nam mirari,</i>\n<i>vel obstupescere, est</i> שש, <i>unde ut deducatur</i> תנשמת <i>thinsemeth, non patitur</i>\n<i>forma Nominis, quam ad</i> נשם <i>nasam pertinere, palam est. Sed in illa lingua</i>\n<i>fieri potest, ut idem Verbum duas habeat origines, unam ratione formae, al-</i>\n<i>teram ratione significationis. Neque pauca verba reperies, quae cum formam</i>\n<i>habeant a Defectivis Pe-Nun, quale est</i> נשם <i>nasam, significationem sumunt a</i>\n<i>geminantibus secundam, quale est</i> שמם <i>samam. Ita</i> נחילות <i>nechiloth, tibiae</i>\n<i>species Ps. V, 1. formam habet a Verbo</i> נחל <i>nachal, possidere; sed significatio-</i>\n<i>nem a Verbo</i> חלל <i>chalal, perforare, unde etiam</i> חליל <i>chalil est tibia, Es. V, 12.</i>\n<i>et</i> חללים <i>chalalim, id est, tibiae, Ierem. XLVIII, 36. Et vox</i> נכסים <i>necasim,</i>\n<i>id est, opes, pari ratione deducitur a</i> כסס <i>casas, id est, numerare. Et</i> נארים\n<i>nearim, id est, maledicti, Ps. LXXXIX, 10. tanquam a</i> נאר, <i>significationem ha-</i>\n<i>bet ab</i> ארר <i>arar, id est, execrari. Et Es. XXII, 7. verba</i> המסכה הנסוכה, <i>ve-</i>\n<i>lamen obductum, et Es. XXX, 1.</i> וְלִנְסוֹךְ מַסֵּכָה, <i>et ad obducendum velamen,</i>\n<i>quamvis deducta a Verbo</i> נסך <i>nasach, quod est fundere, significationem tamen</i>\n<i>mutuantur a Verbo</i> סכך <i>sachach, quod tegere est, et obducere. Et Lev. XXIV,</i>\n<i>11. 16.</i> נקב <i>nakab, i. e. perforare, ter usurpatum reperies pro</i> קבב <i>kabab, i. e. ma-</i>\n<i>ledicere. Sed, ne longius exempla petantur, ut</i> תנשמת <i>thinsemeth, ita etiam</i>\nנשמה <i>nesama, anima proprie rationalis, ratione formae est a radice</i> נשם <i>nasam,</i>\n<i>at ratione significationis deduci volunt a voce</i> שמים <i>samajim, quae coelos sonat;</i>\n<i>quia</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Igneus est olli vigor, et coelestis origo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Igneus est olli vigor, et coelestis origo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Kimchius in Lexico</i>, לא מצאנו נשמה חוץ מנשמת האדם ורבים אמרו שנקראת\nכן בעבור שהיא מן השמים ואם הם שנים שרשים נמצאו כמוהו רבים, <i>Vo-</i>\n<i>cem</i> nesama <i>non reperimus, nisi de anima humana, quam ita vocari multi asserunt,</i>\n<i>quia venit e coelis: et, sint licet duae Radices, multa hujusmodi inveniuntur. Ex</i>\n<i>his igitur exemplis patet, etiam vocem</i> תנשמת <i>thinsemeth posse revocari ad Ver-</i>\n<i>bum</i> שמם <i>samam (quod mirari significat, et stupore percelli) prout affirmari</i>\n<i>docuimus ab Hebraeorum doctissimis. Quo dato, valde erit verisimile,</i> תנשמת\n<i>esse noctuam, cujus insolita forma reliquae aves obstupescunt. Timo Sillogra-</i>\n<i>phus apud Laërtium, et Hesychium Illustrem, de Arcesilao;</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Kimchius in Lexico</i>, לא מצאנו נשמה חוץ מנשמת האדם ורבים אמרו שנקראת\nכן בעבור שהיא מן השמים ואם הם שנים שרשים נמצאו כמוהו רבים, <i>Vo-</i>\n<i>cem</i> nesama <i>non reperimus, nisi de anima humana, quam ita vocari multi asserunt,</i>\n<i>quia venit e coelis: et, sint licet duae Radices, multa hujusmodi inveniuntur. Ex</i>\n<i>his igitur exemplis patet, etiam vocem</i> תנשמת <i>thinsemeth posse revocari ad Ver-</i>\n<i>bum</i> שמם <i>samam (quod mirari significat, et stupore percelli) prout affirmari</i>\n<i>docuimus ab Hebraeorum doctissimis. Quo dato, valde erit verisimile,</i> תנשמת\n<i>esse noctuam, cujus insolita forma reliquae aves obstupescunt. Timo Sillogra-</i>\n<i>phus apud Laërtium, et Hesychium Illustrem, de Arcesilao;</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Οἱ δέ μιν ἠΰτε γλαῦκα πέριξ σπίζαι τερατῶντο,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Οἱ δέ μιν ἠΰτε γλαῦκα πέριξ σπίζαι τερατῶντο,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Illum autem mirabantur ut aviculae, quae noctuam circumstant. Lucianus in Har-</i>\n<i>monide</i>, Ἔνθα ἂν καὶ νῦν φανῇς, συνδέουσιν ἐπί σε πάντες, ὥσπερ ἐπὶ τὴν\nγλαῦκα",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Illum autem mirabantur ut aviculae, quae noctuam circumstant. Lucianus in Har-</i>\n<i>monide</i>, Ἔνθα ἂν καὶ νῦν φανῇς, συνδέουσιν ἐπί σε πάντες, ὥσπερ ἐπὶ τὴν\nγλαῦκα"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "γλαῦκα",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "γλαῦκα"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1721,
+    1657
+   ],
+   [
+    1721,
+    1107
+   ]
+  ],
+  "input_tokens": 3388,
+  "output_tokens": 1450,
+  "cost_usd": 0.008,
+  "seconds": 25.1
+ }
+}

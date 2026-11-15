@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "116 <i>Probatur,</i> עטלף <i>esse Vespertilionem.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "116 <i>Probatur,</i> עטלף <i>esse Vespertilionem.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>non lapide</i> (pumice): cujus griphi meminere <i>Plato</i> libro quinto <i>De Legibus</i>,\n<i>Clearchus</i> in libro <i>De griphis</i>, <i>Athenaeus</i> libri decimi capite decimo nono, et\n<i>Suidas</i> obiter in Νυκτερίδος αἶνος. Miratur vir doctissimus, cur ibi dicatur <i>se-\ndere</i> haec avis, cum non sedeat, sed vel volet, vel appensa petris haereat, aut\narborum ramis. Itaque καθημένην mutari vult in πετομένην. Sed non puto\nquidquam mutandum. Καθήμενος non semper <i>sedentem</i> significat, sed saepe <i>de-\nsidentem, manentem, quiescentem.</i> Exempla vide <i>Matth. IV, 16.</i> et <i>IX, 9.</i> et\n<i>XI, 16.</i> et passim. Res notior est, quam ut probatione egeat. Et <i>Romanis</i> quo-\nque <i>sedere</i> id ipsum est. Itaque de hac eadem ave <i>Symposius Aenigmate</i> vigesi-\nmo octavo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>non lapide</i> (pumice): cujus griphi meminere <i>Plato</i> libro quinto <i>De Legibus</i>,\n<i>Clearchus</i> in libro <i>De griphis</i>, <i>Athenaeus</i> libri decimi capite decimo nono, et\n<i>Suidas</i> obiter in Νυκτερίδος αἶνος. Miratur vir doctissimus, cur ibi dicatur <i>se-\ndere</i> haec avis, cum non sedeat, sed vel volet, vel appensa petris haereat, aut\narborum ramis. Itaque καθημένην mutari vult in πετομένην. Sed non puto\nquidquam mutandum. Καθήμενος non semper <i>sedentem</i> significat, sed saepe <i>de-\nsidentem, manentem, quiescentem.</i> Exempla vide <i>Matth. IV, 16.</i> et <i>IX, 9.</i> et\n<i>XI, 16.</i> et passim. Res notior est, quam ut probatione egeat. Et <i>Romanis</i> quo-\nque <i>sedere</i> id ipsum est. Itaque de hac eadem ave <i>Symposius Aenigmate</i> vigesi-\nmo octavo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sed sedeo in tenebris, nec me committo diebus.</i> ⟦p. 350⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sed sedeo in tenebris, nec me committo diebus.</i> ⟦p. 350⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hebraice</i> עטלף <i>atalleph</i>, et <i>Chaldaice</i> עטלפא <i>attallepha</i>, cur dicatur, hac-\ntenus fuit incertum, sed rem ignotam conabor aperire. In nominibus poly-\nsyllabis saepe videas literarum trajectiones: ut in אלגומים <i>algumim</i>, pro אלמוגים\n<i>almugim</i>; מתלעות <i>mathleoth</i>, pro מלתעות <i>maltheoth</i>; et in <i>Aegyptio</i> CALASIRI\nex קרסול <i>karsol</i>. Aliquid hic simile contigisse putaverim, et עטלף <i>atalleph</i> di-\nctum pro עפטלל <i>aphtalel</i>, vel <i>ephtalel</i>, id est, <i>ave tenebrarum.</i> Nam עוף <i>oph</i>\nest <i>avis</i>: et <i>Hebraeum</i> צל <i>tsel</i>, vel צלל <i>tselal</i>, pro <i>umbra</i> et <i>tenebris</i>, <i>Chaldaice</i>\nscribitur טול <i>tul</i>, et טלל <i>telall</i> ^{(1)}. Ita haec avis nomen habuerit naturae suae\nplane congruum. Nam <i>Graece</i> quoque νυκτερὶς dicitur ἀπὸ τῆς νυκτὸς, quia\nest ἐκ τῶν νυκτινόμων. Neque alia ratio <i>Romani</i> nominis. <i>Ovidius Metamor-\nphoseωs</i> libri quarti <i>Fabula</i> duodecima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraice</i> עטלף <i>atalleph</i>, et <i>Chaldaice</i> עטלפא <i>attallepha</i>, cur dicatur, hac-\ntenus fuit incertum, sed rem ignotam conabor aperire. In nominibus poly-\nsyllabis saepe videas literarum trajectiones: ut in אלגומים <i>algumim</i>, pro אלמוגים\n<i>almugim</i>; מתלעות <i>mathleoth</i>, pro מלתעות <i>maltheoth</i>; et in <i>Aegyptio</i> CALASIRI\nex קרסול <i>karsol</i>. Aliquid hic simile contigisse putaverim, et עטלף <i>atalleph</i> di-\nctum pro עפטלל <i>aphtalel</i>, vel <i>ephtalel</i>, id est, <i>ave tenebrarum.</i> Nam עוף <i>oph</i>\nest <i>avis</i>: et <i>Hebraeum</i> צל <i>tsel</i>, vel צלל <i>tselal</i>, pro <i>umbra</i> et <i>tenebris</i>, <i>Chaldaice</i>\nscribitur טול <i>tul</i>, et טלל <i>telall</i> ^{(1)}. Ita haec avis nomen habuerit naturae suae\nplane congruum. Nam <i>Graece</i> quoque νυκτερὶς dicitur ἀπὸ τῆς νυκτὸς, quia\nest ἐκ τῶν νυκτινόμων. Neque alia ratio <i>Romani</i> nominis. <i>Ovidius Metamor-\nphoseωs</i> libri quarti <i>Fabula</i> duodecima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nocte volant, seroque tenent a vespere nomen.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nocte volant, seroque tenent a vespere nomen.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Symposius</i> ubi supra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Symposius</i> ubi supra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nox mihi dat nomen, primo de tempore noctis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nox mihi dat nomen, primo de tempore noctis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nonnius, <i>Vespertilio, animal volucre, biforme; dictum, quod vespere se ad\nvolatum praeparat noctis.</i> Isidorus, <i>Vespertilio pro tempore nomen accepit, eo\nquod, lucem fugiens, crepusculo vespertino circumvolat.</i> <i>Arabes</i> vocant\nالخغاش <i>alchopphas</i> ab oculorum vitio. <i>Alcamus</i>, الخغاش الوطواط\nسمي لصغر عينيه وضعف بصره Alchopphas, <i>idem</i>, <i>quod</i>\nalvvatvvat (<i>vespertilio</i>). <i>Ita vocatur propter oculorum parvitatem et visus debili-\ntatem.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nonnius, <i>Vespertilio, animal volucre, biforme; dictum, quod vespere se ad\nvolatum praeparat noctis.</i> Isidorus, <i>Vespertilio pro tempore nomen accepit, eo\nquod, lucem fugiens, crepusculo vespertino circumvolat.</i> <i>Arabes</i> vocant\nالخغاش <i>alchopphas</i> ab oculorum vitio. <i>Alcamus</i>, الخغاش الوطواط\nسمي لصغر عينيه وضعف بصره Alchopphas, <i>idem</i>, <i>quod</i>\nalvvatvvat (<i>vespertilio</i>). <i>Ita vocatur propter oculorum parvitatem et visus debili-\ntatem.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Non opus videtur, ad literarum tra-\njectionem confugere, si עטלעף, praeeunte\nALBERTO SCHULTENSIO in <i>Clavi Dia-\nlectorr.</i> pag. 322. ex עטל غطل <i>caliginosa\nfuit nox</i>, et עף <i>volitans</i>, compositum di-\ncamus.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Non opus videtur, ad literarum tra-\njectionem confugere, si עטלעף, praeeunte\nALBERTO SCHULTENSIO in <i>Clavi Dia-\nlectorr.</i> pag. 322. ex עטל غطل <i>caliginosa\nfuit nox</i>, et עף <i>volitans</i>, compositum di-\ncamus."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1687,
+    1525
+   ],
+   [
+    1687,
+    1183
+   ]
+  ],
+  "input_tokens": 7873,
+  "output_tokens": 1797,
+  "cost_usd": 0.0674,
+  "seconds": 22.8
+ }
+}

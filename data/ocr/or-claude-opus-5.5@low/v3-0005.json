@@ -1,0 +1,254 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 5",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 5"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XIX.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XIX."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De Accipitre, qui</i> נץ nets <i>Hebraeis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Accipitre, qui</i> נץ nets <i>Hebraeis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sequitur נץ <i>nets</i>, id est, <i>accipiter</i>. Ita enim reddunt omnes interpretes sum- ⟦p. 266⟧\nmo consensu. Et <i>Syris</i> id ipsum est ܢܨܐ <i>natsa</i>, vel <i>nitsa; Chaldaeis</i> quo-\nque, ut נצצא <i>netsatsa;</i> et <i>Samaritanis</i> [?] <i>netsatsah.</i> Nomen <i>a volatu</i>\nfactum. Nam <i>Hebraeis</i> נצה natsa <i>volare</i> est. Et <i>Arabibus</i> نض <i>alas motita-\nre inter volandum</i>. Porro hanc avem volatu maxime praestare, non uno in loco\ntestatur vatum nobilissimus. Ut <i>Iliad.</i> ό, versu 237. ubi <i>Apollo</i> ab <i>Ida</i> descendit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sequitur נץ <i>nets</i>, id est, <i>accipiter</i>. Ita enim reddunt omnes interpretes sum- ⟦p. 266⟧\nmo consensu. Et <i>Syris</i> id ipsum est ܢܨܐ <i>natsa</i>, vel <i>nitsa; Chaldaeis</i> quo-\nque, ut נצצא <i>netsatsa;</i> et <i>Samaritanis</i> [?] <i>netsatsah.</i> Nomen <i>a volatu</i>\nfactum. Nam <i>Hebraeis</i> נצה natsa <i>volare</i> est. Et <i>Arabibus</i> نض <i>alas motita-\nre inter volandum</i>. Porro hanc avem volatu maxime praestare, non uno in loco\ntestatur vatum nobilissimus. Ut <i>Iliad.</i> ό, versu 237. ubi <i>Apollo</i> ab <i>Ida</i> descendit,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — ἴρηκι ἐοικὼς\n Ὠκέϊ, φασσοφόνῳ, ὅς τ᾽ ὤκιστος πετεηνῶν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — ἴρηκι ἐοικὼς\n Ὠκέϊ, φασσοφόνῳ, ὅς τ᾽ ὤκιστος πετεηνῶν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Accipitri similis veloci, palumborum occisori, qui avium est velocissimus.</i> Et\n<i>Odyss.</i> ν´, versu 86. ubi <i>Phaeacum</i> navem, quae <i>Ulyssem</i> in <i>Ithacam</i> vexit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Accipitri similis veloci, palumborum occisori, qui avium est velocissimus.</i> Et\n<i>Odyss.</i> ν´, versu 86. ubi <i>Phaeacum</i> navem, quae <i>Ulyssem</i> in <i>Ithacam</i> vexit,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — οὐδὲ μὲν ἴρηξ\nΚίρκος ὁμαρτήσειεν ἐλαφρότατος πετεηνῶν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — οὐδὲ μὲν ἴρηξ\nΚίρκος ὁμαρτήσειεν ἐλαφρότατος πετεηνῶν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ne accipiter quidem circus sequatur, utut avium pernicissimus.</i> Et <i>Odyss.</i> ό. ver-\nsu 526.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ne accipiter quidem circus sequatur, utut avium pernicissimus.</i> Et <i>Odyss.</i> ό. ver-\nsu 526."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος, —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Κίρκος, Ἀπόλλωνος ταχὺς ἄγγελος, —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Circus</i> Apollinis <i>velox nuntius.</i> Proinde <i>Iliad.</i> ν´. versu 819. <i>Hectori</i> praedici-\ntur, fore, ut optet aliquando,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Circus</i> Apollinis <i>velox nuntius.</i> Proinde <i>Iliad.</i> ν´. versu 819. <i>Hectori</i> praedici-\ntur, fore, ut optet aliquando,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Θάσσονας ἰρήκων ἔμεναι καλλίτριχας ἵππους,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θάσσονας ἰρήκων ἔμεναι καλλίτριχας ἵππους,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut pulchre-comati equi sui sint accipitribus velociores.</i> Neque solus <i>Apollo</i>, sed\n<i>Thetis</i> ^{a)} quoque et <i>Neptunus</i> feruntur ἴρηξ ὡς, <i>instar accipitris;</i> vel ὥς τ᾽ ἴρηξ\nὠκύπτερος, <i>ut accipiter citis alis.</i> Et in <i>Hesiodi</i> Apologo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut pulchre-comati equi sui sint accipitribus velociores.</i> Neque solus <i>Apollo</i>, sed\n<i>Thetis</i> ^{a)} quoque et <i>Neptunus</i> feruntur ἴρηξ ὡς, <i>instar accipitris;</i> vel ὥς τ᾽ ἴρηξ\nὠκύπτερος, <i>ut accipiter citis alis.</i> Et in <i>Hesiodi</i> Apologo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὣς ἔφατ᾽ ὠκυπετὴς ἴρηξ, τανυσίπτερος ὄρνις,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὣς ἔφατ᾽ ὠκυπετὴς ἴρηξ, τανυσίπτερος ὄρνις,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut dixit pernix accipiter, extensis alis avis.</i> Et apud <i>Aristophanem</i> in <i>Avibus</i>\n<i>Sycophanta</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut dixit pernix accipiter, extensis alis avis.</i> Et apud <i>Aristophanem</i> in <i>Avibus</i>\n<i>Sycophanta</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀλλὰ πτέρου με ταχέσι καὶ κούφοις πτεροῖς\nἹέρακος, ἢ κερχνῇδος. — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀλλὰ πτέρου με ταχέσι καὶ κούφοις πτεροῖς\nἹέρακος, ἢ κερχνῇδος. — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sed instrue me citis et levibus alis accipitris, aut cerchneidis:</i> quae et ipsa est acci-\npitris species; <i>Romani tinnunculum</i> vocant. Sed volatum accipitris nemo est,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sed instrue me citis et levibus alis accipitris, aut cerchneidis:</i> quae et ipsa est acci-\npitris species; <i>Romani tinnunculum</i> vocant. Sed volatum accipitris nemo est,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "A 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "A 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "qui",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "qui"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Vide Iliad.</i> ν´. <i>versu 262. et</i> σ´. <i>versu 615.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vide Iliad.</i> ν´. <i>versu 262. et</i> σ´. <i>versu 615.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1841,
+    1538
+   ],
+   [
+    1841,
+    1274
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 1719,
+  "cost_usd": 0.0686,
+  "seconds": 24.8
+ }
+}

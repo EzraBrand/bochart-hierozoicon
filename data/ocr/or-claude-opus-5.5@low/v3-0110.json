@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "110 <i>Probatur</i>, דוכיפת <i>esse Upupam.</i> P.II. L.II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "110 <i>Probatur</i>, דוכיפת <i>esse Upupam.</i> P.II. L.II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Phoenicides</i> ἐν Μισουμένῃ post longam seriem cupediarum,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Phoenicides</i> ἐν Μισουμένῃ post longam seriem cupediarum,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — κ᾽ οὐδὲν ἦν τούτων ὅλως —\nΠρὸς τὸν ἀτταγῆνα συμβαλεῖν τῶν βρωμάτων.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — κ᾽ οὐδὲν ἦν τούτων ὅλως —\nΠρὸς τὸν ἀτταγῆνα συμβαλεῖν τῶν βρωμάτων."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed avis tam delicatae descriptio tam est neglecta, ut hodie docti disputent, an\n<i>attagen</i> sit <i>gallinago</i>, vel <i>rusticula</i>, vel <i>coturnix</i>, vel Italorum <i>francolinus</i>. A\n<i>Iunio</i> videtur sumi pro <i>rusticula</i>, quae dicitur <i>woodcock</i>, id est, <i>gallus sylvestris</i>,\net alicubi a Gallis <i>gelinotte de bois</i>, id est, <i>sylvestris gallinula.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed avis tam delicatae descriptio tam est neglecta, ut hodie docti disputent, an\n<i>attagen</i> sit <i>gallinago</i>, vel <i>rusticula</i>, vel <i>coturnix</i>, vel Italorum <i>francolinus</i>. A\n<i>Iunio</i> videtur sumi pro <i>rusticula</i>, quae dicitur <i>woodcock</i>, id est, <i>gallus sylvestris</i>,\net alicubi a Gallis <i>gelinotte de bois</i>, id est, <i>sylvestris gallinula.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Superest, ut dicamus de LXX. <i>Senioribus</i> et <i>Vulgato</i> interprete, qui דוכיפת\n<i>dukiphath</i>, ἔποπα, <i>upupam</i> reddunt. Quomodo etiam <i>Arabes</i> quatuor inter-\npretes, editi duo, et manuscripti totidem, quos inter se conferre mihi contigit.\nIn his enim omnibus الهدهد <i>alhudhud</i> reperias, id est, <i>upupam.</i> Quod\nmerito sequuntur multi recentiorum. Nam in ea sententia sum, ex multis in-\nterpretationibus praeferendam esse antiquissimam; nisi causae sint gravissimae,\ncur ab ea discedamus, quales hic nullas video. Quidni enim <i>upupam</i> Moses\n<i>gallum saxatilem</i>, Chaldaei <i>gallum montanum</i>, Rabbini <i>gallum sylvestrem</i> appel-\nlaverint, cum et a <i>Graecis</i> videam idem esse factitatum? Sic ἔποπα <i>Hesychius</i>\nexplicat ἀλεκτρυόνα ἄγριον, <i>Aeschylus</i> πετραῖον ὄρνιν, <i>avem</i> (aut etiam <i>galli-\nnam</i>) <i>saxatilem.</i> Nam, pro gallinaceo genere specialius ὄρνιν, vel ὄρνιθα sumi,\ndocuimus suo loco ^{b)}. Locus <i>Aeschyli</i>, quem innuimus, sic citatur a <i>Philoso-\npho Historiae</i> libri noni capite quadragesimo nono,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Superest, ut dicamus de LXX. <i>Senioribus</i> et <i>Vulgato</i> interprete, qui דוכיפת\n<i>dukiphath</i>, ἔποπα, <i>upupam</i> reddunt. Quomodo etiam <i>Arabes</i> quatuor inter-\npretes, editi duo, et manuscripti totidem, quos inter se conferre mihi contigit.\nIn his enim omnibus الهدهد <i>alhudhud</i> reperias, id est, <i>upupam.</i> Quod\nmerito sequuntur multi recentiorum. Nam in ea sententia sum, ex multis in-\nterpretationibus praeferendam esse antiquissimam; nisi causae sint gravissimae,\ncur ab ea discedamus, quales hic nullas video. Quidni enim <i>upupam</i> Moses\n<i>gallum saxatilem</i>, Chaldaei <i>gallum montanum</i>, Rabbini <i>gallum sylvestrem</i> appel-\nlaverint, cum et a <i>Graecis</i> videam idem esse factitatum? Sic ἔποπα <i>Hesychius</i>\nexplicat ἀλεκτρυόνα ἄγριον, <i>Aeschylus</i> πετραῖον ὄρνιν, <i>avem</i> (aut etiam <i>galli-\nnam</i>) <i>saxatilem.</i> Nam, pro gallinaceo genere specialius ὄρνιν, vel ὄρνιθα sumi,\ndocuimus suo loco ^{b)}. Locus <i>Aeschyli</i>, quem innuimus, sic citatur a <i>Philoso-\npho Historiae</i> libri noni capite quadragesimo nono,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τοῦτον δ᾽ ἐπόπτην ἔποπα τῶν αὑτοῦ κακῶν\nΠεποικίλωκε, κ᾽ ἀποδηλώσας ἔχει\nΘρασὺν πετραῖον ὄρνιν ἐν παντευχίᾳ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τοῦτον δ᾽ ἐπόπτην ἔποπα τῶν αὑτοῦ κακῶν\nΠεποικίλωκε, κ᾽ ἀποδηλώσας ἔχει\nΘρασὺν πετραῖον ὄρνιν ἐν παντευχίᾳ."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quae vir magnus ita reddit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quae vir magnus ita reddit,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hunc fecit upupam, qui suorum facinorum\nSit ipse testis, variegato corpore\nInsessor ales rupium, ornatu ferox.</i> ⟦p. 346⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hunc fecit upupam, qui suorum facinorum\nSit ipse testis, variegato corpore\nInsessor ales rupium, ornatu ferox.</i> ⟦p. 346⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Agitur de <i>Tereo</i>, quem suorum malorum ἐπόπτην, seu <i>inspectorem</i>, vocat, ad\nἔποπος, seu <i>upupae</i> nomen alludens, in quam mutatus <i>Tereus</i> factus est πε-\nτραῖος ὄρνις, <i>saxatilis avis</i>, aut <i>gallina</i>, si mavis. Quid, quod hodieque <i>upu-\npam Graecorum</i> vulgus vocat ἀγριοκόκορον, <i>gallum sylvestrem?</i> <i>Gallus</i> dicitur ra-\ntione cristae, quamvis in gallo crista ex cartilagine constet, in upupa ex plumis.\nCur porro <i>montanus</i> vocetur, et <i>sylvestris</i>, et <i>saxatilis</i>, non est obscurum: cum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Agitur de <i>Tereo</i>, quem suorum malorum ἐπόπτην, seu <i>inspectorem</i>, vocat, ad\nἔποπος, seu <i>upupae</i> nomen alludens, in quam mutatus <i>Tereus</i> factus est πε-\nτραῖος ὄρνις, <i>saxatilis avis</i>, aut <i>gallina</i>, si mavis. Quid, quod hodieque <i>upu-\npam Graecorum</i> vulgus vocat ἀγριοκόκορον, <i>gallum sylvestrem?</i> <i>Gallus</i> dicitur ra-\ntione cristae, quamvis in gallo crista ex cartilagine constet, in upupa ex plumis.\nCur porro <i>montanus</i> vocetur, et <i>sylvestris</i>, et <i>saxatilis</i>, non est obscurum: cum"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "in",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "in"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib. I. cap. XVI. pag. 112. etc</i>, <i>et Lib. II, cap. XXVII. pag. 321.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib. I. cap. XVI. pag. 112. etc</i>, <i>et Lib. II, cap. XXVII. pag. 321.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1838,
+    1672
+   ],
+   [
+    1838,
+    1132
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 1766,
+  "cost_usd": 0.0696,
+  "seconds": 21.9
+ }
+}

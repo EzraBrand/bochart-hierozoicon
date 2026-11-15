@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXII. Probatur, ינשוף effe Bubonem. 25",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXII. Probatur, ינשוף effe Bubonem. 25"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hiftoriae animalium</i> libri fecundi capite trigesimo octavo. Itaque in <i>Idumaea</i>\nnulla fuit ibis. (¹).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hiftoriae animalium</i> libri fecundi capite trigesimo octavo. Itaque in <i>Idumaea</i>\nnulla fuit ibis. (¹)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Secunda versio est <i>Syri</i> interpretis, et utriusque <i>Chaldaei</i>, id est, <i>Ionatha-\nnis</i> et <i>Onkelosi</i>: a quibus vox eadem constanter redditur קפופא <i>kiphupha</i>, id est,\n<i>bubo</i>, vel <i>noctua</i>; ut ex <i>Talmude</i> probavimus capite vigesimo, ubi de ave כוס\n<i>chos</i>. De qua versione plura dicemus infra.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Secunda versio est <i>Syri</i> interpretis, et utriusque <i>Chaldaei</i>, id est, <i>Ionatha-\nnis</i> et <i>Onkelosi</i>: a quibus vox eadem constanter redditur קפופא <i>kiphupha</i>, id est,\n<i>bubo</i>, vel <i>noctua</i>; ut ex <i>Talmude</i> probavimus capite vigesimo, ubi de ave כוס\n<i>chos</i>. De qua versione plura dicemus infra."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertia est <i>Arabum Pentateuchi</i> interpretum: quorum uterque pro ינשוף\nhic habet الباشق <i>albasak</i>, accipitris speciem, quam <i>Alkazuinius</i> ita descri-\nbit: طير احسن الصورة اصغر الجوارح جثة يصطاد\nالعصافير, <i>avis est specie pulcherrima, et rapacium corpore minima, quae\nvenatur passeres</i>. Quae descriptio niso, seu sparverio, convenit. Sed multo\naliter definit <i>Damir</i> in capite <i>De</i> البازي <i>albazi</i>, seu <i>accipitre</i>. Ibi scilicet ha-\nbentur accipitrum quinque species. 1. بازي <i>bazi</i> proprie dictus, cui <i>ab im-\npetu</i> nomen est (²). 2. زرق <i>zorrak</i>, id est, <i>oculis caesius</i>. 3. باشق <i>basak</i>\n<i>Arabice</i> dictus ab <i>acuto visu</i>, quamvis <i>Persicum</i> esse plerique velint. 4. بيذق ⟦p. 282.⟧\nid est, <i>vilis</i>. 5. عصفي <i>asphi</i>, id est, <i>qui fertur in medium turbinis</i>. In\nhis <i>basak</i> sic describitur. هو ايضا جار المزاج عديم القلق\nالزعارة يانس وقتا ويستوحش وقتا وهو قوي النفس\nفاذا انس منه الصغير بلغ صاحبه من صيده المراد\nوهو خفيف المحمل ظريف الشمايل يليق\nبالملوك ان تخدمه لانه يصيد افخر ما يصيده البازي\nوهو الدراج والحمام والورشان وهو كثير الشبق وهو\nقوي عايه صيده لا يتركه الي ان يتلف احدهما\nواجمل اوصافه ان يكون صغيرا في المنظر ثقيل ا في\nالميزان طويل الساقين قصير الفخذين <i>Ille etiam est ca-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertia est <i>Arabum Pentateuchi</i> interpretum: quorum uterque pro ינשוף\nhic habet الباشق <i>albasak</i>, accipitris speciem, quam <i>Alkazuinius</i> ita descri-\nbit: طير احسن الصورة اصغر الجوارح جثة يصطاد\nالعصافير, <i>avis est specie pulcherrima, et rapacium corpore minima, quae\nvenatur passeres</i>. Quae descriptio niso, seu sparverio, convenit. Sed multo\naliter definit <i>Damir</i> in capite <i>De</i> البازي <i>albazi</i>, seu <i>accipitre</i>. Ibi scilicet ha-\nbentur accipitrum quinque species. 1. بازي <i>bazi</i> proprie dictus, cui <i>ab im-\npetu</i> nomen est (²). 2. زرق <i>zorrak</i>, id est, <i>oculis caesius</i>. 3. باشق <i>basak</i>\n<i>Arabice</i> dictus ab <i>acuto visu</i>, quamvis <i>Persicum</i> esse plerique velint. 4. بيذق ⟦p. 282.⟧\nid est, <i>vilis</i>. 5. عصفي <i>asphi</i>, id est, <i>qui fertur in medium turbinis</i>. In\nhis <i>basak</i> sic describitur. هو ايضا جار المزاج عديم القلق\nالزعارة يانس وقتا ويستوحش وقتا وهو قوي النفس\nفاذا انس منه الصغير بلغ صاحبه من صيده المراد\nوهو خفيف المحمل ظريف الشمايل يليق\nبالملوك ان تخدمه لانه يصيد افخر ما يصيده البازي\nوهو الدراج والحمام والورشان وهو كثير الشبق وهو\nقوي عايه صيده لا يتركه الي ان يتلف احدهما\nواجمل اوصافه ان يكون صغيرا في المنظر ثقيل ا في\nالميزان طويل الساقين قصير الفخذين <i>Ille etiam est ca-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>lidi</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>lidi</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Attamen OEDMANN (in den <i>Ver-\nmischten Sammlungen</i>, Fasc. 6. cap. 3.) so-\nla Alexandrinorum auctoritate ינשוף <i>Tan-\ntalum Ibin</i> Linn. esse contendit, ita tamen,\nut Esaj. XXXIV, 11. <i>Ibis niger</i> magis re-\nspiciatur; ad quam Oedmanni sententiam\netiam propensus videtur O. G. TYCHSEN\nad <i>Physiolog. Syr.</i> Cap. XVIII. pag. 105. et\n178. Apud me istorum interpretum fides\nin vertendis animalium nominibus valde\nsuspecta est.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Attamen OEDMANN (in den <i>Ver-\nmischten Sammlungen</i>, Fasc. 6. cap. 3.) so-\nla Alexandrinorum auctoritate ינשוף <i>Tan-\ntalum Ibin</i> Linn. esse contendit, ita tamen,\nut Esaj. XXXIV, 11. <i>Ibis niger</i> magis re-\nspiciatur; ad quam Oedmanni sententiam\netiam propensus videtur O. G. TYCHSEN\nad <i>Physiolog. Syr.</i> Cap. XVIII. pag. 105. et\n178. Apud me istorum interpretum fides\nin vertendis animalium nominibus valde\nsuspecta est."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„<i>Albasi</i> [بازي] apud Avicennam\nAndreas Bellunensis exponit <i>Falconem pe-\nregrinum</i>.“ Vid. ALDROVANDI <i>Ornithol.</i>\nT. I. p. 461.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„<i>Albasi</i> [بازي] apud Avicennam\nAndreas Bellunensis exponit <i>Falconem pe-\nregrinum</i>.“ Vid. ALDROVANDI <i>Ornithol.</i>\nT. I. p. 461."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. D",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. D"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1766,
+    1488
+   ],
+   [
+    1766,
+    1320
+   ]
+  ],
+  "input_tokens": 3378,
+  "output_tokens": 1131,
+  "cost_usd": 0.0068,
+  "seconds": 10.3
+ }
+}

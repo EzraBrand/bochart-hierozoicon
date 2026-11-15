@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "20 <i>Prob.</i>, שלך <i>a Graecis recte reddi</i> καταῤῥάκτην. P.II.L.II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "20 <i>Prob.</i>, שלך <i>a Graecis recte reddi</i> καταῤῥάκτην. P.II.L.II."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXI.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXI."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, שלך salach, <i>a Graecis recte reddi</i> καταῤ-\nῥάκτην <i>catarrhacten.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, שלך salach, <i>a Graecis recte reddi</i> καταῤ-\nῥάκτην <i>catarrhacten.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hebraeum</i> avis nomen שלך <i>salach</i>, a <i>Graecis</i> redditur καταῤῥάκτης· recte ⟦p. 278⟧\nomnino. Nam השליך Verbum, unde avis nomen deductum, est idem,\nquod καταῤῥίπτειν <i>projicere</i>, et καταβάλλειν <i>dejicere.</i> Porro id ipsum est\nκαταῤῥάττειν, ex quo factum καταῤῥάκτης. <i>Hesychius</i>, Καταῤῥάσσειν· κα-\nταῤῥίπτειν. Item, Καταῤῥάξαι· καταβαλεῖν. Proinde <i>Graecae</i> versionis\nlocis plus centum <i>Hebraeo</i> השליך respondent <i>Graeca</i> ῥίπτειν, ἀποῤῥίπτειν,\nἐπιῤῥίπτειν, καταῤῥίπτειν, et βάλλειν, ἐκβάλλειν, ἐμβάλλειν, ἀποβάλλειν.\nQuin <i>Psal. CI.</i> (Hebr. CII.) pro <i>Hebraeo</i> השליכני, <i>Graece</i> habetur κατέῤῥα-\nξάς με, <i>dejecisti me.</i> Itaque ut Verbo השליך καταῤῥάξαι, ita Nomini שלך\nrespondet καταῤῥάκτης. Et quandoque est epithetum avium praedatricum,\nquae cum impetu in praedam ruunt, et quodammodo se praecipites conjiciunt.\nIta <i>Sophocles</i> in <i>Laocoonte</i> aquilam καταῤῥάκτην, et in <i>Phineo Harpyias</i> καταῤ-\nῥάκτας appellaverat. <i>Hesychius</i>, Καταῤῥάκτης· ὀχετὸς, ῥύαξ, καὶ ἀετός·\nΣοφοκλῆς Λαοκόοντι, καὶ τὰς Ἅρπυίας ἐν Φινεῖ. Et in <i>Cassandra Lycophronis</i>\nκατάῤῥακτὴρ, quod idem est, accipitris est epithetum. Verba sunt versu 168.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraeum</i> avis nomen שלך <i>salach</i>, a <i>Graecis</i> redditur καταῤῥάκτης· recte ⟦p. 278⟧\nomnino. Nam השליך Verbum, unde avis nomen deductum, est idem,\nquod καταῤῥίπτειν <i>projicere</i>, et καταβάλλειν <i>dejicere.</i> Porro id ipsum est\nκαταῤῥάττειν, ex quo factum καταῤῥάκτης. <i>Hesychius</i>, Καταῤῥάσσειν· κα-\nταῤῥίπτειν. Item, Καταῤῥάξαι· καταβαλεῖν. Proinde <i>Graecae</i> versionis\nlocis plus centum <i>Hebraeo</i> השליך respondent <i>Graeca</i> ῥίπτειν, ἀποῤῥίπτειν,\nἐπιῤῥίπτειν, καταῤῥίπτειν, et βάλλειν, ἐκβάλλειν, ἐμβάλλειν, ἀποβάλλειν.\nQuin <i>Psal. CI.</i> (Hebr. CII.) pro <i>Hebraeo</i> השליכני, <i>Graece</i> habetur κατέῤῥα-\nξάς με, <i>dejecisti me.</i> Itaque ut Verbo השליך καταῤῥάξαι, ita Nomini שלך\nrespondet καταῤῥάκτης. Et quandoque est epithetum avium praedatricum,\nquae cum impetu in praedam ruunt, et quodammodo se praecipites conjiciunt.\nIta <i>Sophocles</i> in <i>Laocoonte</i> aquilam καταῤῥάκτην, et in <i>Phineo Harpyias</i> καταῤ-\nῥάκτας appellaverat. <i>Hesychius</i>, Καταῤῥάκτης· ὀχετὸς, ῥύαξ, καὶ ἀετός·\nΣοφοκλῆς Λαοκόοντι, καὶ τὰς Ἅρπυίας ἐν Φινεῖ. Et in <i>Cassandra Lycophronis</i>\nκατάῤῥακτὴρ, quod idem est, accipitris est epithetum. Verba sunt versu 168."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τὸν δ' αὖ τέταρτον αὐθόμαινον ὄψεται\nΚίρκου καταῤῥακτῆρος· —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τὸν δ' αὖ τέταρτον αὐθόμαινον ὄψεται\nΚίρκου καταῤῥακτῆρος· —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quartum porro consanguineum videbit accipitris catarrhacteris</i>, seu <i>catarrhactis.</i>\n<i>Diomedeas</i> quoque aves ^{(1)} <i>Iuba</i> vocat <i>catarrhactas</i>, ut habetur apud <i>Plinium</i> li-\nbri decimi capite quadragesimo quarto; quia in <i>Aristotelis Mirabilibus</i> [cap.\nLXXX.] leguntur <i>Graecis</i> parcere, sed venientes barbaros καταῤῥάσσειν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quartum porro consanguineum videbit accipitris catarrhacteris</i>, seu <i>catarrhactis.</i>\n<i>Diomedeas</i> quoque aves ^{(1)} <i>Iuba</i> vocat <i>catarrhactas</i>, ut habetur apud <i>Plinium</i> li-\nbri decimi capite quadragesimo quarto; quia in <i>Aristotelis Mirabilibus</i> [cap.\nLXXX.] leguntur <i>Graecis</i> parcere, sed venientes barbaros καταῤῥάσσειν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tamen, ut <i>Hebraeis</i> שלך, ita <i>Graecis</i> καταῤῥάκτης avis est certa species,\ncui peculiare est hoc nomen ^{(2)}. <i>Suidas</i>, Καταῤῥάκτης· εἶδος ὀρνέου θαλασ-\nσίου.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tamen, ut <i>Hebraeis</i> שלך, ita <i>Graecis</i> καταῤῥάκτης avis est certa species,\ncui peculiare est hoc nomen ^{(2)}. <i>Suidas</i>, Καταῤῥάκτης· εἶδος ὀρνέου θαλασ-\nσίου."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Procellariae</i> genus, forsan <i>procella-\nria puffinus</i> Linn. Tom. I. P. II. p. 566.\ned. Gmel., vid. HEYNII <i>Excurs. I. ad\nAen. XI.</i> pag. 580. P. III. Virg. a se ed.\nSCHNEIDER ad Aelian. I, 1. et in <i>Aucta-\nrio Emendationum atque annotationum\nad Aelian.</i> ad calcem <i>Commentarr. ad Re-\nliqua Frider. II.</i> p. 159. 160. BECKMANN\nad <i>Aristotel. de auscultatt. mirabill.</i> pag.\n157. seq.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Procellariae</i> genus, forsan <i>procella-\nria puffinus</i> Linn. Tom. I. P. II. p. 566.\ned. Gmel., vid. HEYNII <i>Excurs. I. ad\nAen. XI.</i> pag. 580. P. III. Virg. a se ed.\nSCHNEIDER ad Aelian. I, 1. et in <i>Aucta-\nrio Emendationum atque annotationum\nad Aelian.</i> ad calcem <i>Commentarr. ad Re-\nliqua Frider. II.</i> p. 159. 160. BECKMANN\nad <i>Aristotel. de auscultatt. mirabill.</i> pag.\n157. seq."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Veterum καταῤῥάκτης esse <i>Peleca-\nnum Bassanum</i> Linnaei, Tom. I. P. II.\np. 577. ed. Gmel. cauda cuneiformi, cor-\npore albo, rostro remigibusque primoribus\nnigris, facie caerulea, demonstravit OED-\nMANN in <i>Actis Societat. Scientiar. Hol-\nmens.</i>",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Veterum καταῤῥάκτης esse <i>Peleca-\nnum Bassanum</i> Linnaei, Tom. I. P. II.\np. 577. ed. Gmel. cauda cuneiformi, cor-\npore albo, rostro remigibusque primoribus\nnigris, facie caerulea, demonstravit OED-\nMANN in <i>Actis Societat. Scientiar. Hol-\nmens.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1808,
+    1373
+   ],
+   [
+    1808,
+    983
+   ]
+  ],
+  "input_tokens": 7485,
+  "output_tokens": 1917,
+  "cost_usd": 0.0683,
+  "seconds": 25.7
+ }
+}

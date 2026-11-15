@@ -1,0 +1,147 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 9",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 9"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Fecit et in terris haliaeetus ales ut esset.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Fecit et in terris haliaeetus ales ut esset.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed inter accipitrum, seu falconum, species lanius, seu lanarius, haliaeeto est\ntam similis, ut non aliter distinguantur, quam ex diverso pastu. <i>Thuanus</i> in\n<i>haliaeeti</i> descriptione libro primo <i>De re accipitraria,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed inter accipitrum, seu falconum, species lanius, seu lanarius, haliaeeto est\ntam similis, ut non aliter distinguantur, quam ex diverso pastu. <i>Thuanus</i> in\n<i>haliaeeti</i> descriptione libro primo <i>De re accipitraria,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Forma eadem huic, lanioque eadem est, atque inter utrumque</i>\n<i>Obscurum discrimen habet, quo quisque marinus,</i>\n<i>Vel lanius dici possit. Quin saepe periti</i>\n<i>Ambiguo peccant decepti lumina vultu;</i>\n<i>Et, nisi diverso pastu gauderet uterque,</i>\n<i>Saepe repertores artis turpissimus error</i>\n<i>Argueret.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Forma eadem huic, lanioque eadem est, atque inter utrumque</i>\n<i>Obscurum discrimen habet, quo quisque marinus,</i>\n<i>Vel lanius dici possit. Quin saepe periti</i>\n<i>Ambiguo peccant decepti lumina vultu;</i>\n<i>Et, nisi diverso pastu gauderet uterque,</i>\n<i>Saepe repertores artis turpissimus error</i>\n<i>Argueret.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Confundi igitur potuere a veteribus, atque iisdem nominibus indigetari propter\nformae similitudinem.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Confundi igitur potuere a veteribus, atque iisdem nominibus indigetari propter\nformae similitudinem."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "De accipitre sic Deus <i>Iob. XXXIX,</i> 26. [al. 29.] <i>An per prudentiam tuam\nplumescit accipiter, expansis alis suis versus</i> Austrum? <i>Plumescit</i> Hebraice יאבר.\nIta reddit <i>Hieronymus;</i> ita etiam <i>Genevenses:</i> quia יאבר, Futurum <i>Hiphil</i>, fa-\nctum videtur a Nomine אבר, vel אברה, quod <i>pennam</i> sonat. Sic <i>Ierem. LI,</i> 11.\nהברו חחצים, aliis <i>tergite sagittas,</i> tanquam a ברר: ut <i>Es. XLIX,</i> 2. לחץ ברור,\n<i>in sagittam tersam.</i> Sed <i>Iosepho Kimchio</i> πτερῶτε τὰ βέλη, <i>alas addite sagittis</i>\n(Gall. <i>empennès les flesches</i>), ac si sit Imperativum τοῦ האביר: sensu non incom-\nmodo; cum in <i>Homero</i> quoque legas πτερόεντες ὀϊστοὶ, et in <i>Silio,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De accipitre sic Deus <i>Iob. XXXIX,</i> 26. [al. 29.] <i>An per prudentiam tuam\nplumescit accipiter, expansis alis suis versus</i> Austrum? <i>Plumescit</i> Hebraice יאבר.\nIta reddit <i>Hieronymus;</i> ita etiam <i>Genevenses:</i> quia יאבר, Futurum <i>Hiphil</i>, fa-\nctum videtur a Nomine אבר, vel אברה, quod <i>pennam</i> sonat. Sic <i>Ierem. LI,</i> 11.\nהברו חחצים, aliis <i>tergite sagittas,</i> tanquam a ברר: ut <i>Es. XLIX,</i> 2. לחץ ברור,\n<i>in sagittam tersam.</i> Sed <i>Iosepho Kimchio</i> πτερῶτε τὰ βέλη, <i>alas addite sagittis</i>\n(Gall. <i>empennès les flesches</i>), ac si sit Imperativum τοῦ האביר: sensu non incom-\nmodo; cum in <i>Homero</i> quoque legas πτερόεντες ὀϊστοὶ, et in <i>Silio,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— <i>pennigeris pharetram implevisse sagittis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— <i>pennigeris pharetram implevisse sagittis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Porro in accipitre <i>plumescere</i> est <i>abjectis veteribus plumis renovari;</i> quomodo de\naquila dictum. De eo vide <i>Demetrium</i> in <i>Hieracosophio</i>, capitibus, quibus titu-\nlus, Πρὸς τὸ συνεργῆσαι τὴν ἀποβολὴν τῶν πτερῶν, <i>Quo remedio pennae cele-\nriter abjiciantur:</i> et Πρὸς τὸ πτεροφυῆσαι τὸν ἱέρακα τάχιστα, <i>Ut pennae acci-\npitris cito renoventur:</i> et Πρὸς λειποπτεροῦντα ἱέρακα, <i>Ad accipitrem, cui pen-\nnae desunt,</i> et Πρὸς τροφὴν πτερῶν, <i>Ad plumarum alimentum:</i> et Εἰς τύφλω-\nσιν πτερῶν, <i>Ad pennarum excaecationem.</i> Ex quibus utut colligatur, humanam\nindustriam in eo aliquid posse, ut accipitri novae plumae cito succrescant in de-\nperditarum locum, tamen <i>Iobo</i> dixit Deus non immerito; <i>An per prudentiam</i>\n(sive <i>industriam</i>) <i>tuam plumescit accipiter?</i> cum media et remedia nihil possint\nsine Deo, et medicinae tota vis ex illo pendeat. Ne dicam, aetate <i>Iobi</i> accipi-\ntrariam hanc artem nondum fuisse in usu. Haec quoque optime cohaerent, <i>An\nper prudentiam tuam plumescit accipiter, alis suis ad</i> Austrum <i>expansis?</i> Vere\nenim <i>Gregorius</i> ad hunc locum, <i>Domesticis accipitribus, quo melius plumescere\ndebeant, humida ac tepentia loca requiruntur. Agrestibus vero moris est, ut</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Porro in accipitre <i>plumescere</i> est <i>abjectis veteribus plumis renovari;</i> quomodo de\naquila dictum. De eo vide <i>Demetrium</i> in <i>Hieracosophio</i>, capitibus, quibus titu-\nlus, Πρὸς τὸ συνεργῆσαι τὴν ἀποβολὴν τῶν πτερῶν, <i>Quo remedio pennae cele-\nriter abjiciantur:</i> et Πρὸς τὸ πτεροφυῆσαι τὸν ἱέρακα τάχιστα, <i>Ut pennae acci-\npitris cito renoventur:</i> et Πρὸς λειποπτεροῦντα ἱέρακα, <i>Ad accipitrem, cui pen-\nnae desunt,</i> et Πρὸς τροφὴν πτερῶν, <i>Ad plumarum alimentum:</i> et Εἰς τύφλω-\nσιν πτερῶν, <i>Ad pennarum excaecationem.</i> Ex quibus utut colligatur, humanam\nindustriam in eo aliquid posse, ut accipitri novae plumae cito succrescant in de-\nperditarum locum, tamen <i>Iobo</i> dixit Deus non immerito; <i>An per prudentiam</i>\n(sive <i>industriam</i>) <i>tuam plumescit accipiter?</i> cum media et remedia nihil possint\nsine Deo, et medicinae tota vis ex illo pendeat. Ne dicam, aetate <i>Iobi</i> accipi-\ntrariam hanc artem nondum fuisse in usu. Haec quoque optime cohaerent, <i>An\nper prudentiam tuam plumescit accipiter, alis suis ad</i> Austrum <i>expansis?</i> Vere\nenim <i>Gregorius</i> ad hunc locum, <i>Domesticis accipitribus, quo melius plumescere\ndebeant, humida ac tepentia loca requiruntur. Agrestibus vero moris est, ut</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. B",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. B"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>flan-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>flan-</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1826,
+    1558
+   ],
+   [
+    1826,
+    1242
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 1837,
+  "cost_usd": 0.071,
+  "seconds": 22.8,
+  "vote": "0 decisions from v3-1-125"
+ }
+}

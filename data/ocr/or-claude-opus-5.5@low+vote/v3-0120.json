@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "120 <i>Immundar. avium numerus et generales notae.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "120 <i>Immundar. avium numerus et generales notae.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Es. XXXIV, 15.</i> Proinde illas distinximus: et איה <i>aja</i> nobis <i>aesalo</i> ^{a)}, דיה <i>daja</i>\nfuit <i>vultur niger</i> ^{b)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Es. XXXIV, 15.</i> Proinde illas distinximus: et איה <i>aja</i> nobis <i>aesalo</i> ^{a)}, דיה <i>daja</i>\nfuit <i>vultur niger</i> ^{b)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Secundo, ex eo, quod quasdam aves prohibet <i>Moses juxta speciem suam</i>,\nnon sequitur, illarum diversas esse species: neque enim Plurali numero dixit,\n<i>juxta species suas</i>, sed Singulari, <i>juxta speciem suam:</i> nimirum, ut significet\ntotam speciem prohiberi. Et quod in quibusdam diserte dicit, in aliis supplere\nsatis habuit, ut vitaret taedium perpetuae repetitionis horum verborum, <i>juxta\nspeciem suam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Secundo, ex eo, quod quasdam aves prohibet <i>Moses juxta speciem suam</i>,\nnon sequitur, illarum diversas esse species: neque enim Plurali numero dixit,\n<i>juxta species suas</i>, sed Singulari, <i>juxta speciem suam:</i> nimirum, ut significet\ntotam speciem prohiberi. Et quod in quibusdam diserte dicit, in aliis supplere\nsatis habuit, ut vitaret taedium perpetuae repetitionis horum verborum, <i>juxta\nspeciem suam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertio, non capio, cur זרזיר <i>zarzir</i>, id est, <i>sturnum</i>, <i>Hebraei</i> velint esse\ncorvi speciem potius, quam cornicem, aut picam, aut graculum et monedulam,\nquae ad corvi naturam magis accedunt. Tamen <i>Maimonides</i> hoc de suo non\naffert. Ita enim citat <i>Aruch</i> ex tractatu <i>Cholin</i> fol. 63. זה עורב למינה להביא\nאת הזרזירין, <i>iste corvus</i> dictus est secundum speciem suam <i>ad designan-\ndos</i> zarzirin (seu <i>sturnos</i>). Ubi tamen hodie vocem הזרזירין, seu <i>sturnorum</i>,\nnon reperio. Sed in <i>Bava Kama</i> fol. 92. b. proverbium, inde natum, legas,\nquod tale est, לא לחנם הלך זרזיר אצל עורב אלא מפני שהוא מינו, <i>non fru-\nstra corvum adit sturnus, cum sit ejusdem speciei.</i> Et in <i>Beresith Rabba</i> cap. 65.\naliquanto contractius, לא הלך זרזיר אצל עורב אלא שהוא מינו, <i>Sturnus cor-\nvum non adiret, nisi esset</i> ὁμογενής. Et in <i>Baal Hatturim Cabalistae</i> observant,\nverba עורב למינו, <i>corvus juxta speciem suam</i> per <i>Gematriam</i> idem valere, quod\nזרזיר <i>zarzir.</i> Nam in numeris <i>Hebraicis</i> utrumque valet 414. Et in <i>Aquinate</i>\nזרזיר <i>zarzir</i> definitur עוף שהוא קרוב לצורת העורב, <i>avis, quae corvo specie\nsimilis est.</i> Neque dubium, quin זרזיר <i>zarzir</i> sit <i>sturnus.</i> Nam in <i>Glossa Tal-\nmudis</i> explicatur אשטו״רניל <i>estournel.</i> Et in Pomario, <i>storno.</i> Et in <i>Masal\nKadmoni</i> Fab. 51 duo colloquutores <i>Hebraice</i> vocantur השפן והזרזיר, id est, <i>cu-\nniculus et sturnus</i>, ut ex pictura apparet. Denique <i>Arabicum</i> زرزور <i>zarzour</i>\nid ipsum significat. Proinde verba <i>Dioscoridis</i> libro secundo, capite <i>De anima-\nlium fimo</i>, ψαρὰς ὀρύζῃ τρέφοντες, <i>sturnos oryza alentes</i>, <i>Avicenna</i> libro se-\ncundo <i>Canonis</i> capite زبل, id est, <i>De fimo</i>, ita reddidit: الزرزور\nالمتعلف للارز Zarzur <i>oryza pastus:</i> id est, <i>sturnus</i>, non <i>turdus</i>, ut\nreddiderunt <i>Latini</i> interpretes, errore, in <i>Hispania</i> nato, ubi <i>zorzal</i> est <i>turdus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertio, non capio, cur זרזיר <i>zarzir</i>, id est, <i>sturnum</i>, <i>Hebraei</i> velint esse\ncorvi speciem potius, quam cornicem, aut picam, aut graculum et monedulam,\nquae ad corvi naturam magis accedunt. Tamen <i>Maimonides</i> hoc de suo non\naffert. Ita enim citat <i>Aruch</i> ex tractatu <i>Cholin</i> fol. 63. זה עורב למינה להביא\nאת הזרזירין, <i>iste corvus</i> dictus est secundum speciem suam <i>ad designan-\ndos</i> zarzirin (seu <i>sturnos</i>). Ubi tamen hodie vocem הזרזירין, seu <i>sturnorum</i>,\nnon reperio. Sed in <i>Bava Kama</i> fol. 92. b. proverbium, inde natum, legas,\nquod tale est, לא לחנם הלך זרזיר אצל עורב אלא מפני שהוא מינו, <i>non fru-\nstra corvum adit sturnus, cum sit ejusdem speciei.</i> Et in <i>Beresith Rabba</i> cap. 65.\naliquanto contractius, לא הלך זרזיר אצל עורב אלא שהוא מינו, <i>Sturnus cor-\nvum non adiret, nisi esset</i> ὁμογενής. Et in <i>Baal Hatturim Cabalistae</i> observant,\nverba עורב למינו, <i>corvus juxta speciem suam</i> per <i>Gematriam</i> idem valere, quod\nזרזיר <i>zarzir.</i> Nam in numeris <i>Hebraicis</i> utrumque valet 414. Et in <i>Aquinate</i>\nזרזיר <i>zarzir</i> definitur עוף שהוא קרוב לצורת העורב, <i>avis, quae corvo specie\nsimilis est.</i> Neque dubium, quin זרזיר <i>zarzir</i> sit <i>sturnus.</i> Nam in <i>Glossa Tal-\nmudis</i> explicatur אשטו״רניל <i>estournel.</i> Et in Pomario, <i>storno.</i> Et in <i>Masal\nKadmoni</i> Fab. 51 duo colloquutores <i>Hebraice</i> vocantur השפן והזרזיר, id est, <i>cu-\nniculus et sturnus</i>, ut ex pictura apparet. Denique <i>Arabicum</i> زرزور <i>zarzour</i>\nid ipsum significat. Proinde verba <i>Dioscoridis</i> libro secundo, capite <i>De anima-\nlium fimo</i>, ψαρὰς ὀρύζῃ τρέφοντες, <i>sturnos oryza alentes</i>, <i>Avicenna</i> libro se-\ncundo <i>Canonis</i> capite زبل, id est, <i>De fimo</i>, ita reddidit: الزرزور\nالمتعلف للارز Zarzur <i>oryza pastus:</i> id est, <i>sturnus</i>, non <i>turdus</i>, ut\nreddiderunt <i>Latini</i> interpretes, errore, in <i>Hispania</i> nato, ubi <i>zorzal</i> est <i>turdus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Minus obvia est vox שרנקא <i>sarneka</i>, quam usurpat <i>Maimonides</i>, pro spe-\ncie נץ <i>nets</i>, seu <i>accipitris</i>, ut <i>Talmudici</i> שורינקא <i>sorinka</i>, et, quod idem est,\nבר־חיריא <i>bar-chirja.</i> Verba sic habent in tractatu <i>Cholin</i> ubi supra, הנץ ה״ר",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Minus obvia est vox שרנקא <i>sarneka</i>, quam usurpat <i>Maimonides</i>, pro spe-\ncie נץ <i>nets</i>, seu <i>accipitris</i>, ut <i>Talmudici</i> שורינקא <i>sorinka</i>, et, quod idem est,\nבר־חיריא <i>bar-chirja.</i> Verba sic habent in tractatu <i>Cholin</i> ubi supra, הנץ ה״ר"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "heb",
+   "text": "זה",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "זה"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Supra, cap. VIII. pag. 192.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Supra, cap. VIII. pag. 192.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Supra cap. IX. pag. 195.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Supra cap. IX. pag. 195.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1704,
+    1014
+   ],
+   [
+    1704,
+    1334
+   ]
+  ],
+  "input_tokens": 7080,
+  "output_tokens": 1912,
+  "cost_usd": 0.0666,
+  "seconds": 23.7,
+  "vote": "0 decisions from v3-1-125"
+ }
+}

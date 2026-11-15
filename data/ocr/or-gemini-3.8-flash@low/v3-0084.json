@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "84 <i>Variae interpretationes vocis</i> חסידה. P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "84 <i>Variae interpretationes vocis</i> חסידה. P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "licet nondum actum, cui <i>hafida</i> est ܚܛܝܛܐ <i>hirundo</i> ^{(3)}. Nec de\niis <i>Arabum</i>, qui in Lege الصقر <i>sacrum</i> explicant <i>accipitrem</i>: et in <i>Pfal-</i>\n<i>mis</i> الهام <i>noctuam</i>: in <i>Prophetis</i> القعقع <i>alkoko</i>; quod <i>Gabriel Sio-</i>\n<i>nita</i> in uno loco pro <i>grue</i>, in altero pro <i>pica</i> sumit, sed utrobique perpe-\nram, ut infra docebitur. Neque de <i>Syro</i>, qui alibi ܚܘܪܕܐ, <i>ciconiam</i> in-\nterpretatur, sed in <i>Iobo</i> ܐܪܙܐ <i>otum</i>. Neque de <i>Graecis</i> in <i>Zacharia</i>, qui-\nbus כנפי החסידה, sunt πτέρυγες ἔποπος, <i>alae upupae</i>. Neque de <i>Olym-</i>\n<i>piodoro</i> in <i>Ieremiam</i>, ubi Ἰνδικόν ἐστι γένος ὀρνέου ἡ ἀσίδα, <i>Indicum avis ge-</i>\n<i>nus est asida</i>. Neque de <i>Polychronio</i> in <i>Iobum</i>, ubi Τινὲς ἔφασαν τὴν\nἈραβίδα εἶναι ὄρνιν, ἥτις ἐν τῇ Μεσοποταμίᾳ εὑρίσκεται, <i>Arabicam esse</i>\n<i>avem, nonnulli tradiderunt, quae in Mesopotamia reperitur</i>. Neque de <i>Lexi-</i>\n<i>cographis</i>, <i>Cyrillo</i> et <i>Phavorino</i>: quibus ἀσίδα est στρουθοκάμηλος. Quae se-\nmel et simul monuisse sufficiat, ut jam inter tot veterum fluctuationes pe-\ndem conemur in firmo loco sistere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "licet nondum actum, cui <i>hafida</i> est ܚܛܝܛܐ <i>hirundo</i> ^{(3)}. Nec de\niis <i>Arabum</i>, qui in Lege الصقر <i>sacrum</i> explicant <i>accipitrem</i>: et in <i>Pfal-</i>\n<i>mis</i> الهام <i>noctuam</i>: in <i>Prophetis</i> القعقع <i>alkoko</i>; quod <i>Gabriel Sio-</i>\n<i>nita</i> in uno loco pro <i>grue</i>, in altero pro <i>pica</i> sumit, sed utrobique perpe-\nram, ut infra docebitur. Neque de <i>Syro</i>, qui alibi ܚܘܪܕܐ, <i>ciconiam</i> in-\nterpretatur, sed in <i>Iobo</i> ܐܪܙܐ <i>otum</i>. Neque de <i>Graecis</i> in <i>Zacharia</i>, qui-\nbus כנפי החסידה, sunt πτέρυγες ἔποπος, <i>alae upupae</i>. Neque de <i>Olym-</i>\n<i>piodoro</i> in <i>Ieremiam</i>, ubi Ἰνδικόν ἐστι γένος ὀρνέου ἡ ἀσίδα, <i>Indicum avis ge-</i>\n<i>nus est asida</i>. Neque de <i>Polychronio</i> in <i>Iobum</i>, ubi Τινὲς ἔφασαν τὴν\nἈραβίδα εἶναι ὄρνιν, ἥτις ἐν τῇ Μεσοποταμίᾳ εὑρίσκεται, <i>Arabicam esse</i>\n<i>avem, nonnulli tradiderunt, quae in Mesopotamia reperitur</i>. Neque de <i>Lexi-</i>\n<i>cographis</i>, <i>Cyrillo</i> et <i>Phavorino</i>: quibus ἀσίδα est στρουθοκάμηλος. Quae se-\nmel et simul monuisse sufficiat, ut jam inter tot veterum fluctuationes pe-\ndem conemur in firmo loco sistere."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„Hirundo, veris quidem nuntia, et\nmigratoria (Ierem. VIII, 7.), ideo tamen\nplane displicet, quod peculiare illi domici-\nlium non arbores altae (id quod Pf. CIV,\n17. de חסידה dicitur), sed tecta aedium.“\nHaec I. D. MICHAELIS in <i>Supplemm. ad</i>\n<i>Lexx. Hebrr.</i> P. III. pag. 861. not., qui\nomnino de his veterum interpretationibus\nest conferendus.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„Hirundo, veris quidem nuntia, et\nmigratoria (Ierem. VIII, 7.), ideo tamen\nplane displicet, quod peculiare illi domici-\nlium non arbores altae (id quod Pf. CIV,\n17. de חסידה dicitur), sed tecta aedium.“\nHaec I. D. MICHAELIS in <i>Supplemm. ad</i>\n<i>Lexx. Hebrr.</i> P. III. pag. 861. not., qui\nomnino de his veterum interpretationibus\nest conferendus."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1700,
+    1142
+   ],
+   [
+    1700,
+    1674
+   ]
+  ],
+  "input_tokens": 3403,
+  "output_tokens": 760,
+  "cost_usd": 0.0054,
+  "seconds": 7.0
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXX. <i>Hebr. voce</i> אנפה <i>fignificatur avis iracunda.</i> 97",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXX. <i>Hebr. voce</i> אנפה <i>fignificatur avis iracunda.</i> 97"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXX.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXX."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Hebraea voce</i> אנפה anapha <i>fignificari avem aliquam\nvalde iracundam; fortaſſe Arabum</i> زمج zummag, ⟦p. 335.⟧\n<i>aquilae genus, cui ab ira nomen eft.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hebraea voce</i> אנפה anapha <i>fignificari avem aliquam\nvalde iracundam; fortaſſe Arabum</i> زمج zummag, ⟦p. 335.⟧\n<i>aquilae genus, cui ab ira nomen eft.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Inter aquilarum ſpecies una eſt, nobis aliunde ignota, quam Arabes زمج\nzummag, barbari ſcriptores zumach et zimiech vocant. Damir in capite\nDe العقاب, <i>Alokab</i>, ſeu <i>Aquila</i>, وهو نوعان عقاب وزمج <i>Ejus\nduae funt ſpecies, okab et zummag. Tardivus apud Geſnerum pag. 170. Aqui-\nlae duo genera funt: aquila abſolute; et altera dicta</i> zimiech, <i>vel</i> zumach. Et\n<i>rurſus, Albedo in capite aut dorſo aquilae ſignum eſt aquilae melioris, quae</i> Ara-\nbice vocatur ZUMMACH, Syriace ܢܦܐܡ, Graece Philadelphe, Latine MILION.\nAd quae verba <i>Geſnerus, Ex his Graecum et Latinum aquilae nomen apud nul-\nlum idoneum auctorem reperias.</i> Tamen philadelphe palam detortum eſt ex Grae-\nco Φιλάδελφος· quo nomine hanc avem a <i>Graecis</i> recentioribus fuiſſe nuncupa-\ntam, etſi alibi non legerim, ideo mihi videtur vero conſentaneum, quia non\npotuit illi indi nomen aptius, neque quod naturam ejus magis ad vivum expri-\nmat. Aquilarum enim generi proprium illud eſt, ut ament ſolitudinem, et\nomnis conſortii ſint prorſus impatientes. Unde eſt, quod, quamprimum pulli\naquilae ſunt ad volatum habiles, matres ἐκ τῆς νεοττίας αὐτὸς ἐκβάλλεσι, καὶ\nἐκ τῦ τόπυ τῦ περὶ αὑτὴν παντὸς ἀπελαύνεσιν· ἐπέχει γὰρ ἓν ζεῦγος αἰετῶν\nπολὺν τόπον. διόπερ ἐκ ἐᾷ πλησίον αὑτῶν ἄλλες αὐλισθῆναι. Ita <i>Philoſophus</i>\nlibri noni capite trigefimo ſecundo: et eum ſequutus <i>Plinius</i> libri decimi capite\ntertio; <i>Adultos quoque perſequitur parens, et longe fugat, aemulos ſcilicet rapi-\nnae. Et alioquin unum par aquilarum magno ad populandum tractu, ut ſatietur,\nindiget. Determinant ergo ſpatia, nec in proximo praedantur. Aelianus</i> libri\nſecundi capite trigefimo nono, Κοινωνίαν τε τὴν πρὸς ἄλλον ἥκιστα ἐνδέχεται·\n<i>Conſortium cum aliis nullum admittit.</i> Item, Ἀλλήλων ἀπῳκισμένας οἰκῦσι κα- ⟦p. 336.⟧\nλιὰς, ὑπὲρ τῦ μὴ διαφέρεσθαι ὑπὲρ θήρας· <i>Aliae ab aliis longiſſime nidificant,\nne pro praeda ſit iis contendendum.</i> Tamen ex illo genere زمج zummag vere\nΦιλάδελφος, conſorte delectatur, neque ſolet ſolus venari, ſed comite ſibi ad-\njuncto. <i>Alcamus</i>, الزمج طاير فارسية دي برادران لانه اذا\nاعجز عن صيده اعانه اخوه Zummag, <i>avis, quae Perſice voca-\ntur</i> DU-BRADRAN (id eſt, <i>duo fratres</i>), <i>quia, cum praeda ei excidit, illi adeſt\nfrater ejus. Alleiths</i>, الزمج طاير دون العقاب حمرته",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Inter aquilarum ſpecies una eſt, nobis aliunde ignota, quam Arabes زمج\nzummag, barbari ſcriptores zumach et zimiech vocant. Damir in capite\nDe العقاب, <i>Alokab</i>, ſeu <i>Aquila</i>, وهو نوعان عقاب وزمج <i>Ejus\nduae funt ſpecies, okab et zummag. Tardivus apud Geſnerum pag. 170. Aqui-\nlae duo genera funt: aquila abſolute; et altera dicta</i> zimiech, <i>vel</i> zumach. Et\n<i>rurſus, Albedo in capite aut dorſo aquilae ſignum eſt aquilae melioris, quae</i> Ara-\nbice vocatur ZUMMACH, Syriace ܢܦܐܡ, Graece Philadelphe, Latine MILION.\nAd quae verba <i>Geſnerus, Ex his Graecum et Latinum aquilae nomen apud nul-\nlum idoneum auctorem reperias.</i> Tamen philadelphe palam detortum eſt ex Grae-\nco Φιλάδελφος· quo nomine hanc avem a <i>Graecis</i> recentioribus fuiſſe nuncupa-\ntam, etſi alibi non legerim, ideo mihi videtur vero conſentaneum, quia non\npotuit illi indi nomen aptius, neque quod naturam ejus magis ad vivum expri-\nmat. Aquilarum enim generi proprium illud eſt, ut ament ſolitudinem, et\nomnis conſortii ſint prorſus impatientes. Unde eſt, quod, quamprimum pulli\naquilae ſunt ad volatum habiles, matres ἐκ τῆς νεοττίας αὐτὸς ἐκβάλλεσι, καὶ\nἐκ τῦ τόπυ τῦ περὶ αὑτὴν παντὸς ἀπελαύνεσιν· ἐπέχει γὰρ ἓν ζεῦγος αἰετῶν\nπολὺν τόπον. διόπερ ἐκ ἐᾷ πλησίον αὑτῶν ἄλλες αὐλισθῆναι. Ita <i>Philoſophus</i>\nlibri noni capite trigefimo ſecundo: et eum ſequutus <i>Plinius</i> libri decimi capite\ntertio; <i>Adultos quoque perſequitur parens, et longe fugat, aemulos ſcilicet rapi-\nnae. Et alioquin unum par aquilarum magno ad populandum tractu, ut ſatietur,\nindiget. Determinant ergo ſpatia, nec in proximo praedantur. Aelianus</i> libri\nſecundi capite trigefimo nono, Κοινωνίαν τε τὴν πρὸς ἄλλον ἥκιστα ἐνδέχεται·\n<i>Conſortium cum aliis nullum admittit.</i> Item, Ἀλλήλων ἀπῳκισμένας οἰκῦσι κα- ⟦p. 336.⟧\nλιὰς, ὑπὲρ τῦ μὴ διαφέρεσθαι ὑπὲρ θήρας· <i>Aliae ab aliis longiſſime nidificant,\nne pro praeda ſit iis contendendum.</i> Tamen ex illo genere زمج zummag vere\nΦιλάδελφος, conſorte delectatur, neque ſolet ſolus venari, ſed comite ſibi ad-\njuncto. <i>Alcamus</i>, الزمج طاير فارسية دي برادران لانه اذا\nاعجز عن صيده اعانه اخوه Zummag, <i>avis, quae Perſice voca-\ntur</i> DU-BRADRAN (id eſt, <i>duo fratres</i>), <i>quia, cum praeda ei excidit, illi adeſt\nfrater ejus. Alleiths</i>, الزمج طاير دون العقاب حمرته"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI. <i>Hieroz.</i> Tom. III. N غالبة",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI. <i>Hieroz.</i> Tom. III. N غالبة"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1892,
+    1661
+   ],
+   [
+    1892,
+    1139
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1178,
+  "cost_usd": 0.007,
+  "seconds": 9.8
+ }
+}

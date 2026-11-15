@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXIII. <i>Probatur</i>, תנשמת <i>esse Noctuan.</i> 31",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXIII. <i>Probatur</i>, תנשמת <i>esse Noctuan.</i> 31"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXIII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, תנשמת thinsemeth <i>esse Noctuam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, תנשמת thinsemeth <i>esse Noctuam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Vox תנשמת <i>thinsemeth Hebraeis</i> est valde ambigua. Nam <i>Levit. XI</i>, 30. est ⟦p. 286.⟧\ninter lacertorum species, ut suo loco dictum. At ejusdem capitis versu de-\ncimo octavo, in quo versamur, avis immundae genus est. <i>Graeci</i> πορφυρίω-\nνα explicant, avem aquaticam in <i>Lybia</i> et <i>Comagene Syriae</i>, sic dictam a colo-\nre rostri et pedum: nam pennae sunt coeruleae (¹) <i>Hieronymus cygnum</i> hic ha-\nbet. <i>Jonathan</i>, אותיא <i>otja</i>, id est, <i>otum</i>, ut quidem puto, avem, ab otide na-\ntura diversissimam, quamvis nomine vicinam. Otus enim nocturna est avis, de\nqua sic <i>Philosophus</i> libri octavi capite duodecimo; Ὁ δὲ ὠτὸς, ὅμοιος ταῖς\nγλαυξὶ, καὶ περὶ τὰ ὦτα πτερύγια ἔχων. ἔνιοι δὲ αὐτὸν νυκτικόρακα καλῦ-\nσιν. ἔστι δὲ κόβαλος, καὶ μιμητὴς, καὶ ἀντορχόμενος ἁλίσκεται, περιελθόν-\nτος θατέρου τῶν θηρευτῶν, καθάπερ γλαύξ. <i>Otus autem noctuis est similis, et</i>\n<i>circa aures habet pinnulas (unde illi nomen). Nycticoracem nonnulli vocant.</i>\n<i>Scurra autem et imitator est. Et contra saltantem unum aucupum vicissim saltans</i>\n<i>capitur ab altero circumeunte, ut noctua</i> (²). Onkelos בותא <i>bautha</i>, vel <i>bavetha</i>,\netiam avis nocturnae genus, quae <i>Graece</i> βύας dicitur, <i>Latine</i> bubo, et <i>Arabice</i>\nالبوه <i>albuho</i> a cantu. Quamvis etiam apud <i>Arabes</i> parum constet, quid pro-\nprie sit البوه <i>albuho</i>. Damir, البوه طاير يشبه البوم الا انه\nاصغر منه والانثي بوهة ويشبه بها الرجل الاحمق\n<i>Albuho avis est similis</i> τῷ album, <i>seu buboni, nisi quod minor est. Foemininum</i>\n<i>est albuha. Cum ea confertur, qui stupidus est.</i> Quod postquam probavit\nexemplo, ex poëta quodam petito, addit, وقيل البوه ذكر البوم\nوقيل البوه اكبر من البوم <i>Ab aliis albuho dicitur esse mas al-</i>\n<i>bum, et rursus ab aliis esse major album</i>, id est, bubo. Quod verissimum.\nOmnino enim البوه <i>albuho</i> est <i>Graecum</i> βύας, id est, bubo, quae avis in\nnocturnis est maxima. Neque aliud <i>Chaldaeum</i> בותא, quod linguae more fa-\nctum ex בוא : ut עותא, <i>iniquitas</i>, ex עוא: et כותא, <i>fenestra</i>, ex כוא.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vox תנשמת <i>thinsemeth Hebraeis</i> est valde ambigua. Nam <i>Levit. XI</i>, 30. est ⟦p. 286.⟧\ninter lacertorum species, ut suo loco dictum. At ejusdem capitis versu de-\ncimo octavo, in quo versamur, avis immundae genus est. <i>Graeci</i> πορφυρίω-\nνα explicant, avem aquaticam in <i>Lybia</i> et <i>Comagene Syriae</i>, sic dictam a colo-\nre rostri et pedum: nam pennae sunt coeruleae (¹) <i>Hieronymus cygnum</i> hic ha-\nbet. <i>Jonathan</i>, אותיא <i>otja</i>, id est, <i>otum</i>, ut quidem puto, avem, ab otide na-\ntura diversissimam, quamvis nomine vicinam. Otus enim nocturna est avis, de\nqua sic <i>Philosophus</i> libri octavi capite duodecimo; Ὁ δὲ ὠτὸς, ὅμοιος ταῖς\nγλαυξὶ, καὶ περὶ τὰ ὦτα πτερύγια ἔχων. ἔνιοι δὲ αὐτὸν νυκτικόρακα καλῦ-\nσιν. ἔστι δὲ κόβαλος, καὶ μιμητὴς, καὶ ἀντορχόμενος ἁλίσκεται, περιελθόν-\nτος θατέρου τῶν θηρευτῶν, καθάπερ γλαύξ. <i>Otus autem noctuis est similis, et</i>\n<i>circa aures habet pinnulas (unde illi nomen). Nycticoracem nonnulli vocant.</i>\n<i>Scurra autem et imitator est. Et contra saltantem unum aucupum vicissim saltans</i>\n<i>capitur ab altero circumeunte, ut noctua</i> (²). Onkelos בותא <i>bautha</i>, vel <i>bavetha</i>,\netiam avis nocturnae genus, quae <i>Graece</i> βύας dicitur, <i>Latine</i> bubo, et <i>Arabice</i>\nالبوه <i>albuho</i> a cantu. Quamvis etiam apud <i>Arabes</i> parum constet, quid pro-\nprie sit البوه <i>albuho</i>. Damir, البوه طاير يشبه البوم الا انه\nاصغر منه والانثي بوهة ويشبه بها الرجل الاحمق\n<i>Albuho avis est similis</i> τῷ album, <i>seu buboni, nisi quod minor est. Foemininum</i>\n<i>est albuha. Cum ea confertur, qui stupidus est.</i> Quod postquam probavit\nexemplo, ex poëta quodam petito, addit, وقيل البوه ذكر البوم\nوقيل البوه اكبر من البوم <i>Ab aliis albuho dicitur esse mas al-</i>\n<i>bum, et rursus ab aliis esse major album</i>, id est, bubo. Quod verissimum.\nOmnino enim البوه <i>albuho</i> est <i>Graecum</i> βύας, id est, bubo, quae avis in\nnocturnis est maxima. Neque aliud <i>Chaldaeum</i> בותא, quod linguae more fa-\nctum ex בוא : ut עותא, <i>iniquitas</i>, ex עוא: et כותא, <i>fenestra</i>, ex כוא."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iam",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "De qua ave vid. AELIANI <i>Hist. Ani-</i>\n<i>mal.</i> L. III. cap. 42. PLINII <i>Hist. Nat.</i>\nL. X. cap. 46. Est Fulica porphyrio Linn.\n(Tom I. P. II p. 699. ed. Gmelin.), fron-\nte rubra, armillis multis, corpore viridi\nsubtus violaceo; Gallis Poul-Sultane.\nOEDMANNO πορφυριων Graecorum Phoeni-\ncopterus ruber Linn. (T. I. P. II. p. 612.)\nesse videtur (<i>Vermischte Sammlungen</i>, III.\np. 57.), sed sententiae rationes non addit.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De qua ave vid. AELIANI <i>Hist. Ani-</i>\n<i>mal.</i> L. III. cap. 42. PLINII <i>Hist. Nat.</i>\nL. X. cap. 46. Est Fulica porphyrio Linn.\n(Tom I. P. II p. 699. ed. Gmelin.), fron-\nte rubra, armillis multis, corpore viridi\nsubtus violaceo; Gallis Poul-Sultane.\nOEDMANNO πορφυριων Graecorum Phoeni-\ncopterus ruber Linn. (T. I. P. II. p. 612.)\nesse videtur (<i>Vermischte Sammlungen</i>, III.\np. 57.), sed sententiae rationes non addit."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Otus Linn. Strix auricularum pen-\nnis senis, T. I. P. II. p. 288.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Otus Linn. Strix auricularum pen-\nnis senis, T. I. P. II. p. 288."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1746,
+    1120
+   ],
+   [
+    1746,
+    1680
+   ]
+  ],
+  "input_tokens": 3388,
+  "output_tokens": 1164,
+  "cost_usd": 0.0069,
+  "seconds": 9.0
+ }
+}

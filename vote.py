@@ -44,6 +44,21 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 7 (scan check 15-Nov-2026)
+    ('v3-0001', 'כפיחהו'): 'print כפיחהו',
+    ('v3-0009', 'חחצים,'): 'print חחצים',
+    ('v3-0015', 'ܟܘܕܐ'): 'print ܥܘܕܐ (first letter is e, not alaph)',
+    ('v3-0027', 'يزل'): 'print يزل, then وينزل',
+    ('v3-0044', 'στερρότης,'): 'print στεῤῥότης, (στ ligature; two rho with breathings)',
+    ('v3-0049', 'شقراق'): 'sikirrak: two dots (ق)',
+    ('v3-0059', 'المعغون'): 'print المعقود (the change had tatweel signs)',
+    ('v3-0123', 'μαστοφαγῆ,'): 'στ ligature',
+    ('v3-0119', 'ד׳'): 'the print has the mark over the numeral letters',
+    ('v3-0104', 'אגפה'): 'agapham: אגפה',
+    ('v3-0095', 'Ἀσιδα,'): 'same letters; spacing form of the breathing',
+    ('v3-0119', 'probibitio'): "print probibitio (printer's error, kept)",
+    ('v3-0122', 'זקפתא'): 'print זקפתא',
+    ('v3-0104', 'אגפיים'): 'print אגפיים',
     # tranche 6 (scan check 14-Nov-2026)
     ('v2-0793', 'BOS'): 'small capitals, as LAMB.',
     ('v2-0805', 'Ἰξευτικῶν,'): 'breathing before the capital: same letter',
@@ -160,6 +175,12 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # tranche 7 (scan check 15-Nov-2026)
+    ('v3-0003', 'כתאים,'),
+    ('v3-0008', 'ونتن'),
+    ('v3-0011', 'בפרישת'),
+    ('v3-0054', 'II.'),
+    ('v3-0114', 'Ἔποπας'),
     # tranche 6 (scan check 14-Nov-2026)
     ('v2-0801', 'يعود'),
     ('v2-0803', 'فخرج'),

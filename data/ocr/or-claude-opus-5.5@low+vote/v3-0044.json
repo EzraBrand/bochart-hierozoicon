@@ -1,0 +1,111 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "44 <i>Probatur,</i> קאת <i>esse Pelicanum</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "44 <i>Probatur,</i> קאת <i>esse Pelicanum</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>cum in summo ventriculo parum retinuerunt, dehiscentes evomere, atque ita carnes</i>\n<i>exemptas comedere.</i> <i>Plinius</i> libri decimi capite quadragesimo, <i>Eadem, cum devora-</i>\n<i>tis se implevit conchis, calore ventris coctas evomit, atque ita ex iis esculenta legit,</i>\n<i>testas excernens.</i> Aelianus <i>Historiae animalium</i> libri tertii capite vigesimo, Οἱ\nπελεκᾶνες, ἐν τοῖς ποταμοῖς κόγχας περιχαίνοντες· εἶτα καταπίνουσιν· ἔν-\nδον δὲ καὶ ἐν μυχῷ τῆς γαστρὸς ὑποθάλψαντες ἀνεμοῦσιν, καὶ τὰ μὲν ὀστράκια\nἐκ τῆς ἀλέας διέστη ὥσπερ οὖν τῶν ἑφθῶν. οἱ δὲ ἐξορύττουσι τὰ κρέα, καὶ ἔχουσι\nδεῖπνον. <i>Plateae fluviatilibus conchis inhiant, atque eas absorbent; et in imo sto-</i>\n<i>macho calefactas revomunt. Et ex testis alvi calore diductis, ut quae coctae sunt,</i>\n<i>carnes in cibum eruunt.</i> Quae fere eadem in <i>Apostolio</i> Centuriae 15. Proverbio\n93. <i>Eustathius</i> in <i>Hexaëmeron</i>, postquam conchas, ab iis deglutitas, calore fau-\ncium laxari dixit, ἐξεμέσαντες οὖν αὐτὰς, inquit, εὐμαρῶς τὸ ἐδώδιμον αὐτῶν ⟦p. 295⟧\nκατεσθίουσιν, <i>iis evomitis, quod est esculentum facile comedunt.</i> Phile <i>De ani-</i>\n<i>malibus</i> capite octavo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>cum in summo ventriculo parum retinuerunt, dehiscentes evomere, atque ita carnes</i>\n<i>exemptas comedere.</i> <i>Plinius</i> libri decimi capite quadragesimo, <i>Eadem, cum devora-</i>\n<i>tis se implevit conchis, calore ventris coctas evomit, atque ita ex iis esculenta legit,</i>\n<i>testas excernens.</i> Aelianus <i>Historiae animalium</i> libri tertii capite vigesimo, Οἱ\nπελεκᾶνες, ἐν τοῖς ποταμοῖς κόγχας περιχαίνοντες· εἶτα καταπίνουσιν· ἔν-\nδον δὲ καὶ ἐν μυχῷ τῆς γαστρὸς ὑποθάλψαντες ἀνεμοῦσιν, καὶ τὰ μὲν ὀστράκια\nἐκ τῆς ἀλέας διέστη ὥσπερ οὖν τῶν ἑφθῶν. οἱ δὲ ἐξορύττουσι τὰ κρέα, καὶ ἔχουσι\nδεῖπνον. <i>Plateae fluviatilibus conchis inhiant, atque eas absorbent; et in imo sto-</i>\n<i>macho calefactas revomunt. Et ex testis alvi calore diductis, ut quae coctae sunt,</i>\n<i>carnes in cibum eruunt.</i> Quae fere eadem in <i>Apostolio</i> Centuriae 15. Proverbio\n93. <i>Eustathius</i> in <i>Hexaëmeron</i>, postquam conchas, ab iis deglutitas, calore fau-\ncium laxari dixit, ἐξεμέσαντες οὖν αὐτὰς, inquit, εὐμαρῶς τὸ ἐδώδιμον αὐτῶν ⟦p. 295⟧\nκατεσθίουσιν, <i>iis evomitis, quod est esculentum facile comedunt.</i> Phile <i>De ani-</i>\n<i>malibus</i> capite octavo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Κόγχην δὲ πελεκὰν ἐμβαλὼν τοῖς ἐγκάτοις,\nΚἀνάπαλιν αὐτὴν ἐξενεγκὼν ὀστράκοις\nΤὸ σαρκίον βέβρωκε ληφθὲν εὐστόχως.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Κόγχην δὲ πελεκὰν ἐμβαλὼν τοῖς ἐγκάτοις,\nΚἀνάπαλιν αὐτὴν ἐξενεγκὼν ὀστράκοις\nΤὸ σαρκίον βέβρωκε ληφθὲν εὐστόχως."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pelicanus, concham, in viscera immissam, rursus revocans, carne testis exempta</i>\n<i>perite vescitur.</i> <i>Pisidas</i> quoque <i>De mundi opificio</i> testas ab iis demitti dicit in\nignem viscerum, cum aliter recludi non possint,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pelicanus, concham, in viscera immissam, rursus revocans, carne testis exempta</i>\n<i>perite vescitur.</i> <i>Pisidas</i> quoque <i>De mundi opificio</i> testas ab iis demitti dicit in\nignem viscerum, cum aliter recludi non possint,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Λύσιν δὲ πάσχει τῶν πτυχῶν ἡ στερρότης,\nΤῇ θερμότητι τῶν ἔσω χαυνουμένη.\nΘᾶττον δὲ τὰς πρὶν ἐξεμοῦντες συνδέσεις,\nΓυμνῇ διαρπάζουσι τὰς σάρκας μάχῃ,\nΤὴν ὀστρακώδη μὴ φοροῦσας ἀσπίδα.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Λύσιν δὲ πάσχει τῶν πτυχῶν ἡ στερρότης,\nΤῇ θερμότητι τῶν ἔσω χαυνουμένη.\nΘᾶττον δὲ τὰς πρὶν ἐξεμοῦντες συνδέσεις,\nΓυμνῇ διαρπάζουσι τὰς σάρκας μάχῃ,\nΤὴν ὀστρακώδη μὴ φοροῦσας ἀσπίδα."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tum vero solutionem patitur valvarum firmitas, interiore calore laxata. Et mox</i>\n<i>vomentes quae prius colligata erant, nuda pugna carnes diripiunt, testaceo clypeo</i>\n<i>non amplius instructas.</i> Fatendum interim, <i>Plutarchum</i> in libro <i>Utra anim.</i>\nhoc idem ardeis tribuere, cum dicit, artem aperiendi ostrea deberi τοῖς ἐρωδίων\nσοφίσμασιν· ὅταν γὰρ τὴν κόγχην καταπίῃ μεμυκυῖαν, ἐνοχλούμενος ἐγκαρ-\nτερεῖ, μέχρις ἂν αἴσθηται μαλασσομένην, καὶ χαλῶσαν ὑπὸ τῆς θερμότητος·\nτότε δὲ ἐκβαλὼν κεχηνυῖαν, καὶ ἀπεσπασμένην, ἐξεῖλε τὸ ἐδώδιμον, <i>ardea-</i>\n<i>rum industriae: cum enim clausam testam ardea deglutiit, quamvis eam moleste fe-</i>\n<i>rat, tamen patitur, donec a calore emollitam et laxatam sentiat; tum vero hian-</i>\n<i>tem et avulsam ejiciens, ex ea esculentum eximit.</i> Et <i>Aelianus</i> libri tertii capite\nvigesimo quarto, postquam narravit, ciconias proprios cibos evomitos pullis\nofferre, si nihil aliud suppetat, quo illos alant, addit, καὶ τοὺς ἐρωδιοὺς ποιεῖν",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tum vero solutionem patitur valvarum firmitas, interiore calore laxata. Et mox</i>\n<i>vomentes quae prius colligata erant, nuda pugna carnes diripiunt, testaceo clypeo</i>\n<i>non amplius instructas.</i> Fatendum interim, <i>Plutarchum</i> in libro <i>Utra anim.</i>\nhoc idem ardeis tribuere, cum dicit, artem aperiendi ostrea deberi τοῖς ἐρωδίων\nσοφίσμασιν· ὅταν γὰρ τὴν κόγχην καταπίῃ μεμυκυῖαν, ἐνοχλούμενος ἐγκαρ-\nτερεῖ, μέχρις ἂν αἴσθηται μαλασσομένην, καὶ χαλῶσαν ὑπὸ τῆς θερμότητος·\nτότε δὲ ἐκβαλὼν κεχηνυῖαν, καὶ ἀπεσπασμένην, ἐξεῖλε τὸ ἐδώδιμον, <i>ardea-</i>\n<i>rum industriae: cum enim clausam testam ardea deglutiit, quamvis eam moleste fe-</i>\n<i>rat, tamen patitur, donec a calore emollitam et laxatam sentiat; tum vero hian-</i>\n<i>tem et avulsam ejiciens, ex ea esculentum eximit.</i> Et <i>Aelianus</i> libri tertii capite\nvigesimo quarto, postquam narravit, ciconias proprios cibos evomitos pullis\nofferre, si nihil aliud suppetat, quo illos alant, addit, καὶ τοὺς ἐρωδιοὺς ποιεῖν"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "ταὐτὸ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "ταὐτὸ,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1808,
+    1015
+   ],
+   [
+    1808,
+    1129
+   ]
+  ],
+  "input_tokens": 6965,
+  "output_tokens": 1980,
+  "cost_usd": 0.0675,
+  "seconds": 25.2,
+  "vote": "1 decisions from v3-1-125"
+ }
+}

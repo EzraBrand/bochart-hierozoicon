@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 13",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIX. <i>De Accipitre, qui</i> נץ <i>Hebraeis.</i> 13"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "plativa libri tertii capite decimo septimo: <i>Utuntur accipitribus ac saginatis cani-\nbus ad venatum.</i> Et <i>Sidonius</i> in <i>Panegyrico</i> ad <i>Avitum</i> socerum, imperatorem ⟦p. 272⟧\net consulem anno 456.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "plativa libri tertii capite decimo septimo: <i>Utuntur accipitribus ac saginatis cani-\nbus ad venatum.</i> Et <i>Sidonius</i> in <i>Panegyrico</i> ad <i>Avitum</i> socerum, imperatorem ⟦p. 272⟧\net consulem anno 456."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quid volucrum studium, dat quas natura rapaces\nIn vulgus prope cognatum? Quis doctior isto\nInstituit varias per nubila jungere lites!\nAlite vincit aves, celerique per aethera plausu\nHoc nulli melius pugnator militat unguis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quid volucrum studium, dat quas natura rapaces\nIn vulgus prope cognatum? Quis doctior isto\nInstituit varias per nubila jungere lites!\nAlite vincit aves, celerique per aethera plausu\nHoc nulli melius pugnator militat unguis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et ad <i>Herodicum</i>, hujus <i>Aviti</i> filium, Epistola tertia libri tertii, <i>Tibi pila,\npyrgus, accipiter, canis, equus, arcus ludo fuere.</i> Et ad <i>Industrium</i> Epistola\nnona libri quarti, in <i>Vectii</i> illustris viri commendationem; <i>Illa leviora, quod\nipse, quem loquimur in equis, canibus, accipitribus instituendis, spectandis, cir-\ncumferendis nulli secundus.</i> Exinde, crescente luxu, cum in Gallia Clerici\nquoque canes et accipitres haberent, id vetarunt multa concilia toto sexto saecu-\nlo: ut anno 506. <i>Agathense</i>, canone quinquagesimo quinto; <i>Episcopis, presby-\nteris, diaconibus, canes ad venandum, aut accipitres habere non liceat.</i> Quod\nipsum repetitur anno 517. in <i>Epaonensis</i> concilii canone quarto: et anno 585.\nin <i>Matisconensis</i> secundi Canone decimo tertio, <i>Ubi Dei est assiduitas cantilenae,\nmonstrum est, et dedecoris nota, canes ibi, vel accipitres habitare.</i> Itaque gra-\nviter falluntur <i>Leander</i> et <i>Pancirolla</i>, qui <i>Friderico Barbaroffae</i>; Et <i>Pandul-\nphus Collenutius</i>, qui <i>Henrico Sexto</i>, imperatori, tribuunt hujus aucupii in-\nventum.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et ad <i>Herodicum</i>, hujus <i>Aviti</i> filium, Epistola tertia libri tertii, <i>Tibi pila,\npyrgus, accipiter, canis, equus, arcus ludo fuere.</i> Et ad <i>Industrium</i> Epistola\nnona libri quarti, in <i>Vectii</i> illustris viri commendationem; <i>Illa leviora, quod\nipse, quem loquimur in equis, canibus, accipitribus instituendis, spectandis, cir-\ncumferendis nulli secundus.</i> Exinde, crescente luxu, cum in Gallia Clerici\nquoque canes et accipitres haberent, id vetarunt multa concilia toto sexto saecu-\nlo: ut anno 506. <i>Agathense</i>, canone quinquagesimo quinto; <i>Episcopis, presby-\nteris, diaconibus, canes ad venandum, aut accipitres habere non liceat.</i> Quod\nipsum repetitur anno 517. in <i>Epaonensis</i> concilii canone quarto: et anno 585.\nin <i>Matisconensis</i> secundi Canone decimo tertio, <i>Ubi Dei est assiduitas cantilenae,\nmonstrum est, et dedecoris nota, canes ibi, vel accipitres habitare.</i> Itaque gra-\nviter falluntur <i>Leander</i> et <i>Pancirolla</i>, qui <i>Friderico Barbaroffae</i>; Et <i>Pandul-\nphus Collenutius</i>, qui <i>Henrico Sexto</i>, imperatori, tribuunt hujus aucupii in-\nventum."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "B 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "B 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1976,
+    1669
+   ],
+   [
+    1976,
+    1115
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 750,
+  "cost_usd": 0.0054,
+  "seconds": 7.6
+ }
+}

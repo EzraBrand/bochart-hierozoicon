@@ -1,0 +1,1297 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v3-0001",
+   "line": "aliter definit, ut docent haec Kimchii in Lexico: פירשו רבי יונה בלשון ערבי",
+   "old": "בלשון",
+   "new": "בל׳שון",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0001",
+   "line": "sochaph; quo fit, ut corpus fit מתנונה mathnuna, id est, מתחלשת ומתכחשת",
+   "old": "fit",
+   "new": "sit",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0002",
+   "line": "ואבדו, Sed juxta Kimchium morbus est attenuationem corporis gignens, et per-",
+   "old": "ואבדו,",
+   "new": "ואבודו,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0003",
+   "line": "legerunt כתאים, id est, simplices, εὐαπάτητοι. Fit enim a verbo פתה, quod",
+   "old": "כתאים,",
+   "new": "פתאים,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0004",
+   "line": "Scholiastes, Εὐήθες ζῶον ὁ κέπφος, Fatuum est animal cepphus. Et ad posterio-",
+   "old": "Εὐήθες",
+   "new": "Εὔηθες",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0005",
+   "line": "Ὣς ἔφατ᾽ ὠκυπετὴς ἴρηξ, τανυσίπτερος ὄρνις,",
+   "old": "Ὣς",
+   "new": "Ὡς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0007",
+   "line": "Ubi sacer ales est ἱέραξ· ut apud Demetrium in Praefatione ad Hieratosophium,",
+   "old": "Hieratosophium,",
+   "new": "Hieracosophium,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0007",
+   "line": "اكدر achdar, fuscus; et قطامي kumati, carnis avidus; et a Damire,",
+   "old": "قطامي",
+   "new": "قماطي",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0007",
+   "line": "وغيره ومزاجه ابرد من ساير ما تقدم ذكره من الجوارح",
+   "old": "الجوارح",
+   "new": "الحوارح",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0007",
+   "line": "واحسن الغذاء واشد اقدام علي جماعة من الكركي",
+   "old": "جماعة",
+   "new": "جملة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0008",
+   "line": "وكذلك يوصف بالبخر ونتن الفم وله كفان في",
+   "old": "ونتن",
+   "new": "ونتي",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0008",
+   "line": "لشجاعة خلقها الله تعالى فيه, propter auda-",
+   "old": "تعالى",
+   "new": "تعالي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0008",
+   "line": "يده كالسبع لانه يكف بهما على ما اخذ اي",
+   "old": "على",
+   "new": "علي",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0011",
+   "line": "דומה לרמות נץ יעמיד קושי הרוח דרומית בפרישת כנפיו שלא תחריב את",
+   "old": "הרוח",
+   "new": "הריח",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0011",
+   "line": "דומה לרמות נץ יעמיד קושי הרוח דרומית בפרישת כנפיו שלא תחריב את",
+   "old": "בפרישת",
+   "new": "בפרישית",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0015",
+   "line": "μενα τέλλουσι. διὸ ὀρνιθοθῆραι θηρεύουσιν αὐτῇ παντοδαπὰ ὀρνίθια. Interdiu",
+   "old": "ὀρνιθοθῆραι",
+   "new": "ὀρνιθοθήραι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0017",
+   "line": "Arabibus أمّ الخراب dicitur. Id quod",
+   "old": "أمّ",
+   "new": "ام",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0018",
+   "line": "ralis, quae Mahumetanis concedit omnium avium aquaticarum esum; أن",
+   "old": "أن",
+   "new": "ان",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0020",
+   "line": "Σοφοκλῆς Λαοκόοντι, καὶ τὰς Ἅρπυίας ἐν Φινεῖ. Et in Cassandra Lycophronis",
+   "old": "Ἅρπυίας",
+   "new": "Ἁρπυίας",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0017",
+   "line": "crotalum. Nam, qui Graecis ὀνοκρότᾳλος, is Romanis TRUO dictus est. Nem-",
+   "old": "ὀνοκρότᾳλος,",
+   "new": "ὀνοκρόταλος,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0020",
+   "line": "κατάῤῥακτὴρ, quod idem est, accipitris est epithetum. Verba sunt versu 168.",
+   "old": "κατάῤῥακτὴρ,",
+   "new": "καταῤῥακτὴρ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0021",
+   "line": "menf. Tom. VII. 1786. p. 73—78., quae",
+   "old": "menf.",
+   "new": "mens.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0022",
+   "line": "Ierem. XXXVIII, 6. וישליכו אתו אל הבור, Et jecerunt eum in foveam, id",
+   "old": "אתו",
+   "new": "אותו",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0022",
+   "line": "נכשו, ἑαυτὸν καταῤῥάσσων, seipsum dejiciens, aut certo consilio in mare,",
+   "old": "נכשו,",
+   "new": "נפשו,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0023",
+   "line": "centesimum quadragesimum quintum, מצאתי בדברי רזל רבי יוחנן כד הוה",
+   "old": "רזל",
+   "new": "רז״ל",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0024",
+   "line": "προηρημένῳ. Si quis autem vim inferens eam abducat, illa ab insidiatore poe-",
+   "old": "προηρημένῳ.",
+   "new": "προῃρημένῳ.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0024",
+   "line": "miano scimus. Εἰ δέ τις ἐπιθέμενος αὐτῇ τὸ καρτερὸν ἐξαγάγοι, ἡ δὲ",
+   "old": "ἡ",
+   "new": "ἣ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0025",
+   "line": "his basak sic describitur. هو ايضا حار المزاج عليه القلق",
+   "old": "حار",
+   "new": "جار",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0027",
+   "line": "حتي تجد فصد فرماه بدرفه يبقا الصقر مقيدا",
+   "old": "فصد",
+   "new": "قصد",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0027",
+   "line": "حتي تجد فصد فرماه بدرفه يبقا الصقر مقيدا",
+   "old": "بدرفه",
+   "new": "بدرقه",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0028",
+   "line": "patet, quod, cum capitur circa Basoram (ad Euphratis ostia) in ingluvie ejus re-",
+   "old": "Basoram",
+   "new": "Basorain",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0028",
+   "line": "nore lib. I. Τὰς δ᾽ ὠτίδας, ἄν τις ταχὺ ἀνίστῃ, ἔστι λαμβάνειν· πέτονται γὰρ",
+   "old": "I.",
+   "new": "1.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0031",
+   "line": "σιν. ἐστι δὲ κόβαλος, καὶ μιμητὴς, καὶ ἀντορχούμενος ἁλίσκεται, περιελθόν-",
+   "old": "ἐστι",
+   "new": "ἔστι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0032",
+   "line": "quia ܟܘܟܒܐ cocab est ἄςρον, stella; et nomen ἀςερίας commune est mul-",
+   "old": "ܟܘܟܒܐ",
+   "new": "ܟܘܟܒ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0033",
+   "line": "صلد لتنكسر فياكلها واذا مرض الشاهين",
+   "old": "لتنكسر",
+   "new": "لتنكسرت",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0032",
+   "line": "vel caucabi, avis aliqua inde oriunda. Tamen aliud conjectamus, nempe כוכבי",
+   "old": "conjectamus,",
+   "new": "conjectanius,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0036",
+   "line": "Kimchius in Lexico, כתב רשי זל כי הוא הנקרא צואיטא, Scripsit R. Selomo",
+   "old": "רשי",
+   "new": "רש״י",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0036",
+   "line": "Kimchius in Lexico, כתב רשי זל כי הוא הנקרא צואיטא, Scripsit R. Selomo",
+   "old": "זל",
+   "new": "ז״ל",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0036",
+   "line": "Kimchius in Lexico, כתב רשי זל כי הוא הנקרא צואיטא, Scripsit R. Selomo",
+   "old": "צואיטא,",
+   "new": "צ״ואיטא,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0037",
+   "line": "seωs libro secundo, et Hygini Fabulis 204. et 253. Quae utut fabulosa sint, ta-",
+   "old": "seωs",
+   "new": "sews",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0038",
+   "line": "Ἑνὶ πρόσεστι, σοὶ δ᾽ ἅπαντα καὶ λίαν·",
+   "old": "πρόσεστι,",
+   "new": "πρόεστι,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0035",
+   "line": "קלב״א שור״יץ ודומה לעכבר הפורח בלילה, Gallice vocatur calve-souris (chau-",
+   "old": "שור״יץ",
+   "new": "שו״ריץ",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0037",
+   "line": "Καὶ ποικίλῃ στρέφουσα μορφῇ τὴν θέαν,",
+   "old": "ποικίλῃ",
+   "new": "ποικίλη",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0039",
+   "line": "posuit, חנשמת esse anserem, cui a נשם,",
+   "old": "חנשמת",
+   "new": "תנשמת",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0039",
+   "line": "חנשמת est Pelecanus Onocrotalus Linn.",
+   "old": "חנשמת",
+   "new": "תנשמת",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0041",
+   "line": "quorum mentio fit Zephan. II, 14. Goet-",
+   "old": "fit",
+   "new": "sit",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0039",
+   "line": "ctuam, si quidem est Hebraeorum חנשמת,",
+   "old": "חנשמת,",
+   "new": "תנשמת,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0039",
+   "line": "vero quidquam de ave חנשמת, quum in",
+   "old": "חנשמת,",
+   "new": "תנשמת,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0040",
+   "line": "Alobab, id est, Universitas. Sed الغيق alkik est cornix. Damir ita descri-",
+   "old": "الغيق",
+   "new": "القيق",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0051",
+   "line": "judicia. صاحب التحيل id est, auctor artium, felli ejus vim tribuit,",
+   "old": "التحيل",
+   "new": "الحيل,",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0052",
+   "line": "φιλοοίκειον εἶναι φασι, καὶ τὴν συντροφίαν τῶν συννόμων ἀγαπᾷν. Quod",
+   "old": "εἶναι",
+   "new": "εἶναί",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0053",
+   "line": "doloris impatiens, κολαφίζει τὴν ἰδίαν πλευρὰν, καὶ ὀπὰς αὐτῇ ἐμποιεῖ, καὶ",
+   "old": "ἐμποιεῖ,",
+   "new": "ἐμποίει,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0054",
+   "line": "c) Hist. lib. II. cap. 30.",
+   "old": "II.",
+   "new": "11.",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0060",
+   "line": "δὲ ἐστι χαλεπὸν ἰδεῖν ὦπται δ᾽ ὅμως. Vultur autem nidificat in rupibus inacces-",
+   "old": "δὲ",
+   "new": "δέ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0061",
+   "line": "nibus, Οὐδὲ γὰρ νεοττίᾳ γυπὸς ἐντυχεῖν ῥαδίως ἐστίν. Neque enim in vulturis ni-",
+   "old": "ῥαδίως",
+   "new": "ῥᾳδίως",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0064",
+   "line": "scriptoris Aegyptii, semper legitur ἡ γὺψ· nempe ut respondeat Graeca vox",
+   "old": "γὺψ·",
+   "new": "γύψ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0068",
+   "line": "Γῦπε δέ μιν ἑκάτερθε παρημένω ἧπαρ ἔκειρον,",
+   "old": "παρημένω",
+   "new": "παρημένῳ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0069",
+   "line": "Tamen Alberto caussa fuit, cur id crederet. Is enim neque Aristotelis Graecum",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0065",
+   "line": "ab aquila, non a vulture afferri. Quod et afferunt prisci scriptores. Plinius ubi",
+   "old": "afferunt",
+   "new": "asserunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0068",
+   "line": "Apollonius Argonauticῶn libri secundi versu 1254. et libri tertii versu 851.",
+   "old": "Argonauticῶn",
+   "new": "Argonauticῶν",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0074",
+   "line": "τοῖς τέκνοις τοῦ αἵματος μεταλαμβάνειν, ὡς μὴ ἀπορήσαντα τροφῆς ἀναιρε-",
+   "old": "ἀναιρε-",
+   "new": "ἀναίρε-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0079",
+   "line": "scatur, eosque habet pro cibo, quamvis natandi imperitus. Et, cum esurit, hac",
+   "old": "scatur,",
+   "new": "statur,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0070",
+   "line": "Οἳ τῷ μύρῳ θνήσκουσι, κανθάρων δίκην·",
+   "old": "Οἳ",
+   "new": "Οἱ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0080",
+   "line": "Τοῖσι δὲ δεξιὸν ἧκεν ἐρωδιὸν ἐγγὺς ὁδοῖο",
+   "old": "ἐγγὺς",
+   "new": "ἔγγυς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0091",
+   "line": "Pelasgos volunt, διὰ τὸ πλανήτας εἶναι, καὶ δίκην ὀρνέων ἐπιφοιτᾶν ἐφ᾽ οὓς",
+   "old": "ἐπιφοιτᾶν",
+   "new": "ἐπιφοιτᾷν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0093",
+   "line": "convehi. Intelligitur enim B[?]rbaria Aethiopica, de qua nos supra g). Faten-",
+   "old": "B[?]rbaria",
+   "new": "Barbaria",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0101",
+   "line": "hic habent البيبغا albabga, vel البيبجة albabgia, psittacum, qui Grae-",
+   "old": "البيبغا",
+   "new": "الببغا",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0101",
+   "line": "hic habent البيبغا albabga, vel البيبجة albabgia, psittacum, qui Grae-",
+   "old": "البيبجة",
+   "new": "الببجة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0116",
+   "line": "phoseωs libri quarti Fabula duodecima,",
+   "old": "phoseωs",
+   "new": "phosews",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0125",
+   "line": "10. שפיפן sephiphon. 11. שרף saraph. 12. תנין thannin, qui et לויתן levia-",
+   "old": "שפיפן",
+   "new": "שפיפון",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0117",
+   "line": "يبصر بالليل دون النهار وفي يوم غيم دون صاحي",
+   "old": "بالليل",
+   "new": "باليل",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0118",
+   "line": "الحكمة في ذلك ليميز فعل الخالق من فعل",
+   "old": "ليميز",
+   "new": "ليبين",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "כתוב בה למינה מכלל שהיא שני מינין ז׳ עורב ח׳ זרזיר שכן נאמר בעורב",
+   "old": "ז׳",
+   "new": "ז",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "כתוב בה למינה מכלל שהיא שני מינין ז׳ עורב ח׳ זרזיר שכן נאמר בעורב",
+   "old": "ח׳",
+   "new": "ח",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "ארבעה ועשרים הן ואלו הן א׳ נשר ב׳ פרס ג׳ עזניה ד׳ דאה והיא הראה האמורה",
+   "old": "א׳",
+   "new": "א",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "ארבעה ועשרים הן ואלו הן א׳ נשר ב׳ פרס ג׳ עזניה ד׳ דאה והיא הראה האמורה",
+   "old": "ב׳",
+   "new": "ב",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "ארבעה ועשרים הן ואלו הן א׳ נשר ב׳ פרס ג׳ עזניה ד׳ דאה והיא הראה האמורה",
+   "old": "ג׳",
+   "new": "ג",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0040",
+   "line": "ادراك لما يعلم وبحكي كلما يسمع وقد تقدم الكلام",
+   "old": "وبحكي",
+   "new": "ويحاكي",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0044",
+   "line": "σοφίσμασιν· ὅταν γὰρ τὴν κόγχην καταπίῃ μεμυκυῖαν, ἐνοχλέμενος ἐγκαρ-",
+   "old": "ἐνοχλέμενος",
+   "new": "ἐνοχλούμενος",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0045",
+   "line": "telis λευκερῳδιος (id est, ardea alba) avis est, quam a rostri forma vocant, pale",
+   "old": "λευκερῳδιος",
+   "new": "λευκερώδιος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0051",
+   "line": "العيار يذاب ويفرغ عليه من مرارته فانه يتحجر ويردان",
+   "old": "ويردان",
+   "new": "ويبردان",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0058",
+   "line": "1. Stercus rachamae embryonem excutit. Alkazuinius, زرقها ان احتملته",
+   "old": "زرقها",
+   "new": "ذرقها",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0060",
+   "line": "يدحل المعقون عن النسا Suffimentum ex carne ejus sicca, cum sinapi",
+   "old": "يدحل",
+   "new": "يحل",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0060",
+   "line": "يدحل المعقون عن النسا Suffimentum ex carne ejus sicca, cum sinapi",
+   "old": "المعقون",
+   "new": "المعقود",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0061",
+   "line": "Plutarchus in Romulo, Νεοσσοῖς γυπὸς οὐ ῥαδίως ἴσμεν ἐντετυχηκότες, In vul-",
+   "old": "ῥαδίως",
+   "new": "ῥᾳδίως",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0061",
+   "line": "Οἳ ζῶσιν εὐθὺς ἐξ ὀνύχων ἁρπάγων,",
+   "old": "Οἳ",
+   "new": "Οἱ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0061",
+   "line": "sit notum. Sed hujus rei caussa est, quod in rupibus inaccessis vultur pariat.",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0062",
+   "line": "Plutarchus, de caussis naturalibus Quaestione vigesima sexta, Τὰ κενέβρια τὸν",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0078",
+   "line": "bet الهيرودي alheiraudi τὸν ἐρωδιόν. Aethiopicum quoque ሄሮድዮን፡",
+   "old": "ሄሮድዮን፡",
+   "new": "ሄሮድዮስ፡",
+   "script": "Ethiopic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0074",
+   "line": "Τῇ συμπαθείᾳ τῆς γονῆς τετμημένον,",
+   "old": "γονῆς",
+   "new": "γόνης",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0074",
+   "line": "῎Αλγεσι παίδων ὕπατοι λεχέων στροφοδινοῦνται,",
+   "old": "῎Αλγεσι",
+   "new": "Ἄλγεσι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0074",
+   "line": "רחם rechem appellant, id est, τὴν πρὸς τὰ τέκνα φιλοστοργίαν, hanc caussam",
+   "old": "caussam",
+   "new": "causam",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0074",
+   "line": "ereptae Helenae caussa Trojam navigasse dicit,",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0095",
+   "line": "سيدة وزان وفيه بياض وسواد Alkoko, avis varia ex aquaticis avi-",
+   "old": "وزان",
+   "new": "وزاد",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0076",
+   "line": "ger. Itaque cur tot tragoedias excitaret, caussa non fuit. Neque Graecum ho-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0077",
+   "line": "Scholiastes. Unde Hesychius, Οἰωνοί· σαρκοφαγα ὄρνεα, καὶ πάντα, γῦπες,",
+   "old": "σαρκοφαγα",
+   "new": "σαρκοφάγα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0076",
+   "line": "Cyrilli Lexicon ἀνέκδοτον, quod penes me habeo, Οἰωνός· ὁ γύψ, etc. fere ut",
+   "old": "γύψ,",
+   "new": "γὺψ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0114",
+   "line": "riam cap. 5. Ἔποπας appellant ab eo, quod stercora humana consideret. Avem",
+   "old": "Ἔποπας",
+   "new": "Ἔποπα",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0078",
+   "line": "بقرب الما ومواضع نبعها من الانهار وغيرها فان",
+   "old": "فان",
+   "new": "فاذا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0114",
+   "line": "pa significatur. Hinc in Lexico Coptico ΚΟΥΚΟΥΦᾺ Arabice redditur",
+   "old": "ΚΟΥΚΟΥΦᾺ",
+   "new": "ΚΟΥΚΟΥΦΑ`",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0079",
+   "line": "ἱδροῦν. ἐν γὰρ ταῖς μίξεσιν (ὥς φασιν) ὁ ἐρωδιὸς αἷμα ἱδροῖ, ab ἔαρ, aut ἔωρ,",
+   "old": "ὁ",
+   "new": "ἡ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0096",
+   "line": "ܚܘܪܒܐ hurba factum videtur ex ܚܒܪܐ hubra, per Metathesim, quod",
+   "old": "ܚܒܪܐ",
+   "new": "ܚܘܒܪܐ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0080",
+   "line": "يولد اسمان اكلة البواسير Crassa et frigida caro ejus, et ster-",
+   "old": "اسمان",
+   "new": "ادمان",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0080",
+   "line": "يولد اسمان اكلة البواسير Crassa et frigida caro ejus, et ster-",
+   "old": "اكلة",
+   "new": "اكله",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0097",
+   "line": "Consortium cum aliis nullum admittit. Item, Ἀλλήλων ἀπῳκισμένας οἰκοῦσι κα-",
+   "old": "λιάς,",
+   "new": "λιὰς,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0117",
+   "line": "tatem. Nam الخفاش alchaphas eidem est صغر العين وضعف",
+   "old": "الخفاش",
+   "new": "الخفش",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0107",
+   "line": "probrum, vituperium, compositum esse contendit ex די do, duo, et פי pi, vel",
+   "old": "די",
+   "new": "דו",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0083",
+   "line": "דיותא חוורייתא",
+   "old": "חוורייתא",
+   "new": "חווריתא,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0099",
+   "line": "زمج zamigia est irasci, زمج zamag ira, مزمج musnig iratus. Unde",
+   "old": "musnig",
+   "new": "musinig",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0119",
+   "line": "הנץ שכן כתוב בו למינהו יד׳ כוס טו׳ שלך יו׳ ינשוף יז׳ תנשמת יח׳ קאת יט׳",
+   "old": "תנשמת",
+   "new": "תכשמת",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0085",
+   "line": "nus libri tertii capite vigesimo tertio, Τρέφειν μὲν τοὺς πατέρας πελαργοὶ γε-",
+   "old": "πελαργοὶ",
+   "new": "πελαγοὶ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0099",
+   "line": "pro aquilae specie, cum de Minerva dicit Odyss. α. versu 320.",
+   "old": "α.",
+   "new": "ά.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0108",
+   "line": "Nam inde fit מופת, signum, non qualecunque, inquit Kimchius, sed quo futu-",
+   "old": "fit",
+   "new": "sit",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0088",
+   "line": "in Alcamus nonnulli لغلق leklek, et لغلغ legleg, velint esse aves",
+   "old": "لغلق",
+   "new": "لقلق",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0088",
+   "line": "quod, cum multos serpentes terra eorum ediddisset, adventu suo omnes perdiderint.",
+   "old": "ediddisset,",
+   "new": "edidisset,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0109",
+   "line": "seminum, aut insectorum caussa, diligenter",
+   "old": "caussa,",
+   "new": "causa,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0121",
+   "line": "bar-chirja. Quid est bar-chirja? Dixit Abji, Est sorinka. Aruch legit",
+   "old": "sorinka.",
+   "new": "forinka.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0121",
+   "line": "quae a Damir-e in uno exemplari vocatur شروق saruk, in altero زرق zurrak:",
+   "old": "Damir-e",
+   "new": "Damire",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0110",
+   "line": "Πρὸς τὸν ἀτταγῆνα συμβαλεῖν τῶν βρωμάτων.",
+   "old": "ἀτταγῆνα",
+   "new": "ἀταγῆνα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0093",
+   "line": "git, quae in sublimi loco nidulatur, בישוב במגדלים הגבוהים ובמדבר בעצים",
+   "old": "במגדלים",
+   "new": "במגדלי",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0124",
+   "line": "γλαῦκα, καὶ ἐρωδιὸν, καὶ χαραδριὸν, καὶ τὰ ὅμοια αὐτοῦ, ἔποπα, καὶ νυ-",
+   "old": "ἔποπα,",
+   "new": "ἐπόπα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0124",
+   "line": "c) Thom. 1. 2. 9. 102. art. 6.",
+   "old": "9.",
+   "new": "q.",
+   "script": "common",
+   "agree": [
+    "flash"
+   ]
+  }
+ ]
+}

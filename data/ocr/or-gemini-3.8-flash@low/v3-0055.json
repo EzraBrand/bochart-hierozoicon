@@ -1,0 +1,62 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXV. <i>Variae interpretationes vocis</i> רחם. 55",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXV. <i>Variae interpretationes vocis</i> רחם. 55"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Utut sit, quidquid affertur de meropum amore et gratitudine erga parentes,\nnon facit satis ad rem. Ita enim רחם <i>racham</i> non esset avis Φιλότεκνος,\nut Hebraei volunt, sed Φιλοπάτωρ. Tamen Hebraeo verbo רחם <i>racham</i>\npotius significatur naturalis ille affectus et compassio parentum erga liberos.\nEt quandoque patri tribuitur: ut <i>Pfal. CIII, 13.</i> כרחם אב על בנים, <i>Ut pa-</i>\n<i>ter est misericors erga filios.</i> Et <i>Esa. LXIII, 15. 16. Ubi commotio viscerum</i>\n<i>tuorum</i>, ורחמיך, <i>et miserationes tuae, quia tu pater noster es?</i> Et <i>Ierem.</i>\n<i>XXXI, 20. Annon filius mihi charus est Ephraim? Nonne est filius delicia-</i>\n<i>rum? Idcirca commota sunt viscera mea propter eum</i>, רחם ארחמנו, <i>mise-</i>\n<i>rendo miserebor ejus.</i> Sed et maternus affectus eodem verbo aptissime ex-\nprimitur: ut <i>1 Reg. III, 26.</i> נכמרו רחמיה, <i>Incaluerunt ejus (matris) affectus</i>\n<i>erga filium suum.</i> Et <i>Esa. XLIX, 15. Nunquid obliviscetur mulier foetus sui</i>,\nמרחם, <i>ut ne misereatur filii ventris sui.</i> Et <i>Thren. IV, 10. Manus mulie-</i>\n<i>rum (matrum)</i> רחמניות, <i>misericordes.</i> Vult Propheta naturalem esse ma-\ntrum erga liberos affectum. Nempe videtur ille affectus ortum ex vulva\nducere, quae Hebraice est רחם <i>rechem.</i> Ex his abunde apparet, quae sit\nvera et nativa significatio verbi רחם, adeoque verum esse, quod Hebraei\nafferunt, nempe רחם <i>racham</i>, si ratio nominis habeatur, avem esse Φιλό-\nτεκνον· quamvis avem illam definire non potuerint viri, tam imperiti re-\nrum naturae, quam periti vocum interpretes.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Utut sit, quidquid affertur de meropum amore et gratitudine erga parentes,\nnon facit satis ad rem. Ita enim רחם <i>racham</i> non esset avis Φιλότεκνος,\nut Hebraei volunt, sed Φιλοπάτωρ. Tamen Hebraeo verbo רחם <i>racham</i>\npotius significatur naturalis ille affectus et compassio parentum erga liberos.\nEt quandoque patri tribuitur: ut <i>Pfal. CIII, 13.</i> כרחם אב על בנים, <i>Ut pa-</i>\n<i>ter est misericors erga filios.</i> Et <i>Esa. LXIII, 15. 16. Ubi commotio viscerum</i>\n<i>tuorum</i>, ורחמיך, <i>et miserationes tuae, quia tu pater noster es?</i> Et <i>Ierem.</i>\n<i>XXXI, 20. Annon filius mihi charus est Ephraim? Nonne est filius delicia-</i>\n<i>rum? Idcirca commota sunt viscera mea propter eum</i>, רחם ארחמנו, <i>mise-</i>\n<i>rendo miserebor ejus.</i> Sed et maternus affectus eodem verbo aptissime ex-\nprimitur: ut <i>1 Reg. III, 26.</i> נכמרו רחמיה, <i>Incaluerunt ejus (matris) affectus</i>\n<i>erga filium suum.</i> Et <i>Esa. XLIX, 15. Nunquid obliviscetur mulier foetus sui</i>,\nמרחם, <i>ut ne misereatur filii ventris sui.</i> Et <i>Thren. IV, 10. Manus mulie-</i>\n<i>rum (matrum)</i> רחמניות, <i>misericordes.</i> Vult Propheta naturalem esse ma-\ntrum erga liberos affectum. Nempe videtur ille affectus ortum ex vulva\nducere, quae Hebraice est רחם <i>rechem.</i> Ex his abunde apparet, quae sit\nvera et nativa significatio verbi רחם, adeoque verum esse, quod Hebraei\nafferunt, nempe רחם <i>racham</i>, si ratio nominis habeatur, avem esse Φιλό-\nτεκνον· quamvis avem illam definire non potuerint viri, tam imperiti re-\nrum naturae, quam periti vocum interpretes."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1772,
+    1676
+   ],
+   [
+    1772,
+    1120
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 705,
+  "cost_usd": 0.0052,
+  "seconds": 10.5
+ }
+}

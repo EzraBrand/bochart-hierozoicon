@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "62 <i>Probatur,</i> רחם <i>esse Vulturis speciem.</i> P. II. L. II.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "62 <i>Probatur,</i> רחם <i>esse Vulturis speciem.</i> P. II. L. II."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "جيف <i>Post castra volat, ut cadaveribus vescatur.</i> Inde in <i>Homero</i> passim\neos, qui occisi sunt,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "جيف <i>Post castra volat, ut cadaveribus vescatur.</i> Inde in <i>Homero</i> passim\neos, qui occisi sunt,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — γῦπες ἔδονται,\n<i>Vultures comedunt.</i> Et iidem esse dicuntur",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — γῦπες ἔδονται,\n<i>Vultures comedunt.</i> Et iidem esse dicuntur"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — γύπεσσιν πολὺ φίλτεροι, ἢ ἀλόχοισιν,\n<i>Vulturibus multo chariores, quam uxoribus.</i> Quin <i>Herodoro Pontico</i> teste apud\n<i>Plutarchum Romanarum Quaestionum</i> Quaestione nonagesima tertia, vultur ὀυδε-\nνὸς ἅπτεται ζῶντος, χρῆται δὲ τοῖς ἄλλοις ἀποθανῦσιν, <i>nihil vivum attingit,\nsed mortuis solum vescitur.</i> Hinc <i>Lucretius</i> libri quarti versu 680.\n<i>Mellis apes quamvis longe ducantur odore,\nVulturiique cadaveribus.</i> — —\n<i>Ovidius</i> libri primi <i>Tristium</i> Elegia quinta,\n<i>Aut ut edax vultur corpus circumspicit, ecquod\nSub nulla positum cernere possit humo.</i>\n<i>Silius</i> libri decimi tertii versu 396.\n<i>Hic dirae volucres, pastusque cadavere vultur.</i>\n<i>Gregorius Nazianzenus,</i> Carmine 163. <i>De cultu mulierum,</i>\n— — νεκροῖς ἀμφιέπεσι γῦπες,\n<i>vultur nempe cadaver amat.</i>\n<i>Prudentius</i> Περὶ στεφάνων <i>Hymno</i> nono,\n<i>Longeque morsus vulturum efficacior</i> ⟦p. 309.⟧\n<i>Ad devorandas carnis offas mortuae.</i>\n<i>Plutarchus, de causis naturalibus</i> Quaestione vigesima sexta, Τὰ κενέβρια τὸν\nγῦπα κινεῖ, καὶ προσάγεται πόῤῥωθεν· <i>Morticinae carnes vulturem movent\natque eminus trahunt.</i> Et in libro <i>De utilitate ex inimicis,</i> Καθάπερ οἱ γῦπες\nἐπὶ τὰς ὀσμὰς τῶν διεφθορότων σωμάτων φέρονται· <i>Ut vultures ad cadaverum\nodorem feruntur.</i> Aelianus <i>Historiae</i> libri secundi capite quadragesimo sexto,\nΓὺψ νεκρῷ πολέμιος, ἐσθίει γῶν ἐμπεσὼν, ὡς ἐχθρόν· <i>Vultur mortuo est in-\nfensus, et tanquam in hostem incidens vorat.</i> Sed et brevi morituros praesentire\ncreditur. <i>Aelianus</i> ibidem, Φυλάσσει τεθνηξόμενον. καὶ μέν τοι καὶ ταῖς ἐκ-\nδήμοις στρατιαῖς ἕπονται γῦπες, καὶ μάλα μαντικῶς, ὅτι γε εἰς πόλεμον χω-\nρῦσιν εἰδότες, καὶ ὅτι μάχη πᾶσα ἐργάζεται νεκρὸς, καὶ τοῦτο ἐγνωκότες·\n<i>Moriturum observat. Peregrinos etiam exercitus sequuntur vultures praesensione\nquadam, ut qui eos noverint ad bellum proficisci, atque hoc quoque sciant, omne\npraelium aliquam stragem edere.</i> Phile <i>De animalibus</i> capite secundo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — γύπεσσιν πολὺ φίλτεροι, ἢ ἀλόχοισιν,\n<i>Vulturibus multo chariores, quam uxoribus.</i> Quin <i>Herodoro Pontico</i> teste apud\n<i>Plutarchum Romanarum Quaestionum</i> Quaestione nonagesima tertia, vultur ὀυδε-\nνὸς ἅπτεται ζῶντος, χρῆται δὲ τοῖς ἄλλοις ἀποθανῦσιν, <i>nihil vivum attingit,\nsed mortuis solum vescitur.</i> Hinc <i>Lucretius</i> libri quarti versu 680.\n<i>Mellis apes quamvis longe ducantur odore,\nVulturiique cadaveribus.</i> — —\n<i>Ovidius</i> libri primi <i>Tristium</i> Elegia quinta,\n<i>Aut ut edax vultur corpus circumspicit, ecquod\nSub nulla positum cernere possit humo.</i>\n<i>Silius</i> libri decimi tertii versu 396.\n<i>Hic dirae volucres, pastusque cadavere vultur.</i>\n<i>Gregorius Nazianzenus,</i> Carmine 163. <i>De cultu mulierum,</i>\n— — νεκροῖς ἀμφιέπεσι γῦπες,\n<i>vultur nempe cadaver amat.</i>\n<i>Prudentius</i> Περὶ στεφάνων <i>Hymno</i> nono,\n<i>Longeque morsus vulturum efficacior</i> ⟦p. 309.⟧\n<i>Ad devorandas carnis offas mortuae.</i>\n<i>Plutarchus, de causis naturalibus</i> Quaestione vigesima sexta, Τὰ κενέβρια τὸν\nγῦπα κινεῖ, καὶ προσάγεται πόῤῥωθεν· <i>Morticinae carnes vulturem movent\natque eminus trahunt.</i> Et in libro <i>De utilitate ex inimicis,</i> Καθάπερ οἱ γῦπες\nἐπὶ τὰς ὀσμὰς τῶν διεφθορότων σωμάτων φέρονται· <i>Ut vultures ad cadaverum\nodorem feruntur.</i> Aelianus <i>Historiae</i> libri secundi capite quadragesimo sexto,\nΓὺψ νεκρῷ πολέμιος, ἐσθίει γῶν ἐμπεσὼν, ὡς ἐχθρόν· <i>Vultur mortuo est in-\nfensus, et tanquam in hostem incidens vorat.</i> Sed et brevi morituros praesentire\ncreditur. <i>Aelianus</i> ibidem, Φυλάσσει τεθνηξόμενον. καὶ μέν τοι καὶ ταῖς ἐκ-\nδήμοις στρατιαῖς ἕπονται γῦπες, καὶ μάλα μαντικῶς, ὅτι γε εἰς πόλεμον χω-\nρῦσιν εἰδότες, καὶ ὅτι μάχη πᾶσα ἐργάζεται νεκρὸς, καὶ τοῦτο ἐγνωκότες·\n<i>Moriturum observat. Peregrinos etiam exercitus sequuntur vultures praesensione\nquadam, ut qui eos noverint ad bellum proficisci, atque hoc quoque sciant, omne\npraelium aliquam stragem edere.</i> Phile <i>De animalibus</i> capite secundo,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Πλὴν",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πλὴν"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1800,
+    1300
+   ],
+   [
+    1800,
+    1472
+   ]
+  ],
+  "input_tokens": 3436,
+  "output_tokens": 1012,
+  "cost_usd": 0.0064,
+  "seconds": 7.5
+ }
+}

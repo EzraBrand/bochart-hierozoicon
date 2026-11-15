@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XXXIII. Immund. avium numerus et generales notae. 119",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XXXIII. Immund. avium numerus et generales notae. 119"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XXXIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XXXIII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Immundarum avium numerus, et generales notae.\nHarum prohibitio quomodo ad mores perti-\nnuerit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Immundarum avium numerus, et generales notae.\nHarum prohibitio quomodo ad mores perti-\nnuerit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Postquam immundarum avium censum explicare conati sumus, jam de illarum\nnumero et notis aliquid addemus ex <i>Maimonidis</i> libro <i>De cibis vetitis</i>, Ver-\nba sunt capitis primi sectione decima quarta, סימני עוף טהור לא נתפרש מן\nהתורה אלא מנה מינין טמאין בלבד ושאר מיני העוף מותרין והמינין האסורין\nארבעה ועשרים הן ואלו הן א נשר ב פרס ג עזניה ד ראה והיא הראה האמורה\nבמשנה תורה ה אייה והיא הדייה האמורה במשנה תורה ו מין האיה שכן\nכתוב בה למינה מכלל שהוא שני מינין ז עורב ח זרזיר שכן נאמר בעורב\nלמינו להביא את הזרזיר ט יענה י תחמס יא שחף יב נץ יג ושרנקא והיא מין\nהנץ שכן כתוב בו למינהו יד כוס טו שלך יז ינשוף יז תכשמת יח קאת יט\nרחמה כ חסידה כא האנפה כב מין האנפה שכן נאמר בה למינה כג הדוכיפת\nכד העטלף, <i>Signa mundarum avium non explicantur ex Lege, quae solum im-\nmundarum censum instituit, et reliquae species concessae sunt. Species porro pro-\nhibitae sunt viginti quatuor.</i> 1. NESER. 2. PERES. 3. OZNIIA. 4. DAA, <i>qui</i>\n<i>in Deuteronomio dicitur</i> RAA. 5. AIA, <i>qui in Deuteronomio dicitur</i> DAIA. 6.\n<i>Species</i> τῆς AIA; <i>quia de ea scribitur secundum speciem suam: itaque genus est,</i>\n<i>cujus duae species.</i> 7. OREB. 8. ZARZIR; <i>quia de</i> OREB <i>dicitur secundum spe-</i>\n<i>ciem suam, ad designandum</i> ZARZIR. 9. IAANA. 10. THACHMAS. 11. SA-\nCHAPH. 12. NETS. 13. <i>Et</i> SARNEKA, <i>qui est species</i> NETS; <i>quia de eo scri-</i>\n<i>ptum est juxta speciem suam.</i> 14. CHOS. 15. SALACH. 16. IANSUPH. 17.\nTHINSEMETH. 18. KAATH. 19. RACHAMA. 20. HASIDA. 21. ANAPHA.\n22. <i>Species altera</i> ANAPHAE; <i>quia de ea dicitur juxta speciem suam.</i> 23. DU- ⟦p. 353.⟧\nKIPHATH. 24. ATALLEPH.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Postquam immundarum avium censum explicare conati sumus, jam de illarum\nnumero et notis aliquid addemus ex <i>Maimonidis</i> libro <i>De cibis vetitis</i>, Ver-\nba sunt capitis primi sectione decima quarta, סימני עוף טהור לא נתפרש מן\nהתורה אלא מנה מינין טמאין בלבד ושאר מיני העוף מותרין והמינין האסורין\nארבעה ועשרים הן ואלו הן א נשר ב פרס ג עזניה ד ראה והיא הראה האמורה\nבמשנה תורה ה אייה והיא הדייה האמורה במשנה תורה ו מין האיה שכן\nכתוב בה למינה מכלל שהוא שני מינין ז עורב ח זרזיר שכן נאמר בעורב\nלמינו להביא את הזרזיר ט יענה י תחמס יא שחף יב נץ יג ושרנקא והיא מין\nהנץ שכן כתוב בו למינהו יד כוס טו שלך יז ינשוף יז תכשמת יח קאת יט\nרחמה כ חסידה כא האנפה כב מין האנפה שכן נאמר בה למינה כג הדוכיפת\nכד העטלף, <i>Signa mundarum avium non explicantur ex Lege, quae solum im-\nmundarum censum instituit, et reliquae species concessae sunt. Species porro pro-\nhibitae sunt viginti quatuor.</i> 1. NESER. 2. PERES. 3. OZNIIA. 4. DAA, <i>qui</i>\n<i>in Deuteronomio dicitur</i> RAA. 5. AIA, <i>qui in Deuteronomio dicitur</i> DAIA. 6.\n<i>Species</i> τῆς AIA; <i>quia de ea scribitur secundum speciem suam: itaque genus est,</i>\n<i>cujus duae species.</i> 7. OREB. 8. ZARZIR; <i>quia de</i> OREB <i>dicitur secundum spe-</i>\n<i>ciem suam, ad designandum</i> ZARZIR. 9. IAANA. 10. THACHMAS. 11. SA-\nCHAPH. 12. NETS. 13. <i>Et</i> SARNEKA, <i>qui est species</i> NETS; <i>quia de eo scri-</i>\n<i>ptum est juxta speciem suam.</i> 14. CHOS. 15. SALACH. 16. IANSUPH. 17.\nTHINSEMETH. 18. KAATH. 19. RACHAMA. 20. HASIDA. 21. ANAPHA.\n22. <i>Species altera</i> ANAPHAE; <i>quia de ea dicitur juxta speciem suam.</i> 23. DU- ⟦p. 353.⟧\nKIPHATH. 24. ATALLEPH."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In quo <i>Maimonidis</i> censu quaedam sunt observanda. Ac primum illud דאה\n<i>daa</i>, et ראה <i>raa</i>, recte pro eodem haberi. Nam <i>Leviticum</i> cum <i>Deuteronomio</i>\nconferenti palam constabit, unum pro altero fuisse scriptum, propter similitu-\ndinem literarum <i>Daleth</i> et <i>Res</i>. Quod in <i>Talmudico</i> tractatu <i>Cholin</i> recte obser-\nvat <i>R. Abja</i> fol. 63. a. b. At non perinde verum est, quod illi ipsi volunt,\nidem esse איה <i>aja</i> et דיה <i>daja</i>; et eam avem, quae in <i>Levitico</i> איה <i>aja</i> dicitur,\nin <i>Deuteronomio</i> דיה <i>daja</i> dici. Illud, inquam, verum non est, cum <i>Deut.</i>\n<i>XIV</i>, 13. ambae habeantur האיה והדיה, tanquam diversae aves. Quin etiam\nextra Legem utrumque nomen occurrit: nempe איה <i>Iob. XXVIII</i>, 7. et דיות",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In quo <i>Maimonidis</i> censu quaedam sunt observanda. Ac primum illud דאה\n<i>daa</i>, et ראה <i>raa</i>, recte pro eodem haberi. Nam <i>Leviticum</i> cum <i>Deuteronomio</i>\nconferenti palam constabit, unum pro altero fuisse scriptum, propter similitu-\ndinem literarum <i>Daleth</i> et <i>Res</i>. Quod in <i>Talmudico</i> tractatu <i>Cholin</i> recte obser-\nvat <i>R. Abja</i> fol. 63. a. b. At non perinde verum est, quod illi ipsi volunt,\nidem esse איה <i>aja</i> et דיה <i>daja</i>; et eam avem, quae in <i>Levitico</i> איה <i>aja</i> dicitur,\nin <i>Deuteronomio</i> דיה <i>daja</i> dici. Illud, inquam, verum non est, cum <i>Deut.</i>\n<i>XIV</i>, 13. ambae habeantur האיה והדיה, tanquam diversae aves. Quin etiam\nextra Legem utrumque nomen occurrit: nempe איה <i>Iob. XXVIII</i>, 7. et דיות"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Es.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Es.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1814,
+    1209
+   ],
+   [
+    1814,
+    1607
+   ]
+  ],
+  "input_tokens": 3399,
+  "output_tokens": 1191,
+  "cost_usd": 0.007,
+  "seconds": 9.8
+ }
+}
