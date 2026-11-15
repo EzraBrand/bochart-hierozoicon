@@ -930,6 +930,18 @@ p.jump{font-size:.95rem}
 .askbar[hidden]{display:none}
 .askbar a{font:600 .82rem system-ui,sans-serif;text-decoration:none;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.25rem .55rem;white-space:nowrap}
 .askbar a:first-child{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.wikt{position:absolute;z-index:9;box-sizing:border-box;width:min(420px,calc(100vw - 16px));max-height:min(60vh,26rem);overflow-y:auto;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font:.9rem/1.45 system-ui,sans-serif}
+.wikt[hidden]{display:none}
+.wikt h4{margin:0 1.8rem .2rem 0;font-size:1.2rem;font-weight:600}
+.wikt h4 small{font-weight:400;color:var(--muted);font-size:.8rem;margin-left:.5rem}
+.wikt .pos{margin:.5rem 0 .1rem;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.wikt ol{margin:0;padding-left:1.3rem}
+.wikt li{margin:.15rem 0}
+.wikt .sub{margin-left:.8rem;color:var(--muted)}
+.wikt a.lem{color:var(--accent);font-weight:600;cursor:pointer;text-decoration:underline dotted}
+.wikt .x{position:absolute;top:.3rem;right:.4rem;border:0;background:none;color:var(--muted);font-size:1.3rem;line-height:1;cursor:pointer;padding:.2rem .45rem}
+.wikt .src{margin-top:.6rem;padding-top:.4rem;border-top:1px solid var(--line);font-size:.78rem;color:var(--muted)}
+.wikt .src a{margin-right:.7rem}
 table.pass td:first-child{width:9rem}
 table.pass td a{white-space:nowrap}
 #hits{padding:0}
@@ -1117,13 +1129,118 @@ JS = """(function(){
   if(doc){
     var ask=document.createElement('div'); ask.className='askbar'; ask.hidden=true; document.body.appendChild(ask);
     var chapter=document.title.split(' · ')[0], askWin=null;
-    function links(t){
-      var e=encodeURIComponent, one=t.split(' ').length===1, out=[];
+    // Wiktionary card (15-Nov-2026): one selected word gets a "Wiktionary" button; the definition comes from
+    // the Wiktionary REST API and shows in a card on the page. Points and vowel signs are removed, then the
+    // common prefixes (Hebrew, Arabic) and enclitics (Latin), until an entry in the language of the script is
+    // found. A form-of entry ("genitive singular of mus") links to its headword, which opens in the same card.
+    var card=document.createElement('div'); card.className='wikt'; card.hidden=true; document.body.appendChild(card);
+    var wcache={}, wseq=0;
+    var WL={heb:['Hebrew','Aramaic'],ara:['Arabic'],grc:['Ancient Greek'],syr:['Classical Syriac'],lat:['Latin'],en:['English','Latin']};
+    var PUNCT=/^[\\s.,;:!?()\\[\\]"'\\u00b7\\u00ab\\u00bb\\u2018\\u2019\\u201c\\u201d\\u05c3\\u060c\\u061b\\u061f-]+|[\\s.,;:!?()\\[\\]"'\\u00b7\\u00ab\\u00bb\\u2018\\u2019\\u201c\\u201d\\u05c3\\u060c\\u061b\\u061f-]+$/g;
+    function script(t){
+      return /[\\u0590-\\u05ff]/.test(t)?'heb':/[\\u0700-\\u074f]/.test(t)?'syr':/[\\u0600-\\u06ff]/.test(t)?'ara':
+        /[\\u0370-\\u03ff\\u1f00-\\u1fff]/.test(t)?'grc':/^[A-Za-z\\u00c0-\\u017f]+$/.test(t)?'lat':'';
+    }
+    function forms(t,sc){
+      var out=[], add=function(x){if(x&&out.indexOf(x)<0) out.push(x);};
+      if(sc==='heb'){
+        // the plural ending goes before a prefix letter: שפנים is שפן, not ש + פנים
+        var FIN={'כ':'ך','מ':'ם','נ':'ן','פ':'ף','צ':'ץ'}, h=t.replace(/[\\u0591-\\u05c7]/g,''), m=h;
+        var both=function(x){add(x); if(x.length>3&&/(ים|ות)$/.test(x)){var s=x.slice(0,-2), c=s.slice(-1); add(FIN[c]?s.slice(0,-1)+FIN[c]:s); add(s+'ה');}};
+        both(h);
+        for(var k=0;k<2;k++){if(m.length>3&&/^[והבכלמש]/.test(m)){m=m.slice(1);both(m);}}}
+      else if(sc==='ara'){var a=t.replace(/[\\u064b-\\u065f\\u0670\\u0640]/g,''), b=a.replace(/^[وفبلك]?ال/,''); add(a);
+        if(b.length>1) add(b);
+        if(a.length>3&&/^[وفبل]/.test(a)) add(a.slice(1));}
+      else if(sc==='syr') add(t.replace(/[\\u0730-\\u074a]/g,''));
+      else if(sc==='grc'){var g=t.normalize('NFD').replace(/\\u0300/g,'\\u0301').normalize('NFC'); add(g); add(g.toLowerCase());}
+      else{var l=t.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/æ/g,'ae').replace(/œ/g,'oe').replace(/Æ/g,'Ae').replace(/Œ/g,'Oe'), lo=l.toLowerCase();
+        add(lo); add(l);
+        if(sc==='lat'){add(lo.replace(/j/g,'i')); if(lo.length>4) add(lo.replace(/(que|ve|ne)$/,''));}}
+      return out;
+    }
+    function wfetch(w){
+      if(!wcache[w]) wcache[w]=fetch('https://en.wiktionary.org/api/rest_v1/page/definition/'+encodeURIComponent(w))
+        .then(function(r){if(r.status===404) return null; if(!r.ok) throw new Error('HTTP '+r.status); return r.json();});
+      return wcache[w];
+    }
+    function el(tag,cls,text){var x=document.createElement(tag); if(cls) x.className=cls; if(text) x.textContent=text; return x;}
+    // copy a definition from the API into the card as text; only i, b and the headword links are kept as elements
+    function copy(n,into,ctx){
+      [].forEach.call(n.childNodes,function(c){
+        if(c.nodeType===3){into.appendChild(document.createTextNode(c.nodeValue));return;}
+        if(c.nodeType!==1) return;
+        var tag=c.tagName, href=c.getAttribute('href')||'', title=c.getAttribute('title');
+        if(tag==='STYLE'||tag==='SCRIPT'||tag==='SUP') return;
+        if(tag==='A'&&title&&ctx.langs.some(function(L){return href.split('#')[1]===L.replace(/ /g,'_');})){
+          var a=el('a','lem',c.textContent); a.setAttribute('role','button'); a.tabIndex=0;
+          a.addEventListener('click',function(ev){ev.stopPropagation(); lookup(title,ctx);});
+          a.addEventListener('keydown',function(ev){if(ev.key==='Enter') lookup(title,ctx);});
+          into.appendChild(a); return;}
+        var box=into;
+        if(tag==='LI'||tag==='DD'){box=el('div','sub'); into.appendChild(box);}
+        else if(tag==='I'||tag==='B'||tag==='EM'||tag==='STRONG'){box=el(tag.toLowerCase()); into.appendChild(box);}
+        copy(c,box,ctx);
+      });
+    }
+    function frame(word,note){
+      card.innerHTML='';
+      var x=el('button','x','×'); x.type='button'; x.setAttribute('aria-label','Close'); x.addEventListener('click',function(){card.hidden=true;});
+      var h=el('h4'), b=el('bdi','',word); h.appendChild(b); if(note) h.appendChild(el('small','',note));
+      card.appendChild(x); card.appendChild(h);
+    }
+    function source(word,ctx,found){
+      var e=encodeURIComponent, s=el('div','src'), add=function(text,url){var a=el('a','',text); a.href=url; a.target='_blank'; a.rel='noopener'; s.appendChild(a);};
+      if(found) add('Full entry on Wiktionary ↗','https://en.wiktionary.org/wiki/'+e(word)+'#'+found.replace(/ /g,'_'));
+      else add('Search Wiktionary ↗','https://en.wiktionary.org/wiki/Special:Search?search='+e(word));
+      if(ctx.sc==='grc'||ctx.sc==='lat') add('Logeion ↗','https://logeion.uchicago.edu/'+e(word));
+      if(found) s.appendChild(document.createTextNode('Text: Wiktionary, CC BY-SA 4.0'));
+      card.appendChild(s);
+    }
+    function lookup(t,ctx){
+      var seq=++wseq, cand=forms(t,ctx.sc), i=0;
+      frame(t,'looking up …'); card.hidden=false;
+      (function next(){
+        if(i>=cand.length){frame(t); card.appendChild(el('p','','No '+ctx.langs.join(' or ')+' entry in Wiktionary for this form.')); source(cand[0]||t,ctx,''); return;}
+        var w=cand[i++];
+        wfetch(w).then(function(j){
+          if(seq!==wseq) return;
+          var secs=[];
+          if(j) ctx.langs.forEach(function(L){Object.keys(j).forEach(function(k){j[k].forEach(function(s){if(s.language===L) secs.push(s);});});});
+          if(!secs.length) return next();
+          frame(w, w===t?'':'from '+t);
+          var tmp=document.createElement('template');
+          secs.forEach(function(s){
+            card.appendChild(el('div','pos',s.language+' · '+s.partOfSpeech));
+            var ol=el('ol'), seen=''; card.appendChild(ol);
+            s.definitions.slice(0,8).forEach(function(d){
+              tmp.innerHTML=d.definition||'';
+              // the API gives the sub-lines of an "inflection of" entry a second time, as definitions
+              var txt=tmp.content.textContent.trim();
+              if(!txt||seen.indexOf(txt)>=0) return;
+              seen+='\\n'+txt;
+              var li=el('li'); copy(tmp.content,li,ctx); ol.appendChild(li);});
+          });
+          source(w,ctx,secs[0].language); card.scrollTop=0;
+        }).catch(function(){
+          if(seq!==wseq) return;
+          delete wcache[w]; frame(t); card.appendChild(el('p','','Wiktionary did not answer. Try again, or open the entry:')); source(cand[0]||t,ctx,'');
+        });
+      })();
+    }
+    document.addEventListener('click',function(ev){if(!card.hidden&&!card.contains(ev.target)&&!ask.contains(ev.target)) card.hidden=true;});
+    document.addEventListener('keydown',function(ev){if(ev.key==='Escape') card.hidden=true;});
+    function links(t,inEn){
+      var e=encodeURIComponent, one=t.split(' ').length===1, out=[], w=t.replace(PUNCT,''), sc=one?script(w):'';
+      if(sc){if(sc==='lat'&&inEn) sc='en';
+        out.push(['Wiktionary','https://en.wiktionary.org/wiki/Special:Search?search='+e(w),function(){
+          lookup(w,{sc:sc,langs:WL[sc]});
+          card.style.left=Math.max(8,Math.min(ask.offsetLeft,window.scrollX+window.innerWidth-card.offsetWidth-8))+'px';
+          card.style.top=(ask.offsetTop+ask.offsetHeight+6)+'px';}]);}
       out.push(['Ask Google AI','https://www.google.com/search?udm=50&q='+e('In Samuel Bochart, Hierozoicon (1663), '+chapter+', explain: "'+t+'"')]);
       out.push(['Google','https://www.google.com/search?q='+e(t)]);
       if(/[֐-׿]/.test(t)) out.push(['Sefaria','https://www.sefaria.org/search?q='+e(t)]);
       if(/[Ͱ-Ͽἀ-῿]/.test(t)&&one) out.push(['Logeion (Greek)','https://logeion.uchicago.edu/'+e(t.replace(/[.,;:·]+$/,''))]);
-      if(/[؀-ۿ]/.test(t)) out.push(['Wiktionary (Arabic)','https://en.wiktionary.org/wiki/Special:Search?search='+e(t)]);
       if(/^[A-Za-z]+$/.test(t)) out.push(['Logeion (Latin)','https://logeion.uchicago.edu/'+e(t.toLowerCase())]);
       return out;
     }
@@ -1132,8 +1249,10 @@ JS = """(function(){
       if(!document.body.classList.contains('show-ask')||!t||t.length>400||s.rangeCount===0||!doc.contains(s.anchorNode)){ask.hidden=true;return;}
       var r=s.getRangeAt(0).getBoundingClientRect();
       ask.innerHTML='';
-      links(t).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='_blank';a.rel='noopener';
+      var an=s.anchorNode.nodeType===1?s.anchorNode:s.anchorNode.parentElement;
+      links(t,!!(an&&an.closest('.cell.en'))).forEach(function(l){var a=document.createElement('a');a.textContent=l[0];a.href=l[1];a.target='_blank';a.rel='noopener';
         a.addEventListener('click',function(ev){
+          if(l[2]){ev.preventDefault(); l[2](); return;}
           if(window.innerWidth>=900){ev.preventDefault();
             var w=Math.min(560,Math.round(screen.availWidth*0.36));
             // a new window for each look-up: Google cuts the link to a window it has loaded, and a second

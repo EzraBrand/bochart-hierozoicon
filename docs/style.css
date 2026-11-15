@@ -29,6 +29,18 @@ p.jump{font-size:.95rem}
 .askbar[hidden]{display:none}
 .askbar a{font:600 .82rem system-ui,sans-serif;text-decoration:none;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.25rem .55rem;white-space:nowrap}
 .askbar a:first-child{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.wikt{position:absolute;z-index:9;box-sizing:border-box;width:min(420px,calc(100vw - 16px));max-height:min(60vh,26rem);overflow-y:auto;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font:.9rem/1.45 system-ui,sans-serif}
+.wikt[hidden]{display:none}
+.wikt h4{margin:0 1.8rem .2rem 0;font-size:1.2rem;font-weight:600}
+.wikt h4 small{font-weight:400;color:var(--muted);font-size:.8rem;margin-left:.5rem}
+.wikt .pos{margin:.5rem 0 .1rem;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.wikt ol{margin:0;padding-left:1.3rem}
+.wikt li{margin:.15rem 0}
+.wikt .sub{margin-left:.8rem;color:var(--muted)}
+.wikt a.lem{color:var(--accent);font-weight:600;cursor:pointer;text-decoration:underline dotted}
+.wikt .x{position:absolute;top:.3rem;right:.4rem;border:0;background:none;color:var(--muted);font-size:1.3rem;line-height:1;cursor:pointer;padding:.2rem .45rem}
+.wikt .src{margin-top:.6rem;padding-top:.4rem;border-top:1px solid var(--line);font-size:.78rem;color:var(--muted)}
+.wikt .src a{margin-right:.7rem}
 table.pass td:first-child{width:9rem}
 table.pass td a{white-space:nowrap}
 #hits{padding:0}

@@ -147,6 +147,10 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
       flagged rows" gives a tab-separated list to send.
 - [x] **Link previews and title.** Done 14-Nov-2026 (Open Graph tags; "pilot" removed from the title). No
       preview image yet: a 1200x630 image of a page spread would make the card stronger.
+- [x] **Wiktionary card on a selected word.** Done 15-Nov-2026 (the "Wiktionary card" block in the `JS` of
+      `build_site.py`). The comparison with the Scriptorai reader, and the open reader ideas that came from it
+      (scan crop of the line, "suggest a correction" link, text size), are in
+      [READER_IDEAS.md](READER_IDEAS.md).
 - [ ] **Check the two-column layout on a phone.** Not looked at since the pilot.
 
 - [ ] **Names and abbreviations pages sorted by basis**, "guess" and "general knowledge" first, so
