@@ -38,13 +38,20 @@ def identify(docs: list[list[dict]], skip: dict | None = None) -> list[str]:
     skip = dict(skip or {})
     done = []
     rows = sorted((r for r in items() if r["id"]), key=lambda r: -len(r["english"]))
+    longer = {r["english"]: [x["english"] for x in rows if x["english"].startswith(r["english"] + " ")] for r in rows}
     for r in rows:
         # after the name, a possessive ("Giggeius'", "Gesner's") and a closing </i> that ends it; not inside
         # a longer word ("Kimchis", the plural: 10-Nov-2026)
         rx = re.compile(rf"(?<!\w)({re.escape(r['english'])}(?:'s|')?(?:</i>)?)(?!\w)")
         for blocks in docs:
             for b in blocks:
-                def put(m, r=r):
+                def put(m, r=r, b=b):
+                    # a short name inside a longer one is another person (15-Nov-2026): "Paulus Venetus" (Marco Polo)
+                    # got the note of H. E. G. Paulus, and "Joseph Kimchi", the father, the note of David Kimhi
+                    after, before = b["text"][m.end():m.end() + 30], b["text"][max(m.start() - 12, 0):m.start()]
+                    if any(after.startswith(x[len(r["english"]):]) for x in longer[r["english"]]) or \
+                            re.search(r"(?:Joseph|Josephus|Moses)(?:</i>)? (?:<i>)?$", before):
+                        return m.group(0)
                     if skip.get(r["english"], 0) > 0:
                         skip[r["english"]] -= 1
                         return m.group(0)

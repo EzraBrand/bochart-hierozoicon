@@ -67,6 +67,22 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 2, ch. 15: *thachmas* is the male ostrich | 830–838 | [Latin](data/entries/thachmas/la.md) · [English](data/entries/thachmas/en.md) | 〃 |
 | Part 2, Book 2, ch. 16: the most obscure verse on the ostrich, Job 39:13 | 838–854 | [Latin](data/entries/struthio-iob/la.md) · [English](data/entries/struthio-iob/en.md) | 〃 |
 | Part 2, Book 2, ch. 17: the rest of Job on the ostrich, Job 39:14-18 (end of vol. 2) | 854–870 | [Latin](data/entries/struthio-iob-reliqua/la.md) · [English](data/entries/struthio-iob-reliqua/en.md) | 〃 |
+| Part 2, Book 2, ch. 18: *sachaph* is the gull, or the cepphus | III, 1–5 | [Latin](data/entries/sachaph/la.md) · [English](data/entries/sachaph/en.md) | $28.75 for the 16 chapters (124 new pages; tranche 7, 15-Nov-2026; synchronous calls, see below) |
+| Part 2, Book 2, ch. 19: the hawk (*nets*) | III, 5–14 | [Latin](data/entries/nets/la.md) · [English](data/entries/nets/en.md) | 〃 |
+| Part 2, Book 2, ch. 20: the *chos*: a night bird or the onocrotalus | III, 14–20 | [Latin](data/entries/chos/la.md) · [English](data/entries/chos/en.md) | 〃 |
+| Part 2, Book 2, ch. 21: *salach* is the catarrhactes | III, 20–24 | [Latin](data/entries/salach/la.md) · [English](data/entries/salach/en.md) | 〃 |
+| Part 2, Book 2, ch. 22: *jansuph* is the eagle owl | III, 24–31 | [Latin](data/entries/jansuph/la.md) · [English](data/entries/jansuph/en.md) | 〃 |
+| Part 2, Book 2, ch. 23: *thinsemeth* (the bird) is the little owl | III, 31–40 | [Latin](data/entries/thinsemeth/la.md) · [English](data/entries/thinsemeth/en.md) | 〃 |
+| Part 2, Book 2, ch. 24: *kaath* is the pelican and the bittern | III, 40–48 | [Latin](data/entries/kaath/la.md) · [English](data/entries/kaath/en.md) | 〃 |
+| Part 2, Book 2, ch. 25: the interpretations of *racham* | III, 48–56 | [Latin](data/entries/racham-interpretationes/la.md) · [English](data/entries/racham-interpretationes/en.md) | 〃 |
+| Part 2, Book 2, ch. 26: *racham* is a kind of vulture, from the Arabic | III, 56–65 | [Latin](data/entries/racham/la.md) · [English](data/entries/racham/en.md) | 〃 |
+| Part 2, Book 2, ch. 27: *racham*: answers to the objections | III, 65–78 | [Latin](data/entries/racham-objectiones/la.md) · [English](data/entries/racham-objectiones/en.md) | 〃 |
+| Part 2, Book 2, ch. 28: the interpretations of *chasida* | III, 78–85 | [Latin](data/entries/chasida-interpretationes/la.md) · [English](data/entries/chasida-interpretationes/en.md) | 〃 |
+| Part 2, Book 2, ch. 29: *chasida* is the stork | III, 85–97 | [Latin](data/entries/chasida/la.md) · [English](data/entries/chasida/en.md) | 〃 |
+| Part 2, Book 2, ch. 30: *anapha* is an angry bird, perhaps the *zummag* | III, 97–107 | [Latin](data/entries/anapha/la.md) · [English](data/entries/anapha/en.md) | 〃 |
+| Part 2, Book 2, ch. 31: *dukiphath* is the hoopoe | III, 107–115 | [Latin](data/entries/dukiphath/la.md) · [English](data/entries/dukiphath/en.md) | 〃 |
+| Part 2, Book 2, ch. 32: *atalleph* is the bat | III, 115–119 | [Latin](data/entries/atalleph/la.md) · [English](data/entries/atalleph/en.md) | 〃 |
+| Part 2, Book 2, ch. 33: the number and the marks of the unclean birds (end of Book 2) | III, 119–124 | [Latin](data/entries/aves-immundae/la.md) · [English](data/entries/aves-immundae/en.md) | 〃 |
 
 ### Tranches
 
@@ -80,6 +96,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | 1 h (12:48 to 13:47) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
 | 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | 1 h 35 min (10:50 to 12:26; the judge batch took 25 min) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
 | 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | 1 h 20 min (08:44 to 10:02, with the site work; waiting for batches about 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts; the scan check about 10 min) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
+| 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 108 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -139,9 +156,38 @@ lines of pp. 838 and 859 and the Samaritan words of p. 802 (read from the shapes
 `נוצה` or `ניצה` on p. 850; `متفواتا` on p. 797; `فصاح` on p. 825; `ἑστιῶν` on p. 791 (the ligature looks like
 ϑ). No rows were added to `names.json` in this tranche: `names_candidates.py` lists the new names.
 
+Tranche 7 (15-Nov-2026) begins volume 3 (printed page = canvas - 22) and ends Part 2, Book 2. Cost by step, from the
+logs (`logs/cost_t7.py`): Opus OCR $8.74, Flash OCR about $0.90, judge $12.32, translation $6.38, four chunks translated
+again $0.33, spot-check $0.27. It is 2 times the price of the earlier tranches because nothing ran as a batch:
+
+- The Opus OCR batch (125 requests) was accepted by OpenRouter at 14:09 and was still `in_progress` with nothing done
+  three hours later; the judge batch the same. In tranches 2 to 6 these took 5 to 25 minutes. OpenRouter states a
+  completion window of 24 hours for a batch, and it has no call to cancel one (HTTP 404). All three paid steps were
+  therefore run with synchronous calls (`ocr.py` and `judge.py` with `--start/--stride` workers, `entry.py` without
+  `--batch`).
+- A pending batch holds its cost ESTIMATE (here $9.86 and about $17) against the key's limit and against the
+  account's "in-flight budget". With that money held, most synchronous calls were refused (HTTP 402,
+  `in_flight_budget_exhausted`) until the key limit was raised and credit was added to the account. If the two batches
+  run after all, they are billed in addition (about $9).
+- Gemini Flash refused p. 14 twice (`finish_reason=content_filter`); that page was checked against the MDZ reader only.
+
+New in the code: the volume is a parameter (`tranche.py prepare 1 125 --vol 3`; the keys of `entry.FIXES` for another
+volume are `(3, page)`); `draft_entries.py` drafts the chapter definitions from the chapter heads in the Opus OCR (the
+MDZ OCR had no head for ch. 29); `logs/triage_t7.py` decides by rule the review items that need no look (the judge read
+the main text; note-mark format; the type quirks; a change that Flash and MDZ both support), which left 207 of 428
+items to read; `apply_review.py` writes a `FIXES` pair for an accepted item that `vote.ACCEPT` does not apply;
+`"join_notes": [109]` in an entry joins a note continued from the page before when a note of its own page stands
+between; `names.identify` no longer puts the note of a short name on a longer one ("Paulus Venetus", "Joseph Kimchi").
+On the site, the column links of all Part 2 chapters opened Pars I of the Frankfurt 1675 scan; they now open Pars II
+(`bsb11935762`). Not certain, for the owner's review: the nine Samaritan words (pp. 1, 5, 15, 24, 33, 52, 84, 101; read
+from the shapes, the letter count and Bochart's romanization; the second letter on p. 101 is a guess); `חחצים` on p. 9
+(Jer 51:11 has `החצים`); `כפיחהו` on p. 1; `הריח` on p. 11 where the Latin has *venti*; `קריא` *kadja* on p. 15 (the
+romanization wants `קדיא`); `שליכון` on p. 22; `ونتي` on p. 8 (the sense wants `ونتن`); `Aliis nigra est` on p. 50
+(the Arabic has "in its wings"); the print's `probibitio` in the head of ch. 33 is kept.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv` and `logs/vote_v2-788-870.csv` (column `outcome`), and for tranches 1 to 6 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv` and `logs/vote_v3-1-125.csv` (column `outcome`), and for tranches 1 to 7 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works

@@ -511,7 +511,7 @@ ENTRIES = {
         "terms": _T7 + '"anapha" and "zummag" stay as printed; "charadrius" -> the name is kept;'},
     "dukiphath": {"vol": 3, "pages": list(range(107, 116)),
         "title": 'Part 2, Book 2, chapter 31: Dukiphath is the hoopoe (vol. 3, pp. 107–115)',
-        "start": r"^CAP\.\s*XXXI\.", "end": r"^CAP\.\s*XXXII\.",
+        "start": r"^CAP\.\s*XXXI\.", "end": r"^CAP\.\s*XXXII\.", "join_notes": [109],
         "about": 'the chapter proving that the Hebrew דוכיפת (dukiphath) of Lev 11:19 and Deut 14:18 is the hoopoe, as the Greek and Latin versions have it, against the wild cock (the tarnegol bara of the rabbis, with the story of the shamir) and other birds; the composition of the name',
         "terms": _T7 + '"dukiphath" stays as printed; "gallus montanus"/"gallus silvestris" -> "mountain cock"/"wild cock"; "urogallus" -> the name is kept; "tarnegol bara", "nagar tura", "samir" (Bochart\'s romanized words) stay as printed;'},
     "atalleph": {"vol": 3, "pages": list(range(115, 120)),
@@ -750,6 +750,11 @@ FIXES = {
     (3, 109): [('quibus רוכיפת est', 'quibus דוכיפת est'), ('nomine רוכיפת', 'nomine דוכיפת')],
     (3, 111): [('Ἄστη', 'Ἀστῆ')],
     (3, 121): [('לרעתם', 'לדעתם')],
+    # spot-check of tranche 7: medial ف/ق read غ (the same shape in this type); Bochart's alchopphas, Alkik and flavo decide
+    (3, 40): [('الغيق طاير', 'القيق طاير')],
+    (3, 50): [('يكون\nاصغر عدو', 'يكون\nاصفر عدو')],
+    (3, 116): [('vocant\nالخغاش', 'vocant\nالخفاش'), ('</i>, الخغاش الوطواط', '</i>, الخفاش الوطواط')],
+    (3, 118): [('يخلق الخغاش', 'يخلق الخفاش'), ('</i>, الخغاش هو', '</i>, الخفاش هو'), ('السلامّ الخغاش', 'السلامّ الخفاش')],
 }
 # A page number written twice in the FIXES literal: Python keeps only the second list, without a word
 # (tranche 4 lost two pairs that way until a check found it). Stop at import.
@@ -910,8 +915,12 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
             kept.append(n)
         elif mark and mark in other_text.get(n["page"], ""):
             continue  # a note of the chapter before or after, on a shared page
-        elif not n["marker"] and kept and not seen.get(n["page"]) and kept[-1]["page"] != n["page"]:
-            prev = kept[-1]  # a note continued from the page before ("signi-|ficet")
+        elif not n["marker"] and kept and (
+                (not seen.get(n["page"]) and kept[-1]["page"] != n["page"])
+                or (n["page"] in cfg.get("join_notes", []) and any(k["page"] < n["page"] for k in kept))):
+            # a note continued from the page before ("signi-|ficet"). "join_notes": [109] in an entry: the
+            # continuation is printed after a note of its own page (15-Nov-2026), so the last note is not the one
+            prev = [k for k in kept if k["page"] < n["page"]][-1]
             mark = f"[{'I' * vol}, {n['page']}]"
             if prev["text"].endswith("-"):
                 word, _, rest = n["text"].partition(" ")

@@ -46,6 +46,21 @@ pair that spans a printed line needs the `\n` of the page text; `logs/linecrop.p
 crops any line of a page for a look. The scan check of 194 items took about 45 minutes from contact sheets
 (`logs/sheets_t4.py`, group folders named `T6A`: a plain `A` writes over the folder of an older tranche).
 
+Tranche 7 (15-Nov-2026, vol. 3 pp. 1-124): two OpenRouter batches never started (in progress for hours; no cancel call;
+24 h window). Rules since then: (1) before a tranche, send a test batch of about 5 pages; if it is not back in 10
+minutes, run the whole tranche with synchronous calls and send no batch at all, because a pending batch holds its
+estimate (about 5 times its cost) against the key limit and the account's in-flight budget, and synchronous calls are
+then refused with HTTP 402. (2) Stop waiting for a batch after 35 minutes. (3) A synchronous tranche of 125 pages costs
+about $29 and needs about $35 of free account credit and key limit; tell the owner the balance before the start. (4)
+The judge has about 14 lines a page (1,735 lines for 125 pages at $0.007): the batch packs two lines in a request, so
+its request count is half of that. (5) Synchronous workers: `ocr.py` 5 workers, 10 minutes for 125 pages; `judge.py` 8
+workers; `entry.py NAME --effort low` for 5 chapters at a time, 10 minutes for 16 chapters. Do not let a chain go on to
+`vote.py` while judge lines are missing: loop until a pass has no FAILED line. (6) Sort the review items with
+`logs/triage_t7.py` before the scan check and write the verdicts with a script like `logs/decisions_t7.py`. (7)
+`logs/open_t7.py VOL FIRST LAST` lists every `[?]` and every page whose notes and marks do not match: run it before the
+translation. (8) Medial ف, ق and غ: the readers gave غ for ف five times in one chapter (الخغاش); the romanization
+decides. (9) `logs/linecrop.py` matches a short line by accident: give it a long phrase from the MDZ text.
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50
@@ -168,12 +183,12 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
 
 ### Project management
 
-- [ ] **Make the volume a parameter (needed before the next tranche).** Volume 2 is complete with tranche 6.
+- [x] **Make the volume a parameter.** Done 15-Nov-2026 (`--vol`; vol. 3: printed page = canvas - 22). Was: Volume 2 is complete with tranche 6.
       Part 1, Books 1-3 chs. 1-32 are in vol. 1 and the rest of vol. 2 (pp. 1-408); Part 2 goes on in vol. 3.
       `tranche.keys`, `fetch.SAMPLE`, the `v2-` file names, `find_chapters.py` and "printed page = canvas - 16"
       assume vol. 2 (`VOL_IDS` in `build_site.py` already has the three ids). Find the canvas offset of the
       other volume first (it has front matter of another length), then give `tranche.py` a `--vol`.
-- [ ] **A new OpenRouter key.** The project key expires on 15-Nov-2026. Ask for a balance of about $20 or
+- [x] **A new OpenRouter key.** Done 15-Nov-2026 (limit $90, expires 22-Nov-2026). Was: the project key expires on 15-Nov-2026. Ask for a balance of about $20 or
       more for a tranche of 80 pages (5 times the largest step), so that no batch is split.
 - [ ] **Send the parts of a split batch at the same time where the balance permits.** `orbatch.run_batch`
       sends the parts one after the other. For 3 or more parts it can send as many together as fit under the
