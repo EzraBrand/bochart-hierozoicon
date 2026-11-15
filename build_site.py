@@ -356,6 +356,86 @@ def paragraph_page(text: str, start: str) -> str:
     return page_key(len(marks[-1][0]), marks[-1][1]) if marks else start
 
 
+_HOCR_LINE = re.compile(r'class="ocr_line" title="bbox (\d+) (\d+) (\d+) (\d+)"[^>]*>(.*?)</span>\s*'
+                        r'(?=<span class="ocr_line"|</p>)', re.S)
+_HOCR: dict[str, list] = {}
+SCAN_STATS = {"matched": 0, "counted": 0}
+
+
+def _norm(s: str) -> str:
+    """A printed line as letters only, for the comparison of our text with the MDZ OCR."""
+    s = html.unescape(re.sub(r"<[^>]+>", "", s)).replace("ſ", "s").lower()
+    return " ".join(re.sub(r"[^a-zα-ω ]", " ", s).split())
+
+
+def hocr_lines(key: str) -> list:
+    """page key -> [((x0, y0, x1, y1), normalized text)] in reading order, from data/mdz_hocr."""
+    if key not in _HOCR:
+        f = DATA / "mdz_hocr" / f"{key}.hocr"
+        t = f.read_text(encoding="utf-8") if f.exists() else ""
+        raw = [(tuple(map(int, m.groups()[:4])), _norm(m.group(5))) for m in _HOCR_LINE.finditer(t)]
+        # not lines of the text: a speck, a mark in the margin ("p"), a drop capital
+        raw = [(b, s) for b, s in raw if b[2] - b[0] >= 40 and b[3] - b[1] >= 20 and (len(s) > 2 or b[2] - b[0] >= 150)]
+        lines = []
+        for box, text in sorted(raw, key=lambda r: r[0][1] + r[0][3]):  # from top to bottom
+            # the OCR gives some printed lines in two or three pieces: join a piece to the line it is level with
+            if lines:
+                (a0, b0, a1, b1), prev = lines[-1]
+                if min(b1, box[3]) - max(b0, box[1]) > 0.6 * min(b1 - b0, box[3] - box[1]):
+                    lines[-1] = ((min(a0, box[0]), min(b0, box[1]), max(a1, box[2]), max(b1, box[3])),
+                                 f"{prev} {text}" if box[0] >= a0 else f"{text} {prev}")
+                    continue
+            lines.append((box, text))
+        _HOCR[key] = lines
+    return _HOCR[key]
+
+
+def scan_boxes(blocks: list[dict], start: str, pages: dict) -> list[str]:
+    """Per block of the Latin, the place of its printed lines on the scan: "canvas:x,y,w,h", one per page
+    that the block touches (15-Nov-2026, issue 1). Our text keeps the printed lines, so the first and the
+    last line of a block are looked for in the line boxes of the MDZ OCR, in reading order; a line that the
+    OCR does not have in a like form (Hebrew, Arabic) is placed by its line count."""
+    from rapidfuzz import fuzz
+    ptr, cur, out = {}, start, []
+    for b in blocks:
+        boxes = []
+        for part in re.split(r"(\[I{1,3}, \d+\])", b["text"]):
+            m = PAGE_MARK.fullmatch(part)
+            if m:
+                cur = page_key(len(m.group(1)), m.group(2))
+                continue
+            mine = [l for l in part.split("\n") if _QUOTE_MARKS.sub("", l).strip()]
+            L = hocr_lines(cur)
+            if not mine or not L or cur not in pages:
+                continue
+            p, n = min(ptr.get(cur, 0), len(L) - 1), len(mine)
+
+            def best(text, lo, hi, expect, far):
+                text, cands = _norm(_QUOTE_MARKS.sub("", text)), range(max(lo, 0), min(hi, len(L)))
+                if len(text) < 4 or not cands:
+                    return None
+                i = max(cands, key=lambda k: fuzz.ratio(text, L[k][1]) - far * abs(k - expect))
+                return i if fuzz.ratio(text, L[i][1]) >= (60 if len(text) >= 8 else 85) else None  # "cap iv"
+            # the first line can be far from the expected place (a chapter that starts in the middle of a
+            # page, the running head at the top), the last line is near first + line count
+            i = best(mine[0], p, len(L), p, 0.5)
+            j = i if n == 1 and i is not None else best(mine[-1], p if i is None else i, (p if i is None else i) + n + 4,
+                                                        (p if i is None else i) + n - 1, 2)
+            SCAN_STATS["matched" if i is not None and j is not None else "counted"] += 1
+            if i is None:
+                i = p if j is None else max(j - n + 1, p)
+            if j is None:
+                j = min(i + n - 1, len(L) - 1)
+            ptr[cur] = j + 1
+            sel = [L[k][0] for k in range(i, j + 1)]
+            canvas, w, h = pages[cur]
+            x0, y0 = max(min(s[0] for s in sel) - 30, 0), max(min(s[1] for s in sel) - 8, 0)
+            x1, y1 = min(max(s[2] for s in sel) + 30, w), min(max(s[3] for s in sel) + 8, h)
+            boxes.append(f"{canvas}:{x0},{y0},{x1 - x0},{y1 - y0}")
+        out.append(" ".join(boxes))
+    return out
+
+
 def load_doc(doc: dict) -> dict:
     """-> {"de": [blocks], "en": [blocks], "de_notes", "en_notes"}; every block has "page"."""
     if doc["kind"] == "entry":
@@ -392,7 +472,7 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="style.css?v={stamp(CSS)}">
-<script>try{{var t=localStorage.getItem('bh-theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
+<script>try{{var t=localStorage.getItem('bh-theme');if(t)document.documentElement.setAttribute('data-theme',t);var z=localStorage.getItem('bh-size');if(z)document.documentElement.setAttribute('data-size',z)}}catch(e){{}}</script>
 </head>
 <body>
 {body}
@@ -419,6 +499,8 @@ TOGGLES = """<div class="toggles" role="group" aria-label="Display">
 <label><input type="checkbox" data-toggle="show-exp" checked> Identifications inline</label>
 <label><input type="checkbox" data-toggle="show-tr" checked> Transliterations inline</label>
 <label title="Select text to ask Google's AI about it, or to look a word up"><input type="checkbox" data-toggle="show-ask" checked> Look-up on selection</label>
+<label title="Adds a 'scan' button after each paragraph: it shows the lines of the paragraph on the scan"><input type="checkbox" data-toggle="show-scan"> Scan of the paragraph</label>
+<span class="size" role="group" aria-label="Text size">Text size <button type="button" data-size="s" title="Smaller">A−</button><button type="button" data-size="" title="Normal">A</button><button type="button" data-size="l" title="Larger">A+</button><button type="button" data-size="xl" title="Largest">A++</button></span>
 </div>"""
 
 
@@ -525,6 +607,8 @@ def doc_html(doc: dict) -> str:
     rows = []
     pages = [page_key(vol, p) for p in doc["pages"]]
     cur = {"de": pages[0], "en": pages[0]}
+    man = json.loads((DATA / "raw" / "manifest.json").read_text(encoding="utf-8"))["pages"]
+    scans = scan_boxes(d["de"], pages[0], {p["key"]: (p["canvas"], p["width"], p["height"]) for p in man})
     for k, (la, en) in enumerate(zip(d["de"], d["en"])):
         cells = []
         quote = la["type"] == "body" and is_quote(la["text"])
@@ -540,7 +624,8 @@ def doc_html(doc: dict) -> str:
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"la" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
-        rows.append(f'<div class="row{" q" if quote else ""}" id="p{k}">{"".join(cells)}</div>')
+        scan = f' data-scan="{scans[k]}"' if scans[k] else ""
+        rows.append(f'<div class="row{" q" if quote else ""}" id="p{k}"{scan}>{"".join(cells)}</div>')
     notes = []
     for i, (la, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
         cells = []
@@ -558,7 +643,7 @@ def doc_html(doc: dict) -> str:
         f'<span>{page_label(p)}</span></a>' for p in pages if p in ids)
     notes_html = f'<h2 id="notes">Notes</h2>\n{"".join(notes)}' if notes else ""
     body = f"""{header("")}
-<main class="doc">
+<main class="doc" data-repo="{REPO}" data-iiif="{MDZ_IIIF}/{VOL_IDS[vol]}_" data-view="{MDZ_VIEW}/{VOL_IDS[vol]}?page=">
 <h1>{html.escape(doc["title"])}</h1>
 <p class="sub">{html.escape(doc["sub"])}</p>
 <details class="about"><summary>How to read this page</summary>
@@ -572,7 +657,8 @@ identification, added by a program after translation from tables reviewed by han
 (<a href="abbreviations.html">abbreviations</a>, <a href="names.html">names</a>). “II, 410”
 links to the scan of that page; “col. 1003” to that column of the 1663 edition, in the Frankfurt
 1675 reprint. Fixed links: <code>#p12</code> is a paragraph (the ¶ at its end), <code>#pg787</code> a page of
-this edition, <code>#col198</code> a column of 1663. R1–R13 are Rosenmüller's notes, a)–c) Bochart's. Machine output: check the scan
+this edition, <code>#col198</code> a column of 1663. “correct” after a paragraph opens a GitHub issue for
+that paragraph. With “Scan of the paragraph” on, “scan” after a paragraph shows its lines on the scan. R1–R13 are Rosenmüller's notes, a)–c) Bochart's. Machine output: check the scan
 before you cite.</p></details>
 {TOGGLES}
 <div class="scans" aria-label="Scans">{thumbs}</div>
@@ -906,7 +992,7 @@ CSS = """:root{--bg:#fbfaf7;--fg:#22201c;--muted:#6b665d;--line:#e4e0d6;--accent
 header.site label.theme{margin-left:1rem;color:var(--muted);font-size:.9rem}
 header.site select{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.1rem .3rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Noto Serif",Georgia,serif}
+body{margin:0;background:var(--bg);color:var(--fg);font:calc(17px*var(--fs,1))/1.6 "Noto Serif",Georgia,serif}
 a{color:var(--accent)}
 header.site{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;align-items:baseline;justify-content:space-between;padding:.8rem 1rem;border-bottom:1px solid var(--line)}
 header.site .brand{color:var(--fg);text-decoration:none;font-weight:600}
@@ -930,6 +1016,19 @@ p.jump{font-size:.95rem}
 .askbar[hidden]{display:none}
 .askbar a{font:600 .82rem system-ui,sans-serif;text-decoration:none;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.25rem .55rem;white-space:nowrap}
 .askbar a:first-child{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+html{font-size:calc(100%*var(--fs,1))}
+[data-size="s"]{--fs:.88}[data-size="l"]{--fs:1.15}[data-size="xl"]{--fs:1.32}
+.size{white-space:nowrap}
+.size button{font:600 .8rem system-ui,sans-serif;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.15rem .45rem;margin-left:.25rem;cursor:pointer}
+.size button[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+.ptool{font:400 .72rem system-ui,sans-serif;font-style:normal;color:var(--muted);opacity:.5;background:none;border:0;padding:0 .3rem;cursor:pointer;text-decoration:none}
+.row:hover .ptool,.ptool:focus,.ptool[aria-expanded="true"]{opacity:1}
+.ptool:hover,.ptool[aria-expanded="true"]{color:var(--accent);text-decoration:underline}
+body:not(.show-scan) .scanbtn,body:not(.show-scan) .crop,.crop[hidden]{display:none}
+.crop{grid-column:1/-1;margin:.6rem 0 0;padding:.4rem;background:#fff;border:1px solid var(--line);border-radius:6px;overflow-x:auto}
+.crop img{display:block;max-width:100%;height:auto;margin:0 auto}
+.crop a+a img{border-top:1px dashed #999}
+@media (max-width:760px){.crop img{max-width:none;width:720px}}
 .wikt{position:absolute;z-index:9;box-sizing:border-box;width:min(420px,calc(100vw - 16px));max-height:min(60vh,26rem);overflow-y:auto;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font:.9rem/1.45 system-ui,sans-serif}
 .wikt[hidden]{display:none}
 .wikt h4{margin:0 1.8rem .2rem 0;font-size:1.2rem;font-weight:600}
@@ -1026,7 +1125,7 @@ table.abbr td:first-child{white-space:nowrap;font-weight:600}
 table.conc{table-layout:fixed}table.conc td:first-child{white-space:normal;overflow-wrap:anywhere}
 table.conc th:nth-child(1){width:20%}table.conc th:nth-child(2){width:47%}table.conc th:nth-child(3){width:13%}table.conc th:nth-child(5){width:5%}
 footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
-@media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}
+@media (max-width:760px){body{font-size:calc(16px*var(--fs,1))}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}
 """
 
 JS = """(function(){
@@ -1123,6 +1222,53 @@ JS = """(function(){
   tip.addEventListener('mouseleave',later);
   document.addEventListener('click',function(ev){if(!tip.hidden&&!tip.contains(ev.target)&&!ev.target.closest('a.fn')) hide();});
   document.addEventListener('keydown',function(ev){if(ev.key==='Escape') hide();});
+  // text size (15-Nov-2026, issue 1): four steps, kept in the browser like the theme
+  var sizes=[].slice.call(document.querySelectorAll('.size button'));
+  function markSize(){var z=document.documentElement.getAttribute('data-size')||'';
+    sizes.forEach(function(b){b.setAttribute('aria-pressed',String(b.getAttribute('data-size')===z));});}
+  sizes.forEach(function(b){b.addEventListener('click',function(){var z=b.getAttribute('data-size');
+    if(z) document.documentElement.setAttribute('data-size',z); else document.documentElement.removeAttribute('data-size');
+    store.set('bh-size',z); markSize(); update();});});
+  markSize();
+  // paragraph tools (15-Nov-2026, issue 1), after the ¶ of each paragraph: "scan" shows the lines of the
+  // paragraph on the scan (a crop from the library's image server; the place comes from data-scan, written by
+  // build_site.scan_boxes), "correct" opens a GitHub issue with the paragraph link and the selected words
+  var mainDoc=document.querySelector('main.doc[data-repo]');
+  if(mainDoc){
+    var repo=mainDoc.getAttribute('data-repo'), iiif=mainDoc.getAttribute('data-iiif'), view=mainDoc.getAttribute('data-view');
+    var chap=document.title.split(' · ')[0];
+    document.querySelectorAll('.row[id^="p"]').forEach(function(row){
+      var host=row.querySelector('.cell.en a.anchor'), scan=row.getAttribute('data-scan'); if(!host) return;
+      var fix=document.createElement('a'); fix.className='ptool fix'; fix.textContent='correct'; fix.target='_blank'; fix.rel='noopener';
+      fix.title='Suggest a correction to this paragraph (opens a GitHub issue)';
+      function href(){
+        var s=window.getSelection(), t=s&&s.rangeCount&&row.contains(s.anchorNode)?String(s).replace(/\\s+/g,' ').trim().slice(0,300):'';
+        var body='Paragraph: '+location.origin+location.pathname+'#'+row.id+'\\n'+(t?'Words: "'+t+'"\\n':'')+'\\nWhat is wrong:\\n\\nWhat it should be:\\n';
+        fix.href=repo+'/issues/new?title='+encodeURIComponent('[correction] '+chap+', '+row.id)+'&body='+encodeURIComponent(body);
+      }
+      href(); fix.addEventListener('pointerdown',href); fix.addEventListener('focus',href);
+      host.parentNode.insertBefore(fix,host.nextSibling);
+      if(!scan) return;
+      var b=document.createElement('button'); b.type='button'; b.className='ptool scanbtn'; b.textContent='scan';
+      b.title='Show the lines of this paragraph on the scan'; b.setAttribute('aria-expanded','false');
+      b.addEventListener('click',function(){
+        var box=row.querySelector('.crop');
+        if(box) box.hidden=!box.hidden;
+        else{
+          box=document.createElement('div'); box.className='crop';
+          scan.split(' ').forEach(function(s){
+            var p=s.split(':'), d=p[1].split(','), a=document.createElement('a'), im=document.createElement('img');
+            a.href=view+p[0]; a.target='_blank'; a.rel='noopener'; a.title='Open the full page at the library';
+            im.alt='Scan of this paragraph'; im.width=d[2]; im.height=d[3];
+            im.src=iiif+('0000'+p[0]).slice(-5)+'/'+p[1]+'/full/0/default.jpg';
+            a.appendChild(im); box.appendChild(a);});
+          row.insertBefore(box,row.firstChild);
+        }
+        b.setAttribute('aria-expanded',String(!box.hidden));
+      });
+      host.parentNode.insertBefore(b,host.nextSibling);
+    });
+  }
   // look-up on selection (14-Nov-2026): select text in a chapter to ask Google's AI mode about it, or to
   // look a Hebrew, Greek, Arabic or Latin word up, in a narrow window beside the page
   var doc=document.querySelector('main.doc');
@@ -1292,6 +1438,8 @@ def main():
     import concordance  # the same rows as CSV, for a spreadsheet
     concordance.main()
     print("wrote docs/index.html, docs/abbreviations.html, docs/names.html, docs/hebrew.html")
+    print(f"scan crops: {SCAN_STATS['matched']} paragraph parts placed by their text, "
+          f"{SCAN_STATS['counted']} by line count")
 
 
 if __name__ == "__main__":

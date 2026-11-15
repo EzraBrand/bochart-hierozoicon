@@ -148,9 +148,12 @@ Low-effort improvements, not yet done. Pick from the top; tick off here when don
 - [x] **Link previews and title.** Done 14-Nov-2026 (Open Graph tags; "pilot" removed from the title). No
       preview image yet: a 1200x630 image of a page spread would make the card stronger.
 - [x] **Wiktionary card on a selected word.** Done 15-Nov-2026 (the "Wiktionary card" block in the `JS` of
-      `build_site.py`). The comparison with the Scriptorai reader, and the open reader ideas that came from it
-      (scan crop of the line, "suggest a correction" link, text size), are in
+      `build_site.py`). The comparison with the Scriptorai reader and how each feature works are in
       [READER_IDEAS.md](READER_IDEAS.md).
+- [x] **Scan crop of the paragraph, "correct" link, text size.** Done 15-Nov-2026 (issue 1). The build prints
+      "scan crops: N placed by their text, M by line count"; after a new tranche run
+      `uv run python logs/scanbox_check.py` and look at the rows it prints (`logs/scanbox_debug.py ENTRY PAGE`
+      shows the OCR lines of a page). A large gap or overlap is a paragraph placed on the wrong lines.
 - [ ] **Check the two-column layout on a phone.** Not looked at since the pilot.
 
 - [ ] **Names and abbreviations pages sorted by basis**, "guess" and "general knowledge" first, so

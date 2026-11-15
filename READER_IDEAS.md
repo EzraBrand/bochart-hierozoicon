@@ -32,10 +32,10 @@ A weakness: the headword step makes errors. On the sample page προβολῆς
 | # | Feature | Decision | State |
 |---|---|---|---|
 | 1 | Wiktionary card on a selected word | add | done 15-Nov-2026 |
-| 2 | Scan crop of the line or paragraph | add, as a switch | open |
+| 2 | Scan crop of the line or paragraph | add, as a switch | done 15-Nov-2026 (issue 1) |
 | 3 | Uncertain readings marked in the text | add (already in the AGENTS.md backlog) | open |
-| 4 | "Suggest a correction" link per paragraph | add, small | open |
-| 5 | Text size control | add, small | open |
+| 4 | "Suggest a correction" link per paragraph | add, small | done 15-Nov-2026 (issue 1) |
+| 5 | Text size control | add, small | done 15-Nov-2026 (issue 1) |
 | 6 | A gloss below each word | no | |
 | 7 | Line-by-line layout | no | |
 | 8 | Their General index | no (we have names, passages, Hebrew and search pages) | |
@@ -83,13 +83,29 @@ Known limits:
 Possible next steps: Sefaria's lexicon API (Jastrow, BDB, Klein) for Hebrew and Aramaic as a second source
 in the same card; a build-time table from kaikki.org if the reader must work offline.
 
-## 2. Scan crop of the line (open)
+## 2. Scan crop of the paragraph (done, issue 1)
 
-The line coordinates are already in `data/mdz_hocr`, and the images come from the MDZ IIIF server
-(`.../iiif/image/v2/bsb10353454_00425/x,y,w,h/full/0/default.jpg`), so no image needs hosting. Idea: a
-switch "Scan beside the text"; a tap on the ¶ of a paragraph (or on a page link) shows the crop of those
-lines above the paragraph. Needs: a table paragraph to page and line box, written by `build_site.py`. This
-is the Scriptorai feature that helps a reader most, and it fits the note "check the scan before you cite".
+Code: `scan_boxes()` and `hocr_lines()` in `build_site.py`; the block "paragraph tools" in `JS`; `.crop` in
+`CSS`. Checks: `logs/scanbox_check.py` (all chapters) and `logs/scanbox_debug.py ENTRY PAGE` (one page).
+
+- The switch "Scan of the paragraph" (off by default) adds a **scan** button after the ¶ of each paragraph.
+  The button shows the printed lines of the paragraph above it: one image per page that the paragraph
+  touches. A click on the image opens the full page at the library. A second click on the button hides it.
+- The images come from the MDZ IIIF server at the time of the click
+  (`.../iiif/image/v2/bsb10353454_00425/x,y,w,h/full/0/default.jpg`); nothing is hosted here.
+- The place of a paragraph is written at build time into `data-scan="canvas:x,y,w,h ..."` on its row. Our
+  Latin keeps the printed lines, so the first and the last line of each paragraph part are looked for in the
+  line boxes of `data/mdz_hocr` (rapidfuzz, in reading order). A line that the OCR does not have in a like
+  form (Hebrew, Arabic) is placed by its line count.
+- The OCR lines are cleaned first: specks and margin marks are dropped, the lines are sorted from top to
+  bottom, and the pieces of one printed line are joined.
+- State on 15-Nov-2026: 1,775 paragraph parts in 51 chapters; 1,688 placed by their text, 87 by line count.
+  `scanbox_check.py` shows no gap and no large overlap; 20 pairs overlap by 54 to 80 px (tall line boxes
+  around verse). Looked at in the browser: shafan p4 (two pages), kippod p12 to p14 (verse), jonah p3 (drop
+  capital).
+- Limits: the crop can show a part of the line above or below; a crop placed by line count can be off by a
+  line; the notes at the foot of the page have no crop; on a phone the crop scrolls sideways.
+- A new volume needs its hOCR files in `data/mdz_hocr` and its pages in `data/raw/manifest.json`.
 
 ## 3. Uncertain readings (open)
 
@@ -97,8 +113,11 @@ See "Mark the uncertain readings in the reading edition" in AGENTS.md. Our equiv
 transcriptions differ": a dotted underline with the reason, from the `UNSURE` rows and the `entry.FIXES`
 comments. A switch, off by default.
 
-## 4 and 5. Small items (open)
+## 4 and 5. Small items (done, issue 1)
 
-- A "Suggest a correction" link at each ¶: a GitHub issue link with the chapter and the `#p12` anchor in
-  the title.
-- Text size: three steps, kept in the browser like the other switches.
+- **correct**, after the ¶ of each paragraph: opens a new GitHub issue with the title
+  "[correction] CHAPTER, p12" and a body that has the link to the paragraph and, when words of that
+  paragraph are selected, those words. Made in `JS` (no link without JavaScript).
+- **Text size**: A−, A, A+, A++ in the Display row (0.88, 1, 1.15, 1.32). Kept in the browser as
+  `bh-size` and set before the page is drawn, like the theme. The CSS variable `--fs` scales the body size
+  and the `rem` sizes.

@@ -92,6 +92,53 @@
   tip.addEventListener('mouseleave',later);
   document.addEventListener('click',function(ev){if(!tip.hidden&&!tip.contains(ev.target)&&!ev.target.closest('a.fn')) hide();});
   document.addEventListener('keydown',function(ev){if(ev.key==='Escape') hide();});
+  // text size (15-Nov-2026, issue 1): four steps, kept in the browser like the theme
+  var sizes=[].slice.call(document.querySelectorAll('.size button'));
+  function markSize(){var z=document.documentElement.getAttribute('data-size')||'';
+    sizes.forEach(function(b){b.setAttribute('aria-pressed',String(b.getAttribute('data-size')===z));});}
+  sizes.forEach(function(b){b.addEventListener('click',function(){var z=b.getAttribute('data-size');
+    if(z) document.documentElement.setAttribute('data-size',z); else document.documentElement.removeAttribute('data-size');
+    store.set('bh-size',z); markSize(); update();});});
+  markSize();
+  // paragraph tools (15-Nov-2026, issue 1), after the ¶ of each paragraph: "scan" shows the lines of the
+  // paragraph on the scan (a crop from the library's image server; the place comes from data-scan, written by
+  // build_site.scan_boxes), "correct" opens a GitHub issue with the paragraph link and the selected words
+  var mainDoc=document.querySelector('main.doc[data-repo]');
+  if(mainDoc){
+    var repo=mainDoc.getAttribute('data-repo'), iiif=mainDoc.getAttribute('data-iiif'), view=mainDoc.getAttribute('data-view');
+    var chap=document.title.split(' · ')[0];
+    document.querySelectorAll('.row[id^="p"]').forEach(function(row){
+      var host=row.querySelector('.cell.en a.anchor'), scan=row.getAttribute('data-scan'); if(!host) return;
+      var fix=document.createElement('a'); fix.className='ptool fix'; fix.textContent='correct'; fix.target='_blank'; fix.rel='noopener';
+      fix.title='Suggest a correction to this paragraph (opens a GitHub issue)';
+      function href(){
+        var s=window.getSelection(), t=s&&s.rangeCount&&row.contains(s.anchorNode)?String(s).replace(/\s+/g,' ').trim().slice(0,300):'';
+        var body='Paragraph: '+location.origin+location.pathname+'#'+row.id+'\n'+(t?'Words: "'+t+'"\n':'')+'\nWhat is wrong:\n\nWhat it should be:\n';
+        fix.href=repo+'/issues/new?title='+encodeURIComponent('[correction] '+chap+', '+row.id)+'&body='+encodeURIComponent(body);
+      }
+      href(); fix.addEventListener('pointerdown',href); fix.addEventListener('focus',href);
+      host.parentNode.insertBefore(fix,host.nextSibling);
+      if(!scan) return;
+      var b=document.createElement('button'); b.type='button'; b.className='ptool scanbtn'; b.textContent='scan';
+      b.title='Show the lines of this paragraph on the scan'; b.setAttribute('aria-expanded','false');
+      b.addEventListener('click',function(){
+        var box=row.querySelector('.crop');
+        if(box) box.hidden=!box.hidden;
+        else{
+          box=document.createElement('div'); box.className='crop';
+          scan.split(' ').forEach(function(s){
+            var p=s.split(':'), d=p[1].split(','), a=document.createElement('a'), im=document.createElement('img');
+            a.href=view+p[0]; a.target='_blank'; a.rel='noopener'; a.title='Open the full page at the library';
+            im.alt='Scan of this paragraph'; im.width=d[2]; im.height=d[3];
+            im.src=iiif+('0000'+p[0]).slice(-5)+'/'+p[1]+'/full/0/default.jpg';
+            a.appendChild(im); box.appendChild(a);});
+          row.insertBefore(box,row.firstChild);
+        }
+        b.setAttribute('aria-expanded',String(!box.hidden));
+      });
+      host.parentNode.insertBefore(b,host.nextSibling);
+    });
+  }
   // look-up on selection (14-Nov-2026): select text in a chapter to ask Google's AI mode about it, or to
   // look a Hebrew, Greek, Arabic or Latin word up, in a narrow window beside the page
   var doc=document.querySelector('main.doc');
