@@ -96,7 +96,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 4 | 12-Nov-2026 | 648–720 (73) | 7 | $8.70 | $0.119 | 1 h (12:48 to 13:47) | 214 | 72 / 6 | 18 | 22, and 12 words the OCR left open or misread |
 | 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | 1 h 35 min (10:50 to 12:26; the judge batch took 25 min) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
 | 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | 1 h 20 min (08:44 to 10:02, with the site work; waiting for batches about 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts; the scan check about 10 min) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
-| 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 108 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
+| 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 117 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
