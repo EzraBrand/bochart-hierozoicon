@@ -51,7 +51,7 @@ def difference(a: str, b: str) -> str:
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     votes = {}
-    for f in sorted(LOGS.glob("vote_v2-*-*.csv")):
+    for f in sorted(LOGS.glob("vote_v*-*-*.csv")):
         if f.name.count(".") > 1:  # test runs (vote_v2-408-429.argon-opus.csv)
             continue
         for r in csv.DictReader(f.open(encoding="utf-8-sig")):

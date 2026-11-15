@@ -28,11 +28,13 @@ LEWYSOHN = "https://ezrabrand.github.io/lewysohn-zoologie/"
 MDZ_IIIF = "https://api.digitale-sammlungen.de/iiif/image/v2"
 MDZ_VIEW = "https://www.digitale-sammlungen.de/en/view"
 VOL_IDS = {1: "bsb10353453", 2: "bsb10353454", 3: "bsb10353455"}
-F1675 = "bsb11935761"  # Frankfurt 1675, Pars I: canvas 569 = cols. 1001-1002
+# Frankfurt 1675 (the column numbers of 1663). Pars I: canvas 569 = cols. 1001-1002. Pars II (birds and the
+# rest, columns from 1 again): canvas 5 = cols. 1-2. Until 15-Nov-2026 the links of Part 2 opened Pars I.
+F1675 = {1: "bsb11935761", 2: "bsb11935762"}
 
 
-def col_canvas(col: int) -> int:
-    return 569 + (col - 1001) // 2
+def col_canvas(col: int, part: int = 1) -> int:
+    return 5 + (col - 1) // 2 if part == 2 else 569 + (col - 1001) // 2
 
 
 DOCS = [
@@ -307,7 +309,7 @@ def inline(text: str, page: int, ctx: dict) -> str:
         if c:
             col = int(c.group(1))
             aid = f' id="col{col}"' if ctx.get("anchors") else ""
-            out.append(f'<a class="col"{aid} href="{MDZ_VIEW}/{F1675}?page={col_canvas(col)}" target="_blank" '
+            out.append(f'<a class="col"{aid} href="{MDZ_VIEW}/{F1675[ctx.get("part", 1)]}?page={col_canvas(col, ctx.get("part", 1))}" target="_blank" '
                        f'rel="noopener" title="Column {col} of the 1663 edition: scan of the Frankfurt 1675 '
                        f'edition (same column numbers)">col.&nbsp;{col}</a>')
             continue
@@ -599,6 +601,7 @@ def doc_html(doc: dict) -> str:
     d = load_doc(doc)
     ids = scan_ids()
     vol = doc["vol"]
+    part = 2 if doc["title"].startswith("Part 2") else 1  # which Pars of 1675 the column links open
     # notes in order; (page key, mark) -> number; the link text is the printed label (R13, c))
     keymap, labels = {}, {}
     for i, (la, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
@@ -613,7 +616,8 @@ def doc_html(doc: dict) -> str:
         cells = []
         quote = la["type"] == "body" and is_quote(la["text"])
         for lang, b in (("de", la), ("en", en)):
-            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang, "anchors": lang == "en", "verse": quote}
+            ctx = {"ids": ids, "notes": keymap, "labels": labels, "lang": lang, "anchors": lang == "en", "verse": quote,
+                   "part": part}
             src = b["text"]
             if quote and lang == "en" and "\n" not in src:  # the translation joins the lines: one italic run per line
                 src = src.replace("</i> <i>", "</i>\n<i>")
@@ -631,7 +635,7 @@ def doc_html(doc: dict) -> str:
         cells = []
         who = "Rosenmüller" if labels[i].startswith("R") else "Bochart"
         for lang, b in (("de", la), ("en", en)):
-            ctx = {"ids": ids, "notes": {}, "labels": labels, "lang": lang}
+            ctx = {"ids": ids, "notes": {}, "labels": labels, "lang": lang, "part": part}
             pk = page_key(vol, b["page"])
             cells.append(f'<div class="cell {lang}" id="{lang}-n{i}"><p><a class="fnback" href="#{lang}-r{i}">'
                          f'{labels[i] if lang == "en" else b.get("marker", "")}</a> <span class="pgref">{who}, '
@@ -697,7 +701,8 @@ def index_html() -> str:
                   f'{d["title"].split("chapter ")[1].split(":")[0]}</span> {html.escape(d["title"].split(": ", 1)[1])}'
                   f'</strong></a><span>{html.escape(d["sub"])}</span></li>' for d in ds) + "</ul>"
         for i, (g, ds) in enumerate(groups.items()))
-    first, last = min(d["pages"][0] for d in docs), max(d["pages"][-1] for d in docs)
+    span = "; ".join(f"vol. {v}, pp. {min(d['pages'][0] for d in docs if d['vol'] == v)}–"
+                     f"{max(d['pages'][-1] for d in docs if d['vol'] == v)}" for v in sorted({d["vol"] for d in docs}))
     body = f"""{header("index.html")}
 <main class="index">
 <h1>Samuel Bochart, <i>Hierozoicon</i></h1>
@@ -706,7 +711,7 @@ the standard early-modern study of every animal in the Bible, in Latin with Gree
 Syriac and much Arabic, and a main source for later work on the animals of the Bible and the Talmud.
 No modern translation exists. This project gives it chapter by chapter, in the edition of
 E. F. C. Rosenmüller (Leipzig 1793–96), as a machine transcription and English translation. Done so
-far: {len(docs)} chapters, vol. 2, pp. {first}–{last}. Find a verse in the <a href="passages.html">index of
+far: {len(docs)} chapters, {span}. Find a verse in the <a href="passages.html">index of
 Bible passages</a>, or a word in the <a href="search.html">search</a>.</p>
 <p class="jump">{jump}</p>
 <p class="lede">Related: <a href="{LEWYSOHN}">Lewysohn, <i>Die Zoologie des Talmuds</i></a> (1858) and
@@ -805,10 +810,10 @@ def hebrew_html() -> str:
         f'<td><i>{esc(r["romanization"])}</i></td>'
         f'<td><a href="{r["site_url"].rsplit("/", 1)[1]}">{esc(titles[r["chapter"]])}</a>'
         f'{" (note)" if r["part"] == "note" else ""}<br><a class="pg" href="{r["scan_url"]}" target="_blank" '
-        f'rel="noopener" title="Scan of this page">II,&nbsp;{r["page"]}</a></td>'
+        f'rel="noopener" title="Scan of this page">{"I" * int(r["vol"])},&nbsp;{r["page"]}</a></td>'
         f'<td><input type="checkbox" class="flag" aria-label="Flag this row" '
         f'data-k="{esc(r["hebrew"])}|{esc(r["romanization"])}|{r["page"]}|{r["chapter"]}"></td></tr>'
-        for r in sorted(occ, key=lambda r: (r["key"], r["page"])))
+        for r in sorted(occ, key=lambda r: (r["key"], int(r["vol"]), int(r["page"]))))
     like = "".join(
         f'<tr><td><bdi class="heb" dir="rtl">{esc(w["word"])}</bdi></td><td>{w["count"]}</td>'
         f'<td><bdi class="heb" dir="rtl">{esc(w["looks_like"])}</bdi></td><td>{esc(w["pages"])}</td></tr>'
@@ -835,7 +840,7 @@ the list and send it.</p>
 <p>{len(ws)} words that differ from another word of the concordance only by letters that look alike in this
 type (the count of the other word in brackets). Most are different words; a word found once beside a
 frequent look-alike is the first place to check. Rarest first.</p>
-<table class="abbr"><thead><tr><th>Word</th><th>Count</th><th>Looks like</th><th>Pages (vol. 2)</th></tr></thead>
+<table class="abbr"><thead><tr><th>Word</th><th>Count</th><th>Looks like</th><th>Pages (vol. 2; III,5 = vol. 3, p. 5)</th></tr></thead>
 <tbody>{like}</tbody></table>
 </main>
 <script>{FLAG_JS}</script>"""
@@ -941,7 +946,7 @@ SEARCH_JS = """(function(){
         var a=Math.max(0,at-110), b=Math.min(t.length,at+term.length+160);
         var snip=esc(t.slice(a,at))+'<mark>'+esc(t.slice(at,at+term.length))+'</mark>'+esc(t.slice(at+term.length,b));
         var d=j.docs[r[0]];
-        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">II, '+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
+        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">'+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
       out.innerHTML=html.join('');
       info.textContent=n+' paragraph'+(n===1?'':'s')+(n>300?' (the first 300 are shown)':'')+' in the '+(la.checked?'Latin':'English')+' text.';
     });}
@@ -961,8 +966,9 @@ def search_html() -> str:
         rows = []
         for d in docs:
             j = json.loads((DATA / "entries" / d["entry"] / f"{lang}.json").read_text(encoding="utf-8"))
-            rows += [[num[d["slug"]], f"p{k}", b["page"], search_text(b["text"])] for k, b in enumerate(j["main"])]
-            rows += [[num[d["slug"]], f"en-n{k}", b["page"], search_text(b["text"])] for k, b in enumerate(j["notes"], 1)]
+            vp = lambda b: f"{'I' * d['vol']}, {b['page']}"  # "III, 12"
+            rows += [[num[d["slug"]], f"p{k}", vp(b), search_text(b["text"])] for k, b in enumerate(j["main"])]
+            rows += [[num[d["slug"]], f"en-n{k}", vp(b), search_text(b["text"])] for k, b in enumerate(j["notes"], 1)]
         out = {"docs": [[d["slug"], d["title"]] for d in docs], "rows": [r for r in rows if r[3]]}
         (OUT / f"search-{lang}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     body = f"""{header("search.html")}

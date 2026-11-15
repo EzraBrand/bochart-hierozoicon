@@ -59,6 +59,10 @@ SAMPLE = [
     # ostrich, bath jaana and thachmas and Job 39, chs. 14-17, pp. 811-870). P. 870 is the last page of
     # vol. 2 (canvas 886; the colophon is at its foot). Chapter heads: uv run find_chapters.py 800 886.
     *[(2, c, "birds5") for c in range(804, 887)],
+    # Tranche 7 (15-Nov-2026): vol. 3 begins (printed page = canvas - 22; canvases 7-22 are pp. I-XVI). Pars II,
+    # Book II goes on with ch. 18 on p. 1. Canvases 23-175 = pp. 1-153: more than the tranche, so that the
+    # next one has its pages. Chapter heads: uv run find_chapters.py 23 175 3 (logs/find_chapters_t7.log).
+    *[(3, c, "birds6") for c in range(23, 176)],
 ]
 
 session = requests.Session()

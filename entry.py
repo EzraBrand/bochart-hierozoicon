@@ -635,7 +635,7 @@ FIXES = {
 # A page number written twice in the FIXES literal: Python keeps only the second list, without a word
 # (tranche 4 lost two pairs that way until a check found it). Stop at import.
 _src = Path(__file__).read_text(encoding="utf-8")
-_keys = re.findall(r"^    (\d+): \[", _src[_src.index("\nFIXES = {"):_src.index("\n# A page number written twice")], re.M)
+_keys = re.findall(r"^    (\d+|\(\d+, \d+\)): \[", _src[_src.index("\nFIXES = {"):_src.index("\n# A page number written twice")], re.M)
 if len(_keys) != len(set(_keys)):
     sys.exit(f"entry.FIXES: page(s) listed twice: {sorted({k for k in _keys if _keys.count(k) > 1})}")
 # Hebrew words corrected after the owner's review of the concordance (13-Nov-2026): ו/ז, ד/ר and ח/ת look
@@ -688,14 +688,15 @@ def page_blocks(vol: int, page: int) -> list[dict]:
     ocr = json.loads((DATA / "ocr" / SOURCE / f"{key}.json").read_text(encoding="utf-8"))
     gold = DATA / "gold" / f"{key}.txt"
     blocks = gold_blocks(gold, ocr) if gold.exists() else ocr["blocks"]
-    for old, new in FIXES.get(page, []):
+    vp = page if vol == 2 else (vol, page)  # FIXES and MARKERS: a page of vol. 2 is 787, of another volume (3, 12)
+    for old, new in FIXES.get(vp, []):
         hits = [b for b in blocks if old in b["text"]]
         if len(hits) != 1:
             sys.exit(f"p. {page}: correction {old!r} found {len(hits)} times, not once")
         hits[0]["text"] = hits[0]["text"].replace(old, new)
     for b in blocks:
-        if (page, b.get("marker")) in MARKERS:
-            b["marker"] = MARKERS[(page, b["marker"])]
+        if (vp, b.get("marker")) in MARKERS:
+            b["marker"] = MARKERS[(vp, b["marker"])]
         b["text"] = re.sub(r"\^\{([a-z])\}\)", r"^{\1)}", b["text"])  # p. 419: ^{a}) for ^{a)}
         b["text"] = re.sub(r"\(\^\{(\d+)\}\)", r"^{(\1)}", b["text"])  # p. 541: (^{6}) for ^{(6)}
         b["text"] = MARGIN.sub(r"[col. \1]", b["text"])

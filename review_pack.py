@@ -19,8 +19,8 @@ OUT = ROOT / "logs" / "review"
 sys.stdout.reconfigure(encoding="utf-8")
 
 
-def items_of(lo: int, hi: int) -> list[dict]:
-    rng = f"v2-{lo}-{hi}"
+def items_of(lo: int, hi: int, vol: int = 2) -> list[dict]:
+    rng = f"v{vol}-{lo}-{hi}"
     boxes = {}
     for r in csv.DictReader(open(ROOT / "logs" / f"check_{rng}.csv", encoding="utf-8-sig")):
         boxes.setdefault((r["page"], r["line"]), (r["box"], r["box_match"]))
@@ -39,11 +39,12 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("first", type=int)
     p.add_argument("last", type=int)
+    p.add_argument("--vol", type=int, default=2)
     p.add_argument("--group", action="append", default=[], help="NAME:FIRST-LAST (default: one group)")
     a = p.parse_args()
     groups = [(g.split(":")[0], *map(int, g.split(":")[1].split("-"))) for g in a.group] or \
              [(f"{a.first}-{a.last}", a.first, a.last)]
-    items = items_of(a.first, a.last)
+    items = items_of(a.first, a.last, a.vol)
     for name, lo, hi in groups:
         d = OUT / name
         d.mkdir(parents=True, exist_ok=True)

@@ -20,8 +20,8 @@ ROOT = Path(__file__).resolve().parent
 VOTED = ROOT / "data" / "ocr" / "or-claude-opus-5.5@low+vote"
 
 
-def unique_pair(page: int, old: str, new: str, line: str) -> tuple[str, str] | None:
-    blocks = [b["text"] for b in json.loads((VOTED / f"v2-{page:04d}.json").read_text(encoding="utf-8"))["blocks"]]
+def unique_pair(key: str, old: str, new: str, line: str) -> tuple[str, str] | None:
+    blocks = [b["text"] for b in json.loads((VOTED / f"{key}.json").read_text(encoding="utf-8"))["blocks"]]
     words = line.split()
     cands = [old]
     if old in words:
@@ -37,6 +37,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("first", type=int)
     p.add_argument("last", type=int)
+    p.add_argument("--vol", type=int, default=2, help="volume; entry.FIXES keys of another volume are (vol, page)")
     p.add_argument("--tag", default="scan check")
     p.add_argument("--groups", nargs="*", help="review folders to read (default: all with a decisions.tsv)")
     a = p.parse_args()
@@ -47,7 +48,7 @@ def main():
         items = {r["id"]: r for r in csv.DictReader(open(g / "items.tsv", encoding="utf-8"), delimiter="\t")}
         for d in csv.DictReader(open(g / "decisions.tsv", encoding="utf-8"), delimiter="\t"):
             r = items.get(d["id"])
-            if r is None or not a.first <= int(r["page"][3:]) <= a.last:
+            if r is None or not r["page"].startswith(f"v{a.vol}-") or not a.first <= int(r["page"][3:]) <= a.last:
                 continue
             v, t, note = d["verdict"].strip(), (d.get("text") or "").strip(), (d.get("note") or "").strip()
             key = (r["page"], r["main"])
@@ -64,7 +65,7 @@ def main():
                     if r["kind"] == "change":
                         reject.append((key, f"print {t} ({note})" if note else f"print {t}"))
                         old = r["main"]
-                    pair = unique_pair(int(r["page"][3:]), old, t, r["line"])
+                    pair = unique_pair(r["page"], old, t, r["line"])
                     if pair:
                         fixes.setdefault(int(r["page"][3:]), []).append(pair)
                     else:
@@ -78,7 +79,7 @@ def main():
     print(f"\n# entry.FIXES ({sum(len(v) for v in fixes.values())} pairs on {len(fixes)} pages): paste into FIXES "
           f"(append to a page's list if it has one)\n    # {a.tag}: the print differs from the vote's text")
     for pg in sorted(fixes):
-        print(f"    {pg}: {fixes[pg]!r},")
+        print(f"    {pg if a.vol == 2 else (a.vol, pg)}: {fixes[pg]!r},")
     if bad:
         print(f"\n# NOT UNIQUE / NOT FOUND in the voted page ({len(bad)}): fix by hand")
         for b in bad:

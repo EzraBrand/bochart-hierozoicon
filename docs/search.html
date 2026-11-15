@@ -46,7 +46,7 @@ accents, Hebrew points and Arabic vowel signs are ignored: <i>korax</i> finds th
         var a=Math.max(0,at-110), b=Math.min(t.length,at+term.length+160);
         var snip=esc(t.slice(a,at))+'<mark>'+esc(t.slice(at,at+term.length))+'</mark>'+esc(t.slice(at+term.length,b));
         var d=j.docs[r[0]];
-        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">II, '+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
+        html.push('<li><a href="'+d[0]+'.html#'+r[1]+'"><b>'+esc(d[1])+'</b></a><span class="w">'+r[2]+(r[1].charAt(0)==='p'?'':' · note')+'</span>'+(a>0?'… ':'')+snip+(b<t.length?' …':'')+'</li>');}
       out.innerHTML=html.join('');
       info.textContent=n+' paragraph'+(n===1?'':'s')+(n>300?' (the first 300 are shown)':'')+' in the '+(la.checked?'Latin':'English')+' text.';
     });}

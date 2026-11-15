@@ -1,6 +1,7 @@
 """List chapter heads (CAP. ..., LIBER ...) in the MDZ hOCR of vol. 2, canvases FIRST..LAST (fetches missing hOCR).
 
   uv run find_chapters.py 470 560      # canvas, page label, head, the first words after it
+  uv run find_chapters.py 23 180 3     # vol. 3 (printed page = canvas - 22)
 """
 import html
 import re
@@ -10,8 +11,8 @@ sys.path.insert(0, str(__import__("pathlib").Path(__file__).resolve().parent))
 import fetch
 
 sys.stdout.reconfigure(encoding="utf-8")
-cs = fetch.canvases(2)
 lo, hi = int(sys.argv[1]), int(sys.argv[2])
+cs = fetch.canvases(int(sys.argv[3]) if len(sys.argv) > 3 else 2)  # third argument: the volume (default 2)
 PAT = re.compile(r"(C\s*A\s*P\s*\.?\s*[XVIL]+\s*\.|LIBER\s+\w+)")
 for c in cs[lo - 1:hi]:
     key = fetch.page_key(c)

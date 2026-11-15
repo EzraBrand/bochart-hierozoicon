@@ -3,6 +3,7 @@
   uv run tranche.py prepare 591 648 --tag t3 --group A:591-610 --group B:611-630 --group C:631-648
       fetch.py sample (SAMPLE must hold the pages) -> mdz_ocr.py -> OCR: Opus batch and Flash sync
       (4 workers) at the same time -> check.py -> judge.py --batch -> vote.py -> qa.py -> review_pack.py
+  uv run tranche.py prepare 1 126 --vol 3 --tag t7 --group T7A:1-45 ...     (another volume: --vol)
   uv run tranche.py translate deror turtur hirundo --tag t3
       one batch for the chunks of all the chapters (entry.batch_all), then entry.py X for the fixed
       steps of every chapter, then the site
@@ -91,8 +92,8 @@ def run(args: list[str], log: Path, name: str) -> None:
         sys.exit(f"{name} failed; see {log}")
 
 
-def keys(first: int, last: int) -> list[str]:
-    return [f"v2-{p:04d}" for p in range(first, last + 1)]
+def keys(first: int, last: int, vol: int = 2) -> list[str]:
+    return [f"v{vol}-{p:04d}" for p in range(first, last + 1)]
 
 
 def missing(engine: str, ks: list[str]) -> list[str]:
@@ -101,7 +102,7 @@ def missing(engine: str, ks: list[str]) -> list[str]:
 
 def prepare(a) -> None:
     balance_notice()
-    ks = keys(a.first, a.last)
+    ks = keys(a.first, a.last, a.vol)
     run(["fetch.py", "sample"], log_path(a.tag, "fetch"), "fetch")
     for k in ks:
         if not (ROOT / "data" / "mdz_hocr" / f"{k}.hocr").exists():
@@ -132,7 +133,7 @@ def prepare(a) -> None:
             run(["ocr.py", *missing(engine, ks), "--model", model, "--compact", *extra], log_path(a.tag, "ocr_retry"), "ocr retry")
         if missing(engine, ks):
             sys.exit(f"{engine}: still missing {missing(engine, ks)}")
-    rng = [str(a.first), str(a.last)]
+    rng = [str(a.first), str(a.last), "--vol", str(a.vol)]
     run(["check.py", *rng], log_path(a.tag, "check"), "check")
     run(["judge.py", *rng, "--batch"], log_path(a.tag, "judge"), "judge")
     run(["vote.py", *rng], log_path(a.tag, "vote"), "vote")
@@ -176,6 +177,7 @@ def main():
     s.add_argument("first", type=int)
     s.add_argument("last", type=int)
     s.add_argument("--tag", required=True)
+    s.add_argument("--vol", type=int, default=2, help="volume of Rosenmüller's edition (page keys v{vol}-NNNN)")
     s.add_argument("--group", action="append", default=[], help="review_pack groups NAME:FIRST-LAST")
     s.add_argument("--workers", type=int, default=4, help="Flash sync workers")
     s.add_argument("--max-tokens", type=int, default=7000, help="Opus OCR batch (the balance hold is estimated from it)")

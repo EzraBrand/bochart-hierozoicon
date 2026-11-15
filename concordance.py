@@ -70,7 +70,7 @@ def rows(require_en: bool = True) -> list[dict]:
                     out.append({
                         "hebrew": m.group(0), "key": key(m.group(0)), "words": len(key(m.group(0)).split()),
                         "romanization": rom.group(1).strip(" ,.;:") if rom else "",
-                        "chapter": d["slug"], "page": page, "part": "text" if part == "main" else "note",
+                        "chapter": d["slug"], "vol": d["vol"], "page": page, "part": "text" if part == "main" else "note",
                         "before": clean(text[max(0, m.start() - 90):m.start()])[-70:],
                         "after": clean(after)[:90],
                         "scan_url": f"{MDZ_VIEW}/{B.VOL_IDS[d['vol']]}?page={canvas}" if canvas else "",
@@ -88,8 +88,8 @@ def words(occ: list[dict]) -> list[dict]:
         classes[w.translate(ALIKE)].add(w)
     out = []
     for w, rs in by.items():
-        pages = sorted({r["page"] for r in rs})
-        like = sorted(classes[w.translate(ALIKE)] - {w}, key=lambda x: -len(by[x]))
+        pages = [p if v == 2 else f"{'I' * v},{p}" for v, p in sorted({(int(r["vol"]), int(r["page"])) for r in rs})]
+        like = sorted(classes[w.translate(ALIKE)] - {w}, key=lambda x: (-len(by[x]), x))
         out.append({"word": w, "count": len(rs), "pages": " ".join(map(str, pages)),
                     "looks_like": "; ".join(f"{x} ({len(by[x])})" for x in like),
                     "first_context": f'{rs[0]["before"]} {rs[0]["hebrew"]} {rs[0]["after"]}'})
