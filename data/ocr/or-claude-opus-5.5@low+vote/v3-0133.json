@@ -1,0 +1,159 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. I. <i>Probatur,</i> אפעה <i>esse Viperam.</i> 133",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. I. <i>Probatur,</i> אפעה <i>esse Viperam.</i> 133"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "μικρὰ ἐχίδια ἐν ὑμέσιν, οἳ περιῤῥήγνυνται τριταῖοι· <i>Parvas viperas in membra-\nnis parit, quae tertia die rumpuntur.</i> At commento dedit occasionem, quod\nsequitur, Ἐνίοτε δὲ καὶ ἔσωθεν διαφαγόντα αὐτὰ ἐξέρχεται· <i>Quandoque et-\niam, dum intus sunt, exedentes</i> (non matris uterum, sed membranas, quas di-\nxerat) <i>per se exeunt.</i> Viperae tamen ideo partus est difficilior, quia vivos parit\ncatulos, cum reliquae serpentes solum ova excludant. Unde est, quod <i>vipera</i>\ndicitur, aut quasi <i>vi pariat</i>, aut potius quia <i>vivipara.</i> Ex his jam abunde con-\nstat, אפעה <i>ephe</i> esse <i>viperam.</i> Itaque haec versio convenit satis tribus Scripturae\nlocis, quibus occurrit illa vox; quod patebit ea percurrenti.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "μικρὰ ἐχίδια ἐν ὑμέσιν, οἳ περιῤῥήγνυνται τριταῖοι· <i>Parvas viperas in membra-\nnis parit, quae tertia die rumpuntur.</i> At commento dedit occasionem, quod\nsequitur, Ἐνίοτε δὲ καὶ ἔσωθεν διαφαγόντα αὐτὰ ἐξέρχεται· <i>Quandoque et-\niam, dum intus sunt, exedentes</i> (non matris uterum, sed membranas, quas di-\nxerat) <i>per se exeunt.</i> Viperae tamen ideo partus est difficilior, quia vivos parit\ncatulos, cum reliquae serpentes solum ova excludant. Unde est, quod <i>vipera</i>\ndicitur, aut quasi <i>vi pariat</i>, aut potius quia <i>vivipara.</i> Ex his jam abunde con-\nstat, אפעה <i>ephe</i> esse <i>viperam.</i> Itaque haec versio convenit satis tribus Scripturae\nlocis, quibus occurrit illa vox; quod patebit ea percurrenti."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Primus est <i>Iob. XX, 16.</i> תהרגהו לשון אפעה, <i>Occidat eum lingua ephe</i>, id\nest, <i>viperae;</i> cujus morsus vastissimis etiam belluis sunt lethiferi. <i>Ovidius</i> lib. 2.\n<i>De Remedio Amoris,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Primus est <i>Iob. XX, 16.</i> תהרגהו לשון אפעה, <i>Occidat eum lingua ephe</i>, id\nest, <i>viperae;</i> cujus morsus vastissimis etiam belluis sunt lethiferi. <i>Ovidius</i> lib. 2.\n<i>De Remedio Amoris,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Parva necat morsu spatiosum vipera taurum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Parva necat morsu spatiosum vipera taurum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in illis verbis <i>Occidat eum lingua ephe</i>, linguae tribuitur, quod dentium est\nproprium; quia mordet serpens exerta lingua, quasi illa vulnus infligeret. Hinc\n<i>Seneca</i> in <i>Medea</i> 686.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in illis verbis <i>Occidat eum lingua ephe</i>, linguae tribuitur, quod dentium est\nproprium; quia mordet serpens exerta lingua, quasi illa vulnus infligeret. Hinc\n<i>Seneca</i> in <i>Medea</i> 686."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>serpens corpus immensum trahit,\nTrifidamque linguam exertat, et quaerens quibus\nMortifera veniat.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>serpens corpus immensum trahit,\nTrifidamque linguam exertat, et quaerens quibus\nMortifera veniat.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Kimchius</i> in haec verba <i>Psalmi 140. Acuerunt linguam suam ut serpens</i> חדדו\nלשונם לדבר רעות כמו הנחש שמחדד לשונו בשבא לנשוך, <i>Acuerunt linguam\nsuam ad maledicendum, ut serpens linguam suam exacuit, cum ad morsum se parat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Kimchius</i> in haec verba <i>Psalmi 140. Acuerunt linguam suam ut serpens</i> חדדו\nלשונם לדבר רעות כמו הנחש שמחדד לשונו בשבא לנשוך, <i>Acuerunt linguam\nsuam ad maledicendum, ut serpens linguam suam exacuit, cum ad morsum se parat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Secundus locus est <i>Esa. XXX, 6.</i> ubi inter <i>Aegyptias</i> feras censentur אפעה\nושרף מעופף, <i>ephe et hydrus volans.</i> Nempe ut serpentum omne genus, ita et-\niam viperas magno numero alit <i>Aegyptus.</i> <i>Ammianus</i> lib. 22. <i>Serpentes quoque</i>\nAegyptus <i>alit innumeras, ultra omnem perniciem saevientes, basiliscos, et amphis-\nbaenas, et scytalas, et acontias, et dipsadas, et viperas.</i> Quin <i>Aegyptiis</i> vipe-\nris aliquid est peculiare. Proinde illas <i>Bellonius</i> speciatim describit <i>Singularium</i>\nlib. 2. cap. 54.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Secundus locus est <i>Esa. XXX, 6.</i> ubi inter <i>Aegyptias</i> feras censentur אפעה\nושרף מעופף, <i>ephe et hydrus volans.</i> Nempe ut serpentum omne genus, ita et-\niam viperas magno numero alit <i>Aegyptus.</i> <i>Ammianus</i> lib. 22. <i>Serpentes quoque</i>\nAegyptus <i>alit innumeras, ultra omnem perniciem saevientes, basiliscos, et amphis-\nbaenas, et scytalas, et acontias, et dipsadas, et viperas.</i> Quin <i>Aegyptiis</i> vipe-\nris aliquid est peculiare. Proinde illas <i>Bellonius</i> speciatim describit <i>Singularium</i>\nlib. 2. cap. 54."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertius locus est <i>Esa. LIX, 5. Qui comedit ex ovis eorum, morietur;</i>\nוהזורה תבקע אפעה, <i>et quod compressum est</i>, ex eo <i>erumpet ephe</i>, seu <i>vipera.</i>\n<i>Quod compressum est</i>] Hebraice הזורה hic de ovo dicitur: ut <i>Iob. XXXIX, 18.</i>\nde struthionis ovo; <i>Obliviscitur fore, ut pes</i> תזורה <i>comprimat illud, et bestia agri\nconculcet illud.</i> Objicies, viperae ova non posse tribui; quia vipera non est ὠο-\nτόκος, <i>ovipara</i>, sed ζωοτόκος, <i>vivipara:</i> quod jam obiter docuimus. Et di-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertius locus est <i>Esa. LIX, 5. Qui comedit ex ovis eorum, morietur;</i>\nוהזורה תבקע אפעה, <i>et quod compressum est</i>, ex eo <i>erumpet ephe</i>, seu <i>vipera.</i>\n<i>Quod compressum est</i>] Hebraice הזורה hic de ovo dicitur: ut <i>Iob. XXXIX, 18.</i>\nde struthionis ovo; <i>Obliviscitur fore, ut pes</i> תזורה <i>comprimat illud, et bestia agri\nconculcet illud.</i> Objicies, viperae ova non posse tribui; quia vipera non est ὠο-\nτόκος, <i>ovipara</i>, sed ζωοτόκος, <i>vivipara:</i> quod jam obiter docuimus. Et di-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "R 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "R 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "serte",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "serte"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1780,
+    1643
+   ],
+   [
+    1780,
+    1165
+   ]
+  ],
+  "input_tokens": 8359,
+  "output_tokens": 1746,
+  "cost_usd": 0.0684,
+  "seconds": 25.4,
+  "vote": "0 decisions from v3-126-194"
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "164 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "164 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "latuisse, idem probat ex ipsius <i>Orphei</i> verbis in opere <i>De lapidibus</i> (quod tamen\nopus <i>Timocli Syracusano</i> cum <i>Suida</i> tribuere malim),",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "latuisse, idem probat ex ipsius <i>Orphei</i> verbis in opere <i>De lapidibus</i> (quod tamen\nopus <i>Timocli Syracusano</i> cum <i>Suida</i> tribuere malim),"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ῥοῖζόν τε στῆσαι χαμαὶ ἐρχομένοιο δράκοντος,\nΕἴσεται, ἠδ' ὄφεων ἰὸν σβέσαι ἑρπυστήρων·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ῥοῖζόν τε στῆσαι χαμαὶ ἐρχομένοιο δράκοντος,\nΕἴσεται, ἠδ' ὄφεων ἰὸν σβέσαι ἑρπυστήρων·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Stridoremque sistere humi venientis draconis sciet, et serpentum repentium venenum</i>\n(aut vero <i>jaculum</i>) <i>exstinguere.</i> Haec verba ideo profero libentius, quia ad ea\n<i>Paulus</i> palam alludit <i>Ephes. VI, 16.</i> Illa porro reperias in proëmio operis Περὶ ⟦p. 387⟧\nλίθων, sed corrupta. Nam pro ῥοῖζόν τε στῆσαι, metro et sensu repugnante, no-\nstrae editiones habent Ῥοιζῶντες, καὶ, etc. Eodem pertinet, quod <i>Apollonii Argo-\nnauticῶn</i> libri quarti versu 147. <i>Medea</i> legitur",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Stridoremque sistere humi venientis draconis sciet, et serpentum repentium venenum</i>\n(aut vero <i>jaculum</i>) <i>exstinguere.</i> Haec verba ideo profero libentius, quia ad ea\n<i>Paulus</i> palam alludit <i>Ephes. VI, 16.</i> Illa porro reperias in proëmio operis Περὶ ⟦p. 387⟧\nλίθων, sed corrupta. Nam pro ῥοῖζόν τε στῆσαι, metro et sensu repugnante, no-\nstrae editiones habent Ῥοιζῶντες, καὶ, etc. Eodem pertinet, quod <i>Apollonii Argo-\nnauticῶn</i> libri quarti versu 147. <i>Medea</i> legitur"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἡδείῃ ἐνοπῇ θέλξαι τέρας,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡδείῃ ἐνοπῇ θέλξαι τέρας,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>suavi voce mulsisse monstrum</i>, id est, draconem, velleris aurei custodem. Pro-\ninde sequitur non multo post,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>suavi voce mulsisse monstrum</i>, id est, draconem, velleris aurei custodem. Pro-\ninde sequitur non multo post,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — αὐτὰρ ὅ γ' ἤδη\nΟἴμῃ θελγόμενος δολιχὴν ἀναλύετ᾽ ἄκανθαν,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — αὐτὰρ ὅ γ' ἤδη\nΟἴμῃ θελγόμενος δολιχὴν ἀναλύετ᾽ ἄκανθαν,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hujus igitur cantu deliniti longa spina resoluta est.</i> At <i>Ovidius</i> idem <i>Iasoni</i> tri-\nbuens libro septimo <i>Metamorphoseως,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hujus igitur cantu deliniti longa spina resoluta est.</i> At <i>Ovidius</i> idem <i>Iasoni</i> tri-\nbuens libro septimo <i>Metamorphoseως,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hunc postquam sparsit</i> Lethaei <i>gramine succi,</i>\n<i>Verbaque ter dixit placidos facientia somnos.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hunc postquam sparsit</i> Lethaei <i>gramine succi,</i>\n<i>Verbaque ter dixit placidos facientia somnos.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ad id ipsum magiae genus alludunt haec <i>Platonis</i> libro secundo <i>De Republica,</i>\nΘρασύμαχος φαίνεται ὑπό σου ὥσπερ ὄφις κηληθῆναι· Thrasymachus <i>videtur a\nte ut serpens delinitus.</i> Sed disertiora qui volet, in fine <i>Mirabilium</i>, quae <i>Ari-\nstoteli</i> tribuuntur [cap. CLXII.], longam historiam legat de serpente, <i>sacro</i> dicto,\nmagae <i>Thessalae</i> carminibus exanimato. Quale est, quod serpentum morsibus\n<i>Indos</i> ἐπῳδοῖς <i>Alexandri</i> comes, <i>Nearchus</i>, et tibicines <i>Theophrastus</i> mederi\ntradunt: ille apud <i>Strabonem</i> libro decimo quinto; hic <i>Gellii</i> libri quarti capite\ndecimo tertio. Et quod sub <i>Lagi</i> filio scripsit <i>Antigonus, Psyllos,</i> ab aspidibus\nictos, nihil pati, <i>Mirabilium</i> capite decimo nono.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ad id ipsum magiae genus alludunt haec <i>Platonis</i> libro secundo <i>De Republica,</i>\nΘρασύμαχος φαίνεται ὑπό σου ὥσπερ ὄφις κηληθῆναι· Thrasymachus <i>videtur a\nte ut serpens delinitus.</i> Sed disertiora qui volet, in fine <i>Mirabilium</i>, quae <i>Ari-\nstoteli</i> tribuuntur [cap. CLXII.], longam historiam legat de serpente, <i>sacro</i> dicto,\nmagae <i>Thessalae</i> carminibus exanimato. Quale est, quod serpentum morsibus\n<i>Indos</i> ἐπῳδοῖς <i>Alexandri</i> comes, <i>Nearchus</i>, et tibicines <i>Theophrastus</i> mederi\ntradunt: ille apud <i>Strabonem</i> libro decimo quinto; hic <i>Gellii</i> libri quarti capite\ndecimo tertio. Et quod sub <i>Lagi</i> filio scripsit <i>Antigonus, Psyllos,</i> ab aspidibus\nictos, nihil pati, <i>Mirabilium</i> capite decimo nono."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hujus porro fascini multa genera. Aliis enim serpentes manu et tactu fa-\nscinare moris erat. <i>Virgilius</i> libro septimo <i>Aeneidos</i>, versu 754.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hujus porro fascini multa genera. Aliis enim serpentes manu et tactu fa-\nscinare moris erat. <i>Virgilius</i> libro septimo <i>Aeneidos</i>, versu 754."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Spargere qui somnos cantuque manuque solebat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Spargere qui somnos cantuque manuque solebat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Silius. Italicus</i> libri primi versu 411.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Silius. Italicus</i> libri primi versu 411."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec non serpentes diro exarmare veneno</i>\n<i>Doctus</i> Atyr, <i>tactuque graves sopire chelydros.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec non serpentes diro exarmare veneno</i>\n<i>Doctus</i> Atyr, <i>tactuque graves sopire chelydros.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1797,
+    1116
+   ],
+   [
+    1797,
+    1676
+   ]
+  ],
+  "input_tokens": 8395,
+  "output_tokens": 1702,
+  "cost_usd": 0.0676,
+  "seconds": 21.7,
+  "vote": "1 decisions from v3-126-194"
+ }
+}

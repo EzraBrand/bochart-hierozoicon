@@ -31,6 +31,8 @@ CHUNK_CHARS = 5000
 # Page joins checked by eye on the scans (logs/qa_v2-408-429.csv), 01-Nov-2026.
 # the fixed bird names of tranche 7 (vol. 3, pp. 1-124: the rest of the unclean birds), for every chapter of it
 _T7 = '"accipiter" -> "hawk"; "aquila" -> "eagle"; "vultur" -> "vulture"; "milvus" -> "kite"; "falco" -> "falcon"; "bubo" -> "eagle owl"; "noctua" -> "little owl"; "ulula" -> "owl"; "nycticorax" -> "night raven"; "onocrotalus", "porphyrio", "cepphus", "catarrhactes", "charadrius" -> the name is kept; "larus" -> "gull"; "pelicanus"/"pelecanus" -> "pelican"; "ardea" -> "heron"; "ciconia" -> "stork"; "upupa" -> "hoopoe"; "struthio" -> "ostrich"; "corvus" -> "raven"; "ibis" -> "ibis"; '
+# the fixed serpent names of tranche 8 (vol. 3, pp. 125-193: Book 3, the serpents, chs. 1-10), for every chapter of it
+_T8 = '"serpens" -> "serpent"; "anguis" -> "snake"; "coluber" -> "snake"; "vipera"/"echidna" -> "viper"; "aspis" -> "asp"; "basiliscus" -> "basilisk"; "regulus" -> "regulus" (the name is kept: Bochart gives it beside basiliscus); "draco" -> "dragon"; "cerastes", "dipsas", "amphisbaena", "hydrus", "chersydrus", "haemorrhous", "acontias", "dryinus", "seps", "prester" -> the name is kept; "venenum"/"virus" -> "poison" (never "venom" for one and "poison" for the other in one passage); "theriaca" -> "theriac"; '
 ENTRIES = {
     "shafan": {"vol": 2, "pages": list(range(409, 430)),
                "title": "Book 3, chapter 33: Saphan is not the rabbit but a kind of larger mouse (vol. 2, pp. 409–429)",
@@ -524,6 +526,58 @@ ENTRIES = {
         "start": r"^CAP\.\s*XXXIII\.", "end": r"^CAP\.\s*XXXIV\.", "first_col": 352,
         "about": 'the chapter that closes the book of the unclean birds: their number and their general marks, from Maimonides, On Forbidden Foods, and the Talmud, and how the fathers and others referred the prohibition to morals',
         "terms": _T7 + '"immundus" -> "unclean"; "mundus" -> "clean"; "ingluvies" -> "crop"; "ventriculus" -> "gizzard" (where it is the bird\'s second stomach); "digitus" -> "toe" (of a bird);'},
+    # Tranche 8, 16-Nov-2026: Part 2, Book 3 (the serpents), chs. 1-10, vol. 3, pp. 125-193 (ch. 11, the kippoz, begins
+    # on p. 194). Drafted by draft_entries.py from the heads in the voted OCR. All steps ran synchronously.
+    "ephe": {"no_id": {"Schultens": 99}, "vol": 3, "pages": list(range(125, 139)),
+        "title": 'Part 2, Book 3, chapter 1: Ephe is the viper (vol. 3, pp. 125–138)',
+        "start": r"^CAP\.\s*I\.", "end": r"^CAP\.\s*II\.", "first_col": 357,
+        "about": 'the chapter that opens the book of the serpents with the list of their Hebrew names and argues that אפעה (ephe) of Job 20:16, Isa 30:6 and Isa 59:5 is the viper, the Arabic افعي; long quotations from Avicenna and Damir',
+        "terms": _T8 + '"ephe" and "alephe"/"alaphai" stay as printed;'},
+    "vipera-pauli": {"no_id": {"Erasmus": 1}, "vol": 3, "pages": list(range(138, 150)),
+        "title": 'Part 2, Book 3, chapter 2: On the viper of Paul, and why the Pharisees are called a brood of vipers (vol. 3, pp. 138–149)',
+        "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.", "first_col": 367,
+        "about": 'the chapter on the viper that fastened on the hand of Paul in Malta (Acts 28:3-6) and on why John and Christ call the Pharisees γεννήματα ἐχιδνῶν, a brood of vipers (Matt 3:7, 12:34, 23:33)',
+        "terms": _T8 + '"progenies viperarum" -> "brood of vipers"; "sarmenta" -> "brushwood";'},
+    "chephir-sachal": {"vol": 3, "join_notes": [151], "pages": list(range(149, 155)),
+        "title": 'Part 2, Book 3, chapter 3: Chephir and sachal are names not only of lions, as is commonly held, but also of serpents (vol. 3, pp. 149–154)',
+        "start": r"^CAP\.\s*III\.", "end": r"^CAP\.\s*IV\.", "first_col": 375,
+        "about": 'the chapter arguing that כפיר (chephir) and שחל (sachal), commonly names of the lion, are in Ps 91:13 (and sachal in Job 4:10, 28:8) also names of serpents',
+        "terms": _T8 + '"chephir" and "sachal" stay as printed; "leo" -> "lion";'},
+    "achsub": {"vol": 3, "pages": list(range(154, 157)),
+        "title": 'Part 2, Book 3, chapter 4: Achsub is the asp (vol. 3, pp. 154–156)',
+        "start": r"^CAP\.\s*IV\.", "end": r"^CAP\.\s*V\.", "first_col": 379,
+        "about": 'the short chapter arguing that עכשוב (achsub) of Ps 140:4 is the asp, against the spider of the Chaldee',
+        "terms": _T8 + '"achsub" stays as printed; "aranea" -> "spider";'},
+    "pethen": {"no_id": {"Pococke": 1}, "vol": 3, "pages": list(range(156, 162)),
+        "title": 'Part 2, Book 3, chapter 5: Pethen is the asp (vol. 3, pp. 156–161)',
+        "start": r"^CAP\.\s*V\.", "end": r"^CAP\.\s*VI\.", "first_col": 380,
+        "about": 'the chapter arguing that פתן (pethen) of Deut 32:33, Job 20:14.16, Ps 58:5, Ps 91:13 and Isa 11:8 is the asp, from its incurable poison and its size, with the Greek name Python',
+        "terms": _T8 + '"pethen" and "pethanim" stay as printed;'},
+    "aspis-surda": {"vol": 3, "pages": list(range(161, 178)),
+        "title": 'Part 2, Book 3, chapter 6: On the deaf asp, which is said to stop its ear so as not to hear the voice of the charmers (Ps 58:5–6) (vol. 3, pp. 161–177)',
+        "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.", "first_col": 384,
+        "about": 'the chapter on the deaf asp of Ps 58:5-6 that stops its ear against the voice of the charmers: the charming of serpents in Greek, Latin, Hebrew and Arabic writers, and the senses in which the asp is called deaf',
+        "terms": _T8 + '"incantator" -> "charmer"; "incantare" -> "to charm"; "incantatio" -> "charm" or "incantation"; "surdus" -> "deaf"; "Psylli" and "Marsi" stay;'},
+    "tseboa-serpens": {"vol": 3, "pages": list(range(177, 181)),
+        "title": 'Part 2, Book 3, chapter 7: Tseboa is the varied serpent that the Greeks and the Egyptians called hyaena (vol. 3, pp. 177–180)',
+        "start": r"^CAP\.\s*VII\.", "end": r"^CAP\.\s*VIII\.",
+        "about": 'the chapter arguing that the valley of Tseboim of 1 Sam 13:18 is named from צבוע (tseboa), a spotted serpent that the Greeks and the Egyptians called hyaena',
+        "terms": _T8 + '"tseboa", "bardales", "nephriza" and "nephreza" stay as printed; "hyaena" -> "hyaena"; "varius" -> "varied" or "spotted";'},
+    "tsimmaon": {"vol": 3, "pages": list(range(180, 183)),
+        "title": 'Part 2, Book 3, chapter 8: Tsimmaon is not the dipsas, as some render after Jerome, but a thirsty place (Deut 8:15) (vol. 3, pp. 180–182)',
+        "start": r"^CAP\.\s*VIII\.", "end": r"^CAP\.\s*IX\.", "first_col": 397,
+        "about": 'the chapter arguing that צמאון (tsimmaon) of Deut 8:15 is not the serpent dipsas, as Jerome has it, but a thirsty place',
+        "terms": _T8 + '"tsimmaon" stays as printed; "siticulosus locus" -> "thirsty place";'},
+    "tsepha": {"no_id": {"Schultens": 99}, "vol": 3, "pages": list(range(182, 188)),
+        "title": 'Part 2, Book 3, chapter 9: Tsepha, or tsiphoni, is the regulus, or basilisk (vol. 3, pp. 182–187)',
+        "start": r"^CAP\.\s*IX\.", "end": r"^CAP\.\s*X\.",
+        "about": 'the chapter arguing that צפע (tsepha) and צפעני (tsiphoni) of Prov 23:32, Isa 11:8, 14:29, 59:5 and Jer 8:17 are the regulus or basilisk, from the hiss and the burning poison that the name means',
+        "terms": _T8 + '"tsepha", "tsiphoni" and "hurman"/"harmene" stay as printed;'},
+    "basilisci-loca": {"no_id": {"Michaelis": 1}, "vol": 3, "join_notes": [192], "pages": list(range(187, 195)),
+        "title": 'Part 2, Book 3, chapter 10: Five passages of Scripture on the basilisk are explained (vol. 3, pp. 187–193)',
+        "start": r"^CAP\.\s*X\.", "end": r"^CAP\.\s*XI\.", "first_col": 402,
+        "about": 'the chapter that explains the five passages of Scripture on the basilisk (צפעני): Prov 23:32, Isa 11:8, Isa 14:29, Isa 59:5 and Jer 8:17',
+        "terms": _T8 + '"tsepha" and "tsiphoni" stay as printed; "caverna" -> "den";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -750,6 +804,40 @@ FIXES = {
     (3, 109): [('quibus רוכיפת est', 'quibus דוכיפת est'), ('nomine רוכיפת', 'nomine דוכיפת')],
     (3, 111): [('Ἄστη', 'Ἀστῆ')],
     (3, 121): [('לרעתם', 'לדעתם')],
+    # tranche 8 (vol. 3, pp. 126-194; scan check 16-Nov-2026): the print differs from the vote's text. Not certain: the
+    # Syriac of pp. 127, 167 and 181, the Arabic themes of p. 186 (سفع, as on p. 184) and the two words of p. 185.
+    (3, 127): [('ܚܘܝܐ', 'ܚܘܝܘܢܐ'), ('متمعط', 'متعط')],
+    (3, 128): [('Arabum افعي haud', 'Arabum أفعي haud')],
+    (3, 135): [('λεῖαι,', 'λείαι,')],
+    (3, 143): [('τοῦτου', 'τούτου')],
+    (3, 146): [('Πίμπρατα,', 'Πίμπραται,')],
+    # p. 150: the Syriac of Ps 91:13 has garsa (the same word, with "amphisbaena", stands on p. 182)
+    (3, 150): [('ܥܠ ܐܦܥܐ ܘܥܠ', 'ܥܠ ܓܪܣܐ ܘܥܠ'), ('Syro ܐܦܥܐ,', 'Syro ܓܪܣܐ,')],
+    (3, 155): [('facit *).', 'facit ^{*)}.')],
+    (3, 156): [('pethen</i> *).', 'pethen</i> ^{*)}.')],
+    (3, 158): [('ἐστιν,', 'ἔστιν,')],
+    # p. 159: two phrases stood in the order of the eye (left to right), not of the script
+    (3, 159): [('θώ,', 'θὼ,'), ('ܕܬܢܝܢܐ ܡܪܪܬܐ,', 'ܡܪܪܬܐ ܕܬܢܝܢܐ,'), ('علي الثنانين اصناف اصغر', 'اصغر اصناف الثنانين علي')],
+    (3, 162): [('189.[?]:', '189.:')],
+    (3, 164): [('ἐπῳδοῖς', 'ἐπῳδοὺς')],
+    (3, 166): [('171 – 175.', '171 - 175.')],
+    (3, 167): [('ܡܚܒܪܐ', 'ܝܕܘܥܐ')],
+    (3, 169): [('שה׳', 'שח׳')],
+    (3, 171): [('אוזנו', 'אזנו')],
+    (3, 172): [('ὄν,', 'οὖν,')],
+    (3, 173): [('الا صلة', 'الاصله')],
+    (3, 178): [('נפריזא <i>nephriza,</i> vel', 'נפרזא <i>nephriza,</i> vel'), ('et נפריזא', 'et נפרזא')],
+    (3, 179): [('scribunt *).', 'scribunt ^{*)}.')],
+    (3, 181): [('Syrus, ܒܝܬ ܨܗܘܬܐ,', 'Syrus, ܒܝܬ ܨܗܘܢܐ,'), ('<i>Syro</i>, ܒܝܬ ܨܗܘܬܐ,', '<i>Syro</i>, ܒܝܬ ܨܗܘܢܐ,')],
+    (3, 182): [('ܦܬܢܐ,', 'ܐܣܦܣ,'), ('ܥܩܪܒܐ,', 'ܓܪܣܐ,')],
+    (3, 185): [('سمرط vel صمرط,', 'مسمرط vel مصمرط,'), ('تصفقها', 'تصفعها'), ('Thema\nصقع, atque cum سقع', 'Thema\nصفع, atque cum سفع')],
+    (3, 186): [('سمغ et صمغ', 'سفع et صفع')],
+    (3, 187): [('ארם', 'אדם')],
+    (3, 191): [('σόματι', 'στόματι'), ('ρπης', 'ρπηστ')],
+    (3, 192): [('βασιλισκοι,', 'βασιλίσκου,')],
+    # spot-check of tranche 8: salich (the print has يسلخ two lines above; the word itself was not read again on the
+    # scan); the themes of the note are those of p. 184 (سفع); the στ ligature
+    (3, 153): [('اسود شالخ', 'اسود سالخ')],
     # spot-check of tranche 7: medial ف/ق read غ (the same shape in this type); Bochart's alchopphas, Alkik and flavo decide
     (3, 40): [('الغيق طاير', 'القيق طاير')],
     (3, 50): [('يكون\nاصغر عدو', 'يكون\nاصفر عدو')],
@@ -804,7 +892,7 @@ def gold_blocks(path: Path, ocr: dict) -> list[dict]:
 
 # The letter or number of a footnote, where the OCR read it wrong (14-Nov-2026; FIXES changes only the text).
 # p. 806: Rosenmüller's one note with an asterisk, at the end of ch. 12, is given the number 0 (shown as R0).
-MARKERS = {(847, "h)"): "b)", (868, "c)"): "e)", (869, "d)"): "f)", (806, "(*)"): "(0)"}
+MARKERS = {(847, "h)"): "b)", (868, "c)"): "e)", (869, "d)"): "f)", (806, "(*)"): "(0)", ((3, 184), "1)"): "(1)"}
 
 
 def page_blocks(vol: int, page: int) -> list[dict]:

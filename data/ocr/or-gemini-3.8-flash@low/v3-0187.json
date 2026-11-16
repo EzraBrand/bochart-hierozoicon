@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. Explicantur loca V. Scripturae de Bafilifco. 187",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. Explicantur loca V. Scripturae de Bafilifco. 187"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. X.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. X."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Explicantur loca quinque Scripturae de Bafilifco.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Explicantur loca quinque Scripturae de Bafilifco.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Iam, si libet percurrere Scripturae loca de hoc serpente, Primus est, <i>Prov.</i> ⟦p. 403.⟧\n<i>XXIII</i>, 32. ubi de vino dicit Solomon, <i>Ultimum ejus ut serpens mordet</i>,\nוכצפעני יפרש, <i>et ut tsiphoni</i> (seu <i>basiliscus</i>) <i>pungit</i>. Non ut <i>Tatiano</i> faveat,\net <i>Encratitis</i>, et <i>Manichaeis</i>, qui vinum appellabant <i>fel draconis</i>, et <i>venenum an-</i>\n<i>tiqui serpentis</i>, et ab eo abstinebant etiam in sacra coena. Neque enim hic vini\nusus, sed abusus damnatur. Deus vino <i>laetificat cor hominis</i>, Psal<i>m.</i> CIV, 15.\nAdeoque vinum tam ipsum <i>Deum quam homines exhilarare</i> dicitur <i>Iud.</i> IX, 13.\nIn sacrificiis scilicet, ad quae adhibebatur <i>Exod.</i> XXIX, 40. et <i>Num.</i> XV, 5.\nQuamvis eo loco nomine אלהים <i>elohim</i>, pro vero <i>Deo</i>, nonnulli <i>judices et ma-</i>\n<i>gnates</i> significari velint: ut <i>Exod.</i> XXI, 6. et XXII, 8. 9. 28. et <i>Pfal.</i> LXXXII,\n6. Quibus opponantur אנשים, <i>homines</i>, id est, <i>plebeii</i>. Quomodo <i>Gen.</i> VI,\n2. <i>filiis Dei</i> opponuntur <i>filii hominum</i>; et <i>Pfal.</i> LXXXII, 6. 7. אדם (id est,\n<i>homo</i>) <i>Diis et filiis excelsi</i>. Ut sensus sit, vini potu divites et pauperes, principes\net subditos, judices et clientes ex aequo exhilarari. Quod ipsissimum de vino\ndicit primus <i>Darii</i> satellitum 3 <i>Efdr.</i> III, 19. 20. Utut sit, vini proventus Dei\nbonitati et liberalitati adscribitur, <i>Ierem.</i> XXXI, 12. et <i>Of.</i> II, 8. Et promittitur\n<i>Ifraelitis pluvia tempestiva et serotina, ut colligant frumentum et vinum</i>, Deut.\nXI, 14. Atque uvae botrus, in desertum allatus, iis fuit pro specimine fertilitatis\nterrae <i>Chanaan</i>, <i>Num.</i> XIII, 24. Nec dicendum, quod sub Lege promissum et\npermissum fuerat, sub Evangelio fuisse prohibitum; cum <i>Christus</i>, ad nuptias\ninvitatus, aquam in vinum mutaverit, quod convivis offerretur, <i>Ioh.</i> II, 8. At-\nque ipse cum <i>Apostolis</i> vinum multoties biberit, adeoque in ultima illa coena\nconsecraverit, ut esset toti ecclesiae sanguinis sui sacramentum. Quid, quod\n<i>Timotheo Paulus</i> usum vini commendat <i>propter stomachum</i>, 1 Tim. V, 23. Sed\nres, in se bona, hic damnatur propter ebrietatis mala. Quae si quis non perpen-\ndit satis, cum <i>Lacedaemoniorum</i> pueris in ebrio homine vultum turbatum spectet,\net titubantes pedes, et linguam balbutientem, et gestus incompositos, et ratio-\nnem caecutientem, ac de sua sede motam. Cogitet idem helluonum lippientes\noculos, nasum, bile suffusum, dentes putridos, foetentem halitum, membra\ntremula, et abdomen, arvina distentum; ut paralysim taceam, et podagram, et\nvertiginem, et convulsiones, et lethargum, et apoplexiam, et mille morborum\nexamina, qui, quantumlibet graves, plus tamen infamiae, quam doloris affe-\nrunt: quia non sunt fortuiti, sed accersiti; nec infirmitati naturae tribuuntur,\nsed intemperantiae viribus. Praeterea cum potu suffocatur ratio, accenduntur\npravi affectus. Unde <i>Solomon Prov.</i> XX, 1. <i>Luxuriosa res vinum et tumultuosa</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam, si libet percurrere Scripturae loca de hoc serpente, Primus est, <i>Prov.</i> ⟦p. 403.⟧\n<i>XXIII</i>, 32. ubi de vino dicit Solomon, <i>Ultimum ejus ut serpens mordet</i>,\nוכצפעני יפרש, <i>et ut tsiphoni</i> (seu <i>basiliscus</i>) <i>pungit</i>. Non ut <i>Tatiano</i> faveat,\net <i>Encratitis</i>, et <i>Manichaeis</i>, qui vinum appellabant <i>fel draconis</i>, et <i>venenum an-</i>\n<i>tiqui serpentis</i>, et ab eo abstinebant etiam in sacra coena. Neque enim hic vini\nusus, sed abusus damnatur. Deus vino <i>laetificat cor hominis</i>, Psal<i>m.</i> CIV, 15.\nAdeoque vinum tam ipsum <i>Deum quam homines exhilarare</i> dicitur <i>Iud.</i> IX, 13.\nIn sacrificiis scilicet, ad quae adhibebatur <i>Exod.</i> XXIX, 40. et <i>Num.</i> XV, 5.\nQuamvis eo loco nomine אלהים <i>elohim</i>, pro vero <i>Deo</i>, nonnulli <i>judices et ma-</i>\n<i>gnates</i> significari velint: ut <i>Exod.</i> XXI, 6. et XXII, 8. 9. 28. et <i>Pfal.</i> LXXXII,\n6. Quibus opponantur אנשים, <i>homines</i>, id est, <i>plebeii</i>. Quomodo <i>Gen.</i> VI,\n2. <i>filiis Dei</i> opponuntur <i>filii hominum</i>; et <i>Pfal.</i> LXXXII, 6. 7. אדם (id est,\n<i>homo</i>) <i>Diis et filiis excelsi</i>. Ut sensus sit, vini potu divites et pauperes, principes\net subditos, judices et clientes ex aequo exhilarari. Quod ipsissimum de vino\ndicit primus <i>Darii</i> satellitum 3 <i>Efdr.</i> III, 19. 20. Utut sit, vini proventus Dei\nbonitati et liberalitati adscribitur, <i>Ierem.</i> XXXI, 12. et <i>Of.</i> II, 8. Et promittitur\n<i>Ifraelitis pluvia tempestiva et serotina, ut colligant frumentum et vinum</i>, Deut.\nXI, 14. Atque uvae botrus, in desertum allatus, iis fuit pro specimine fertilitatis\nterrae <i>Chanaan</i>, <i>Num.</i> XIII, 24. Nec dicendum, quod sub Lege promissum et\npermissum fuerat, sub Evangelio fuisse prohibitum; cum <i>Christus</i>, ad nuptias\ninvitatus, aquam in vinum mutaverit, quod convivis offerretur, <i>Ioh.</i> II, 8. At-\nque ipse cum <i>Apostolis</i> vinum multoties biberit, adeoque in ultima illa coena\nconsecraverit, ut esset toti ecclesiae sanguinis sui sacramentum. Quid, quod\n<i>Timotheo Paulus</i> usum vini commendat <i>propter stomachum</i>, 1 Tim. V, 23. Sed\nres, in se bona, hic damnatur propter ebrietatis mala. Quae si quis non perpen-\ndit satis, cum <i>Lacedaemoniorum</i> pueris in ebrio homine vultum turbatum spectet,\net titubantes pedes, et linguam balbutientem, et gestus incompositos, et ratio-\nnem caecutientem, ac de sua sede motam. Cogitet idem helluonum lippientes\noculos, nasum, bile suffusum, dentes putridos, foetentem halitum, membra\ntremula, et abdomen, arvina distentum; ut paralysim taceam, et podagram, et\nvertiginem, et convulsiones, et lethargum, et apoplexiam, et mille morborum\nexamina, qui, quantumlibet graves, plus tamen infamiae, quam doloris affe-\nrunt: quia non sunt fortuiti, sed accersiti; nec infirmitati naturae tribuuntur,\nsed intemperantiae viribus. Praeterea cum potu suffocatur ratio, accenduntur\npravi affectus. Unde <i>Solomon Prov.</i> XX, 1. <i>Luxuriosa res vinum et tumultuosa</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Aa 2 ebrietas:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aa 2 ebrietas:"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1726,
+    1471
+   ],
+   [
+    1726,
+    1353
+   ]
+  ],
+  "input_tokens": 3387,
+  "output_tokens": 1292,
+  "cost_usd": 0.0074,
+  "seconds": 12.6
+ }
+}

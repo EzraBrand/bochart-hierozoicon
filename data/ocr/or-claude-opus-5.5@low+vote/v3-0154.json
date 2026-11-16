@@ -1,0 +1,135 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "154 <i>Probatur,</i> עכשוב <i>esse Aspidem.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "154 <i>Probatur,</i> עכשוב <i>esse Aspidem.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. IV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur,</i> עכשוב achsub <i>esse Aspidem.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur,</i> עכשוב achsub <i>esse Aspidem.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quaeritur, quid sit עכשוב <i>achsub</i>, in his <i>Psal. CXL</i>, 4. חמת עכשוב תחת\nשפתימו, <i>Venenum</i> achsub <i>sub labiis eorum.</i> <i>Chaldaeus</i> exponit, אורסא\nדעכוביתא, <i>venenum araneae</i>, quasi עכשוב κατ᾽ ἀναγραμματισμὸν sit idem,\nquod עכביש. <i>Arabs</i> سم الافاعي, <i>venenum viperarum.</i> Alii <i>venenum aspi-\ndis:</i> quibus assentior potius, quia, praeter <i>Graecos</i> interpretes, et <i>Latinum</i>, et\n<i>Syrum</i>, et <i>Apollinarem</i>, et <i>Hieronymum</i>, et ex <i>Hebraeis Kimchium</i>, <i>Mardo-\nchaeum</i>, et <i>Pomarium</i>, insuper <i>Paulum, Apostolum</i>, suffragatorem habent, qui\n<i>Psaltis</i> verba sic effert <i>Roman. III, 13.</i> Ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν. Vi-\nderi possit עכשוב <i>achsub</i> alludere ad vocem עכס <i>eches</i>, quam alii <i>serpentis vene-\nnum</i>, alii <i>viperae</i> speciem explicant. Prius his verbis asserit <i>Rabbi Selomo</i> in <i>Esa.\nIII, 16.</i> עכס הוא ארס של נחש, Eches <i>est venenum serpentis.</i> Posterius auctor\n<i>Mechiltae</i>, ex quo <i>Aquinas</i>, עכס הוא מין אפעה שכשרואה העוף פורח באויר\nיתחבר אל צלו ואיבריו נושרין וזהו צלמות צל ועמו מות, Eches <i>est viperae\nspecies, quae, cum avem volantem videt, consociatur umbrae ejus, et pennae ejus\ndefluunt, et haec est umbra mortis, seu umbra mortifera.</i> Sed uterque fallitur.\nNam עכס <i>eches</i> nihil quidquam est, quam <i>Graecum</i> ἔχις, id est, <i>vipera mas.</i>\nNeque illam vocem <i>Graeci</i> ex <i>Hebraeis</i>, sed <i>Hebraei</i> recentiores ex <i>Graecis</i> mu-\ntuati sunt. Itaque nugatur, quisquis עכשוב <i>achsub</i>, vocem vere <i>Hebraeam</i>, co-\nnatur ad hanc revocare.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quaeritur, quid sit עכשוב <i>achsub</i>, in his <i>Psal. CXL</i>, 4. חמת עכשוב תחת\nשפתימו, <i>Venenum</i> achsub <i>sub labiis eorum.</i> <i>Chaldaeus</i> exponit, אורסא\nדעכוביתא, <i>venenum araneae</i>, quasi עכשוב κατ᾽ ἀναγραμματισμὸν sit idem,\nquod עכביש. <i>Arabs</i> سم الافاعي, <i>venenum viperarum.</i> Alii <i>venenum aspi-\ndis:</i> quibus assentior potius, quia, praeter <i>Graecos</i> interpretes, et <i>Latinum</i>, et\n<i>Syrum</i>, et <i>Apollinarem</i>, et <i>Hieronymum</i>, et ex <i>Hebraeis Kimchium</i>, <i>Mardo-\nchaeum</i>, et <i>Pomarium</i>, insuper <i>Paulum, Apostolum</i>, suffragatorem habent, qui\n<i>Psaltis</i> verba sic effert <i>Roman. III, 13.</i> Ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν. Vi-\nderi possit עכשוב <i>achsub</i> alludere ad vocem עכס <i>eches</i>, quam alii <i>serpentis vene-\nnum</i>, alii <i>viperae</i> speciem explicant. Prius his verbis asserit <i>Rabbi Selomo</i> in <i>Esa.\nIII, 16.</i> עכס הוא ארס של נחש, Eches <i>est venenum serpentis.</i> Posterius auctor\n<i>Mechiltae</i>, ex quo <i>Aquinas</i>, עכס הוא מין אפעה שכשרואה העוף פורח באויר\nיתחבר אל צלו ואיבריו נושרין וזהו צלמות צל ועמו מות, Eches <i>est viperae\nspecies, quae, cum avem volantem videt, consociatur umbrae ejus, et pennae ejus\ndefluunt, et haec est umbra mortis, seu umbra mortifera.</i> Sed uterque fallitur.\nNam עכס <i>eches</i> nihil quidquam est, quam <i>Graecum</i> ἔχις, id est, <i>vipera mas.</i>\nNeque illam vocem <i>Graeci</i> ex <i>Hebraeis</i>, sed <i>Hebraei</i> recentiores ex <i>Graecis</i> mu-\ntuati sunt. Itaque nugatur, quisquis עכשוב <i>achsub</i>, vocem vere <i>Hebraeam</i>, co-\nnatur ad hanc revocare."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed verum ejus etymum mihi videor ex <i>Arabica</i> lingua deprehendere, qua\nعكس <i>achasa</i> est <i>retorquere</i>, et <i>reflectere rem ad principium suum</i>, sive id fiat\nrecta linea, ut in repercussu solis, qui dicitur انعكاس in <i>Avicenna</i> ^{a)},\nsive per circulos et gyros, ut cum, capite ad caudam obverso, serpens in spiram\nse colligit. Hinc <i>Alcamus</i>, تعكس في مشيته مشي مشيا\nالافعي <i>Incessit incessu viperae</i>, id est, in gyrum se convertendo. Forte <i>He-\nbraeis</i> idem fuit עכש, unde עכשוב, litera <i>Beth</i> in fine adscita. Quomodo ex\nכרך, <i>ambire</i>, factum כרכוב, <i>ambitus</i>, Exod. XXVII, 5. Et a <i>Chaldaeo</i> תעל,\n<i>Arabicum</i> ثعلب, <i>vulpes.</i> Et ערבוב, <i>mistio</i>, a Verbo ערב, <i>miscere.</i> Et\nזרבוב, <i>fusorium</i>, a Verbo זרב, <i>fluere.</i> Et si quae alia sunt hujusmodi. Aspi- ⟦p. 380⟧\ndis certe naturae plane convenit hoc nomen; cum, <i>Nicandro</i> teste ^{b)}, soleat κατ᾽\nἐναντίον ἕρπειν, <i>in contrarium serpere</i>, id est, بالعكس ^{c)}. Ut taceam,\nquod idem <i>Nicander</i> pugnantem ita describit versu 166.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed verum ejus etymum mihi videor ex <i>Arabica</i> lingua deprehendere, qua\nعكس <i>achasa</i> est <i>retorquere</i>, et <i>reflectere rem ad principium suum</i>, sive id fiat\nrecta linea, ut in repercussu solis, qui dicitur انعكاس in <i>Avicenna</i> ^{a)},\nsive per circulos et gyros, ut cum, capite ad caudam obverso, serpens in spiram\nse colligit. Hinc <i>Alcamus</i>, تعكس في مشيته مشي مشيا\nالافعي <i>Incessit incessu viperae</i>, id est, in gyrum se convertendo. Forte <i>He-\nbraeis</i> idem fuit עכש, unde עכשוב, litera <i>Beth</i> in fine adscita. Quomodo ex\nכרך, <i>ambire</i>, factum כרכוב, <i>ambitus</i>, Exod. XXVII, 5. Et a <i>Chaldaeo</i> תעל,\n<i>Arabicum</i> ثعلب, <i>vulpes.</i> Et ערבוב, <i>mistio</i>, a Verbo ערב, <i>miscere.</i> Et\nזרבוב, <i>fusorium</i>, a Verbo זרב, <i>fluere.</i> Et si quae alia sunt hujusmodi. Aspi- ⟦p. 380⟧\ndis certe naturae plane convenit hoc nomen; cum, <i>Nicandro</i> teste ^{b)}, soleat κατ᾽\nἐναντίον ἕρπειν, <i>in contrarium serpere</i>, id est, بالعكس ^{c)}. Ut taceam,\nquod idem <i>Nicander</i> pugnantem ita describit versu 166."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Ὁλκῷ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὁλκῷ"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Avic. l. 2. 2. 1. 3. Arab. pag. 40.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Avic. l. 2. 2. 1. 3. Arab. pag. 40.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Theriac. versu 159.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Theriac. versu 159.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Avic. 2. 3. in\nfine, Arab. pag. 118.</i>",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Avic. 2. 3. in\nfine, Arab. pag. 118.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1920,
+    1534
+   ],
+   [
+    1920,
+    1282
+   ]
+  ],
+  "input_tokens": 8864,
+  "output_tokens": 2021,
+  "cost_usd": 0.0759,
+  "seconds": 25.7,
+  "vote": "0 decisions from v3-126-194"
+ }
+}

@@ -61,6 +61,20 @@ workers; `entry.py NAME --effort low` for 5 chapters at a time, 10 minutes for 1
 translation. (8) Medial ف, ق and غ: the readers gave غ for ف five times in one chapter (الخغاش); the romanization
 decides. (9) `logs/linecrop.py` matches a short line by accident: give it a long phrase from the MDZ text.
 
+Tranche 8 (16-Nov-2026, vol. 3 pp. 125-193, Book 3 chs. 1-10): the test batch (4 pages) was not back in 10 minutes, so
+everything ran synchronously with `logs/prepare_sync_t8.sh FIRST LAST` (mdz_ocr, Opus and Flash OCR, check, judge loop,
+vote, qa: 15 minutes for 69 pages) and `entry.py NAME --effort low`, 5 chapters at a time. One hour for the tranche,
+$0.230 a page. The owner's rule (16-Nov-2026): he would rather pay the synchronous price than wait for hours; budget of a
+session $30 at most. Lessons: (1) a batch that is "stuck" does complete hours later and is billed, so a test batch costs
+its price in any case: keep it at 4 pages, and collect its pages the next day with the same `--batch-log` name. (2)
+`--finish-only` reads `en.raw.json`, not the chunks: after `logs/patch_en_t8.py` run `entry.py NAME --effort low` (cached
+chunks, no cost). (3) A FIXES pair for Greek typed by hand can miss the text for a different Unicode form: take a
+short, plain part of the word (`'ρπης' -> 'ρπηστ'`). (4) `logs/ctx_t8.py PAGE PHRASE` prints the voted text around a
+phrase: call it for one page at a time, or the page of a hit is not known. (5) Words of two or more in Syriac or Arabic
+inside a Latin line can come out in the order of the eye (p. 159, twice); the vote lists them as "not similar" pairs
+that swap. (6) `no_id` skips the first n uses: give 99 when every use in the chapter is another person or work. (7) The
+next tranche: Book 3 chs. 11-14, pp. 194-250 (57 pages; pp. 194-211 are fetched), then Book 4 (the insects) from p. 251.
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50

@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. V. <i>Probatur</i>, פתן <i>esse Aspidem.</i> 157",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. V. <i>Probatur</i>, פתן <i>esse Aspidem.</i> 157"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>ex qua faciunt unguentum putrefactivum: et alioqui immedicabiliter,</i> supple <i>mor-\ndet. Plinius</i> lib. 8. cap. 23. <i>Colla aspidum intumescere</i> (vulgatum est) <i>nullo ictus\nremedio, praeterquam si confestim partes contactae amputentur. Aelianus</i> lib. 1.\ncap. 54. Ἀσπίδος δὲ ἀκούω μόνον δῆγμα ἀνίατον εἶναι, καὶ ἐπικουρίας κρεῖττον·\n<i>Aspidis solum morsum immedicabilem esse audio, et omni remedio potentiorem.</i> Et\nlib. 6. cap. 38. Τῶν ὑπ’ ἀσπίδος δηχθέντων οὐ μνημονεύεται οὐδεὶς ἐξάντης γεγο-\nνέναι τοῦ κακοῦ. Ἔνθεν τοι καὶ τοὺς βασιλεῖς ἀκούω τῶν Αἰγυπτίων ἐπὶ τῶν δια-\nδημάτων φορεῖν πεποικιλμένας ἀσπίδας, τῆς ἀρχῆς αἰνιττομένους τὸ ἀνίκητον.\n<i>Eorum, qui ab aspide morsi sunt, nemo a malo</i> (id est, a morte) <i>traditur fuisse\nimmunis. Unde est, quod</i> Aegyptiorum <i>reges in diadematibus pictas aspides fer-\nre audio, ut invictum imperii robur sic significent.</i> Et infra, Οἱ δηχθέντες ὑπ’\nἀσπίδων οὐ περαιτέρω βιοῦσι τετάρτης ὥρας· <i>Qui ab aspidibus morsi sunt, ultra\nquartam horam non vivunt. Phile</i> cap. 59.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ex qua faciunt unguentum putrefactivum: et alioqui immedicabiliter,</i> supple <i>mor-\ndet. Plinius</i> lib. 8. cap. 23. <i>Colla aspidum intumescere</i> (vulgatum est) <i>nullo ictus\nremedio, praeterquam si confestim partes contactae amputentur. Aelianus</i> lib. 1.\ncap. 54. Ἀσπίδος δὲ ἀκούω μόνον δῆγμα ἀνίατον εἶναι, καὶ ἐπικουρίας κρεῖττον·\n<i>Aspidis solum morsum immedicabilem esse audio, et omni remedio potentiorem.</i> Et\nlib. 6. cap. 38. Τῶν ὑπ’ ἀσπίδος δηχθέντων οὐ μνημονεύεται οὐδεὶς ἐξάντης γεγο-\nνέναι τοῦ κακοῦ. Ἔνθεν τοι καὶ τοὺς βασιλεῖς ἀκούω τῶν Αἰγυπτίων ἐπὶ τῶν δια-\nδημάτων φορεῖν πεποικιλμένας ἀσπίδας, τῆς ἀρχῆς αἰνιττομένους τὸ ἀνίκητον.\n<i>Eorum, qui ab aspide morsi sunt, nemo a malo</i> (id est, a morte) <i>traditur fuisse\nimmunis. Unde est, quod</i> Aegyptiorum <i>reges in diadematibus pictas aspides fer-\nre audio, ut invictum imperii robur sic significent.</i> Et infra, Οἱ δηχθέντες ὑπ’\nἀσπίδων οὐ περαιτέρω βιοῦσι τετάρτης ὥρας· <i>Qui ab aspidibus morsi sunt, ultra\nquartam horam non vivunt. Phile</i> cap. 59."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Τῆς ἀσπίδος τὸ δῆγμα δῆγμ’ ἐστι θανάτου.\nΜὴ, μὴ, Γαληνὲ, μηδὲ φάρμακον χέῃς.\n<i>Repente mortem morsus infert aspidis.\nNe, ne,</i> Galene, <i>pharmacum ne infuderis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Τῆς ἀσπίδος τὸ δῆγμα δῆγμ’ ἐστι θανάτου.\nΜὴ, μὴ, Γαληνὲ, μηδὲ φάρμακον χέῃς.\n<i>Repente mortem morsus infert aspidis.\nNe, ne,</i> Galene, <i>pharmacum ne infuderis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quem frustra sibi objicit, cum id abunde confirmetur ipsius <i>Galeni</i> suffragio\nlib. 1. <i>De Theriaca</i> capite 8. ubi de aspidibus haec habet: Πολλάκις ἐθεασάμην\nἐγὼ ἐν τῇ μεγάλῃ Ἀλεξανδρείᾳ τὸ τάχος τοῦ ὑπ’ αὐτοῦ γιγνομένου θανάτου.\nὅταν γάρ τινα, τούτῳ τῷ νόμῳ τῆς κολάσεως κατακριθέντα, φιλανθρώπως\nκαὶ ταχέως ἀποκτεῖναι θέλωσι, προσβάλλοντες αὐτοῦ τοῖς στέρνοις τὸ θηρίον,\nκαὶ ποιήσαντες ὀλίγον περιπατῆσαι, οὕτω ταχέως ἀναιροῦσι τὸν ἄνθρωπον. <i>In\nmagna</i> Alexandriae <i>urbe saepe vidi, quam cito mortem inferant. Quoties enim ali-\nquem, hujus supplicii lege damnatum, humaniter citoque interimere volunt, ad-\nmotam pectori bestiam aliquantulum inambulare jubent, et hominem hac ratione sta-\nstim enecant.</i> Proinde aspides calcare maxime periculosum est. Et <i>Psaltes</i>, ut\nvirum bonum etiam inter hostes infensissimos a Deo servari significet, illum\naspides et dracones ait impune calcaturum, <i>Psal. XCI, 13.</i> Quale est, quod\napud veteres <i>Onirocriticos</i> in <i>Suida,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quem frustra sibi objicit, cum id abunde confirmetur ipsius <i>Galeni</i> suffragio\nlib. 1. <i>De Theriaca</i> capite 8. ubi de aspidibus haec habet: Πολλάκις ἐθεασάμην\nἐγὼ ἐν τῇ μεγάλῃ Ἀλεξανδρείᾳ τὸ τάχος τοῦ ὑπ’ αὐτοῦ γιγνομένου θανάτου.\nὅταν γάρ τινα, τούτῳ τῷ νόμῳ τῆς κολάσεως κατακριθέντα, φιλανθρώπως\nκαὶ ταχέως ἀποκτεῖναι θέλωσι, προσβάλλοντες αὐτοῦ τοῖς στέρνοις τὸ θηρίον,\nκαὶ ποιήσαντες ὀλίγον περιπατῆσαι, οὕτω ταχέως ἀναιροῦσι τὸν ἄνθρωπον. <i>In\nmagna</i> Alexandriae <i>urbe saepe vidi, quam cito mortem inferant. Quoties enim ali-\nquem, hujus supplicii lege damnatum, humaniter citoque interimere volunt, ad-\nmotam pectori bestiam aliquantulum inambulare jubent, et hominem hac ratione sta-\nstim enecant.</i> Proinde aspides calcare maxime periculosum est. Et <i>Psaltes</i>, ut\nvirum bonum etiam inter hostes infensissimos a Deo servari significet, illum\naspides et dracones ait impune calcaturum, <i>Psal. XCI, 13.</i> Quale est, quod\napud veteres <i>Onirocriticos</i> in <i>Suida,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ὄφεις πατεῖν, τὰ κέντρα τῶν ἐχθρῶν λύει·\n<i>Qui calcat angues, vitat insultum hostium.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ὄφεις πατεῖν, τὰ κέντρα τῶν ἐχθρῶν λύει·\n<i>Qui calcat angues, vitat insultum hostium.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Neque ullus est, qui ad aspidis aut basilisci foramen ultro accedat. Aut, si\nquisquam ita insaniat, is magnum adit vitae discrimen. Hinc, ut doceat <i>Esaias</i>,\nmagnam fore sub <i>Christi</i> regno rerum conversionem, <i>Tum</i>, inquit, <i>ludet in-\nfans</i> על חור פתן, <i>super foramen aspidis: et super cavernam basilisci puer, a lacte</i> ⟦p. 382⟧\n<i>depulsus, manum injiciet</i>, Es. XI, 8. Id est, <i>Gentes</i> cum <i>Iudaeis</i> in unam ec-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Neque ullus est, qui ad aspidis aut basilisci foramen ultro accedat. Aut, si\nquisquam ita insaniat, is magnum adit vitae discrimen. Hinc, ut doceat <i>Esaias</i>,\nmagnam fore sub <i>Christi</i> regno rerum conversionem, <i>Tum</i>, inquit, <i>ludet in-\nfans</i> על חור פתן, <i>super foramen aspidis: et super cavernam basilisci puer, a lacte</i> ⟦p. 382⟧\n<i>depulsus, manum injiciet</i>, Es. XI, 8. Id est, <i>Gentes</i> cum <i>Iudaeis</i> in unam ec-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "V 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "V 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "clesiam",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "clesiam"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1844,
+    1162
+   ],
+   [
+    1844,
+    1658
+   ]
+  ],
+  "input_tokens": 8627,
+  "output_tokens": 2003,
+  "cost_usd": 0.0746,
+  "seconds": 25.1
+ }
+}

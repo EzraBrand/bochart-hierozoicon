@@ -1,0 +1,326 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "170 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "170 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>mederi putantur, et hanc fere solam esse medicinam</i>. Sic de Umbrone Poeta libro\nseptimo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>mederi putantur, et hanc fere solam esse medicinam</i>. Sic de Umbrone Poeta libro\nseptimo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>et morsus arte levabat</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>et morsus arte levabat</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Lucanus</i> libri noni versu 933.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Lucanus</i> libri noni versu 933."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>pestis nigris inserta medullis\nExcantata perit</i>. — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>pestis nigris inserta medullis\nExcantata perit</i>. — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hoc praecipuum, quod angues, Mago cantante, <i>rumpi</i> dicuntur, et\n<i>crepare medii</i>. Lucilius,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hoc praecipuum, quod angues, Mago cantante, <i>rumpi</i> dicuntur, et\n<i>crepare medii</i>. Lucilius,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — Marſu’, <i>coluber\nDistendit cantu, venas cum extenderit omnes</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — Marſu’, <i>coluber\nDistendit cantu, venas cum extenderit omnes</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Virgilius</i> Ecloga octava,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Virgilius</i> Ecloga octava,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Frigidus in pratis cantando rumpitur anguis</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Frigidus in pratis cantando rumpitur anguis</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ovidius</i> libri septimi <i>Metamorphosews</i> Fabula secunda sub persona <i>Medeae</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ovidius</i> libri septimi <i>Metamorphosews</i> Fabula secunda sub persona <i>Medeae</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Vipereas rumpo verbis et carmine fauces</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vipereas rumpo verbis et carmine fauces</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Amorum</i> libri secundi Elegia prima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Amorum</i> libri secundi Elegia prima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Carmine dissiliunt, abruptis faucibus, angues</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Carmine dissiliunt, abruptis faucibus, angues</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>De Medicamine faciei</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>De Medicamine faciei</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec mediae Marsis findantur cantibus angues</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec mediae Marsis findantur cantibus angues</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Horatius</i> Epoda 7.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Horatius</i> Epoda 7."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Caputque Marsa dissilire naenia</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Caputque Marsa dissilire naenia</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Lucanus</i> libri sexti versu 488.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lucanus</i> libri sexti versu 488."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>gelidos his explicat orbes,\nInque pruinoso coluber distenditur arvo,\nViperei coëunt, abrupto corpore, nodi</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>gelidos his explicat orbes,\nInque pruinoso coluber distenditur arvo,\nViperei coëunt, abrupto corpore, nodi</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nemesianus</i>, Ecloga quarta, de <i>Mycale</i> venefica;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nemesianus</i>, Ecloga quarta, de <i>Mycale</i> venefica;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cantavit quod Luna timet, quo rumpitur anguis</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cantavit quod Luna timet, quo rumpitur anguis</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Philosophus</i> ubi supra, Ὡς δὲ προσῆλθεν ὁ ὄφις εἰς τὸν κύκλον, λύσιν εὐθὺς\nγενέσθαι αὐτῷ. <i>Quamprimum serpens in circulum est ingressus, eum</i> (ajunt) <i>sta-\ntim fuisse solutum, id est, solutis compagibus extinctum</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Philosophus</i> ubi supra, Ὡς δὲ προσῆλθεν ὁ ὄφις εἰς τὸν κύκλον, λύσιν εὐθὺς\nγενέσθαι αὐτῷ. <i>Quamprimum serpens in circulum est ingressus, eum</i> (ajunt) <i>sta-\ntim fuisse solutum, id est, solutis compagibus extinctum</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Interim quosdam esse serpentes, qui incantari non possint, vel ex Scriptu-\nra videtur posse elici. Nam <i>Ierem. VIII</i>, 17. minatur Deus, se in <i>Israelitas</i> im-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Interim quosdam esse serpentes, qui incantari non possint, vel ex Scriptu-\nra videtur posse elici. Nam <i>Ierem. VIII</i>, 17. minatur Deus, se in <i>Israelitas</i> im-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "missu-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "missu-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Y",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Y"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1684,
+    1442
+   ],
+   [
+    1684,
+    1354
+   ]
+  ],
+  "input_tokens": 3424,
+  "output_tokens": 1234,
+  "cost_usd": 0.0072,
+  "seconds": 10.7
+ }
+}

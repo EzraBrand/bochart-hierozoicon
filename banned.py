@@ -108,6 +108,14 @@ for e in ("sachaph", "nets", "chos", "salach", "jansuph", "thinsemeth", "kaath",
           "racham-objectiones", "chasida-interpretationes", "chasida", "anapha", "dukiphath", "atalleph", "aves-immundae"):
     RULES[e] = [PIGEON, CROW, STORK, HERON, PELICAN, HOOPOE, BAT, GULL, SWAN]
 
+# tranche 8: the serpents keep Bochart's names; "cobra" and "adder" are never his words, and these need their source
+COBRA = (r"\bcobras?\b|\badders?\b", "")
+BASILISK = (r"\bbasilisks?\b", r"basilisc|βασιλ[ίι]σκ|regul|tsepha|tsiphoni|צפע")
+ASP = (r"\basps?\b", r"asp[ie]|ἀσπ[ίι]|pethen|achsub|פתן|עכשוב")
+for e in ("ephe", "vipera-pauli", "chephir-sachal", "achsub", "pethen", "aspis-surda", "tseboa-serpens", "tsimmaon",
+          "tsepha", "basilisci-loca"):
+    RULES[e] = [COBRA, BASILISK, ASP]
+
 
 def main():
     entries = sys.argv[1:] or sorted(p.name for p in ENTRIES.iterdir() if p.name in RULES)

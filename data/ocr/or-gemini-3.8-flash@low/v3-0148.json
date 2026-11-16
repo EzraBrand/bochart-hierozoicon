@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "148 <i>Cur Pharifaei dicantur progenies Viperarum.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "148 <i>Cur Pharifaei dicantur progenies Viperarum.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Rustica progenies nescit habere modum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Rustica progenies nescit habere modum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et\n<i>Dum stulti vitant vitia, in contraria currunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et\n<i>Dum stulti vitant vitia, in contraria currunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut homicida non erat <i>Paulus</i>, ita nec Deus, sed fidelissimus Dei servus. Antea\nin charitatem, nunc in fidem graviter peccant. Nimirum, ut notat <i>Oecumenius</i>,\ngentiles ita solebant, πάντα ποιε͂ντά τι παράδοξον Θεὸν νομίζειν, <i>pro Deo\nquemlibet habere, qui mirabile aliquid ederet.</i> Ita <i>Lystrenses</i> huic eidem <i>Paulo</i>\ndivinos honores decreverunt, quia claudum sanaverat: sed et eundem iidem pau-\nlo post lapidaverunt: <i>Act. XIV, 10. 19.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut homicida non erat <i>Paulus</i>, ita nec Deus, sed fidelissimus Dei servus. Antea\nin charitatem, nunc in fidem graviter peccant. Nimirum, ut notat <i>Oecumenius</i>,\ngentiles ita solebant, πάντα ποιε͂ντά τι παράδοξον Θεὸν νομίζειν, <i>pro Deo\nquemlibet habere, qui mirabile aliquid ederet.</i> Ita <i>Lystrenses</i> huic eidem <i>Paulo</i>\ndivinos honores decreverunt, quia claudum sanaverat: sed et eundem iidem pau-\nlo post lapidaverunt: <i>Act. XIV, 10. 19.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Multi quaerunt, quorsum <i>Iudaei</i>, aut <i>Pharisaei</i> passim ª) vocentur γεννή-\nματα ἐχιδνῶν, <i>progenies viperarum</i>. Et ad id alludi plerique putant, quod\nvipera ex eroso matris utero nasci traditur. Quia <i>Iudaei</i> in Deum et Prophetas,\nquos patrum loco habere debuerant, ingratos se praestiterunt. Vide praeter\neos, qui in <i>Matthaeum</i> et <i>Lucam</i> ex professo scripserunt, <i>Isidorum Pelusiotam</i>\nEpistola centesima quinta, et <i>Parabolarum Evangelii interpretationes</i>, quae\n<i>Athanasio</i> tribuuntur, Quaestione vigesima. Mihi non sit verisimile, ad rem fa-\nbulosam alludi; neque Deum et Prophetas hac ratione cum <i>viperis</i> conferri. Iis\nigitur accedo, qui pessimorum parentum pessimos filios hic intelligunt. Nem-\npe κακoῦ κόρακος κακὸν ὠὸν, <i>Mali corvi malum ovum est.</i> Quo respiciens mar-\ntyr, <i>Stephanus</i>, Iudaeos ita compellat <i>Act. VII, 51. O duri cervice, et incircumcisi\ncorde et auribus, vos semper Spiritui Sancto obstitistis. Quales fuerunt patres ve-\nstri, tales et vos estis.</i> Et multo ante <i>David</i> Psalm. LXXVIII, 8. <i>Ne sint ut pa-\ntres eorum, generatio contumax et rebellis</i>, etc. Nec multum repugnabo, si quis\n<i>viperarum</i> nomine daemones intelligat, qui cur per <i>serpentes</i> significentur, ne-\nminem latet. Daemonis porro filii censentur, quotquot in Deum sunt rebelles.\nProinde magum, <i>Elymam</i>, <i>Paulus</i> vocat <i>filium diaboli</i> Act. XIII, 8. Et <i>Christus</i>\nIudaeis dicit Ioh. <i>VIII, 44. Vos ex patre, diabolo, estis, et desideria patris vestri\nvultis facere.</i> Aliud δεινῆς ἐχίδνης θρέμμα in <i>Trachiniis Sophoclis</i> versu 1106.\nIbi enim ἐχίδνη non est vipera, sed fabulosa <i>Echidna</i>, ex qua natus <i>Cerberus</i>.\nDe illo enim ibi agitur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Multi quaerunt, quorsum <i>Iudaei</i>, aut <i>Pharisaei</i> passim ª) vocentur γεννή-\nματα ἐχιδνῶν, <i>progenies viperarum</i>. Et ad id alludi plerique putant, quod\nvipera ex eroso matris utero nasci traditur. Quia <i>Iudaei</i> in Deum et Prophetas,\nquos patrum loco habere debuerant, ingratos se praestiterunt. Vide praeter\neos, qui in <i>Matthaeum</i> et <i>Lucam</i> ex professo scripserunt, <i>Isidorum Pelusiotam</i>\nEpistola centesima quinta, et <i>Parabolarum Evangelii interpretationes</i>, quae\n<i>Athanasio</i> tribuuntur, Quaestione vigesima. Mihi non sit verisimile, ad rem fa-\nbulosam alludi; neque Deum et Prophetas hac ratione cum <i>viperis</i> conferri. Iis\nigitur accedo, qui pessimorum parentum pessimos filios hic intelligunt. Nem-\npe κακoῦ κόρακος κακὸν ὠὸν, <i>Mali corvi malum ovum est.</i> Quo respiciens mar-\ntyr, <i>Stephanus</i>, Iudaeos ita compellat <i>Act. VII, 51. O duri cervice, et incircumcisi\ncorde et auribus, vos semper Spiritui Sancto obstitistis. Quales fuerunt patres ve-\nstri, tales et vos estis.</i> Et multo ante <i>David</i> Psalm. LXXVIII, 8. <i>Ne sint ut pa-\ntres eorum, generatio contumax et rebellis</i>, etc. Nec multum repugnabo, si quis\n<i>viperarum</i> nomine daemones intelligat, qui cur per <i>serpentes</i> significentur, ne-\nminem latet. Daemonis porro filii censentur, quotquot in Deum sunt rebelles.\nProinde magum, <i>Elymam</i>, <i>Paulus</i> vocat <i>filium diaboli</i> Act. XIII, 8. Et <i>Christus</i>\nIudaeis dicit Ioh. <i>VIII, 44. Vos ex patre, diabolo, estis, et desideria patris vestri\nvultis facere.</i> Aliud δεινῆς ἐχίδνης θρέμμα in <i>Trachiniis Sophoclis</i> versu 1106.\nIbi enim ἐχίδνη non est vipera, sed fabulosa <i>Echidna</i>, ex qua natus <i>Cerberus</i>.\nDe illo enim ibi agitur."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Matth. III, 7. et XII, 34. et XXIII, 33. Luc. III, 7.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Matth. III, 7. et XII, 34. et XXIII, 33. Luc. III, 7.</i>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1683,
+    1303
+   ],
+   [
+    1683,
+    1493
+   ]
+  ],
+  "input_tokens": 3421,
+  "output_tokens": 1084,
+  "cost_usd": 0.0066,
+  "seconds": 10.8
+ }
+}

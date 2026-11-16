@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "156 <i>Probatur</i>, פתן <i>esse Aspidem.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "156 <i>Probatur</i>, פתן <i>esse Aspidem.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. V.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. V."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, פתן pethen <i>esse Aspidem.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, פתן pethen <i>esse Aspidem.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Aliud est <i>aspidis</i> nomen פתן <i>pethen.</i> Ita enim hanc vocem plerique reddunt.\nEt veram esse hanc versionem, suadent aliquot loca de veneno פתן <i>pethen</i> *). ⟦p. 381⟧\nSic <i>Iob. XX, 14.</i> מרורת פתנים בקרבו. Ubi <i>Seniores</i>, Χολὴ ἀσπίδος ἐν γαστρὶ\nαὐτοῦ· et <i>Vulgatus</i>, <i>Fel aspidum intrinsecus.</i> Et paullo post versu decimo sex-\nto, ראש פתנים יינק. Ubi <i>Seniores</i>, Θυμὸν δὲ δρακόντων θηλάσειεν. Sed\n<i>Graeci</i> interpretes alii, Χολὴν ἀσπίδων μυζήσει· et <i>Hieronymus</i>, <i>Caput aspidum\nsuget.</i> Rursus <i>Deut. XXXII, 33.</i> וראש פתנים אכזר, <i>Et venenum</i> pethanim\n<i>crudele.</i> Pro quo <i>Graece</i>, Καὶ θυμὸς ἀσπίδων ἀνίατος· unde <i>Vulgatus</i>, <i>Et\nvenenum aspidum insanabile.</i> Ac si pro אכזר legerint אין זר, <i>non est curatio.</i>\nNam זר est <i>curare vulnus</i>, Esa. I, 6. Et מזור, <i>vulneris curatio</i>, Ier. XXX, 13.\nNempe venenum aspidis est omnium acutissimum, et vitalia celerrime penetrat.\n<i>Aeliani</i> verba sunt lib. 9. cap. 61. Ὀξύτατόν ἐστι τὸ ἐξ αὐτῆς φάρμακον, καὶ\nδιαδραμεῖν ὤκιστον. Unde vulgatum adagium in <i>Apostolio</i> et <i>Erasmo</i>, Δῆγμα\nἀσπίδος, <i>Morsus aspidis</i>, pro immedicabili vulnere; quia, qui ab aspide demor-\nsus est, raro sanatur. Quod testatum faciunt scriptores, non contemnendi.\n<i>Aristoteles</i> lib. 8. <i>Historiae</i> cap. 29. Τὰ δὲ τῶν ὄφεων δήγματα πολὺ διαφέρουσιν.\nἥτε γὰρ ἀσπὶς ἐν Λιβύῃ γίνεται, ἐξ οὗ ὄφεως ποιοῦσι τὸ σηπτικόν· καὶ ἄλλως\nἀνιάτως. <i>Serpentum morsus multum differunt. Aspis enim in</i> Africa <i>nascitur,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aliud est <i>aspidis</i> nomen פתן <i>pethen.</i> Ita enim hanc vocem plerique reddunt.\nEt veram esse hanc versionem, suadent aliquot loca de veneno פתן <i>pethen</i> *). ⟦p. 381⟧\nSic <i>Iob. XX, 14.</i> מרורת פתנים בקרבו. Ubi <i>Seniores</i>, Χολὴ ἀσπίδος ἐν γαστρὶ\nαὐτοῦ· et <i>Vulgatus</i>, <i>Fel aspidum intrinsecus.</i> Et paullo post versu decimo sex-\nto, ראש פתנים יינק. Ubi <i>Seniores</i>, Θυμὸν δὲ δρακόντων θηλάσειεν. Sed\n<i>Graeci</i> interpretes alii, Χολὴν ἀσπίδων μυζήσει· et <i>Hieronymus</i>, <i>Caput aspidum\nsuget.</i> Rursus <i>Deut. XXXII, 33.</i> וראש פתנים אכזר, <i>Et venenum</i> pethanim\n<i>crudele.</i> Pro quo <i>Graece</i>, Καὶ θυμὸς ἀσπίδων ἀνίατος· unde <i>Vulgatus</i>, <i>Et\nvenenum aspidum insanabile.</i> Ac si pro אכזר legerint אין זר, <i>non est curatio.</i>\nNam זר est <i>curare vulnus</i>, Esa. I, 6. Et מזור, <i>vulneris curatio</i>, Ier. XXX, 13.\nNempe venenum aspidis est omnium acutissimum, et vitalia celerrime penetrat.\n<i>Aeliani</i> verba sunt lib. 9. cap. 61. Ὀξύτατόν ἐστι τὸ ἐξ αὐτῆς φάρμακον, καὶ\nδιαδραμεῖν ὤκιστον. Unde vulgatum adagium in <i>Apostolio</i> et <i>Erasmo</i>, Δῆγμα\nἀσπίδος, <i>Morsus aspidis</i>, pro immedicabili vulnere; quia, qui ab aspide demor-\nsus est, raro sanatur. Quod testatum faciunt scriptores, non contemnendi.\n<i>Aristoteles</i> lib. 8. <i>Historiae</i> cap. 29. Τὰ δὲ τῶν ὄφεων δήγματα πολὺ διαφέρουσιν.\nἥτε γὰρ ἀσπὶς ἐν Λιβύῃ γίνεται, ἐξ οὗ ὄφεως ποιοῦσι τὸ σηπτικόν· καὶ ἄλλως\nἀνιάτως. <i>Serpentum morsus multum differunt. Aspis enim in</i> Africa <i>nascitur,</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>ex</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>ex</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "FORSKAL in <i>Descript. Animall.</i> p.\n15. mentionem facit serpentis cujusdam,\nquem <i>Colubrum Baetaen</i> vocat, cujus no-\nmen Arabicum scribit بتن, quod tamen,\nad vulgi pronunciatum expressum, male\nscriptum puto pro فتن, quod ipsum no-\nstrum פתן est. Eum serpentem Forskal his\nverbis describit: <i>Totus maculatus albo ni-\ngroque. Longitudo pedalis; crassities fe-\nre bipollicaris. Ovipara. Morsus in in-\nstanti necat, corpore vulnerato intume-\nscente.</i> Parum verisimile mihi videtur\nOEDMANNI sententia (<i>Vermischte Samm-\nlung.</i> Fasc. V. Cap. X. pag. 85.) hunc co-\nlubrum non esse diversum a <i>Colubro Lebe\ntino</i> Linn., qui in insula Cypro frequens\nest, ubi ἀσπιδος nomen gerit. Longitudi-\nnem corporis Forskal (pag. 13.) dicit sub-\ncubitalem esse, Hasselquist vero (p. 239.)\nunius pedis. Uterque tamen consentit in\neo, morsum ejus somnum inferre letalem.\nVulgus in insula Cypro hunc serpentem\nsurdum existimat, unde et κουφη, <i>surdus</i>,\nappellatur (vid. POCOCKII <i>Itinerar.</i> T. II.\n§. 402. et FORSKALII <i>Descript. Animall.</i>\np. 14.). Atque cum Ps. LVIII, 5. פתן <i>sur-\nda</i> dicatur; MICHAELIS in <i>Supplemm.</i>\nP. VI. p. 2056. et OEDMANN l. c. p. 84.\nHebraeorum פתן eundem serpentem esse\nputant cum <i>Colubro Lebetino</i> Linn. Sed cum\nnon unum serpentum genus <i>surdum</i> creda-\ntur, ut ostendit Bochartus Cap. sequ., et\n<i>Coluber Lebetinus</i> Cypro tantummodo do-\nmestica esse videatur; ego certius puto,\n<i>colubrum Baetaen</i> Forskalii pro Hebraeo-\nrum פתן habere.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "FORSKAL in <i>Descript. Animall.</i> p.\n15. mentionem facit serpentis cujusdam,\nquem <i>Colubrum Baetaen</i> vocat, cujus no-\nmen Arabicum scribit بتن, quod tamen,\nad vulgi pronunciatum expressum, male\nscriptum puto pro فتن, quod ipsum no-\nstrum פתן est. Eum serpentem Forskal his\nverbis describit: <i>Totus maculatus albo ni-\ngroque. Longitudo pedalis; crassities fe-\nre bipollicaris. Ovipara. Morsus in in-\nstanti necat, corpore vulnerato intume-\nscente.</i> Parum verisimile mihi videtur\nOEDMANNI sententia (<i>Vermischte Samm-\nlung.</i> Fasc. V. Cap. X. pag. 85.) hunc co-\nlubrum non esse diversum a <i>Colubro Lebe\ntino</i> Linn., qui in insula Cypro frequens\nest, ubi ἀσπιδος nomen gerit. Longitudi-\nnem corporis Forskal (pag. 13.) dicit sub-\ncubitalem esse, Hasselquist vero (p. 239.)\nunius pedis. Uterque tamen consentit in\neo, morsum ejus somnum inferre letalem.\nVulgus in insula Cypro hunc serpentem\nsurdum existimat, unde et κουφη, <i>surdus</i>,\nappellatur (vid. POCOCKII <i>Itinerar.</i> T. II.\n§. 402. et FORSKALII <i>Descript. Animall.</i>\np. 14.). Atque cum Ps. LVIII, 5. פתן <i>sur-\nda</i> dicatur; MICHAELIS in <i>Supplemm.</i>\nP. VI. p. 2056. et OEDMANN l. c. p. 84.\nHebraeorum פתן eundem serpentem esse\nputant cum <i>Colubro Lebetino</i> Linn. Sed cum\nnon unum serpentum genus <i>surdum</i> creda-\ntur, ut ostendit Bochartus Cap. sequ., et\n<i>Coluber Lebetinus</i> Cypro tantummodo do-\nmestica esse videatur; ego certius puto,\n<i>colubrum Baetaen</i> Forskalii pro Hebraeo-\nrum פתן habere."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1806,
+    1533
+   ],
+   [
+    1806,
+    1251
+   ]
+  ],
+  "input_tokens": 8395,
+  "output_tokens": 2140,
+  "cost_usd": 0.0764,
+  "seconds": 27.2,
+  "vote": "1 decisions from v3-126-194"
+ }
+}

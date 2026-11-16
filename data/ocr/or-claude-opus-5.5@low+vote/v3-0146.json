@@ -1,0 +1,135 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "146 <i>De Vipera Pauli.</i> P.II. L.III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "146 <i>De Vipera Pauli.</i> P.II. L.III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quam dedit ipsa prius, quae culpae protulit ignem,</i>\n<i>Unde Gehenna calet.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quam dedit ipsa prius, quae culpae protulit ignem,</i>\n<i>Unde Gehenna calet.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Fuit id <i>Pauli</i> miraculum, barbaris maxime improvisum, qui putaverant,\nαὐτὸν μέλλειν πίμπρασθαι, ἢ καταπίπτειν ἄφνω νεκρὸν, <i>fore, ut intumesceret,</i>\n<i>aut concideret statim mortuus.</i> Πίμπρασθαι proprie est <i>ardere</i> et <i>exuri</i>; deinde\netiam <i>prae ardore inflari</i> et <i>intumescere.</i> <i>Hesychius,</i> Πιμπρᾷν· ἐμπυρίζειν, φυ-\nσᾶν, καίειν. <i>Aelianus</i> libri primi capite quinquagesimo septimo, <i>Psyllos</i> ait\nfacile sanare eos, qui a ceraste morsi sunt, modo vocentur, πρὶν ἢ πρηθῆναι\nτὸ πᾶν σῶμα, id est, <i>priusquam totum corpus intumescat.</i> Nam totum corpus\niis, varicum modo, tumere scribit <i>Dioscorides.</i> <i>Etymologus</i> de bupresti, oleris\nspecie, Βούπρηστις δέ, φασι, λέγεται διὰ τὸ τοὺς γευσαμένους αὐτῆς μεγάλως\nπίμπρασθαι, τουτέστι φυσᾶσθαι· <i>Buprestis dicitur, ut ajunt, quia, qui eam de-</i>\n<i>gustant, maxime intumescunt, quod</i> Graece <i>est</i> πίμπρασθαι. Et <i>Nicander</i> de\nbupresti animali <i>Alexipharmacῶn</i> versu 344.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Fuit id <i>Pauli</i> miraculum, barbaris maxime improvisum, qui putaverant,\nαὐτὸν μέλλειν πίμπρασθαι, ἢ καταπίπτειν ἄφνω νεκρὸν, <i>fore, ut intumesceret,</i>\n<i>aut concideret statim mortuus.</i> Πίμπρασθαι proprie est <i>ardere</i> et <i>exuri</i>; deinde\netiam <i>prae ardore inflari</i> et <i>intumescere.</i> <i>Hesychius,</i> Πιμπρᾷν· ἐμπυρίζειν, φυ-\nσᾶν, καίειν. <i>Aelianus</i> libri primi capite quinquagesimo septimo, <i>Psyllos</i> ait\nfacile sanare eos, qui a ceraste morsi sunt, modo vocentur, πρὶν ἢ πρηθῆναι\nτὸ πᾶν σῶμα, id est, <i>priusquam totum corpus intumescat.</i> Nam totum corpus\niis, varicum modo, tumere scribit <i>Dioscorides.</i> <i>Etymologus</i> de bupresti, oleris\nspecie, Βούπρηστις δέ, φασι, λέγεται διὰ τὸ τοὺς γευσαμένους αὐτῆς μεγάλως\nπίμπρασθαι, τουτέστι φυσᾶσθαι· <i>Buprestis dicitur, ut ajunt, quia, qui eam de-</i>\n<i>gustant, maxime intumescunt, quod</i> Graece <i>est</i> πίμπρασθαι. Et <i>Nicander</i> de\nbupresti animali <i>Alexipharmacῶn</i> versu 344."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἡ καί που δαμάλεις ἐριγάστορας ἄλλο τε μόσχους ⟦p. 374⟧\nΠίμπρατα, — — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡ καί που δαμάλεις ἐριγάστορας ἄλλο τε μόσχους ⟦p. 374⟧\nΠίμπρατα, — — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quae interdum juvencas, interdum ventriosos vitulos inflat.</i> Et in <i>Theriacis</i>\nde haemorrhoo versu 306.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quae interdum juvencas, interdum ventriosos vitulos inflat.</i> Et in <i>Theriacis</i>\nde haemorrhoo versu 306."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τῆς γὰρ ὀδαξομένης τὰ μὲν ἀθροὰ πίμπραται οὖλα,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τῆς γὰρ ὀδαξομένης τὰ μὲν ἀθροὰ πίμπραται οὖλα,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cum illa mordet, intumescunt totae gingivae,</i> aut etiam <i>ardent.</i> Ita enim <i>Scholia-</i>\n<i>stes</i>, Πίμπραται· ὑποκαίεται, καὶ πυροῦται. Et paullo post, Πυρακτοῦνται,\nκαὶ ἀναβράζουσι. Neque aliter sumitur in <i>Luciano</i>, cum de dipsade dicit, πίμ-\nπρασθαι ποιεῖ. Sequitur enim, Καὶ βοῶσιν ὥσπερ οἱ ἐν πυρὶ κείμενοι· <i>Et</i>\n<i>clamant</i> (qui icti sunt), <i>ut qui in igne jacent.</i> Potest igitur in <i>Luca</i> utroque mo-\ndo reddi. Proinde <i>Arabum</i> unus hic habet, <i>Exspectabant fore, ut</i> يحترق\n<i>arderet.</i> Et <i>Castalio, illis futurum exspectantibus, ut arderet.</i> Sed <i>Hierony-</i>\n<i>mus, Existimabant eum in tumorem convertendum,</i> id est, <i>fore, ut intumesceret.</i>\nQuod sequuntur <i>Arias</i> et <i>Beza,</i> et multi alii recentiorum. Neque id immerito,\ncum inter symptomata, quae accidunt ex morsu viperae, hoc sit unum e prae-\ncipuis, et maxime conspicuis, quod demorsa pars statim intumescit. <i>Dioscori-</i>\n<i>des</i> libro sexto, Τοῖς δὲ ὑπὸ ἐχίδνης δηχθεῖσιν οἰδεῖ, καὶ ἐφ᾽ ἱκανὸν τὸ σῶμα\nξηραίνεται· <i>Iis, qui a vipera morsi sunt, corpus tumet, et vehementer arescit.</i>\n<i>Nicander,</i> ubi de morsis a vipera, <i>Theriacῶn</i> versu 240.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cum illa mordet, intumescunt totae gingivae,</i> aut etiam <i>ardent.</i> Ita enim <i>Scholia-</i>\n<i>stes</i>, Πίμπραται· ὑποκαίεται, καὶ πυροῦται. Et paullo post, Πυρακτοῦνται,\nκαὶ ἀναβράζουσι. Neque aliter sumitur in <i>Luciano</i>, cum de dipsade dicit, πίμ-\nπρασθαι ποιεῖ. Sequitur enim, Καὶ βοῶσιν ὥσπερ οἱ ἐν πυρὶ κείμενοι· <i>Et</i>\n<i>clamant</i> (qui icti sunt), <i>ut qui in igne jacent.</i> Potest igitur in <i>Luca</i> utroque mo-\ndo reddi. Proinde <i>Arabum</i> unus hic habet, <i>Exspectabant fore, ut</i> يحترق\n<i>arderet.</i> Et <i>Castalio, illis futurum exspectantibus, ut arderet.</i> Sed <i>Hierony-</i>\n<i>mus, Existimabant eum in tumorem convertendum,</i> id est, <i>fore, ut intumesceret.</i>\nQuod sequuntur <i>Arias</i> et <i>Beza,</i> et multi alii recentiorum. Neque id immerito,\ncum inter symptomata, quae accidunt ex morsu viperae, hoc sit unum e prae-\ncipuis, et maxime conspicuis, quod demorsa pars statim intumescit. <i>Dioscori-</i>\n<i>des</i> libro sexto, Τοῖς δὲ ὑπὸ ἐχίδνης δηχθεῖσιν οἰδεῖ, καὶ ἐφ᾽ ἱκανὸν τὸ σῶμα\nξηραίνεται· <i>Iis, qui a vipera morsi sunt, corpus tumet, et vehementer arescit.</i>\n<i>Nicander,</i> ubi de morsis a vipera, <i>Theriacῶn</i> versu 240."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — φλύκταιναι ἀραιαὶ,\nΟἷα πυρικμήτοιο χροὸς, κλαδόωσιν ὕπερθεν·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — φλύκταιναι ἀραιαὶ,\nΟἷα πυρικμήτοιο χροὸς, κλαδόωσιν ὕπερθεν·"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>tumores</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>tumores</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1892,
+    1468
+   ],
+   [
+    1892,
+    1340
+   ]
+  ],
+  "input_tokens": 8763,
+  "output_tokens": 1898,
+  "cost_usd": 0.073,
+  "seconds": 24.8,
+  "vote": "5 decisions from v3-126-194"
+ }
+}

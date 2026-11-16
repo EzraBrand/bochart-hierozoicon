@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "184 <i>Probatur</i>, צפע, <i>vel</i> צפעני <i>esse Regulum</i>, P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "184 <i>Probatur</i>, צפע, <i>vel</i> צפעני <i>esse Regulum</i>, P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Οὐκ ἄρα δὴ κείνε σπειραχθέα κνώδαλα γαίης\nἸϋγὴν μίμνεσιν, etc.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Οὐκ ἄρα δὴ κείνε σπειραχθέα κνώδαλα γαίης\nἸϋγὴν μίμνεσιν, etc."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ejus fibilum non exspectant spira (caudae) onusta (id est, majora) terrae repti-\nlia. Archelaus in Aeliano</i>, libri secundi capite septimo; Ἐπὰν δὲ βασιλίσκυ\nσυρίγματος ἀκέση, (τὰ τῶν ὄφεων φῦλα) τὰ μὲν ὑπὸ τοῖς ἰλεοῖς, καὶ τῇ\nψάμμῳ, ἀφανίζεσθαι τὴν ταχίστην· <i>Cum reguli fibilum audiverunt (anguium\ngenera) statim in cavernis, aut sub arena sese abdere, etc. Lucanus</i> libro nono,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ejus fibilum non exspectant spira (caudae) onusta (id est, majora) terrae repti-\nlia. Archelaus in Aeliano</i>, libri secundi capite septimo; Ἐπὰν δὲ βασιλίσκυ\nσυρίγματος ἀκέση, (τὰ τῶν ὄφεων φῦλα) τὰ μὲν ὑπὸ τοῖς ἰλεοῖς, καὶ τῇ\nψάμμῳ, ἀφανίζεσθαι τὴν ταχίστην· <i>Cum reguli fibilum audiverunt (anguium\ngenera) statim in cavernis, aut sub arena sese abdere, etc. Lucanus</i> libro nono,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sibilaque effundens omnes terrentia pestes.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sibilaque effundens omnes terrentia pestes.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Plinius, <i>Sibilo omnes fugat serpentes.</i> Solinus, <i>Sibilum ejus etiam serpentes alii\nperhorrescunt.</i> Sed qui sequuntur basilisci fibilum lethiferum esse afferunt. <i>Ga-\nlenus</i>, capite octavo <i>Ad Pisonem</i>, Ὁρασθεὶς μόνον, καὶ συρίττων ἀκυσθεὶς,\nἀναιρεῖ τὲς ἀκέσαντας, καὶ τὲς ἰδόντας αὐτόν· <i>Visus solum, atque auditus\ncum fibilat, audientes et videntes se necat.</i> Aëtius, <i>Ajunt, quod fibilans auditus,\neos qui ipsum audierunt tollat. Damir</i>, ubi <i>De Serpentum speciebus</i>: ونوع\nاخر اذا سمع الانسان صغيره مات <i>Est alia serpentis species, cu-\njus fibilum quisquis audit, moritur.</i> Et <i>Alkazvinius</i>, اذا صغرت تموت\nمن صغيرها كل حيوان سمع ذلك بعد ما ينفخ\nويسيل منه الصديد, <i>Cum fibilat, ejus fibilo audito, moriuntur\nomnia animalia, quamprimum flavit, et venenum a se dimisit.</i> His adde, quae\nex <i>Avicenna</i> jam citata sunt. Sed notetur inprimis hic <i>Isidori</i> locus; SIBILUS\n<i>idem est, qui et regulus; fibilo enim occidit, antequam vel mordeat, vel exurat.</i>\nItaque ut Latine fibilus a fibilo: ita Hebraice TSEPHA, vel TSIPHONI, dici po-\ntuit a fono, quem edit inter fibilandum.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Plinius, <i>Sibilo omnes fugat serpentes.</i> Solinus, <i>Sibilum ejus etiam serpentes alii\nperhorrescunt.</i> Sed qui sequuntur basilisci fibilum lethiferum esse afferunt. <i>Ga-\nlenus</i>, capite octavo <i>Ad Pisonem</i>, Ὁρασθεὶς μόνον, καὶ συρίττων ἀκυσθεὶς,\nἀναιρεῖ τὲς ἀκέσαντας, καὶ τὲς ἰδόντας αὐτόν· <i>Visus solum, atque auditus\ncum fibilat, audientes et videntes se necat.</i> Aëtius, <i>Ajunt, quod fibilans auditus,\neos qui ipsum audierunt tollat. Damir</i>, ubi <i>De Serpentum speciebus</i>: ونوع\nاخر اذا سمع الانسان صغيره مات <i>Est alia serpentis species, cu-\njus fibilum quisquis audit, moritur.</i> Et <i>Alkazvinius</i>, اذا صغرت تموت\nمن صغيرها كل حيوان سمع ذلك بعد ما ينفخ\nويسيل منه الصديد, <i>Cum fibilat, ejus fibilo audito, moriuntur\nomnia animalia, quamprimum flavit, et venenum a se dimisit.</i> His adde, quae\nex <i>Avicenna</i> jam citata sunt. Sed notetur inprimis hic <i>Isidori</i> locus; SIBILUS\n<i>idem est, qui et regulus; fibilo enim occidit, antequam vel mordeat, vel exurat.</i>\nItaque ut Latine fibilus a fibilo: ita Hebraice TSEPHA, vel TSIPHONI, dici po-\ntuit a fono, quem edit inter fibilandum."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertio ad Hebraeum צפע <i>tsepha</i> videtur alludere Verbum <i>Arabicum</i> سفع\n<i>faphaa</i>, quod <i>flatu adurere</i> significat. Unde καύσωνες, <i>venti adurentes</i> dicun-\ntur سوافع. (¹) Id nempe basilisci proprium, quod flatu adurit. <i>Horus</i> libri\nprimi",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertio ad Hebraeum צפע <i>tsepha</i> videtur alludere Verbum <i>Arabicum</i> سفع\n<i>faphaa</i>, quod <i>flatu adurere</i> significat. Unde καύσωνες, <i>venti adurentes</i> dicun-\ntur سوافع. (¹) Id nempe basilisci proprium, quod flatu adurit. <i>Horus</i> libri\nprimi"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "ara",
+   "text": "ومنه لنسفعن بالناصية سفع الطاير لطم\nاي لنجرنه بها الي النار بجناحية وفلان فلانا\nاي لنسودن وجهه ان لتعلمنه لطمه وضربه والشي اعلمه\nعلامة اهل النار والسوافع ووسمه والسموم وجهه لَفَحَه\nلوايح السموم لَفْحا يسيرا وبناصيته Verbum سفع de\nقبض عليها فاجتذ بها <i>alite, plausit alas, valet, percussit cum\nfono;</i>",
+   "marker": "1)",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "ومنه لنسفعن بالناصية سفع الطاير لطم\nاي لنجرنه بها الي النار بجناحية وفلان فلانا\nاي لنسودن وجهه ان لتعلمنه لطمه وضربه والشي اعلمه\nعلامة اهل النار والسوافع ووسمه والسموم وجهه لَفَحَه\nلوايح السموم لَفْحا يسيرا وبناصيته Verbum سفع de\nقبض عليها فاجتذ بها <i>alite, plausit alas, valet, percussit cum\nfono;</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1700,
+    1693
+   ],
+   [
+    1700,
+    1131
+   ]
+  ],
+  "input_tokens": 3270,
+  "output_tokens": 1094,
+  "cost_usd": 0.0066,
+  "seconds": 23.5
+ }
+}

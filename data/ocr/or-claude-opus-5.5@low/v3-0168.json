@@ -1,0 +1,266 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "168 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "168 <i>De Aspide surda, Psal. LVIII, 5. 6.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et cantu serpentes fugari volunt. <i>Lucanus</i> libri noni versu 913.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et cantu serpentes fugari volunt. <i>Lucanus</i> libri noni versu 913."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Primum quas valli spatium comprendit arenas,</i>\n<i>Expurgat cantu, verbisque fugantibus angues.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Primum quas valli spatium comprendit arenas,</i>\n<i>Expurgat cantu, verbisque fugantibus angues.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Haec ille; sed solus, quod meminerim.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Haec ille; sed solus, quod meminerim."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Etiam cantu sisti, deliniri et stupefieri dicuntur angues. <i>Tibullus Ele-\ngia</i> nona,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Etiam cantu sisti, deliniri et stupefieri dicuntur angues. <i>Tibullus Ele-\ngia</i> nona,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cantus et iratae detinet anguis iter.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cantus et iratae detinet anguis iter.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Saga quaedam in <i>Petronio,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Saga quaedam in <i>Petronio,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>et jussi stare dracones.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>et jussi stare dracones.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Virgilius</i> ubi supra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Virgilius</i> ubi supra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Vipereo generi, et graviter spirantibus hydris,</i>\n<i>Spargere qui somnos cantuque manuque solebat,</i>\n<i>Mulcebatque iras, et morsus arte levabat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vipereo generi, et graviter spirantibus hydris,</i>\n<i>Spargere qui somnos cantuque manuque solebat,</i>\n<i>Mulcebatque iras, et morsus arte levabat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Columella</i> in <i>Horto,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Columella</i> in <i>Horto,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sic quondam magicis sopitum cantibus anguem.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sic quondam magicis sopitum cantibus anguem.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Medea,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Medea,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sopite primum cantibus serpens meis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sopite primum cantibus serpens meis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Silius</i> libri tertii versu 300. de <i>Marmaridis,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Silius</i> libri tertii versu 300. de <i>Marmaridis,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ad quorum cantus serpens oblita veneni,</i>\n<i>Ad quorum cantus mites jacuere cerastae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ad quorum cantus serpens oblita veneni,</i>\n<i>Ad quorum cantus mites jacuere cerastae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libri quinti versu 352. de <i>Synalo,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libri quinti versu 352. de <i>Synalo,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>ungere vulnus</i>\n<i>Herbarum hic succis, ferrumque e corpore cantu</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>ungere vulnus</i>\n<i>Herbarum hic succis, ferrumque e corpore cantu</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Exigere,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Exigere,</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>sapuit</i>, Exod. VII, 11. החכמים, <i>sapientes,</i>\nconjunguntur cum המכשפים, <i>praestigiato-\nribus</i>, et החרטמים, <i>magis</i> Aegyptiis, et\neo ipso loco, in quem hoc caput inquirit,\nPs. LVIII, 6. חובר חברים, <i>incantans</i> (i. e.\nexercens, adhibens) <i>incantationes</i> vocatur\net מחכם <i>ad sapientiam</i>, magicas puta ar-\ntes, <i>institutus.</i> Sic Arabum طَبّ tam\n<i>scientia polluit,</i> quam <i>fascino praestigiis-</i>\n<i>que usus fuit</i>, significat; et عَرّاف <i>hari-\nolum</i>, a radice عَرَفَ, <i>scivit.</i> Sed apud\nLatinos etiam a <i>sagiendo</i>, h. e. ab <i>acute\nsciendo saga</i> dicta est, id quod diserte di-\ncit CICERO <i>de Divinat.</i> L. I. cap. 31. <i>Sagi-\nre sentire acute est, ex quo</i> SAGAE <i>anus,\nquia multa scire volunt.</i> Nobis item Ger-\nmanis dicta <i>eine weise Frau, saga</i>, a <i>wei-\nse, sapiens.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>sapuit</i>, Exod. VII, 11. החכמים, <i>sapientes,</i>\nconjunguntur cum המכשפים, <i>praestigiato-\nribus</i>, et החרטמים, <i>magis</i> Aegyptiis, et\neo ipso loco, in quem hoc caput inquirit,\nPs. LVIII, 6. חובר חברים, <i>incantans</i> (i. e.\nexercens, adhibens) <i>incantationes</i> vocatur\net מחכם <i>ad sapientiam</i>, magicas puta ar-\ntes, <i>institutus.</i> Sic Arabum طَبّ tam\n<i>scientia polluit,</i> quam <i>fascino praestigiis-</i>\n<i>que usus fuit</i>, significat; et عَرّاف <i>hari-\nolum</i>, a radice عَرَفَ, <i>scivit.</i> Sed apud\nLatinos etiam a <i>sagiendo</i>, h. e. ab <i>acute\nsciendo saga</i> dicta est, id quod diserte di-\ncit CICERO <i>de Divinat.</i> L. I. cap. 31. <i>Sagi-\nre sentire acute est, ex quo</i> SAGAE <i>anus,\nquia multa scire volunt.</i> Nobis item Ger-\nmanis dicta <i>eine weise Frau, saga</i>, a <i>wei-\nse, sapiens.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1722,
+    1391
+   ],
+   [
+    1722,
+    1425
+   ]
+  ],
+  "input_tokens": 8157,
+  "output_tokens": 1490,
+  "cost_usd": 0.0624,
+  "seconds": 19.6
+ }
+}

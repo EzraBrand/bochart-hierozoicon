@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "176 De Aspide surda, Psal. LVIII, 5. 6. P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "176 De Aspide surda, Psal. LVIII, 5. 6. P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ipse cruor tutus, nullumque admittere virus\nVel cantu cessante potest, natura locorum\nIussit, ut immunes misti serpentibus essent.\nProfuit in mediis sedem posuisse venenis.\nPax illis cum morte data est. Fiducia tanta est\nSanguinis. In terram parvus cum decidit infans,\nNe qua sit externae Veneris mistura timentes,\nLethifica dubios explorant aspide partus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ipse cruor tutus, nullumque admittere virus\nVel cantu cessante potest, natura locorum\nIussit, ut immunes misti serpentibus essent.\nProfuit in mediis sedem posuisse venenis.\nPax illis cum morte data est. Fiducia tanta est\nSanguinis. In terram parvus cum decidit infans,\nNe qua sit externae Veneris mistura timentes,\nLethifica dubios explorant aspide partus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Circa <i>Hellesponti Parium</i> eadem vis insita fuit <i>Ophiogenis</i>, de quibus, post <i>Cratetem Pergamenum</i>, <i>Varro</i>, Strabo, <i>Plinius</i>, <i>Priscianus</i>, etc. Quid, quod <i>Celsus</i> lib. 5. cap. 27. <i>Psyllis</i> nihil quidquam tribuit supra vulgus hominum, praeter <i>audaciam</i>, <i>usu ipso confirmatam</i>? Ac si idem iis acciderit, quod <i>Mithridati</i>, de quo <i>Poeta</i>:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Circa <i>Hellesponti Parium</i> eadem vis insita fuit <i>Ophiogenis</i>, de quibus, post <i>Cratetem Pergamenum</i>, <i>Varro</i>, Strabo, <i>Plinius</i>, <i>Priscianus</i>, etc. Quid, quod <i>Celsus</i> lib. 5. cap. 27. <i>Psyllis</i> nihil quidquam tribuit supra vulgus hominum, praeter <i>audaciam</i>, <i>usu ipso confirmatam</i>? Ac si idem iis acciderit, quod <i>Mithridati</i>, de quo <i>Poeta</i>:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Effecit poto Mithridates saepe veneno,\nToxica ne possent saeva nocere sibi.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Effecit poto Mithridates saepe veneno,\nToxica ne possent saeva nocere sibi.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Praeterea, quamvis <i>Arabes</i> serpentum alios posse incantari scripserint, alios ab incantatione esse prorsus immunes, quos <i>surdos</i> vocant, <i>Davidis</i> tamen, <i>Solomonis</i> et <i>Ieremiae</i> loca eo referre necesse non est. Neque enim Sancti Prophetae serpentes uspiam ita distinguunt. Sed ex illorum verbis hoc solum elicias, saepe magos id frustra conari, sive aspides, sive regulos, sive aliud quodvis serpentis genus cantu suo delinire et demulcere conentur. Itaque, ut his Scripturae locis sua constet veritas, non opus est sibi fingere, quasdam esse serpentum species, in quas magorum carmina nihil possint. Quippe in eadem serpentis specie potest diversus esse successus, prout varie Deus diabolo habenas aut adducit, aut remittit. Nec daemon paredrus, a quo pendet incantationis tota vis, ad magi nutum semper se accommodat. Unde est, quod illius conatus non semper voto respondet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Praeterea, quamvis <i>Arabes</i> serpentum alios posse incantari scripserint, alios ab incantatione esse prorsus immunes, quos <i>surdos</i> vocant, <i>Davidis</i> tamen, <i>Solomonis</i> et <i>Ieremiae</i> loca eo referre necesse non est. Neque enim Sancti Prophetae serpentes uspiam ita distinguunt. Sed ex illorum verbis hoc solum elicias, saepe magos id frustra conari, sive aspides, sive regulos, sive aliud quodvis serpentis genus cantu suo delinire et demulcere conentur. Itaque, ut his Scripturae locis sua constet veritas, non opus est sibi fingere, quasdam esse serpentum species, in quas magorum carmina nihil possint. Quippe in eadem serpentis specie potest diversus esse successus, prout varie Deus diabolo habenas aut adducit, aut remittit. Nec daemon paredrus, a quo pendet incantationis tota vis, ad magi nutum semper se accommodat. Unde est, quod illius conatus non semper voto respondet."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1714,
+    1210
+   ],
+   [
+    1714,
+    1614
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 742,
+  "cost_usd": 0.0053,
+  "seconds": 7.1
+ }
+}

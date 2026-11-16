@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "180 <i>Probatur</i>, צמאון <i>non esse Dipsadem</i>, P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "180 <i>Probatur</i>, צמאון <i>non esse Dipsadem</i>, P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VIII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VIII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Probatur</i>, צמאון tsimmaon <i>non esse Dipsadem, ut qui-\ndam post Hieronymum reddunt, sed siticulosum\nlocum, Deut. VIII, 15.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Probatur</i>, צמאון tsimmaon <i>non esse Dipsadem, ut qui-\ndam post Hieronymum reddunt, sed siticulosum\nlocum, Deut. VIII, 15.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Dipsas est viperae similis, sed minor, vix dodrantalis, albo corpore, cauda\ngracili, et duabus lineis insigni, quam incedendo sursum attollit, ut obser-\nvant <i>Arabes</i>. Omnes in <i>Africa</i> describunt. Sed et in <i>Arabia</i> nonnulli. <i>Aeli-\nanus Historiae</i> lib. 6. cap. 51. Γίνονται δὲ ἄρα ἐν Λιβύῃ τε καὶ Ἀραβίᾳ μᾶλλον.\nIta etiam <i>Suidas</i>. Et in <i>Aegypti</i> desertis <i>Gregorius Nazianzenus Iambico 22</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Dipsas est viperae similis, sed minor, vix dodrantalis, albo corpore, cauda\ngracili, et duabus lineis insigni, quam incedendo sursum attollit, ut obser-\nvant <i>Arabes</i>. Omnes in <i>Africa</i> describunt. Sed et in <i>Arabia</i> nonnulli. <i>Aeli-\nanus Historiae</i> lib. 6. cap. 51. Γίνονται δὲ ἄρα ἐν Λιβύῃ τε καὶ Ἀραβίᾳ μᾶλλον.\nIta etiam <i>Suidas</i>. Et in <i>Aegypti</i> desertis <i>Gregorius Nazianzenus Iambico 22</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Διψάς τίς ἐςι τῶν ἐχιδναίων γενῶν,\nΤούτων, ὅσ' ἡ ἔρημος Αἰγύπτου φέρει·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Διψάς τίς ἐςι τῶν ἐχιδναίων γενῶν,\nΤούτων, ὅσ' ἡ ἔρημος Αἰγύπτου φέρει·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Dipsas quaedam est viperini generis serpens, ex iis, quos fert Aegypti desertum.</i>\nAlii etiam in <i>Syria</i>. <i>Avicenna Tom. 2. pag. 139.</i> وقال قوم ان اكثر\nما تكون هذه في بلاد لوبية والشام <i>Nonnulli dicunt, eam</i>\n<i>ut plurimum esse in Africae et Syriae regionibus. Apud Aelianum</i> nonnulli <i>pre-\nsterem</i> vocant, <i>causonem</i> alii, et <i>melanurum</i>, et <i>ammebaten</i>, et <i>centriden</i>. Sed\nvulgare nomen est διψὰς, ab inexplebili siti, quam morsu suo excitat. <i>Isidorus\nreddit situlam. Et Avicenna</i>, per periphrasim, الحية المعطشة\n<i>serpentem, sitim excitantem</i>; quasi desit proprium nomen: quod mirum, cum\ndicatur esse in <i>Arabia</i> frequens, et in vicinis locis, ut in <i>Aegypto</i> et <i>Syria</i>. De\nhoc serpente plura qui volet, praeter <i>Nicandrum</i> et <i>medicos</i>, <i>Aelianum</i> legat, ubi\nsupra, et <i>Lucianum</i> libro <i>De dipsadibus</i>, et <i>Lucanum</i> libri 9. versu 738. et <i>Na-\nzianzenum</i> in loco, quem citavimus, et <i>Epiphanium</i> in <i>Marcosiis</i>, et <i>Isidorum</i>,\nqui post <i>Solinum</i> eum in genere aspidum perperam censet, cum ad viperam ma-\nxime accedat. ⟦p. 398.⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Dipsas quaedam est viperini generis serpens, ex iis, quos fert Aegypti desertum.</i>\nAlii etiam in <i>Syria</i>. <i>Avicenna Tom. 2. pag. 139.</i> وقال قوم ان اكثر\nما تكون هذه في بلاد لوبية والشام <i>Nonnulli dicunt, eam</i>\n<i>ut plurimum esse in Africae et Syriae regionibus. Apud Aelianum</i> nonnulli <i>pre-\nsterem</i> vocant, <i>causonem</i> alii, et <i>melanurum</i>, et <i>ammebaten</i>, et <i>centriden</i>. Sed\nvulgare nomen est διψὰς, ab inexplebili siti, quam morsu suo excitat. <i>Isidorus\nreddit situlam. Et Avicenna</i>, per periphrasim, الحية المعطشة\n<i>serpentem, sitim excitantem</i>; quasi desit proprium nomen: quod mirum, cum\ndicatur esse in <i>Arabia</i> frequens, et in vicinis locis, ut in <i>Aegypto</i> et <i>Syria</i>. De\nhoc serpente plura qui volet, praeter <i>Nicandrum</i> et <i>medicos</i>, <i>Aelianum</i> legat, ubi\nsupra, et <i>Lucianum</i> libro <i>De dipsadibus</i>, et <i>Lucanum</i> libri 9. versu 738. et <i>Na-\nzianzenum</i> in loco, quem citavimus, et <i>Epiphanium</i> in <i>Marcosiis</i>, et <i>Isidorum</i>,\nqui post <i>Solinum</i> eum in genere aspidum perperam censet, cum ad viperam ma-\nxime accedat. ⟦p. 398.⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Legitur etiam in Hieronymi versione <i>Deut. VIII, 15. Et ductor tuus fuit\nin solitudine magna atque terribili, in qua erat serpens, flatu adurens, et scorpio,\nac dipsas.</i> Sed Hebraea voce צמאון <i>tsimmaon</i>, quae ibi <i>dipsas</i> redditur, aliud\nsignificari, nempe <i>sitim, siccitatem, siticulosum locum</i>, multa sunt, quae non\nsuadent modo, sed et persuadent. Primo perpetuus vocis usus in ea notione,\nquam diximus. Sic <i>Psalm. CVII, 33. Posuit flumina in desertum, et aquarum\nscatebras</i> לצמאון, <i>in siticulosum locum</i>. Graeci, εἰς δίψαν· Vulgatus et Hiero-\nnymus, <i>in sitim</i>: Chaldaeus, היך צחותא, <i>sicut siccitatem</i>: Syrus, ܠܨܗܝܐ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Legitur etiam in Hieronymi versione <i>Deut. VIII, 15. Et ductor tuus fuit\nin solitudine magna atque terribili, in qua erat serpens, flatu adurens, et scorpio,\nac dipsas.</i> Sed Hebraea voce צמאון <i>tsimmaon</i>, quae ibi <i>dipsas</i> redditur, aliud\nsignificari, nempe <i>sitim, siccitatem, siticulosum locum</i>, multa sunt, quae non\nsuadent modo, sed et persuadent. Primo perpetuus vocis usus in ea notione,\nquam diximus. Sic <i>Psalm. CVII, 33. Posuit flumina in desertum, et aquarum\nscatebras</i> לצמאון, <i>in siticulosum locum</i>. Graeci, εἰς δίψαν· Vulgatus et Hiero-\nnymus, <i>in sitim</i>: Chaldaeus, היך צחותא, <i>sicut siccitatem</i>: Syrus, ܠܨܗܝܐ"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>in</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>in</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1726,
+    1294
+   ],
+   [
+    1726,
+    1502
+   ]
+  ],
+  "input_tokens": 3383,
+  "output_tokens": 1183,
+  "cost_usd": 0.007,
+  "seconds": 11.4
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "144\n<i>De Vipera Pauli.</i>\nP. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "144\n<i>De Vipera Pauli.</i>\nP. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "τούτους Δίκη μετὰ τὴν τελευτὴν ὁ δαίμων παραδίδωσι, <i>hos daemon post mortem\nDice tradit gravius puniendos. In Arati Phaenomenis</i> aurea aetate cum homini-\nbus familiariter convixisse legitur: argentea quoque, quamvis rarius: sed aenea,\npostquam coeperunt boves operarios edere, in coelum secessisse,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "τούτους Δίκη μετὰ τὴν τελευτὴν ὁ δαίμων παραδίδωσι, <i>hos daemon post mortem\nDice tradit gravius puniendos. In Arati Phaenomenis</i> aurea aetate cum homini-\nbus familiariter convixisse legitur: argentea quoque, quamvis rarius: sed aenea,\npostquam coeperunt boves operarios edere, in coelum secessisse,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — πρῶτοι δὲ βοῶν ἐπάσαντ’ ἀροτήρων,\nΚαὶ τότε μισήσασα Δίκη κείνων γένος ἀνδρῶν\nἜπταθ’ ὑπερανίη. — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — πρῶτοι δὲ βοῶν ἐπάσαντ’ ἀροτήρων,\nΚαὶ τότε μισήσασα Δίκη κείνων γένος ἀνδρῶν\nἜπταθ’ ὑπερανίη. — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quo alludens <i>Nazianzenus</i> Carmine tertio,\nΠαρθενικὴ δ’, ἀπὸ σεῖο Φυγὰς, πρὸς Χριστὸν ἀνέλθοι,\nὭς τε Δίκη τοπάροιθε βοὸς κταμένοιο ἀροτῆρος·\n<i>Virginitas, a te fugitiva, ad Christum redibit, ut Dice olim bove aratore caeso.</i>\nNec mirum, <i>Graecae</i> deae famam ad <i>Melitenses</i> devenisse, quorum plerique\n<i>Phoenices</i> erant: cum ante, quam <i>Romani Melitam</i> occupassent, inter <i>Graecos</i>\net <i>Phoenices</i> hujus insulae imperium ita alternaverit, ut modo hos, modo illos\npenes fuerit summa rerum, ut alibi probavimus ex idoneis testibus. Hujus igi-\ntur deae cultum, a <i>Graecis</i> mutuati, illi tribuunt, quod <i>Paulus</i>, e maris peri-\nculo ereptus, in aliud statim incidit, priore non minus grave. In quo judicio\nid quidem placet, quod scelestos statuunt admissi facinoris poenam haudqua-\nquam effugere. Vere enim <i>Plato</i> libro quinto <i>De Legibus</i>, Τιμωρία δ’ ἀδικίας\nἀκόλουθος πάσης· <i>Poena omnis injustitiae comes est.</i> Et <i>Horatius</i> libri tertii\nOda secunda,\n<i>Raro antecedentem scelestum\nDeseruit pede poena claudo.</i>\nEt viperas quoque a Deo in impiorum poenam adhiberi, habetur <i>Eccles.</i> XXXIX,\n35. (al. 38.) Θηρίων ὀδόντες, καὶ σκορπίοι, καὶ ἔχεις, καὶ ῥομφαῖα ἐκδικῶσα\nεἰς ὄλεθρον ἀσεβεῖς· <i>Ferarum dentes, et scorpii, et viperae, et gladius ulciscens\nad internecionem impios.</i> Idem de aspide, <i>Thermuti</i> dicta, persuasum fuit <i>Aegy-\nptiis. Aelianus</i> libri decimi capite trigesimo primo, Φείδεσθαι μὲν αὐτὴν τῶν\nἀγαθῶν, τοὺς δὲ ἀσεβοῦντας ἀποκτιννῦναι. <i>Bonis quidem parcere, impiis au-\ntem necem afferre: quod si ita se habeat</i>, inquit auctor, τῷ παντὸς ἂν ἡ δίκη τι-\nμήσαιτο τὴν δὲ τὴν ἀσπίδα, <i>universi justitia hanc aspidem honoraverit: id est,\nDice</i> dea, quae per hanc in malos animadvertat, ut habetur in sequentibus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quo alludens <i>Nazianzenus</i> Carmine tertio,\nΠαρθενικὴ δ’, ἀπὸ σεῖο Φυγὰς, πρὸς Χριστὸν ἀνέλθοι,\nὭς τε Δίκη τοπάροιθε βοὸς κταμένοιο ἀροτῆρος·\n<i>Virginitas, a te fugitiva, ad Christum redibit, ut Dice olim bove aratore caeso.</i>\nNec mirum, <i>Graecae</i> deae famam ad <i>Melitenses</i> devenisse, quorum plerique\n<i>Phoenices</i> erant: cum ante, quam <i>Romani Melitam</i> occupassent, inter <i>Graecos</i>\net <i>Phoenices</i> hujus insulae imperium ita alternaverit, ut modo hos, modo illos\npenes fuerit summa rerum, ut alibi probavimus ex idoneis testibus. Hujus igi-\ntur deae cultum, a <i>Graecis</i> mutuati, illi tribuunt, quod <i>Paulus</i>, e maris peri-\nculo ereptus, in aliud statim incidit, priore non minus grave. In quo judicio\nid quidem placet, quod scelestos statuunt admissi facinoris poenam haudqua-\nquam effugere. Vere enim <i>Plato</i> libro quinto <i>De Legibus</i>, Τιμωρία δ’ ἀδικίας\nἀκόλουθος πάσης· <i>Poena omnis injustitiae comes est.</i> Et <i>Horatius</i> libri tertii\nOda secunda,\n<i>Raro antecedentem scelestum\nDeseruit pede poena claudo.</i>\nEt viperas quoque a Deo in impiorum poenam adhiberi, habetur <i>Eccles.</i> XXXIX,\n35. (al. 38.) Θηρίων ὀδόντες, καὶ σκορπίοι, καὶ ἔχεις, καὶ ῥομφαῖα ἐκδικῶσα\nεἰς ὄλεθρον ἀσεβεῖς· <i>Ferarum dentes, et scorpii, et viperae, et gladius ulciscens\nad internecionem impios.</i> Idem de aspide, <i>Thermuti</i> dicta, persuasum fuit <i>Aegy-\nptiis. Aelianus</i> libri decimi capite trigesimo primo, Φείδεσθαι μὲν αὐτὴν τῶν\nἀγαθῶν, τοὺς δὲ ἀσεβοῦντας ἀποκτιννῦναι. <i>Bonis quidem parcere, impiis au-\ntem necem afferre: quod si ita se habeat</i>, inquit auctor, τῷ παντὸς ἂν ἡ δίκη τι-\nμήσαιτο τὴν δὲ τὴν ἀσπίδα, <i>universi justitia hanc aspidem honoraverit: id est,\nDice</i> dea, quae per hanc in malos animadvertat, ut habetur in sequentibus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Itaque in barbarorum judicio de <i>Paulo</i> aliquid fuit non omnino contemnendum. ⟦p. 373.⟧\nSed et in eodem constat, illos peccare multipliciter. Primo in eo, quod im-\npiorum poenam non referunt ad verum Deum, sed ad idolum, ab hominibus\nconfictum, quod ab his Δίκη, ab aliis <i>Themis</i>, ab aliis <i>Astraea</i>, aut <i>Erigone</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Itaque in barbarorum judicio de <i>Paulo</i> aliquid fuit non omnino contemnendum. ⟦p. 373.⟧\nSed et in eodem constat, illos peccare multipliciter. Primo in eo, quod im-\npiorum poenam non referunt ad verum Deum, sed ad idolum, ab hominibus\nconfictum, quod ab his Δίκη, ab aliis <i>Themis</i>, ab aliis <i>Astraea</i>, aut <i>Erigone</i>,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "ab",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ab"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1898,
+    1688
+   ],
+   [
+    1898,
+    1128
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1161,
+  "cost_usd": 0.0069,
+  "seconds": 10.9
+ }
+}

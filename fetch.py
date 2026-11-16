@@ -63,6 +63,9 @@ SAMPLE = [
     # Book II goes on with ch. 18 on p. 1. Canvases 23-175 = pp. 1-153: more than the tranche, so that the
     # next one has its pages. Chapter heads: uv run find_chapters.py 23 175 3 (logs/find_chapters_t7.log).
     *[(3, c, "birds6") for c in range(23, 176)],
+    # Tranche 8 (16-Nov-2026): Part 2, Book 3 (the serpents), chs. 1-12, pp. 125-210; p. 211 (CAP. XIII) for
+    # the join. Chapter heads: logs/find_chapters_t8.log.
+    *[(3, c, "serpents") for c in range(176, 234)],
 ]
 
 session = requests.Session()

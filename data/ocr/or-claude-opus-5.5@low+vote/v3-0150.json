@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "150 <i>Probatur,</i> כפיר <i>et</i> שחל <i>non solum leonum,</i> P.II. L.III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "150 <i>Probatur,</i> כפיר <i>et</i> שחל <i>non solum leonum,</i> P.II. L.III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>unculorum implebis?</i> iidem habent, Ψυχὰς δὲ δρακόντων ἐμπλήσεις; <i>Animas</i>\n<i>autem draconum an explebis?</i> Nempe כפיר <i>chephir</i> apud <i>Hebraeos</i> non solum <i>le-</i>\n<i>unculum</i>, sed et <i>dracunculum</i> sonabat ^{(2)}. Quomodo <i>Arabicum</i> شبل <i>sabl</i>,\nquod <i>Hebraeo</i> כפיר <i>chephir</i> plane respondet, et pro <i>leunculo</i> fere sumitur. Ta-\nmen etiam de <i>catulo draconis</i> usurpari, docent haec <i>Arabici</i> paraphrastis <i>Thren.</i>\n<i>IV, 3.</i> والتنانين خلعوا ثديهم اشبالهم ارضعوا <i>Et draco-</i>\n<i>nes mammas eduxerunt, catulos suos lactarunt. Dracones</i> nempe <i>marini</i>, id est,\n<i>cete</i>, ut <i>Hebraice</i> תנין, et <i>Graece</i> δράκοντες hoc ipso loco.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>unculorum implebis?</i> iidem habent, Ψυχὰς δὲ δρακόντων ἐμπλήσεις; <i>Animas</i>\n<i>autem draconum an explebis?</i> Nempe כפיר <i>chephir</i> apud <i>Hebraeos</i> non solum <i>le-</i>\n<i>unculum</i>, sed et <i>dracunculum</i> sonabat ^{(2)}. Quomodo <i>Arabicum</i> شبل <i>sabl</i>,\nquod <i>Hebraeo</i> כפיר <i>chephir</i> plane respondet, et pro <i>leunculo</i> fere sumitur. Ta-\nmen etiam de <i>catulo draconis</i> usurpari, docent haec <i>Arabici</i> paraphrastis <i>Thren.</i>\n<i>IV, 3.</i> والتنانين خلعوا ثديهم اشبالهم ارضعوا <i>Et draco-</i>\n<i>nes mammas eduxerunt, catulos suos lactarunt. Dracones</i> nempe <i>marini</i>, id est,\n<i>cete</i>, ut <i>Hebraice</i> תנין, et <i>Graece</i> δράκοντες hoc ipso loco."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ita vox שחל <i>sachal</i>, cum alibi <i>leonem</i> sonet, tamen <i>Psal. XCI, 13.</i> pro <i>aspi-</i>\n<i>de</i>, aut alio <i>serpente</i>, sumunt vetustissimi interpretes. Ubi <i>Hebraea</i> verba על\nשחל ופתן תדרך, <i>Seniores</i> exponunt, Ἐπ᾽ ἀσπίδα καὶ βασιλίσκον ἐπιβήσῃ.\nEt <i>Vulgatus, Super aspidem et basiliscum ambulabis.</i> Et <i>Hieronymus, Super aspi-</i> ⟦p. 377⟧\n<i>dem et basiliscum calcabis.</i> Et <i>Apollinaris,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ita vox שחל <i>sachal</i>, cum alibi <i>leonem</i> sonet, tamen <i>Psal. XCI, 13.</i> pro <i>aspi-</i>\n<i>de</i>, aut alio <i>serpente</i>, sumunt vetustissimi interpretes. Ubi <i>Hebraea</i> verba על\nשחל ופתן תדרך, <i>Seniores</i> exponunt, Ἐπ᾽ ἀσπίδα καὶ βασιλίσκον ἐπιβήσῃ.\nEt <i>Vulgatus, Super aspidem et basiliscum ambulabis.</i> Et <i>Hieronymus, Super aspi-</i> ⟦p. 377⟧\n<i>dem et basiliscum calcabis.</i> Et <i>Apollinaris,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀσπίδα θαρσαλέως ἐπιβήσῃ, καὶ βασιλίσκον.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀσπίδα θαρσαλέως ἐπιβήσῃ, καὶ βασιλίσκον."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Syrus</i>, ܥܠ ܐܦܥܐ ܘܥܠ ܚܪܡܢܐ ܬܕܘܫ Et <i>Arabs</i>, تطا علي الافعي\nوالحية التنين Et <i>Aethiops</i>, ላዕለ፡ ተኵላ፡ ወከይሲ፡ ትጼዐን፡\nOmnes eodem sensu. Neque enim eorum ullus <i>leonem</i> hic intelligit voce שחל,\nsed <i>serpentis</i> aliquod genus. Quamvis de specie inter illos non conveniat. Nam\n<i>Arabi</i> שחל est الافعي, <i>vipera</i>, Syro ܐܦܥܐ, <i>amphisbaena</i>, Aethiopi ተኵላ፡\nserpentis genus, a lupino ingenio sic appellati. Et toto illo versu על שחל ופתן\nתדרך תרמס כפיר ותנין, <i>Davidem</i> verisimile est solum egisse de serpentibus,\nadeoque vocibus כפיר et שחל tam <i>angues</i> intelligi, quam vocibus פתן et תנין;\nquarum illa <i>aspidem</i>, haec <i>draconem</i> significat. Sic enim omnia melius cohae-\nrebunt; quam si leones cum serpentibus permisceas: ut novi interpretes, qui fe-\nre hic habent: <i>Super leonem et basiliscum ambulabis, conculcabis leunculum et dra-</i>\n<i>conem.</i> In quibus verbis praeter quam ferae junguntur plane diversae naturae,\nnemo facile dixerit, quid sit <i>ambulare super leonem</i>, aut <i>calcare leunculum.</i> Ne-\nque enim quisquam est, qui leonem ambulando calcet, quomodo solemus aspi-\ndes et anguium reliqua genera ^{(3)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Syrus</i>, ܥܠ ܐܦܥܐ ܘܥܠ ܚܪܡܢܐ ܬܕܘܫ Et <i>Arabs</i>, تطا علي الافعي\nوالحية التنين Et <i>Aethiops</i>, ላዕለ፡ ተኵላ፡ ወከይሲ፡ ትጼዐን፡\nOmnes eodem sensu. Neque enim eorum ullus <i>leonem</i> hic intelligit voce שחל,\nsed <i>serpentis</i> aliquod genus. Quamvis de specie inter illos non conveniat. Nam\n<i>Arabi</i> שחל est الافعي, <i>vipera</i>, Syro ܐܦܥܐ, <i>amphisbaena</i>, Aethiopi ተኵላ፡\nserpentis genus, a lupino ingenio sic appellati. Et toto illo versu על שחל ופתן\nתדרך תרמס כפיר ותנין, <i>Davidem</i> verisimile est solum egisse de serpentibus,\nadeoque vocibus כפיר et שחל tam <i>angues</i> intelligi, quam vocibus פתן et תנין;\nquarum illa <i>aspidem</i>, haec <i>draconem</i> significat. Sic enim omnia melius cohae-\nrebunt; quam si leones cum serpentibus permisceas: ut novi interpretes, qui fe-\nre hic habent: <i>Super leonem et basiliscum ambulabis, conculcabis leunculum et dra-</i>\n<i>conem.</i> In quibus verbis praeter quam ferae junguntur plane diversae naturae,\nnemo facile dixerit, quid sit <i>ambulare super leonem</i>, aut <i>calcare leunculum.</i> Ne-\nque enim quisquam est, qui leonem ambulando calcet, quomodo solemus aspi-\ndes et anguium reliqua genera ^{(3)}."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Iam,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Iam,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Sed hac Bocharti sententia nihil esse\npotest infirmius, cum sola Alexandrini in-\nterpretis autoritate nitatur. Et quod Nican-\nder, poeta, colubrum miliarem λέοντα\nαἰόλον vocat, inde ne hoc quidem potest\nconcludi, adhibuisse Graecos leonum no-\nmen serpentibus, multo minus vero, He-\nbraeos.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed hac Bocharti sententia nihil esse\npotest infirmius, cum sola Alexandrini in-\nterpretis autoritate nitatur. Et quod Nican-\nder, poeta, colubrum miliarem λέοντα\nαἰόλον vocat, inde ne hoc quidem potest\nconcludi, adhibuisse Graecos leonum no-\nmen serpentibus, multo minus vero, He-\nbraeos."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Cum vero, ut vidimus, nomen\nכפיר sine ratione pro <i>serpente</i> sumatur, ac\nnihil",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cum vero, ut vidimus, nomen\nכפיר sine ratione pro <i>serpente</i> sumatur, ac\nnihil"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1848,
+    1183
+   ],
+   [
+    1848,
+    1617
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 1917,
+  "cost_usd": 0.0726,
+  "seconds": 25.2,
+  "vote": "3 decisions from v3-126-194"
+ }
+}

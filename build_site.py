@@ -247,6 +247,36 @@ DOCS = [
     {"slug": "aves-immundae", "kind": "entry", "entry": "aves-immundae", "vol": 3, "pages": list(range(119, 125)),
      "title": 'Part 2, Book 2, chapter 33: The number and the marks of the unclean birds',
      "sub": 'Vol. 3, pp. 119–124 · cols. 352–357 of 1663 (Part 2) · the count of the unclean birds and their marks, from Maimonides and the Talmud (Hullin); the moral reading of the prohibition. End of Book 2'},
+    {"slug": "ephe", "kind": "entry", "entry": "ephe", "vol": 3, "pages": list(range(125, 139)),
+     "title": 'Part 2, Book 3, chapter 1: Ephe is the viper',
+     "sub": 'Vol. 3, pp. 125–138 · cols. 357–367 of 1663 (Part 2) · the names of the serpents in Scripture; אפעה ephe (Job 20:16, Isa 30:6, 59:5) is the viper, the afa of the Arabs: Avicenna on its flesh and its young'},
+    {"slug": "vipera-pauli", "kind": "entry", "entry": "vipera-pauli", "vol": 3, "pages": list(range(138, 150)),
+     "title": 'Part 2, Book 3, chapter 2: The viper of Paul; the brood of vipers',
+     "sub": "Vol. 3, pp. 138–149 · cols. 367–375 of 1663 (Part 2) · the viper that hung on Paul's hand in Malta (Acts 28:3–6), Dike the avenger, and γεννήματα ἐχιδνῶν (Matt 3:7): the viper that kills its mother"},
+    {"slug": "chephir-sachal", "kind": "entry", "entry": "chephir-sachal", "vol": 3, "pages": list(range(149, 155)),
+     "title": 'Part 2, Book 3, chapter 3: Chephir and sachal are also names of serpents',
+     "sub": "Vol. 3, pp. 149–154 · cols. 375–379 of 1663 (Part 2) · כפיר chephir and שחל sachal in Ps 91:13 and Job 28:8 are serpents, not lions: animals that share the lion's name"},
+    {"slug": "achsub", "kind": "entry", "entry": "achsub", "vol": 3, "pages": list(range(154, 157)),
+     "title": 'Part 2, Book 3, chapter 4: Achsub is the asp',
+     "sub": 'Vol. 3, pp. 154–156 · cols. 379–380 of 1663 (Part 2) · עכשוב achsub (Ps 140:4) is the asp, named from coiling itself back (עכש and שוב), not the spider of the Targum'},
+    {"slug": "pethen", "kind": "entry", "entry": "pethen", "vol": 3, "pages": list(range(156, 162)),
+     "title": 'Part 2, Book 3, chapter 5: Pethen is the asp',
+     "sub": 'Vol. 3, pp. 156–161 · cols. 380–384 of 1663 (Part 2) · פתן pethen (Deut 32:33, Job 20:14.16, Ps 58:5, 91:13, Isa 11:8): the asp, whose bite has no cure; the Python of the Greeks'},
+    {"slug": "aspis-surda", "kind": "entry", "entry": "aspis-surda", "vol": 3, "pages": list(range(161, 178)),
+     "title": 'Part 2, Book 3, chapter 6: The deaf asp and the charming of serpents',
+     "sub": 'Vol. 3, pp. 161–177 · cols. 384–395 of 1663 (Part 2) · Ps 58:5–6: the charming of serpents among the ancients, the Psylli and the Marsi; whether the asp is deaf, and how it stops its ear'},
+    {"slug": "tseboa-serpens", "kind": "entry", "entry": "tseboa-serpens", "vol": 3, "pages": list(range(177, 181)),
+     "title": 'Part 2, Book 3, chapter 7: Tseboa is the serpent called hyaena',
+     "sub": 'Vol. 3, pp. 177–180 · cols. 395–397 of 1663 (Part 2) · the valley of Tseboim (1 Sam 13:18): צבוע tseboa, the spotted serpent hyaena, male and female by turns; ברדלס and נפרזא in the Talmud'},
+    {"slug": "tsimmaon", "kind": "entry", "entry": "tsimmaon", "vol": 3, "pages": list(range(180, 183)),
+     "title": 'Part 2, Book 3, chapter 8: Tsimmaon is not the dipsas but a thirsty place',
+     "sub": 'Vol. 3, pp. 180–182 · cols. 397–399 of 1663 (Part 2) · צמאון tsimmaon in Deut 8:15 is dry ground, as in Isa 35:7 and Ps 107:33, not the serpent dipsas of the Vulgate'},
+    {"slug": "tsepha", "kind": "entry", "entry": "tsepha", "vol": 3, "pages": list(range(182, 188)),
+     "title": 'Part 2, Book 3, chapter 9: Tsepha, or tsiphoni, is the basilisk',
+     "sub": 'Vol. 3, pp. 182–187 · cols. 399–402 of 1663 (Part 2) · צפע tsepha and צפעני tsiphoni (Prov 23:32, Isa 11:8, 14:29, 59:5, Jer 8:17): the basilisk, from its hiss and its burning breath; Arabic سفع'},
+    {"slug": "basilisci-loca", "kind": "entry", "entry": "basilisci-loca", "vol": 3, "pages": list(range(187, 195)),
+     "title": 'Part 2, Book 3, chapter 10: Five passages of Scripture on the basilisk',
+     "sub": "Vol. 3, pp. 187–193 · cols. 402–408 of 1663 (Part 2) · Prov 23:32, Isa 11:8, 14:29, 59:5 and Jer 8:17 one by one: the basilisk's den, its eggs, the king among the serpents, and no charm against it"},
 ]
 CONTENTS = []
 
@@ -726,7 +756,8 @@ München (MDZ)</a>, rights statement NoC-NC 1.0 · Transcription, translation an
 
 # the books of the Hierozoicon that the chapter titles name (Part 1 has no "Part" in the titles)
 BOOK_NAMES = {"Book 3": "Part 1, Book 3: the wild quadrupeds", "Book 4": "Part 1, Book 4: the oviparous quadrupeds",
-              "Part 2, Book 1": "Part 2, Book 1: the clean birds", "Part 2, Book 2": "Part 2, Book 2: the unclean birds"}
+              "Part 2, Book 1": "Part 2, Book 1: the clean birds", "Part 2, Book 2": "Part 2, Book 2: the unclean birds",
+              "Part 2, Book 3": "Part 2, Book 3: the serpents"}
 
 
 def done_docs() -> list[dict]:

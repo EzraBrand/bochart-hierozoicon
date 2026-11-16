@@ -1,0 +1,135 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "140 <i>De Vipera Pauli.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "140 <i>De Vipera Pauli.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ita enim <i>Tertullianus</i> in <i>Scorpiaco</i>, de <i>Paulo</i>: <i>Morsum viperae sprevit.</i> Et <i>Am-\nbrosius</i> in <i>Hexaëmeron</i> libri sexti capite sexto, <i>Paulum momordit vipera.</i> Et\n<i>Prudentius</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ita enim <i>Tertullianus</i> in <i>Scorpiaco</i>, de <i>Paulo</i>: <i>Morsum viperae sprevit.</i> Et <i>Am-\nbrosius</i> in <i>Hexaëmeron</i> libri sexti capite sexto, <i>Paulum momordit vipera.</i> Et\n<i>Prudentius</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quae, postquam intepuit fomite fumeo,\nLaxavitque ferox colla rigentia,\nIam flecti facilis rettulit ad manum,\nVibrato capite, spicula dentium,\nHaerentem digiti vulnere mordicus\nPendentemque gerens</i> Paulus <i>inhorruit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quae, postquam intepuit fomite fumeo,\nLaxavitque ferox colla rigentia,\nIam flecti facilis rettulit ad manum,\nVibrato capite, spicula dentium,\nHaerentem digiti vulnere mordicus\nPendentemque gerens</i> Paulus <i>inhorruit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Arator</i> libro secundo <i>Historiae Apostolicae</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Arator</i> libro secundo <i>Historiae Apostolicae</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>cui vipera fixit\nDaemonis arma ferens, surgentibus obvia flammis,\nAntiqua feritate manum, gelidique veneni\nVulnus in igne dedit.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>cui vipera fixit\nDaemonis arma ferens, surgentibus obvia flammis,\nAntiqua feritate manum, gelidique veneni\nVulnus in igne dedit.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Oecumenius</i> quoque, Ἡ ἔχις, τῇ τοῦ Ἀποστόλου χειρὶ τοὺς ὀδόντας ἐμβαλοῦσα·\n<i>Vipera, injectis manui Apostoli dentibus.</i> Ego eundem Deum, qui, misso an-\ngelo suo, conclusit ora leonum, ne <i>Prophetam</i> morsu laederent, <i>Dan. VI, 22.</i>\nputo viperam cohibuisse, ne in <i>Apostoli</i> manum noxios dentes defigeret. Quod\nvidentur palam docere haec verba <i>Lucae</i>, ἔπαθεν οὐδὲν κακὸν, <i>nihil mali passus</i> ⟦p. 370⟧\n<i>est.</i> Nam qui a vipera fuisset morsus, non diceretur fuisse immunis ab omni\nmalo. Neque vero καθάπτειν <i>mordere</i> significat, quod quidem sciam, ut ne-\nque <i>pendere</i>, aut <i>invadere</i>, sed <i>illigare</i>, ut simplex ἅπτειν· <i>Xenophon</i> in <i>Cyn-\negetico</i>, Ἐκ τῶν τριμμῶν εἰς τὰ συμφέροντα καθάπτων τοὺς περιδρόμους ἐπὶ\nτὴν γῆν· <i>Ex tramitibus ad loca commoda humi plagas alligans.</i> <i>Anonymus</i> in\n<i>Venerem</i> armatam <i>Anthologiae</i> libri quarti capite duodecimo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Oecumenius</i> quoque, Ἡ ἔχις, τῇ τοῦ Ἀποστόλου χειρὶ τοὺς ὀδόντας ἐμβαλοῦσα·\n<i>Vipera, injectis manui Apostoli dentibus.</i> Ego eundem Deum, qui, misso an-\ngelo suo, conclusit ora leonum, ne <i>Prophetam</i> morsu laederent, <i>Dan. VI, 22.</i>\nputo viperam cohibuisse, ne in <i>Apostoli</i> manum noxios dentes defigeret. Quod\nvidentur palam docere haec verba <i>Lucae</i>, ἔπαθεν οὐδὲν κακὸν, <i>nihil mali passus</i> ⟦p. 370⟧\n<i>est.</i> Nam qui a vipera fuisset morsus, non diceretur fuisse immunis ab omni\nmalo. Neque vero καθάπτειν <i>mordere</i> significat, quod quidem sciam, ut ne-\nque <i>pendere</i>, aut <i>invadere</i>, sed <i>illigare</i>, ut simplex ἅπτειν· <i>Xenophon</i> in <i>Cyn-\negetico</i>, Ἐκ τῶν τριμμῶν εἰς τὰ συμφέροντα καθάπτων τοὺς περιδρόμους ἐπὶ\nτὴν γῆν· <i>Ex tramitibus ad loca commoda humi plagas alligans.</i> <i>Anonymus</i> in\n<i>Venerem</i> armatam <i>Anthologiae</i> libri quarti capite duodecimo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τίπτε μόθων ἄτλητος, Ἐνυαλίοιο λέλογχας,\nΚύπρι; τίς ὁ ψεύσας συγνὰ καθᾶψε μάταν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τίπτε μόθων ἄτλητος, Ἐνυαλίοιο λέλογχας,\nΚύπρι; τίς ὁ ψεύσας συγνὰ καθᾶψε μάταν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cur, cum pugnas tolerare non possis,</i> Martis <i>arma sortita es, o</i> Venus? <i>Quis\nmendax molesta haec frustra adalligavit?</i> Ita etiam περικαθάπτειν, <i>circumalliga-\nre:</i> ut libro quinto <i>Dioscoridis</i> capite <i>De hydrargyro</i>, Περικαθάπτουσιν ἄμβι-\nκα περιαλείψαντες πηλῷ, <i>Calicem, luto illitum, circumalligant.</i> Et Nomen\nκαθαπτὸς <i>ligatus.</i> Sic in veteri <i>proverbio</i> apud <i>Hesychium</i>, Καθαπτὰ λύεις,\nvel, ut alii, κάθαμμα (male in <i>Suida</i> κάθαρμα) id est, <i>Ligata</i>, vel <i>Nodos\nsolvis</i>, quaeque aliis sunt δύσλυτα, <i>insolubilia.</i> Itaque in <i>Lucae</i> verbis καθῆψε\nτῆς χειρὸς αὐτοῦ, <i>Stephanus</i> supplet ἑαυτὴν, et reddit, <i>alligavit se ejus manui.</i>\nQuomodo dixit <i>Basilius</i>, eandem historiam referens, <i>Homilia</i> nona in <i>Hexaë-\nmeron</i>, Φρυγανιζομένῳ τῷ Παύλῳ ἐνάψας ὁ ἔχις, supple ἑαυτὸν, <i>Sarmenta colli-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cur, cum pugnas tolerare non possis,</i> Martis <i>arma sortita es, o</i> Venus? <i>Quis\nmendax molesta haec frustra adalligavit?</i> Ita etiam περικαθάπτειν, <i>circumalliga-\nre:</i> ut libro quinto <i>Dioscoridis</i> capite <i>De hydrargyro</i>, Περικαθάπτουσιν ἄμβι-\nκα περιαλείψαντες πηλῷ, <i>Calicem, luto illitum, circumalligant.</i> Et Nomen\nκαθαπτὸς <i>ligatus.</i> Sic in veteri <i>proverbio</i> apud <i>Hesychium</i>, Καθαπτὰ λύεις,\nvel, ut alii, κάθαμμα (male in <i>Suida</i> κάθαρμα) id est, <i>Ligata</i>, vel <i>Nodos\nsolvis</i>, quaeque aliis sunt δύσλυτα, <i>insolubilia.</i> Itaque in <i>Lucae</i> verbis καθῆψε\nτῆς χειρὸς αὐτοῦ, <i>Stephanus</i> supplet ἑαυτὴν, et reddit, <i>alligavit se ejus manui.</i>\nQuomodo dixit <i>Basilius</i>, eandem historiam referens, <i>Homilia</i> nona in <i>Hexaë-\nmeron</i>, Φρυγανιζομένῳ τῷ Παύλῳ ἐνάψας ὁ ἔχις, supple ἑαυτὸν, <i>Sarmenta colli-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>genti</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>genti</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1747,
+    1152
+   ],
+   [
+    1747,
+    1640
+   ]
+  ],
+  "input_tokens": 8258,
+  "output_tokens": 1851,
+  "cost_usd": 0.0701,
+  "seconds": 24.4,
+  "vote": "2 decisions from v3-126-194"
+ }
+}

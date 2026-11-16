@@ -83,6 +83,16 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 2, ch. 31: *dukiphath* is the hoopoe | III, 107–115 | [Latin](data/entries/dukiphath/la.md) · [English](data/entries/dukiphath/en.md) | 〃 |
 | Part 2, Book 2, ch. 32: *atalleph* is the bat | III, 115–119 | [Latin](data/entries/atalleph/la.md) · [English](data/entries/atalleph/en.md) | 〃 |
 | Part 2, Book 2, ch. 33: the number and the marks of the unclean birds (end of Book 2) | III, 119–124 | [Latin](data/entries/aves-immundae/la.md) · [English](data/entries/aves-immundae/en.md) | 〃 |
+| Part 2, Book 3, ch. 1: *ephe* is the viper | III, 125–138 | [Latin](data/entries/ephe/la.md) · [English](data/entries/ephe/en.md) | $15.86 for the 10 chapters (69 new pages; tranche 8, 16-Nov-2026; synchronous calls, see below) |
+| Part 2, Book 3, ch. 2: the viper of Paul; the brood of vipers | III, 138–149 | [Latin](data/entries/vipera-pauli/la.md) · [English](data/entries/vipera-pauli/en.md) | 〃 |
+| Part 2, Book 3, ch. 3: *chephir* and *sachal* are also names of serpents | III, 149–154 | [Latin](data/entries/chephir-sachal/la.md) · [English](data/entries/chephir-sachal/en.md) | 〃 |
+| Part 2, Book 3, ch. 4: *achsub* is the asp | III, 154–156 | [Latin](data/entries/achsub/la.md) · [English](data/entries/achsub/en.md) | 〃 |
+| Part 2, Book 3, ch. 5: *pethen* is the asp | III, 156–161 | [Latin](data/entries/pethen/la.md) · [English](data/entries/pethen/en.md) | 〃 |
+| Part 2, Book 3, ch. 6: the deaf asp and the charming of serpents (Ps 58:5–6) | III, 161–177 | [Latin](data/entries/aspis-surda/la.md) · [English](data/entries/aspis-surda/en.md) | 〃 |
+| Part 2, Book 3, ch. 7: *tseboa* is the serpent called hyaena | III, 177–180 | [Latin](data/entries/tseboa-serpens/la.md) · [English](data/entries/tseboa-serpens/en.md) | 〃 |
+| Part 2, Book 3, ch. 8: *tsimmaon* is not the dipsas but a thirsty place | III, 180–182 | [Latin](data/entries/tsimmaon/la.md) · [English](data/entries/tsimmaon/en.md) | 〃 |
+| Part 2, Book 3, ch. 9: *tsepha*, or *tsiphoni*, is the basilisk | III, 182–187 | [Latin](data/entries/tsepha/la.md) · [English](data/entries/tsepha/en.md) | 〃 |
+| Part 2, Book 3, ch. 10: five passages of Scripture on the basilisk | III, 187–193 | [Latin](data/entries/basilisci-loca/la.md) · [English](data/entries/basilisci-loca/en.md) | 〃 |
 
 ### Tranches
 
@@ -97,6 +107,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 5 | 13-Nov-2026 | 721–786 (66) | 12 | $7.45 | $0.113 | 1 h 35 min (10:50 to 12:26; the judge batch took 25 min) | 218 | 51 / 21 | 22 | 11, 5 open readings (Samaritan words), and 3 from the spot-check |
 | 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | 1 h 20 min (08:44 to 10:02, with the site work; waiting for batches about 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts; the scan check about 10 min) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
 | 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 117 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
+| 8 | 16-Nov-2026 | vol. 3, 125–193 (69) | 10 | $15.86 | $0.230 | about 1 h (11:20 to 12:20; 10 minutes of it the wait for the test batch) | 243 (109 by rule, 134 read) | 80 / 6 | 20 | 34, with 3 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -185,9 +196,28 @@ from the shapes, the letter count and Bochart's romanization; the second letter 
 romanization wants `קדיא`); `שליכון` on p. 22; `ونتي` on p. 8 (the sense wants `ونتن`); `Aliis nigra est` on p. 50
 (the Arabic has "in its wings"); the print's `probibitio` in the head of ch. 33 is kept.
 
+Tranche 8 (16-Nov-2026) begins Part 2, Book 3, the serpents (chs. 1 to 10 of 14; the book ends on p. 250). A test batch
+of 4 pages was sent first; it had nothing done after 10 minutes, so the tranche ran with synchronous calls again and no
+batch was sent (`logs/prepare_sync_t8.sh`: Opus OCR with 5 workers and Flash with 4 in 5 minutes, the judge with 8
+workers in 9 minutes, the translation of 10 chapters in 10 minutes). Cost by step, from the key's spend: OCR and judge
+$12.28, translation $3.22, spot-check $0.15, three chunks translated again $0.18. The two batches that never started in
+tranche 7 did complete in the night (after 3.6 and 2.6 hours) and were billed $6.54 for results that were not needed;
+the test batch of 15-Nov-2026 took 7.6 hours ($0.14; its four pages, 126 to 129, were used here).
+
+Not certain, for the owner's review: the Syriac `ܚܘܝܘܢܐ` (p. 127, *anguiculum*), `ܝܕܘܥܐ` (p. 167; the crop did not show the
+word) and `ܨܗܘܢܐ` (p. 181, twice); `ܓܪܣܐ` for the Syriac of שחל in Ps 91:13 (pp. 150, 182: the readers gave three other
+words); the Arabic themes `سفع` and `صفع` in the note of pp. 185-186 (the readers gave م, ل and ق for the middle letter; the
+text of p. 184 has `سفع` *saphaa*) and `مسمرط` / `مصمرط` on p. 185; `تصفعها` in the verse of the same note (the Mu'allaqa has
+`تصفقها`); `اسود سالخ` on p. 153 (the readers had ش; Bochart writes *salich* and the print has `يسلخ` just before; not read
+again on the scan); `الشقر` on p. 128 and `سقاب` on p. 185, where the middle letter can be ق or غ in this type; `שח׳` on
+p. 169. Printer's forms kept: `lconum` in the head of ch. 3, `nonnnullis` (p. 149), `Hicronymum` in the head of ch. 8,
+`πόσας` for περιερπύσας (p. 141), `المتخلفة` (p. 177), `البالع` (p. 173), `علوة` (p. 182). On p. 159 two phrases stood in
+the order of the eye, not of the script (`ܡܪܪܬܐ ܕܬܢܝܢܐ`; `اصغر اصناف الثنانين علي`): look for more of these where a Syriac or
+Arabic phrase of several words stands inside a Latin line.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv` and `logs/vote_v3-1-125.csv` (column `outcome`), and for tranches 1 to 7 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv`, `logs/vote_v3-1-125.csv` and `logs/vote_v3-126-194.csv` (column `outcome`), and for tranches 1 to 8 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works

@@ -1,0 +1,1010 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v3-0126",
+   "line": "التي تسمي بالاسغيدة ut sibi afferrent ephe, quam vocant aspidem.",
+   "old": "تسمي",
+   "new": "تسي",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0126",
+   "line": "Sic enim legendum est pro corrupta voce بالاسيلية. Ita Iob. XX, 16.",
+   "old": "بالاسيلية.",
+   "new": "بالاسيليدة.",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0127",
+   "line": "anchusam, et اناجلس anagallidem, et لوف draconium, et كرسنة",
+   "old": "draconium,",
+   "new": "dracontium,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0127",
+   "line": "anguiculum, et Arabs الحية الجرد serpentem glabrum, qui et alio no-",
+   "old": "الجرد",
+   "new": "الجردا",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0128",
+   "line": "Ars trochiscorum alaphai, id est, e viperis, الافاعي هي الحيات",
+   "old": "الحيات",
+   "new": "الحياة",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0129",
+   "line": "bus referri ad افعي ephe. Et haec illius verba, Ἐχίδνης σὰρξ ἑψηθεῖσα, καὶ",
+   "old": "افعي",
+   "new": "افعى",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0129",
+   "line": "pro nostro افعي habet; sed scriptura non",
+   "old": "افعي",
+   "new": "أفعي",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0130",
+   "line": "طبخت كما يطبخ لحم المرماهي بالزيت والملح",
+   "old": "طبخت",
+   "new": "طيبت",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0130",
+   "line": "طبخت كما يطبخ لحم المرماهي بالزيت والملح",
+   "old": "يطبخ",
+   "new": "يطيب",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0131",
+   "line": "Ἠνίκα, θορνυμένου ἔχιος, θολερῷ κυνόδοντι",
+   "old": "Ἠνίκα,",
+   "new": "Ἡνίκα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0132",
+   "line": "Haec et alia plus satis docent, Hebraeorum אפעה et Arabum افعي esse",
+   "old": "افعي",
+   "new": "افعى",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "κήσας· τὸ δὲ ᾠὸν, ὥσπερ τῶν ἰχθύων, μονόχρουν ἐστὶ, καὶ μαλακόδερμον. Vi-",
+   "old": "ᾠὸν,",
+   "new": "ὠὸν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "Historiae lib. 3. cap. 3. Τὰ μὲν γὰρ ἄλλα γένη τῶν ὄφεων ᾠοτοκεῖ· ἔχις δὲ ζωο-",
+   "old": "ᾠοτοκεῖ·",
+   "new": "ὠοτοκεῖ·",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "τοκεῖ μόνον, ᾠοτοκήσας ἐν αὑτῷ πρῶτον. Alia quidem serpentum genera ova",
+   "old": "ᾠοτοκήσας",
+   "new": "ὠοτοκήσας",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "αὑτοῖς δὲ ᾠοτοκοῦσι πρῶτον, ᾠοτοκοῦσι δὲ τέλειον ᾠόν· οὕτως γὰρ γεννᾶται ἐκ",
+   "old": "αὑτοῖς",
+   "new": "αὐτοῖς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "αὑτοῖς δὲ ᾠοτοκοῦσι πρῶτον, ᾠοτοκοῦσι δὲ τέλειον ᾠόν· οὕτως γὰρ γεννᾶται ἐκ",
+   "old": "ᾠοτοκοῦσι",
+   "new": "ὠοτοκοῦσι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "αὑτοῖς δὲ ᾠοτοκοῦσι πρῶτον, ᾠοτοκοῦσι δὲ τέλειον ᾠόν· οὕτως γὰρ γεννᾶται ἐκ",
+   "old": "ᾠοτοκοῦσι",
+   "new": "ὠοτοκοῦσι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "αὑτοῖς δὲ ᾠοτοκοῦσι πρῶτον, ᾠοτοκοῦσι δὲ τέλειον ᾠόν· οὕτως γὰρ γεννᾶται ἐκ",
+   "old": "ᾠόν·",
+   "new": "ὠόν·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "τοῦ ᾠοῦ τὸ ζῶον. Viperae quidem animal foras edunt, sed primum intra se ovum",
+   "old": "ᾠοῦ",
+   "new": "ὠοῦ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "γαλεῶν, καὶ τῶν κρηνῶν· ἐκεῖνά τε γὰρ ἐν ἑαυτοῖς ᾠοτοκήσαντα ζωογονεῖ·",
+   "old": "ᾠοτοκήσαντα",
+   "new": "ὠοτοκήσαντα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "Οἴη γὰρ βαρύθει ὑπὸ κύματι, τοὶ δὲ καθ᾽ ὕλην",
+   "old": "Οἴη",
+   "new": "Οἵη",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "lib. 5. in fine, Τῶν δὲ ὄφεων ὁ μὲν ἔχεις ἔξω ζωοτοκεῖ, ἐν αὑτῷ πρῶτον ᾠοτο-",
+   "old": "ᾠοτο-",
+   "new": "ὠοτο-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0135",
+   "line": "منها الافاعي الاصلية ومنها الافاعي البلوطية ومنها",
+   "old": "البلوطية",
+   "new": "البدوطية",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "clusam, fovent. Et Aelianus lib. 1. cap. 24. Τίκτει δὲ οὐκ ᾠά, ἀλλὰ βρέφη, καὶ",
+   "old": "ᾠά,",
+   "new": "ὠὰ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0134",
+   "line": "τοῦ κατέχειν, διότι μόνον τῶν ὄφεων οὐκ ᾠοτοκεῖ, ἀλλὰ ζωοτοκεῖ· Vipera genus",
+   "old": "ᾠοτοκεῖ,",
+   "new": "ὠοτοκεῖ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0135",
+   "line": "المنفعة ولكثير منها غاية التعطيش والاتلاف به",
+   "old": "غاية",
+   "new": "غاياة",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0138",
+   "line": "ut Num. XV, 32. cujus Foemininum מקששה 1 Reg. XVII, 10. Sed, cum Lu-",
+   "old": "מקששה",
+   "new": "מקששת",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0139",
+   "line": "Ὧρᾳ κρύους· ἐπεὶ δὲ θέρμης ᾔσθετο,",
+   "old": "Ὧρᾳ",
+   "new": "Ὥρᾳ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0139",
+   "line": "فاذا فيه حية اسود Et (Iesus) illi dixit, cui mortem interminatus fue-",
+   "old": "حية",
+   "new": "حيه",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0141",
+   "line": "mine apposito experrecta nutrix animadvertit puerum dormientem, circumplicatum",
+   "old": "experrecta",
+   "new": "exporrecta",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0138",
+   "line": "Γυμνὸν, ἀπὸ συγερῆς ὃς κάμε ναυφθορίης,",
+   "old": "συγερῆς",
+   "new": "στυγερῆς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0140",
+   "line": "Κύπρι; τίς ὁ ψεύστας ςυγνὰ καθᾶψε μάταν.",
+   "old": "ψεύστας",
+   "new": "ψεύσας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0140",
+   "line": "Κύπρι; τίς ὁ ψεύστας ςυγνὰ καθᾶψε μάταν.",
+   "old": "ςυγνὰ",
+   "new": "συγνὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0141",
+   "line": "πύσας, θείνων τῷ οὐραίῳ μέρει, καὶ σφίγγων θατέρῳ, ἀπάγχει τὸ θηρίον",
+   "old": "πύσας,",
+   "new": "πόσας,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0143",
+   "line": "Ἰθύντειρα Δίκη, καὶ Ἐρινύες αἰνοδότειραι,",
+   "old": "Ἐρινύες",
+   "new": "Ἐριννύες",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0143",
+   "line": "— — — τοῦτου δ᾽ ἐπιμάρτυροί ἐστον",
+   "old": "ἐστον",
+   "new": "ἔστον",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0142",
+   "line": "φοι Μαρσοὶ, quia vescuntur serpentibus. Et Dionysio Halicarnasseo Σίγμα lite-",
+   "old": "Σίγμα",
+   "new": "Σῖγμα",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0142",
+   "line": "חיותא et חויא: quarum illa bestiam in genere, haec serpentem sonat. Ita igitur",
+   "old": "חיותא",
+   "new": "חיוא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0143",
+   "line": "Ἀλλ᾽ ὁ Ἐρινὺς ὀλέσειε τέκνων,",
+   "old": "Ἐρινὺς",
+   "new": "Ἐριννὺς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0144",
+   "line": "35. (al. 38.) Θηρίων ὀδόντες, καὶ σκορπίοι, καὶ ἔχεις, καὶ ῥομφαία ἐκδικοῦσα",
+   "old": "ῥομφαία",
+   "new": "ῥομφαῖα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0144",
+   "line": "τούτους Δίκῃ μετὰ τὴν τελευτὴν ὁ δαίμων παραδίδωσι, hos daemon post mortem",
+   "old": "Δίκῃ",
+   "new": "Δίκη",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0144",
+   "line": "῎Επταθ᾽ ὑπουρανίη. — — — —",
+   "old": "῎Επταθ᾽",
+   "new": "Ἔπταθ’",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0146",
+   "line": "Ἠ καὶ που δαμάλεις ἐριγάστορας ἄλλο τε μόσχους",
+   "old": "Ἠ",
+   "new": "Ἡ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0146",
+   "line": "Ἠ καὶ που δαμάλεις ἐριγάστορας ἄλλο τε μόσχους",
+   "old": "καὶ",
+   "new": "καί",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0146",
+   "line": "Ἠ καὶ που δαμάλεις ἐριγάστορας ἄλλο τε μόσχους",
+   "old": "Πίμπρατα,",
+   "new": "Πίμπραται,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0147",
+   "line": "في ثلاثة ايام وربما بقي الي السابع Plerique eorum, qui pere-",
+   "old": "ثلاثة",
+   "new": "ثلثة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0146",
+   "line": "facile sanare eos, qui a ceraste morsi sunt, modo vocentur, πρὶν ἢ πρησθῆναι",
+   "old": "πρησθῆναι",
+   "new": "πρηθῆναι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0146",
+   "line": "σᾷν, καίειν. Aelianus libri primi capite quinquagesimo septimo, Psyllos ait",
+   "old": "σᾷν,",
+   "new": "σᾶν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0147",
+   "line": "ونفاطات كتحرق النار Tunc apparet tumor calidus, ruber, multis",
+   "old": "كتحرق",
+   "new": "كحرق",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0149",
+   "line": "Probatur, כפיר chephir, et שחל sachal, non solum leonum,",
+   "old": "leonum,",
+   "new": "lconum,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0150",
+   "line": "Et Syrus, ܥܠ ܐܦܥܐ ܘܥܠ ܚܪܡܢܐ ܬܕܪܘܟ Et Arabs, تطا علي الافعي",
+   "old": "ܬܕܪܘܟ",
+   "new": "ܬܕܘܫ",
+   "script": "Syriac",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0150",
+   "line": "والحية التنين Et Aethiops, ላዕለ፡ ተኲላ፡ ወከይሲ፡ ትጼዐን፡",
+   "old": "ተኲላ፡",
+   "new": "ተኵላ፡",
+   "script": "Ethiopic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0149",
+   "line": "Leonis nomen nonnullis animalibus commune est, a leone diversissimis. Sic",
+   "old": "nonnullis",
+   "new": "nonnnullis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0150",
+   "line": "Arabi שחל est الافعي, vipera, Syro ܐܦܥܐ, amphisbaena, Aethiopi ተኲላ፡",
+   "old": "ተኲላ፡",
+   "new": "ተኵላ፡",
+   "script": "Ethiopic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0151",
+   "line": "῎Αλλοτε μὲν χροιῇ ψολόεις, ὁτὲ δ᾽ ἔμπαλιν αἰθὸς,",
+   "old": "῎Αλλοτε",
+   "new": "Ἄλλοτε",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0151",
+   "line": "῾Ρεῖά γε μὴν ἀέκοντα μέλας ἠρύκανεν ὕδρος,",
+   "old": "῾Ρεῖά",
+   "new": "Ῥεῖά",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0151",
+   "line": "Φράζεο καὶ χλοάοντα δαεὶς κυανόν τε δράκοντα,",
+   "old": "κυανόν",
+   "new": "κύανόν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0151",
+   "line": "Πλησάμενος κατέχευεν ἄσιν, προύτυψε δὲ πόντῳ.",
+   "old": "προύτυψε",
+   "new": "προὔτυψε",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0155",
+   "line": "Ὁλκῷ δὲ τροχόωσαν ἅλων᾽ εἱλίξατο γαίῃ.",
+   "old": "εἱλίξατο",
+   "new": "εἰλίξατο",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0155",
+   "line": "282. vocabulum ἅπαξ λεγόμενον עכשוב ma-",
+   "old": "λεγόμενον",
+   "new": "λεγομενον",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0156",
+   "line": "est, ubi ἀσπίδος nomen gerit. Longitudi-",
+   "old": "ἀσπίδος",
+   "new": "ἀσπιδος",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0157",
+   "line": "Τῆς ἀσπίδος τὸ δῆγμα δῆγμ’ ἐστι θανάτου.",
+   "old": "ἐστι",
+   "new": "ἔστι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0158",
+   "line": "quutus Strabo lib. 17. Διττὴ δ᾽ ἐστιν, inquit, ἡ μὲν σπιθαμιαία, ἥπερ καὶ ὀξυ-",
+   "old": "σπιθαμιαία,",
+   "new": "σπιθαμιαῖα,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0158",
+   "line": "tudinem iis tribuit ὀργυιῇ μετρητὸν, orgya (seu ulna) mensurabilem. Quod se-",
+   "old": "ὀργυιῇ",
+   "new": "ὀργυῇ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0158",
+   "line": "θανατωτέρα· ἡδ᾽ ἐγγὺς ὀργυιᾶς. Duplex est aspis: una quidem dodrantalis,",
+   "old": "ἡδ᾽",
+   "new": "ἥδ’",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0160",
+   "line": "الحيوان الضار Incantant noxia animalia. Vel, quod mihi fit verosimi-",
+   "old": "fit",
+   "new": "sit",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0163",
+   "line": "Καὶ κινδυνεύσαν θανεῖν, ταῖς ἐπῳδαῖς, αἷς οἶδε,",
+   "old": "κινδυνεύσαν",
+   "new": "κυνδυνεύσαν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0164",
+   "line": "Οἴμῃ θελγόμενος δολιχὴν ἀνελύετ' ἄκανθαν,",
+   "old": "ἀνελύετ'",
+   "new": "ἀναλύετ᾽",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0167",
+   "line": "raphrasi, ומחברין ואסרין חיוון ועקרבין וכל מיני רחשין, Qui consociant et li-",
+   "old": "חיוון",
+   "new": "חיוין",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0171",
+   "line": "avellere: sed alii melius, οἷς οὐκ ἔστιν ἐπᾶσαι, quos incantare non licet. Et Ec-",
+   "old": "ἐπᾶσαι,",
+   "new": "ἐπάσαι,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0173",
+   "line": "العضو في الحال او الكي البالغ النافذ بالنار",
+   "old": "البالغ",
+   "new": "البالع",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0173",
+   "line": "لسعها وهي الصم والاصلال ولا ينفع فيها الا قطع",
+   "old": "لسعها",
+   "new": "للسوعها",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0178",
+   "line": "של לובן הוא ויש לו שסה מיני צבעים כמנין ימות השנה של חמה, Serpens,",
+   "old": "שסה",
+   "new": "שס״ה",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0178",
+   "line": "של לובן הוא ויש לו שסה מיני צבעים כמנין ימות השנה של חמה, Serpens,",
+   "old": "צבעים",
+   "new": "צבועים",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0178",
+   "line": "rum genus describit Oppianus libro 2. Cynegeticῶn,",
+   "old": "Cynegeticῶn,",
+   "new": "Cynegeticῶν,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0178",
+   "line": "— — — ἔρραπται δέμας αἰνὸν",
+   "old": "ἔρραπται",
+   "new": "ἔῤῥαπται",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0179",
+   "line": "Hebraeis supra observatam. Et iisdem de caussis hic idem serpens Graecis et Ae-",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0180",
+   "line": "dam post Hieronymum reddunt, sed siticulosum",
+   "old": "Hieronymum",
+   "new": "Hicronymum",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0182",
+   "line": "Nempe, ut de basilisco dixerat, تقتل بصفيرها الي غلوة",
+   "old": "غلوة",
+   "new": "علوة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0181",
+   "line": "Rursus Esa. XXXV, 7. Et erit locus aridus in stagnum, וצמאון, et locus sitticu-",
+   "old": "sitticu-",
+   "new": "siticu-",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0181",
+   "line": "legitur διψὰς, ut volunt, sed δίψα, sitis: ut in Samaritano ·ࠑࠌࠀࠍ et",
+   "old": "·ࠑࠌࠀࠍ",
+   "new": "ࠑࠌࠀࠅࠍ",
+   "script": "Samaritan",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0184",
+   "line": "Ἰυγὴν μίμνουσιν, etc.",
+   "old": "Ἰυγὴν",
+   "new": "Ἰϋγὴν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0182",
+   "line": "بالحظ وباسماع الصفير Utique memoratur, harmene attri-",
+   "old": "بالحظ",
+   "new": "باللحظ",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0183",
+   "line": "שם מין נחש שאין רפואה לנשיכתו דהוא צפעוני וקרוי חורמן על שם שעושה",
+   "old": "דהוא",
+   "new": "והוא",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0183",
+   "line": "שם מין נחש שאין רפואה לנשיכתו דהוא צפעוני וקרוי חורמן על שם שעושה",
+   "old": "צפעוני",
+   "new": "צפעני",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0185",
+   "line": "سعتر vel صعتر, origanum: اسفنط vel اصفنط, species",
+   "old": "سعتر",
+   "new": "سعطر",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0185",
+   "line": "سعتر vel صعتر, origanum: اسفنط vel اصفنط, species",
+   "old": "صعتر,",
+   "new": "صعطر,",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0182",
+   "line": "انها لا تسوي وليس انما تقتل بالسع فقط بل",
+   "old": "بالسع",
+   "new": "باللسع",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0185",
+   "line": "كان غضونهن متون غدر",
+   "old": "غدر",
+   "new": "عدر",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0185",
+   "line": "كان غضونهن متون غدر",
+   "old": "تصفقها",
+   "new": "تصفعها",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0189",
+   "line": "lem explicant Gen. XI, 28. et Es. XXIV, 15. Ego cum Arabico آر aar, quod",
+   "old": "آر",
+   "new": "أار",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0191",
+   "line": "riacῶn versu 397. Et Plinius describit candida in capite macula, ut quodam dia-",
+   "old": "riacῶn",
+   "new": "riacῶν",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0191",
+   "line": "pite tres habentem eminentias. Et Avicenna, مكلل الراس capite coro-",
+   "old": "مكلل",
+   "new": "مكللة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0191",
+   "line": "جاليندوس انها حية شقرا علي راسها ثلاث قنازع",
+   "old": "جاليندوس",
+   "new": "جالينوس",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0191",
+   "line": "rose caussas conquirere, cur cum serpente aut basilisco conferatur rex Ezechias,",
+   "old": "caussas",
+   "new": "causas",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0192",
+   "line": "lae, βασιλισκοι, et ملكا reguli nomina",
+   "old": "ملكا",
+   "new": "ملكة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

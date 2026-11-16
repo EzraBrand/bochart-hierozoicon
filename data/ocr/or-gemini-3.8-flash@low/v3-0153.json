@@ -1,0 +1,62 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. III. sed et serpentum esse nomina. 153",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. III. sed et serpentum esse nomina. 153"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "dicas, quod <i>Damir</i> ita explicat: الاسود السالخ نوع من\nالحيات شديد السواد سمي بذلك لانه\nيسلخ جلده كل عام <i>Alafuad affalich</i>, <i>serpentis ge-</i>\n<i>nus nigredinis intensissimae</i>, <i>qui sic vocatur</i>, <i>quia quotannis pellem exuit</i>.\nAliud exemplar habet نوع من الافعوان <i>viperae genus</i>. Nigras\naspides intelligo, quas sub viperarum genere multi complectuntur <i>Arabes</i>.\nEae nimirum aspides nigerrimae sunt, quod praeter <i>Nicandrum</i> docent <i>Pau-</i>\n<i>sanias</i>, <i>Aelianus</i>, <i>Aëtius</i>, atque <i>Arabum</i> nonnulli. Quo dato, veteres שחל\n<i>schachal</i> recte <i>aspidem</i> interpretantur. De nigro serpente multa fabulatur <i>Da-</i>\n<i>mir</i>, quae piget hic referre. In his <i>Iesum</i>, <i>Mariae</i> filium, lignatori prae-\ndixisse, fore, ut illa ipsa die in summum vitae discrimen incideret: qui,\ncum lignatum ivisset, et rediisset sub vesperam cum fasce ligni, cumque\njussu <i>Christi</i> solvisset, reperit in illo حية سودا, <i>serpentem nigrum</i>.\nTum, <i>Iesu</i> rogante, quid fecisset, et illo negante, se quidquam fecisse,\nnisi quod transeunti mendico sui panis partem dederat, regessit <i>Iesus</i>,\nبهذا دفع عنك <i>Propterea Deus a te malum avertit</i>. Alii de ⟦p. 379⟧\n<i>Saleh</i>, propheta, idem narrant, et dicunt, serpentem اسود سالخ\n<i>asuad salich</i> crassum fuisse مثل النجذع <i>instar trunci palmae</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "dicas, quod <i>Damir</i> ita explicat: الاسود السالخ نوع من\nالحيات شديد السواد سمي بذلك لانه\nيسلخ جلده كل عام <i>Alafuad affalich</i>, <i>serpentis ge-</i>\n<i>nus nigredinis intensissimae</i>, <i>qui sic vocatur</i>, <i>quia quotannis pellem exuit</i>.\nAliud exemplar habet نوع من الافعوان <i>viperae genus</i>. Nigras\naspides intelligo, quas sub viperarum genere multi complectuntur <i>Arabes</i>.\nEae nimirum aspides nigerrimae sunt, quod praeter <i>Nicandrum</i> docent <i>Pau-</i>\n<i>sanias</i>, <i>Aelianus</i>, <i>Aëtius</i>, atque <i>Arabum</i> nonnulli. Quo dato, veteres שחל\n<i>schachal</i> recte <i>aspidem</i> interpretantur. De nigro serpente multa fabulatur <i>Da-</i>\n<i>mir</i>, quae piget hic referre. In his <i>Iesum</i>, <i>Mariae</i> filium, lignatori prae-\ndixisse, fore, ut illa ipsa die in summum vitae discrimen incideret: qui,\ncum lignatum ivisset, et rediisset sub vesperam cum fasce ligni, cumque\njussu <i>Christi</i> solvisset, reperit in illo حية سودا, <i>serpentem nigrum</i>.\nTum, <i>Iesu</i> rogante, quid fecisset, et illo negante, se quidquam fecisse,\nnisi quod transeunti mendico sui panis partem dederat, regessit <i>Iesus</i>,\nبهذا دفع عنك <i>Propterea Deus a te malum avertit</i>. Alii de ⟦p. 379⟧\n<i>Saleh</i>, propheta, idem narrant, et dicunt, serpentem اسود سالخ\n<i>asuad salich</i> crassum fuisse مثل النجذع <i>instar trunci palmae</i>."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. V CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. V CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1924,
+    1688
+   ],
+   [
+    1924,
+    1128
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 602,
+  "cost_usd": 0.0048,
+  "seconds": 8.7
+ }
+}

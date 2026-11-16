@@ -1,0 +1,75 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. I. <i>Probatur,</i> אפעה <i>esse Viperam.</i> 135",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. I. <i>Probatur,</i> אפעה <i>esse Viperam.</i> 135"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — γαλεῶν δ' ἑτερότροπα φῦλα,\nΣκύμνοι, καὶ λεῖαι, καὶ ἀκανθίαι, ἐν δ' ἄρα τοῖσι\n'Ρῖναι. — — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — γαλεῶν δ' ἑτερότροπα φῦλα,\nΣκύμνοι, καὶ λεῖαι, καὶ ἀκανθίαι, ἐν δ' ἄρα τοῖσι\n'Ρῖναι. — — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Galeorum autem diversa sunt genera, scymni, et leae, et acanthiae, inter hos quo-\nque sunt squatinae.</i> Proinde galeis et squatinis hoc commune esse dicit <i>Philosophus,</i>\nquod foetus intra se recipiunt et emittunt, <i>Historiae</i> lib. 6. cap. 10. In quo ipso\ncanes et squatinas inter se confert <i>Oppianus</i> ejusdem libri versu 742. Sed, quid-\nquid in <i>Theophrasto</i> legas, ex <i>Aristotele</i> et <i>Plinio</i> constat, etiam viperae ova re-\ncte tribui, quamvis illa intra se habeat, et in utero recondita: ne cui mirum vi-\ndeatur, quod de viperae ovis egit <i>Esaias.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Galeorum autem diversa sunt genera, scymni, et leae, et acanthiae, inter hos quo-\nque sunt squatinae.</i> Proinde galeis et squatinis hoc commune esse dicit <i>Philosophus,</i>\nquod foetus intra se recipiunt et emittunt, <i>Historiae</i> lib. 6. cap. 10. In quo ipso\ncanes et squatinas inter se confert <i>Oppianus</i> ejusdem libri versu 742. Sed, quid-\nquid in <i>Theophrasto</i> legas, ex <i>Aristotele</i> et <i>Plinio</i> constat, etiam viperae ova re-\ncte tribui, quamvis illa intra se habeat, et in utero recondita: ne cui mirum vi-\ndeatur, quod de viperae ovis egit <i>Esaias.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quamvis <i>viperam</i> eo loco praecise intelligere haud quaquam sit necesse.\nUtut enim אפעה <i>ephe</i> proprie <i>viperam</i> sonet, quod quae hactenus docuimus,\nabunde probant, certum tamen est, apud <i>Arabes</i> vocem افعي <i>ephe</i> multo la-\ntius extendi. Quod probant haec <i>Avicennae Canonis</i> lib. 4. <i>Fen.</i> 4. tract. 3. cap.\n3. qui est <i>De cura leprae,</i> ولا يجب ان تكون الافعي سبخية\nاو ريغية ولا رقية ولا شطية فانها في الاكثر قليلة\nالمنفعة ولكثير منها غاياة التعطيش والاتلاف به ⟦p. 366⟧\nبل تختار الجبلية لاسيما البيض <i>Non oportet, ut sit</i> ale-\nphe (<i>vipera</i>) <i>e locis salsuginosis, aut lutosis, aut ripariis, aut littoralibus; quia\ntalis, ut plurimum, est parum efficax. Inprimis ex iis exitio est, quae pernicio-\nsam sitim excitat</i> (dipsas). <i>Eligatur itaque montana, maxime alba,</i> etc. Et lib. 5.\ncapite <i>De trochiscis ex carne viperae,</i> وليس يصلح لهذه الاقراص\nكل الافاعي بل شقر <i>Ad hos trochiscos apti non sunt omnes</i> alaphai,\n<i>sed solum flavi,</i> etc. Et paullo post, ويجب ان تجتنب الضارنة\nوالرقم والرقش الضارية الي البياض ولا تصطاد من\nالسباخ وشطوط الاودية الانهار والبحار ولا المشجرة فان\nفيها البلوطية الخبيثة المعطشة <i>Et removeri oportet cor-\nnutas</i> (viperas), <i>et varias, seu bicolores, vergentes ad albedinem. Neque petan-\ntur ex locis salsuginosis, aut ripis torrentium et fluviorum, et littoribus marium;\nneque ex arboribus, quia in iis sunt dryinae, foedae, et sitim excitantes.</i> Et in\ncapite <i>De speciebus Serpentum,</i> qui est lib. 4. <i>Fen.</i> 6. tract. 3. cap. 21.\nوالطبقة الثانية من الافاعي ونحوها ايضا مختلفة\nمنها الافاعي الاصلية ومنها الافاعي البدوطية ومنها\nالمعطشة",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quamvis <i>viperam</i> eo loco praecise intelligere haud quaquam sit necesse.\nUtut enim אפעה <i>ephe</i> proprie <i>viperam</i> sonet, quod quae hactenus docuimus,\nabunde probant, certum tamen est, apud <i>Arabes</i> vocem افعي <i>ephe</i> multo la-\ntius extendi. Quod probant haec <i>Avicennae Canonis</i> lib. 4. <i>Fen.</i> 4. tract. 3. cap.\n3. qui est <i>De cura leprae,</i> ولا يجب ان تكون الافعي سبخية\nاو ريغية ولا رقية ولا شطية فانها في الاكثر قليلة\nالمنفعة ولكثير منها غاياة التعطيش والاتلاف به ⟦p. 366⟧\nبل تختار الجبلية لاسيما البيض <i>Non oportet, ut sit</i> ale-\nphe (<i>vipera</i>) <i>e locis salsuginosis, aut lutosis, aut ripariis, aut littoralibus; quia\ntalis, ut plurimum, est parum efficax. Inprimis ex iis exitio est, quae pernicio-\nsam sitim excitat</i> (dipsas). <i>Eligatur itaque montana, maxime alba,</i> etc. Et lib. 5.\ncapite <i>De trochiscis ex carne viperae,</i> وليس يصلح لهذه الاقراص\nكل الافاعي بل شقر <i>Ad hos trochiscos apti non sunt omnes</i> alaphai,\n<i>sed solum flavi,</i> etc. Et paullo post, ويجب ان تجتنب الضارنة\nوالرقم والرقش الضارية الي البياض ولا تصطاد من\nالسباخ وشطوط الاودية الانهار والبحار ولا المشجرة فان\nفيها البلوطية الخبيثة المعطشة <i>Et removeri oportet cor-\nnutas</i> (viperas), <i>et varias, seu bicolores, vergentes ad albedinem. Neque petan-\ntur ex locis salsuginosis, aut ripis torrentium et fluviorum, et littoribus marium;\nneque ex arboribus, quia in iis sunt dryinae, foedae, et sitim excitantes.</i> Et in\ncapite <i>De speciebus Serpentum,</i> qui est lib. 4. <i>Fen.</i> 6. tract. 3. cap. 21.\nوالطبقة الثانية من الافاعي ونحوها ايضا مختلفة\nمنها الافاعي الاصلية ومنها الافاعي البدوطية ومنها\nالمعطشة"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1872,
+    1645
+   ],
+   [
+    1872,
+    1159
+   ]
+  ],
+  "input_tokens": 8662,
+  "output_tokens": 1491,
+  "cost_usd": 0.0645,
+  "seconds": 20.1,
+  "vote": "2 decisions from v3-126-194"
+ }
+}

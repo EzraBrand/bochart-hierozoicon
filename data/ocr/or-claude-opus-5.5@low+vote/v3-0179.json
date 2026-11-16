@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VII. <i>quem Hyaenam vocarunt Graeci et Aegyptii.</i> 179",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VII. <i>quem Hyaenam vocarunt Graeci et Aegyptii.</i> 179"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ita <i>Oppianus</i> lib. 3. <i>Cynegeticῶn</i> versu 274. Qui proinde στικτὰς, <i>varias</i> paullo\ninfra nominat. Atque, ut <i>tseboa</i> serpens sexum alternare creditur, ita etiam\n<i>tseboa</i> quadrupes, id est, <i>hyaena.</i> Quod cum multis probaverim in capite <i>De\nhyaena</i> ^{a)}, hic sufficiet ejusdem <i>Oppiani</i> verba proferre,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ita <i>Oppianus</i> lib. 3. <i>Cynegeticῶn</i> versu 274. Qui proinde στικτὰς, <i>varias</i> paullo\ninfra nominat. Atque, ut <i>tseboa</i> serpens sexum alternare creditur, ita etiam\n<i>tseboa</i> quadrupes, id est, <i>hyaena.</i> Quod cum multis probaverim in capite <i>De\nhyaena</i> ^{a)}, hic sufficiet ejusdem <i>Oppiani</i> verba proferre,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Θαῦμα δὲ καὶ τὸ δ᾽ ἄκουσα περὶ στικτῆσιν ὑαίνης,\n Ἄρσενα καὶ θήλειαν ἀμείβεσθαι λυκάβαντι·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θαῦμα δὲ καὶ τὸ δ᾽ ἄκουσα περὶ στικτῆσιν ὑαίνης,\n Ἄρσενα καὶ θήλειαν ἀμείβεσθαι λυκάβαντι·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Miraculum etiam hoc audivi de pictis hyaenis, marem et foeminam alternare quot-\nannis.</i> Merito igitur <i>tseboa</i>, id est, <i>hyaena</i>, vocatur serpens, qui utrumque\nhoc cum hyaena commune habet, pellem variam et sexus alternationem, ab ⟦p. 397⟧\n<i>Hebraeis</i> supra observatam. Et iisdem de causis hic idem serpens <i>Graecis</i> et <i>Ae-\ngyptiis hyaena</i> dictus. <i>Gesnerus</i> de quadrupedibus in <i>Hyaena</i> pag. 556. Aelia-\nnus <i>et</i> Orus <i>in</i> Hieroglyphicis <i>hyaenam, non quadrupedem, sed serpentem, per\nvices marem et foeminam esse prodiderunt.</i> Nempe in <i>Aeliano</i> legerat, <i>Historiae</i>\nlib. 1. cap. 25. Τὴν ὕαιναν ὄφιν τῆτες μὲν ἄῤῥενα εἰ θεάσαιο, τὴν αὐτὴν ἐς νέω-\nτα ὄψει θῆλυν δέ· <i>Hyaenam serpentem hoc anno, si marem videris, illam ipsam\nanno altero foeminam videbis.</i> Et in <i>Horo Hieroglyphicῶn</i> libri 2. cap. 65. Ὕαι-\nναν ὄφιν ζωγραφοῦσιν· αὕτη γὰρ ὅτε μὲν ἄῤῥην γίνεται, ὅτε δὲ θήλεια· <i>Hyae-\nnam serpentem pingunt</i> (ut hominem parum constantem designent): <i>haec enim\nmodo mas est, modo foemina.</i> Ita habebant libri, quos <i>Gesnerus</i> consulerat. At\nin nostris editionibus vox ὄφιν utroque loco desideratur; quia illam editores tan-\nquam superfluam induxerunt. Quod malo exemplo videtur et praeter rationem\nesse factum: cum, praeter <i>Graecos</i> et <i>Aegyptios</i>, <i>Hebraei</i> quoque צבעים <i>tseboim</i>,\nid est <i>hyaenas</i>, inter serpentes censeant, et illis eandem tribuant sexuum vicissi-\ntudinem. In <i>Horo</i> igitur et <i>Aeliano</i> vox ὄφις, delata perperam, est omnino re-\nstituenda: et <i>Hebraeorum Lexicis</i> addenda vox צבוע <i>tseboa</i>, quae et <i>hyaenam\nquadrupedem</i>, et <i>hyaenam serpentem</i> sonat. Quamvis pro fabuloso habeam,\nquod <i>Hebraei</i>, <i>Graeci</i> et <i>Aegyptii</i> vel hanc, vel illam sexum per vices mutare\nscribunt *).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Miraculum etiam hoc audivi de pictis hyaenis, marem et foeminam alternare quot-\nannis.</i> Merito igitur <i>tseboa</i>, id est, <i>hyaena</i>, vocatur serpens, qui utrumque\nhoc cum hyaena commune habet, pellem variam et sexus alternationem, ab ⟦p. 397⟧\n<i>Hebraeis</i> supra observatam. Et iisdem de causis hic idem serpens <i>Graecis</i> et <i>Ae-\ngyptiis hyaena</i> dictus. <i>Gesnerus</i> de quadrupedibus in <i>Hyaena</i> pag. 556. Aelia-\nnus <i>et</i> Orus <i>in</i> Hieroglyphicis <i>hyaenam, non quadrupedem, sed serpentem, per\nvices marem et foeminam esse prodiderunt.</i> Nempe in <i>Aeliano</i> legerat, <i>Historiae</i>\nlib. 1. cap. 25. Τὴν ὕαιναν ὄφιν τῆτες μὲν ἄῤῥενα εἰ θεάσαιο, τὴν αὐτὴν ἐς νέω-\nτα ὄψει θῆλυν δέ· <i>Hyaenam serpentem hoc anno, si marem videris, illam ipsam\nanno altero foeminam videbis.</i> Et in <i>Horo Hieroglyphicῶn</i> libri 2. cap. 65. Ὕαι-\nναν ὄφιν ζωγραφοῦσιν· αὕτη γὰρ ὅτε μὲν ἄῤῥην γίνεται, ὅτε δὲ θήλεια· <i>Hyae-\nnam serpentem pingunt</i> (ut hominem parum constantem designent): <i>haec enim\nmodo mas est, modo foemina.</i> Ita habebant libri, quos <i>Gesnerus</i> consulerat. At\nin nostris editionibus vox ὄφιν utroque loco desideratur; quia illam editores tan-\nquam superfluam induxerunt. Quod malo exemplo videtur et praeter rationem\nesse factum: cum, praeter <i>Graecos</i> et <i>Aegyptios</i>, <i>Hebraei</i> quoque צבעים <i>tseboim</i>,\nid est <i>hyaenas</i>, inter serpentes censeant, et illis eandem tribuant sexuum vicissi-\ntudinem. In <i>Horo</i> igitur et <i>Aeliano</i> vox ὄφις, delata perperam, est omnino re-\nstituenda: et <i>Hebraeorum Lexicis</i> addenda vox צבוע <i>tseboa</i>, quae et <i>hyaenam\nquadrupedem</i>, et <i>hyaenam serpentem</i> sonat. Quamvis pro fabuloso habeam,\nquod <i>Hebraei</i>, <i>Graeci</i> et <i>Aegyptii</i> vel hanc, vel illam sexum per vices mutare\nscribunt *)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Part. I. lib. III. cap. XI. pag. 832.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Part. I. lib. III. cap. XI. pag. 832.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Sed non praetermittere debuit Bochar-\ntus, quae GESNERUS de <i>Hyaena serpente</i>\nin libro <i>De Serpentibus</i> p. 59. dicit. Is\nenim, postquam illam de sexus mutatione\nfabulam ex Aeliano et Oro retulisset, addit:\n<i>Sed plures hoc de hyaena quadrupede\nscribunt. Et sane incertum est, num tale\nquoddam sit serpentis genus, nec etiam\nverisimile, talem sexus mutationem in eo\ndeprehendi posse.</i> Omnino vero satis mi-\nrari non possum, Bochartum futilibus Rab-\nbinorum commentis tantum tribuere, ut\nsola horum auctoritate vocem צבוע etiam ut\n<i>serpentis</i> nomen in Lexica immigrare jubeat.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed non praetermittere debuit Bochar-\ntus, quae GESNERUS de <i>Hyaena serpente</i>\nin libro <i>De Serpentibus</i> p. 59. dicit. Is\nenim, postquam illam de sexus mutatione\nfabulam ex Aeliano et Oro retulisset, addit:\n<i>Sed plures hoc de hyaena quadrupede\nscribunt. Et sane incertum est, num tale\nquoddam sit serpentis genus, nec etiam\nverisimile, talem sexus mutationem in eo\ndeprehendi posse.</i> Omnino vero satis mi-\nrari non possum, Bochartum futilibus Rab-\nbinorum commentis tantum tribuere, ut\nsola horum auctoritate vocem צבוע etiam ut\n<i>serpentis</i> nomen in Lexica immigrare jubeat."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Z 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Z 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1801,
+    1418
+   ],
+   [
+    1801,
+    1398
+   ]
+  ],
+  "input_tokens": 8460,
+  "output_tokens": 1959,
+  "cost_usd": 0.073,
+  "seconds": 25.2,
+  "vote": "1 decisions from v3-126-194"
+ }
+}
