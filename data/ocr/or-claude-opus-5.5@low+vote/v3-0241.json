@@ -1,0 +1,111 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>De Serpentibus in genere.</i> 241",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Serpentibus in genere.</i> 241"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>gutture fortitus est</i>, in vicinia capitis, cum in caeteris animalibus medium pe-\nctus occupet. Unde est, quod <i>Epaminondas</i>, ut <i>Thebanos</i> recta in <i>Lacedaemo-\nniorum</i> agmen impelleret, ^{d)} Μέγιστον ἔχιν συλλαβὼν ἔδειξεν αὐτοῖς, καὶ πάν-\nτων ἐναντίον τὴν κεφαλὴν τοῦ θηρίου συντρίψας, Ὁρᾶτε, ἔφη, ὅτι τὸ λοιπὸν\nσῶμα ἄχρηστον, τῆς κεφαλῆς οἰχομένης. οὕτω δὴ ἢν τὰς τῶν πολεμίων κεφα-\nλὰς, τὸ Λακωνικὸν τοῦτο συντρίψωμεν, τὸ λοιπὸν σῶμα τῶν συμμάχων ἄχρη-\nστον. <i>Maximum serpentem arreptum ostendit ipsis</i>, <i>et ejus capite attrito in conspe-\nctu omnium</i>, <i>Videtis</i>, <i>inquit</i>, <i>capite adempto</i>, <i>reliquum corpus esse inutile. Ita,\nsi hostium capita</i>, <i>nempe</i> Laconicum <i>hoc contriverimus</i>, <i>reliquum corpus sociorum\nnullius erit usus.</i> Quapropter serpens in pugna fere in eo totus est, ut caput\npericulo eximat, <i>Epiphanius</i> in <i>Physiologo</i> cap. 15. Ὅλον τὸ σῶμα παραδίδωσι,\nτὴν κεφαλὴν μόνην φυλάσσει. Et in <i>Ophitas</i>, <i>Haeresi</i> 37. Ἐν τῷ διώκεσθαι,\nγινώσκων ὅτι ἐν τῇ κεφαλῇ αὐτοῦ ἡ πᾶσα ζωὴ αὐτοῦ τυγχάνει, ὅλον τὸ σῶμα\nειλήσας ἐπὶ τὴν κεφαλὴν αὐτοῦ κρύπτει μὲν τὸ κρανίον ἑαυτοῦ, παραδίδωσι δὲ\nτὸ ἄλλο σῶμα· <i>Ab aliquo appetitus</i>, <i>cum in capite vitam omnem suam residere\nsentiat</i>, <i>toto in caput complicato corpore</i>, <i>cranium quidem suum occultat</i>, <i>tradit\nautem reliquum corpus.</i> Chrysostomus <i>in</i> Psal. CXIV. Ὁ ὄφις τὸ λοιπὸν σῶμα\nπροΐεται, ὥστε τὴν κεφαλὴν διασῶσαι. <i>Serpens reliquum corpus exponit</i>, <i>ut ca-\nput conservet.</i> Caesarius, <i>Dialogo</i> 4. Quaest. 192. Ὁ γὰρ ὄφις ὑπὸ βροτοῦ δυ-\nνάμει καταλεφθεὶς, ὅλον μὲν τῷ παίοντι τὸ σῶμα περοΐεται, τὴν δὲ κεφαλὴν\nἄτρωτον φρουρεῖν μηχανᾶται. <i>Serpens enim</i>, <i>ab homine vi correptus</i>, <i>totum\nquidem corpus percutienti objicit</i>, <i>caput autem illaesum servare conatur.</i> Isidorus\nPelusiota, <i>lib.</i> 1. <i>Epist.</i> 126. Ὅσαις γὰρ ἂν περιστάσεσι καὶ πληγαῖς ὁ ὄφις συνέ-\nχηται, τὴν ἑαυτοῦ φυλάττει κεφαλὴν ἀβλαβῆ· <i>Quibuscunque enim casibus et\nplagis serpens prematur</i>, <i>caput suum servat illaesum.</i> Et <i>Isidorus</i> alius, nempe\n<i>Hispalensis</i>, <i>Orig.</i> lib. 12. cap. 4. <i>Totum corpus objicit pro capite ferientibus.</i>\nTzetzes <i>Chil.</i> 9. cap. 263.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>gutture fortitus est</i>, in vicinia capitis, cum in caeteris animalibus medium pe-\nctus occupet. Unde est, quod <i>Epaminondas</i>, ut <i>Thebanos</i> recta in <i>Lacedaemo-\nniorum</i> agmen impelleret, ^{d)} Μέγιστον ἔχιν συλλαβὼν ἔδειξεν αὐτοῖς, καὶ πάν-\nτων ἐναντίον τὴν κεφαλὴν τοῦ θηρίου συντρίψας, Ὁρᾶτε, ἔφη, ὅτι τὸ λοιπὸν\nσῶμα ἄχρηστον, τῆς κεφαλῆς οἰχομένης. οὕτω δὴ ἢν τὰς τῶν πολεμίων κεφα-\nλὰς, τὸ Λακωνικὸν τοῦτο συντρίψωμεν, τὸ λοιπὸν σῶμα τῶν συμμάχων ἄχρη-\nστον. <i>Maximum serpentem arreptum ostendit ipsis</i>, <i>et ejus capite attrito in conspe-\nctu omnium</i>, <i>Videtis</i>, <i>inquit</i>, <i>capite adempto</i>, <i>reliquum corpus esse inutile. Ita,\nsi hostium capita</i>, <i>nempe</i> Laconicum <i>hoc contriverimus</i>, <i>reliquum corpus sociorum\nnullius erit usus.</i> Quapropter serpens in pugna fere in eo totus est, ut caput\npericulo eximat, <i>Epiphanius</i> in <i>Physiologo</i> cap. 15. Ὅλον τὸ σῶμα παραδίδωσι,\nτὴν κεφαλὴν μόνην φυλάσσει. Et in <i>Ophitas</i>, <i>Haeresi</i> 37. Ἐν τῷ διώκεσθαι,\nγινώσκων ὅτι ἐν τῇ κεφαλῇ αὐτοῦ ἡ πᾶσα ζωὴ αὐτοῦ τυγχάνει, ὅλον τὸ σῶμα\nειλήσας ἐπὶ τὴν κεφαλὴν αὐτοῦ κρύπτει μὲν τὸ κρανίον ἑαυτοῦ, παραδίδωσι δὲ\nτὸ ἄλλο σῶμα· <i>Ab aliquo appetitus</i>, <i>cum in capite vitam omnem suam residere\nsentiat</i>, <i>toto in caput complicato corpore</i>, <i>cranium quidem suum occultat</i>, <i>tradit\nautem reliquum corpus.</i> Chrysostomus <i>in</i> Psal. CXIV. Ὁ ὄφις τὸ λοιπὸν σῶμα\nπροΐεται, ὥστε τὴν κεφαλὴν διασῶσαι. <i>Serpens reliquum corpus exponit</i>, <i>ut ca-\nput conservet.</i> Caesarius, <i>Dialogo</i> 4. Quaest. 192. Ὁ γὰρ ὄφις ὑπὸ βροτοῦ δυ-\nνάμει καταλεφθεὶς, ὅλον μὲν τῷ παίοντι τὸ σῶμα περοΐεται, τὴν δὲ κεφαλὴν\nἄτρωτον φρουρεῖν μηχανᾶται. <i>Serpens enim</i>, <i>ab homine vi correptus</i>, <i>totum\nquidem corpus percutienti objicit</i>, <i>caput autem illaesum servare conatur.</i> Isidorus\nPelusiota, <i>lib.</i> 1. <i>Epist.</i> 126. Ὅσαις γὰρ ἂν περιστάσεσι καὶ πληγαῖς ὁ ὄφις συνέ-\nχηται, τὴν ἑαυτοῦ φυλάττει κεφαλὴν ἀβλαβῆ· <i>Quibuscunque enim casibus et\nplagis serpens prematur</i>, <i>caput suum servat illaesum.</i> Et <i>Isidorus</i> alius, nempe\n<i>Hispalensis</i>, <i>Orig.</i> lib. 12. cap. 4. <i>Totum corpus objicit pro capite ferientibus.</i>\nTzetzes <i>Chil.</i> 9. cap. 263."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "τυπτόμενος εἰς φόνον,\nΠαντοιοτρόπως τὴν κεφαλὴν τὴν ἑαυτοῦ συγκρύπτει.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "τυπτόμενος εἰς φόνον,\nΠαντοιοτρόπως τὴν κεφαλὴν τὴν ἑαυτοῦ συγκρύπτει."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "An huc pertinet, quod scribit <i>Sirachides</i>, Οὐκ ἔστι κεφαλὴ ὑπὲρ κεφαλὴν\nὄφεως· <i>Non est caput supra caput serpentis?</i> Non puto, quia sic sensus esset sub-\nobscurus. Haud dubie igitur auctor libri <i>Hebraice</i> scripserat לא ראש על ראש\nהנחש, quod vertendum, <i>Non est venenum supra venenum serpentis.</i> Nempe\nראש tam <i>venenum</i> significat, quam <i>caput.</i> Sic <i>Deut. XXXII, 33. Vinum eorum</i>,\nראש פתנים, <i>venenum aspidum.</i> Toto coelo aberraret, qui redderet <i>caput aspi-\ndum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "An huc pertinet, quod scribit <i>Sirachides</i>, Οὐκ ἔστι κεφαλὴ ὑπὲρ κεφαλὴν\nὄφεως· <i>Non est caput supra caput serpentis?</i> Non puto, quia sic sensus esset sub-\nobscurus. Haud dubie igitur auctor libri <i>Hebraice</i> scripserat לא ראש על ראש\nהנחש, quod vertendum, <i>Non est venenum supra venenum serpentis.</i> Nempe\nראש tam <i>venenum</i> significat, quam <i>caput.</i> Sic <i>Deut. XXXII, 33. Vinum eorum</i>,\nראש פתנים, <i>venenum aspidum.</i> Toto coelo aberraret, qui redderet <i>caput aspi-\ndum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Polyaen. lib.</i> 2. <i>Stratag.</i>",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Polyaen. lib.</i> 2. <i>Stratag.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Eccles. XXV</i>, 16. <i>al.</i> 18. <i>al.</i> 22.",
+   "marker": "e)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Eccles. XXV</i>, 16. <i>al.</i> 18. <i>al.</i> 22."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Hh",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Hh"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1688,
+    1406
+   ],
+   [
+    1688,
+    1430
+   ]
+  ],
+  "input_tokens": 8178,
+  "output_tokens": 2255,
+  "cost_usd": 0.0778,
+  "seconds": 34.4,
+  "vote": "2 decisions from v3-195-271"
+ }
+}

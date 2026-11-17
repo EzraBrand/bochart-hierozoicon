@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "228 De Draconibus. P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "228 De Draconibus. P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Lubrica permulcent cristati colla draconis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lubrica permulcent cristati colla draconis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et lib. 7. de dracone, velleris aurei custode.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et lib. 7. de dracone, velleris aurei custode."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Qui crista linguisque tribus praesignis.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qui crista linguisque tribus praesignis.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Philostratus</i> lib. 3. cap. 2. Τὸν ἐν τῷ τῆς Νεμέας ἄλσει (δράκοντα) φασὶ καὶ\nλοφιὰν ἔχειν. Ὅπερ ἐκ ἂν περὶ τὲς ἑλείες εὕροιμεν· <i>Draconem in Nemeae\nluco cristatum esse, dicunt, quod nos in palustribus non invenimus.</i> Et de mon-\ntanis draconibus idem, Τέτοις καὶ λοφιὰ φύεται· νέοις μὲν ὑπανίσχουσα τὸ\nμέτριον, τελειουμένοις δὲ συναυξανομένη τε, καὶ συνανιοῦσα εἰς πολύ. <i>His et-\niam crista nascitur; juvenibus quidem mediocriter erecta, sed aetate provectis gran-\ndior et valde remissa.</i> Et infra, Ἀπὸ δὲ τῶν λόφων, πυρσῶν ὄντων, πῦρ αὐ-\nτοῖς ἅττει λαμπαδίου πλέον· <i>Ex cristis autem, quae rubrae sunt, ignis plus quam\nex face scintillat.</i> Et <i>Aelianus</i> lib. 11. cap. 26. Ὁ μὲν δράκων ὁ ἄῤῥην τὸν λόφον\n(ἔχει) καὶ τὴν ὑπήνην δασεῖαν· <i>Draco mas cristam habet et barbam densam.</i> Et\n<i>Hieronymus</i> in <i>Es. XIII.</i> תנין <i>dracones magnos interpretati sumus, qui cristati\nsunt, et volantes.</i> Et <i>Isidorus</i> lib. 12. <i>Originum</i> cap. 4. <i>Est autem</i> (draco) <i>cri-\nstatus ore parvo</i>, etc. Volucres denique esse dracones, plerique putant. <i>Luca-\nnus</i> lib. 9. versu 732.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Philostratus</i> lib. 3. cap. 2. Τὸν ἐν τῷ τῆς Νεμέας ἄλσει (δράκοντα) φασὶ καὶ\nλοφιὰν ἔχειν. Ὅπερ ἐκ ἂν περὶ τὲς ἑλείες εὕροιμεν· <i>Draconem in Nemeae\nluco cristatum esse, dicunt, quod nos in palustribus non invenimus.</i> Et de mon-\ntanis draconibus idem, Τέτοις καὶ λοφιὰ φύεται· νέοις μὲν ὑπανίσχουσα τὸ\nμέτριον, τελειουμένοις δὲ συναυξανομένη τε, καὶ συνανιοῦσα εἰς πολύ. <i>His et-\niam crista nascitur; juvenibus quidem mediocriter erecta, sed aetate provectis gran-\ndior et valde remissa.</i> Et infra, Ἀπὸ δὲ τῶν λόφων, πυρσῶν ὄντων, πῦρ αὐ-\nτοῖς ἅττει λαμπαδίου πλέον· <i>Ex cristis autem, quae rubrae sunt, ignis plus quam\nex face scintillat.</i> Et <i>Aelianus</i> lib. 11. cap. 26. Ὁ μὲν δράκων ὁ ἄῤῥην τὸν λόφον\n(ἔχει) καὶ τὴν ὑπήνην δασεῖαν· <i>Draco mas cristam habet et barbam densam.</i> Et\n<i>Hieronymus</i> in <i>Es. XIII.</i> תנין <i>dracones magnos interpretati sumus, qui cristati\nsunt, et volantes.</i> Et <i>Isidorus</i> lib. 12. <i>Originum</i> cap. 4. <i>Est autem</i> (draco) <i>cri-\nstatus ore parvo</i>, etc. Volucres denique esse dracones, plerique putant. <i>Luca-\nnus</i> lib. 9. versu 732."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>ducitis altum\nAëra cum pennis.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>ducitis altum\nAëra cum pennis.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hieronymus</i> jam modo, <i>Cristati sunt et volantes.</i> <i>Augustinus</i> libri tertii <i>De Ge-</i> ⟦p. 433.⟧\n<i>nesi ad literam</i> capite nono: <i>Dracones autem</i>, etc. <i>in aërem sustolli perhibentur.</i>\nEt in <i>Psalmum CXLVIII.</i> <i>De speluncis procedunt, feruntur in aëra.</i> Iovius ubi\nsupra, <i>Asserunt Georgiani regni incolae, his in vallibus dracones gigni alatos.</i> Sca-\nliger quoque, <i>Quaedam genera draconum alas habent.</i> Cui sententiae id favere\nvideri possit, quod <i>Apoc. XII</i>, 7. draco mysticus <i>in coelo</i>, id est, in summo\naëre, cum <i>Michaele</i> pugnat, tanquam alis eo subvectus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hieronymus</i> jam modo, <i>Cristati sunt et volantes.</i> <i>Augustinus</i> libri tertii <i>De Ge-</i> ⟦p. 433.⟧\n<i>nesi ad literam</i> capite nono: <i>Dracones autem</i>, etc. <i>in aërem sustolli perhibentur.</i>\nEt in <i>Psalmum CXLVIII.</i> <i>De speluncis procedunt, feruntur in aëra.</i> Iovius ubi\nsupra, <i>Asserunt Georgiani regni incolae, his in vallibus dracones gigni alatos.</i> Sca-\nliger quoque, <i>Quaedam genera draconum alas habent.</i> Cui sententiae id favere\nvideri possit, quod <i>Apoc. XII</i>, 7. draco mysticus <i>in coelo</i>, id est, in summo\naëre, cum <i>Michaele</i> pugnat, tanquam alis eo subvectus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tamen in hac draconum descriptione non puto quidquam esse veri. Nam,\nut a pedibus ordiamur, veterum scriptorum nullus est, qui draconi pedes tri-\nbuat. Et <i>Augustinus</i> in loco, quem nuper citavimus, eum esse ἄποδα, difer-\nte docet. <i>Dracones</i>, ait, <i>sine pedibus et in speluncis requiescere, et in aërem\nsustolli perhibentur.</i> Neque gradi, sed serpere dicuntur in his <i>Lucani</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tamen in hac draconum descriptione non puto quidquam esse veri. Nam,\nut a pedibus ordiamur, veterum scriptorum nullus est, qui draconi pedes tri-\nbuat. Et <i>Augustinus</i> in loco, quem nuper citavimus, eum esse ἄποδα, difer-\nte docet. <i>Dracones</i>, ait, <i>sine pedibus et in speluncis requiescere, et in aërem\nsustolli perhibentur.</i> Neque gradi, sed serpere dicuntur in his <i>Lucani</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Vos quoque, qui, cunctis innoxia numina terris,\nSerpitis aurato nitidi fulgore dracones.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vos quoque, qui, cunctis innoxia numina terris,\nSerpitis aurato nitidi fulgore dracones.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nempe draco est serpentis genus, quem in ventrem <i>serpere</i> jussit Deus <i>Gen. III</i>,\n14. Iam de cristis ita <i>Plinius</i> libri undecimi capite trigesimo septimo, <i>Draco-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nempe draco est serpentis genus, quem in ventrem <i>serpere</i> jussit Deus <i>Gen. III</i>,\n14. Iam de cristis ita <i>Plinius</i> libri undecimi capite trigesimo septimo, <i>Draco-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>num</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>num</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1787,
+    1409
+   ],
+   [
+    1787,
+    1383
+   ]
+  ],
+  "input_tokens": 3409,
+  "output_tokens": 1315,
+  "cost_usd": 0.0075,
+  "seconds": 13.0
+ }
+}

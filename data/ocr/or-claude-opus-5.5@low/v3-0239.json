@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIV. <i>De Draconibus.</i> 239",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIV. <i>De Draconibus.</i> 239"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Unde <i>Theophrastus</i> in <i>Characteribus</i> de cavillatione, Τὰ δὴ τῶν ἠθῶν μὴ ἁπλᾶ,\nἀλλ᾽ ἐπίβουλα, φυλάττεσθαι μᾶλλον δεῖ, ἢ τοὺς ἔχεις· <i>Mores, qui non sunt\nsimplices, sed insidiosi, fugiendi plus, quam viperae.</i> Et apud <i>Theocritum Pra-\nxinoë</i>, ut sternaces equos doceat se maxime horrere;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Unde <i>Theophrastus</i> in <i>Characteribus</i> de cavillatione, Τὰ δὴ τῶν ἠθῶν μὴ ἁπλᾶ,\nἀλλ᾽ ἐπίβουλα, φυλάττεσθαι μᾶλλον δεῖ, ἢ τοὺς ἔχεις· <i>Mores, qui non sunt\nsimplices, sed insidiosi, fugiendi plus, quam viperae.</i> Et apud <i>Theocritum Pra-\nxinoë</i>, ut sternaces equos doceat se maxime horrere;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἵππον, καὶ τὸν ψυχρὸν ὄφιν, τὰ μάλιστα δεδοίκω·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἵππον, καὶ τὸν ψυχρὸν ὄφιν, τὰ μάλιστα δεδοίκω·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Equum et frigidum anguem maxime timeo.</i> Et in <i>Mercatore Plautus</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Equum et frigidum anguem maxime timeo.</i> Et in <i>Mercatore Plautus</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nempe ruri est uxor tua, quam dudum dixeras\nTe odisse aeque atque angues.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nempe ruri est uxor tua, quam dudum dixeras\nTe odisse aeque atque angues.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ut <i>Horatius</i> libro primo <i>Epistolarum</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ut <i>Horatius</i> libro primo <i>Epistolarum</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>cane pejus et angue\nVitabit.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>cane pejus et angue\nVitabit.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ita inter genus daemonum atque hominum grave odium intercedit, de quo\n<i>Gen. III, 15.</i> Sed hoc solum obiter attingimus, quia sunt alterius loci.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ita inter genus daemonum atque hominum grave odium intercedit, de quo\n<i>Gen. III, 15.</i> Sed hoc solum obiter attingimus, quia sunt alterius loci."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "LIBRI",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "LIBRI"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1672,
+    1695
+   ],
+   [
+    1672,
+    1133
+   ]
+  ],
+  "input_tokens": 8015,
+  "output_tokens": 678,
+  "cost_usd": 0.0456,
+  "seconds": 11.5
+ }
+}

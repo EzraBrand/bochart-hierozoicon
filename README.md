@@ -93,6 +93,11 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 3, ch. 8: *tsimmaon* is not the dipsas but a thirsty place | III, 180–182 | [Latin](data/entries/tsimmaon/la.md) · [English](data/entries/tsimmaon/en.md) | 〃 |
 | Part 2, Book 3, ch. 9: *tsepha*, or *tsiphoni*, is the basilisk | III, 182–187 | [Latin](data/entries/tsepha/la.md) · [English](data/entries/tsepha/en.md) | 〃 |
 | Part 2, Book 3, ch. 10: five passages of Scripture on the basilisk | III, 187–193 | [Latin](data/entries/basilisci-loca/la.md) · [English](data/entries/basilisci-loca/en.md) | 〃 |
+| Part 2, Book 3, ch. 11: *kippoz* is the acontias, the darting serpent | III, 194–205 | [Latin](data/entries/kippoz/la.md) · [English](data/entries/kippoz/en.md) | $17.39 for the 5 chapters (77 new pages; tranche 9, 17-Nov-2026; synchronous calls, see below) |
+| Part 2, Book 3, ch. 12: *sephiphon* is the cerastes | III, 205–211 | [Latin](data/entries/sephiphon/la.md) · [English](data/entries/sephiphon/en.md) | 〃 |
+| Part 2, Book 3, ch. 13: *saraph* is the hydrus; the bronze serpent | III, 211–222 | [Latin](data/entries/saraph/la.md) · [English](data/entries/saraph/en.md) | 〃 |
+| Part 2, Book 3, ch. 14: on dragons | III, 222–250 | [Latin](data/entries/dracones/la.md) · [English](data/entries/dracones/en.md) | 〃 |
+| Part 2, Book 4, ch. 1: the names and kinds of the locusts | III, 251–271 | [Latin](data/entries/locustae-nomina/la.md) · [English](data/entries/locustae-nomina/en.md) | 〃 |
 
 ### Tranches
 
@@ -108,6 +113,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 6 | 14-Nov-2026 | 787–870 (83) | 8 | $9.54 | $0.115 | 1 h 20 min (08:44 to 10:02, with the site work; waiting for batches about 50 min: OCR 7, judge 13 in two parts, translation 15 in two parts; the scan check about 10 min) | 194 | 61 / 8 | 15 | 24, 1 Samaritan phrase, and 1 from the spot-check |
 | 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 117 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
 | 8 | 16-Nov-2026 | vol. 3, 125–193 (69) | 10 | $15.86 | $0.230 | about 1 h (11:20 to 12:20; 10 minutes of it the wait for the test batch) | 243 (109 by rule, 134 read) | 80 / 6 | 20 | 34, with 3 from the spot-check |
+| 9 | 17-Nov-2026 | vol. 3, 195–271 (77) | 5 | $17.39 | $0.226 | about 1 h 35 min (09:25 to 10:05, then 12:50 to 13:45; between them the session stopped at the Claude usage limit) | 287 (132 by rule, 155 read) | 83 / 7 | 18 | 35, with 2 from the spot-check |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -215,9 +221,27 @@ p. 169. Printer's forms kept: `lconum` in the head of ch. 3, `nonnnullis` (p. 14
 the order of the eye, not of the script (`ܡܪܪܬܐ ܕܬܢܝܢܐ`; `اصغر اصناف الثنانين علي`): look for more of these where a Syriac or
 Arabic phrase of several words stands inside a Latin line.
 
+Tranche 9 (17-Nov-2026) ends Part 2, Book 3, the serpents (chs. 11 to 14: *kippoz*, *sephiphon*, *saraph* and the
+long chapter on dragons, pp. 222-250) and begins Book 4, the insects, with ch. 1 on the names of the locusts. The 4-page
+test batch had nothing done after 10 minutes again, so all steps ran synchronously (`logs/prepare_sync_t9.sh`: 19
+minutes for 77 pages; the translation of 5 chapters in 10 minutes, $3.71). Cost by step, from the key's spend: OCR and
+judge $13.22, translation $3.71, spot-check $0.17, three chapters joined again after the spot-check $0.17, the test
+batch nothing yet. The session stopped at the Claude usage limit after the prepare step; a second session did the scan
+check (155 items on 20 contact sheets) and the rest.
+
+Not certain, for the owner's review: the Samaritan word of p. 205 (*insidiantem*; four letters, the first three alike,
+read as `ࠊࠌࠉࠍ` = כמין); the Syriac `ܡܥܪܘܢܐ` of p. 205 (as the Arabic `معرون` beside it); `ἐνειλήσας` (p. 241), `حُنَن`
+(p. 256), the Ethiopic `አድሩመጠቂት፡` (p. 269); `ولجرادة` (p. 269, one lam in the print?). Printer's forms kept: `lu-tro`
+(p. 201), `etipit` (p. 219), `accrbam` (p. 236), `tonsummare` (p. 256), `Iocl` and `Cholir` (p. 259), `ἐρισυβην` (p. 259),
+`καταρηγγνυμένων` (p. 262), `ὑπολεφθείησαν` (p. 226), `καταλεφθεὶς` (p. 241), `askra` (p. 265), `خوق` for خوف (p. 246),
+`جران مكن` for جراد in the note of p. 260, `περιόνωτοι` for πριονωτοί (p. 232). The margin of p. 221 prints column "248",
+a printer's error for 428: the text has 428. Note e) of p. 241 (Sirach 25:15) has no mark in the print; the mark is put
+after *Sirachides*. In Hebrew the readers could not tell ו from ז in קפוז/קפין (p. 246), גזם/גום (pp. 254, 258), זחל (p. 265)
+and הרזבית (p. 266): Bochart's romanization decided (*kippoz*, *gazam*, *zachal*, *harzabith*).
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv`, `logs/vote_v3-1-125.csv` and `logs/vote_v3-126-194.csv` (column `outcome`), and for tranches 1 to 8 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv`, `logs/vote_v3-1-125.csv`, `logs/vote_v3-126-194.csv` and `logs/vote_v3-195-271.csv` (column `outcome`), and for tranches 1 to 9 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works

@@ -1,0 +1,182 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "248 <i>De Serpentibus in genere.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "248 <i>De Serpentibus in genere.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>tem nunquam laedant: idque mihi, in pueritia et adolescentia, serpentibus sine lae-\nsione saepissime congredienti, contigit.</i> Tertium serpentis prudentiae argumen-\ntum idem profert, quod ab homine appetitus solum caput servat illaesum, et\nreliquum corpus objicit. De quo cum jam plura dixerim, hoc solum addam ex\nCaesario, <i>Dial.</i> 4. <i>Quaest.</i> 190. Κατευναζόμενος δὲ, καὶ καθεύδων (ὁ ὄφις) τρο-\nχίζων ἑαυτὸν, μέσην ὅλε τῦ σώματος κεφαλὴν ἀσφαλίζεται, οἱονεὶ τειχίῳ τῷ\nἐφεπομένῳ ὁλκῷ περιοχυρῶν αὐτήν· <i>Cum quieti se tradit ut dormiat serpens,\nsese contorquens, medium intra totum corpus caput communit, consequente tractu,\nut muro, illud circumvallans.</i> Quartum, quod, cum ad fontem venit, ut bibat,\nὀ φέρει τὸν ἰὸν, ἀλλά γε ἀφεὶς αὐτὸν ἐν τῇ νεοττίᾳ, ὕτω καθαρὸς πορεύεται,\n<i>virus non defert, sed illud in nido dimittens, ita purus accedit.</i> Quod <i>Haer.</i> 37.\nidem ita edisserit: Οὐ συμπαραλαμβάνει τὸν ἰὸν μεθ’ ἑαυτῦ, ἀλλὰ ἐν τῷ φω-\nλεῷ καταλιμπάνει, καὶ ὕτως ἐλθὼν λαμβάνει τὸ πόμα τῶν ὑδάτων· <i>Virus\nnon effert secum, sed in latibulo relinquit, et sic accedens aquarum potum sumit.</i>\nEt Eustathius in <i>Hexaëmero</i>, Ὅταν δὲ διψήσῃ τὸν ἰὸν πρότερον ἀποτίθεται, καὶ\nὕτως ἐκπίνει τὸ ὕδωρ ἐκ τῆς πηγῆς· <i>Cum sitit, virus ante deponit, atque ita\naquam ex fonte bibit: nempe ne eum venenum, aqua concretum, occidat</i>, ut addit\nauctor Epistolae ad <i>Praesidium</i>. Non absimile est, quod multi scribunt, vipe-\nram, cum muraena coituram, virus suum prius evomere, tanquam αἰδεμένην\nτὸν γάμον, <i>nuptias reveritam</i>, ut ait Basilius Hom. 7, in <i>Hexaëm.</i> Sed ut fa-\nbulosum id rejicit Andreas ᵇ) in libro Περὶ τῶν ψευδῶς πεπιστευμένων. Quam-\nvis, praeter Basilium ᶜ) et Ambrosium, auctores habeat Nicandrum ᵈ), Aelia-\nnum ᵉ), Oppianum ᶠ), Licinium Macrum ᵍ), Achillem Tatium ʰ), Philen in <i>Iam-\nbis</i> ⁱ), et Isidorum ᵏ), aliosque non parvo numero.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>tem nunquam laedant: idque mihi, in pueritia et adolescentia, serpentibus sine lae-\nsione saepissime congredienti, contigit.</i> Tertium serpentis prudentiae argumen-\ntum idem profert, quod ab homine appetitus solum caput servat illaesum, et\nreliquum corpus objicit. De quo cum jam plura dixerim, hoc solum addam ex\nCaesario, <i>Dial.</i> 4. <i>Quaest.</i> 190. Κατευναζόμενος δὲ, καὶ καθεύδων (ὁ ὄφις) τρο-\nχίζων ἑαυτὸν, μέσην ὅλε τῦ σώματος κεφαλὴν ἀσφαλίζεται, οἱονεὶ τειχίῳ τῷ\nἐφεπομένῳ ὁλκῷ περιοχυρῶν αὐτήν· <i>Cum quieti se tradit ut dormiat serpens,\nsese contorquens, medium intra totum corpus caput communit, consequente tractu,\nut muro, illud circumvallans.</i> Quartum, quod, cum ad fontem venit, ut bibat,\nὀ φέρει τὸν ἰὸν, ἀλλά γε ἀφεὶς αὐτὸν ἐν τῇ νεοττίᾳ, ὕτω καθαρὸς πορεύεται,\n<i>virus non defert, sed illud in nido dimittens, ita purus accedit.</i> Quod <i>Haer.</i> 37.\nidem ita edisserit: Οὐ συμπαραλαμβάνει τὸν ἰὸν μεθ’ ἑαυτῦ, ἀλλὰ ἐν τῷ φω-\nλεῷ καταλιμπάνει, καὶ ὕτως ἐλθὼν λαμβάνει τὸ πόμα τῶν ὑδάτων· <i>Virus\nnon effert secum, sed in latibulo relinquit, et sic accedens aquarum potum sumit.</i>\nEt Eustathius in <i>Hexaëmero</i>, Ὅταν δὲ διψήσῃ τὸν ἰὸν πρότερον ἀποτίθεται, καὶ\nὕτως ἐκπίνει τὸ ὕδωρ ἐκ τῆς πηγῆς· <i>Cum sitit, virus ante deponit, atque ita\naquam ex fonte bibit: nempe ne eum venenum, aqua concretum, occidat</i>, ut addit\nauctor Epistolae ad <i>Praesidium</i>. Non absimile est, quod multi scribunt, vipe-\nram, cum muraena coituram, virus suum prius evomere, tanquam αἰδεμένην\nτὸν γάμον, <i>nuptias reveritam</i>, ut ait Basilius Hom. 7, in <i>Hexaëm.</i> Sed ut fa-\nbulosum id rejicit Andreas ᵇ) in libro Περὶ τῶν ψευδῶς πεπιστευμένων. Quam-\nvis, praeter Basilium ᶜ) et Ambrosium, auctores habeat Nicandrum ᵈ), Aelia-\nnum ᵉ), Oppianum ᶠ), Licinium Macrum ᵍ), Achillem Tatium ʰ), Philen in <i>Iam-\nbis</i> ⁱ), et Isidorum ᵏ), aliosque non parvo numero."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "His ex <i>Plinio</i> addi queat, serpentem, hyberna latebra visu obscurato, ocu-\nlos marathro inungere ac refovere. Si vero squamae obtorpuerunt, spinis ju-\nniperi scabere, et draconem vernam nauseam lactucae succo restinguere. Quae\nnaturali solertia fieri verisimilius, quam qui quadam θεηλάτῳ, prout <i>Arabes</i>\nsibi fingunt. In his الزمخشري <i>Azzammachsari</i>, scriptor, prae caeteris\nfabulosus, cujus verba sunt: حكي ان الافعي اذا اتت عليها\nالف سنة عميت وقد الهمها الله ان تمسح عينيها\nبورق الرانبانج الرطب فير اليها بصرها وربما كان",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "His ex <i>Plinio</i> addi queat, serpentem, hyberna latebra visu obscurato, ocu-\nlos marathro inungere ac refovere. Si vero squamae obtorpuerunt, spinis ju-\nniperi scabere, et draconem vernam nauseam lactucae succo restinguere. Quae\nnaturali solertia fieri verisimilius, quam qui quadam θεηλάτῳ, prout <i>Arabes</i>\nsibi fingunt. In his الزمخشري <i>Azzammachsari</i>, scriptor, prae caeteris\nfabulosus, cujus verba sunt: حكي ان الافعي اذا اتت عليها\nالف سنة عميت وقد الهمها الله ان تمسح عينيها\nبورق الرانبانج الرطب فير اليها بصرها وربما كان"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "ara",
+   "text": "في",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "في"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Apud Athen. lib.</i> 7.",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Apud Athen. lib.</i> 7."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Hexaëm. lib.</i> 5. <i>cap.</i> 7.",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hexaëm. lib.</i> 5. <i>cap.</i> 7."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Theriac. v.</i> 826.",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Theriac. v.</i> 826."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Hist.\nlib.</i> 1. <i>cap.</i> 50. <i>et lib.</i> 9. <i>cap. ult.</i>",
+   "marker": "e)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hist.\nlib.</i> 1. <i>cap.</i> 50. <i>et lib.</i> 9. <i>cap. ult.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>De Venat. lib.</i> 1. <i>v.</i> 380. <i>et Halieut. lib.</i> 1.\n<i>v.</i> 555.",
+   "marker": "f)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Venat. lib.</i> 1. <i>v.</i> 380. <i>et Halieut. lib.</i> 1.\n<i>v.</i> 555."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Apud Plin. lib.</i> 32. <i>cap.</i> 2.",
+   "marker": "g)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Apud Plin. lib.</i> 32. <i>cap.</i> 2."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i> 1.",
+   "marker": "h)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i> 1."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cap.</i> 63.",
+   "marker": "i)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cap.</i> 63."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i>\n12. <i>cap.</i> 6.",
+   "marker": "k)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i>\n12. <i>cap.</i> 6."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1881,
+    1620
+   ],
+   [
+    1881,
+    1188
+   ]
+  ],
+  "input_tokens": 3442,
+  "output_tokens": 1497,
+  "cost_usd": 0.0082,
+  "seconds": 15.1
+ }
+}

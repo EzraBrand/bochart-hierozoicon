@@ -1,0 +1,873 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v3-0196",
+   "line": "τεύουσιν ἐν κυψελίσιν ἐν πυλοῦ πεπλασμέναις μακραῖς. Sic, apud Herodotum",
+   "old": "πεπλασμέναις",
+   "new": "πεπλασμένας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0197",
+   "line": "κακόφωνα, οἱονεὶ σκαιόπές τινες. 2. Accedit, quod merito קפוז kippoz, id",
+   "old": "σκαιόπές",
+   "new": "σκαίοπές",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0197",
+   "line": "scopes. Phavorinus, καὶ δοκοῦσι σκῶπες εἶναι, ἃς κοῦφους ἢ γοῦφους οἱ Ῥωμαῖοι",
+   "old": "Ῥωμαῖοι",
+   "new": "Ῥωμαῖοί",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0197",
+   "line": "g) Vide Athen. lib. 9. Homer. Odyss. ι. Arist. Hist. lib. 9. cap. 28.",
+   "old": "ι.",
+   "new": "ε.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0197",
+   "line": "(Syst. T. I. p. 290. ed. XIII.), σκωπα vete-",
+   "old": "σκωπα",
+   "new": "σκῶπα",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0200",
+   "line": "quodcunque obvium fortuna fecerit. Et Aelianus, Ἀλλόμενον δὲ παραχρῆμα ἐνέ-",
+   "old": "Ἀλλόμενον",
+   "new": "Ἁλλόμενον",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0199",
+   "line": "ربما كمنت علي الاشجار رصدة وترمي بانفسها",
+   "old": "رصدة",
+   "new": "راصدة",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0201",
+   "line": "cro malo pro domo sua, ut ponat in excelso nidum suum! 2. Leoni in Graeca",
+   "old": "cro",
+   "new": "tro",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0201",
+   "line": "Καὶ κοίτην ἐλάφοιο, καὶ ὕστριχος ἔνθα καλιαὶ,",
+   "old": "ὕστριχος",
+   "new": "ὕστρικος",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0201",
+   "line": "suum. Hebr. חריו, foramina sua. Alcamus, العزال عريسة الاسد",
+   "old": "العزال",
+   "new": "العرزال",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0203",
+   "line": "5. in fine; Ὠοτοκοῦσιν ἔξω· ὅταν δὲ τέκῃ, εἰς τὴν γῆν ἐπωάζει. ἐκλέπε-",
+   "old": "γῆν",
+   "new": "γὴν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0203",
+   "line": "αὐτὸν ἐν τῇ νεοττιᾷ, οὕτω καθαρὸς πορεύεται· Cum serpens ad fontem ve-",
+   "old": "νεοττιᾷ,",
+   "new": "νεοττίᾳ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0204",
+   "line": "distincti, lucidi, cum tantae varietatis caussa non appareat satis, atque egit",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0205",
+   "line": "Haec Hebraei de vocis origine, de propria significatione οὐδὲ γρῦ· Alios vero si",
+   "old": "γρῦ·",
+   "new": "γρύ·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0205",
+   "line": "الحيتين رملية الابدان وعلي ابدانها نقط سود",
+   "old": "رملية",
+   "new": "رمليتا",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0203",
+   "line": "Esaias alibi eodem Verbo ovorum basilisci exclusionem exprimit, ut supra l)",
+   "old": "l)",
+   "new": "¹)",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0206",
+   "line": "Ἦ καὶ ἁματτροχιῇσι παρὰ στίβον· — —",
+   "old": "ἁματτροχιῇσι",
+   "new": "ἁματροχιῇσι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0206",
+   "line": "معروف est cerastes, ut Avicennae معرفة. In illis linguis Koph et",
+   "old": "معروف",
+   "new": "معرون",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0207",
+   "line": "per frontem duo habet cornua, cochleae cornibus similia, quamvis non aeque mollia.",
+   "old": "aeque",
+   "new": "aèque",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0207",
+   "line": "ronella esse videtur, Arabibusque صلكة,",
+   "old": "صلكة,",
+   "new": "ملكة,",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0208",
+   "line": "اطوال المغزنه Longitudo illorum eadem, quae cerastae. Neque hae-",
+   "old": "المغزنه",
+   "new": "المقرنه",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0210",
+   "line": "at, integris suis, quantum possunt, viribus, hostes interimant certe, vel terreant.",
+   "old": "at,",
+   "new": "ut,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0212",
+   "line": "num habet. Cum vero terrestris fit, maxime merum et nocentius id acquirit. Ita-",
+   "old": "fit,",
+   "new": "sit,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0212",
+   "line": "السعة بوجع شديد وتلتهب Incipit morsus cum dolore vehe-",
+   "old": "السعة",
+   "new": "اللسعة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0218",
+   "line": "attollatur: Graece, σαυρωθήτω, crucifigatur. Chaldaeis quoque familiaris est",
+   "old": "σαυρωθήτω,",
+   "new": "σταυρωθήτω,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0214",
+   "line": "peri, ab hoc remotissima: nempe سف et اعرجان. Et hoc quid sit, di-",
+   "old": "اعرجان.",
+   "new": "اعرجات.",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0216",
+   "line": "Σείριος αζήνησι, τρύγη δ' ἐνὶ πυθμένι λίμνης·",
+   "old": "αζήνησι,",
+   "new": "ἀζήνῃσι,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0218",
+   "line": "ܘܙܩܦܝܢ ܐܢܬܘܢ, Et vos attollitis, id est, crucifigitis: Graece, καὶ σαυ-",
+   "old": "σαυ-",
+   "new": "σταυ-",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0217",
+   "line": "Addam pro corollario, quas caussas Hebraei comminiscantur hujus pla-",
+   "old": "caussas",
+   "new": "causas",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0218",
+   "line": "tollent eum, id est, crucifigent eum: Graece σαυρῶσαι. Et XXIII, 34.",
+   "old": "σαυρῶσαι.",
+   "new": "σταυρῶσαι.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0218",
+   "line": "tallo confiatum; ut nobis Christum exhiberet, in quo non fuit forma, neque",
+   "old": "confiatum;",
+   "new": "conflatum;",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0218",
+   "line": "est, ut crucifigatur: Graece, εἰς τὸ σαυρωθῆναι. Et XXVII, 22. ܢܙܕܩܦ,",
+   "old": "σαυρωθῆναι.",
+   "new": "σταυρωθῆναι.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0219",
+   "line": "Sed et holocausta, quae Hebraice עלות, id est, ὑψώσεις, dicebantur, quia",
+   "old": "עלות,",
+   "new": "עולות,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0219",
+   "line": "eripit fides, adhuc infirma, modo sit vera et sincera. Atque, ut semel mor-",
+   "old": "eripit",
+   "new": "etipit",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0224",
+   "line": "حيوانان بحريان De serpentibus marinis. Et intelliguntur σμύραιναι,",
+   "old": "σμύραιναι,",
+   "new": "σμύραινα,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0223",
+   "line": "البحري, marinus. Et coelestis, inquiunt, qui Persice هشتنبر obscurior quaedam",
+   "old": "هشتنبر",
+   "new": "هستبر",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0224",
+   "line": "cognomen. Philo Byblienses apud Eusebium De praeparatione Evangelii lib. 1.",
+   "old": "Byblienses",
+   "new": "Bybliensis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0225",
+   "line": "ubi de draconum speciebus in India; Οἱ μὲν δὴ ἕλειοι νωθροί τέ εἰσι, καὶ τριακ-",
+   "old": "τριακ-",
+   "new": "τρια-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0225",
+   "line": "ubi de draconum speciebus in India; Οἱ μὲν δὴ ἕλειοι νωθροί τέ εἰσι, καὶ τριακ-",
+   "old": "οντάπηχυ",
+   "new": "κοντάπηχυ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0226",
+   "line": "λὰ καὶ ὑπὸ τῶν ἄλλων ἁπάντων ψευδολογεῖν ὑποληφθείησαν, centum enim cu-",
+   "old": "ὑποληφθείησαν,",
+   "new": "ὑπολεφθείησαν,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0227",
+   "line": "κεν Ὀνησίκριτος, ὃν οὐκ Ἀλεξάνδρου μᾶλλον ἢ τῶν παραδόξων Ἀλεξάνδρου ἀρ-",
+   "old": "οὐκ",
+   "new": "ἐκ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0234",
+   "line": "Δράκοντες Αἰθιόπων δέ τ᾽, εἰ θηρᾶν δεοῖ,",
+   "old": "θηρᾶν",
+   "new": "θηρᾷν",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0233",
+   "line": "nam, لها وجوه صعر وسود Facies ipsis sunt flavae et nigrae. Et",
+   "old": "صعر",
+   "new": "صغر",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0233",
+   "line": "Φράζεο καὶ χλοάοντα δαεὶς κυανόν τε δράκοντα,",
+   "old": "κυανόν",
+   "new": "κύανόν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0235",
+   "line": "— — — — οὐ μὲν ὅ γ᾽ αὔτως",
+   "old": "αὔτως",
+   "new": "αὐτῶς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0232",
+   "line": "to generi: Οἵδε δὴ πυρσῶται, inquit, καὶ περιόνωτοι γίνονται, οὗτοι καὶ γενει-",
+   "old": "πυρσῶται,",
+   "new": "πυρσῖται,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0234",
+   "line": "κουσι, οἱονεὶ ἴυγγι, τῷ ἄσθματι. τὰ δὲ εἰς ἐκείνων εἰσπίπτει γαστέρας, ὑπὸ",
+   "old": "ἴυγγι,",
+   "new": "ἴϋγγι,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0241",
+   "line": "νάμει καταληφθεὶς, ὅλον μὲν τῷ παίοντι τὸ σῶμα προΐεται, τὴν δὲ κεφαλὴν",
+   "old": "καταληφθεὶς,",
+   "new": "καταλεφθεὶς,",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0241",
+   "line": "νάμει καταληφθεὶς, ὅλον μὲν τῷ παίοντι τὸ σῶμα προΐεται, τὴν δὲ κεφαλὴν",
+   "old": "προΐεται,",
+   "new": "περοΐεται,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0236",
+   "line": "sed veneno draconum infectas, conjicientes, citam et acerbam mortem inferebant.",
+   "old": "acerbam",
+   "new": "accrbam",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0242",
+   "line": "clesi. XXXIX, 35. et in vesicula quadam sub lingua; ideo Iob. XX, 16. Occidet",
+   "old": "clesi.",
+   "new": "cles.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0244",
+   "line": "זחלין, Fragor collisionis arm[?]rum eorum erit ut serpentium repentium. Ac si fra-",
+   "old": "arm[?]rum",
+   "new": "armorum",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0243",
+   "line": "Neque aliter interpretor haec Sirachidis XXVIII, 15. Γλῶσσα τρίτη πολλὰς",
+   "old": "πολλὰς",
+   "new": "πολλοὺς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0244",
+   "line": "Vox exercitus erit ut serpentis reptitantis. Et Chaldaeus, קל כתוש זיניהון כחון",
+   "old": "כתוש",
+   "new": "כחוש",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0244",
+   "line": "لها ابرتان احدهما في انفها والاخرى في ذنبها",
+   "old": "والاخرى",
+   "new": "والاخري",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0246",
+   "line": "Et العباب cicindela, de qua Algiahid, غذاوها التراب لم",
+   "old": "العباب",
+   "new": "الحباحب",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0246",
+   "line": "Serpentes ᾠοτοκεῖν, ova foris edere, et εἰς τὴν γῆν ἐπῳάζειν, in terra fo-",
+   "old": "ᾠοτοκεῖν,",
+   "new": "ὠοτοκεῖν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0246",
+   "line": "Serpentes ᾠοτοκεῖν, ova foris edere, et εἰς τὴν γῆν ἐπῳάζειν, in terra fo-",
+   "old": "ἐπῳάζειν,",
+   "new": "ἐπωάζειν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0252",
+   "line": "\"Οταν τέκωσιν (αἱ ἀκρίδες) ἐνταῦθα γίνονται σκώληκες ὠοειδεῖς, οἳ περιλαμβά-",
+   "old": "\"Οταν",
+   "new": "Ὅταν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0248",
+   "line": "بورق الرازيانج الرطب فيرد اليها بصرها وربما كان",
+   "old": "فيرد",
+   "new": "فير",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0249",
+   "line": "تلك المسافة علي طولها وعلي عماها حتي تهجم",
+   "old": "تهجم",
+   "new": "تهاجم",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0249",
+   "line": "serpentem contendit non alia de caussa dici φρόνιμον, Gen. III. et Matth. X.",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0252",
+   "line": "rum in V. T. mentio fit, quae subjuncta",
+   "old": "fit,",
+   "new": "sit,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0255",
+   "line": "que pruinae valde convenit. Hinc Theophrastus lib. 5. De caussis cap. 19. nivem",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0254",
+   "line": "(3) משוטא מהאמר קמצא שאפא Moschu-",
+   "old": "מהאמר",
+   "new": "מתאמר",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0256",
+   "line": "ארבה distinguitur 1 Reg. VIII, 37. Ioel. I,",
+   "old": "1",
+   "new": "I",
+   "script": "common",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0256",
+   "line": "tione passim occurrit, quasi consummare fere idem sit, quod consumere (8).",
+   "old": "consummare",
+   "new": "tonsummare",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0257",
+   "line": "De insectis pag. 423. Scribunt anno 1475. Siediensem et Lenciciensem oram, at-",
+   "old": "Siediensem",
+   "new": "Sirediensem",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0259",
+   "line": "Cholin, caput glabrum habere dicitur, fe-",
+   "old": "Cholin,",
+   "new": "Cholir,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0257",
+   "line": "عسقر, pedestris), vocatum est, vid.",
+   "old": "عسقر,",
+   "new": "عسكر,",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0258",
+   "line": "ad Radicem pertinere, ut in גום, de quo prius a). Nempe Chaldaice סלעם est",
+   "old": "גום,",
+   "new": "גזם,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0260",
+   "line": "Arab. p. 171. locustam rubram, Dsjerâd",
+   "old": "âchmar",
+   "new": "áchmar",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0260",
+   "line": "Arab. p. 171. locustam rubram, Dsjerâd",
+   "old": "[جران",
+   "new": "[جراد",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0260",
+   "line": "varie distingui, docent Arabes. Damir, وهو اصناف فبعضه",
+   "old": "وهو",
+   "new": "وهى",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0259",
+   "line": "ni ἐρυσίβην vertunt, quod Vulgatus rubi-",
+   "old": "ἐρυσίβην",
+   "new": "ἐρισυβην",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0262",
+   "line": "ὑετῶν καταρρηγνυμένων ἀδρανὴς εἰς πτῆσιν ὁ βροῦχος, καταδεδευμένων αὐτῷ",
+   "old": "καταρρηγνυμένων",
+   "new": "καταρηγγνυμένων",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0265",
+   "line": "ria perperam ἡ ῥιζαχόσκη·) locustae species circa Leptim Africae ἄπτερος et",
+   "old": "ῥιζαχόσκη·)",
+   "new": "ῥιξαχόσκη·)",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0267",
+   "line": "Et rursus, אין אנו יודעין להבדיל ביניהן, Illas inter se distinguere nescimus.",
+   "old": "ביניהן,",
+   "new": "ביניהון,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0268",
+   "line": "לוא",
+   "old": "לוא",
+   "new": "לא",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0271",
+   "line": "sae veteres Horripilatur, ὀρθοτριχεῖ. Lexicon Philoxeni, Ὀρθοτριχίω, horri-",
+   "old": "Ὀρθοτριχίω,",
+   "new": "Ὀρθοτριχιῶ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0269",
+   "line": "2. Ascendentes navem Adrumetinam. Et in Aethiopica ሐመር: አድርመጠቶት:",
+   "old": "ሐመር:",
+   "new": "ሐመር፡",
+   "script": "Ethiopic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0269",
+   "line": "2. Ascendentes navem Adrumetinam. Et in Aethiopica ሐመር: አድርመጠቶት:",
+   "old": "thamar",
+   "new": "chamar",
+   "script": "Ethiopic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0270",
+   "line": "Ὧσπερ τὰ νεῦρα τῶν βελῶν οἱ τοξόται·",
+   "old": "Ὧσπερ",
+   "new": "Ὥσπερ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  }
+ ]
+}

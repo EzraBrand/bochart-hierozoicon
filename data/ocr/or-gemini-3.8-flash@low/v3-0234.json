@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "234 De Draconibus. P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "234 De Draconibus. P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Plinio</i> libri octavi capite decimo quarto. His cum <i>Ieremia</i> magis convenit,\napud quem ecclesia non diceret <sup>a)</sup>, <i>Nebucadnetfar me deglutivit ut draco</i>, si dra-\nco animal esset tam parvi hiatus et innoxii.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Plinio</i> libri octavi capite decimo quarto. His cum <i>Ieremia</i> magis convenit,\napud quem ecclesia non diceret <sup>a)</sup>, <i>Nebucadnetfar me deglutivit ut draco</i>, si dra-\nco animal esset tam parvi hiatus et innoxii."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Idem <i>Propheta</i> recte omnino cum draconibus confert onagros, qui, inopia\npabuli fatiscentes,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Idem <i>Propheta</i> recte omnino cum draconibus confert onagros, qui, inopia\npabuli fatiscentes,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — — <i>coelum</i>\n<i>Suspiciunt patulis captantes naribus auras</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — — <i>coelum</i>\n<i>Suspiciunt patulis captantes naribus auras</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Onagri</i> (inquit capitis decimi quarti versu sexto) <i>stantes in clivis attrahunt ven-</i>\n<i>tum ut dracones</i>. Quamvis dracones non solum ventos, sed et aves supervolan-\ntes aspiratione sua legantur ad se attrahere. <i>Mela</i> libri primi capite decimo nono,\n<i>Circa</i> (Rhyndacum) <i>angues nascuntur immanes, neque ob magnitudinem modo,</i>\n<i>sed ob id etiam mirabiles, quod ubi in alveum ejus aestus solemque fugerunt, emer-</i>\n<i>gunt atque hiant, supervolantesque aves, quamvis alte et perniciter ferantur, ab-</i>\n<i>sorbent</i>. <i>Plinius</i> id ipsum scribit libri octavi capite decimo quarto, tanquam ex\n<i>Metrodoro</i>. Et <i>Aelianus</i> libri secundi capite vigesimo primo, Δράκοντες περὶ\nτῷ ποταμῷ τῷ καλεμένῳ Ῥυνδάκῳ, τὸ μέν τι τῆς σπείρας ἀπηρείσαν εἰς τὴν\nγῆν, τὸ δὲ λοιπὸν σῶμα ἀναστήσαντες πᾶν, ἀτρέμα, καὶ ἡσυχῆ τὴν φά-\nρυγγα ἀνατείναντες, καὶ μέν τοι καὶ τὸ στόμα ἀνοίξαντες, εἶτα τὰ πτηνὰ ἕλ-\nκυσι, οἱονεὶ ἴϋγγι, τῷ ἄσθματι. τὰ δὲ εἰς ἐκείνων εἰσπίπτει γαστέρας, ὑπὸ\nτῆς περὶ αὐτῶν εἰσπνοῆς συρόμενα αὐτοῖς πτεροῖς. <i>Circa fluvium</i> (Ponti), <i>Rhyn-</i>\n<i>dacum nomine, dracones, parte voluminis terrae innixi, reliquo corpore erecto,</i>\n<i>collo tacite et quiete extenso, et ore hiante, aves aspiratione sua, tanquam amato-</i>\n<i>ria illecebra, ad se attrahunt. Illae autem in eorum ventrem decidunt, ipsis suis</i>\n<i>alis draconum spiritu ductae</i>. <i>Phile</i> capite quinquagesimo nono de draconibus id ⟦p. 437.⟧\nipsum tradit,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Onagri</i> (inquit capitis decimi quarti versu sexto) <i>stantes in clivis attrahunt ven-</i>\n<i>tum ut dracones</i>. Quamvis dracones non solum ventos, sed et aves supervolan-\ntes aspiratione sua legantur ad se attrahere. <i>Mela</i> libri primi capite decimo nono,\n<i>Circa</i> (Rhyndacum) <i>angues nascuntur immanes, neque ob magnitudinem modo,</i>\n<i>sed ob id etiam mirabiles, quod ubi in alveum ejus aestus solemque fugerunt, emer-</i>\n<i>gunt atque hiant, supervolantesque aves, quamvis alte et perniciter ferantur, ab-</i>\n<i>sorbent</i>. <i>Plinius</i> id ipsum scribit libri octavi capite decimo quarto, tanquam ex\n<i>Metrodoro</i>. Et <i>Aelianus</i> libri secundi capite vigesimo primo, Δράκοντες περὶ\nτῷ ποταμῷ τῷ καλεμένῳ Ῥυνδάκῳ, τὸ μέν τι τῆς σπείρας ἀπηρείσαν εἰς τὴν\nγῆν, τὸ δὲ λοιπὸν σῶμα ἀναστήσαντες πᾶν, ἀτρέμα, καὶ ἡσυχῆ τὴν φά-\nρυγγα ἀνατείναντες, καὶ μέν τοι καὶ τὸ στόμα ἀνοίξαντες, εἶτα τὰ πτηνὰ ἕλ-\nκυσι, οἱονεὶ ἴϋγγι, τῷ ἄσθματι. τὰ δὲ εἰς ἐκείνων εἰσπίπτει γαστέρας, ὑπὸ\nτῆς περὶ αὐτῶν εἰσπνοῆς συρόμενα αὐτοῖς πτεροῖς. <i>Circa fluvium</i> (Ponti), <i>Rhyn-</i>\n<i>dacum nomine, dracones, parte voluminis terrae innixi, reliquo corpore erecto,</i>\n<i>collo tacite et quiete extenso, et ore hiante, aves aspiratione sua, tanquam amato-</i>\n<i>ria illecebra, ad se attrahunt. Illae autem in eorum ventrem decidunt, ipsis suis</i>\n<i>alis draconum spiritu ductae</i>. <i>Phile</i> capite quinquagesimo nono de draconibus id ⟦p. 437.⟧\nipsum tradit,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δράκοντες Αἰθιόπων δέ τʼ, εἰ θηρᾷν δεοῖ,\nΧαίνοντες ἀσθμαίνεσιν εἰς τὸν ἀέρα,\nΚαὶ τῶν πετεινῶν τὰς κρεμασὰς ἀγέλας,\nἜϋγξι θερμῆς εἰσπνοῆς καλεμένας,\nΚαὶ σπωμένας ἄνωθεν εἰς γῆν ἁθρόας\nἘκ τῶν γνάθων ἕλκυσιν εἰς τὴν γαστέρα.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δράκοντες Αἰθιόπων δέ τʼ, εἰ θηρᾷν δεοῖ,\nΧαίνοντες ἀσθμαίνεσιν εἰς τὸν ἀέρα,\nΚαὶ τῶν πετεινῶν τὰς κρεμασὰς ἀγέλας,\nἜϋγξι θερμῆς εἰσπνοῆς καλεμένας,\nΚαὶ σπωμένας ἄνωθεν εἰς γῆν ἁθρόας\nἘκ τῶν γνάθων ἕλκυσιν εἰς τὴν γαστέρα."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Aethiopici dracones, si aucupio egent, hiantes in aerem anhelant, et avium suspen-</i>\n<i>sos greges, calidae aspirationis illecebra demulctas, et ex alto ad terram fre-</i>\n<i>quentes attractas, ex maxillis in ventrem trahunt</i>. Quo <i>Tertullianus</i> alludens",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Aethiopici dracones, si aucupio egent, hiantes in aerem anhelant, et avium suspen-</i>\n<i>sos greges, calidae aspirationis illecebra demulctas, et ex alto ad terram fre-</i>\n<i>quentes attractas, ex maxillis in ventrem trahunt</i>. Quo <i>Tertullianus</i> alludens"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>De</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Ierem. LI, 34.</i>",
+   "marker": "a)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ierem. LI, 34.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1912,
+    1683
+   ],
+   [
+    1912,
+    1125
+   ]
+  ],
+  "input_tokens": 3394,
+  "output_tokens": 1197,
+  "cost_usd": 0.007,
+  "seconds": 13.9
+ }
+}

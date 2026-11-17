@@ -44,6 +44,14 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # tranche 9 (scan check 17-Nov-2026)
+    ('v3-0201', 'avium,'): 'print avium',
+    ('v3-0222', 'تِبنان'): 'print تِينان (kasra only; ي with two dots)',
+    ('v3-0231', 'Argonauticῶn'): 'print Argonauticῶn',
+    ('v3-0246', 'خوق'): 'print خوق (two dots)',
+    ('v3-0265', 'askra,'): 'print askra',
+    ('v3-0263', 'siacῶn'): 'print ſiacῶn',
+    ('v3-0269', 'ولجرادة'): 'one lam in the print; not certain',
     # tranche 8 (scan check 16-Nov-2026)
     ('v3-0128', 'افعي'): 'print أفعي (hamza and two dots in the print)',
     ('v3-0150', 'Syrus,'): 'print Syrus',
@@ -185,6 +193,25 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # tranche 9 (scan check 17-Nov-2026)
+    ('v3-0201', 'cro'),
+    ('v3-0208', 'المغزنه'),
+    ('v3-0214', 'اعرجان.'),
+    ('v3-0219', 'eripit'),
+    ('v3-0223', 'هشتنبر'),
+    ('v3-0226', 'ὑποληφθείησαν,'),
+    ('v3-0241', 'καταληφθεὶς,'),
+    ('v3-0236', 'acerbam'),
+    ('v3-0245', 'قصبا الغاب خشخشة,'),
+    ('v3-0254', 'מהאמר'),
+    ('v3-0256', 'consummare'),
+    ('v3-0259', 'Cholin,'),
+    ('v3-0257', 'عسقر,'),
+    ('v3-0259', 'ἐρυσίβην'),
+    ('v3-0262', 'καταρρηγνυμένων'),
+    ('v3-0265', 'ῥιζαχόσκη·)'),
+    ('v3-0267', 'ביניהן,'),
+    ('v3-0268', 'לוא'),
     # tranche 8 (scan check 16-Nov-2026)
     ('v3-0126', 'تسمي'),
     ('v3-0128', 'الحيات'),

@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII. <i>Prob.</i>, שפיפון <i>esse Cerasten et Haemorrhoum.</i> 207",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII. <i>Prob.</i>, שפיפון <i>esse Cerasten et Haemorrhoum.</i> 207"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "et ܐܬܢܢ: <i>fumare</i>, ܩܘܦܣ et ܟܦܣ: <i>frigus</i>, ܩܘܦܣܐ et ܟܦܣܐ. Et <i>Ionathani</i>\nרקם est idem locus, qui <i>Hebraeis</i> עצמון <i>Num. XXXIV</i>, 4. Non aliter apud\n<i>Arabes cornu</i> tam est عرن, quam قرن. <i>Giggeius</i> ex <i>Alcamus</i>, عران ⟦p. 418⟧\nالبقر <i>cornua boum</i>, عرنة <i>cornuum radix</i>, عرون <i>limax cochlea</i>, nem-\npe ^{c)} ob cornicula duo, quibus praetentat iter, cum oculorum usu careat. Pari\nratione cerastes ut مقرن ita et معرون, id est, <i>cornutus</i>, dicitur, vel\n<i>qui cornicula cochleae similia habet</i> ^{(1)}. <i>Aelianus</i>, Ὑπὲρ τοῦ μετώπου κέρατα\nἔχει δύο, καὶ ἔοικε τοῖς κοχλίου τὰ κέρατα, οὐ μέν ἐστι ὡς ἐκεῖνα ἁπαλά· <i>Su-\nper frontem duo habet cornua, cochleae cornibus similia, quamvis non aèque mollia.</i>\n<i>Plinius</i> tamen libri undecimi capite trigesimo septimo, tam cerastae, quam co-\nchleae <i>corporea</i> dicit esse <i>cornua</i>, id est, <i>carnea</i>. Proinde <i>Bellonius</i> non appel-\nlat cornua, sed <i>parvas eminentias instar granorum hordei, quae cornicula refe-\nrunt</i> ^{(2)}. Unde falli non parum eos ^{d)} apparet, qui scribunt, ex cerastis corni-\nbus cultellorum manubria fieri ad mensas imperatorum, quia sudore produnt ve-\nnenum appositum. Quis enim manubria cultris ex cornu tantillo fecerit, eoque\nmolli? Ne dicam vero, non esse consentaneum, ut venenosi animalis corniculis\nvis sit ἀλεξιφάρμακος. Sed cerastis cornibus perperam tribuunt barbari scripto-\nres, quod de cornu كركدان <i>carcaddan</i>, sive <i>monocerotis</i>, alicubi lege-\nrant. De illo scilicet <i>Geographus Nubiensis</i> Clim. 1. part. 8. ملوك الهند\nتصنع",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "et ܐܬܢܢ: <i>fumare</i>, ܩܘܦܣ et ܟܦܣ: <i>frigus</i>, ܩܘܦܣܐ et ܟܦܣܐ. Et <i>Ionathani</i>\nרקם est idem locus, qui <i>Hebraeis</i> עצמון <i>Num. XXXIV</i>, 4. Non aliter apud\n<i>Arabes cornu</i> tam est عرن, quam قرن. <i>Giggeius</i> ex <i>Alcamus</i>, عران ⟦p. 418⟧\nالبقر <i>cornua boum</i>, عرنة <i>cornuum radix</i>, عرون <i>limax cochlea</i>, nem-\npe ^{c)} ob cornicula duo, quibus praetentat iter, cum oculorum usu careat. Pari\nratione cerastes ut مقرن ita et معرون, id est, <i>cornutus</i>, dicitur, vel\n<i>qui cornicula cochleae similia habet</i> ^{(1)}. <i>Aelianus</i>, Ὑπὲρ τοῦ μετώπου κέρατα\nἔχει δύο, καὶ ἔοικε τοῖς κοχλίου τὰ κέρατα, οὐ μέν ἐστι ὡς ἐκεῖνα ἁπαλά· <i>Su-\nper frontem duo habet cornua, cochleae cornibus similia, quamvis non aèque mollia.</i>\n<i>Plinius</i> tamen libri undecimi capite trigesimo septimo, tam cerastae, quam co-\nchleae <i>corporea</i> dicit esse <i>cornua</i>, id est, <i>carnea</i>. Proinde <i>Bellonius</i> non appel-\nlat cornua, sed <i>parvas eminentias instar granorum hordei, quae cornicula refe-\nrunt</i> ^{(2)}. Unde falli non parum eos ^{d)} apparet, qui scribunt, ex cerastis corni-\nbus cultellorum manubria fieri ad mensas imperatorum, quia sudore produnt ve-\nnenum appositum. Quis enim manubria cultris ex cornu tantillo fecerit, eoque\nmolli? Ne dicam vero, non esse consentaneum, ut venenosi animalis corniculis\nvis sit ἀλεξιφάρμακος. Sed cerastis cornibus perperam tribuunt barbari scripto-\nres, quod de cornu كركدان <i>carcaddan</i>, sive <i>monocerotis</i>, alicubi lege-\nrant. De illo scilicet <i>Geographus Nubiensis</i> Clim. 1. part. 8. ملوك الهند\nتصنع"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Plin. lib. 9. cap. 32.</i>",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Plin. lib. 9. cap. 32.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Vincent. et auctor De nat. rerum.</i>",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vincent. et auctor De nat. rerum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Arabum معرن sive مقرن, i. e.\n<i>cornutus</i>, haud dubie est <i>Coluber cornutus</i>\nHASSELQUISTI (Itiner. p. 241. et 365.),\nqui hunc serpentem accurate descripsit.\nApponam, quae maxime ad rem faciunt:\n„<i>Tentacula</i> (cornua ?) duo, utrinque unum,\nad latera verticis, in margine superiori or-\nbitae oculi, erecta, parte aversa parum arcua-\nta, eademque parte parum canaliculata, sub-\ndura, membrana tenaci vestita, basi squa-\nmis minimis, una serie erectis, cincta, bre-\nvia, orbitae oculorum dimidia longitudi-\nne.“ Cf. etiam I. D. MICHAELIS <i>Anno-\ntatt. ad version. Biblior. vernac. ad Ge-\nnes.</i> XLIX, 17. atque ad Numer. XXI, 6.,\ncui loco etiam adjecit iconem cerastis, ad\neam delineationem, quam IO. ELLIS <i>Actis\nSocietatis reg. Londin.</i> (<i>the philosophical\nTransactions</i>), Mens. Decembr. 1766. in-\nseruit. Male tamen Michaelis <i>colubrum\ncornutum</i>, veterum <i>cerasten</i>, eundem esse\nputat cum Veterum <i>basilisco</i>, qui potius <i>co-\nronella</i> esse videtur, Arabibusque ملكة,\n<i>regulus</i>, dicitur, vid. not. nostr. 5. ad cap. X.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Arabum معرن sive مقرن, i. e.\n<i>cornutus</i>, haud dubie est <i>Coluber cornutus</i>\nHASSELQUISTI (Itiner. p. 241. et 365.),\nqui hunc serpentem accurate descripsit.\nApponam, quae maxime ad rem faciunt:\n„<i>Tentacula</i> (cornua ?) duo, utrinque unum,\nad latera verticis, in margine superiori or-\nbitae oculi, erecta, parte aversa parum arcua-\nta, eademque parte parum canaliculata, sub-\ndura, membrana tenaci vestita, basi squa-\nmis minimis, una serie erectis, cincta, bre-\nvia, orbitae oculorum dimidia longitudi-\nne.“ Cf. etiam I. D. MICHAELIS <i>Anno-\ntatt. ad version. Biblior. vernac. ad Ge-\nnes.</i> XLIX, 17. atque ad Numer. XXI, 6.,\ncui loco etiam adjecit iconem cerastis, ad\neam delineationem, quam IO. ELLIS <i>Actis\nSocietatis reg. Londin.</i> (<i>the philosophical\nTransactions</i>), Mens. Decembr. 1766. in-\nseruit. Male tamen Michaelis <i>colubrum\ncornutum</i>, veterum <i>cerasten</i>, eundem esse\nputat cum Veterum <i>basilisco</i>, qui potius <i>co-\nronella</i> esse videtur, Arabibusque ملكة,\n<i>regulus</i>, dicitur, vid. not. nostr. 5. ad cap. X."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Observations</i>, L. II. C. LV. p. 122. ed.\nParis. 1555. quarum epitomen dedit PAU-\nLUS in <i>der Sammlung der merkwürdig-\nsten Reisen in den Orient</i>, P. I pag. 206.\nNeque contulisse poenitebit, quae monet\nVir quidam doctus, Historiae naturae peri-\ntus, ad hunc BELONII <i>Observatt.</i> locum\nin Notis, <i>Parti secundae Sylloges Paulinae</i>\nsubjectis, p. 258. Multa de <i>meraste cornu-\nto</i> habet quoque BRUCE in <i>Itiner.</i> P. V.\npag. 200. seqq. vers. germ. qui et Tab. 41.\nejus iconem adjecit.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Observations</i>, L. II. C. LV. p. 122. ed.\nParis. 1555. quarum epitomen dedit PAU-\nLUS in <i>der Sammlung der merkwürdig-\nsten Reisen in den Orient</i>, P. I pag. 206.\nNeque contulisse poenitebit, quae monet\nVir quidam doctus, Historiae naturae peri-\ntus, ad hunc BELONII <i>Observatt.</i> locum\nin Notis, <i>Parti secundae Sylloges Paulinae</i>\nsubjectis, p. 258. Multa de <i>meraste cornu-\nto</i> habet quoque BRUCE in <i>Itiner.</i> P. V.\npag. 200. seqq. vers. germ. qui et Tab. 41.\nejus iconem adjecit."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1820,
+    1476
+   ],
+   [
+    1820,
+    1348
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 2103,
+  "cost_usd": 0.0762,
+  "seconds": 27.1,
+  "vote": "2 decisions from v3-195-271"
+ }
+}

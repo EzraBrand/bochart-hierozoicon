@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "204 <i>Prob.,</i> קפוז <i>esse serpent. Acontiam, s. Iaculum.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "204 <i>Prob.,</i> קפוז <i>esse serpent. Acontiam, s. Iaculum.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "instar. <i>Aristoteles</i> ubi supra, Τὰ δ' ὠὰ ἀλλήλοις συνεχῆ ἐστιν, ὥσπερ αἱ\nτῶν γυναικῶν ὑποδερίδες· <i>Ova sunt sibi mutuo connexa ut mulierum monilia,</i>\nid est, ut margaritae in monilibus. <i>Damir</i> etiam, postquam serpentis ova\ndescripsit longa, coloris fusci, viridis, nigri, albi, varii, punctis quibusdam\ndistincti, lucidi, cum tantae varietatis causa non appareat satis, atque egit\netiam de sanie intus latente, وهو في جوفها منضد طولا\nعلي خط واحد <i>Per ventrem,</i> inquit, <i>in longitudinem super lineam\nunam connexa sunt.</i> Et Scaliger, <i>Ea ova vidimus nos agglutinata inter se,\nglobulorum modo, quibus preces numerant mulieres.</i> Sunt, qui <i>Hebraice</i> id\ndici putant שלל של ביצים, sed proprie שלל של ביצים est, <i>ovorum in gal-\nlinae ventre conglobatio, cum ad maturitatem vergunt.</i> Ut אשכול של ביצים\n<i>botrus ovorum,</i> dicuntur ova minora, ex semine primum conglobata. Vide\n<i>Talmudicos</i> in tractatu <i>Betsa</i> fol. 7. a.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "instar. <i>Aristoteles</i> ubi supra, Τὰ δ' ὠὰ ἀλλήλοις συνεχῆ ἐστιν, ὥσπερ αἱ\nτῶν γυναικῶν ὑποδερίδες· <i>Ova sunt sibi mutuo connexa ut mulierum monilia,</i>\nid est, ut margaritae in monilibus. <i>Damir</i> etiam, postquam serpentis ova\ndescripsit longa, coloris fusci, viridis, nigri, albi, varii, punctis quibusdam\ndistincti, lucidi, cum tantae varietatis causa non appareat satis, atque egit\netiam de sanie intus latente, وهو في جوفها منضد طولا\nعلي خط واحد <i>Per ventrem,</i> inquit, <i>in longitudinem super lineam\nunam connexa sunt.</i> Et Scaliger, <i>Ea ova vidimus nos agglutinata inter se,\nglobulorum modo, quibus preces numerant mulieres.</i> Sunt, qui <i>Hebraice</i> id\ndici putant שלל של ביצים, sed proprie שלל של ביצים est, <i>ovorum in gal-\nlinae ventre conglobatio, cum ad maturitatem vergunt.</i> Ut אשכול של ביצים\n<i>botrus ovorum,</i> dicuntur ova minora, ex semine primum conglobata. Vide\n<i>Talmudicos</i> in tractatu <i>Betsa</i> fol. 7. a."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Neque id omittendum, quod acontiam ova בצלה, <i>umbra sua</i> fovere\ndicit <i>Propheta,</i> dicturus potius <i>sub alis,</i> aut <i>sub pennis,</i> aut <i>sub alarum um-\nbra,</i> si de ave res esset. Forte etiam his ipsis verbis insinuat divinus va-\ntes, hoc serpentis genus de suis ovis magis esse sollicitum. Amphisbaena\nsaltem, quam <i>Avicenna</i> jaculi speciem esse suspicatur, legitur apud <i>Albertum</i>\nserpens esse <i>vigil, et sollicitus de suis ovis valde, cum ea incubat</i> ^{(5)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Neque id omittendum, quod acontiam ova בצלה, <i>umbra sua</i> fovere\ndicit <i>Propheta,</i> dicturus potius <i>sub alis,</i> aut <i>sub pennis,</i> aut <i>sub alarum um-\nbra,</i> si de ave res esset. Forte etiam his ipsis verbis insinuat divinus va-\ntes, hoc serpentis genus de suis ovis magis esse sollicitum. Amphisbaena\nsaltem, quam <i>Avicenna</i> jaculi speciem esse suspicatur, legitur apud <i>Albertum</i>\nserpens esse <i>vigil, et sollicitus de suis ovis valde, cum ea incubat</i> ^{(5)}."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "TYCHSENIO ad <i>Physiolog. Syr.</i>\nCap. XXIII. §. 2. p. 126. קפוז <i>strix aluco,</i>\nsive <i>strix ulula</i> esse videtur, nullo alio ar-\ngumento ductus, quam quod haec avis vo\ncem, nomini <i>Kippots</i> similem, <i>Kewits,</i>\nedat. Cui quidem argumento quantum in-\nsit roboris, quisque intelliget ipse.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "TYCHSENIO ad <i>Physiolog. Syr.</i>\nCap. XXIII. §. 2. p. 126. קפוז <i>strix aluco,</i>\nsive <i>strix ulula</i> esse videtur, nullo alio ar-\ngumento ductus, quam quod haec avis vo\ncem, nomini <i>Kippots</i> similem, <i>Kewits,</i>\nedat. Cui quidem argumento quantum in-\nsit roboris, quisque intelliget ipse."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Anthropic",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2038,
+    1468
+   ],
+   [
+    2038,
+    1364
+   ]
+  ],
+  "input_tokens": 9341,
+  "output_tokens": 1158,
+  "cost_usd": 0.0605,
+  "seconds": 39.5,
+  "vote": "1 decisions from v3-195-271"
+ }
+}

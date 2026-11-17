@@ -1,0 +1,279 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>De Serpentibus in genere.</i> 243",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De Serpentibus in genere.</i> 243"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Arduus ad Solem, et linguis micat ore trisulcis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Arduus ad Solem, et linguis micat ore trisulcis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ovidius <i>de dracone</i>, a <i>Cadmo caeso</i>, <i>Metam.</i> lib. 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ovidius <i>de dracone</i>, a <i>Cadmo caeso</i>, <i>Metam.</i> lib. 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>corpus tumet omne veneno,</i>\n<i>Tresque micant linguae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>corpus tumet omne veneno,</i>\n<i>Tresque micant linguae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et de dracone, in <i>Colchis</i>, velleris aurei custode, <i>Metam.</i> lib. 7.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et de dracone, in <i>Colchis</i>, velleris aurei custode, <i>Metam.</i> lib. 7."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Qui crista, linguisque tribus praesignis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Qui crista, linguisque tribus praesignis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Seneca</i> in <i>Medea</i>, versu 686.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Seneca</i> in <i>Medea</i>, versu 686."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hic sera serpens corpus immensum trahit,</i>\n<i>Trifidamque linguam exertat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hic sera serpens corpus immensum trahit,</i>\n<i>Trifidamque linguam exertat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Silius</i> lib. 6. versu 222.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Silius</i> lib. 6. versu 222."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>trifido vibrata per auras</i>\n<i>Lingua micat motu, atque assultans aethera lambit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>trifido vibrata per auras</i>\n<i>Lingua micat motu, atque assultans aethera lambit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et versu 264.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et versu 264."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>jamjamque extrema trisulca</i>\n<i>Lambebat lingua fessi certamine terga</i>\n<i>Quadrupedis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>jamjamque extrema trisulca</i>\n<i>Lambebat lingua fessi certamine terga</i>\n<i>Quadrupedis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Statius</i> de <i>Pythone</i>, lib. 1. <i>Thebaidis</i> versu 565.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Statius</i> de <i>Pythone</i>, lib. 1. <i>Thebaidis</i> versu 565."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>Castaliis dum fontibus ore trisulco</i>\n<i>Fusus hiat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>Castaliis dum fontibus ore trisulco</i>\n<i>Fusus hiat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et de serpente, a quo caesus est <i>Archemorus</i>, lib. 5. vers. 580.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et de serpente, a quo caesus est <i>Archemorus</i>, lib. 5. vers. 580."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— <i>volat hasta tremens, et hiantia monstri</i>\n<i>Ora subit, linguaeque secat fera vincla trisulcae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— <i>volat hasta tremens, et hiantia monstri</i>\n<i>Ora subit, linguaeque secat fera vincla trisulcae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "An eo referendum, quod maledico, qui linguam in quoscunque exerit,\net vibrat more serpentis, <i>lingua triplex</i> tribuitur in <i>Chaldaea paraphrasi</i>, <i>Iob.</i>\n<i>XXXVI, 33. Ps. CI, 5.</i> et <i>CXL, 12. Eccles. X, 11. etc.?</i> Omnino ita videtur:\nNeque aliter interpretor haec <i>Sirachidis XXVIII, 15.</i> Γλῶσσα τρίτη πολλοὺς\nἐσάλευσεν, et vers. 17. Γλῶσσα τρίτη γυναῖκας ἀνδρείας ἐξέβαλε. Alii aliter\nexplicant, ut infra observabimus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "An eo referendum, quod maledico, qui linguam in quoscunque exerit,\net vibrat more serpentis, <i>lingua triplex</i> tribuitur in <i>Chaldaea paraphrasi</i>, <i>Iob.</i>\n<i>XXXVI, 33. Ps. CI, 5.</i> et <i>CXL, 12. Eccles. X, 11. etc.?</i> Omnino ita videtur:\nNeque aliter interpretor haec <i>Sirachidis XXVIII, 15.</i> Γλῶσσα τρίτη πολλοὺς\nἐσάλευσεν, et vers. 17. Γλῶσσα τρίτη γυναῖκας ἀνδρείας ἐξέβαλε. Alii aliter\nexplicant, ut infra observabimus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed hanc interpretationem valde confirmant verba <i>Psaltis</i>, quibus cum\nlingua serpentis maledici lingua confertur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed hanc interpretationem valde confirmant verba <i>Psaltis</i>, quibus cum\nlingua serpentis maledici lingua confertur."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Addo, ex <i>Arabum</i> fide, rem a <i>Romanis</i> et <i>Graecis</i> scriptoribus praetermis-\nsam, serpentes alios non modo acutam, sed et aculeatam habere linguam, aut",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Addo, ex <i>Arabum</i> fide, rem a <i>Romanis</i> et <i>Graecis</i> scriptoribus praetermis-\nsam, serpentes alios non modo acutam, sed et aculeatam habere linguam, aut"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Hh 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hh 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "vero",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "vero"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1708,
+    1691
+   ],
+   [
+    1708,
+    1129
+   ]
+  ],
+  "input_tokens": 8117,
+  "output_tokens": 1389,
+  "cost_usd": 0.0602,
+  "seconds": 22.3,
+  "vote": "1 decisions from v3-195-271"
+ }
+}

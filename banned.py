@@ -116,6 +116,12 @@ for e in ("ephe", "vipera-pauli", "chephir-sachal", "achsub", "pethen", "aspis-s
           "tsepha", "basilisci-loca"):
     RULES[e] = [COBRA, BASILISK, ASP]
 
+# tranche 9: the last serpents, and the locusts: "grasshopper" only where the Latin has chagab or a cricket word
+for e in ("kippoz", "sephiphon", "saraph", "dracones"):
+    RULES[e] = [COBRA, BASILISK, ASP]
+GRASSHOPPER = (r"\bgrasshoppers?\b", r"chagab|חגב|gryll")
+RULES["locustae-nomina"] = [GRASSHOPPER]
+
 
 def main():
     entries = sys.argv[1:] or sorted(p.name for p in ENTRIES.iterdir() if p.name in RULES)

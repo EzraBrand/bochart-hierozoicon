@@ -75,6 +75,18 @@ inside a Latin line can come out in the order of the eye (p. 159, twice); the vo
 that swap. (6) `no_id` skips the first n uses: give 99 when every use in the chapter is another person or work. (7) The
 next tranche: Book 3 chs. 11-14, pp. 194-250 (57 pages; pp. 194-211 are fetched), then Book 4 (the insects) from p. 251.
 
+Tranche 9 (17-Nov-2026, vol. 3 pp. 195-271, Book 3 chs. 11-14 and Book 4 ch. 1): synchronous again, $0.226 a page. The
+first session stopped at the Claude usage limit right after `prepare_sync_t9.sh`; the next session found the state from
+the logs and the untracked files (`git status`, `ls -t logs`) and from the old transcript (`~/.claude/projects/.../*.jsonl`).
+Lessons: (1) `draft_entries.py` takes the volume as the first argument (`draft_entries.py 3 194 250 --book "Part 2, Book
+3"`), not `--vol`. (2) A margin column that the printer got wrong (p. 221: "248" for 428) gives a wrong `first_col` and
+column range in the draft: read `qa.log` ("margin [248] after 427") first, and correct the mark with a FIXES pair on
+`⟦p. 248⟧`. (3) The last chapter of a book ends with `"end": r"LIBER QUARTUS"` and the page of the next book's head in
+`pages`. (4) The spot-check's page number can be one off (p. 232 for p. 233): grep the voted pages for the phrase. (5)
+`logs/linecrop.py` matched the wrong lines for most spot-check rows (fuzzy match of short phrases): give it long MDZ
+phrases. (6) The next tranche: Book 4 (the insects) from ch. 2, vol. 3 p. 271 (chs. 2-5 run to p. 319, ch. 6 begins on p. 320; pp. 272-282 are
+fetched; chapter heads in `logs/find_chapters_t9.log`).
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50

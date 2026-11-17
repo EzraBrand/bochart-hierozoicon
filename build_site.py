@@ -277,6 +277,21 @@ DOCS = [
     {"slug": "basilisci-loca", "kind": "entry", "entry": "basilisci-loca", "vol": 3, "pages": list(range(187, 195)),
      "title": 'Part 2, Book 3, chapter 10: Five passages of Scripture on the basilisk',
      "sub": "Vol. 3, pp. 187–193 · cols. 402–408 of 1663 (Part 2) · Prov 23:32, Isa 11:8, 14:29, 59:5 and Jer 8:17 one by one: the basilisk's den, its eggs, the king among the serpents, and no charm against it"},
+    {"slug": "kippoz", "kind": "entry", "entry": "kippoz", "vol": 3, "pages": list(range(194, 206)),
+     "title": 'Part 2, Book 3, chapter 11: Kippoz is the acontias, the darting serpent',
+     "sub": 'Vol. 3, pp. 194–205 · cols. 408–416 of 1663 (Part 2) · קפוז kippoz of Isa 34:15 is not the hedgehog (קפוד) nor a bird, but the acontias or iaculus that darts from the trees: Arabic قفز, to leap'},
+    {"slug": "sephiphon", "kind": "entry", "entry": "sephiphon", "vol": 3, "pages": list(range(205, 212)),
+     "title": 'Part 2, Book 3, chapter 12: Sephiphon is the cerastes',
+     "sub": "Vol. 3, pp. 205–211 · cols. 416–421 of 1663 (Part 2) · Dan a שפיפון sephiphon by the path (Gen 49:17): the horned cerastes that lies hidden in the sand and bites the horse's heels; the haemorrhous"},
+    {"slug": "saraph", "kind": "entry", "entry": "saraph", "vol": 3, "pages": list(range(211, 223)),
+     "title": 'Part 2, Book 3, chapter 13: Saraph is the hydrus; the bronze serpent',
+     "sub": 'Vol. 3, pp. 211–222 · cols. 421–428 of 1663 (Part 2) · the burning serpents of Num 21:6 and Deut 8:15; the flying saraph (Isa 14:29, 30:6); the bronze serpent as a type of Christ (John 3:14)'},
+    {"slug": "dracones", "kind": "entry", "entry": "dracones", "vol": 3, "pages": list(range(222, 252)),
+     "title": 'Part 2, Book 3, chapter 14: On dragons',
+     "sub": 'Vol. 3, pp. 222–250 · cols. 428–440 of 1663 (Part 2) · תנין thannin, the dragon and the sea monster: the great dragons of India and Ethiopia, the winged and crested dragons, their poison, and why the serpent is called prudent'},
+    {"slug": "locustae-nomina", "kind": "entry", "entry": "locustae-nomina", "vol": 3, "pages": list(range(251, 272)),
+     "title": 'Part 2, Book 4, chapter 1: The names and kinds of the locusts',
+     "sub": 'Vol. 3, pp. 251–271 · cols. 441–454 of 1663 (Part 2) · the ten names of the locust in Scripture, arbe, solam, chargol, chagab, gazam, jelek, chasil, tselatsal, gob and geba, with the Talmud, the versions and the Arabs'},
 ]
 CONTENTS = []
 
@@ -757,7 +772,8 @@ München (MDZ)</a>, rights statement NoC-NC 1.0 · Transcription, translation an
 # the books of the Hierozoicon that the chapter titles name (Part 1 has no "Part" in the titles)
 BOOK_NAMES = {"Book 3": "Part 1, Book 3: the wild quadrupeds", "Book 4": "Part 1, Book 4: the oviparous quadrupeds",
               "Part 2, Book 1": "Part 2, Book 1: the clean birds", "Part 2, Book 2": "Part 2, Book 2: the unclean birds",
-              "Part 2, Book 3": "Part 2, Book 3: the serpents"}
+              "Part 2, Book 3": "Part 2, Book 3: the serpents",
+              "Part 2, Book 4": "Part 2, Book 4: the insects"}
 
 
 def done_docs() -> list[dict]:

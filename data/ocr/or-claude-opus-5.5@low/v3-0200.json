@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "200 <i>Probatur,</i> קפוז <i>esse Serpentem Acontiam,</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "200 <i>Probatur,</i> קפוז <i>esse Serpentem Acontiam,</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "dicit <i>Plinius</i>: et <i>Solinus</i>, <i>ex arboribus vi maxima turbinatum</i>, <i>penetrare animal,\nquodcunque obvium fortuna fecerit.</i> Et <i>Aelianus</i>, Ἀλλόμενον δὲ παραχρῆμα ἐνέ-\nφυ, <i>Insiliens statim adhaeret</i>, nempe iis, quae saltu appetit. Tam praeceps ra-\npiditas a <i>Lucano</i> sic describitur lib. 9. versu 822.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "dicit <i>Plinius</i>: et <i>Solinus</i>, <i>ex arboribus vi maxima turbinatum</i>, <i>penetrare animal,\nquodcunque obvium fortuna fecerit.</i> Et <i>Aelianus</i>, Ἀλλόμενον δὲ παραχρῆμα ἐνέ-\nφυ, <i>Insiliens statim adhaeret</i>, nempe iis, quae saltu appetit. Tam praeceps ra-\npiditas a <i>Lucano</i> sic describitur lib. 9. versu 822."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ecce! procul saevus sterilis se robore trunci\nTorsit et immisit (jaculum vocat</i> Africa) <i>serpens,\nPerque caput</i> Pauli <i>transactaque tempora fugit.\nNil ibi virus agit, rapuit cum vulnere fatum:\nDeprensum est, quae funda rotat, quam lenta volarent,\nQuam segnis</i> Scythicae <i>strideret arundinis aër.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ecce! procul saevus sterilis se robore trunci\nTorsit et immisit (jaculum vocat</i> Africa) <i>serpens,\nPerque caput</i> Pauli <i>transactaque tempora fugit.\nNil ibi virus agit, rapuit cum vulnere fatum:\nDeprensum est, quae funda rotat, quam lenta volarent,\nQuam segnis</i> Scythicae <i>strideret arundinis aër.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sunt, qui hunc serpentem levi saltu defungi colligunt, nec attolli supra homi-\nnis ilia, ex his <i>Strabonis</i> in <i>Latina</i> versione; <i>Serpentes etiam, spithamam longos,\ncolore puniceo, usque ad ilia assilientes, quorum morsus incurabilis est</i>: sed fallit\neos prava versio, eaque nata ex prava <i>Graeci</i> textus interpunctione, qui sic legi-\ntur: Ὄφεις δὲ σπιθαμιαῖοι, φοινικοὶ τὴν χρόαν, προσαλλόμενοι καὶ μέχρι λα-\nγόνος, τὸ δῆγμα ἔχοντες ἀνήκεστον· cum sit legendum προβαλλόμενοι, καὶ μέ-\nχρι λαγόνος τὸ δῆγμα, etc. Neque enim sensus est, eos salire usque ad ilia;\nsed vulnera, quae assultu suo infligunt, toto corpore usque ad ilia esse insanabi-\nlia, cum alioqui sanari possint, nempe si sint infra ilia, puta in cruribus, aut\nfemoribus. Haec enim ex <i>Artemidoro</i> sumpsit <i>Strabo</i>, et <i>Artemidorus</i> ex <i>Aga-\ntharchide</i>, cujus verba sunt: Δῆγμα δὲ ἀνίατον, ἂν τὸν λαγόνος ἀνώτερον αἱ-\nμάξῃ· <i>Morsus est insanabilis, cum supra ilia sauciat.</i> Itaque jaculus, de quo\n<i>Lucanus</i>, non solum ad ilia saltu se extulit, sed ⟦p. 413⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sunt, qui hunc serpentem levi saltu defungi colligunt, nec attolli supra homi-\nnis ilia, ex his <i>Strabonis</i> in <i>Latina</i> versione; <i>Serpentes etiam, spithamam longos,\ncolore puniceo, usque ad ilia assilientes, quorum morsus incurabilis est</i>: sed fallit\neos prava versio, eaque nata ex prava <i>Graeci</i> textus interpunctione, qui sic legi-\ntur: Ὄφεις δὲ σπιθαμιαῖοι, φοινικοὶ τὴν χρόαν, προσαλλόμενοι καὶ μέχρι λα-\nγόνος, τὸ δῆγμα ἔχοντες ἀνήκεστον· cum sit legendum προβαλλόμενοι, καὶ μέ-\nχρι λαγόνος τὸ δῆγμα, etc. Neque enim sensus est, eos salire usque ad ilia;\nsed vulnera, quae assultu suo infligunt, toto corpore usque ad ilia esse insanabi-\nlia, cum alioqui sanari possint, nempe si sint infra ilia, puta in cruribus, aut\nfemoribus. Haec enim ex <i>Artemidoro</i> sumpsit <i>Strabo</i>, et <i>Artemidorus</i> ex <i>Aga-\ntharchide</i>, cujus verba sunt: Δῆγμα δὲ ἀνίατον, ἂν τὸν λαγόνος ἀνώτερον αἱ-\nμάξῃ· <i>Morsus est insanabilis, cum supra ilia sauciat.</i> Itaque jaculus, de quo\n<i>Lucanus</i>, non solum ad ilia saltu se extulit, sed ⟦p. 413⟧"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Perque caput</i> Pauli, <i>transactaque tempora fugit.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Perque caput</i> Pauli, <i>transactaque tempora fugit.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et in <i>Isidoro</i> jaculi <i>exsiliunt in arbores</i>: et in <i>Aeliano</i> transiliunt καὶ εἴκοσιν, εἰ\nδέοι, πήχεις, <i>etiam viginti cubitos, si sit opus</i>; cui saltus longitudini necesse est,\nut altitudo sit proportione par. Ex his intelligit lector, vasta omnino et inculta\noportere esse loca, quae tali peste foecunda sunt. Atque hoc est, quod vult\n<i>Esaias,</i> cum acontiam in <i>Idumaea</i> scribit non modo diversaturum, sed pariturum\netiam, et exclusurum ova, quibus incubuerit. Si quis <i>Libyci</i> serpentis genus <i>Iu-\ndaeis</i> neget aut <i>Idumaeis</i> fuisse notum, audiat haec <i>Marcellini</i> libro 22. <i>Serpentes\nquoque</i> Aegyptus <i>alit innumeras, ultra omnem perniciem saevientes, basiliscos, et\namphisbaenas, et scytalas, et acontias.</i> Alii <i>Arabiae</i> adscribunt. <i>Lucanus</i> libri\n6. versu 677.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et in <i>Isidoro</i> jaculi <i>exsiliunt in arbores</i>: et in <i>Aeliano</i> transiliunt καὶ εἴκοσιν, εἰ\nδέοι, πήχεις, <i>etiam viginti cubitos, si sit opus</i>; cui saltus longitudini necesse est,\nut altitudo sit proportione par. Ex his intelligit lector, vasta omnino et inculta\noportere esse loca, quae tali peste foecunda sunt. Atque hoc est, quod vult\n<i>Esaias,</i> cum acontiam in <i>Idumaea</i> scribit non modo diversaturum, sed pariturum\netiam, et exclusurum ova, quibus incubuerit. Si quis <i>Libyci</i> serpentis genus <i>Iu-\ndaeis</i> neget aut <i>Idumaeis</i> fuisse notum, audiat haec <i>Marcellini</i> libro 22. <i>Serpentes\nquoque</i> Aegyptus <i>alit innumeras, ultra omnem perniciem saevientes, basiliscos, et\namphisbaenas, et scytalas, et acontias.</i> Alii <i>Arabiae</i> adscribunt. <i>Lucanus</i> libri\n6. versu 677."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Non</i> Arabum <i>volucer serpens</i>: — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Non</i> Arabum <i>volucer serpens</i>: — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "id est, <i>jaculus.</i> Idem enim lib. 9. versu 720.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "id est, <i>jaculus.</i> Idem enim lib. 9. versu 720."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Et</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1942,
+    1574
+   ],
+   [
+    1942,
+    1238
+   ]
+  ],
+  "input_tokens": 9035,
+  "output_tokens": 1794,
+  "cost_usd": 0.072,
+  "seconds": 23.8
+ }
+}

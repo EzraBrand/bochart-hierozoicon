@@ -1,0 +1,182 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "236 De Draconibus. P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "236 De Draconibus. P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>quovis serpente sumi, etiamsi draconem intelligas, facile erit haec conciliare.</i>\n<i>Nam Graeciae dracones, de quibus Nicander et alii, veneno carere, verum est:</i>\n<i>nisi quod noxias herbas, data opera, leguntur edere, ut suo morsu plus peri-</i>\n<i>culi creent. Homerus Iliad.</i> χ́.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>quovis serpente sumi, etiamsi draconem intelligas, facile erit haec conciliare.</i>\n<i>Nam Graeciae dracones, de quibus Nicander et alii, veneno carere, verum est:</i>\n<i>nisi quod noxias herbas, data opera, leguntur edere, ut suo morsu plus peri-</i>\n<i>culi creent. Homerus Iliad.</i> χ́."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὡς δὲ δράκων ἐπὶ χειῇ ὀρέστερος ἄνδρα μένῃσι\nΒεβρωκὼς κακὰ φάρμακα· — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὡς δὲ δράκων ἐπὶ χειῇ ὀρέστερος ἄνδρα μένῃσι\nΒεβρωκὼς κακὰ φάρμακα· — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut in lustro draco montanus exspectat pastus malas herbas. Et Aelianus libri sex-</i>\n<i>ti Historiae capite quarto,</i> Μέλλοντες δέ τινα ἐλλοχᾷν, ἢ ἄνθρωπον, ἢ θῆρα,\nτὰς θανατηφόρους ῥίζας ἐσθίουσι· <i>Cum homini aut ferae cuipiam moliuntur insi-</i>\n<i>dias, mortiferas radices edunt. Apud Eustathium alii dicunt,</i> ὅτι δράκων, ἐσθί- ⟦p. 438.⟧\nων μύρμηκας, καὶ κανθαρίδας, ἰοῦ πληροῦται, καὶ εἰς λύσσαν ἄγεται, <i>draco-</i>\n<i>nem, formicas et cantharidas comedentem, veneno impleri, et in rabiem agi. Alii</i>\n<i>item intelligunt</i> πόαν τινὰ χολῆς γεννητικὴν, ἣν ἐσθίων ὄφις εἰς χολὴν ἐρεθίζε-\nται, <i>herbam, quae bilem generat, qua cum vescitur, bilis ejus irritatur. Sed in</i>\n<i>Africa et Arabia hac arte nihil est opus, cum venenum habeat lethiferum. Quod</i>\n<i>his verbis a Lucano est observatum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut in lustro draco montanus exspectat pastus malas herbas. Et Aelianus libri sex-</i>\n<i>ti Historiae capite quarto,</i> Μέλλοντες δέ τινα ἐλλοχᾷν, ἢ ἄνθρωπον, ἢ θῆρα,\nτὰς θανατηφόρους ῥίζας ἐσθίουσι· <i>Cum homini aut ferae cuipiam moliuntur insi-</i>\n<i>dias, mortiferas radices edunt. Apud Eustathium alii dicunt,</i> ὅτι δράκων, ἐσθί- ⟦p. 438.⟧\nων μύρμηκας, καὶ κανθαρίδας, ἰοῦ πληροῦται, καὶ εἰς λύσσαν ἄγεται, <i>draco-</i>\n<i>nem, formicas et cantharidas comedentem, veneno impleri, et in rabiem agi. Alii</i>\n<i>item intelligunt</i> πόαν τινὰ χολῆς γεννητικὴν, ἣν ἐσθίων ὄφις εἰς χολὴν ἐρεθίζε-\nται, <i>herbam, quae bilem generat, qua cum vescitur, bilis ejus irritatur. Sed in</i>\n<i>Africa et Arabia hac arte nihil est opus, cum venenum habeat lethiferum. Quod</i>\n<i>his verbis a Lucano est observatum,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Vos quoque, qui, cunctis innoxia numina terris,</i>\n<i>Serpitis aurato nitidi fulgore dracones,</i>\n<i>Pestiferos ardens facit Africa. — —</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Vos quoque, qui, cunctis innoxia numina terris,</i>\n<i>Serpitis aurato nitidi fulgore dracones,</i>\n<i>Pestiferos ardens facit Africa. — —</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Proinde Heliodorus, de sagittariis agens ex Aethiopiae regione cinnamomifera;</i>\nΟἱ δὲ μικροῖς μὲν τοῖς βέλεσιν, ἰῷ δὲ δρακόντων πεφραγμένοις εἰστοξεύοντες,\nὀξύ τινα καὶ ἀπότομον θάνατον ἐπέφερον· <i>Illi autem parvas quidem sagittas,</i>\n<i>sed veneno draconum infectas, conjicientes, citam et acerbam mortem inferebant.</i>\n<i>Et Prudentius Hamartigeniae versu</i> 481.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Proinde Heliodorus, de sagittariis agens ex Aethiopiae regione cinnamomifera;</i>\nΟἱ δὲ μικροῖς μὲν τοῖς βέλεσιν, ἰῷ δὲ δρακόντων πεφραγμένοις εἰστοξεύοντες,\nὀξύ τινα καὶ ἀπότομον θάνατον ἐπέφερον· <i>Illi autem parvas quidem sagittas,</i>\n<i>sed veneno draconum infectas, conjicientes, citam et acerbam mortem inferebant.</i>\n<i>Et Prudentius Hamartigeniae versu</i> 481."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ecce! Iebusiacae fervent ad praelia turmae:</i>\n<i>Aurea tela quibus, de sanguine tincta draconis,</i>\n<i>Mortifero splendore micant. — — —</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ecce! Iebusiacae fervent ad praelia turmae:</i>\n<i>Aurea tela quibus, de sanguine tincta draconis,</i>\n<i>Mortifero splendore micant. — — —</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et Apollinaris Psalmo septuagesimo tertio,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et Apollinaris Psalmo septuagesimo tertio,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "῎Ωλεσας ἰοβόλων κεφαλὰς ῥοθίοισι δρακόντων,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "῎Ωλεσας ἰοβόλων κεφαλὰς ῥοθίοισι δρακόντων,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>In fluctibus draconum venenum ejulantium capita perdidisti. Et Psalmo nonage-</i>\n<i>simo,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In fluctibus draconum venenum ejulantium capita perdidisti. Et Psalmo nonage-</i>\n<i>simo,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἰοβόλον δὲ δράκοντα ποσὶν καὶ θῆρα πατήσεις,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἰοβόλον δὲ δράκοντα ποσὶν καὶ θῆρα πατήσεις,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Venenatum draconem et leonem pedibus conculcabis. Et Leo Africanus libro no-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Venenatum draconem et leonem pedibus conculcabis. Et Leo Africanus libro no-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "no,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "no,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1730,
+    1276
+   ],
+   [
+    1730,
+    1524
+   ]
+  ],
+  "input_tokens": 3383,
+  "output_tokens": 1209,
+  "cost_usd": 0.0071,
+  "seconds": 14.1
+ }
+}

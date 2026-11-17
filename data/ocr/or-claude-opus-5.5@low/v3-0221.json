@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XIII. <i>Probatur</i>, שרף <i>esse Hydrum et Chersydrum.</i> 221",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XIII. <i>Probatur</i>, שרף <i>esse Hydrum et Chersydrum.</i> 221"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>metallum fuisse missus, neque solum ad metallum, sed et ad metal-</i>\n<i>lum Phaeno.</i> Et apud <i>Epiphanium</i> in <i>Meletianis</i>, Meletius, <i>et alii multi in</i>\n<i>exilium acti sunt</i>, ὑπερορισθέντες ἐν τοῖς Φαινήσιος μετάλλοις, <i>ad</i> Phaenesia\n<i>metalla relegati.</i> Theodoretus <i>Historiae</i> lib. 4. cap. 19. Τοῖς Φεννεσίοις καὶ\nΠροκοννησίοις παρεδίδοντο μετάλλοις. <i>Ad</i> Phennesia <i>et</i> Proconnesia <i>metalla</i>\n<i>damnabantur.</i> Nec multo post de quodam <i>Damasi</i> diacono, Τοῖς κατὰ\nΦέννης παρεδόθη μετάλλοις· ἔστι δὲ ταῦτα τοῦ χαλκοῦ· <i>Ad</i> Phennes <i>metal-</i>\n<i>la damnatus est; quae sunt aeris metalla.</i> Ita etiam <i>Nicephorus Callistus</i> lib.\nXI, 28. Sed disertissime <i>Hieronymus</i> in <i>Locis</i>; FENON, <i>castra filiorum</i> Israe-\n<i>lis in deserto. Fuit autem quondam civitas Principum</i> Edom, <i>nunc viculus in</i>\n<i>deserto, ubi aeris metalla damnatorum suppliciis effodiuntur, inter civitatem</i> Pe- ⟦p. 248⟧\n<i>tram et</i> Zoaram. Item, DEDAN <i>est in quarto milliari a</i> Metallo-feno <i>con-</i>\n<i>tra Aquilonem.</i> Eodem refero haec <i>Aristeae</i> in <i>Historia de Septuaginta In-</i>\n<i>terpretibus</i>, Ἐλέγετο δὲ καὶ ἐκ τῶν παρακειμένων ὀρέων τῆς Ἀραβίας μέ-\nταλλα χαλκᾶ καὶ σιδηρᾶ συνίστασθαι πρότερον· ἐκλέλειπται δὲ ταῦτα,\nκαθ᾽ ὃν ἐπεκράτησαν χρόνον Πέρσαι. <i>Narrabatur etiam, ex</i> Arabiae <i>monti-</i>\n<i>bus</i> (Iudaeae) <i>vicinis prius metalla aeris et ferri fuisse eruta: sed ea defecisse</i>\n<i>(id est, neglecta fuisse,</i> ut constat ex sequentibus), <i>quo tempore</i> Persae <i>rerum</i>\n<i>potiebantur.</i> In his fodinis sumptum videtur aes, ex quo conflatus fuit ser-\npens aeneus. Neque id fortasse sine mysterio. Sic enim significari potuit\ncorpus, quod assumpsit <i>Christus</i>, non aliunde fuisse allatum, sed ibi natum,\net formatum, ubi in carne manifestatus est.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>metallum fuisse missus, neque solum ad metallum, sed et ad metal-</i>\n<i>lum Phaeno.</i> Et apud <i>Epiphanium</i> in <i>Meletianis</i>, Meletius, <i>et alii multi in</i>\n<i>exilium acti sunt</i>, ὑπερορισθέντες ἐν τοῖς Φαινήσιος μετάλλοις, <i>ad</i> Phaenesia\n<i>metalla relegati.</i> Theodoretus <i>Historiae</i> lib. 4. cap. 19. Τοῖς Φεννεσίοις καὶ\nΠροκοννησίοις παρεδίδοντο μετάλλοις. <i>Ad</i> Phennesia <i>et</i> Proconnesia <i>metalla</i>\n<i>damnabantur.</i> Nec multo post de quodam <i>Damasi</i> diacono, Τοῖς κατὰ\nΦέννης παρεδόθη μετάλλοις· ἔστι δὲ ταῦτα τοῦ χαλκοῦ· <i>Ad</i> Phennes <i>metal-</i>\n<i>la damnatus est; quae sunt aeris metalla.</i> Ita etiam <i>Nicephorus Callistus</i> lib.\nXI, 28. Sed disertissime <i>Hieronymus</i> in <i>Locis</i>; FENON, <i>castra filiorum</i> Israe-\n<i>lis in deserto. Fuit autem quondam civitas Principum</i> Edom, <i>nunc viculus in</i>\n<i>deserto, ubi aeris metalla damnatorum suppliciis effodiuntur, inter civitatem</i> Pe- ⟦p. 248⟧\n<i>tram et</i> Zoaram. Item, DEDAN <i>est in quarto milliari a</i> Metallo-feno <i>con-</i>\n<i>tra Aquilonem.</i> Eodem refero haec <i>Aristeae</i> in <i>Historia de Septuaginta In-</i>\n<i>terpretibus</i>, Ἐλέγετο δὲ καὶ ἐκ τῶν παρακειμένων ὀρέων τῆς Ἀραβίας μέ-\nταλλα χαλκᾶ καὶ σιδηρᾶ συνίστασθαι πρότερον· ἐκλέλειπται δὲ ταῦτα,\nκαθ᾽ ὃν ἐπεκράτησαν χρόνον Πέρσαι. <i>Narrabatur etiam, ex</i> Arabiae <i>monti-</i>\n<i>bus</i> (Iudaeae) <i>vicinis prius metalla aeris et ferri fuisse eruta: sed ea defecisse</i>\n<i>(id est, neglecta fuisse,</i> ut constat ex sequentibus), <i>quo tempore</i> Persae <i>rerum</i>\n<i>potiebantur.</i> In his fodinis sumptum videtur aes, ex quo conflatus fuit ser-\npens aeneus. Neque id fortasse sine mysterio. Sic enim significari potuit\ncorpus, quod assumpsit <i>Christus</i>, non aliunde fuisse allatum, sed ibi natum,\net formatum, ubi in carne manifestatus est."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ee 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ee 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2006,
+    1700
+   ],
+   [
+    2006,
+    1136
+   ]
+  ],
+  "input_tokens": 9239,
+  "output_tokens": 1329,
+  "cost_usd": 0.0635,
+  "seconds": 18.6
+ }
+}

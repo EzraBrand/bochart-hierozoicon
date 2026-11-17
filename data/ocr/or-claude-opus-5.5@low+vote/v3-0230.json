@@ -1,0 +1,207 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "230 <i>De Draconibus.</i> P. II. L. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "230 <i>De Draconibus.</i> P. II. L. III."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>inque dracones</i>\n<i>Transit, et alifero tollitur axe</i> Ceres.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>inque dracones</i>\n<i>Transit, et alifero tollitur axe</i> Ceres."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Claudianus</i> libro primo <i>De raptu Proserpinae</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Claudianus</i> libro primo <i>De raptu Proserpinae</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>sinuosa draconum</i>\n<i>Membra regens, volucri qui pervia nubila tractu</i> ⟦p. 434⟧\n<i>Signant, et placidis humectant fraena venenis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>sinuosa draconum</i>\n<i>Membra regens, volucri qui pervia nubila tractu</i> ⟦p. 434⟧\n<i>Signant, et placidis humectant fraena venenis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quo ipso curru <i>Triptolemus</i>, in <i>Scythiam</i> vectus, <i>Lynco, Scythiae</i> regi, dixit, apud\n<i>Ovidium</i> ubi supra;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quo ipso curru <i>Triptolemus</i>, in <i>Scythiam</i> vectus, <i>Lynco, Scythiae</i> regi, dixit, apud\n<i>Ovidium</i> ubi supra;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>veni nec puppi per undas,</i>\n<i>Nec pede per terras: patuit mihi pervius aether.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>veni nec puppi per undas,</i>\n<i>Nec pede per terras: patuit mihi pervius aether.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nempe <i>Cereris</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nempe <i>Cereris</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δίφρον ἐχιδνήεντα δι᾽ ἠέρος ἡνιοχεύων,\nΣτικτὰ φερεσταχύων ἐπεμάστιε νῶτα δρακόντων,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δίφρον ἐχιδνήεντα δι᾽ ἠέρος ἡνιοχεύων,\nΣτικτὰ φερεσταχύων ἐπεμάστιε νῶτα δρακόντων,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Currum per aërem agitans, varia spicigerorum draconum dorsa flagellabat.</i> Ita\n<i>Nonnus</i> libro decimo tertio <i>Dionysiacῶn</i>. Eum enim, alatis draconibus vectum,\nper totum terrarum orbem misit <i>Ceres</i>, ut frumenti usum hominibus indicaret.\nIta docent <i>Hyginus fabula</i> centesima quadragesima septima, et libro secundo\n<i>Astronomicῶn</i> in <i>Ophiucho; Servius</i> in librum primum <i>Georgicorum; Phornu-\ntus</i> libro <i>De natura Deorum</i>, capite <i>De Cerere;</i> nec pauci alii. Ut de <i>Medea</i>\ntaceam, quam hujusmodi currum a patre, <i>Sole</i>, accepisse fingunt. <i>Euripidis Scho-\nliastes</i> in Argumento <i>Medeae</i>, Μήδεια δὲ, τοὺς ἑαυτῆς παῖδας ἀποκτείνασα,\nἐφ᾽ ἅρματος δρακόντων πτερωτῶν ἔποχος γενομένη, ἀποδιδράσκει εἰς Ἀθή-\nνας. Quod sumtum ex <i>Apollodoro</i> in fine libri primi <i>Bibliothecae</i>. Hinc de\neadem <i>Ovidius Metamorphoseωs</i> libri septimi <i>Fabula</i> secunda,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Currum per aërem agitans, varia spicigerorum draconum dorsa flagellabat.</i> Ita\n<i>Nonnus</i> libro decimo tertio <i>Dionysiacῶn</i>. Eum enim, alatis draconibus vectum,\nper totum terrarum orbem misit <i>Ceres</i>, ut frumenti usum hominibus indicaret.\nIta docent <i>Hyginus fabula</i> centesima quadragesima septima, et libro secundo\n<i>Astronomicῶn</i> in <i>Ophiucho; Servius</i> in librum primum <i>Georgicorum; Phornu-\ntus</i> libro <i>De natura Deorum</i>, capite <i>De Cerere;</i> nec pauci alii. Ut de <i>Medea</i>\ntaceam, quam hujusmodi currum a patre, <i>Sole</i>, accepisse fingunt. <i>Euripidis Scho-\nliastes</i> in Argumento <i>Medeae</i>, Μήδεια δὲ, τοὺς ἑαυτῆς παῖδας ἀποκτείνασα,\nἐφ᾽ ἅρματος δρακόντων πτερωτῶν ἔποχος γενομένη, ἀποδιδράσκει εἰς Ἀθή-\nνας. Quod sumtum ex <i>Apollodoro</i> in fine libri primi <i>Bibliothecae</i>. Hinc de\neadem <i>Ovidius Metamorphoseωs</i> libri septimi <i>Fabula</i> secunda,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec frustra volucrum tractus cervice draconum</i>\n<i>Currus adest; aderat demissus ab aethere currus:</i>\n<i>Quo semel ascendit, fraenataque colla draconum</i>\n<i>Permulsit, manibusque leves agitavit habenas,</i>\n<i>Sublimis rapitur.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec frustra volucrum tractus cervice draconum</i>\n<i>Currus adest; aderat demissus ab aethere currus:</i>\n<i>Quo semel ascendit, fraenataque colla draconum</i>\n<i>Permulsit, manibusque leves agitavit habenas,</i>\n<i>Sublimis rapitur.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Fabula</i> quinta,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Fabula</i> quinta,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quae, nisi pennatis serpentibus isset in auras,</i>\n<i>Non exempta foret pennae.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quae, nisi pennatis serpentibus isset in auras,</i>\n<i>Non exempta foret pennae.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Fabula</i> vigesima,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Fabula</i> vigesima,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tandem vipereis</i> Ephyrea Pyrenida <i>pennis</i>\n<i>Contigit.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tandem vipereis</i> Ephyrea Pyrenida <i>pennis</i>\n<i>Contigit.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1945,
+    1691
+   ],
+   [
+    1945,
+    1129
+   ]
+  ],
+  "input_tokens": 9035,
+  "output_tokens": 1497,
+  "cost_usd": 0.0661,
+  "seconds": 20.6,
+  "vote": "0 decisions from v3-195-271"
+ }
+}

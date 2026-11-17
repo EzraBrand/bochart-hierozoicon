@@ -33,6 +33,8 @@ CHUNK_CHARS = 5000
 _T7 = '"accipiter" -> "hawk"; "aquila" -> "eagle"; "vultur" -> "vulture"; "milvus" -> "kite"; "falco" -> "falcon"; "bubo" -> "eagle owl"; "noctua" -> "little owl"; "ulula" -> "owl"; "nycticorax" -> "night raven"; "onocrotalus", "porphyrio", "cepphus", "catarrhactes", "charadrius" -> the name is kept; "larus" -> "gull"; "pelicanus"/"pelecanus" -> "pelican"; "ardea" -> "heron"; "ciconia" -> "stork"; "upupa" -> "hoopoe"; "struthio" -> "ostrich"; "corvus" -> "raven"; "ibis" -> "ibis"; '
 # the fixed serpent names of tranche 8 (vol. 3, pp. 125-193: Book 3, the serpents, chs. 1-10), for every chapter of it
 _T8 = '"serpens" -> "serpent"; "anguis" -> "snake"; "coluber" -> "snake"; "vipera"/"echidna" -> "viper"; "aspis" -> "asp"; "basiliscus" -> "basilisk"; "regulus" -> "regulus" (the name is kept: Bochart gives it beside basiliscus); "draco" -> "dragon"; "cerastes", "dipsas", "amphisbaena", "hydrus", "chersydrus", "haemorrhous", "acontias", "dryinus", "seps", "prester" -> the name is kept; "venenum"/"virus" -> "poison" (never "venom" for one and "poison" for the other in one passage); "theriaca" -> "theriac"; '
+# the fixed terms of Book 4 (the insects), from tranche 9 (vol. 3, p. 251 on), for every chapter of it
+_T9 = '"insectum" -> "insect"; "volatilia" -> "flying creatures"; "repere" -> "to creep"; '
 ENTRIES = {
     "shafan": {"vol": 2, "pages": list(range(409, 430)),
                "title": "Book 3, chapter 33: Saphan is not the rabbit but a kind of larger mouse (vol. 2, pp. 409–429)",
@@ -578,6 +580,33 @@ ENTRIES = {
         "start": r"^CAP\.\s*X\.", "end": r"^CAP\.\s*XI\.", "first_col": 402,
         "about": 'the chapter that explains the five passages of Scripture on the basilisk (צפעני): Prov 23:32, Isa 11:8, Isa 14:29, Isa 59:5 and Jer 8:17',
         "terms": _T8 + '"tsepha" and "tsiphoni" stay as printed; "caverna" -> "den";'},
+    # Tranche 9, 17-Nov-2026: Part 2, Book 3 (the serpents), chs. 11-14, and Book 4 (the insects), ch. 1, vol. 3,
+    # pp. 194-271. Drafted by draft_entries.py from the heads in the voted OCR. All steps ran synchronously.
+    "kippoz": {"no_id": {"Paulus": 99}, "vol": 3, "pages": list(range(194, 206)),
+        "title": 'Part 2, Book 3, chapter 11: It is shown that the word קפוז kippoz (Isa 34:15) means neither the hedgehog, as the ancients held, nor a kind of bird, as more recent writers held, but the serpent acontias, or iaculus (vol. 3, pp. 194–205)',
+        "start": r"^CAP\.\s*XI\.", "end": r"^CAP\.\s*XII\.",
+        "about": 'the chapter arguing that קפוז (kippoz) of Isa 34:15 is not the hedgehog of the old versions nor a bird of the newer interpreters, but the serpent acontias or iaculus, named from its leap (Arabic قفازة)',
+        "terms": _T8 + '"kippoz" and "kippod" stay as printed; "acontias" and "iaculus" stay; "ericius"/"hericius"/"erinaceus" -> "hedgehog"; "nidus" -> "nest"; "nidulari" -> "to nest";'},
+    "sephiphon": {"vol": 3, "pages": list(range(205, 212)),
+        "title": 'Part 2, Book 3, chapter 12: It is shown that שפיפון sephiphon (Gen 49:17) is the cerastes and the haemorrhous (vol. 3, pp. 205–211)',
+        "start": r"^CAP\.\s*XII\.", "end": r"^CAP\.\s*XIII\.",
+        "about": "the chapter arguing that שפיפון (sephiphon) of Gen 49:17, which Jacob says lies by the path and bites the horse's heels, is the cerastes, and with it the haemorrhous",
+        "terms": _T8 + '"sephiphon" stays as printed; "cerastes" and "haemorrhous" stay; "cornutus" -> "horned"; "cornicula" -> "little horns";'},
+    "saraph": {"no_id": {"Paulus": 99}, "vol": 3, "pages": list(range(211, 223)),
+        "title": 'Part 2, Book 3, chapter 13: It is shown that שרף saraph is the hydrus and the chersydrus; the Israelites bitten by them were healed by the sight of the bronze serpent (vol. 3, pp. 211–222)',
+        "start": r"^CAP\.\s*XIII\.", "end": r"^CAP\.\s*XIV\.",
+        "about": 'the chapter arguing that the שרף (saraph) of Num 21:6 and Deut 8:15 is the hydrus or chersydrus, and on the bronze serpent at the sight of which the bitten Israelites were healed, a type of Christ (John 3:14)',
+        "terms": _T8 + '"saraph" and "seraphim" stay as printed; "hydrus" and "chersydrus" stay; "serpens aeneus" -> "bronze serpent"; "aes" -> "bronze"; "ignitus"/"ardens" -> "burning";'},
+    "dracones": {"no_id": {"Paulus": 99}, "vol": 3, "pages": list(range(222, 252)),
+        "title": 'Part 2, Book 3, chapter 14: On dragons (vol. 3, pp. 222–250)',
+        "start": r"^CAP\.\s*XIV\.", "end": r"LIBER QUARTUS", "first_col": 428,
+        "about": 'the chapter that closes the book of the serpents: תנין (thannin) as dragon and as sea monster, the dragons of the ancients (their size, crests, wings and poison), the תנים and תנות of the prophets, and the prudence of the serpent (Matt 10:16)',
+        "terms": _T8 + '"thannin", "thannim" and "thannoth" stay as printed; "draco" -> "dragon"; "cetus" -> "sea monster"; "prudens" -> "prudent";'},
+    "locustae-nomina": {"no_id": {"Aldrovandus": 99}, "vol": 3, "pages": list(range(251, 272)),
+        "title": 'Part 2, Book 4, chapter 1: The names and kinds of the locusts (vol. 3, pp. 251–271)',
+        "start": r"^CAP\.\s*I\.", "end": r"^CAP\.\s*II\.", "first_col": 441,
+        "about": 'the chapter that opens the book of the insects with the Hebrew names of the locust: ארבה arbe, סלעם solam, חרגל chargol, חגב chagab, גזם gazam, ילק jelek, חסיל chasil, צלצל tselatsal, גוב gob and גבי geba, and the kinds that the Talmud, the Greek versions and the Arabs give for them',
+        "terms": _T9 + '"locusta" -> "locust"; "arbe", "solam", "chargol", "chagab", "gazam", "jelek", "chasil", "tselatsal", "gob", "geba" stay as printed; "bruchus", "attelabus", "attacus", "asiracus" -> the name is kept; "eruca" -> "caterpillar"; "gryllus" -> "cricket"; "rubigo" -> "blight";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -835,6 +864,43 @@ FIXES = {
     (3, 187): [('ארם', 'אדם')],
     (3, 191): [('σόματι', 'στόματι'), ('ρπης', 'ρπηστ')],
     (3, 192): [('βασιλισκοι,', 'βασιλίσκου,')],
+    # tranche 9 (vol. 3, pp. 195-271; scan check 17-Nov-2026): the print differs from the vote's text. Not certain: the
+    # Syriac of p. 205 (as the Arabic معرون), the Arabic of p. 256, the Ethiopic of p. 269, the Samaritan of p. 205.
+    (3, 197): [('κοῦφους ἢ γοῦφους', 'κούφους ἢ γούφους'), ('σκω-\nπτειν', 'σκώ-\nπτειν')],
+    (3, 201): [('هلاشبالة', 'هلاشباله')],
+    # p. 203: the mark is the letter l) of the note, not the digit
+    (3, 203): [('supra ^{¹)}', 'supra ^{l)}')],
+    # p. 205: the Samaritan word (Samaritan Targum, "insidiantem"), read by Claude from the shapes: four letters, the
+    # first three alike, as כמין; not certain
+    (3, 205): [('פתנא,', 'פתנה,'), ('ܫܦܝܦܘܢܐ,', 'ܡܥܪܘܢܐ,'), ('صفرون,', 'معرون,'), ('Samaritani\n[?] ·', 'Samaritani\nࠊࠌࠉࠍ ·')],
+    (3, 206): [('معرفة.', 'مقرنة.')],
+    (3, 207): [('meraste cornu-', 'ceraste cornu-')],
+    (3, 208): [('نلك', 'ذلك')],
+    (3, 218): [('15. ܛܒ ܓܝܪ ܙܩܦ ܠܡܠܘܗܝ ܠܡܠܝܢ', '15. ܛܒ ܓܝܪ ܙܩܦ ܢܦܫܗ ܠܘܩܒܠ ܡܠܝܢ')],
+    # p. 221: the margin prints "p. 248.", a printer's error for 428 (p. 222 has 429)
+    (3, 221): [('⟦p. 248⟧', '⟦p. 428⟧')],
+    (3, 222): [('تِبنان', 'تِينان')],
+    (3, 223): [('فصع,', 'قصع,')],
+    (3, 225): [('τρια-\nοντάπηχυ', 'τρια-\nκοντάπηχυ')],
+    (3, 226): [('ὥστ᾽', 'ὥς τ᾽'), ('ὥσθ᾽', 'ὥς θ᾽')],
+    (3, 227): [('Metamorphoseos', 'Metamorphoseωs')],
+    (3, 229): [('ὑπόδραξ', 'ὑποδρὰξ')],
+    (3, 230): [('Ἀθή-\nνας', 'Ἀθῆ-\nνας')],
+    (3, 234): [('Ἴυγξι', 'Ἴϋγξι')],
+    (3, 237): [('τεῖς.', 'τοὺς.')],
+    # p. 241: note e) (Sirach 25:15) has no mark in the text of the print; put after the name, so that the note is kept
+    (3, 241): [('ειλήσας', 'ἐνειλήσας'), ('scribit <i>Sirachides</i>,', 'scribit <i>Sirachides</i> ^{e)},')],
+    (3, 242): [('ἴυγγας', 'ἴϋγγας')],
+    (3, 249): [('لاتخطيه\n', 'لاتحظيه\n')],
+    (3, 253): [('النخل,', 'النحل,')],
+    (3, 256): [('خُنَن', 'حُنَن')],
+    (3, 259): [('ad Ioel I,', 'ad Iocl I,')],
+    (3, 260): [('Dsjerâd\nâchmar', 'Dsjerâd\náchmar'), ('[جران احمر]', '[جراد احمر]')],
+    # spot-check of tranche 9: medial ف looks like غ in this type; flavae (p. 233) and Niebuhr's asfur (p. 261) decide
+    (3, 233): [('صغر وسود', 'صفر وسود')],
+    (3, 261): [('جراد عصغور', 'جراد عصفور')],
+    (3, 265): [('περιιοῦσα', 'περιϊοῦσα')],
+    (3, 269): [('አድርመጠቶት:', 'አድሩመጠቂት፡'), ('<i>thamar Adrumatavith', '<i>chamar Adrumatavith')],
     # spot-check of tranche 8: salich (the print has يسلخ two lines above; the word itself was not read again on the
     # scan); the themes of the note are those of p. 184 (سفع); the στ ligature
     (3, 153): [('اسود شالخ', 'اسود سالخ')],
