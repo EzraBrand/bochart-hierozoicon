@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. VI. <i>Quae de Locustis habeat Amos.</i> 325",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. VI. <i>Quae de Locustis habeat Amos.</i> 325"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>mus, muscas, scarabaeos, et cimices, nitedulas, curculiones, et tineas, omnipoten-</i>\n<i>tis esse opus regis, sequaciter postulandum a nobis est, ut, quis ea fecerit institue-</i>\n<i>ritque, dicamus. Possimus enim nulla cum reprehensione nescire, quis et illis ori-</i>\n<i>ginem dederit, et obtinere non esse a Deo superiore prolata tam supervacua, tam</i>\n<i>vana, tam ad nullas pertinentia rationes.</i> Haec ille libro secundo ex <i>Marcioni-</i>\n<i>tarum</i> lacunis hausta, qui apud <i>Tertullianum</i> adversus <i>Marcionem</i> libro primo\nita loquuntur: <i>Sufficit unicum hoc opus Deo nostro, quod hominem liberavit sum-</i>\n<i>ma et praecipua bonitate sua, et omnibus locustis anteponenda:</i> id est, omnium\nlocustarum creationi, quam Deo affingitis. Hinc <i>Hieronymus</i> in <i>Prooemio</i> in\nEpistolam ad <i>Philemonem, Quod si non putant eorum esse parva, quorum et ma-</i>\n<i>gna sunt; alterum mihi conditorem, juxta</i> Valentinum, Marcionem <i>et</i> Apellem,\n<i>formicae, vermium, culicum, locustarum: alterum coeli, terrae, maris et angelo-</i>\n<i>rum debent introducere.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>mus, muscas, scarabaeos, et cimices, nitedulas, curculiones, et tineas, omnipoten-</i>\n<i>tis esse opus regis, sequaciter postulandum a nobis est, ut, quis ea fecerit institue-</i>\n<i>ritque, dicamus. Possimus enim nulla cum reprehensione nescire, quis et illis ori-</i>\n<i>ginem dederit, et obtinere non esse a Deo superiore prolata tam supervacua, tam</i>\n<i>vana, tam ad nullas pertinentia rationes.</i> Haec ille libro secundo ex <i>Marcioni-</i>\n<i>tarum</i> lacunis hausta, qui apud <i>Tertullianum</i> adversus <i>Marcionem</i> libro primo\nita loquuntur: <i>Sufficit unicum hoc opus Deo nostro, quod hominem liberavit sum-</i>\n<i>ma et praecipua bonitate sua, et omnibus locustis anteponenda:</i> id est, omnium\nlocustarum creationi, quam Deo affingitis. Hinc <i>Hieronymus</i> in <i>Prooemio</i> in\nEpistolam ad <i>Philemonem, Quod si non putant eorum esse parva, quorum et ma-</i>\n<i>gna sunt; alterum mihi conditorem, juxta</i> Valentinum, Marcionem <i>et</i> Apellem,\n<i>formicae, vermium, culicum, locustarum: alterum coeli, terrae, maris et angelo-</i>\n<i>rum debent introducere.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "In <i>Propheta</i> sequitur, <i>Cum autem absolvissent comedere herbam terrae, dixi,</i>\n<i>Domine Deus, condona, obsecro,</i> etc.] Agitur de locustis, quae, post messem\ncreatae, solis herbis vescebantur. Tum enim deerant segetes. Nec volatu pot-\nerant in arbores se attollere, cum alas nondum haberent, nec nisi humi repti-\ntarent. Hujusmodi locustas <i>bruchos</i> a multis appellari, observavimus ^{d)}, atque\nex illis primo attelabos fieri, et postmodum locustas proprie dictas. Priusquam\nigitur hi bruchi, in majus aucti, plura damna inferrent, pro populo intercedit\n<i>Propheta</i>, et precibus suis obtinet, ut amoveatur haec pestis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "In <i>Propheta</i> sequitur, <i>Cum autem absolvissent comedere herbam terrae, dixi,</i>\n<i>Domine Deus, condona, obsecro,</i> etc.] Agitur de locustis, quae, post messem\ncreatae, solis herbis vescebantur. Tum enim deerant segetes. Nec volatu pot-\nerant in arbores se attollere, cum alas nondum haberent, nec nisi humi repti-\ntarent. Hujusmodi locustas <i>bruchos</i> a multis appellari, observavimus ^{d)}, atque\nex illis primo attelabos fieri, et postmodum locustas proprie dictas. Priusquam\nigitur hi bruchi, in majus aucti, plura damna inferrent, pro populo intercedit\n<i>Propheta</i>, et precibus suis obtinet, ut amoveatur haec pestis."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Supra cap. I. pag. 447.</i>",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Supra cap. I. pag. 447.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ss 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ss 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1640,
+    1688
+   ],
+   [
+    1640,
+    1128
+   ]
+  ],
+  "input_tokens": 7913,
+  "output_tokens": 1071,
+  "cost_usd": 0.0531,
+  "seconds": 15.7,
+  "vote": "0 decisions from v3-272-326"
+ }
+}

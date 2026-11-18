@@ -69,6 +69,9 @@ SAMPLE = [
     # Tranche 9 (17-Nov-2026): Book 3 chs. 13-14 (to p. 250) and Book 4 (the insects), chs. 1-2, pp. 251-281;
     # p. 282 (CAP. III) for a join. Chapter heads: logs/find_chapters_t9.log.
     *[(3, c, "serpents-insects") for c in range(234, 305)],
+    # Tranche 10 (18-Nov-2026): Book 4 (the insects), chs. 2-6, pp. 271-326; p. 326 has CAP. VII (John the
+    # Baptist's locusts). Chapter heads: logs/find_chapters_t10.log.
+    *[(3, c, "locusts") for c in range(305, 349)],
 ]
 
 session = requests.Session()

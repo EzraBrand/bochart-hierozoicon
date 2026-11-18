@@ -292,6 +292,21 @@ DOCS = [
     {"slug": "locustae-nomina", "kind": "entry", "entry": "locustae-nomina", "vol": 3, "pages": list(range(251, 272)),
      "title": 'Part 2, Book 4, chapter 1: The names and kinds of the locusts',
      "sub": 'Vol. 3, pp. 251–271 · cols. 441–454 of 1663 (Part 2) · the ten names of the locust in Scripture, arbe, solam, chargol, chagab, gazam, jelek, chasil, tselatsal, gob and geba, with the Talmud, the versions and the Arabs'},
+    {"slug": "locustae-loca", "kind": "entry", "entry": "locustae-loca", "vol": 3, "pages": list(range(271, 283)),
+     "title": 'Part 2, Book 4, chapter 2: Obscure passages on the locusts',
+     "sub": 'Vol. 3, pp. 271–282 · cols. 454–460 of 1663 (Part 2) · the bristling jelek of Jer 51:27; Nahum 3:15-17, multiply like the locust; the locusts that have no king (Prov 30:27); the gathering of the chasil (Isa 33:4)'},
+    {"slug": "locustae-aegyptiae", "kind": "entry", "entry": "locustae-aegyptiae", "vol": 3, "pages": list(range(282, 290)),
+     "title": 'Part 2, Book 4, chapter 3: The locusts of Egypt',
+     "sub": 'Vol. 3, pp. 282–289 · cols. 460–464 of 1663 (Part 2) · the eighth plague, Exod 10:4-19: the east wind that brought the locusts and the west wind that took them to the sea; plagues of locusts in Syria and Egypt in the chronicles'},
+    {"slug": "locustae-ioel1", "kind": "entry", "entry": "locustae-ioel1", "vol": 3, "pages": list(range(289, 306)),
+     "title": 'Part 2, Book 4, chapter 4: The locusts of Joel, chapter 1',
+     "sub": "Vol. 3, pp. 289–305 · cols. 464–472 of 1663 (Part 2) · Joel 1: the gazam, arbe, jelek and chasil of verse 4, the nation with lion's teeth, the bare vines and fig trees, the seeds that rot under the clods (v. 17)"},
+    {"slug": "locustae-ioel2", "kind": "entry", "entry": "locustae-ioel2", "vol": 3, "pages": list(range(305, 321)),
+     "title": 'Part 2, Book 4, chapter 5: The locusts of Joel, chapter 2',
+     "sub": 'Vol. 3, pp. 305–320 · cols. 472–483 of 1663 (Part 2) · Joel 2: the day of darkness, the army spread on the mountains like the dawn, the horses and the noise of chariots, the northern army driven into the seas and its stench (v. 20)'},
+    {"slug": "locustae-amos", "kind": "entry", "entry": "locustae-amos", "vol": 3, "pages": list(range(320, 327)),
+     "title": 'Part 2, Book 4, chapter 6: The locusts of Amos',
+     "sub": "Vol. 3, pp. 320–326 · cols. 483–487 of 1663 (Part 2) · Amos 4:9, the gazam that ate the gardens and vineyards, with blight and mildew; Amos 7:1, the gob of the late growth after the king's mowings"},
 ]
 CONTENTS = []
 

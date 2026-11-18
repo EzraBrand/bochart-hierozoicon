@@ -44,6 +44,10 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # scan check 18-Nov-2026
+    ('v3-0274', 'מסמר'): 'print מִסְמָר et מַסְמֵר: both with samekh',
+    ('v3-0295', 'Geoponicῶn,'): 'print Geoponicῶn',
+    ('v3-0302', 'חתיכות'): 'חתיכות, fragmenta',
     # tranche 9 (scan check 17-Nov-2026)
     ('v3-0201', 'avium,'): 'print avium',
     ('v3-0222', 'تِبنان'): 'print تِينان (kasra only; ي with two dots)',
@@ -193,6 +197,15 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # scan check 18-Nov-2026
+    ('v3-0278', 'heuschrecken'),
+    ('v3-0279', '17[?]9.'),
+    ('v3-0281', 'quae'),
+    ('v3-0293', 'ἔνθ᾽'),
+    ('v3-0295', 'تأشير'),
+    ('v3-0302', 'الحرات'),
+    ('v3-0303', 'תהית'),
+    ('v3-0324', 'بالضعيف'),
     # tranche 9 (scan check 17-Nov-2026)
     ('v3-0201', 'cro'),
     ('v3-0208', 'المغزنه'),

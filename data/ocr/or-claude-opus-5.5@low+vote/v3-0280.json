@@ -1,0 +1,87 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "280 <i>Explicantur aliquot Scripturae loca de locustis.</i> P.II. L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "280 <i>Explicantur aliquot Scripturae loca de locustis.</i> P.II. L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Alii locum <i>Solomonis</i> multo aliter interpretantur, <i>Graeci</i>, Ἀβασίλευτόν\nἐστιν ἡ ἀκρὶς, καὶ ἐκστρατεύει ἀφ᾽ ἑνὸς κελεύσματος εὐτάκτως. Chaldaeus, <i>Lo-</i>\n<i>custae, quae regem non habent, congregantur omnes simul,</i> מתכנשין כלהון כחדא.\nIta etiam <i>Syrus</i>. Et <i>Hieronymus</i>, <i>Egreditur universa per turmas suas.</i> Et\n<i>Arabs</i>, ܒܥܣܟܪܗ ܐܡܪܗ ܘܐܚܕܗ ܒܬܚܣܝܢ ܬܪܬܝܒ <i>In castris ejus</i>\n<i>res illius, et modus illius est cum pulchra dispositione.</i> Quas veterum versiones\nvel inter se, vel cum <i>Hebraeo</i> textu, conciliare sit valde arduum. Tamen <i>Aben</i>\n<i>Ezra, Chaldaeo</i> accedens, <i>Hebraea</i> verba ויצא חוצץ, reddit יצא מאוסף ומקובץ,\n<i>Exit collecta et congregata.</i> Qua notione sumi חצץ, probare conatur ex <i>Iobi</i>\nverbis חדשיו חוצצו, id est, inquit, נקבעו ונאספו, <i>Menses ejus congregati et</i>\n<i>collecti sunt.</i> Sed illum locum docuimus aliter esse reddendum. Et negamus,\n<i>Hebraeum</i> חצץ uspiam sic usurpari. <i>Kimchio</i> hoc loco חצץ, est <i>herbas</i> et <i>arborum</i>\n<i>folia exscindendo dividere</i>, ut hic sit sensus; „Locustae regem non habent, ta-\nmen exeunt universae, ut dividant, id est, exscindant folia et herbas.“ In qua\nversione duo sunt, quae desiderem. 1. Quod haec sunt ἀνακόλουθα. Quidni\nenim locustae etiam sine rege pascantur, et gramina detondeant? 2. חצץ <i>divi-</i>\n<i>dere</i> quidem est, ut diximus; non tamen <i>exscindere.</i> Itaque vir quidam im-\npense doctus ^{(11)}, cui non placebant haec interpretamenta, aliud commentus est:\nnempe חוצץ a Nomine חץ, id est, <i>sagitta</i>, deduci; ut <i>Iud. III, 11.</i> מחצצים,\n<i>sagittarii;</i> et locum sic exponit: <i>Regem non habent locustae</i>, <i>tamen prodeunt sa-</i>\n<i>gittantes omnes:</i> id est, (ait) <i>sagittarum instar se ejaculantes.</i> Sed neque <i>He-</i>\n<i>braeum</i> verbum <i>sagittare</i> significat; neque verum est, quod ille supponit, <i>sa-</i>\n<i>gittare</i> idem esse, quod <i>sagittarum instar se ejaculari.</i> Praeterea locustarum vo-\nlatus tardior est, quam ut possit cum emissa sagitta comparari. Denique haec ⟦p. 460⟧\nnon satis cohaerent, <i>Locustae regem non habent</i>, <i>tamen sagittarum instar omnes</i>\n<i>se ejaculantur.</i> Neque enim volucribus rege opus est, ut cito volent. Sed is\nrursus aliud supponit, nempe, <i>se ejaculari</i> idem esse, quod <i>bellum gerere:</i> quod\nei multo minus, quam priora illa concesserim.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Alii locum <i>Solomonis</i> multo aliter interpretantur, <i>Graeci</i>, Ἀβασίλευτόν\nἐστιν ἡ ἀκρὶς, καὶ ἐκστρατεύει ἀφ᾽ ἑνὸς κελεύσματος εὐτάκτως. Chaldaeus, <i>Lo-</i>\n<i>custae, quae regem non habent, congregantur omnes simul,</i> מתכנשין כלהון כחדא.\nIta etiam <i>Syrus</i>. Et <i>Hieronymus</i>, <i>Egreditur universa per turmas suas.</i> Et\n<i>Arabs</i>, ܒܥܣܟܪܗ ܐܡܪܗ ܘܐܚܕܗ ܒܬܚܣܝܢ ܬܪܬܝܒ <i>In castris ejus</i>\n<i>res illius, et modus illius est cum pulchra dispositione.</i> Quas veterum versiones\nvel inter se, vel cum <i>Hebraeo</i> textu, conciliare sit valde arduum. Tamen <i>Aben</i>\n<i>Ezra, Chaldaeo</i> accedens, <i>Hebraea</i> verba ויצא חוצץ, reddit יצא מאוסף ומקובץ,\n<i>Exit collecta et congregata.</i> Qua notione sumi חצץ, probare conatur ex <i>Iobi</i>\nverbis חדשיו חוצצו, id est, inquit, נקבעו ונאספו, <i>Menses ejus congregati et</i>\n<i>collecti sunt.</i> Sed illum locum docuimus aliter esse reddendum. Et negamus,\n<i>Hebraeum</i> חצץ uspiam sic usurpari. <i>Kimchio</i> hoc loco חצץ, est <i>herbas</i> et <i>arborum</i>\n<i>folia exscindendo dividere</i>, ut hic sit sensus; „Locustae regem non habent, ta-\nmen exeunt universae, ut dividant, id est, exscindant folia et herbas.“ In qua\nversione duo sunt, quae desiderem. 1. Quod haec sunt ἀνακόλουθα. Quidni\nenim locustae etiam sine rege pascantur, et gramina detondeant? 2. חצץ <i>divi-</i>\n<i>dere</i> quidem est, ut diximus; non tamen <i>exscindere.</i> Itaque vir quidam im-\npense doctus ^{(11)}, cui non placebant haec interpretamenta, aliud commentus est:\nnempe חוצץ a Nomine חץ, id est, <i>sagitta</i>, deduci; ut <i>Iud. III, 11.</i> מחצצים,\n<i>sagittarii;</i> et locum sic exponit: <i>Regem non habent locustae</i>, <i>tamen prodeunt sa-</i>\n<i>gittantes omnes:</i> id est, (ait) <i>sagittarum instar se ejaculantes.</i> Sed neque <i>He-</i>\n<i>braeum</i> verbum <i>sagittare</i> significat; neque verum est, quod ille supponit, <i>sa-</i>\n<i>gittare</i> idem esse, quod <i>sagittarum instar se ejaculari.</i> Praeterea locustarum vo-\nlatus tardior est, quam ut possit cum emissa sagitta comparari. Denique haec ⟦p. 460⟧\nnon satis cohaerent, <i>Locustae regem non habent</i>, <i>tamen sagittarum instar omnes</i>\n<i>se ejaculantur.</i> Neque enim volucribus rege opus est, ut cito volent. Sed is\nrursus aliud supponit, nempe, <i>se ejaculari</i> idem esse, quod <i>bellum gerere:</i> quod\nei multo minus, quam priora illa concesserim."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Si <i>Solomonis</i> effato, <i>locustas regem non habere</i>, opponatur illud <i>Arabum</i>\nde locustis in <i>Damire</i>, وهو من الحيوان الذي ينقاد لرئيسه\nفيجتمع كالعسكر اذا ظعن اوله تتابع\nجميعه",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Si <i>Solomonis</i> effato, <i>locustas regem non habere</i>, opponatur illud <i>Arabum</i>\nde locustis in <i>Damire</i>, وهو من الحيوان الذي ينقاد لرئيسه\nفيجتمع كالعسكر اذا ظعن اوله تتابع\nجميعه"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>universa per turmas suas</i>, ad quae verba\napposite GROTIUS: „Est animal ἀγελαῖον\n(<i>gregale</i>) quidem, sed ἀβασίλευτον (<i>sine</i>\n<i>rege</i>), quod de formica habuimus supra\nVI, 7. <i>Magna cohorte ire locustas</i>, dicit\nPlinius.“",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>universa per turmas suas</i>, ad quae verba\napposite GROTIUS: „Est animal ἀγελαῖον\n(<i>gregale</i>) quidem, sed ἀβασίλευτον (<i>sine</i>\n<i>rege</i>), quod de formica habuimus supra\nVI, 7. <i>Magna cohorte ire locustas</i>, dicit\nPlinius.“"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "LUDOVICUS DE DIEU in <i>Critica</i>\n<i>sacra</i> ad h. l.",
+   "marker": "(11)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "LUDOVICUS DE DIEU in <i>Critica</i>\n<i>sacra</i> ad h. l."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1669,
+    1293
+   ],
+   [
+    1669,
+    1499
+   ]
+  ],
+  "input_tokens": 7955,
+  "output_tokens": 1859,
+  "cost_usd": 0.069,
+  "seconds": 25.6,
+  "vote": "0 decisions from v3-272-326"
+ }
+}

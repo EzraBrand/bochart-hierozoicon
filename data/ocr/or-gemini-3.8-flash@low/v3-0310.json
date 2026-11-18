@@ -1,0 +1,194 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "310 <i>De Locuſtis quid habeat Ioel cap. II.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "310 <i>De Locuſtis quid habeat Ioel cap. II.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>O quae natura lyram imitaris, cane mihi aliquid amabile, concutiens pedibus\ncharas vocales alas.</i> Et <i>Phaennus,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>O quae natura lyram imitaris, cane mihi aliquid amabile, concutiens pedibus\ncharas vocales alas.</i> Et <i>Phaennus,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Δαμοκρίτῳ μὲν ἐπὼ λιγυρὰν ὄκα Μῶσαν ἐνίην\nἈκρὶς ἀπὸ πτερύγων, τὸν βαθὺν ὕπνον ἄγων.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δαμοκρίτῳ μὲν ἐπὼ λιγυρὰν ὄκα Μῶσαν ἐνίην\nἈκρὶς ἀπὸ πτερύγων, τὸν βαθὺν ὕπνον ἄγων."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Damocrito quidem cum dulcem Muſam ego locuſta ab alis emiſerim, profundum\nſomnum provocans.</i> Neque eſt, quod mireris, laudari vocem, in qua non vide-\ntur quidquam eſſe elegantiae. Nam, ut cicadam, ita etiam locuſtam <i>poëtae\npaſſim</i> a cantu laudant. <i>Leonidas,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Damocrito quidem cum dulcem Muſam ego locuſta ab alis emiſerim, profundum\nſomnum provocans.</i> Neque eſt, quod mireris, laudari vocem, in qua non vide-\ntur quidquam eſſe elegantiae. Nam, ut cicadam, ita etiam locuſtam <i>poëtae\npaſſim</i> a cantu laudant. <i>Leonidas,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀκρίδι, τᾷ κατ᾽ ἄρουραν ἀηδόνι, καὶ δρυοκοίτᾳ\nΤέττιγι ξυνὸν τύμβον ἔτευξε Μυρώ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀκρίδι, τᾷ κατ᾽ ἄρουραν ἀηδόνι, καὶ δρυοκοίτᾳ\nΤέττιγι ξυνὸν τύμβον ἔτευξε Μυρώ."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Locuſtae, quae agrorum eſt luſcinia, et in quercubus jacenti cicadae commu-\nnem tumulum fecit Myro. Anyte,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Locuſtae, quae agrorum eſt luſcinia, et in quercubus jacenti cicadae commu-\nnem tumulum fecit Myro. Anyte,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Οὐκ ἔτι λιγείᾳ σε κατ᾽ ἀφνεὸν Ἄκιδος οἶκον,\nἈκρὶ, μελιζομέναν, ὄψεται ἠέλιος.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Οὐκ ἔτι λιγείᾳ σε κατ᾽ ἀφνεὸν Ἄκιδος οἶκον,\nἈκρὶ, μελιζομέναν, ὄψεται ἠέλιος."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Non amplius, o canora locuſta, ad divitem Acidis domum canentem te vide-\nbit ſol.</i> Et multo ante <i>Theocritus Idyllio 7.</i> ſeipſum ἐξευθενίζων, tanquam\nad certamen impar cum poëta magni nominis,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Non amplius, o canora locuſta, ad divitem Acidis domum canentem te vide-\nbit ſol.</i> Et multo ante <i>Theocritus Idyllio 7.</i> ſeipſum ἐξευθενίζων, tanquam\nad certamen impar cum poëta magni nominis,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— βάτραχος δέ ποτ᾽ ἀκρίδας, ὥς τις ἐρίσδω·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— βάτραχος δέ ποτ᾽ ἀκρίδας, ὥς τις ἐρίσδω·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut rana contra locuſtas contendo.</i> Nec opus fuit, cicadas intelligi, quas a cantu\nalibi commendat. Nam in locuſtis etiam nonnullae ſunt αἱ συρίζουσιν ἐναρμό-\nνιον, <i>quae harmonicum ſibilum edunt,</i> ut ibi <i>Scholiaſtes.</i> Proinde <i>Idyllio 5. Lacon\nComaten</i> ad quieſcendum in proxima ſylva hac ratione invitat:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut rana contra locuſtas contendo.</i> Nec opus fuit, cicadas intelligi, quas a cantu\nalibi commendat. Nam in locuſtis etiam nonnullae ſunt αἱ συρίζουσιν ἐναρμό-\nνιον, <i>quae harmonicum ſibilum edunt,</i> ut ibi <i>Scholiaſtes.</i> Proinde <i>Idyllio 5. Lacon\nComaten</i> ad quieſcendum in proxima ſylva hac ratione invitat:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ψυχρὸν ὕδωρ τηνεὶ καταλείβεται· ὧδε πεφύκει\nΠοία, χἁ στιβὰς ᾇ δε, καὶ ἀκρίδες ὧδε λαλεῦντι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ψυχρὸν ὕδωρ τηνεὶ καταλείβεται· ὧδε πεφύκει\nΠοία, χἁ στιβὰς ᾇ δε, καὶ ἀκρίδες ὧδε λαλεῦντι."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Frigida aqua ibi fluit; ibi nata eſt herba, et thorus, et locuſtae ibi loquun-\ntur, ſeu canunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Frigida aqua ibi fluit; ibi nata eſt herba, et thorus, et locuſtae ibi loquun-\ntur, ſeu canunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Utut ſit, a voce et ſonitu ſacer ſcriptor, ad militarem ordinem tranſiens,\nverſu 5. <i>Eſt, inquit, ut populus validus, ad pugnam inſtructus.</i> 6. <i>A facie\nejus contremiſcent populi, omnes vultus pallorem contrahent.</i> 7. <i>Sicut ſtrenui\nmilites current: ut viri bellatores aſcendent murum. Quiſque in viis ſuis pro-\ncedent, nec pervertent ſemitas ſuas.</i> 8. <i>Et alter alterum non prement, quiſque\nin calle ſuo procedet. Etiam in enſem ruentes non ſauciabuntur.</i> 9. <i>Per ur-\nbem gradientur, in domos aſcendent, per ipſas feneſtras ut fur ingredientur.]</i>\nIn quibus verbis primo notandum, hunc qualemcunque exercitum non jam\ndici <i>populum,</i> ſed <i>ut populum.</i> Itaque cum gentem et populum Propheta ⟦p. 477.⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Utut ſit, a voce et ſonitu ſacer ſcriptor, ad militarem ordinem tranſiens,\nverſu 5. <i>Eſt, inquit, ut populus validus, ad pugnam inſtructus.</i> 6. <i>A facie\nejus contremiſcent populi, omnes vultus pallorem contrahent.</i> 7. <i>Sicut ſtrenui\nmilites current: ut viri bellatores aſcendent murum. Quiſque in viis ſuis pro-\ncedent, nec pervertent ſemitas ſuas.</i> 8. <i>Et alter alterum non prement, quiſque\nin calle ſuo procedet. Etiam in enſem ruentes non ſauciabuntur.</i> 9. <i>Per ur-\nbem gradientur, in domos aſcendent, per ipſas feneſtras ut fur ingredientur.]</i>\nIn quibus verbis primo notandum, hunc qualemcunque exercitum non jam\ndici <i>populum,</i> ſed <i>ut populum.</i> Itaque cum gentem et populum Propheta ⟦p. 477.⟧"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "ſupra",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ſupra"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1777,
+    1392
+   ],
+   [
+    1777,
+    1420
+   ]
+  ],
+  "input_tokens": 3380,
+  "output_tokens": 1322,
+  "cost_usd": 0.0075,
+  "seconds": 14.0
+ }
+}

@@ -122,6 +122,10 @@ for e in ("kippoz", "sephiphon", "saraph", "dracones"):
 GRASSHOPPER = (r"\bgrasshoppers?\b", r"chagab|חגב|gryll")
 RULES["locustae-nomina"] = [GRASSHOPPER]
 
+# tranche 10: the locusts in Scripture
+for e in ("locustae-loca", "locustae-aegyptiae", "locustae-ioel1", "locustae-ioel2", "locustae-amos"):
+    RULES[e] = [GRASSHOPPER]
+
 
 def main():
     entries = sys.argv[1:] or sorted(p.name for p in ENTRIES.iterdir() if p.name in RULES)

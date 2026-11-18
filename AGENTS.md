@@ -87,6 +87,18 @@ column range in the draft: read `qa.log` ("margin [248] after 427") first, and c
 phrases. (6) The next tranche: Book 4 (the insects) from ch. 2, vol. 3 p. 271 (chs. 2-5 run to p. 319, ch. 6 begins on p. 320; pp. 272-282 are
 fetched; chapter heads in `logs/find_chapters_t9.log`).
 
+Tranche 10 (18-Nov-2026, vol. 3 pp. 272-326, Book 4 chs. 2-6): synchronous, no test batch, $0.211 a page, about 1 h.
+Lessons: (1) a long block in Syriac (10 lines or more) is not read by any model: Opus leaves `[?]`, and a re-read of the
+crop alone gives fluent text that is not the print (Opus at high effort returned nothing in 6,000 tokens; low effort
+invented). Do not use it; mark the block with a FIXES pair (`[Syriaca, versus XIV, hic non transcripta]`). (2) Opus can
+write an Arabic line in Syriac letters (p. 280); the vote lists the words as "not similar". (3) `hebcheck.py` and
+`biblecheck.py` found 2 more ד/ר errors on a page where the vote had flagged 3; after a ד/ר FIXES pair, grep the page
+for the other forms of the root. (4) A Greek verse quoted twice: read the clearer copy before a verdict (p. 307 against
+p. 309). (5) `logs/linecrop.py` takes `3:PAGE` for vol. 3 and the MDZ spelling (long s as f). (6) A shell heredoc
+halves `\n` in a FIXES pair (entry.py would not import): write such edits with a file tool. (7) The next tranche: Book 4
+from ch. 7, vol. 3 p. 326 (John the Baptist's locusts; ch. 8 p. 334, ch. 9 the fly p. 341, ch. 10 p. 352, ch. 11 the bees
+p. 365, ch. 12 honey p. 374, ch. 13 wasps p. 402, ch. 14 the gadfly p. 417; heads in `logs/find_chapters_t10.log`).
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50

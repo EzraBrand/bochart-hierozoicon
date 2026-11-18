@@ -1,0 +1,158 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. IV. <i>De Locustis quid habeat Ioel cap. II.</i> 307",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. IV. <i>De Locustis quid habeat Ioel cap. II.</i> 307"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "inprimis, in aestu eas esse loquaciores: et alas frustra comprimi, ut taceant:\nquia eo magis loquuntur. Ac proinde loquacibus vulgari <i>proverbio</i> dici, Τέττι-\nγα δόξεις τῶν πτερῶν τάχα κεκρατηκέναι, <i>Cicadam videris alis fortasse cohibu-\nisse.</i> Iam, ut de locustis eadem iactari scias, lege haec <i>Theocriti Idyllio</i> 5.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "inprimis, in aestu eas esse loquaciores: et alas frustra comprimi, ut taceant:\nquia eo magis loquuntur. Ac proinde loquacibus vulgari <i>proverbio</i> dici, Τέττι-\nγα δόξεις τῶν πτερῶν τάχα κεκρατηκέναι, <i>Cicadam videris alis fortasse cohibu-\nisse.</i> Iam, ut de locustis eadem iactari scias, lege haec <i>Theocriti Idyllio</i> 5."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — Καὶ ἀκρίδες ὧδε λαλεῦνται,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — Καὶ ἀκρίδες ὧδε λαλεῦνται,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Etiam hic loquuntur locustae.</i> Et <i>Meleagri</i> de locusta, <i>Anthologiae</i> lib. 3.\ncap. 24.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Etiam hic loquuntur locustae.</i> Et <i>Meleagri</i> de locusta, <i>Anthologiae</i> lib. 3.\ncap. 24."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἐκκρούσα φίλας ποσσὶ λάλους πτέρυγας,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐκκρούσα φίλας ποσσὶ λάλους πτέρυγας,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Pedibus concutiens charas loquaces alas:</i> quasi locusta loquatur alis. Sed eo ma-\nxime pertinet ἀπὸ τῶν ἀκρίδων, <i>a locustis</i> formatum Verbum κατακριδεύειν,\nquod significat, <i>loquacitate sua aliquem obtundere,</i> quasi <i>locustare</i> dixeris. <i>Hesy-\nchius</i>, Κατακριδεύσει· καταλήσει (lege καταλαλήσει·) ἐπεὶ καὶ αἱ ἀκρίδες\nπολύφωνοί εἰσιν· <i>Locustabit</i> (si verbo datur venia), <i>loquacitate obruet; quia lo-\ncustae sunt loquacissimae.</i> Sed, ut ad rem redeamus, cum de venturo locusta-\nrum populo dicit <i>Propheta, Ante eum consumet ignis, et post eum exuret flam-\nma:</i> utrobique agi puto de summa siccitate, quae locustarum adventum praeces-\nserit et sequuta sit. Ac proinde a <i>Propheta</i> dici, <i>Ante eum</i> (locustarum popu-\nlum) <i>consumet,</i> etc. Terra <i>Chanaan</i> cum horto <i>Edenis</i> confertur; ut <i>Aegyptus</i>\net <i>Sodomaeorum</i> ager ante cladem, a Deo immissam, <i>Gen. XIII, 10. Ante eum,</i>\nid est, <i>ante adventum ejus:</i> ut <i>post eum,</i> id est, <i>post ejus discessum;</i> ut <i>Zachar.\nVII, 14. Terra desolata est post eos,</i> id est, <i>post eorum migrationem</i> ^{(2)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Pedibus concutiens charas loquaces alas:</i> quasi locusta loquatur alis. Sed eo ma-\nxime pertinet ἀπὸ τῶν ἀκρίδων, <i>a locustis</i> formatum Verbum κατακριδεύειν,\nquod significat, <i>loquacitate sua aliquem obtundere,</i> quasi <i>locustare</i> dixeris. <i>Hesy-\nchius</i>, Κατακριδεύσει· καταλήσει (lege καταλαλήσει·) ἐπεὶ καὶ αἱ ἀκρίδες\nπολύφωνοί εἰσιν· <i>Locustabit</i> (si verbo datur venia), <i>loquacitate obruet; quia lo-\ncustae sunt loquacissimae.</i> Sed, ut ad rem redeamus, cum de venturo locusta-\nrum populo dicit <i>Propheta, Ante eum consumet ignis, et post eum exuret flam-\nma:</i> utrobique agi puto de summa siccitate, quae locustarum adventum praeces-\nserit et sequuta sit. Ac proinde a <i>Propheta</i> dici, <i>Ante eum</i> (locustarum popu-\nlum) <i>consumet,</i> etc. Terra <i>Chanaan</i> cum horto <i>Edenis</i> confertur; ut <i>Aegyptus</i>\net <i>Sodomaeorum</i> ager ante cladem, a Deo immissam, <i>Gen. XIII, 10. Ante eum,</i>\nid est, <i>ante adventum ejus:</i> ut <i>post eum,</i> id est, <i>post ejus discessum;</i> ut <i>Zachar.\nVII, 14. Terra desolata est post eos,</i> id est, <i>post eorum migrationem</i> ^{(2)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nec erit, quod ei evadat.</i>] Nempe in terrae proventu. Omnia enim ita\nabsument, ut nihil plane sit residuum.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nec erit, quod ei evadat.</i>] Nempe in terrae proventu. Omnia enim ita\nabsument, ut nihil plane sit residuum."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Versu 4. <i>Qualis aspectus equorum aspectus ejus, et ut equites ita current</i>]\nUt <i>Apoc. IX, 7. Et species locustarum similes erant equis, ad bellum paratis.</i> Hoc\n<i>Hebraei</i> referunt ad cursus aut volatus velocitatem, qua sint equis prope pares:\nnos insuper ad caput aut faciem, equinae non absimilem. A qua <i>locustae</i> ab <i>Italis</i>\nvocantur <i>cavallette.</i> Hinc <i>Albertus</i> lib. 26. <i>Caput habent figura equi.</i> Et <i>Al-\ndrovandus</i>, <i>Equinum quodammodo caput habent.</i> Et multo ante <i>Theodoretus</i> in\n<i>Ioelem</i>, Εἴ τις ἀκριβῶς κατίδοι τὴν κεφαλὴν τὴν ἀκρίδος, σφόδρα τῇ τοῦ ἵπ-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Versu 4. <i>Qualis aspectus equorum aspectus ejus, et ut equites ita current</i>]\nUt <i>Apoc. IX, 7. Et species locustarum similes erant equis, ad bellum paratis.</i> Hoc\n<i>Hebraei</i> referunt ad cursus aut volatus velocitatem, qua sint equis prope pares:\nnos insuper ad caput aut faciem, equinae non absimilem. A qua <i>locustae</i> ab <i>Italis</i>\nvocantur <i>cavallette.</i> Hinc <i>Albertus</i> lib. 26. <i>Caput habent figura equi.</i> Et <i>Al-\ndrovandus</i>, <i>Equinum quodammodo caput habent.</i> Et multo ante <i>Theodoretus</i> in\n<i>Ioelem</i>, Εἴ τις ἀκριβῶς κατίδοι τὴν κεφαλὴν τὴν ἀκρίδος, σφόδρα τῇ τοῦ ἵπ-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Qq 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Qq 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "που",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "που"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Verba: <i>post eos exuret flamma,</i>\nOEDMANNUS Fasc. VI. Cap. VIII. pag. 77.\neo refert, quod loca, a locustis vastata, vere\ntanquam igne adusta appareant, referente\nMARITI in <i>Itineris per Cyprum insulam\nfacti Commentariis</i> P. I. p. 258., cum lo-\ncustae non segetes tantum et gramina, sed\nradices etiam consumant.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Verba: <i>post eos exuret flamma,</i>\nOEDMANNUS Fasc. VI. Cap. VIII. pag. 77.\neo refert, quod loca, a locustis vastata, vere\ntanquam igne adusta appareant, referente\nMARITI in <i>Itineris per Cyprum insulam\nfacti Commentariis</i> P. I. p. 258., cum lo-\ncustae non segetes tantum et gramina, sed\nradices etiam consumant."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1728,
+    1707
+   ],
+   [
+    1728,
+    1141
+   ]
+  ],
+  "input_tokens": 8219,
+  "output_tokens": 1829,
+  "cost_usd": 0.0695,
+  "seconds": 29.1
+ }
+}

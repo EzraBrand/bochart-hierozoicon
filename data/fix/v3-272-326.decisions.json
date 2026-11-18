@@ -1,0 +1,519 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v3-0275",
+   "line": "cum horrore et ὀρθοτριχία quidquam commune est. Fallor, an hic quoque",
+   "old": "ὀρθοτριχία",
+   "new": "ὀρθοτριχίᾳ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0275",
+   "line": "ספר, vel מספר(6). Chaldaeus quorsum pro ילק סמר habeat וחלא רמצלהב, bruchum",
+   "old": "וחלא",
+   "new": "זחלא",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0276",
+   "line": "chium. Itaque Chaldaeus hic habet אטלטלה, divagatus sum. Prorsus aliena vi-",
+   "old": "אטלטלה,",
+   "new": "אטלטלת,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0276",
+   "line": "dant מפנכין הא כוחלא, saltantes ut locustae. Proinde ut Hebraice חרגל chargol",
+   "old": "מפנכין",
+   "new": "מסככין",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0277",
+   "line": "girada Verbum, de agro, est illud deglabrare et denudare. Sed Verbum התכבר",
+   "old": "girada",
+   "new": "giarada",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0277",
+   "line": "verbo اصعر ascaara. Alcamus, اصعر الجراد اصابته",
+   "old": "اصعر",
+   "new": "اصقعر",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0277",
+   "line": "verbo اصعر ascaara. Alcamus, اصعر الجراد اصابته",
+   "old": "اصعر",
+   "new": "اصقعر",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0278",
+   "line": "heuschrecken Berolin. 1752. pag. 59. Idem",
+   "old": "heuschrecken",
+   "new": "keuschrecken",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0279",
+   "line": "ejus Differtatt. junctim editis, p. 108. seq.,",
+   "old": "Differtatt.",
+   "new": "Dissertatt.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0281",
+   "line": "est similis locustae, quae diversatur (12).",
+   "old": "quae",
+   "new": "quas",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0281",
+   "line": "جبيعة طلبا واذا نزل اولة نزل جبيعة Est animal",
+   "old": "جبيعة",
+   "new": "جميعة",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0281",
+   "line": "جبيعة طلبا واذا نزل اولة نزل جبيعة Est animal",
+   "old": "اولة",
+   "new": "اوله",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0281",
+   "line": "جبيعة طلبا واذا نزل اولة نزل جبيعة Est animal",
+   "old": "جبيعة",
+   "new": "جميعـه",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0290",
+   "line": "a) Cap. I. Sect. 3, t. 8. 6.",
+   "old": "t.",
+   "new": "l.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0295",
+   "line": "das ruris opes plane sufficit. Quod ab illis demorsum est, Arabes تأشير vo-",
+   "old": "تأشير",
+   "new": "تاشر",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0295",
+   "line": "cant, id est, denticulatum in serrae modum. Nam أشر est serra secare (1).",
+   "old": "أشر",
+   "new": "اشر",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0296",
+   "line": "للتشييخ, ad discerptionem.",
+   "old": "للتشييخ,",
+   "new": "للتفسيخ,",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0301",
+   "line": "sed etiam significationis adducit caussam,",
+   "old": "caussam,",
+   "new": "causam,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0302",
+   "line": "التي يحفرها الحرات",
+   "old": "الحرات",
+   "new": "الحراث",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0302",
+   "line": "اجرف, quae significat et convolvere, et",
+   "old": "اجرف,",
+   "new": "أجرف,",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0303",
+   "line": "scant, aut siccitate vanescant, Hebraeum עבש, vel עפש, potuit utrumque com-",
+   "old": "עפש,",
+   "new": "עבש,",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0303",
+   "line": "עליהם כי גם כן תהית עצירה גדולה בשנים",
+   "old": "תהית",
+   "new": "תהיה",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0304",
+   "line": "תחת אלארץ אד לא ינזל עליהא משר פלם",
+   "old": "משר",
+   "new": "מטר",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0303",
+   "line": "locum, יתעפשו גרגרי הורע מפני הגשמים, Putrescunt grana seminis propter",
+   "old": "הורע",
+   "new": "הזרע",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0303",
+   "line": "riunt, in quibus post verba מפני הגשמים",
+   "old": "riunt,",
+   "new": "periunt,",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0304",
+   "line": "ut grana sub terra arescerent, quia plu-",
+   "old": "arescerent,",
+   "new": "arefierent,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0304",
+   "line": "nis. Atque illa ipsa siccitas, cujus Propheta meminit, caussa fuit, cur locustae",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0304",
+   "line": "Sub arido Syrio in nigra putrescunt terra. Quasi etiam siccitas sit caussa putredi-",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0304",
+   "line": "ᾠὰ ὑπὸ τῶν μετοπωρινῶν ὑδάτων, ὅταν πολλὰ γένηται. ἂν δὲ αὐχμὸς συμ-",
+   "old": "ᾠὰ",
+   "new": "ὠὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0305",
+   "line": "tae dicunt. Homerus Iliad θ'. initio,",
+   "old": "θ'.",
+   "new": "ϑ'.",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0306",
+   "line": "אנתשאר אלגראד באנתשאר אלצו אנר אלצבאח,",
+   "old": "אלצבאח,",
+   "new": "אלצבאה,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0307",
+   "line": "isse. Iam, ut de locustis eadem iactari scias, lege haec Theocriti Idyllio 5.",
+   "old": "iactari",
+   "new": "jactari",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0308",
+   "line": "نسر وفخذا جمل ورجلا نعامة وذنب حية In locusta,",
+   "old": "ورجلا",
+   "new": "ورجالا",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0307",
+   "line": "Ἐκκρούσα φίλας ποσσὶ λάλους πτέρυγας,",
+   "old": "Ἐκκρούσα",
+   "new": "Ἐκκρέουσα",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0311",
+   "line": "Quod ita se habere, his verbis asserit Hieronymus, Tanto ordine, ex iubentis",
+   "old": "iubentis",
+   "new": "jubentis",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0312",
+   "line": "facientes. Et Cyrillus, Φασὶ δὲ αὐτὰς στοιχηδὸν ἰέναι, καὶ ὡς ἐν τάξει διίπτα-",
+   "old": "διίπτα-",
+   "new": "διΐπτα-",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0313",
+   "line": "sauciantur.] Hebraice לא יבצער, pro לא יפצער. Itaque hic rursus Beth pro",
+   "old": "יבצער,",
+   "new": "יבצעו,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0313",
+   "line": "sauciantur.] Hebraice לא יבצער, pro לא יפצער. Itaque hic rursus Beth pro",
+   "old": "יפצער.",
+   "new": "יפצעו.",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0313",
+   "line": "דאבין שליחין קטלין ולא מקבלין ממון, sin-",
+   "old": "דאבין",
+   "new": "דאנין",
+   "script": "Hebrew",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0314",
+   "line": "ca, qua بضع significat concidere, diffin-",
+   "old": "diffin-",
+   "new": "dissin-",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0314",
+   "line": "Hesychio βρέτταναι φοβεραὶ, locusta terribilis.",
+   "old": "βρέτταναι",
+   "new": "βρέττανα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0314",
+   "line": "Hesychio βρέτταναι φοβεραὶ, locusta terribilis.",
+   "old": "φοβεραὶ,",
+   "new": "φοβερὰ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0319",
+   "line": "الله الأعظم Locustas non occidetis; quia sunt exercitus Dei maximi.",
+   "old": "الأعظم",
+   "new": "الاعظم",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0319",
+   "line": "affixerit Deus. Quin, si a capite ad calcem tota Scriptura evolvatur, repe-",
+   "old": "affixerit",
+   "new": "afflixerit",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0322",
+   "line": "التي لا تعمل فيها المعاول فيضربها بذنبه فتنفرج",
+   "old": "فتنفرج",
+   "new": "فتفرج",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0324",
+   "line": "c) Cap. V. pag. 482.",
+   "old": "c)",
+   "new": "e)",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0323",
+   "line": "الارض لبيض caudam suam terrae infigit, ut ovificet. Ipsa dicitur صفرا",
+   "old": "لبيض",
+   "new": "لتبيض",
+   "script": "Arabic",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0324",
+   "line": "فسبحان من يهلك القوي الاكول بالضعيف",
+   "old": "بالضعيف",
+   "new": "بالصعيف",
+   "script": "Arabic",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0326",
+   "line": "ἀκρέμοσι βοτανῶν καὶ φύλλων πρὸς ὀλίγην τροφήν, herbarum et foliorum extre-",
+   "old": "φύλλων",
+   "new": "φυλλῶν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

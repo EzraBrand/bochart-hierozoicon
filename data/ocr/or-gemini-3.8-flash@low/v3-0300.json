@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "300 <i>De Locustis quid habeat Ioel cap. I.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "300 <i>De Locustis quid habeat Ioel cap. I.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>menta in stercore suo. Et Chaldaeus</i>, אתמסין גרבי חמר תחות מגופתהון, <i>Ef-\nfluxerunt dolia vini sub operculis suis</i> (⁵). <i>Et Syrus rursus aliter</i> (⁶). <i>Nos cum\nHebraeis, Computruerunt grana sub glebis suis. Nempe</i> עבש <i>idem, quod</i>\nעפש, <i>Beth et Pe permutatis, quae literae sunt homogeneae et facile permuta-\nbiles. Porro Talmudicis</i> עפש <i>est putrescere. Recte igitur Hieronymus, compu-\ntruerunt. Et</i> פרדות <i>grana vere exponi suadet, quod Syris</i> ܦܪܕܬܐ <i>est granum.\nHinc in Syra paraphrasi Matth. XIII, 31.</i> ܦܪܕܬܐ ܕܚܪܕܠܐ <i>est granum sinapi.\nIoh. XII, 24.</i> ܦܪܕܬܐ ܕܚܛܬܐ, <i>granum frumenti. 1 Corinth. XV, 37.</i> ܦܪܕܬܐ\nܕܚܛܐ ܐܘ ܕܣܥܪܐ, <i>grana tritici et hordei</i> (⁷). <i>Denique</i> מגרפות <i>esse glebas,\nsuadet</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>menta in stercore suo. Et Chaldaeus</i>, אתמסין גרבי חמר תחות מגופתהון, <i>Ef-\nfluxerunt dolia vini sub operculis suis</i> (⁵). <i>Et Syrus rursus aliter</i> (⁶). <i>Nos cum\nHebraeis, Computruerunt grana sub glebis suis. Nempe</i> עבש <i>idem, quod</i>\nעפש, <i>Beth et Pe permutatis, quae literae sunt homogeneae et facile permuta-\nbiles. Porro Talmudicis</i> עפש <i>est putrescere. Recte igitur Hieronymus, compu-\ntruerunt. Et</i> פרדות <i>grana vere exponi suadet, quod Syris</i> ܦܪܕܬܐ <i>est granum.\nHinc in Syra paraphrasi Matth. XIII, 31.</i> ܦܪܕܬܐ ܕܚܪܕܠܐ <i>est granum sinapi.\nIoh. XII, 24.</i> ܦܪܕܬܐ ܕܚܛܬܐ, <i>granum frumenti. 1 Corinth. XV, 37.</i> ܦܪܕܬܐ\nܕܚܛܐ ܐܘ ܕܣܥܪܐ, <i>grana tritici et hordei</i> (⁷). <i>Denique</i> מגרפות <i>esse glebas,\nsuadet</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "cum Alexandrinum in suo codice invenisse\nרפתיהם, Fischerus concludit ex eo, quod\nis ἐπὶ ταῖς φάτναις αὐτῶν vertit; רפתים au-\ntem alio quoque loco (Habac. III, 17.) iis-\ndem interpretibus dicuntur φάτναι. MER-\nCERUS tamen in Commentario ad hunc lo-\ncum, tam hanc Graecorum versionem, <i>ἐπὶ\nταῖς φάτναις αὐτῶν</i>, <i>ad praesepia</i>, sive <i>in\nstabulis, ipsorum</i>, quam Vulgatam latinam,\n<i>in stercore suo</i>, putat quam maxime niti\nderivatione vocis a radice רפף, quatenus\ndenotat <i>avertere</i>, quia stercus <i>avertitur</i>\nsub pecudibus, vel ex eorum stabulis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "cum Alexandrinum in suo codice invenisse\nרפתיהם, Fischerus concludit ex eo, quod\nis ἐπὶ ταῖς φάτναις αὐτῶν vertit; רפתים au-\ntem alio quoque loco (Habac. III, 17.) iis-\ndem interpretibus dicuntur φάτναι. MER-\nCERUS tamen in Commentario ad hunc lo-\ncum, tam hanc Graecorum versionem, <i>ἐπὶ\nταῖς φάτναις αὐτῶν</i>, <i>ad praesepia</i>, sive <i>in\nstabulis, ipsorum</i>, quam Vulgatam latinam,\n<i>in stercore suo</i>, putat quam maxime niti\nderivatione vocis a radice רפף, quatenus\ndenotat <i>avertere</i>, quia stercus <i>avertitur</i>\nsub pecudibus, vel ex eorum stabulis."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Rectius Chaldaica haec in Bibliis\nPolyglottis latine ita redduntur: <i>compu-\ntruerunt dolia vini sub operculis suis</i>.\nQuae interpretatio firmatur auctoritate Abu\nWalidi, doctissimi Hebraeorum Gramma-\ntici, ab Ed. Pocockio, ut saepe, ita et hic\nlaudati (pag. 80.), qui Chaldaei interpretis\nverba ita explicat: خمجت دنان\nالخمر وعفنت من طول مكثها\nفارغة <i>dolia vinaria foetent, vel ran-\ncida et mucida redduntur, quod tamdiu\nvacua maneant</i>. Patet, Chaldaeum inter-\npretem verbum עבש <i>mucessendi</i>, <i>putre-\nscendi</i> significatione sumsisse. quae inest\nChaldaico, sono cognato, עפש. Verba\nautem Hebraea cetera, quae non satis in-\ntellexisse videtur, libera paraphrasi red-\ndidit.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Rectius Chaldaica haec in Bibliis\nPolyglottis latine ita redduntur: <i>compu-\ntruerunt dolia vini sub operculis suis</i>.\nQuae interpretatio firmatur auctoritate Abu\nWalidi, doctissimi Hebraeorum Gramma-\ntici, ab Ed. Pocockio, ut saepe, ita et hic\nlaudati (pag. 80.), qui Chaldaei interpretis\nverba ita explicat: خمجت دنان\nالخمر وعفنت من طول مكثها\nفارغة <i>dolia vinaria foetent, vel ran-\ncida et mucida redduntur, quod tamdiu\nvacua maneant</i>. Patet, Chaldaeum inter-\npretem verbum עבש <i>mucessendi</i>, <i>putre-\nscendi</i> significatione sumsisse. quae inest\nChaldaico, sono cognato, עפש. Verba\nautem Hebraea cetera, quae non satis in-\ntellexisse videtur, libera paraphrasi red-\ndidit."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "ܚܡ̈ܠܐ ܒܐܘܪ̈ܝܗܝܢ [?]ܣܝ,\nquae verba interpres latinus in Polyglottis\nita vertit: <i>incoenatae manserunt iuvencae\nsuper praesepibus suis</i>. Sed monet Ed.\nPocockius pag. 80. 82. verbum ܚܡ̈ܠ\nrectius reddi: <i>torrefactae sunt</i>, vel <i>adu-\nstae</i>, ut retineatur usitatior Syriaci ܚܡܠ\nsignificatio, atque expressisse Syrum inter-\npretem <i>arendi</i> notionem, quae inest Arabi-\nco عبس, cum Hebraico עבש scriptione\net fono convenienti. Cf. infra not. nostram\n11. <i>Torrefactas</i> autem, sive <i>exsiccatas,\niuvencas esse fame extabidas</i>, vix est,\nquod moneamus.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ܚܡ̈ܠܐ ܒܐܘܪ̈ܝܗܝܢ [?]ܣܝ,\nquae verba interpres latinus in Polyglottis\nita vertit: <i>incoenatae manserunt iuvencae\nsuper praesepibus suis</i>. Sed monet Ed.\nPocockius pag. 80. 82. verbum ܚܡ̈ܠ\nrectius reddi: <i>torrefactae sunt</i>, vel <i>adu-\nstae</i>, ut retineatur usitatior Syriaci ܚܡܠ\nsignificatio, atque expressisse Syrum inter-\npretem <i>arendi</i> notionem, quae inest Arabi-\nco عبس, cum Hebraico עבש scriptione\net fono convenienti. Cf. infra not. nostram\n11. <i>Torrefactas</i> autem, sive <i>exsiccatas,\niuvencas esse fame extabidas</i>, vix est,\nquod moneamus."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Vocis פרודות notionem nemo expo-\nfuit melius, atque simul varias ejus inter-\npretationes diligentius expendit Eduardo\nPocockio in Commentario, quem, quia ne-\nglectum fere hodie video, atque in pauco-\nrum manibus versatum, immerito tamen,\nquum refertus sit solida atque exquisita\neruditione, apponam ex eo, quae maxime\nad rem faciunt. „A radice פרד, quae He-\nbraeis, Chaldaeis et Arabibus significat <i>se-\nparare</i>, vel <i>separatum esse</i>, possunt dedu-\nci nomina, quae denotant <i>quid singulare\net separatum ab aliis</i>, ut frumenti granula\net semen, quod seminatur ac terrae man-\ndatur. Atque eo sensu et hic accipi posse\nnomen hebraicum, absurdum non est,\nquam-",
+   "marker": "(7)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vocis פרודות notionem nemo expo-\nfuit melius, atque simul varias ejus inter-\npretationes diligentius expendit Eduardo\nPocockio in Commentario, quem, quia ne-\nglectum fere hodie video, atque in pauco-\nrum manibus versatum, immerito tamen,\nquum refertus sit solida atque exquisita\neruditione, apponam ex eo, quae maxime\nad rem faciunt. „A radice פרד, quae He-\nbraeis, Chaldaeis et Arabibus significat <i>se-\nparare</i>, vel <i>separatum esse</i>, possunt dedu-\nci nomina, quae denotant <i>quid singulare\net separatum ab aliis</i>, ut frumenti granula\net semen, quod seminatur ac terrae man-\ndatur. Atque eo sensu et hic accipi posse\nnomen hebraicum, absurdum non est,\nquam-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "quam-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "quam-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1649,
+    1681
+   ],
+   [
+    1649,
+    1123
+   ]
+  ],
+  "input_tokens": 3403,
+  "output_tokens": 1372,
+  "cost_usd": 0.0077,
+  "seconds": 13.8
+ }
+}

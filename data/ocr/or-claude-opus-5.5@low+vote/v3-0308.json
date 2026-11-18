@@ -1,0 +1,99 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "308 <i>De Locustis quid habeat Ioel cap. II.</i> P.II. L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "308 <i>De Locustis quid habeat Ioel cap. II.</i> P.II. L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "πȣ ἐοικυῖαν εὑρήσει· <i>Locustae caput si quis attente consideret, id equi capiti repe-\nriet valde simile.</i> Et <i>Muhammiaddin Assarhuriensis, poeta</i> apud <i>Arabes</i> non in-\ncelebris;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "πȣ ἐοικυῖαν εὑρήσει· <i>Locustae caput si quis attente consideret, id equi capiti repe-\nriet valde simile.</i> Et <i>Muhammiaddin Assarhuriensis, poeta</i> apud <i>Arabes</i> non in-\ncelebris;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "ara",
+   "text": "لها فخذ ابكر وساقا نعامة\nوقادمتا نسر وجوجو ضيغم ☼\nذنبها افاعي الارض وانعمت عليها ⟦p. 475⟧\nجياد الخيل بالراس والغم ☼",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "ara",
+     "text": "لها فخذ ابكر وساقا نعامة\nوقادمتا نسر وجوجو ضيغم ☼\nذنبها افاعي الارض وانعمت عليها ⟦p. 475⟧\nجياد الخيل بالراس والغم ☼"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Habent femur camelorum, crura struthionis, alas aquilae, pectus leonis. Cauda\niis ut viperarum terrae: et decorans eas equorum species in capite et ore.</i> Et alius\n<i>Arabs</i> anonymus apud <i>Damirem</i>, في جرادة خلق عشرة من\nجبابرة الحيوان مع ضعفها وجه فرس وعينا فيل\nوعنق ثور وقرنا ايل وصدر اسد وبطن عقرب وجناحا\nنسر وفخذا جمل ورجالا نعامة وذنب حية <i>In locusta,\nquamlibet infirma, natura est decem magnorum animalium:</i> 1. <i>facies equi</i>, 2. <i>ocu-\nli elephantis</i>, 3. <i>collum tauri</i>, 4. <i>cornua cervi</i>, 5. <i>pectus leonis</i>, 6. <i>venter scor-\npionis</i>, 7. <i>alae aquilae</i>, 8. <i>femora cameli</i>, 9. <i>struthionis pedes</i>, 10. <i>cauda ser-\npentis</i>. In quo censu prima omnium ponitur <i>equi facies</i>. Pro بطن عقرب\n<i>ventre scorpionis</i>, lege بطن عقاب <i>ventrem melanaeeti</i>. Quia scorpio,\nqui locusta minor est, in magnis illis animalibus non potest habere locum. Se-\nquitur quidem, وجناحا نسر <i>et alae aquilae</i>. Sed عقاب et نسر\nsunt aquilarum diversae species. <i>Abarbanel</i> anxie disquirit, quorsum <i>Assyrii</i>, de\nquibus <i>Ioelem</i> vult hic agere, cum <i>equis</i> aut <i>equitibus</i> conferantur. Et modo\n<i>equorum</i> nomine <i>Centauros</i> intelligit, quibus similes fuerint <i>Chaldaeorum</i> equites:\nmodo illorum pedites veris equis, proceritate, viribus et celeritate similes fuisse\ncontendit. Quae quam absurda sint, nemo non videt. <i>Centaurorum</i> hic neque\nvola, neque manus apparet: nec quisquam sanus crediderit, <i>Chaldaeos</i> a <i>Prophe-\nta</i> dici similes animali, quod nusquam est. Pedites autem cum equitibus con-\nferri, novum est et inauditum. Denique quis <i>Assyrios</i> dixerit ut equites fuisse,\ncum re vera equites fuerint, iique magno numero? Quod Scriptura diserte do-\ncet <i>Ezech. XXIII, 6. 12. 23.</i> et <i>XXVI</i>, 7. 10. 11. <i>Nahum. III, 2. Hab. I, 8.</i> etc.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Habent femur camelorum, crura struthionis, alas aquilae, pectus leonis. Cauda\niis ut viperarum terrae: et decorans eas equorum species in capite et ore.</i> Et alius\n<i>Arabs</i> anonymus apud <i>Damirem</i>, في جرادة خلق عشرة من\nجبابرة الحيوان مع ضعفها وجه فرس وعينا فيل\nوعنق ثور وقرنا ايل وصدر اسد وبطن عقرب وجناحا\nنسر وفخذا جمل ورجالا نعامة وذنب حية <i>In locusta,\nquamlibet infirma, natura est decem magnorum animalium:</i> 1. <i>facies equi</i>, 2. <i>ocu-\nli elephantis</i>, 3. <i>collum tauri</i>, 4. <i>cornua cervi</i>, 5. <i>pectus leonis</i>, 6. <i>venter scor-\npionis</i>, 7. <i>alae aquilae</i>, 8. <i>femora cameli</i>, 9. <i>struthionis pedes</i>, 10. <i>cauda ser-\npentis</i>. In quo censu prima omnium ponitur <i>equi facies</i>. Pro بطن عقرب\n<i>ventre scorpionis</i>, lege بطن عقاب <i>ventrem melanaeeti</i>. Quia scorpio,\nqui locusta minor est, in magnis illis animalibus non potest habere locum. Se-\nquitur quidem, وجناحا نسر <i>et alae aquilae</i>. Sed عقاب et نسر\nsunt aquilarum diversae species. <i>Abarbanel</i> anxie disquirit, quorsum <i>Assyrii</i>, de\nquibus <i>Ioelem</i> vult hic agere, cum <i>equis</i> aut <i>equitibus</i> conferantur. Et modo\n<i>equorum</i> nomine <i>Centauros</i> intelligit, quibus similes fuerint <i>Chaldaeorum</i> equites:\nmodo illorum pedites veris equis, proceritate, viribus et celeritate similes fuisse\ncontendit. Quae quam absurda sint, nemo non videt. <i>Centaurorum</i> hic neque\nvola, neque manus apparet: nec quisquam sanus crediderit, <i>Chaldaeos</i> a <i>Prophe-\nta</i> dici similes animali, quod nusquam est. Pedites autem cum equitibus con-\nferri, novum est et inauditum. Denique quis <i>Assyrios</i> dixerit ut equites fuisse,\ncum re vera equites fuerint, iique magno numero? Quod Scriptura diserte do-\ncet <i>Ezech. XXIII, 6. 12. 23.</i> et <i>XXVI</i>, 7. 10. 11. <i>Nahum. III, 2. Hab. I, 8.</i> etc."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Versu 5. <i>Tanquam strepitu curruum super cacumina montium salient, tan-\nquam strepitu flammae ignis, stipulam devorantis, ut populus validus, ad pugnam\ninstructus</i>] Hoc quoque locustis prorsus convenit, quae magno strepitu volant,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Versu 5. <i>Tanquam strepitu curruum super cacumina montium salient, tan-\nquam strepitu flammae ignis, stipulam devorantis, ut populus validus, ad pugnam\ninstructus</i>] Hoc quoque locustis prorsus convenit, quae magno strepitu volant,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "et",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "et"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1788,
+    1349
+   ],
+   [
+    1788,
+    1439
+   ]
+  ],
+  "input_tokens": 8359,
+  "output_tokens": 1520,
+  "cost_usd": 0.0638,
+  "seconds": 25.4,
+  "vote": "1 decisions from v3-272-326"
+ }
+}

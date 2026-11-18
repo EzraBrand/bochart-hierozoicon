@@ -98,6 +98,11 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 3, ch. 13: *saraph* is the hydrus; the bronze serpent | III, 211–222 | [Latin](data/entries/saraph/la.md) · [English](data/entries/saraph/en.md) | 〃 |
 | Part 2, Book 3, ch. 14: on dragons | III, 222–250 | [Latin](data/entries/dracones/la.md) · [English](data/entries/dracones/en.md) | 〃 |
 | Part 2, Book 4, ch. 1: the names and kinds of the locusts | III, 251–271 | [Latin](data/entries/locustae-nomina/la.md) · [English](data/entries/locustae-nomina/en.md) | 〃 |
+| Part 2, Book 4, ch. 2: obscure passages of Scripture on the locusts | III, 271–282 | [Latin](data/entries/locustae-loca/la.md) · [English](data/entries/locustae-loca/en.md) | $11.62 for the 5 chapters (55 new pages; tranche 10, 18-Nov-2026; synchronous calls) |
+| Part 2, Book 4, ch. 3: the locusts of Egypt (Exod 10:4) | III, 282–289 | [Latin](data/entries/locustae-aegyptiae/la.md) · [English](data/entries/locustae-aegyptiae/en.md) | 〃 |
+| Part 2, Book 4, ch. 4: the locusts of Joel, chapter 1 | III, 289–305 | [Latin](data/entries/locustae-ioel1/la.md) · [English](data/entries/locustae-ioel1/en.md) | 〃 |
+| Part 2, Book 4, ch. 5: the locusts of Joel, chapter 2 | III, 305–320 | [Latin](data/entries/locustae-ioel2/la.md) · [English](data/entries/locustae-ioel2/en.md) | 〃 |
+| Part 2, Book 4, ch. 6: the locusts of Amos | III, 320–326 | [Latin](data/entries/locustae-amos/la.md) · [English](data/entries/locustae-amos/en.md) | 〃 |
 
 ### Tranches
 
@@ -114,6 +119,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 117 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
 | 8 | 16-Nov-2026 | vol. 3, 125–193 (69) | 10 | $15.86 | $0.230 | about 1 h (11:20 to 12:20; 10 minutes of it the wait for the test batch) | 243 (109 by rule, 134 read) | 80 / 6 | 20 | 34, with 3 from the spot-check |
 | 9 | 17-Nov-2026 | vol. 3, 195–271 (77) | 5 | $17.39 | $0.226 | about 1 h 35 min (09:25 to 10:05, then 12:50 to 13:45; between them the session stopped at the Claude usage limit) | 287 (132 by rule, 155 read) | 83 / 7 | 18 | 35, with 2 from the spot-check |
+| 10 | 18-Nov-2026 | vol. 3, 272–326 (55) | 5 | $11.62 | $0.211 | about 1 h (10:25 to 11:25; prepare 10:41 to 10:52, translation 11:03 to 11:08) | 155 (56 by rule, 99 read) | 43 / 3 | 30 | 18, with 7 ד/ר on p. 277 (4 of them from the Bible check and a search), 1 from the spot-check, and 2 Syriac blocks not transcribed |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -239,9 +245,28 @@ a printer's error for 428: the text has 428. Note e) of p. 241 (Sirach 25:15) ha
 after *Sirachides*. In Hebrew the readers could not tell ו from ז in קפוז/קפין (p. 246), גזם/גום (pp. 254, 258), זחל (p. 265)
 and הרזבית (p. 266): Bochart's romanization decided (*kippoz*, *gazam*, *zachal*, *harzabith*).
 
+Tranche 10 (18-Nov-2026) is Part 2, Book 4, chs. 2 to 6: the locusts in Scripture (obscure passages, the plague of
+Egypt, Joel 1 and 2, Amos), pp. 271-326. No test batch was sent: all steps ran synchronously
+(`logs/prepare_sync_t10.sh`: 11 minutes for 55 pages after the fetch; the translation of 5 chapters in 5 minutes,
+about $2.8). Cost by step, from the key's spend: OCR and judge $8.27, a re-read test of the Syriac of p. 283 $0.38, translation
+about $2.8 (the spend lags a few minutes behind the calls), spot-check $0.11, one chunk translated again after a Greek fix $0.04.
+
+The two long Syriac quotations of Rosenmüller's note on p. 283 (Barhebraeus' Chronicle, 14 lines, and its continuation, 10
+lines) are not transcribed: Opus left them as `[?]`, and a re-read of each block alone (`logs/syriac_t10.py`) gave fluent
+Syriac that differs from the scan in most words, as does Flash's reading. The text has `[Syriaca, versus XIV, hic non
+transcripta]`; Rosenmüller's Latin translation follows each block. On p. 280 Opus wrote an Arabic line (the Arabic version
+of Prov 30:27) in Syriac letters; on p. 283 three Syriac words stood in the order of the eye. On p. 277 the root כבד
+(Nah 3:15, *gravis*, and the Talmudic sense "to sweep") was read with ר seven times; the vote flagged three.
+
+Not certain, for the owner's review: the year "1709" in the note of p. 279 (middle digit faint). Printer's forms kept:
+`keuschrecken` (p. 278), `quas diversatur` (p. 280), `ioccita` (p. 303, Italian *siccità*), `עבשר` (p. 313), `צחנהו` for
+Joel 2:20's צחנתו (p. 317), `بالصعيف` (p. 324), `افسان` (p. 282). The margin of p. 305 has a broken "473" that reads as
+475: the text has 473. The footnote letters of pp. 315 (`e)`) and 324 (`c)`) follow the marks in the text, not the
+look of the note's own letter.
+
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,
-`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv`, `logs/vote_v3-1-125.csv`, `logs/vote_v3-126-194.csv` and `logs/vote_v3-195-271.csv` (column `outcome`), and for tranches 1 to 9 the scan-check answers in
+`logs/vote_v2-524-590.csv`, `logs/vote_v2-591-648.csv`, `logs/vote_v2-649-721.csv`, `logs/vote_v2-721-787.csv`, `logs/vote_v2-788-870.csv`, `logs/vote_v3-1-125.csv`, `logs/vote_v3-126-194.csv`, `logs/vote_v3-195-271.csv` and `logs/vote_v3-272-326.csv` (column `outcome`), and for tranches 1 to 10 the scan-check answers in
 `logs/review/*/decisions.tsv` (verdict `UNSURE`); `logs/` is not in git.
 
 ## How it works

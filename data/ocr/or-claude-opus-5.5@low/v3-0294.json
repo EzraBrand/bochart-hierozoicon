@@ -1,0 +1,290 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "294 <i>De Locustis quid habeat Ioel cap. I.</i> P.II.L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "294 <i>De Locustis quid habeat Ioel cap. I.</i> P.II.L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἀλλ᾽ ὅτε δὴ κεραῶν ἠείσαμεν ἔθνεα θήρων,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀλλ᾽ ὅτε δὴ κεραῶν ἠείσαμεν ἔθνεα θήρων,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sed postquam cornutarum cecinimus gentes ferarum.</i> Et <i>Lucillius</i> libri secundi\n<i>Anthologiae</i> capite vigesimo sexto,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sed postquam cornutarum cecinimus gentes ferarum.</i> Et <i>Lucillius</i> libri secundi\n<i>Anthologiae</i> capite vigesimo sexto,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὄψει καὶ γυπῶν ἔθνεα, καὶ κοράκων·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὄψει καὶ γυπῶν ἔθνεα, καὶ κοράκων·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Videbis et vulturum et corvorum gentes.</i> Et <i>Pisidas</i> in <i>Hexaëmero</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Videbis et vulturum et corvorum gentes.</i> Et <i>Pisidas</i> in <i>Hexaëmero</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τίς ἐκστρατεύει παγγενῆ τὴν ἀκρίδα,\nἜθνος πτερωτὸν, εἰς φθορὰν Αἰγυπτίων;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τίς ἐκστρατεύει παγγενῆ τὴν ἀκρίδα,\nἜθνος πτερωτὸν, εἰς φθορὰν Αἰγυπτίων;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quis omnigenam locustam instruit, gentem alatam, in perniciem Aegyptiorum?</i>\nNeque aliter <i>Latini</i> scriptores. Ut cum de equis <i>Poeta</i> dicit libro tertio <i>Georgi-\ncorum</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quis omnigenam locustam instruit, gentem alatam, in perniciem Aegyptiorum?</i>\nNeque aliter <i>Latini</i> scriptores. Ut cum de equis <i>Poeta</i> dicit libro tertio <i>Georgi-\ncorum</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tu modo quos in spem statues submittere gentis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tu modo quos in spem statues submittere gentis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et de vitulis,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et de vitulis,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>notas et nomina gentis inurunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>notas et nomina gentis inurunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quale est, quod ibidem pestis corripit",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quale est, quod ibidem pestis corripit"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Spemque gregemque simul, cunctamque ab origine gentem:</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Spemque gregemque simul, cunctamque ab origine gentem:</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "id est, <i>totum ovile.</i> Ut cum libro quarto vocantur <i>Protei</i> pisces",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "id est, <i>totum ovile.</i> Ut cum libro quarto vocantur <i>Protei</i> pisces"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>vasti gens humida ponti.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>vasti gens humida ponti.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et de apibus idem ibidem,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et de apibus idem ibidem,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>totiusque ordine gentis\nMores, et studia, et populos, et praelia dicam.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>totiusque ordine gentis\nMores, et studia, et populos, et praelia dicam.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et rursus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et rursus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut bina regum facies, ita corpora gentis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut bina regum facies, ita corpora gentis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libro primo <i>Aeneidos</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libro primo <i>Aeneidos</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>cum gentis adultos\nEducunt foetus.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>cum gentis adultos\nEducunt foetus.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quod loquendi genus, ne quis <i>poetis</i> proprium esse putet, etiam in <i>Columella</i>\noccurrit libri decimi capite tertio, <i>Gens universa totius alvei consumitur.</i> Et ca-\npite nono, <i>Intestino bello totae</i> (apum) <i>gentes consumuntur.</i> Et capite decimo\nde rege apum, cui detractae sunt alae, <i>Ne ditionis quidem populo suae permittit\nlongius evagari.</i> Et capite decimo tertio, <i>Duo populi conjungi debent.</i> Et de\nfucis capite decimo quinto, <i>Nec ad occidionem gens interimenda est.</i> Quale est,\nquod <i>Aelianus</i> libri sexti <i>Historiae</i> capite decimo nono, τὸ τεττίγων φῦλον, <i>ci-\ncadarum nationem</i> dixit. Ita enim scripserat, non φῶλον, vocem nihili, quam",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quod loquendi genus, ne quis <i>poetis</i> proprium esse putet, etiam in <i>Columella</i>\noccurrit libri decimi capite tertio, <i>Gens universa totius alvei consumitur.</i> Et ca-\npite nono, <i>Intestino bello totae</i> (apum) <i>gentes consumuntur.</i> Et capite decimo\nde rege apum, cui detractae sunt alae, <i>Ne ditionis quidem populo suae permittit\nlongius evagari.</i> Et capite decimo tertio, <i>Duo populi conjungi debent.</i> Et de\nfucis capite decimo quinto, <i>Nec ad occidionem gens interimenda est.</i> Quale est,\nquod <i>Aelianus</i> libri sexti <i>Historiae</i> capite decimo nono, τὸ τεττίγων φῦλον, <i>ci-\ncadarum nationem</i> dixit. Ita enim scripserat, non φῶλον, vocem nihili, quam"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "habent",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "habent"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1674,
+    1353
+   ],
+   [
+    1674,
+    1435
+   ]
+  ],
+  "input_tokens": 7955,
+  "output_tokens": 1461,
+  "cost_usd": 0.061,
+  "seconds": 25.5
+ }
+}

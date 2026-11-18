@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "326 <i>Iohannem veras locustas habuisse pro cibo.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "326 <i>Iohannem veras locustas habuisse pro cibo.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. VII.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. VII."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>Iohannem, Baptistam, veras locustas habuisse pro cibo.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Iohannem, Baptistam, veras locustas habuisse pro cibo.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Locustis patuit hactenus vix ullum esse animal humano generi perniciosius. ⟦p. 488.⟧\nTamen his quoque suus usus est, quem alii multis explicant. Nobis docere\nsufficiet, locustas non paucis gentibus in cibum cessisse jam olim, et cedere ho-\ndieque, in verba de <i>Iohanne, baptista,</i> πολυθρύλλητα <i>Matth. III, 4.</i> Ἡ δὲ τρο-\nφὴ αὐτ῏ ἦν ἀκρίδες, καὶ μέλι ἄγριον. Et <i>Marc. I, 6.</i> Ἐσθίων ἀκρίδας, καὶ\nμέλι ἄγριον. Quae verba cum clare et aperte doceant, locustas et mel sylvestre\npro cibo illi fuisse: tamen, quasi non sit ferendum, ut vir sanctus locustis vi-\ntam sustinuisse credatur, veterum et recentiorum multi in omnes formas se trans-\nformarunt, ut haec alio detorquerent. Agmen ducunt <i>Ebionaei,</i> in quorum\nEvangelio haec de <i>Iohanne</i> legebantur. Τὸ βρῶμα αὐτ῏ μέλι ἄγριον, ἕ ἡ γεῦ-\nσις ἦν τ῏ Μάννα, ὡς ἐγκρὶς ἐν ἐλαίῳ· <i>Cibus ejus erat mel sylvestre, sapore\nMannae, tanquam lagani in oleo fricti.</i> Ad quem locum <i>Epiphanius</i> illos affe-\nrit hoc sibi proposuisse, <i>ut veritatis sermonem in mendacium mutarent, et</i> ἀντὶ\nἀκρίδων ποιήσωσιν ἐγκρίδας ἐν μέλιτι, <i>ex locustis facerent lagana in melle friicta.</i>\nOccasione haec confingendi ex eo sumta, quod ἀκρίδες et ἐγκρίδες sunt voces\nsimillimae. Atque in <i>Evangelio</i> junguntur ἀκρίδες καὶ μέλι, ita de Manna di-\ncitur <i>Exod. XVI, 31. Ejus autem sapor erat</i> ὡς ἐγκρὶς ἐν μέλιτι, <i>ut lagani in\nmelle</i> (sive <i>cum melle,</i>) <i>fricti.</i> Quomodo si sapuerint <i>Iohannis</i> in deserto cibi,\nnon magnum id fuerit austerae vitae argumentum. Alii aliter sentiunt, nempe\nἀκρίδες hoc loco esse ἀκρόδρυα, vel τῶν φυτῶν ἀκρέμονας, <i>arborum et herba-\nrum extremitates,</i> quibus <i>Iohannes</i> in illo deserto vixerit. Ita <i>Isidorus Pelusiota</i>\nlibri primi <i>Epistola</i> quinta vult, ut monachus, a <i>Iohanne</i> edoctus, contentus sit\nἀκρέμοσι βοτανῶν καὶ φυλλῶν πρὸς ὀλίγην τροφήν, <i>herbarum et foliorum extre-\nmis ad tenue alimentum.</i> Et <i>Epistola</i> centesima trigesima secunda ita mordicus\nhaeret huic interpretationi, ut iis, qui ἀκρίδων nomine <i>locustas</i> intelligunt, his\nverbis dicam scribat: Αἱ ἀκρίδες, αἷς Ἰωάννης ἐτρέφετο, ὀ ζωά εἰσιν, ὥς τινες\nοἴονται ἀμαθῶς, κανθάροις ἀπεοικότα· μὴ γένοιτο. ἀλλ᾽ ἀκρέμονες βοτα-\nνῶν, ἢ φυτῶν. <i>Illae acrides, quibus Iohannes vescebatur, non sunt animalia,\nscarabaeis similia, ut quidam imperite existimant; absit: sed herbarum aut arbo-\nrum extrema.</i> Ita etiam <i>Paulinus</i> in carmine de <i>Iohanne, baptista,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Locustis patuit hactenus vix ullum esse animal humano generi perniciosius. ⟦p. 488.⟧\nTamen his quoque suus usus est, quem alii multis explicant. Nobis docere\nsufficiet, locustas non paucis gentibus in cibum cessisse jam olim, et cedere ho-\ndieque, in verba de <i>Iohanne, baptista,</i> πολυθρύλλητα <i>Matth. III, 4.</i> Ἡ δὲ τρο-\nφὴ αὐτ῏ ἦν ἀκρίδες, καὶ μέλι ἄγριον. Et <i>Marc. I, 6.</i> Ἐσθίων ἀκρίδας, καὶ\nμέλι ἄγριον. Quae verba cum clare et aperte doceant, locustas et mel sylvestre\npro cibo illi fuisse: tamen, quasi non sit ferendum, ut vir sanctus locustis vi-\ntam sustinuisse credatur, veterum et recentiorum multi in omnes formas se trans-\nformarunt, ut haec alio detorquerent. Agmen ducunt <i>Ebionaei,</i> in quorum\nEvangelio haec de <i>Iohanne</i> legebantur. Τὸ βρῶμα αὐτ῏ μέλι ἄγριον, ἕ ἡ γεῦ-\nσις ἦν τ῏ Μάννα, ὡς ἐγκρὶς ἐν ἐλαίῳ· <i>Cibus ejus erat mel sylvestre, sapore\nMannae, tanquam lagani in oleo fricti.</i> Ad quem locum <i>Epiphanius</i> illos affe-\nrit hoc sibi proposuisse, <i>ut veritatis sermonem in mendacium mutarent, et</i> ἀντὶ\nἀκρίδων ποιήσωσιν ἐγκρίδας ἐν μέλιτι, <i>ex locustis facerent lagana in melle friicta.</i>\nOccasione haec confingendi ex eo sumta, quod ἀκρίδες et ἐγκρίδες sunt voces\nsimillimae. Atque in <i>Evangelio</i> junguntur ἀκρίδες καὶ μέλι, ita de Manna di-\ncitur <i>Exod. XVI, 31. Ejus autem sapor erat</i> ὡς ἐγκρὶς ἐν μέλιτι, <i>ut lagani in\nmelle</i> (sive <i>cum melle,</i>) <i>fricti.</i> Quomodo si sapuerint <i>Iohannis</i> in deserto cibi,\nnon magnum id fuerit austerae vitae argumentum. Alii aliter sentiunt, nempe\nἀκρίδες hoc loco esse ἀκρόδρυα, vel τῶν φυτῶν ἀκρέμονας, <i>arborum et herba-\nrum extremitates,</i> quibus <i>Iohannes</i> in illo deserto vixerit. Ita <i>Isidorus Pelusiota</i>\nlibri primi <i>Epistola</i> quinta vult, ut monachus, a <i>Iohanne</i> edoctus, contentus sit\nἀκρέμοσι βοτανῶν καὶ φυλλῶν πρὸς ὀλίγην τροφήν, <i>herbarum et foliorum extre-\nmis ad tenue alimentum.</i> Et <i>Epistola</i> centesima trigesima secunda ita mordicus\nhaeret huic interpretationi, ut iis, qui ἀκρίδων nomine <i>locustas</i> intelligunt, his\nverbis dicam scribat: Αἱ ἀκρίδες, αἷς Ἰωάννης ἐτρέφετο, ὀ ζωά εἰσιν, ὥς τινες\nοἴονται ἀμαθῶς, κανθάροις ἀπεοικότα· μὴ γένοιτο. ἀλλ᾽ ἀκρέμονες βοτα-\nνῶν, ἢ φυτῶν. <i>Illae acrides, quibus Iohannes vescebatur, non sunt animalia,\nscarabaeis similia, ut quidam imperite existimant; absit: sed herbarum aut arbo-\nrum extrema.</i> Ita etiam <i>Paulinus</i> in carmine de <i>Iohanne, baptista,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Praebebant victum facilem sylvestria mella,\nPomaque, et incultis enatae cautibus herbae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Praebebant victum facilem sylvestria mella,\nPomaque, et incultis enatae cautibus herbae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Et <i>Pantaleon,</i> diaconus, in Sermone <i>De luminibus sanctis,</i> Ὁ τοῖς τῶν μελισσῶν\nκατὰ τὴν ἔρημον πόνοις, καὶ τοῖς τῶν βοτανῶν συντρεφόμενος ἐκ βρέφος ἀκρέ-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Et <i>Pantaleon,</i> diaconus, in Sermone <i>De luminibus sanctis,</i> Ὁ τοῖς τῶν μελισσῶν\nκατὰ τὴν ἔρημον πόνοις, καὶ τοῖς τῶν βοτανῶν συντρεφόμενος ἐκ βρέφος ἀκρέ-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "σμασι·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "σμασι·"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1692,
+    1674
+   ],
+   [
+    1692,
+    1118
+   ]
+  ],
+  "input_tokens": 3430,
+  "output_tokens": 1264,
+  "cost_usd": 0.0073,
+  "seconds": 13.4
+ }
+}

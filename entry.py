@@ -607,6 +607,33 @@ ENTRIES = {
         "start": r"^CAP\.\s*I\.", "end": r"^CAP\.\s*II\.", "first_col": 441,
         "about": 'the chapter that opens the book of the insects with the Hebrew names of the locust: ארבה arbe, סלעם solam, חרגל chargol, חגב chagab, גזם gazam, ילק jelek, חסיל chasil, צלצל tselatsal, גוב gob and גבי geba, and the kinds that the Talmud, the Greek versions and the Arabs give for them',
         "terms": _T9 + '"locusta" -> "locust"; "arbe", "solam", "chargol", "chagab", "gazam", "jelek", "chasil", "tselatsal", "gob", "geba" stay as printed; "bruchus", "attelabus", "attacus", "asiracus" -> the name is kept; "eruca" -> "caterpillar"; "gryllus" -> "cricket"; "rubigo" -> "blight";'},
+    # Tranche 10, 18-Nov-2026: Part 2, Book 4 (the insects), chs. 2-6 (the locusts in Scripture), vol. 3, pp. 271-326.
+    # Drafted by draft_entries.py from the heads in the voted OCR. All steps ran synchronously.
+    "locustae-loca": {"vol": 3, "pages": list(range(271, 283)),
+        "title": 'Part 2, Book 4, chapter 2: Some obscure passages of Scripture on the locusts are explained (vol. 3, pp. 271–282)',
+        "start": r"^CAP\.\s*II\.", "end": r"^CAP\.\s*III\.",
+        "about": 'the chapter that explains obscure passages of Scripture on the locusts: the ילק סמר of Jer 51:27, the התכבד כילק of Nah 3:15-17, the locusts without a king that go out in bands (Prov 30:27), and the gathering of the חסיל (Isa 33:4)',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "samar" stays as printed; "horrens" -> "bristling"; "turmae" -> "bands";'},
+    "locustae-aegyptiae": {"join_notes": [284], "vol": 3, "pages": list(range(282, 290)),
+        "title": 'Part 2, Book 4, chapter 3: On the locusts of Egypt (Exod 10:4) (vol. 3, pp. 282–289)',
+        "start": r"^CAP\.\s*III\.", "end": r"^CAP\.\s*IV\.", "first_col": 460,
+        "about": 'the chapter on the locusts of the eighth plague of Egypt (Exod 10:4-19), brought by the east wind (קדים kadim) and carried into the Red Sea by the west wind, with later plagues of locusts in Syria and Egypt from the chronicles and the travellers',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "ventus kadim" -> "the kadim wind" or "the east wind"; "plaga" -> "plague";'},
+    "locustae-ioel1": {"vol": 3, "pages": list(range(289, 306)),
+        "title": 'Part 2, Book 4, chapter 4: What Joel has on the locusts in his first chapter (vol. 3, pp. 289–305)',
+        "start": r"^CAP\.\s*IV\.", "end": r"^CAP\.\s*V\.", "first_col": 464,
+        "about": 'the chapter on the locusts of Joel 1: the four names of verse 4 (גזם, ארבה, ילק, חסיל), the nation with the teeth of a lion, the vine and fig tree laid bare, and the seeds that shrivel under their clods (עבשו, v. 17)',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "vitis" -> "vine"; "ficus" -> "fig tree"; "gleba" -> "clod";'},
+    "locustae-ioel2": {"join_notes": [306], "no_id": {"Elias": 99}, "vol": 3, "pages": list(range(305, 321)),
+        "title": 'Part 2, Book 4, chapter 5: What Joel has on the locusts in his second chapter (vol. 3, pp. 305–320)',
+        "start": r"^CAP\.\s*V\.", "end": r"^CAP\.\s*VI\.", "first_col": 472,
+        "about": 'the chapter on the locusts of Joel 2: the day of darkness, the people spread on the mountains like the dawn, their look like horses and their noise like chariots, the fire before them, and the northern army driven into the eastern and western seas, whose stench goes up (v. 20)',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "aurora" -> "dawn"; "exercitus" -> "army"; "foetor" -> "stench";'},
+    "locustae-amos": {"vol": 3, "pages": list(range(320, 327)),
+        "title": 'Part 2, Book 4, chapter 6: What the prophet Amos has on the locusts (vol. 3, pp. 320–326)',
+        "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.", "first_col": 483,
+        "about": "the chapter on the locusts in Amos: the gazam that ate the gardens, vineyards, figs and olives with blight and mildew (Amos 4:9), and the גוב gob formed at the late growth after the king's mowings (Amos 7:1)",
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "gob" stays as printed; "serotinum" -> "the late growth"; "tonsiones regis" -> "the king\'s mowings";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -901,6 +928,31 @@ FIXES = {
     (3, 261): [('جراد عصغور', 'جراد عصفور')],
     (3, 265): [('περιιοῦσα', 'περιϊοῦσα')],
     (3, 269): [('አድርመጠቶት:', 'አድሩመጠቂት፡'), ('<i>thamar Adrumatavith', '<i>chamar Adrumatavith')],
+    # tranche 10 (vol. 3, pp. 272-326; scan check 18-Nov-2026): the print differs from the vote's text. Not certain: the
+    # year on p. 279 (middle digit faint). P. 283: two long Syriac quotations (Barhebraeus and his
+    # continuator) are not transcribed: Opus left them as [?], and the readings of Opus and Flash on a re-read differ from
+    # the scan in most words; Rosenmüller's Latin translation follows each.
+    (3, 274): [('appellatur ܡܣܡܪܐ', 'appellatur مسمار')],
+    (3, 275): [("Χρυσοειδῆ δ' ἐν ἰνδάλματα", 'Χρυσοειδῆ οὖν ἰνδάλματα'), ('רמצלהב,', 'דמצלהב,')],
+    (3, 277): [('est כבר. Et', 'est כבד. Et'), ('התכברי', 'התכבדי'), ('כבר,', 'כבד,'), ('התכבר כילק', 'התכבד כילק'), ('התכבר\nin', 'התכבד\nin'), ('verbum התכבר.', 'verbum התכבד.'), ('כבר מאד', 'כבד מאד')],
+    (3, 278): [('(^{9})', '^{(9)}')],
+    (3, 279): [('17[?]9.', '1709.')],
+    (3, 280): [('ܒܥܣܟܪܗ', 'بعسكره'), ('ܐܡܪܗ', 'امره'), ('ܘܐܚܕܗ', 'واخذه'), ('ܒܬܚܣܝܢ', 'بحسن'), ('ܬܪܬܝܒ', 'ترتيب')],
+    (3, 281): [('طلبا', 'ظاعنا')],
+    (3, 283): [('[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]', '[Syriaca, versus XIV, hic non transcripta]'), ('seq. [?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]', 'seq. [Syriaca, versus X, hic non transcripta]'),
+               ('ܗܘܐ ܐܝܬܝܗܘܢ ܘܕܒܒܐ,', 'ܘܕܒܒܐ ܐܝܬܝܗܘܢ ܗܘܐ,')],
+    (3, 299): [('ܥܓܠܐ,', 'ܥܓ̈ܠܐ,')],
+    (3, 300): [('ܥܓܠܬܐ ܒܠ', 'ܥܓܠܬܐ ܥܠ'), ('ܐܘܪܝܘܬܗܘܢ,', 'ܐܘܪܝܘܬܗܝܢ,')],
+    (3, 301): [('re[?]itam', 'redditam')],
+    (3, 304): [('Σειρίȣ', 'Σειρίου')],
+    # p. 295: the στ ligature (ςέ) dropped by the readers; Bochart's Latin has truncum
+    (3, 295): [('Περὶ τὸ σέ-\nλεχος', 'Περὶ τὸ στέ-\nλεχος')],
+    # p. 305: the margin's 3 is broken and looks like a 5 (pp. 304 and 306 have 472 and 474)
+    (3, 305): [('⟦p. 475⟧', '⟦p. 473⟧')],
+    (3, 306): [('<i>Plinio</i>^{a})', '<i>Plinio</i> ^{a)}')],
+    (3, 308): [('πȣ', 'που')],
+    (3, 317): [('צחנתו:', 'צחנהו:')],
+    (3, 321): [('^{a})', '^{a)}')],
     # spot-check of tranche 8: salich (the print has يسلخ two lines above; the word itself was not read again on the
     # scan); the themes of the note are those of p. 184 (سفع); the στ ligature
     (3, 153): [('اسود شالخ', 'اسود سالخ')],
