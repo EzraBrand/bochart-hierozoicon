@@ -87,7 +87,7 @@ column range in the draft: read `qa.log` ("margin [248] after 427") first, and c
 phrases. (6) The next tranche: Book 4 (the insects) from ch. 2, vol. 3 p. 271 (chs. 2-5 run to p. 319, ch. 6 begins on p. 320; pp. 272-282 are
 fetched; chapter heads in `logs/find_chapters_t9.log`).
 
-Tranche 10 (18-Nov-2026, vol. 3 pp. 272-326, Book 4 chs. 2-6): synchronous, no test batch, $0.211 a page, about 1 h.
+Tranche 10 (18-Nov-2026, vol. 3 pp. 272-326, Book 4 chs. 2-6): synchronous, no test batch, $0.211 a page, about 50 minutes (10:25 to 11:14).
 Lessons: (1) a long block in Syriac (10 lines or more) is not read by any model: Opus leaves `[?]`, and a re-read of the
 crop alone gives fluent text that is not the print (Opus at high effort returned nothing in 6,000 tokens; low effort
 invented). Do not use it; mark the block with a FIXES pair (`[Syriaca, versus XIV, hic non transcripta]`). (2) Opus can

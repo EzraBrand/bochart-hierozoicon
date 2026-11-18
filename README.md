@@ -119,7 +119,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 7 | 15-Nov-2026 | vol. 3, 1–124 (124) | 16 | $28.75 | $0.232 | 3 h 25 min (13:40 to 17:05; 1 h 50 min of it waiting for two batches that never started, and the work around them) | 428 (221 by rule, 207 read) | 117 / 14 | 5 | 40, with 9 Samaritan words and 7 from the spot-check |
 | 8 | 16-Nov-2026 | vol. 3, 125–193 (69) | 10 | $15.86 | $0.230 | about 1 h (11:20 to 12:20; 10 minutes of it the wait for the test batch) | 243 (109 by rule, 134 read) | 80 / 6 | 20 | 34, with 3 from the spot-check |
 | 9 | 17-Nov-2026 | vol. 3, 195–271 (77) | 5 | $17.39 | $0.226 | about 1 h 35 min (09:25 to 10:05, then 12:50 to 13:45; between them the session stopped at the Claude usage limit) | 287 (132 by rule, 155 read) | 83 / 7 | 18 | 35, with 2 from the spot-check |
-| 10 | 18-Nov-2026 | vol. 3, 272–326 (55) | 5 | $11.62 | $0.211 | about 1 h (10:25 to 11:25; prepare 10:41 to 10:52, translation 11:03 to 11:08) | 155 (56 by rule, 99 read) | 43 / 3 | 30 | 18, with 7 ד/ר on p. 277 (4 of them from the Bible check and a search), 1 from the spot-check, and 2 Syriac blocks not transcribed |
+| 10 | 18-Nov-2026 | vol. 3, 272–326 (55) | 5 | $11.62 | $0.211 | about 50 min (10:25 to 11:14; prepare 10:41 to 10:52, translation 11:03 to 11:08) | 155 (56 by rule, 99 read) | 43 / 3 | 30 | 18, with 7 ד/ר on p. 277 (4 of them from the Bible check and a search), 1 from the spot-check, and 2 Syriac blocks not transcribed |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
