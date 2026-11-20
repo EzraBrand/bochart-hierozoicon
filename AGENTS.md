@@ -110,6 +110,17 @@ Targum of the same verse (p. 399: ࠒࠈࠐ, קטף, balsam). (5) Do not run vot
 needs the judge file of that range). (6) The next tranche: Book 4 from ch. 13, vol. 3 p. 402 (the wasps; ch. 14 the gadfly
 p. 417), then the rest of Book 4 (heads: `uv run find_chapters.py 424 520 3`); p. 402 is fetched.
 
+## To test in the next tranche: Kraken as a free extra reader (20-Nov-2026, owner's request)
+
+Tested on the 3 gold pages ([costtest/kraken-20-Nov-2026](costtest/kraken-20-Nov-2026/README.md)):
+Kraken with the multilingual PP-OCRv6 medium model reads the **Latin 94–95%** (82% on italic) and the
+**Greek well** (94% character similarity), and **Arabic blocks about 77%** (visual order: reverse each line).
+It **drops the Hebrew, Arabic and Syriac words inside Latin lines** (0 of 57 Hebrew on p. 410), so it is
+not a first pass. In the next tranche: run it on all pages of the tranche (free, about 3–4 min a page on
+CPU, run in the background with a log), compare it word by word with the voted Opus text for Latin and
+Greek only, and count how many of its disagreements are real Opus errors on the scan. If it finds errors
+that MDZ and Flash missed, add it to `vote.py` as a reader for Latin, Greek and Arabic blocks.
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50
