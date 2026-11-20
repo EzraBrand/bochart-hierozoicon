@@ -1,0 +1,218 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII. <i>De melle et cera.</i> 379",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII. <i>De melle et cera.</i> 379"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "rire est: sed in <i>Iudaea</i> frequentius ^{(6)}, quae semel atque iterum dicitur ^{c)} esse <i>terra\nolei et mellis</i>, et locis circiter viginti ^{d)} <i>terra, fluens lacte et melle</i>, id est, lactis\net mellis proventu fertilissima, phrasi etiam apud <i>poetas</i> usitata, <i>Euripides</i> in\n<i>Bacchis</i> versu 142.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "rire est: sed in <i>Iudaea</i> frequentius ^{(6)}, quae semel atque iterum dicitur ^{c)} esse <i>terra\nolei et mellis</i>, et locis circiter viginti ^{d)} <i>terra, fluens lacte et melle</i>, id est, lactis\net mellis proventu fertilissima, phrasi etiam apud <i>poetas</i> usitata, <i>Euripides</i> in\n<i>Bacchis</i> versu 142."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ῥεῖ δὲ γάλακτι πέδον,\nῬεῖ δ’ οἴνῳ, ῥεῖ δὲ μελισσῶν\nΝέκταρι· — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ῥεῖ δὲ γάλακτι πέδον,\nῬεῖ δ’ οἴνῳ, ῥεῖ δὲ μελισσῶν\nΝέκταρι· — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Fluit lacte ager, fluit etiam vino, fluit et apum nectare.</i> Virgilius <i>Ecloga</i>\ntertia,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Fluit lacte ager, fluit etiam vino, fluit et apum nectare.</i> Virgilius <i>Ecloga</i>\ntertia,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Mella fluant illi, ferat et rubus asper amomum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Mella fluant illi, ferat et rubus asper amomum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ovidius <i>Metamorphoseωs</i> libro primo, ubi de aurea aetate;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ovidius <i>Metamorphoseωs</i> libro primo, ubi de aurea aetate;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Flumina jam lactis, jam flumina nectaris ibant.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Flumina jam lactis, jam flumina nectaris ibant.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Nectaris</i>, id est, <i>mellis</i>, ut supra in <i>Euripide. Horatius</i> libri secundi <i>Oda</i> de-\ncima nona,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Nectaris</i>, id est, <i>mellis</i>, ut supra in <i>Euripide. Horatius</i> libri secundi <i>Oda</i> de-\ncima nona,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>lactis et uberes</i>\n<i>Cantare rivos, atque truncis</i>\n<i>Lapsa cavis iterare mella.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>lactis et uberes</i>\n<i>Cantare rivos, atque truncis</i>\n<i>Lapsa cavis iterare mella.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Claudianus</i> libri primi <i>De laudibus Stiliconis</i> versu 84.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Claudianus</i> libri primi <i>De laudibus Stiliconis</i> versu 84."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Bbb 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Bbb 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Tunc",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tunc"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Deut. VIII, 8. 2 Reg. XVIII, 32.</i>",
+   "marker": "c)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Deut. VIII, 8. 2 Reg. XVIII, 32.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Exod. III, 8. 17. et XIII, 5. et XXXIII, 3.\nLev. XX, 24. Num. XIII, 28. et XIV, 8. et XVI, 14. Deut. VI, 3. et XI, 9.\net XXVI, 9. 15. et XXVII, 3. et XXXI, 20. Ios. V, 6. Ierem. XI, 5. et XXXII,\n22. Ezech. XX, 6. 15. Sirach. XLVI, 8. (al. 10.). Baruch. I, 20.</i>",
+   "marker": "d)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Exod. III, 8. 17. et XIII, 5. et XXXIII, 3.\nLev. XX, 24. Num. XIII, 28. et XIV, 8. et XVI, 14. Deut. VI, 3. et XI, 9.\net XXVI, 9. 15. et XXVII, 3. et XXXI, 20. Ios. V, 6. Ierem. XI, 5. et XXXII,\n22. Ezech. XX, 6. 15. Sirach. XLVI, 8. (al. 10.). Baruch. I, 20.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>domestiques, et font leur miel sous des\nruches; les autres le font dans les creux\ndes arbres, et quelques-unes dans les\ntrous sous terre, qu’elles ont soin de bien\nnettoyer, et de si bien boucher, qu’on ne\nles peut trouver, que trés-difficilement,\nquoi qu’ils soient ordinairement sur les\ngrands chemins. Le miel, que les abeilles\nfont sous terre, est aussi bon, que celui\ndes ruches; toute la difference, que j’y\ntrouve, c’est qu’il est un peu plus noir.\nJe m’imagine, que c’est de celui-là que\nse nourrisoit S. Jean.</i> Mel illud, quod\napes in antris sub terra in Africa australi\nconficiant, bonitate saporis non cedere\nmelli apum domesticarum, confirmat etiam\nSPARRMANN in <i>Itinerum Commentariis</i>,\np. 494. vers. germ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>domestiques, et font leur miel sous des\nruches; les autres le font dans les creux\ndes arbres, et quelques-unes dans les\ntrous sous terre, qu’elles ont soin de bien\nnettoyer, et de si bien boucher, qu’on ne\nles peut trouver, que trés-difficilement,\nquoi qu’ils soient ordinairement sur les\ngrands chemins. Le miel, que les abeilles\nfont sous terre, est aussi bon, que celui\ndes ruches; toute la difference, que j’y\ntrouve, c’est qu’il est un peu plus noir.\nJe m’imagine, que c’est de celui-là que\nse nourrisoit S. Jean.</i> Mel illud, quod\napes in antris sub terra in Africa australi\nconficiant, bonitate saporis non cedere\nmelli apum domesticarum, confirmat etiam\nSPARRMANN in <i>Itinerum Commentariis</i>,\np. 494. vers. germ."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Mel sylvestre, ex rupium fissuris de-\nfluxum, in ea regione, qua Ioannes, ba-\nptista, degisse traditur, magna copia inve-\nnit, atque gustavit STEPH. SCHULZ, vide\nejus Itinerarium, quod inscripsit: <i>die Lei-\ntungen des Höchsten nach seinem Rathe\nauf den Reisen durch Europa, Asia und\nAfrica</i>, T. V. pag. 133. Idem confirmant\nMaundrell atque Mariti, quorum testimo-\nnia adduxit OEDMANN in den <i>Vermisch-\nten Sammlungen</i> Fasc. VI. Cap. XX. pag.\n136. seq.",
+   "marker": "(6)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Mel sylvestre, ex rupium fissuris de-\nfluxum, in ea regione, qua Ioannes, ba-\nptista, degisse traditur, magna copia inve-\nnit, atque gustavit STEPH. SCHULZ, vide\nejus Itinerarium, quod inscripsit: <i>die Lei-\ntungen des Höchsten nach seinem Rathe\nauf den Reisen durch Europa, Asia und\nAfrica</i>, T. V. pag. 133. Idem confirmant\nMaundrell atque Mariti, quorum testimo-\nnia adduxit OEDMANN in den <i>Vermisch-\nten Sammlungen</i> Fasc. VI. Cap. XX. pag.\n136. seq."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1868,
+    1509
+   ],
+   [
+    1868,
+    1307
+   ]
+  ],
+  "input_tokens": 8662,
+  "output_tokens": 1735,
+  "cost_usd": 0.0693,
+  "seconds": 22.8
+ }
+}

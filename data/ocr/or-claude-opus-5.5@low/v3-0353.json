@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. <i>Apum nomen et origo.</i> 353",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. <i>Apum nomen et origo.</i> 353"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "urbes, et praetoria. De quibus e <i>Graecis</i> potissimum consulendi, <i>Aristoteles,</i>\n<i>Aelianus</i>, et scriptores <i>Geoponicῶν</i>; ut, e <i>Romanis</i>, <i>Varro</i>, <i>Virgilius</i>, <i>Colu-</i>\n<i>mella</i>, <i>Plinius</i>; et ex <i>Arabibus</i>, <i>Damir</i> et <i>Alkazuinius</i>: quorum scrinia in ar-\ngumento tam trito compilare, mihi non vacat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "urbes, et praetoria. De quibus e <i>Graecis</i> potissimum consulendi, <i>Aristoteles,</i>\n<i>Aelianus</i>, et scriptores <i>Geoponicῶν</i>; ut, e <i>Romanis</i>, <i>Varro</i>, <i>Virgilius</i>, <i>Colu-</i>\n<i>mella</i>, <i>Plinius</i>; et ex <i>Arabibus</i>, <i>Damir</i> et <i>Alkazuinius</i>: quorum scrinia in ar-\ngumento tam trito compilare, mihi non vacat."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Apes non solum ex apibus, sed et ex bove progenerari, constans fama est\napud scriptores. <i>Antigonus Mirabilium Historia</i> vigesima tertia, Ἐν Αἰγύπτῳ\nτὸν βοῦν ἐὰν κατορύξῃς ἐν τόποις τισὶν, ὥστε αὐτὰ τὰ κέρατα τῆς γῆς ὑπερέ-\nχειν, εἶθ᾽ ὕστερον ἀποπρίσῃς, λέγουσιν μελίττας ἐκπέτεσθαι· σαπέντα γὰρ\nαὐτὸν εἰς τοῦτο διαλύεσθαι τὸ ζῶον. <i>In nonnullis</i> Aegypti <i>locis si bovem ita de-</i>\n<i>foderis, ut cornua supra terram extent, quae deinde serra amputes, ajunt apes</i>\n<i>evolare: eum enim putrefactum in hoc animal mutari.</i> <i>Varro</i> itidem de bove,\n<i>Rusticorum</i> libri secundi capite quinto, <i>Scio, ex hoc putrefacto nasci dulcissimas</i> ⟦p. 503⟧\n<i>apes, mellis matres: a quo eas</i> Graeci βουγόνας <i>appellant.</i> Et libri tertii capite\ndecimo sexto, <i>Apes nascuntur partim ex apibus, partim ex bubulo corpore putre-</i>\n<i>facto.</i> <i>Columella</i> libri primi capite quarto, <i>Progenerari apes posse juvenco per-</i>\n<i>empto</i>, Democritus <i>et</i> Mago, <i>nec minus</i> Virgilius <i>prodiderunt.</i> Mago <i>quidem</i>\n<i>ventribus etiam bubulis idem fieri affirmat.</i> <i>Philo</i> Περὶ θυόντων, Μέλιττα ζῶόν\nἐστιν οὐ καθαρὸν, ἐκ σήψεως καὶ φθορᾶς νεκρῶν, ὡς ὁ λόγος, βοῶν γεννώμενον·\n<i>Apis impurum est animal, quodque ex mortuorum boum putredine et corruptione</i>\n<i>nasci ajunt.</i> <i>Plinius</i> libri undecimi capite vigesimo, <i>Sunt, qui apes in totum</i>\n<i>amissas reparari</i> (putent), <i>ventribus bubulis recentibus, cum fimo obrutis.</i> <i>Plut-</i>\n<i>archus</i> in extremo <i>Cleomene</i>, Μελίττας μὲν βόες, σφῆκας δὲ ἵπποι κατασα-\nπέντες ἐξανθοῦσι· <i>Apes quidem boves, vespas autem equi putrefacti emittunt.</i>\n<i>Aelianus</i> in fine libri secundi, Ἀποθανὼν δὲ βοῦς γενναῖόν τι χρῆμα, καὶ ἀξιέ-\nπαινον· μέλιτται γοῦν ἐκ τῶν ἐκείνου λειψάνων ἐκφύονται. <i>Bos etiam mortuus</i>\n<i>res eximia est, et magni facienda; cum ex ejus reliquiis enascantur apes.</i> <i>Gale-</i>\n<i>nus</i> libri, <i>An animal sit, quod in utero continetur</i>, capite quinto, Οὐ δὲ γὰρ\nὅπως ἐν φυτοῖς σκώληκες γίνονται, ἢ ἀφ᾽ ἵππων καὶ βοῶν οἱ σφῆκες, καὶ μέ-\nλιτται, ῥᾴδιον ἡμῖν λέγειν· <i>Neque enim vobis facile dictu est, quo pacto vermes</i>\n<i>in plantis gignantur, aut ex equis bobusque vespae et apes.</i> <i>Origenes</i> contra <i>Celsum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Apes non solum ex apibus, sed et ex bove progenerari, constans fama est\napud scriptores. <i>Antigonus Mirabilium Historia</i> vigesima tertia, Ἐν Αἰγύπτῳ\nτὸν βοῦν ἐὰν κατορύξῃς ἐν τόποις τισὶν, ὥστε αὐτὰ τὰ κέρατα τῆς γῆς ὑπερέ-\nχειν, εἶθ᾽ ὕστερον ἀποπρίσῃς, λέγουσιν μελίττας ἐκπέτεσθαι· σαπέντα γὰρ\nαὐτὸν εἰς τοῦτο διαλύεσθαι τὸ ζῶον. <i>In nonnullis</i> Aegypti <i>locis si bovem ita de-</i>\n<i>foderis, ut cornua supra terram extent, quae deinde serra amputes, ajunt apes</i>\n<i>evolare: eum enim putrefactum in hoc animal mutari.</i> <i>Varro</i> itidem de bove,\n<i>Rusticorum</i> libri secundi capite quinto, <i>Scio, ex hoc putrefacto nasci dulcissimas</i> ⟦p. 503⟧\n<i>apes, mellis matres: a quo eas</i> Graeci βουγόνας <i>appellant.</i> Et libri tertii capite\ndecimo sexto, <i>Apes nascuntur partim ex apibus, partim ex bubulo corpore putre-</i>\n<i>facto.</i> <i>Columella</i> libri primi capite quarto, <i>Progenerari apes posse juvenco per-</i>\n<i>empto</i>, Democritus <i>et</i> Mago, <i>nec minus</i> Virgilius <i>prodiderunt.</i> Mago <i>quidem</i>\n<i>ventribus etiam bubulis idem fieri affirmat.</i> <i>Philo</i> Περὶ θυόντων, Μέλιττα ζῶόν\nἐστιν οὐ καθαρὸν, ἐκ σήψεως καὶ φθορᾶς νεκρῶν, ὡς ὁ λόγος, βοῶν γεννώμενον·\n<i>Apis impurum est animal, quodque ex mortuorum boum putredine et corruptione</i>\n<i>nasci ajunt.</i> <i>Plinius</i> libri undecimi capite vigesimo, <i>Sunt, qui apes in totum</i>\n<i>amissas reparari</i> (putent), <i>ventribus bubulis recentibus, cum fimo obrutis.</i> <i>Plut-</i>\n<i>archus</i> in extremo <i>Cleomene</i>, Μελίττας μὲν βόες, σφῆκας δὲ ἵπποι κατασα-\nπέντες ἐξανθοῦσι· <i>Apes quidem boves, vespas autem equi putrefacti emittunt.</i>\n<i>Aelianus</i> in fine libri secundi, Ἀποθανὼν δὲ βοῦς γενναῖόν τι χρῆμα, καὶ ἀξιέ-\nπαινον· μέλιτται γοῦν ἐκ τῶν ἐκείνου λειψάνων ἐκφύονται. <i>Bos etiam mortuus</i>\n<i>res eximia est, et magni facienda; cum ex ejus reliquiis enascantur apes.</i> <i>Gale-</i>\n<i>nus</i> libri, <i>An animal sit, quod in utero continetur</i>, capite quinto, Οὐ δὲ γὰρ\nὅπως ἐν φυτοῖς σκώληκες γίνονται, ἢ ἀφ᾽ ἵππων καὶ βοῶν οἱ σφῆκες, καὶ μέ-\nλιτται, ῥᾴδιον ἡμῖν λέγειν· <i>Neque enim vobis facile dictu est, quo pacto vermes</i>\n<i>in plantis gignantur, aut ex equis bobusque vespae et apes.</i> <i>Origenes</i> contra <i>Celsum</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "libro",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "libro"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "ulli loco ea notio est apta; ut taceam, in\nnulla earum linguarum, quae Hebraeae\nsunt affines, hoc verbum ea significatione\nusurpari. Praestat igitur etymologia, a\nBocharto proposita, quam et STORRIUS\nprobavit in <i>Observatt. ad Anal. et Syn-</i>\n<i>tax. Hebr.</i> pag. 5. not. Recte vero Mi-\nchaelis de Syriaco ܟܘܒܪܐ monet, id no-\nmen paullo latere latius, quam Hebraeum,\net <i>vespas</i> quoque et <i>crabrones</i> complecti,\natque pro Hebraeo צרעה Exod. XXIII, 28.\nDeut. VII, 20. Ios. XXIV, 12. poni.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ulli loco ea notio est apta; ut taceam, in\nnulla earum linguarum, quae Hebraeae\nsunt affines, hoc verbum ea significatione\nusurpari. Praestat igitur etymologia, a\nBocharto proposita, quam et STORRIUS\nprobavit in <i>Observatt. ad Anal. et Syn-</i>\n<i>tax. Hebr.</i> pag. 5. not. Recte vero Mi-\nchaelis de Syriaco ܟܘܒܪܐ monet, id no-\nmen paullo latere latius, quam Hebraeum,\net <i>vespas</i> quoque et <i>crabrones</i> complecti,\natque pro Hebraeo צרעה Exod. XXIII, 28.\nDeut. VII, 20. Ios. XXIV, 12. poni."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Yy",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Yy"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1724,
+    1204
+   ],
+   [
+    1724,
+    1624
+   ]
+  ],
+  "input_tokens": 8157,
+  "output_tokens": 2197,
+  "cost_usd": 0.0766,
+  "seconds": 35.2
+ }
+}

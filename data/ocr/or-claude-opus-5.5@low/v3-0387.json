@@ -1,0 +1,278 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII. <i>De melle et cera.</i> 387",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII. <i>De melle et cera.</i> 387"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>penitusque loquentis</i>\nHyblaeis <i>vox mixta favis.</i> — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>penitusque loquentis</i>\nHyblaeis <i>vox mixta favis.</i> — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Hinc passim in <i>Pindaro</i> ^{n)} μελιγάρυες ὕμνοι, et ^{o)} μελίφθογγοι ἀοιδαί. Et, in\n<i>Illustrio</i>, <i>Sophocles, tragicus,</i> μέλιττα ἐκαλεῖτο διὰ τὸ ἡδὺ, <i>apis vocabatur pro-\npter carminis suavitatem:</i> ut <i>Xenophon</i> apud <i>Suidam</i> Ἀττικὴ μέλιττα, <i>apis At-\ntica.</i> Et in <i>Aristophanis Avibus,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hinc passim in <i>Pindaro</i> ^{n)} μελιγάρυες ὕμνοι, et ^{o)} μελίφθογγοι ἀοιδαί. Et, in\n<i>Illustrio</i>, <i>Sophocles, tragicus,</i> μέλιττα ἐκαλεῖτο διὰ τὸ ἡδὺ, <i>apis vocabatur pro-\npter carminis suavitatem:</i> ut <i>Xenophon</i> apud <i>Suidam</i> Ἀττικὴ μέλιττα, <i>apis At-\ntica.</i> Et in <i>Aristophanis Avibus,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — ὥσπερ ἡ μέλιττα\nΦρύνιχος ἀμβροσίων\nΜελέων ἀπεβόσκετο καρπὸν ἀεὶ,\nΦέρων γλυκεῖαν ᾠδάν·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — ὥσπερ ἡ μέλιττα\nΦρύνιχος ἀμβροσίων\nΜελέων ἀπεβόσκετο καρπὸν ἀεὶ,\nΦέρων γλυκεῖαν ᾠδάν·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut apis</i> Phrynichus (comicus poeta) <i>ambrosiorum carminum fructum semper de-\npascebatur, ferens dulcem cantionem.</i> Et <i>Anthologiae</i> lib. 5. in statuam <i>Sapphus,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut apis</i> Phrynichus (comicus poeta) <i>ambrosiorum carminum fructum semper de-\npascebatur, ferens dulcem cantionem.</i> Et <i>Anthologiae</i> lib. 5. in statuam <i>Sapphus,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πιερικὴ δὲ μέλιττα λιγύθροος ἕζετο Σαπφὼ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πιερικὴ δὲ μέλιττα λιγύθροος ἕζετο Σαπφὼ,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Pieria <i>vero apis dulcisona sedebat</i> Sappho. Et in <i>Erinnam,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pieria <i>vero apis dulcisona sedebat</i> Sappho. Et in <i>Erinnam,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πιερικῆς ῥαθάμιγγας ἀποσταλάουσα μελίσσης,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πιερικῆς ῥαθάμιγγας ἀποσταλάουσα μελίσσης,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Pieriae <i>guttas stillans apis.</i> Et in <i>Homerum,</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pieriae <i>guttas stillans apis.</i> Et in <i>Homerum,</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Πιερικὴ δὲ μέλισσα περὶ στόμα θεῖον ἀλᾶτο,\nΚηρίον ὠδίνουσα μελισταγές· — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Πιερικὴ δὲ μέλισσα περὶ στόμα θεῖον ἀλᾶτο,\nΚηρίον ὠδίνουσα μελισταγές· — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Pieria <i>vero apis circa divinum os errabat, favum pariens, melle fluentem.</i> Eodem\npertinet, quod <i>Plinius</i> ^{p)} atque alii ^{q)} referunt, apes in ore infantis <i>Platonis</i> se-\ndisse, suavitatem illam praedulcis eloquii portendentes. Quod idem de <i>Pinda-\nro</i> ^{r)}, <i>Lucano</i> ^{s)} et <i>Ambrosio</i> ^{t)} scribunt auctores non contemnendi.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pieria <i>vero apis circa divinum os errabat, favum pariens, melle fluentem.</i> Eodem\npertinet, quod <i>Plinius</i> ^{p)} atque alii ^{q)} referunt, apes in ore infantis <i>Platonis</i> se-\ndisse, suavitatem illam praedulcis eloquii portendentes. Quod idem de <i>Pinda-\nro</i> ^{r)}, <i>Lucano</i> ^{s)} et <i>Ambrosio</i> ^{t)} scribunt auctores non contemnendi."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Mel inter ea, quae vitae sunt maxime necessaria, posuerunt <i>Hebraei</i> vete-\nres. Ut <i>Sirachides XXXIX, 31.</i> Ἀρχὴ πάσης χρείας εἰς ζωὴν ἀνθρώπου,\nὕδωρ, πῦρ, καὶ σίδηρος, καὶ ἅλας, καὶ σεμίδαλις πυροῦ, καὶ μέλι, etc. <i>Prin-\ncipium omnis necessitatis ad vitam hominis</i> (id est, primas tenent inter ea, quae\nad vitam maxime requiruntur) <i>aqua, ignis, ferrum, sal, frumenta, simila, mel,</i>\netc. Ad multa enim mel fuit utile, ad esum, ad potum, ad medicinam, ad ⟦p. 525⟧\nconservanda cadavera. Melle denique in sacris usi sunt superstitiosi homines.\nMellis esum quod attinet, ita de eo <i>Ionathan</i> in <i>Paraphrasi</i> Lev. XI, 20. <i>Species</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Mel inter ea, quae vitae sunt maxime necessaria, posuerunt <i>Hebraei</i> vete-\nres. Ut <i>Sirachides XXXIX, 31.</i> Ἀρχὴ πάσης χρείας εἰς ζωὴν ἀνθρώπου,\nὕδωρ, πῦρ, καὶ σίδηρος, καὶ ἅλας, καὶ σεμίδαλις πυροῦ, καὶ μέλι, etc. <i>Prin-\ncipium omnis necessitatis ad vitam hominis</i> (id est, primas tenent inter ea, quae\nad vitam maxime requiruntur) <i>aqua, ignis, ferrum, sal, frumenta, simila, mel,</i>\netc. Ad multa enim mel fuit utile, ad esum, ad potum, ad medicinam, ad ⟦p. 525⟧\nconservanda cadavera. Melle denique in sacris usi sunt superstitiosi homines.\nMellis esum quod attinet, ita de eo <i>Ionathan</i> in <i>Paraphrasi</i> Lev. XI, 20. <i>Species</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ccc 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ccc 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>apum</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>apum</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Olymp. 11. Pyth. 3. Isthm. 2.</i>",
+   "marker": "n)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Olymp. 11. Pyth. 3. Isthm. 2.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Isthm. 2. et 6.</i>",
+   "marker": "o)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Isthm. 2. et 6.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib. 11. c. 17.</i>",
+   "marker": "p)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib. 11. c. 17.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cic.\nDivin. l. 1. Val. Max. l. 1. c. 6. Ael. Var. l. 12. c. 55.</i>",
+   "marker": "q)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cic.\nDivin. l. 1. Val. Max. l. 1. c. 6. Ael. Var. l. 12. c. 55.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Ael. ibid. et An-\nthol. 5. 64.</i>",
+   "marker": "r)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ael. ibid. et An-\nthol. 5. 64.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>In ejus Vita.</i>",
+   "marker": "s)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In ejus Vita.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Paulin. in Ambros. Vita.</i>",
+   "marker": "t)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Paulin. in Ambros. Vita.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1860,
+    1683
+   ],
+   [
+    1860,
+    1125
+   ]
+  ],
+  "input_tokens": 8729,
+  "output_tokens": 1931,
+  "cost_usd": 0.0735,
+  "seconds": 31.0
+ }
+}

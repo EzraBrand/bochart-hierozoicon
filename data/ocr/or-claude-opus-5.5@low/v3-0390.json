@@ -1,0 +1,194 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "390 <i>De melle et cera.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "390 <i>De melle et cera.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Dulcia mella premes, nec tantum dulcia quantum</i>\n<i>Et liquida, et durum</i> Bacchi <i>domitura saporem.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Dulcia mella premes, nec tantum dulcia quantum</i>\n<i>Et liquida, et durum</i> Bacchi <i>domitura saporem.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Id est</i>, <i>apta mulso</i> (inquit <i>Servius</i>), <i>quia majores vina asperrima mellis dulcedine</i>\n<i>temperabant.</i> <i>Martialis</i> libri 4. <i>Epigrammate</i> 13.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Id est</i>, <i>apta mulso</i> (inquit <i>Servius</i>), <i>quia majores vina asperrima mellis dulcedine</i>\n<i>temperabant.</i> <i>Martialis</i> libri 4. <i>Epigrammate</i> 13."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Tam bene rara suo</i> ^{u)} <i>miscentur cinnama nardo,</i>\n<i>Massica</i> Theseis <i>tam bene vina favis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Tam bene rara suo</i> ^{u)} <i>miscentur cinnama nardo,</i>\n<i>Massica</i> Theseis <i>tam bene vina favis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et lib. 13. <i>Epigrammate</i> 108.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et lib. 13. <i>Epigrammate</i> 108."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Attica <i>nectareum turbatis mella</i> Falernum,\n<i>Misceri decet hoc a</i> Ganymede <i>merum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Attica <i>nectareum turbatis mella</i> Falernum,\n<i>Misceri decet hoc a</i> Ganymede <i>merum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Corippus</i> lib. 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Corippus</i> lib. 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Fusca dabant fulvo</i> Risattica <i>vina metallo,</i>\n<i>Quae natura parat liquidi non indiga mellis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Fusca dabant fulvo</i> Risattica <i>vina metallo,</i>\n<i>Quae natura parat liquidi non indiga mellis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Homerum</i> praeivisse volunt, <i>Iliad. κ'.</i> versu 234. ubi <i>Circe</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Homerum</i> praeivisse volunt, <i>Iliad. κ'.</i> versu 234. ubi <i>Circe</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — μέλι χλωρὸν\nΟἴνῳ Πραμνείῳ ἐκύκα, — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — μέλι χλωρὸν\nΟἴνῳ Πραμνείῳ ἐκύκα, — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>mel recens vino</i> Pramnio <i>miscuit.</i> Quin, diu ante <i>Circen</i>, <i>Aristaeum primum</i>\n<i>omnium</i> (ajunt) <i>mel miscuisse vino.</i> Ita <i>Plinius</i> lib. 14. cap. 4. Tamen <i>Plutar-</i>\n<i>chus</i> οἰνόμελι mulsum inter ea censet, quae nuper inventa sunt. Locus est <i>Sym-</i>\n<i>posiacῶn</i> lib. 8. Quaest. 9. Πολλὰ γὰρ τῶν ἀγεύστων καὶ ἀβρώτων πρότερον,\nἥδιστα νῦν γέγονεν, ὥσπερ οἰνόμελι, καὶ μήτρα· <i>Multa enim</i>, <i>quae gustari olim</i>\n<i>et comedi non solebant</i>, <i>nunc pro suavissimis habentur</i>, <i>ut mulsum et vulva.</i> An\nquia veterum inventis tam multa addidit gula recentiorum, ut res pro nova haberi\npotuerit? Itaque ne nomen quidem οἰνόμελι uspiam extat, quod sciam, ante\n<i>Dioscoridem.</i> Et in <i>Nehemiae</i> loco, quem supra citavimus, <i>Hebraea</i> solum ha-\nbent שתו ממתקים, <i>Bibite dulcia:</i> et <i>Graeca</i> versio, Πίετε γλυκάσματα. Ut\net <i>3 Esdr. IX, 52.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>mel recens vino</i> Pramnio <i>miscuit.</i> Quin, diu ante <i>Circen</i>, <i>Aristaeum primum</i>\n<i>omnium</i> (ajunt) <i>mel miscuisse vino.</i> Ita <i>Plinius</i> lib. 14. cap. 4. Tamen <i>Plutar-</i>\n<i>chus</i> οἰνόμελι mulsum inter ea censet, quae nuper inventa sunt. Locus est <i>Sym-</i>\n<i>posiacῶn</i> lib. 8. Quaest. 9. Πολλὰ γὰρ τῶν ἀγεύστων καὶ ἀβρώτων πρότερον,\nἥδιστα νῦν γέγονεν, ὥσπερ οἰνόμελι, καὶ μήτρα· <i>Multa enim</i>, <i>quae gustari olim</i>\n<i>et comedi non solebant</i>, <i>nunc pro suavissimis habentur</i>, <i>ut mulsum et vulva.</i> An\nquia veterum inventis tam multa addidit gula recentiorum, ut res pro nova haberi\npotuerit? Itaque ne nomen quidem οἰνόμελι uspiam extat, quod sciam, ante\n<i>Dioscoridem.</i> Et in <i>Nehemiae</i> loco, quem supra citavimus, <i>Hebraea</i> solum ha-\nbent שתו ממתקים, <i>Bibite dulcia:</i> et <i>Graeca</i> versio, Πίετε γλυκάσματα. Ut\net <i>3 Esdr. IX, 52.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "De mellis usu ad medicinam jam ^{x)} actum ad illa <i>Graecae</i> versionis verba\nde ape <i>Proverb. VI, 8.</i> Ἧς τοὺς πόνους βασιλεῖς τε καὶ ἰδιῶται πρὸς ὑγίειαν\nπροσφέρονται, <i>Cujus labores</i> (mel nimirum) <i>reges et privati ad sanitatem adhi-</i>\n<i>bent.</i> Quibus haec adde de <i>Ionathane</i> 1 Sam. XIV, 27. <i>Extendens summitatem</i>\n<i>virgae, quam habebat in manu, eam intinxit in favum mellis: et, cum manum ad</i>\n<i>os admovisset, lumen receperunt oculi ejus.</i> Addit <i>Arabs</i>, لان كان اظلم\nعليه",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De mellis usu ad medicinam jam ^{x)} actum ad illa <i>Graecae</i> versionis verba\nde ape <i>Proverb. VI, 8.</i> Ἧς τοὺς πόνους βασιλεῖς τε καὶ ἰδιῶται πρὸς ὑγίειαν\nπροσφέρονται, <i>Cujus labores</i> (mel nimirum) <i>reges et privati ad sanitatem adhi-</i>\n<i>bent.</i> Quibus haec adde de <i>Ionathane</i> 1 Sam. XIV, 27. <i>Extendens summitatem</i>\n<i>virgae, quam habebat in manu, eam intinxit in favum mellis: et, cum manum ad</i>\n<i>os admovisset, lumen receperunt oculi ejus.</i> Addit <i>Arabs</i>, لان كان اظلم\nعليه"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Al. Syro.</i>",
+   "marker": "u)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Al. Syro.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>lib. IV. cap. IV. p. 511.</i>",
+   "marker": "x)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>lib. IV. cap. IV. p. 511.</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1672,
+    1254
+   ],
+   [
+    1672,
+    1534
+   ]
+  ],
+  "input_tokens": 7895,
+  "output_tokens": 1718,
+  "cost_usd": 0.0659,
+  "seconds": 22.2
+ }
+}

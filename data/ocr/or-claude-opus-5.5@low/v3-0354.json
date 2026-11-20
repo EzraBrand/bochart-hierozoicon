@@ -1,0 +1,194 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "354 <i>Apum nomen et origo.</i> P.II. L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "354 <i>Apum nomen et origo.</i> P.II. L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "libro quarto, <i>Cum non miremur, etiam nunc ex homine mortuo serpentem fieri, e dorsi</i>\n<i>medulla, ut quidem ajunt; et ex bove apem, ex equo vespam, ex asino scarabaeum.</i>\n<i>Servius</i> in librum quartum <i>Georgicorum</i>, <i>Apum sunt multa genera. Proprie ta-</i>\n<i>men vocantur apes de bobus, fuci de equis, crabrones de mulis, vespae de asinis.</i>\nEt qua ratione id fiat, narrat pluribus <i>Florentinus</i> libro decimo quinto <i>Geoponi-</i>\n<i>cῶn</i>, capite [2] Περὶ μελισσῶν, καὶ πῶς ἂν ἐκ βοὸς γένηται ὃ καλεῖται βου-\nγόνη, <i>De apibus, et quomodo ex bove fiat, quod vocatur</i> BUGONE. Concinunt\nmulti <i>poetae</i>, ut e <i>Graecis</i> in <i>Antigono Philetas</i>; is nempe, quem testatur <i>Sui-</i>\n<i>das Ptolemaei secundi</i> fuisse praeceptorem, et <i>Elegias</i> atque <i>Epigrammata</i>\nscripsisse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "libro quarto, <i>Cum non miremur, etiam nunc ex homine mortuo serpentem fieri, e dorsi</i>\n<i>medulla, ut quidem ajunt; et ex bove apem, ex equo vespam, ex asino scarabaeum.</i>\n<i>Servius</i> in librum quartum <i>Georgicorum</i>, <i>Apum sunt multa genera. Proprie ta-</i>\n<i>men vocantur apes de bobus, fuci de equis, crabrones de mulis, vespae de asinis.</i>\nEt qua ratione id fiat, narrat pluribus <i>Florentinus</i> libro decimo quinto <i>Geoponi-</i>\n<i>cῶn</i>, capite [2] Περὶ μελισσῶν, καὶ πῶς ἂν ἐκ βοὸς γένηται ὃ καλεῖται βου-\nγόνη, <i>De apibus, et quomodo ex bove fiat, quod vocatur</i> BUGONE. Concinunt\nmulti <i>poetae</i>, ut e <i>Graecis</i> in <i>Antigono Philetas</i>; is nempe, quem testatur <i>Sui-</i>\n<i>das Ptolemaei secundi</i> fuisse praeceptorem, et <i>Elegias</i> atque <i>Epigrammata</i>\nscripsisse."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Βουγενέας φάμενος προσεβήσαο μακρὰ μελίσσας,\n<i>Taurigenas haec fatus apes longinquus adisti.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Βουγενέας φάμενος προσεβήσαο μακρὰ μελίσσας,\n<i>Taurigenas haec fatus apes longinquus adisti.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et apud <i>Varronem Archelaus</i>, cum apes vocat",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et apud <i>Varronem Archelaus</i>, cum apes vocat"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — βοὸς φθιμένης πεποιημένα τέκνα,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — βοὸς φθιμένης πεποιημένα τέκνα,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>corruptae bovis factitiam prolem.</i> Et idem rursus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>corruptae bovis factitiam prolem.</i> Et idem rursus,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ἵππων μὲν σφῆκες γενεαὶ, μόσχων δὲ μέλισσαι·\n<i>Vespae ab equis, sed apes taurorum ab origine natae.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ἵππων μὲν σφῆκες γενεαὶ, μόσχων δὲ μέλισσαι·\n<i>Vespae ab equis, sed apes taurorum ab origine natae.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quem <i>Nicander</i> sic imitatur in <i>Theriacis</i> versu 741.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quem <i>Nicander</i> sic imitatur in <i>Theriacis</i> versu 741."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἵπποι γὰρ σφηκῶν γένεσις, ταῦροι δὲ μελισσῶν,\nΣκήνεσι πυθομένοισι, λυκοσπάδες ἐξεγένοντο·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἵπποι γὰρ σφηκῶν γένεσις, ταῦροι δὲ μελισσῶν,\nΣκήνεσι πυθομένοισι, λυκοσπάδες ἐξεγένοντο·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Discerpti enim a lupis equi vespas, et tauri apes, corporibus corruptis, pro-</i>\n<i>generarunt.</i> (Ubi obiter nota, σκῆνος, <i>tabernaculum</i> pro <i>corpore</i> sumi, ut a\n<i>Paulo</i> 2 Cor. V, 1. 4.). Et <i>Ovidius</i> libro decimo quinto <i>Metamorphoseωs</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Discerpti enim a lupis equi vespas, et tauri apes, corporibus corruptis, pro-</i>\n<i>generarunt.</i> (Ubi obiter nota, σκῆνος, <i>tabernaculum</i> pro <i>corpore</i> sumi, ut a\n<i>Paulo</i> 2 Cor. V, 1. 4.). Et <i>Ovidius</i> libro decimo quinto <i>Metamorphoseωs</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>mactatos obrue tauros.</i>\n(<i>Cognita res usu</i>) <i>de putri viscere passim</i>\n<i>Florilegae nascuntur apes, quae, more parentum,</i>\n<i>Rura colunt, operique favent, in spemque laborant.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>mactatos obrue tauros.</i>\n(<i>Cognita res usu</i>) <i>de putri viscere passim</i>\n<i>Florilegae nascuntur apes, quae, more parentum,</i>\n<i>Rura colunt, operique favent, in spemque laborant.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed omnium uberrime <i>poetarum</i> princeps libro quarto <i>Georgicorum</i> [vs. 554.\nseqq.], ex quo sit satis haec pauca protulisse:",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed omnium uberrime <i>poetarum</i> princeps libro quarto <i>Georgicorum</i> [vs. 554.\nseqq.], ex quo sit satis haec pauca protulisse:"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hic vero subitum ac dictu mirabile monstrum</i>\n<i>Aspiciunt, liquefacta boum per viscera toto</i>\n<i>Stridere apes utero, et ruptis effervere costis,</i>\n<i>Immensasque trahi nubes, jamque arbore summa</i>\n<i>Confluere, et lentis uvam demittere ramis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hic vero subitum ac dictu mirabile monstrum</i>\n<i>Aspiciunt, liquefacta boum per viscera toto</i>\n<i>Stridere apes utero, et ruptis effervere costis,</i>\n<i>Immensasque trahi nubes, jamque arbore summa</i>\n<i>Confluere, et lentis uvam demittere ramis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Haec",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Haec"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1695,
+    1363
+   ],
+   [
+    1695,
+    1433
+   ]
+  ],
+  "input_tokens": 8056,
+  "output_tokens": 1593,
+  "cost_usd": 0.0641,
+  "seconds": 20.5
+ }
+}

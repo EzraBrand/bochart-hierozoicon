@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "348 De Musca. P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "348 De Musca. P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>nius libri decimi capite vigesimo octavo, Elei Myiagron deum</i> (<i>invocant</i>), <i>mu-\nscarum multitudine pestilentiam adferente</i> (⁴); <i>quae protinus intereunt, qua lita-\ntum est illi die. Alii, quam litatum est illi deo.</i> Et libri vigesimi noni capite\nsexto, <i>Nullum animal</i> (musca) <i>minus docile existimatur, minorisve intellectus: eo\nmirabilius est, Olympio sacro certamine, nubes earum, immolato tauro deo, quem\nMyiodem vocant, extra territorium id abire. Pausanias in Arcadicis</i>, ubi de\nnundinis <i>Alipherarum; Ἐν ταύτῃ τῇ πανηγύρει Μυιάγρῳ προθύουσιν, ἐπευ-\nχόμενοί τε κατὰ τῶν ἱερείων τῷ ἥρωϊ, καὶ ἐπικαλούμενοι τὸν Μυίαγρον. Καὶ\nσφίσι ταῦτα δράσασιν, ὀυδὲν ἔτι ἀνιαρόν εἰσιν αἱ μυῖαι. In illis nundinis uni\nante omnes Myiagro rem divinam faciunt, heroëmque super hostiis precati, et\nMyiagri nomine implorato, postquam haec praestiterunt, muscae illis non sunt am-\nplius molestae. Et in Eliacis prioribus, Φασὶ δὲ Ἡρακλεῖ τῷ Ἀλκμήνης, θύ-\nοντι ἐν Ὀλυμπίᾳ, δι᾽ ὄχλου μάλιστα γενέσθαι τὰς μυίας. ἐξευρόντα ὖν αὐτὸν,\nἢ καὶ ὑπ᾽ ἄλλου διδαχθέντα, Ἀπομυίῳ θῦσαι Διῒ, καὶ ὕτως ἀποτραπῆναι τὰς\nμυίας περὰν τοῦ Ἀλφειοῦ· Λέγονται δὲ κατὰ ταῦτα καὶ Ἠλεῖοι θύειν τῷ\nἈπομυίῳ Διῒ ἐξελαύνοντι τῆς Ἠλείας Ὀλυμπίας τὰς μυίας· Ajunt etiam,\nHerculi, Alcmenes filio, cum Olympiae sacrificaret, maximam muscas exhibuis-\nse molestiam. Eum itaque vel proprio inventu, vel monitu alieno, sacra fecisse\nIovi Apomyio</i> (<i>quasi dicat muscarum abactori</i>) <i>atque ita muscas trans Alpheum\nfuisse profligatas. Ac proinde dicuntur Elei Apomyio Iovi sacra facere, qui ex\nOlympia Elidis muscas abigat</i> (⁵). De quo eodem ritu multa <i>Aelianus Historiae</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>nius libri decimi capite vigesimo octavo, Elei Myiagron deum</i> (<i>invocant</i>), <i>mu-\nscarum multitudine pestilentiam adferente</i> (⁴); <i>quae protinus intereunt, qua lita-\ntum est illi die. Alii, quam litatum est illi deo.</i> Et libri vigesimi noni capite\nsexto, <i>Nullum animal</i> (musca) <i>minus docile existimatur, minorisve intellectus: eo\nmirabilius est, Olympio sacro certamine, nubes earum, immolato tauro deo, quem\nMyiodem vocant, extra territorium id abire. Pausanias in Arcadicis</i>, ubi de\nnundinis <i>Alipherarum; Ἐν ταύτῃ τῇ πανηγύρει Μυιάγρῳ προθύουσιν, ἐπευ-\nχόμενοί τε κατὰ τῶν ἱερείων τῷ ἥρωϊ, καὶ ἐπικαλούμενοι τὸν Μυίαγρον. Καὶ\nσφίσι ταῦτα δράσασιν, ὀυδὲν ἔτι ἀνιαρόν εἰσιν αἱ μυῖαι. In illis nundinis uni\nante omnes Myiagro rem divinam faciunt, heroëmque super hostiis precati, et\nMyiagri nomine implorato, postquam haec praestiterunt, muscae illis non sunt am-\nplius molestae. Et in Eliacis prioribus, Φασὶ δὲ Ἡρακλεῖ τῷ Ἀλκμήνης, θύ-\nοντι ἐν Ὀλυμπίᾳ, δι᾽ ὄχλου μάλιστα γενέσθαι τὰς μυίας. ἐξευρόντα ὖν αὐτὸν,\nἢ καὶ ὑπ᾽ ἄλλου διδαχθέντα, Ἀπομυίῳ θῦσαι Διῒ, καὶ ὕτως ἀποτραπῆναι τὰς\nμυίας περὰν τοῦ Ἀλφειοῦ· Λέγονται δὲ κατὰ ταῦτα καὶ Ἠλεῖοι θύειν τῷ\nἈπομυίῳ Διῒ ἐξελαύνοντι τῆς Ἠλείας Ὀλυμπίας τὰς μυίας· Ajunt etiam,\nHerculi, Alcmenes filio, cum Olympiae sacrificaret, maximam muscas exhibuis-\nse molestiam. Eum itaque vel proprio inventu, vel monitu alieno, sacra fecisse\nIovi Apomyio</i> (<i>quasi dicat muscarum abactori</i>) <i>atque ita muscas trans Alpheum\nfuisse profligatas. Ac proinde dicuntur Elei Apomyio Iovi sacra facere, qui ex\nOlympia Elidis muscas abigat</i> (⁵). De quo eodem ritu multa <i>Aelianus Historiae</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "libri",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "libri"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "tos primum, cum fugere eos Aethiopes iu-\nberent, muscas venire addentes; fugisse\ntamen, et ex ossibus animalium deinde\nagnovisse, quam exiissent pestem. Haec\nquidem non praestem omnia; potuerunt\nenim in majus augeri: narrasse tamen Lu-\ndolphum, certo teste compertum habeo,\npatre meo, qui aliquot menses in hospitio\net convictu Iobi Ludolphi fuit.“ Haec\nMichaelis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "tos primum, cum fugere eos Aethiopes iu-\nberent, muscas venire addentes; fugisse\ntamen, et ex ossibus animalium deinde\nagnovisse, quam exiissent pestem. Haec\nquidem non praestem omnia; potuerunt\nenim in majus augeri: narrasse tamen Lu-\ndolphum, certo teste compertum habeo,\npatre meo, qui aliquot menses in hospitio\net convictu Iobi Ludolphi fuit.“ Haec\nMichaelis."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "„Quomodo pestilentiam attulerint mu-\nscae, licet non prodiderit Plinius, facile\ntamen est conjectione. Namque et mori-\nentium muscarum multitudo foetore infi-\ncere aëra potest; et cibos obsidentes atque\ninquinantes, febrium putridarum fieri at-\nque dysenteriarum caussa possunt. Sic DIO\nCASSIUS L LXVIII. §. 31. (editionis Rei-\nmarianae p. 1145.) refert, Trajanum coa-\nctum, urbis Agarenorum obsidionem sol-\nvere, quod densa muscarum examina cibis\ninsiderent, omniaque nausea implerent.\nMorbos quidem inde natos silet: sed Tra-\niano alicui sola ex muscis molestia vix so-\nlutura obsidionem, irritamque factura ex-\npeditionem videtur. Verba Dionis haec\nsunt: καὶ ὁπότε ἐκ δειπνοιεν, μυιαι τοις βρω-\nμασι καὶ τοις ποιμασι προσίζανεσαι, δυσχε-\nρειας ἅπαντα ἐνεπιμπλων.“ Haec Michaelis\nloco laudato, not. 17., qui ceterum <i>Myia-\ngron</i>, pro Deo cultum, non pro idolo ha-\nbet, sed pro volucri, muscis vescente, cum\ninter alias aves commemoretur, pro diis\nhabitas, quia contra pestes sunt auxilio.",
+   "marker": "(4)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "„Quomodo pestilentiam attulerint mu-\nscae, licet non prodiderit Plinius, facile\ntamen est conjectione. Namque et mori-\nentium muscarum multitudo foetore infi-\ncere aëra potest; et cibos obsidentes atque\ninquinantes, febrium putridarum fieri at-\nque dysenteriarum caussa possunt. Sic DIO\nCASSIUS L LXVIII. §. 31. (editionis Rei-\nmarianae p. 1145.) refert, Trajanum coa-\nctum, urbis Agarenorum obsidionem sol-\nvere, quod densa muscarum examina cibis\ninsiderent, omniaque nausea implerent.\nMorbos quidem inde natos silet: sed Tra-\niano alicui sola ex muscis molestia vix so-\nlutura obsidionem, irritamque factura ex-\npeditionem videtur. Verba Dionis haec\nsunt: καὶ ὁπότε ἐκ δειπνοιεν, μυιαι τοις βρω-\nμασι καὶ τοις ποιμασι προσίζανεσαι, δυσχε-\nρειας ἅπαντα ἐνεπιμπλων.“ Haec Michaelis\nloco laudato, not. 17., qui ceterum <i>Myia-\ngron</i>, pro Deo cultum, non pro idolo ha-\nbet, sed pro volucri, muscis vescente, cum\ninter alias aves commemoretur, pro diis\nhabitas, quia contra pestes sunt auxilio."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "De Iove <i>Apomyio</i> et <i>Myiagro</i> con-\nferendus etiam SALMASIUS, <i>Exercitt.\nPlinn. in Solin.</i> p. 9. 10.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De Iove <i>Apomyio</i> et <i>Myiagro</i> con-\nferendus etiam SALMASIUS, <i>Exercitt.\nPlinn. in Solin.</i> p. 9. 10."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1638,
+    1506
+   ],
+   [
+    1638,
+    1298
+   ]
+  ],
+  "input_tokens": 3395,
+  "output_tokens": 1411,
+  "cost_usd": 0.0078,
+  "seconds": 14.6
+ }
+}

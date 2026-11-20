@@ -1,0 +1,171 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. <i>Apes fumo pelli</i> 361",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. <i>Apes fumo pelli</i> 361"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et ibi <i>Servius</i>, <i>Fumum etiam profer</i>, <i>ut</i>, <i>cum his rebus territae illae discesserint</i>,\n<i>impune possis mella colligere.</i> Item, <i>Sequaces fumos</i>, <i>quippe apum persecutores</i>,\n<i>ut</i> Maleae<i>que sequacibus undis</i>. Et <i>Ovidius</i> lib. 1. <i>De remedio Amoris</i> versu 185.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et ibi <i>Servius</i>, <i>Fumum etiam profer</i>, <i>ut</i>, <i>cum his rebus territae illae discesserint</i>,\n<i>impune possis mella colligere.</i> Item, <i>Sequaces fumos</i>, <i>quippe apum persecutores</i>,\n<i>ut</i> Maleae<i>que sequacibus undis</i>. Et <i>Ovidius</i> lib. 1. <i>De remedio Amoris</i> versu 185."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quid</i>, <i>cum suppositos fugiunt examina fumos</i>,\n<i>Ut relevent dempti vimina curva favi?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quid</i>, <i>cum suppositos fugiunt examina fumos</i>,\n<i>Ut relevent dempti vimina curva favi?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Zonas</i>, de <i>Pane</i> ad apes <i>Anthologiae</i> lib. I. cap. 60.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Zonas</i>, de <i>Pane</i> ad apes <i>Anthologiae</i> lib. I. cap. 60."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — ὁ δὲ βλυστηρίδι χειρὶ ⟦p. 508⟧\nΚαπνώσας, βαίην κὔμμι λίπῃ μερίδα.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — ὁ δὲ βλυστηρίδι χειρὶ ⟦p. 508⟧\nΚαπνώσας, βαίην κὔμμι λίπῃ μερίδα."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hic vero castrante manu fumum excitans</i>, <i>vobis parvam</i> (mellis) <i>relinquat partem.</i>\nEt de <i>Aristaeo</i> <i>Nonnus</i> <i>Dionysiacῶν</i> lib. 5. versu 249.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hic vero castrante manu fumum excitans</i>, <i>vobis parvam</i> (mellis) <i>relinquat partem.</i>\nEt de <i>Aristaeo</i> <i>Nonnus</i> <i>Dionysiacῶν</i> lib. 5. versu 249."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καὶ δολίῳ πνιγόεντι πυρὸς τεχνήμονι καπνῷ\nΣινομένην πρήϋνεν· — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καὶ δολίῳ πνιγόεντι πυρὸς τεχνήμονι καπνῷ\nΣινομένην πρήϋνεν· — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et doloso suffocante ignis industrio fumo noxiam</i> (apem) <i>mitigavit.</i> Sunt et alii,\nqui idem tradant. <i>Antigonus</i> Mirabilium <i>Historia</i> 37. Τὰς δὲ μελίττας θυμιω-\nμένας ὑπὸ τοῦ καπνοῦ, καὶ κακοπαθούσας τότε μάλιστα μὲν ἐσθίειν· <i>Apes</i>\n(ajunt) <i>cum fumu suffiuntur</i> et <i>divexantur</i>, <i>tum maxime edere.</i> Aristophanis\n<i>Scholiastes</i> ad haec <i>Poetae</i> in <i>Vespis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et doloso suffocante ignis industrio fumo noxiam</i> (apem) <i>mitigavit.</i> Sunt et alii,\nqui idem tradant. <i>Antigonus</i> Mirabilium <i>Historia</i> 37. Τὰς δὲ μελίττας θυμιω-\nμένας ὑπὸ τοῦ καπνοῦ, καὶ κακοπαθούσας τότε μάλιστα μὲν ἐσθίειν· <i>Apes</i>\n(ajunt) <i>cum fumu suffiuntur</i> et <i>divexantur</i>, <i>tum maxime edere.</i> Aristophanis\n<i>Scholiastes</i> ad haec <i>Poetae</i> in <i>Vespis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — Τῦφε πολλῷ τῷ καπνῷ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — Τῦφε πολλῷ τῷ καπνῷ,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Incende multo fumo.</i> Τῦφε δὲ καίων δίωκε· ὁ γαρ καπνὸς διώκει τὰς μελισσας,\nκαὶ τὰς σφῆκας. <i>Vox</i> τῦφε <i>significat</i>: <i>Exurens persequere</i>: <i>fumus enim apes</i>\n<i>et vespas persequitur.</i> <i>Columella</i> lib. 9. capite 15. §. 5. ubi de castrandis apum\nalvearibus; <i>Ubi a posteriore parte</i>, <i>qua nullum est vestibulum</i>, <i>patefactum fuerit</i>\n<i>alveare</i>, <i>fumum admovebimus</i>, <i>factum galbano</i>, <i>vel arido fumo</i> (forte <i>foeno</i>) ^{(5)}.\nEt infra, <i>Fumus ad apes promovetur</i>, <i>quae confestim</i>, <i>nidoris impatientes</i>, <i>in</i>\n<i>priorem partem domicilii</i>, <i>et interdum extra vestibulum se conferunt.</i> <i>Plinius</i>\nlib. 11. cap. 16. <i>Cum eximuntur mella</i>, <i>apes abigi fumo utilissimum</i>, <i>ne ira-</i>\n<i>scantur</i>, <i>aut ipsae avide vorent.</i> <i>Fumo crebriore etiam ignavia earum excita-</i>\n<i>tur ad opera.</i> Id <i>Graece</i> βλίσαι dicitur, et ἐναύειν. <i>Hesychius</i>, Βλίσαι·\nκαπνίσαι",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Incende multo fumo.</i> Τῦφε δὲ καίων δίωκε· ὁ γαρ καπνὸς διώκει τὰς μελισσας,\nκαὶ τὰς σφῆκας. <i>Vox</i> τῦφε <i>significat</i>: <i>Exurens persequere</i>: <i>fumus enim apes</i>\n<i>et vespas persequitur.</i> <i>Columella</i> lib. 9. capite 15. §. 5. ubi de castrandis apum\nalvearibus; <i>Ubi a posteriore parte</i>, <i>qua nullum est vestibulum</i>, <i>patefactum fuerit</i>\n<i>alveare</i>, <i>fumum admovebimus</i>, <i>factum galbano</i>, <i>vel arido fumo</i> (forte <i>foeno</i>) ^{(5)}.\nEt infra, <i>Fumus ad apes promovetur</i>, <i>quae confestim</i>, <i>nidoris impatientes</i>, <i>in</i>\n<i>priorem partem domicilii</i>, <i>et interdum extra vestibulum se conferunt.</i> <i>Plinius</i>\nlib. 11. cap. 16. <i>Cum eximuntur mella</i>, <i>apes abigi fumo utilissimum</i>, <i>ne ira-</i>\n<i>scantur</i>, <i>aut ipsae avide vorent.</i> <i>Fumo crebriore etiam ignavia earum excita-</i>\n<i>tur ad opera.</i> Id <i>Graece</i> βλίσαι dicitur, et ἐναύειν. <i>Hesychius</i>, Βλίσαι·\nκαπνίσαι"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Potius: <i>fimo</i>, ut habet etiam PAL-\nLADIUS (qui Columellam ita sequitur, ut\nejus scripta compilasse videatur) <i>de re ru-</i>\n<i>stica</i>, L. VII. c. 7. §. 2. <i>fumus admovetur</i>\n<i>ex galbano et arido fimo bubulo.</i> DIDY-\nMUS in <i>Geoponicis</i> L. XV. Cap. 4. §. 6.\nἨρινῶν δε δεκα ἡμερων διελθουσων, καπνῳ\nβολβιτου ξηρου ἐπι τας νομας αὐτας ἐξελασας,\nκαθαρισεις και κορησεις τα ἀγγεια. <i>Post de-</i>\n<i>cem vero dies vernas fimi bubuli aridi fu-</i>\n<i>mo ipsas ad pascua expelles et purgabis</i>\n<i>atque verres vasa.</i> Idem Cap. 5. §. 5.\nΧρη δε καπνῳ βολβιτου προαπολαυνειν αὐτας.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Potius: <i>fimo</i>, ut habet etiam PAL-\nLADIUS (qui Columellam ita sequitur, ut\nejus scripta compilasse videatur) <i>de re ru-</i>\n<i>stica</i>, L. VII. c. 7. §. 2. <i>fumus admovetur</i>\n<i>ex galbano et arido fimo bubulo.</i> DIDY-\nMUS in <i>Geoponicis</i> L. XV. Cap. 4. §. 6.\nἨρινῶν δε δεκα ἡμερων διελθουσων, καπνῳ\nβολβιτου ξηρου ἐπι τας νομας αὐτας ἐξελασας,\nκαθαρισεις και κορησεις τα ἀγγεια. <i>Post de-</i>\n<i>cem vero dies vernas fimi bubuli aridi fu-</i>\n<i>mo ipsas ad pascua expelles et purgabis</i>\n<i>atque verres vasa.</i> Idem Cap. 5. §. 5.\nΧρη δε καπνῳ βολβιτου προαπολαυνειν αὐτας."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Zz",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Zz"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1716,
+    1691
+   ],
+   [
+    1716,
+    1129
+   ]
+  ],
+  "input_tokens": 8219,
+  "output_tokens": 2120,
+  "cost_usd": 0.0753,
+  "seconds": 29.9,
+  "vote": "3 decisions from v3-327-402"
+ }
+}

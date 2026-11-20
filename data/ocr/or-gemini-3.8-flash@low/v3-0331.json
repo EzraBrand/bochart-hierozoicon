@@ -1,0 +1,98 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Cap. VII. Iohannem veras Locuſtas habuiſſe pro cibo.</i> 331",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cap. VII. Iohannem veras Locuſtas habuiſſe pro cibo.</i> 331"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "miſſus, abripuiſſe, et in mare <i>rubrum</i> conjeciſſe legitur, quidquid in <i>Aegy-\npto</i> locuſtarum erat, ita, ut ne una quidem remanſerit in omnibus <i>Aegy-\nptiorum</i> finibus. <i>Ionathan</i> in paraphraſi id excipit, מה דמלחין במנייא לצרוך\nמיכלהון, <i>quod in vaſis ſuis ſale condierant in cibi uſum</i> (²).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "miſſus, abripuiſſe, et in mare <i>rubrum</i> conjeciſſe legitur, quidquid in <i>Aegy-\npto</i> locuſtarum erat, ita, ut ne una quidem remanſerit in omnibus <i>Aegy-\nptiorum</i> finibus. <i>Ionathan</i> in paraphraſi id excipit, מה דמלחין במנייא לצרוך\nמיכלהון, <i>quod in vaſis ſuis ſale condierant in cibi uſum</i> (²)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Arabes</i> quoque idem docent. <i>Damir</i> in capite <i>De locuſtis</i>, titulo\nأجمع المسلمون علي اباحة أكل الحكم ſive <i>De uſu</i>,\nالجراد <i>Muſulmanni in id conſentiunt, locuſtarum eſum eſſe licitum</i>. Freti\nnimirum <i>Abdallae</i> auctoritate, cujus verba ſunt, غزونا مع رسول الله\nصلي الله عليه وسلم سبع غزوات ناكل الجراد\nفيها <i>Bellicas expeditiones ſeptem ſuſcepimus cum Dei propheta, cui Deus\nſit propitius, locuſtarum carnem comedentes</i>. Hinc eſt, quod Deum illas im-\nmittere dictitant, modo ut ſint رزقا القوم <i>eſca populis</i>, modo ut ſint\nبلا علي القوم <i>plaga in populos</i>. Exemplo ſint pauca haec, petita ex\n<i>Alcamus</i>, الصراح طاير كالجندب يوكل <i>Sorrach, volucre\nanimalculum bruchi inſtar, quod comeditur</i>. جرد شري جلده عن\nأكله Giarida, <i>puſtulae effloruerunt in carne ejus propter illius eſum</i>; id\neſt, propter eſum locuſtae, de qua antea. جرد شكا بطنه من ⟦p. 492.⟧\nأكله Giurida, <i>propter ejuſdem eſum venter doluit</i>. المرتجل\nمن يقع برجل من جراد فيشتوي منها Almurtegilo, <i>qui,\nin locuſtae pedes incidens, eos aſſat</i>. الحنتف الجراد المنتف\nالمنقي للطبخ Alchantapho, <i>locuſta, quae, ut coquatur, depilata, et\nmundata eſt</i>. الوهيسة ان يطبخ الجراد وتجفف ويدق\nويخلط بدسم Alvvahiſatho, <i>cum coquitur locuſta, et arefacta con-\ntunditur, et cum adipe miſcetur</i>: nimirum ut ſit pro cibo. His adde recen-\ntiorum teſtimonia. Ut <i>Nicolai Clenardi</i> in Epiſtolis, <i>Plauſtra, plena locuſtis,\nadvehunt Feſſam; nam hos hoſtes vulgo hic comedunt</i>. Et <i>Leonis Africani</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Arabes</i> quoque idem docent. <i>Damir</i> in capite <i>De locuſtis</i>, titulo\nأجمع المسلمون علي اباحة أكل الحكم ſive <i>De uſu</i>,\nالجراد <i>Muſulmanni in id conſentiunt, locuſtarum eſum eſſe licitum</i>. Freti\nnimirum <i>Abdallae</i> auctoritate, cujus verba ſunt, غزونا مع رسول الله\nصلي الله عليه وسلم سبع غزوات ناكل الجراد\nفيها <i>Bellicas expeditiones ſeptem ſuſcepimus cum Dei propheta, cui Deus\nſit propitius, locuſtarum carnem comedentes</i>. Hinc eſt, quod Deum illas im-\nmittere dictitant, modo ut ſint رزقا القوم <i>eſca populis</i>, modo ut ſint\nبلا علي القوم <i>plaga in populos</i>. Exemplo ſint pauca haec, petita ex\n<i>Alcamus</i>, الصراح طاير كالجندب يوكل <i>Sorrach, volucre\nanimalculum bruchi inſtar, quod comeditur</i>. جرد شري جلده عن\nأكله Giarida, <i>puſtulae effloruerunt in carne ejus propter illius eſum</i>; id\neſt, propter eſum locuſtae, de qua antea. جرد شكا بطنه من ⟦p. 492.⟧\nأكله Giurida, <i>propter ejuſdem eſum venter doluit</i>. المرتجل\nمن يقع برجل من جراد فيشتوي منها Almurtegilo, <i>qui,\nin locuſtae pedes incidens, eos aſſat</i>. الحنتف الجراد المنتف\nالمنقي للطبخ Alchantapho, <i>locuſta, quae, ut coquatur, depilata, et\nmundata eſt</i>. الوهيسة ان يطبخ الجراد وتجفف ويدق\nويخلط بدسم Alvvahiſatho, <i>cum coquitur locuſta, et arefacta con-\ntunditur, et cum adipe miſcetur</i>: nimirum ut ſit pro cibo. His adde recen-\ntiorum teſtimonia. Ut <i>Nicolai Clenardi</i> in Epiſtolis, <i>Plauſtra, plena locuſtis,\nadvehunt Feſſam; nam hos hoſtes vulgo hic comedunt</i>. Et <i>Leonis Africani</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "lib. 9,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "lib. 9,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Tt 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tt 2"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Locuſtas hodienum in Oriente ſicca-\nri atque ſale condiri, narrant quoque Rau-\nwolf, et Niebuhr (p. 171.), quorum alio-\nrumque teſtimonia collegit OEDMANN\nFaſc. II. Cap. VI. pag. 106. 107. RUSSEL\n<i>Natural Hiſtory of Aleppo</i>, pag. 62. <i>It\nmay not be omiſs to mention, that the\nArabs eat this locuſt when freſh, and\nalſo ſalt them up as a delicacy</i>.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Locuſtas hodienum in Oriente ſicca-\nri atque ſale condiri, narrant quoque Rau-\nwolf, et Niebuhr (p. 171.), quorum alio-\nrumque teſtimonia collegit OEDMANN\nFaſc. II. Cap. VI. pag. 106. 107. RUSSEL\n<i>Natural Hiſtory of Aleppo</i>, pag. 62. <i>It\nmay not be omiſs to mention, that the\nArabs eat this locuſt when freſh, and\nalſo ſalt them up as a delicacy</i>."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1670,
+    1556
+   ],
+   [
+    1670,
+    1220
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1070,
+  "cost_usd": 0.0066,
+  "seconds": 9.8
+ }
+}

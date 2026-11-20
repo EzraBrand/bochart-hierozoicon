@@ -1,0 +1,230 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII. <i>De melle et cera.</i> 381",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII. <i>De melle et cera.</i> 381"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Probatum est hactenus, in <i>Iudaea</i> mel abundasse, atque ubertim provenisse,\netiam in agris et sylvis. Quidni igitur potuerit a <i>Iohanne, baptista</i>, in cibis ad-\nhiberi? Multis videtur vulgare mel lautior esse cibus, quam ut <i>Iohanni</i> convene-\nrit in tali abstinentia. Proinde mel sylvestre, de quo <i>Evangelistae</i>, amarum\nfuisse volunt, et gustui prorsus ingratum. Sic <i>Isidorus Pelusiota</i>, Epistola 132.\nillud definit μέλι ὄρειον, ὑπὸ μελισσῶν ἀγρίων γινόμενον, πικρότατον, καὶ\nπάσῃ γεύσει πολέμιον. Et <i>Euthymius</i>, <i>Mel</i>, inquit, <i>agreste in petrarum scis-\nsuris ab agrestibus apibus conficitur: sed amarum est, ac insuave.</i> Sed haec gra-\ntis dicuntur, nec Scripturae satis consonant, quae <i>Iudaeam</i> a melle non tantope-\nre commendaret, si mel, in agris proveniens, insuave et amarum esset. Non me\nlatet, in certis locis mel amarum progenerari, puta <i>Sardoum</i> et <i>Corsicum</i>, sive\ncausa sit in absinthio, quod depascantur apes: <i>Dioscorides</i> libro 2. Τὸ δὲ ἐν\nΣαρδονίᾳ γενώμενον μέλι πικρὸν διὰ τὴν τοῦ ἀψινθίου νομήν. Galenus <i>De sim-\nplici facultate medicamentorum</i> libro 7. <i>Si quod mel amarum est</i>, <i>ceu</i> Sardoum,\n<i>clarum est et ipsum mixtae facultatis, tanquam si nostrum quispiam ei absinthium\nadmiscuisset.</i> Sive id a buxo fiat, quae in <i>Corsica</i> plurima est. <i>Diodorus</i> lib. 5.\nΦύεται δὲ κατὰ τὴν νῆσον ταύτην καὶ πύξος πλείστη, καὶ διάφορος· δι’ ἣν καὶ\nτὸ μέλι τὸ γινόμενον ἐν αὐτῇ παντελῶς γίνεται πικρόν. Sive a taxis: ut haec\n<i>poetae</i> suadent <i>Ecloga</i> 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Probatum est hactenus, in <i>Iudaea</i> mel abundasse, atque ubertim provenisse,\netiam in agris et sylvis. Quidni igitur potuerit a <i>Iohanne, baptista</i>, in cibis ad-\nhiberi? Multis videtur vulgare mel lautior esse cibus, quam ut <i>Iohanni</i> convene-\nrit in tali abstinentia. Proinde mel sylvestre, de quo <i>Evangelistae</i>, amarum\nfuisse volunt, et gustui prorsus ingratum. Sic <i>Isidorus Pelusiota</i>, Epistola 132.\nillud definit μέλι ὄρειον, ὑπὸ μελισσῶν ἀγρίων γινόμενον, πικρότατον, καὶ\nπάσῃ γεύσει πολέμιον. Et <i>Euthymius</i>, <i>Mel</i>, inquit, <i>agreste in petrarum scis-\nsuris ab agrestibus apibus conficitur: sed amarum est, ac insuave.</i> Sed haec gra-\ntis dicuntur, nec Scripturae satis consonant, quae <i>Iudaeam</i> a melle non tantope-\nre commendaret, si mel, in agris proveniens, insuave et amarum esset. Non me\nlatet, in certis locis mel amarum progenerari, puta <i>Sardoum</i> et <i>Corsicum</i>, sive\ncausa sit in absinthio, quod depascantur apes: <i>Dioscorides</i> libro 2. Τὸ δὲ ἐν\nΣαρδονίᾳ γενώμενον μέλι πικρὸν διὰ τὴν τοῦ ἀψινθίου νομήν. Galenus <i>De sim-\nplici facultate medicamentorum</i> libro 7. <i>Si quod mel amarum est</i>, <i>ceu</i> Sardoum,\n<i>clarum est et ipsum mixtae facultatis, tanquam si nostrum quispiam ei absinthium\nadmiscuisset.</i> Sive id a buxo fiat, quae in <i>Corsica</i> plurima est. <i>Diodorus</i> lib. 5.\nΦύεται δὲ κατὰ τὴν νῆσον ταύτην καὶ πύξος πλείστη, καὶ διάφορος· δι’ ἣν καὶ\nτὸ μέλι τὸ γινόμενον ἐν αὐτῇ παντελῶς γίνεται πικρόν. Sive a taxis: ut haec\n<i>poetae</i> suadent <i>Ecloga</i> 9."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sic tua</i> Cyrnaeas <i>fugiant examina taxos.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sic tua</i> Cyrnaeas <i>fugiant examina taxos.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Ad quae <i>Servius</i>, <i>Taxus venenata arbor est, quae abundat in Corsica.</i> Item,\n<i>Cyrenaeas taxos, quibus pastae apes mel amarissimum faciunt.</i> Sive a cicutae pastu,\nut <i>Ovidius</i>, cum de cera scribit <i>Amorum</i> lib. 1. Elegia 12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ad quae <i>Servius</i>, <i>Taxus venenata arbor est, quae abundat in Corsica.</i> Item,\n<i>Cyrenaeas taxos, quibus pastae apes mel amarissimum faciunt.</i> Sive a cicutae pastu,\nut <i>Ovidius</i>, cum de cera scribit <i>Amorum</i> lib. 1. Elegia 12."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quam, puto, de longe collectam flore cicutae</i>\n<i>Melle sub infami</i> Corsica <i>misit apis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quam, puto, de longe collectam flore cicutae</i>\n<i>Melle sub infami</i> Corsica <i>misit apis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Aut a thymis mali saporis: ut <i>Martialis</i> lib. 11. <i>Epigrammate</i> 13.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Aut a thymis mali saporis: ut <i>Martialis</i> lib. 11. <i>Epigrammate</i> 13."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Mella jubes</i> Hyblaea <i>tibi, vel</i> Hymettia, <i>nasci.</i>\n<i>Et thyma</i> Cecropiae Corsica <i>ponis api.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Mella jubes</i> Hyblaea <i>tibi, vel</i> Hymettia, <i>nasci.</i>\n<i>Et thyma</i> Cecropiae Corsica <i>ponis api.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Est et alibi mel venenatum, quod comedentes ad insaniam adigit. Ut circa\n<i>Ponti Heracleam</i>, de quo <i>Dioscorides</i> ^{e)} et <i>Plinius</i> ^{f)}. Et prope <i>Trapezuntem</i>,\nde quo <i>Aristoteles</i> ^{g)} et <i>Aelianus</i> ^{h)}. Meminere et multi alii: sed <i>Xenophon</i> ^{i)}\net <i>Diodorus Siculus</i> ^{k)} in <i>Colchis</i> ponunt. <i>Strabo</i> ^{l)} in <i>Hepta-cometis</i>, et in",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Est et alibi mel venenatum, quod comedentes ad insaniam adigit. Ut circa\n<i>Ponti Heracleam</i>, de quo <i>Dioscorides</i> ^{e)} et <i>Plinius</i> ^{f)}. Et prope <i>Trapezuntem</i>,\nde quo <i>Aristoteles</i> ^{g)} et <i>Aelianus</i> ^{h)}. Meminere et multi alii: sed <i>Xenophon</i> ^{i)}\net <i>Diodorus Siculus</i> ^{k)} in <i>Colchis</i> ponunt. <i>Strabo</i> ^{l)} in <i>Hepta-cometis</i>, et in"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Bbb 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Bbb 3"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>Sannis</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sannis</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i> 2.",
+   "marker": "e)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i> 2."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i> 21. <i>c.</i> 13.",
+   "marker": "f)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i> 21. <i>c.</i> 13."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>In Mirab. c.</i> 17.",
+   "marker": "g)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In Mirab. c.</i> 17."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Hist. lib.</i> 5. <i>cap.</i> 42.",
+   "marker": "h)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hist. lib.</i> 5. <i>cap.</i> 42."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Cyr.\nMin. lib.</i> 4.",
+   "marker": "i)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cyr.\nMin. lib.</i> 4."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i> 12.",
+   "marker": "k)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i> 12."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Lib.</i> 12.",
+   "marker": "l)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lib.</i> 12."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1708,
+    1452
+   ],
+   [
+    1708,
+    1368
+   ]
+  ],
+  "input_tokens": 8056,
+  "output_tokens": 2051,
+  "cost_usd": 0.0732,
+  "seconds": 31.4
+ }
+}

@@ -160,13 +160,14 @@ def translate(blocks: list[dict], model: str, effort: str, notes: bool = False) 
 
 SYRIAC_TO_HEBREW = dict(zip("ܐܒܓܕܗܘܙܚܛܝܟܠܡܢܣܥܦܨܩܪܫܬ", "אבגדהוזחטיכלמנסעפצקרשת"))
 FINALS = dict(zip("כמנפצ", "ךםןףץ"))
-SYRIAC_RUN = re.compile(r"[ܐ-ݏ][܀-ݏ̀-ͯ]*(?:[  ]+[ܐ-ݏ][܀-ݏ̀-ͯ]*)*")
+# a "[?]" inside a word (letters not read, 20-Nov-2026: p. 207 ܥ[?]ܐ) belongs to the word: "ܥ[?]ܐ [ע?א]"
+SYRIAC_RUN = re.compile(r"[ܐ-ݏ](?:[܀-ݏ̀-ͯ]|\[\?\](?=[ܐ-ݏ]))*(?:[  ]+[ܐ-ݏ](?:[܀-ݏ̀-ͯ]|\[\?\](?=[ܐ-ݏ]))*)*")
 
 
 def syriac_to_hebrew(run: str) -> str:
     words = []
-    for w in run.split():
-        h = "".join(SYRIAC_TO_HEBREW.get(c, "") for c in w)
+    for w in run.replace("[?]", "?").split():
+        h = "".join("?" if c == "?" else SYRIAC_TO_HEBREW.get(c, "") for c in w)
         if len(h) > 1 and h[-1] in FINALS:
             h = h[:-1] + FINALS[h[-1]]
         words.append(h)

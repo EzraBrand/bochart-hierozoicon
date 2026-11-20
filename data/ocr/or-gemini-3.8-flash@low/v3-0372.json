@@ -1,0 +1,86 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "372 <i>Loca Scripturae de Apum mellificio explicata.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "372 <i>Loca Scripturae de Apum mellificio explicata.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>tem vocamus et censemus, quia mel flavum operatur.</i> Phile capite vigesimo\nseptimo de ape,\nἩ σύντονος δ’ ἔν, καὶ σοφὴ, καὶ τεχνικὴ,\n<i>Illa igitur vehemens, et sapiens, et artifex.</i> Et capite vigesimo octavo,\nΚαὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,\n<i>Et sapiens puram vitam solet vivere.</i> Pisidas <i>De mundi opificio</i> versu 137.\nΤίς τὴν μέλιτταν τὴν σοφὴν τὴν ἐργάτιν ⟦p. 516.⟧\nΓεωμετρεῖν ἔπεισε, καὶ τριωρόφους\nΟἴκους ἐγείρειν ἑξαγώνων κτισμάτων;\n<i>Quis apem sapientem opificem geometriam exercere induxit, et trium contignatio-</i>\n<i>num domos excitare hexagono aedificio?</i> Et infra,\nΜή πω σε κέντρον τῆς σοφῆς διδασκάλου\nΠλήξῃ μελίττης, καὶ μαθεῖν ἀναγκάσῃ·\n<i>Ne sapientis magistrae apis aculeus te percutiat et discere cogat.</i> Didymus libro\ndecimo quinto Geoponicῶν, Ἡ μέλιττα πάντων τῶν λοιπῶν ζώων ἐστὶ σοφωτά-\nτη, καὶ εὐμηχανωτάτη, καὶ σύνεγγυς ἀνθρώπῳ κατὰ τὸ συνετόν· <i>Apis est</i>\n<i>omnium animalium sapientissima, et artificiosissima, et ad hominis solertiam maxime</i>\n<i>accedens.</i> Poeta denique, poetico more rem in majus efferens, voluit apes par-\ntem habere divinae mentis. Verba sunt,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>tem vocamus et censemus, quia mel flavum operatur.</i> Phile capite vigesimo\nseptimo de ape,\nἩ σύντονος δ’ ἔν, καὶ σοφὴ, καὶ τεχνικὴ,\n<i>Illa igitur vehemens, et sapiens, et artifex.</i> Et capite vigesimo octavo,\nΚαὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,\n<i>Et sapiens puram vitam solet vivere.</i> Pisidas <i>De mundi opificio</i> versu 137.\nΤίς τὴν μέλιτταν τὴν σοφὴν τὴν ἐργάτιν ⟦p. 516.⟧\nΓεωμετρεῖν ἔπεισε, καὶ τριωρόφους\nΟἴκους ἐγείρειν ἑξαγώνων κτισμάτων;\n<i>Quis apem sapientem opificem geometriam exercere induxit, et trium contignatio-</i>\n<i>num domos excitare hexagono aedificio?</i> Et infra,\nΜή πω σε κέντρον τῆς σοφῆς διδασκάλου\nΠλήξῃ μελίττης, καὶ μαθεῖν ἀναγκάσῃ·\n<i>Ne sapientis magistrae apis aculeus te percutiat et discere cogat.</i> Didymus libro\ndecimo quinto Geoponicῶν, Ἡ μέλιττα πάντων τῶν λοιπῶν ζώων ἐστὶ σοφωτά-\nτη, καὶ εὐμηχανωτάτη, καὶ σύνεγγυς ἀνθρώπῳ κατὰ τὸ συνετόν· <i>Apis est</i>\n<i>omnium animalium sapientissima, et artificiosissima, et ad hominis solertiam maxime</i>\n<i>accedens.</i> Poeta denique, poetico more rem in majus efferens, voluit apes par-\ntem habere divinae mentis. Verba sunt,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>His quidam signis atque haec exempla sequuti</i>\n<i>Esse apibus partem divinae mentis, et haustus</i>\n<i>Aethereos dixere.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>His quidam signis atque haec exempla sequuti</i>\n<i>Esse apibus partem divinae mentis, et haustus</i>\n<i>Aethereos dixere.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertius de apum mellificio locus ex eo libro sumtus est, qui neque <i>He-</i>\n<i>braice</i> exstat, neque ab Hebraeis pro canonico agnoscitur. Sed verba Graeca sic\nhabent <i>Ecclesiastici XI, 3.</i> Μικρὰ ἐν πετεινοῖς μέλισσα, καὶ ἀρχὴ γλυκασμά-\nτων ὁ καρπὸς αὐτῆς· <i>Parva in volucribus est apis, et principium dulcedinum est</i>\n<i>fructus ejus. Parva in volucribus;</i> id est, <i>una e minimis,</i> non absolute mini-\n<i>ma volucrium,</i> ut hic habet <i>Drusius.</i> Nam ape minores sunt musca et culex.\nSic <i>Beth-lehem parva fuit in millibus Iuda,</i> non tamen minima omnium, <i>Matth.</i>\n<i>II, 6. Principium dulcedinum:</i> id est, <i>summe dulcis, primas tenet inter dulcia.</i>\nUt Amos VI, 6. ראשית שמנים, <i>principio unguentorum ungunt se,</i> id est, <i>un-</i>\n<i>guento primario.</i> Nempe inter dulcia primas tenet apis fructus, qui est mel.\nUnde <i>Hebraeum</i> proverbium, <i>Dulce ut mel,</i> de quo infra. Iungendus est hic\nde ape versus cum proxime praecedente, Μὴ αἰνέσῃς ἄνδρα ἐν κάλλει αὐτοῦ,\nκαὶ μὴ βδελύξῃ ἄνθρωπον ἐν ὁράσει αὐτοῦ. <i>Non laudaveris virum ob pulchritu-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertius de apum mellificio locus ex eo libro sumtus est, qui neque <i>He-</i>\n<i>braice</i> exstat, neque ab Hebraeis pro canonico agnoscitur. Sed verba Graeca sic\nhabent <i>Ecclesiastici XI, 3.</i> Μικρὰ ἐν πετεινοῖς μέλισσα, καὶ ἀρχὴ γλυκασμά-\nτων ὁ καρπὸς αὐτῆς· <i>Parva in volucribus est apis, et principium dulcedinum est</i>\n<i>fructus ejus. Parva in volucribus;</i> id est, <i>una e minimis,</i> non absolute mini-\n<i>ma volucrium,</i> ut hic habet <i>Drusius.</i> Nam ape minores sunt musca et culex.\nSic <i>Beth-lehem parva fuit in millibus Iuda,</i> non tamen minima omnium, <i>Matth.</i>\n<i>II, 6. Principium dulcedinum:</i> id est, <i>summe dulcis, primas tenet inter dulcia.</i>\nUt Amos VI, 6. ראשית שמנים, <i>principio unguentorum ungunt se,</i> id est, <i>un-</i>\n<i>guento primario.</i> Nempe inter dulcia primas tenet apis fructus, qui est mel.\nUnde <i>Hebraeum</i> proverbium, <i>Dulce ut mel,</i> de quo infra. Iungendus est hic\nde ape versus cum proxime praecedente, Μὴ αἰνέσῃς ἄνδρα ἐν κάλλει αὐτοῦ,\nκαὶ μὴ βδελύξῃ ἄνθρωπον ἐν ὁράσει αὐτοῦ. <i>Non laudaveris virum ob pulchritu-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>dinem</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>dinem</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1810,
+    1642
+   ],
+   [
+    1810,
+    1146
+   ]
+  ],
+  "input_tokens": 3411,
+  "output_tokens": 1088,
+  "cost_usd": 0.0066,
+  "seconds": 11.1
+ }
+}

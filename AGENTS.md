@@ -99,6 +99,17 @@ halves `\n` in a FIXES pair (entry.py would not import): write such edits with a
 from ch. 7, vol. 3 p. 326 (John the Baptist's locusts; ch. 8 p. 334, ch. 9 the fly p. 341, ch. 10 p. 352, ch. 11 the bees
 p. 365, ch. 12 honey p. 374, ch. 13 wasps p. 402, ch. 14 the gadfly p. 417; heads in `logs/find_chapters_t10.log`).
 
+Tranche 11 (20-Nov-2026, vol. 3 pp. 327-402, Book 4 chs. 7-12): synchronous. Lessons: (1) the 8 judge workers append to
+one jsonl; once two lines were interleaved and vote.py stopped on the fragment: drop the line that does not start with
+`{` and run the judge again (it skips judged lines). (2) The Syriac tests of SYRIAC.md: vision models do not read a long
+Serto block (four models agree on 3-6% of the words even on a clean print at twice the resolution); for a short word, a
+majority of 5-6 readers of the line crop is better than one re-read (hard words 17 -> 27 of 48). (3) A Syriac quotation of
+the Bible: `peshcheck.py` places it in the Peshitta (`data/peshitta/`, ETCBC); p. 345 (Eccl 10:1, 5 lines left as `[?]`)
+was read on the scan with the Peshitta as a guide. (4) A Samaritan word next to a Syriac one is often the Samaritan
+Targum of the same verse (p. 399: ࠒࠈࠐ, קטף, balsam). (5) Do not run vote.py on a range other than the tranche's own (it
+needs the judge file of that range). (6) The next tranche: Book 4 from ch. 13, vol. 3 p. 402 (the wasps; ch. 14 the gadfly
+p. 417), then the rest of Book 4 (heads: `uv run find_chapters.py 424 520 3`); p. 402 is fetched.
+
 ## Plan for the next tranche (14-Nov-2026, agreed with the owner)
 
 Where the time goes, from the logs of tranche 6 (1 h 20 min for 83 pages): waiting for the batches about 50

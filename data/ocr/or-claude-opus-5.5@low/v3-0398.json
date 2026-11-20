@@ -1,0 +1,242 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "398 <i>De melle et cera.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "398 <i>De melle et cera.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>a conspectu tuo ut cera liquescent.</i> Ita etiam profani passim. <i>Theocritus</i> in <i>Phar-\nmaceutria</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>a conspectu tuo ut cera liquescent.</i> Ita etiam profani passim. <i>Theocritus</i> in <i>Phar-\nmaceutria</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ὡς τοῦτον τὸν καρὸν ἐγὼ, σὺν δαίμονι, τάκω,\nὩς τάκοιθ᾽ ὑπ᾽ ἔρωτος ὁ Μύνδιος αὐτίκα Δέλφις.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὡς τοῦτον τὸν καρὸν ἐγὼ, σὺν δαίμονι, τάκω,\nὩς τάκοιθ᾽ ὑπ᾽ ἔρωτος ὁ Μύνδιος αὐτίκα Δέλφις."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ut hanc ceram ego, Deo juvante, liquefacio, ita statim liquescat prae amore</i> Myn-\ndius Delphis. Unde <i>Virgilius</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ut hanc ceram ego, Deo juvante, liquefacio, ita statim liquescat prae amore</i> Myn-\ndius Delphis. Unde <i>Virgilius</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Limus ut hic durescit, et haec ut cera liquescit\nUno eodemque igni, sic nostro</i> Daphnis <i>amore.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Limus ut hic durescit, et haec ut cera liquescit\nUno eodemque igni, sic nostro</i> Daphnis <i>amore.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Lucretius</i> de nubibus libri sexti versu 512.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lucretius</i> de nubibus libri sexti versu 512."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Praeterea cum rarescunt quoque nubila ventis,\nAut dissolvuntur solis super icta calore,\nMittunt humorem pluvium stillantia, quasi igni\nCera super calido tabescens multa liquescat.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Praeterea cum rarescunt quoque nubila ventis,\nAut dissolvuntur solis super icta calore,\nMittunt humorem pluvium stillantia, quasi igni\nCera super calido tabescens multa liquescat.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ovidius</i> de <i>Narcisso</i> libro tertio <i>Metamorphoseως</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ovidius</i> de <i>Narcisso</i> libro tertio <i>Metamorphoseως</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Non tulit alterius, sed ut tabescere flavae\nIgne levi cerae, matutinaeque pruinae\nSole repente solent: sic attenuatus amore\nLiquitur, et tecto paullatim carpitur igni.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Non tulit alterius, sed ut tabescere flavae\nIgne levi cerae, matutinaeque pruinae\nSole repente solent: sic attenuatus amore\nLiquitur, et tecto paullatim carpitur igni.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et libro decimo de statua <i>Pygmalionis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et libro decimo de statua <i>Pygmalionis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Subsedit digitis, ceditque ut</i> Hymettia <i>sole\nCera remollescit.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Subsedit digitis, ceditque ut</i> Hymettia <i>sole\nCera remollescit.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Lucanus</i> de <i>Sabello</i>, quem seps serpens momorderat, libri noni versu 783.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Lucanus</i> de <i>Sabello</i>, quem seps serpens momorderat, libri noni versu 783."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>manant humeri, fortesque lacerti,\nColla caputque fluunt, calido non ocyus</i> Austro\n<i>Nix resoluta cadit, nec solem cera sequetur.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>manant humeri, fortesque lacerti,\nColla caputque fluunt, calido non ocyus</i> Austro\n<i>Nix resoluta cadit, nec solem cera sequetur.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Asclepiades Anthologiae</i> libri septimi <i>Epigrammate</i> vigesimo sexto,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Asclepiades Anthologiae</i> libri septimi <i>Epigrammate</i> vigesimo sexto,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τήκομαι ὡς κηρὸς παρ᾽ πυρὶ, κάλλος ὁρῶν·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τήκομαι ὡς κηρὸς παρ᾽ πυρὶ, κάλλος ὁρῶν·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Liquefio ut cera ad ignem, pulchritudinem videns.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Liquefio ut cera ad ignem, pulchritudinem videns.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Cera Hebraice</i> dicitur דונג, sed <i>Chaldaice</i> שעוה, unde <i>Hebraeum</i> Verbum\nהשתעה, est <i>cerae instar mollescere</i>, si magistris credimus, qui haec <i>Es. XLI, 10.</i>\nאל תשתע כי אני אלהיך, in hunc sensum fere reddunt, <i>Ne</i> (ut cera) <i>mollescas,\nquia ego sum Deus tuus.</i> Ita <i>R. Selomo.</i> Et observat <i>Kimchius</i>, sic interpretari\nmajores suos, nempe in <i>Berescith Rabba</i> sectione 65. his verbis, כיון שאמר",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Cera Hebraice</i> dicitur דונג, sed <i>Chaldaice</i> שעוה, unde <i>Hebraeum</i> Verbum\nהשתעה, est <i>cerae instar mollescere</i>, si magistris credimus, qui haec <i>Es. XLI, 10.</i>\nאל תשתע כי אני אלהיך, in hunc sensum fere reddunt, <i>Ne</i> (ut cera) <i>mollescas,\nquia ego sum Deus tuus.</i> Ita <i>R. Selomo.</i> Et observat <i>Kimchius</i>, sic interpretari\nmajores suos, nempe in <i>Berescith Rabba</i> sectione 65. his verbis, כיון שאמר"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "heb",
+   "text": "יצחק",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "יצחק"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1703,
+    1464
+   ],
+   [
+    1703,
+    1340
+   ]
+  ],
+  "input_tokens": 8056,
+  "output_tokens": 1460,
+  "cost_usd": 0.0614,
+  "seconds": 20.1
+ }
+}

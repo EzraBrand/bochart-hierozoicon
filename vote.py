@@ -44,6 +44,19 @@ def similar(old: str, new: str) -> bool:
 # Changes of the vote that are wrong, each read on the scan (01-Nov-2026). Nearly all had only MDZ
 # with the judge: an MDZ-only change needs a look (pilot: about 6 right, 9 wrong).
 REJECT = {
+    # scan check 20-Nov-2026
+    ('v3-0348', 'ἐνεπίμπλων.“'): 'accent',
+    ('v3-0351', 'Σατανᾶς,'): 'accent',
+    ('v3-0355', 'Βουγενέων,'): 'accent',
+    ('v3-0355', 'Geoponicῶn'): 'print Geoponicῶn',
+    ('v3-0356', 'Cynegeticῶn,'): 'print Cynegeticῶn',
+    ('v3-0363', 'τοὶ'): 'accent',
+    ('v3-0371', 'υ΄.'): 'Odyss. υ΄ (book 20)',
+    ('v3-0372', 'Geoponicῶn,'): 'print Geoponicῶn',
+    ('v3-0385', 'saturamini:'): 'print saturamini',
+    ('v3-0386', 'sermonibus'): 'print sermonibus',
+    ('v3-0400', 'στύραξ,'): 'στ ligature',
+    ('v3-0400', 'στυράκινα'): 'στ ligature',
     # scan check 18-Nov-2026
     ('v3-0274', 'מסמר'): 'print מִסְמָר et מַסְמֵר: both with samekh',
     ('v3-0295', 'Geoponicῶn,'): 'print Geoponicῶn',
@@ -197,6 +210,14 @@ REJECT = {
 # "review (MDZ only)": in ch. 35 about 20 of 22 were wrong, most of them ד read as ר (חולד -> חולר).
 # A change in this list was read on the scan and is right, so it is applied.
 ACCEPT = {
+    # scan check 20-Nov-2026
+    ('v3-0328', 'νὴν'),
+    ('v3-0332', 'Arthulpho,'),
+    ('v3-0340', 'caussis'),
+    ('v3-0357', 'עשור,'),
+    ('v3-0360', 'דנתזן,'),
+    ('v3-0391', 'sadiph'),
+    ('v3-0396', 'moria,'),
     # scan check 18-Nov-2026
     ('v3-0278', 'heuschrecken'),
     ('v3-0279', '17[?]9.'),

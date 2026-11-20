@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. Apes fumo pelli. 361",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. Apes fumo pelli. 361"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et ibi <i>Servius</i>, <i>Fumum etiam profer, ut, cum his rebus territae illae discesserint,\nimpune possis mella colligere.</i> Item, <i>Sequaces fumos, quippe apum persecutores,\nut Maleaeque sequacibus undis.</i> Et <i>Ovidius</i> lib. 1. <i>De remedio Amoris</i> versu 185.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et ibi <i>Servius</i>, <i>Fumum etiam profer, ut, cum his rebus territae illae discesserint,\nimpune possis mella colligere.</i> Item, <i>Sequaces fumos, quippe apum persecutores,\nut Maleaeque sequacibus undis.</i> Et <i>Ovidius</i> lib. 1. <i>De remedio Amoris</i> versu 185."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quid, cum suppositos fugiunt examina fumos,\nUt relevent dempti vimina curva favi?</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quid, cum suppositos fugiunt examina fumos,\nUt relevent dempti vimina curva favi?</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Et <i>Zonas</i>, <i>de Pane ad apes</i> <i>Anthologiae</i> lib. 1. cap. 60.\n— — — ὁ δὲ βλυσῃρίδι χερὶ ⟦p. 508.⟧\nΚαπνώσας, βαίην κὔμμι λίπῃ μερίδα.\n<i>Hic vero castrante manu fumum excitans, vobis parvam (mellis) relinquat partem.</i>\nEt <i>de Aristaeo Nonnus Dionysiacῶν</i> lib. 5. versu 249.\nΚαὶ δολίῳ πνιγόεντι πυρὸς τεχνήμονι καπνῷ\nΣινομένην πρηΰνεν· — — —\n<i>Et doloso suffocante ignis industriov fumo noxiam (apem) mitigavit.</i> Sunt et alii,\nqui idem tradant. <i>Antigonus Mirabilium Historia</i> 37. Τὰς δὲ μελίττας θυμιω-\nμένας ὑπὸ τῶ καπνῶ, καὶ κακοπαθώσας τότε μάλιςα μὲν ἐσθίειν· <i>Apes\n(ajunt) cum fumu suffiuntur et divexantur, tum maxime edere.</i> <i>Aristophanis\nScholiastes</i> ad haec Poetae in <i>Vespis</i>,\n— — — Τῦφε πολλῷ τῷ καπνῷ,\n<i>Incende multo fumo.</i> Τῦφε δὲ καίων δίωκε· ὁ γαρ καπνὸς διώκει τὰς μελισσας,\nκαὶ τὰς σφῆκας. <i>Vox</i> τῦφε <i>significat: Exurens persequere: fumus enim apes\net vespas persequitur.</i> <i>Columella</i> lib. 9. capite 15. §. 5. ubi de castrandis apum\nalvearibus; <i>Ubi a posteriore parte, qua nullum est vestibulum, patefactum fuerit\nalveare, fumum admovebimus, factum galbano, vel arido fumo (forte foeno)</i> ^{(5)}.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Et <i>Zonas</i>, <i>de Pane ad apes</i> <i>Anthologiae</i> lib. 1. cap. 60.\n— — — ὁ δὲ βλυσῃρίδι χερὶ ⟦p. 508.⟧\nΚαπνώσας, βαίην κὔμμι λίπῃ μερίδα.\n<i>Hic vero castrante manu fumum excitans, vobis parvam (mellis) relinquat partem.</i>\nEt <i>de Aristaeo Nonnus Dionysiacῶν</i> lib. 5. versu 249.\nΚαὶ δολίῳ πνιγόεντι πυρὸς τεχνήμονι καπνῷ\nΣινομένην πρηΰνεν· — — —\n<i>Et doloso suffocante ignis industriov fumo noxiam (apem) mitigavit.</i> Sunt et alii,\nqui idem tradant. <i>Antigonus Mirabilium Historia</i> 37. Τὰς δὲ μελίττας θυμιω-\nμένας ὑπὸ τῶ καπνῶ, καὶ κακοπαθώσας τότε μάλιςα μὲν ἐσθίειν· <i>Apes\n(ajunt) cum fumu suffiuntur et divexantur, tum maxime edere.</i> <i>Aristophanis\nScholiastes</i> ad haec Poetae in <i>Vespis</i>,\n— — — Τῦφε πολλῷ τῷ καπνῷ,\n<i>Incende multo fumo.</i> Τῦφε δὲ καίων δίωκε· ὁ γαρ καπνὸς διώκει τὰς μελισσας,\nκαὶ τὰς σφῆκας. <i>Vox</i> τῦφε <i>significat: Exurens persequere: fumus enim apes\net vespas persequitur.</i> <i>Columella</i> lib. 9. capite 15. §. 5. ubi de castrandis apum\nalvearibus; <i>Ubi a posteriore parte, qua nullum est vestibulum, patefactum fuerit\nalveare, fumum admovebimus, factum galbano, vel arido fumo (forte foeno)</i> ^{(5)}."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et infra, Fumus ad apes promovetur, quae confestim, nidoris impatientes, in\npriorem partem domicilii, et interdum extra vestibulum se conferunt. Plinius</i>\nlib. 11. cap. 16. <i>Cum eximuntur mella, apes abigi fumo utilissimum, ne ira-\nscantur, aut ipsae avide vorent. Fumo crebriore etiam ignavia earum excita-\ntur ad opera.</i> Id Graece βλίσαι dicitur, et ἐναύειν. <i>Hesychius</i>, Βλίσαι·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et infra, Fumus ad apes promovetur, quae confestim, nidoris impatientes, in\npriorem partem domicilii, et interdum extra vestibulum se conferunt. Plinius</i>\nlib. 11. cap. 16. <i>Cum eximuntur mella, apes abigi fumo utilissimum, ne ira-\nscantur, aut ipsae avide vorent. Fumo crebriore etiam ignavia earum excita-\ntur ad opera.</i> Id Graece βλίσαι dicitur, et ἐναύειν. <i>Hesychius</i>, Βλίσαι·"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "καπνίσαι",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "καπνίσαι"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Potius: <i>fimo</i>, ut habet etiam PAL-\nLADIUS (qui Columellam ita sequitur, ut\nejus scripta compilasse videatur) <i>de re ru-\nstica</i>, L. VII. c. 7. §. 2. <i>fumus admovetur\nex galbano et arido fimo bubulo</i>. DIDY-\nMUS in <i>Geoponicis</i> L. XV. Cap. 4. §. 6.\nἨρινῶν δε δεκα ἡμερων διελθουσων, καπνῳ\nβολβιτου ξηρου ἐπι τας νομας αὐτας ἐξελασας,\nκαθαρισεις και κορησεις τα ἀγγεια. <i>Post de-\ncem vero dies vernas fimi bubuli aridi fu-\nmo ipsas ad pascua expelles et purgabis\natque verres vasa.</i> Idem Cap. 5. §. 5.\nΧρη δε καπνῳ βολβιτου προαπολαυνειν αὐτας.",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Potius: <i>fimo</i>, ut habet etiam PAL-\nLADIUS (qui Columellam ita sequitur, ut\nejus scripta compilasse videatur) <i>de re ru-\nstica</i>, L. VII. c. 7. §. 2. <i>fumus admovetur\nex galbano et arido fimo bubulo</i>. DIDY-\nMUS in <i>Geoponicis</i> L. XV. Cap. 4. §. 6.\nἨρινῶν δε δεκα ἡμερων διελθουσων, καπνῳ\nβολβιτου ξηρου ἐπι τας νομας αὐτας ἐξελασας,\nκαθαρισεις και κορησεις τα ἀγγεια. <i>Post de-\ncem vero dies vernas fimi bubuli aridi fu-\nmo ipsas ad pascua expelles et purgabis\natque verres vasa.</i> Idem Cap. 5. §. 5.\nΧρη δε καπνῳ βολβιτου προαπολαυνειν αὐτας."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI Hieroz. Tom. III. Z z",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI Hieroz. Tom. III. Z z"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1716,
+    1691
+   ],
+   [
+    1716,
+    1129
+   ]
+  ],
+  "input_tokens": 3430,
+  "output_tokens": 1283,
+  "cost_usd": 0.0074,
+  "seconds": 13.6
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. <i>De Apum fortitudine.</i> 363",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. <i>De Apum fortitudine.</i> 363"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "πωρον εἶναι αὐτῶν τὴν ὄσφρησιν, <i>quia odoratus meatus habent angustissimos.</i>\n<i>Virgilius</i> de <i>Laviniensibus</i>, ab <i>Aenea</i> in sua urbe obsessis, <i>Aeneidos</i> lib. 12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "πωρον εἶναι αὐτῶν τὴν ὄσφρησιν, <i>quia odoratus meatus habent angustissimos.</i>\n<i>Virgilius</i> de <i>Laviniensibus</i>, ab <i>Aenea</i> in sua urbe obsessis, <i>Aeneidos</i> lib. 12."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Arma ferunt alii, et pergunt defendere muros:</i>\n<i>Inclusas ut cum latebroso in pumice pastor</i>\n<i>Vestigavit apes, fumoque implevit amaro.</i>\n<i>Illae intus trepidae rerum, per cerea castra</i>\n<i>Discurrunt, magnisque acuunt stridoribus iras.</i>\n<i>Volvitur ater odor tectis, nunc murmure caeco</i>\n<i>Intus saxa sonant, vacuas it fumus ad auras.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Arma ferunt alii, et pergunt defendere muros:</i>\n<i>Inclusas ut cum latebroso in pumice pastor</i>\n<i>Vestigavit apes, fumoque implevit amaro.</i>\n<i>Illae intus trepidae rerum, per cerea castra</i>\n<i>Discurrunt, magnisque acuunt stridoribus iras.</i>\n<i>Volvitur ater odor tectis, nunc murmure caeco</i>\n<i>Intus saxa sonant, vacuas it fumus ad auras.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quintus Smyrnaeus</i>, ubi de <i>Ajace, Achillis</i> cadaver contra <i>Trojanos</i> propu-\ngnante, lib. 3. versu 217.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quintus Smyrnaeus</i>, ubi de <i>Ajace, Achillis</i> cadaver contra <i>Trojanos</i> propu-\ngnante, lib. 3. versu 217."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — τοὶ δ᾽ οὐκ ἀπέληγον ὁμοκλῆς,\nἈλλὰ οἱ ἀμφεμάχοντο, περισταδὸν ἀΐσσοντες,\nΑἰὲν ἐπασσύτεροι, τανυχειλέες εὖτε μέλισσαι,\nΑἵθ᾽ ἑὸν περὶ σίμβλον ἀπειρέσιαι ποτέωνται,\n῎Ανδρ᾽ ἀπαμυνόμεναι, ὃδ᾽ ἄρ᾽ ἐκ ἀλέγων ἐπιούσας,\nΚηροὺς ἐκτάμνησι μελίχροας· αἳ δ᾽ ἀκάχωνται\nΚαπνοῦ ὑπαὶ ῥιπῆς ἠ δ᾽ ἀνέρος· ἀλλ᾽ ἄρα καὶ ὡς\nἈντίαι ἀΐσσουσιν, ὃ δ᾽ οὐκ ὄθετ᾽, οὐδ᾽ ἄρα βαιόν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — τοὶ δ᾽ οὐκ ἀπέληγον ὁμοκλῆς,\nἈλλὰ οἱ ἀμφεμάχοντο, περισταδὸν ἀΐσσοντες,\nΑἰὲν ἐπασσύτεροι, τανυχειλέες εὖτε μέλισσαι,\nΑἵθ᾽ ἑὸν περὶ σίμβλον ἀπειρέσιαι ποτέωνται,\n῎Ανδρ᾽ ἀπαμυνόμεναι, ὃδ᾽ ἄρ᾽ ἐκ ἀλέγων ἐπιούσας,\nΚηροὺς ἐκτάμνησι μελίχροας· αἳ δ᾽ ἀκάχωνται\nΚαπνοῦ ὑπαὶ ῥιπῆς ἠ δ᾽ ἀνέρος· ἀλλ᾽ ἄρα καὶ ὡς\nἈντίαι ἀΐσσουσιν, ὃ δ᾽ οὐκ ὄθετ᾽, οὐδ᾽ ἄρα βαιόν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Illi vero minas non intermiserunt, sed impugnarunt ipsum circumquaque irru-\nentes subinde densiores, ut protensis labiis apes, quae circa alveare suum in-\nnumero agmine volant, ut virum</i> (mel vindemiantem) <i>arceant. Qui tamen,\ninvadentes non curans, mellitos favos castrat. Illi autem, quamvis fumi et\nviri impetu torqueantur, tamen contra tendunt. At is ne minimum quidem\nillarum rationem habet.</i> Gregorius Nazianzenus <i>Carmine</i> De vita sua,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Illi vero minas non intermiserunt, sed impugnarunt ipsum circumquaque irru-\nentes subinde densiores, ut protensis labiis apes, quae circa alveare suum in-\nnumero agmine volant, ut virum</i> (mel vindemiantem) <i>arceant. Qui tamen,\ninvadentes non curans, mellitos favos castrat. Illi autem, quamvis fumi et\nviri impetu torqueantur, tamen contra tendunt. At is ne minimum quidem\nillarum rationem habet.</i> Gregorius Nazianzenus <i>Carmine</i> De vita sua,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "᾽Ανίστατ᾽ εὐθὺς ὥσπερ ἐκ καπνοῦ βίας\n᾽Εσμὸς μελισσῶν· — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "᾽Ανίστατ᾽ εὐθὺς ὥσπερ ἐκ καπνοῦ βίας\n᾽Εσμὸς μελισσῶν· — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Surgit statim</i> (populus) <i>ut apum examen vi fumi.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Surgit statim</i> (populus) <i>ut apum examen vi fumi.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Postquam de fumo abunde actum est, sequitur, ut dicamus de apum for-\ntitudine in ea Scripturae loca, quibus cum apibus conferuntur hostes infestissi-\nmi: ut ubi supra, <i>Amorrhaei</i>, de quibus <i>Moses</i>; <i>Et vos persequuti sunt, sicut\nfaciunt apes.</i> Et <i>Psal. CXVIII, 12. David</i> de hostibus suis, <i>Circumdederunt me\nut apes.</i> Et <i>Es. VII, 18. Sibilabit Dominus api, quae est in terra</i> Assur: ubi\nChaldaeus, <i>Clamabit Dominus ad validas copias</i>, דאנון תקיפין כדבריתא, <i>quae\nsunt fortes ut apes, et adducet eas de finibus terrae</i> Assyriae. Et ibidem <i>R. Se-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Postquam de fumo abunde actum est, sequitur, ut dicamus de apum for-\ntitudine in ea Scripturae loca, quibus cum apibus conferuntur hostes infestissi-\nmi: ut ubi supra, <i>Amorrhaei</i>, de quibus <i>Moses</i>; <i>Et vos persequuti sunt, sicut\nfaciunt apes.</i> Et <i>Psal. CXVIII, 12. David</i> de hostibus suis, <i>Circumdederunt me\nut apes.</i> Et <i>Es. VII, 18. Sibilabit Dominus api, quae est in terra</i> Assur: ubi\nChaldaeus, <i>Clamabit Dominus ad validas copias</i>, דאנון תקיפין כדבריתא, <i>quae\nsunt fortes ut apes, et adducet eas de finibus terrae</i> Assyriae. Et ibidem <i>R. Se-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Zz 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Zz 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>lomo</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>lomo</i>,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1812,
+    1126
+   ],
+   [
+    1812,
+    1690
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1716,
+  "cost_usd": 0.0684,
+  "seconds": 26.8,
+  "vote": "6 decisions from v3-327-402"
+ }
+}

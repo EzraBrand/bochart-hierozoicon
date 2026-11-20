@@ -126,6 +126,10 @@ RULES["locustae-nomina"] = [GRASSHOPPER]
 for e in ("locustae-loca", "locustae-aegyptiae", "locustae-ioel1", "locustae-ioel2", "locustae-amos"):
     RULES[e] = [GRASSHOPPER]
 
+# tranche 11: John's locusts and the mystical locusts
+for e in ("locustae-ioannis", "locustae-mysticae"):
+    RULES[e] = [GRASSHOPPER]
+
 
 def main():
     entries = sys.argv[1:] or sorted(p.name for p in ENTRIES.iterdir() if p.name in RULES)

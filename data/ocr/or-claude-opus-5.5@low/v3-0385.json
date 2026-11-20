@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII. <i>De melle et cera.</i> 385",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII. <i>De melle et cera.</i> 385"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "tione aenigmatis versu 18. <i>Quid dulcius est melle? Et quid acrius est leone?</i> Ut\nlib. 4. <i>Fastorum</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "tione aenigmatis versu 18. <i>Quid dulcius est melle? Et quid acrius est leone?</i> Ut\nlib. 4. <i>Fastorum</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>genus acre leonum.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>genus acre leonum.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Porro, quia mel non solum dulce est, sed et ἀρχὴ γλυκασμάτων· inde\nest, quod, quaecunque vel sunt gustui dulcia, vel animo grata et jucunda, cum\n<i>melle</i> conferuntur. Sic de <i>Manna</i> dicitur <i>Exod. XVI, 31. Et sapor ejus erat</i>\nכצפיחת בדבש, <i>ut placentae cum melle</i>, id est, <i>mellitae.</i> Cibus enim tam dulcis\nfuit, ut ab auctore <i>Sapientiae</i> haberi videatur pro <i>ambrosiae genere</i>, cum illum\nvocat εὔτηκτον γένος ἀμβροσίας τροφῆς cap. XIX, 20. Quo ipso nomine <i>mel</i>\nvocatur a veteri <i>Poeta</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Porro, quia mel non solum dulce est, sed et ἀρχὴ γλυκασμάτων· inde\nest, quod, quaecunque vel sunt gustui dulcia, vel animo grata et jucunda, cum\n<i>melle</i> conferuntur. Sic de <i>Manna</i> dicitur <i>Exod. XVI, 31. Et sapor ejus erat</i>\nכצפיחת בדבש, <i>ut placentae cum melle</i>, id est, <i>mellitae.</i> Cibus enim tam dulcis\nfuit, ut ab auctore <i>Sapientiae</i> haberi videatur pro <i>ambrosiae genere</i>, cum illum\nvocat εὔτηκτον γένος ἀμβροσίας τροφῆς cap. XIX, 20. Quo ipso nomine <i>mel</i>\nvocatur a veteri <i>Poeta</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — ἡ δὲ μελισσῶν\nἈμβροσίη, πυκναί τ' ἰτρίνεαι ποπάδες·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — ἡ δὲ μελισσῶν\nἈμβροσίη, πυκναί τ' ἰτρίνεαι ποπάδες·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Apum ambrosia, et frequentes placentae pertenues.</i> Ita citat <i>Suidas</i> in Ποπάδες.\nEt volumen <i>Propheticum Ezechieli</i> et <i>Iohanni</i> fuit <i>melle dulcius</i>, Ezech. III, 3.\nApoc. X, 9. 10. Ut mandata Domini, de quibus <i>David</i>, Psal. XIX, 11. <i>Melle\ndulciora sunt et distillatione favorum.</i> Et <i>Psal. CXIX, 103. Quam dulcia fuerunt\npalato meo eloquia tua, et prae melle ori meo.</i> Divina item sapientia <i>Prov.\nXXIV, 13. 14. Fili mi, comede mel, quia bonum est, et favum, qui dulcis est\npalato tuo. Sic cognitio sapientiae</i> (dulcis erit) <i>animae tuae, si eam inveneris</i>, ⟦p. 524⟧\netc. Et <i>Sirach. XXIV, 19. 20.</i> (al. <i>26. 27.</i>) ipsa de sapientia, <i>Accedite ad me,\nqui mei estis cupidi, et de proventibus meis saturamini: nam memoria mei melle\ndulcior est, et haereditas mea mellis favo.</i> Graece, Ὑπὲρ μέλιτος κηροῦ, alii κυ-\nροῦ, alii κληροῦ, alii κηρίου, alii κυρίου. Fortasse auctor uno verbo scripserat\nμελικήρου, nempe μελίκηρος est <i>favus.</i> Vox non exstat in <i>Lexicis</i>, sed in <i>Theo-\ncrito</i> legitur <i>Idyll.</i> 20.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Apum ambrosia, et frequentes placentae pertenues.</i> Ita citat <i>Suidas</i> in Ποπάδες.\nEt volumen <i>Propheticum Ezechieli</i> et <i>Iohanni</i> fuit <i>melle dulcius</i>, Ezech. III, 3.\nApoc. X, 9. 10. Ut mandata Domini, de quibus <i>David</i>, Psal. XIX, 11. <i>Melle\ndulciora sunt et distillatione favorum.</i> Et <i>Psal. CXIX, 103. Quam dulcia fuerunt\npalato meo eloquia tua, et prae melle ori meo.</i> Divina item sapientia <i>Prov.\nXXIV, 13. 14. Fili mi, comede mel, quia bonum est, et favum, qui dulcis est\npalato tuo. Sic cognitio sapientiae</i> (dulcis erit) <i>animae tuae, si eam inveneris</i>, ⟦p. 524⟧\netc. Et <i>Sirach. XXIV, 19. 20.</i> (al. <i>26. 27.</i>) ipsa de sapientia, <i>Accedite ad me,\nqui mei estis cupidi, et de proventibus meis saturamini: nam memoria mei melle\ndulcior est, et haereditas mea mellis favo.</i> Graece, Ὑπὲρ μέλιτος κηροῦ, alii κυ-\nροῦ, alii κληροῦ, alii κηρίου, alii κυρίου. Fortasse auctor uno verbo scripserat\nμελικήρου, nempe μελίκηρος est <i>favus.</i> Vox non exstat in <i>Lexicis</i>, sed in <i>Theo-\ncrito</i> legitur <i>Idyll.</i> 20."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — ἐκ στομάτων δὲ\n Ἔῤῥεέ μοι φωνὰ γλυκερωτέρα, ἢ μελικήρω·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — ἐκ στομάτων δὲ\n Ἔῤῥεέ μοι φωνὰ γλυκερωτέρα, ἢ μελικήρω·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ex ore autem fluebat mihi vox dulcior favo.</i> Unde illam potuit desumere <i>Sira-\nchides.</i> Scripsit enim paucis post <i>Theocritum</i> annis, et uterque in <i>Aegypto.</i>\nHuic conjecturae favent <i>Syra</i> versio et <i>Arabica.</i> Utraque enim <i>favum</i> simplici-\nter hic habet, non <i>favum mellis.</i> Sed <i>Hieronymus, mel et favum.</i> Ibidem cap.\nXLIX, 2. <i>Iosiae</i> memoria sive mentio ἐν παντὶ στόματι ὡς μέλι γλυκανθήσεται,\n<i>in omni ore ut mel dulcescet.</i> Et de <i>sponso</i> legitur in Chaldaeo paraphraste <i>Cantic.\nV, 6.</i> מלי מוריגוי מתוקן כרבשא, <i>Verba palati ejus dulcia sunt sicut mel;</i> pro\n<i>Hebraeis</i>, חכו ממחקים, <i>Palatum ejus dulcedines.</i> Et de <i>sponsa</i> Cant. IV, 11.\n<i>Favum stillant labia tua, mel et lac subsunt linguae tuae.</i> Sic de <i>Nestore</i> poeta\n<i>Iliad. α.</i> versu 249.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ex ore autem fluebat mihi vox dulcior favo.</i> Unde illam potuit desumere <i>Sira-\nchides.</i> Scripsit enim paucis post <i>Theocritum</i> annis, et uterque in <i>Aegypto.</i>\nHuic conjecturae favent <i>Syra</i> versio et <i>Arabica.</i> Utraque enim <i>favum</i> simplici-\nter hic habet, non <i>favum mellis.</i> Sed <i>Hieronymus, mel et favum.</i> Ibidem cap.\nXLIX, 2. <i>Iosiae</i> memoria sive mentio ἐν παντὶ στόματι ὡς μέλι γλυκανθήσεται,\n<i>in omni ore ut mel dulcescet.</i> Et de <i>sponso</i> legitur in Chaldaeo paraphraste <i>Cantic.\nV, 6.</i> מלי מוריגוי מתוקן כרבשא, <i>Verba palati ejus dulcia sunt sicut mel;</i> pro\n<i>Hebraeis</i>, חכו ממחקים, <i>Palatum ejus dulcedines.</i> Et de <i>sponsa</i> Cant. IV, 11.\n<i>Favum stillant labia tua, mel et lac subsunt linguae tuae.</i> Sic de <i>Nestore</i> poeta\n<i>Iliad. α.</i> versu 249."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Ccc",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "BOCHARTI <i>Hieroz.</i> Tom. III. Ccc"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "grc",
+   "text": "Τοῦ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τοῦ"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1794,
+    1683
+   ],
+   [
+    1794,
+    1125
+   ]
+  ],
+  "input_tokens": 8525,
+  "output_tokens": 1930,
+  "cost_usd": 0.0727,
+  "seconds": 25.2
+ }
+}

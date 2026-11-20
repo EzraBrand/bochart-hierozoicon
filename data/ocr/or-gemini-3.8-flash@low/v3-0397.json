@@ -1,0 +1,122 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. XII.\nDe melle et cera.\n397",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. XII.\nDe melle et cera.\n397"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Alius apis labor est <i>cera</i>, melle non minus utilis. Ex cera enim cerei fiunt,\nquibus tenebrae fugantur. <i>Martialis</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Alius apis labor est <i>cera</i>, melle non minus utilis. Ex cera enim cerei fiunt,\nquibus tenebrae fugantur. <i>Martialis</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Hic tibi nocturnos praestabit cereus ignes</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hic tibi nocturnos praestabit cereus ignes</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Eadem praestat usum glutinis. <i>Virgilius</i>,\n<i>Pan primus calamos cera conjungere plures</i>\n<i>Instituit</i>. — — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Eadem praestat usum glutinis. <i>Virgilius</i>,\n<i>Pan primus calamos cera conjungere plures</i>\n<i>Instituit</i>. — — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Nec minus cera, quam melle condiebantur cadavera. Sic <i>Herodotus</i> libro quar-\nto <i>Scythas</i> refert regis mortui corpus κατακεκηρωμένον per totam <i>Scythiam</i> cir-\ncumtulisse, antequam terra conderent. Et libro primo idem de <i>Persis</i>, κατα-\nκηρώσαντες τὸν νεκρὸν γῇ κρύπτουσι. Unde <i>Cicero</i> libro primo <i>Tusculanarum</i>,\n<i>Persae jam cera circumlitos condiunt, ut quam maxime permaneant corpora</i>. Et ⟦p. 531.⟧\n<i>Strabo</i> libro decimo quinto, Θάπτουσι δὲ κηρῷ περιπλάσσοντες τὰ σώματα.\nItaque موميا <i>mumiae</i> vox notissima, deduci videtur ex موم <i>mum</i>. <i>Persae</i>\n<i>ceram</i>, et <i>Arabes</i> προπόλιν sic appellant. Et <i>Esaiae</i> verba capitis sexagesimi\nquarti versu secundo, כקרוח אש המסים מים, <i>Seniores</i> sic reddunt, ῾Ως κηρὸς\nἀπὸ προσώπου πυρὸς τήκεται. Quia pro מים, id est, <i>aquis</i>, מום, id est, <i>ce-</i>\n<i>ram</i>, legerunt. Et כקדם אש, <i>ut coram igne</i>, pro כקרוח אש, <i>ut conflagrat</i>\n<i>ignis</i>. Itaque jam tum pro <i>cera</i> erat in usu vox מום <i>mum</i>, unde <i>mumia</i>. Cerae\netiam multus fuit usus in scriptura, et pugillaribus, et in pictura, et in fuco,\net in sigillis, qui hodieque durat. Sed haec sunt alterius loci.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nec minus cera, quam melle condiebantur cadavera. Sic <i>Herodotus</i> libro quar-\nto <i>Scythas</i> refert regis mortui corpus κατακεκηρωμένον per totam <i>Scythiam</i> cir-\ncumtulisse, antequam terra conderent. Et libro primo idem de <i>Persis</i>, κατα-\nκηρώσαντες τὸν νεκρὸν γῇ κρύπτουσι. Unde <i>Cicero</i> libro primo <i>Tusculanarum</i>,\n<i>Persae jam cera circumlitos condiunt, ut quam maxime permaneant corpora</i>. Et ⟦p. 531.⟧\n<i>Strabo</i> libro decimo quinto, Θάπτουσι δὲ κηρῷ περιπλάσσοντες τὰ σώματα.\nItaque موميا <i>mumiae</i> vox notissima, deduci videtur ex موم <i>mum</i>. <i>Persae</i>\n<i>ceram</i>, et <i>Arabes</i> προπόλιν sic appellant. Et <i>Esaiae</i> verba capitis sexagesimi\nquarti versu secundo, כקרוח אש המסים מים, <i>Seniores</i> sic reddunt, ῾Ως κηρὸς\nἀπὸ προσώπου πυρὸς τήκεται. Quia pro מים, id est, <i>aquis</i>, מום, id est, <i>ce-</i>\n<i>ram</i>, legerunt. Et כקדם אש, <i>ut coram igne</i>, pro כקרוח אש, <i>ut conflagrat</i>\n<i>ignis</i>. Itaque jam tum pro <i>cera</i> erat in usu vox מום <i>mum</i>, unde <i>mumia</i>. Cerae\netiam multus fuit usus in scriptura, et pugillaribus, et in pictura, et in fuco,\net in sigillis, qui hodieque durat. Sed haec sunt alterius loci."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Cum cera, ad ignem liquescente, multa conferunt sacri scriptores. Sic <i>Da-</i>\n<i>vid</i> Psalm. XXII, 15. <i>Cor meum simile cerae est, liquescit, in visceribus meis</i>. Et\n<i>Psal. LXVIII</i>, 3. <i>Ut coram igne cera liquescit, ita coram Deo improbi pereunt</i>.\nEt <i>Psal. XCVII</i>, 5. <i>Montes ut cera liquefiunt coram Domino</i>. Et <i>Mich. I</i>, 4.\n<i>Liquefient montes sub eo, et valles diffindentur, ut cera coram igne</i>. Unde scri-\nptor libri <i>Iudith</i>, quisquis est, capitis decimi sexti versu decimo octavo, <i>Petrae</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cum cera, ad ignem liquescente, multa conferunt sacri scriptores. Sic <i>Da-</i>\n<i>vid</i> Psalm. XXII, 15. <i>Cor meum simile cerae est, liquescit, in visceribus meis</i>. Et\n<i>Psal. LXVIII</i>, 3. <i>Ut coram igne cera liquescit, ita coram Deo improbi pereunt</i>.\nEt <i>Psal. XCVII</i>, 5. <i>Montes ut cera liquefiunt coram Domino</i>. Et <i>Mich. I</i>, 4.\n<i>Liquefient montes sub eo, et valles diffindentur, ut cera coram igne</i>. Unde scri-\nptor libri <i>Iudith</i>, quisquis est, capitis decimi sexti versu decimo octavo, <i>Petrae</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Ddd 3\na con-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ddd 3\na con-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "esse haec, quam et lib. III. Dissert. II Cap.\nII. Sect. II. pag. 140. commendat, „mel et\nfermentum ab altari suo rejecisse Deum,\neodem temporis articulo, quo salem adhi-\nberi jussit, ut tacite significaret, salem puri-\noris antiquitatis usu cohonestatum, mel au-\ntem et fermentum (inter alia multa) nuper\nexcogitata fuisse, et, ob rationem aliquam\ne theologiae profanae mysteriis arcessitam,\nsacrificiis addita. Cum enim Deus legem\ntraderet, id egisse videtur, ut cultum pu-\nblicum a ritibus novis et superstitionem\nolentibus liberaret, eumque ad simplicita-\ntem, patrum aevo receptam, reduceret.“\nEadem tamen fere est sententia SYKESII,\nAngli, in libro, quem inscripsit: <i>an Essay</i>\n<i>on the nature, design and origin of Sa-</i>\n<i>crifices</i>, Lond. 1746. pag. 117. seqq. vers.\ngerm. (quae prodiit Halae 1778. cum notis\net praefatione I. S. Semleri).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "esse haec, quam et lib. III. Dissert. II Cap.\nII. Sect. II. pag. 140. commendat, „mel et\nfermentum ab altari suo rejecisse Deum,\neodem temporis articulo, quo salem adhi-\nberi jussit, ut tacite significaret, salem puri-\noris antiquitatis usu cohonestatum, mel au-\ntem et fermentum (inter alia multa) nuper\nexcogitata fuisse, et, ob rationem aliquam\ne theologiae profanae mysteriis arcessitam,\nsacrificiis addita. Cum enim Deus legem\ntraderet, id egisse videtur, ut cultum pu-\nblicum a ritibus novis et superstitionem\nolentibus liberaret, eumque ad simplicita-\ntem, patrum aevo receptam, reduceret.“\nEadem tamen fere est sententia SYKESII,\nAngli, in libro, quem inscripsit: <i>an Essay</i>\n<i>on the nature, design and origin of Sa-</i>\n<i>crifices</i>, Lond. 1746. pag. 117. seqq. vers.\ngerm. (quae prodiit Halae 1778. cum notis\net praefatione I. S. Semleri)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1769,
+    1490
+   ],
+   [
+    1769,
+    1330
+   ]
+  ],
+  "input_tokens": 3416,
+  "output_tokens": 1303,
+  "cost_usd": 0.0074,
+  "seconds": 11.5
+ }
+}

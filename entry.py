@@ -634,6 +634,38 @@ ENTRIES = {
         "start": r"^CAP\.\s*VI\.", "end": r"^CAP\.\s*VII\.", "first_col": 483,
         "about": "the chapter on the locusts in Amos: the gazam that ate the gardens, vineyards, figs and olives with blight and mildew (Amos 4:9), and the גוב gob formed at the late growth after the king's mowings (Amos 7:1)",
         "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "rubigo" -> "blight"; "uredo" -> "mildew"; "gob" stays as printed; "serotinum" -> "the late growth"; "tonsiones regis" -> "the king\'s mowings";'},
+    # Tranche 11, 20-Nov-2026: Part 2, Book 4 (the insects), chs. 7-12 (John's locusts, the mystical locusts, the fly,
+    # the bees, honey and wax), vol. 3, pp. 326-402. Drafted by draft_entries.py. All steps ran synchronously.
+    "locustae-ioannis": {"vol": 3, "pages": list(range(326, 335)),
+        "title": 'Part 2, Book 4, chapter 7: That John the Baptist ate real locusts (vol. 3, pp. 326–334)',
+        "start": r"^CAP\.\s*VII\.", "end": r"^CAP\.\s*VIII\.",
+        "about": 'the chapter that shows that the ἀκρίδες eaten by John the Baptist (Matt 3:4, Mark 1:6) were real locusts and not buds, wild pears or a kind of fish, with the evidence of the Law (Lev 11:22), the Greek and Latin authors, the Talmud and the Arabs on the peoples who eat locusts',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "akrides" stays as printed; "mel sylvestre" -> "wild honey"; "acridophagi" -> "Acridophagi" (locust-eaters);'},
+    "locustae-mysticae": {"no_id": {"Gesner": 99}, "vol": 3, "pages": list(range(334, 342)),
+        "title": 'Part 2, Book 4, chapter 8: On the mystical locusts (vol. 3, pp. 334–341)',
+        "start": r"^CAP\.\s*VIII\.", "end": r"^CAP\.\s*IX\.", "first_col": 493,
+        "about": 'the chapter on the two passages where the locusts are taken in a mystical sense: Eccl 12:5 (ויסתבל החגב, the grasshopper becomes a burden, of old age) and the locusts that come up from the abyss in Rev 9:1-11, with their faces of men, hair of women, teeth of lions and breastplates of iron, and their king Abaddon, Apollyon',
+        "terms": _T9 + '"locusta" -> "locust"; "bruchus" -> "bruchus"; "arbe", "gazam", "jelek", "chasil", "gob", "chagab" stay as printed; "abyssus" -> "the abyss"; "Abaddon", "Apollyon" stay as printed; "lorica" -> "breastplate";'},
+    "musca": {"vol": 3, "pages": list(range(341, 353)),
+        "title": 'Part 2, Book 4, chapter 9: On the fly (vol. 3, pp. 341–352)',
+        "start": r"^CAP\.\s*IX\.", "end": r"^CAP\.\s*X\.", "first_col": 496,
+        "about": "the chapter on the fly: the seven kinds of fly named in Scripture and its old versions, זבוב zebub, the dead flies that make the perfumer's ointment stink (Eccl 10:1), the fly from the rivers of Egypt (Isa 7:18), and Baal-zebub, the god of Ekron (2 Kgs 1:2), with the fly-gods and fly-chasers of the Greeks",
+        "terms": _T9 + '"musca" -> "fly"; "zebub" stays as printed; "culex" -> "gnat"; "Baal-zebub", "Beel-zebub" stay as printed; "myiagrus", "apomyius" stay as printed;'},
+    "apes-leo": {"no_id": {"Aldrovandi": 99}, "vol": 3, "pages": list(range(352, 366)),
+        "title": "Part 2, Book 4, chapter 10: The name and origin of the bees; how they are found in the lion's carcass; that they hear, are frightened by the sound of brass, driven out by smoke, and are brave (vol. 3, pp. 352–365)",
+        "start": r"^CAP\.\s*X\.", "end": r"^CAP\.\s*XI\.",
+        "about": "the chapter on the name of the bee, דבורה debora (from דבר), and the passages on bees in Scripture: the swarm and honey in the carcass of Samson's lion (Judg 14:8), the bees that pursue the Israelites (Deut 1:44) and surround the Psalmist (Ps 118:12), how they hear, are frightened by the ringing of brass, driven out by smoke, and are brave, and the old story of bees born from a carcass (bugonia)",
+        "terms": _T9 + '"apis" -> "bee"; "examen" -> "swarm"; "favus" -> "honeycomb"; "alveare" -> "hive"; "debora" stays as printed; "fucus" -> "drone"; "bugonia" stays as printed; "cadaver" -> "carcass";'},
+    "apes-patres": {"no_id": {"Jonathan": 99}, "vol": 3, "pages": list(range(365, 375)),
+        "title": 'Part 2, Book 4, chapter 11: Some passages on the honey-making of the bees that the Greek Fathers cite as if from Scripture (vol. 3, pp. 365–374)',
+        "start": r"^CAP\.\s*XI\.", "end": r"^CAP\.\s*XII\.", "first_col": 510,
+        "about": 'the chapter on the bee in the Greek Bible: the verse that the Septuagint adds to Prov 6:8 (ἢ πορεύθητι πρὸς τὴν μέλισσαν, go to the bee and learn how she works), which the Greek Fathers cite as Scripture, and Sir 11:3 (the bee is small among flying creatures, but her fruit is the chief of sweet things)',
+        "terms": _T9 + '"apis" -> "bee"; "examen" -> "swarm"; "favus" -> "honeycomb"; "alveare" -> "hive"; "debora" stays as printed; "fucus" -> "drone"; "operaria" -> "worker";'},
+    "mel-cera": {"no_id": {"Jonathan": 2}, "vol": 3, "pages": list(range(374, 403)),
+        "title": 'Part 2, Book 4, chapter 12: On honey and wax (vol. 3, pp. 374–402)',
+        "start": r"^CAP\.\s*XII\.", "end": r"^CAP\.\s*XIII\.",
+        "about": "the chapter on honey and wax: דבש debas, the name of bees' honey and of the syrup of dates and grapes, the honey from the rock (Deut 32:13, Ps 81:17), wild honey, the honey of the first fruits (2 Chr 31:5) and its exclusion from the offerings by fire (Lev 2:11), the honeycomb נפת nopheth, and wax (דונג), with the Arabic and Greek names",
+        "terms": _T9 + '"apis" -> "bee"; "examen" -> "swarm"; "favus" -> "honeycomb"; "alveare" -> "hive"; "debora" stays as printed; "fucus" -> "drone"; "mel" -> "honey"; "cera" -> "wax"; "debas", "nopheth", "tsuph" stay as printed; "dactyli" -> "dates"; "sapa", "defrutum" -> "boiled-down must";'},
 }
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the voted OCR of pages without gold text, each checked on the scan.
@@ -859,7 +891,11 @@ FIXES = {
     (3, 108): [('דמונטייא,', 'דמונ״טייא,')],
     (3, 109): [('quibus רוכיפת est', 'quibus דוכיפת est'), ('nomine רוכיפת', 'nomine דוכיפת')],
     (3, 111): [('Ἄστη', 'Ἀστῆ')],
+    # GitHub issues 2 and 3 (the owner, 15-Nov-2026): ת״ר (Tradiderunt magistri nostri) at the end of p. 120, read
+    # as ה״ר and put after הנץ; ה״ז (הרי זה) twice and בדיקה on p. 122
+    (3, 120): [('ubi supra, הנץ ה״ר', 'ubi supra, ת״ר הנץ')],
     (3, 121): [('לרעתם', 'לדעתם')],
+    (3, 122): [('ובשמותיהן הז״ אוכל', 'ובשמותיהן ה״ז אוכל'), ('צריך\nבריקה', 'צריך\nבדיקה'), ('אלו הז״ עוף', 'אלו ה״ז עוף')],
     # tranche 8 (vol. 3, pp. 126-194; scan check 16-Nov-2026): the print differs from the vote's text. Not certain: the
     # Syriac of pp. 127, 167 and 181, the Arabic themes of p. 186 (سفع, as on p. 184) and the two words of p. 185.
     (3, 127): [('ܚܘܝܐ', 'ܚܘܝܘܢܐ'), ('متمعط', 'متعط')],
@@ -901,7 +937,10 @@ FIXES = {
     # first three alike, as כמין; not certain
     (3, 205): [('פתנא,', 'פתנה,'), ('ܫܦܝܦܘܢܐ,', 'ܡܥܪܘܢܐ,'), ('صفرون,', 'معرون,'), ('Samaritani\n[?] ·', 'Samaritani\nࠊࠌࠉࠍ ·')],
     (3, 206): [('معرفة.', 'مقرنة.')],
-    (3, 207): [('meraste cornu-', 'ceraste cornu-')],
+    # GitHub issue 4 (20-Nov-2026): Koph and Ajin change places (ארקא/ארעא, קטר/עטר, קסם/עצמון); the readers gave ܦܣ for ܛܪ
+    # and ר for ק. The fourth Syriac word begins with ܥ and ends with ܐ; its middle letters are not certain.
+    (3, 207): [('meraste cornu-', 'ceraste cornu-'), ('et ܐܬܢܢ:', 'et ܐܪܩܐ:'), ('ܩܘܦܣ et ܟܦܣ:', 'ܩܛܪ et ܥܛܪ:'),
+               ('ܩܘܦܣܐ et ܟܦܣܐ.', 'ܩܘܪܐ et ܥ[?]ܐ.'), ('Ionathani</i>\nרקם', 'Ionathani</i>\nקסם')],
     (3, 208): [('نلك', 'ذلك')],
     (3, 218): [('15. ܛܒ ܓܝܪ ܙܩܦ ܠܡܠܘܗܝ ܠܡܠܝܢ', '15. ܛܒ ܓܝܪ ܙܩܦ ܢܦܫܗ ܠܘܩܒܠ ܡܠܝܢ')],
     # p. 221: the margin prints "p. 248.", a printer's error for 428 (p. 222 has 429)
@@ -953,6 +992,31 @@ FIXES = {
     (3, 308): [('πȣ', 'που')],
     (3, 317): [('צחנתו:', 'צחנהו:')],
     (3, 321): [('^{a})', '^{a)}')],
+    # tranche 11 (vol. 3, pp. 327-402; scan check 20-Nov-2026): the print differs from the vote's text. Printer's errors kept:
+    # שרה for שדה (p. 340), sadinh (p. 391), morra (p. 396). Not certain: the Syriac words of pp. 360 (ܡܬܬܢܢܢ), 380 and 399.
+    (3, 330): [('ούτοσὶ', 'οὑτοσὶ')],
+    (3, 331): [('اكل\nالجران', 'اكل\nالجراد')],
+    (3, 335): [('ﺷﺒﻞ,', 'شبل,')],
+    (3, 340): [('שדה,', 'שרה,'), ('ἀγρου.', 'ἀγροῦ.')],
+    (3, 343): [('אורעי רזני\nזובורי', 'אורעי וזני\nזובורי')],
+    (3, 348): [('ὁπότε οὖν δειπνοιεν', 'ὁπότε ἂν δειπνοιεν')],
+    (3, 353): [('ܟܘܒܪܐ', 'ܕܒܘܪܐ')],
+    (3, 362): [('π[?]τρης', 'πέτρης')],
+    (3, 364): [('desere e coacti', 'deserere coacti')],
+    (3, 365): [('(6)', '(5)')],
+    (3, 366): [('قوتها فهي [?]', 'قوتها قدمت لانها اكرمت')],
+    (3, 372): [('πού', 'που')],
+    (3, 378): [('εἰς ῎Αμι-', 'εἰς Ἄμι-')],
+    (3, 384): [('προσακτικὸν\nτοῦ', 'προστακτικὸν\nτοῦ')],
+    (3, 391): [('ܥܡܛܐ', 'عليه')],
+    (3, 400): [('πρoῦχον', 'προῦχον')],
+    # p. 345 (note): Rosenmüller's Syriac of Eccl 10:1, five lines left as [?] by the OCR. Read by Claude on the scan with
+    # the Peshitta (ETCBC) as a guide, consonants only; the print has ܡܣܪܚܝܢ and ܠܡܐܢܐ where the ETCBC text has ܡܣܪܝܢ
+    # ܡܐܢܐ, and ܗܝ before ܡܢ. Not certain in the details. p. 399: the Peshitta's word for נכאת (Gen 37:25) and the
+    # Samaritan Targum's קטף (ࠒࠈࠐ), both read on the scan.
+    (3, 345): [('παράδοξα', 'παραδόξου'), ('δυνά-', ''), ('vertit: [?]\n[?]\n[?]\n[?]\n[?]\n<i>Sicut',
+                'vertit: ܐܝܟ ܕܒ̈ܒܐ\nܕܡܝܬܝܢ ܡܣܪܚܝܢ ܠܡܐܢܐ\nܕܡܫܚܐ ܒܣܝܡܐ. ܝܩܝܪܐ\nܗܝ ܡܢ ܚܟܡܬܐ ܘܡܢ ܣܘܓܐܐ\nܕܬܫܒܘܚܬܐ ܣܟܠܘܬܐ ܩܠܝܠܐ\n<i>Sicut')],
+    (3, 399): [('Syrus ܢܘܬܐ', 'Syrus ܪ̈ܗܛܢܐ'), ('Samaritanus [?] <i>balsamum', 'Samaritanus ࠒࠈࠐ <i>balsamum')],
     # spot-check of tranche 8: salich (the print has يسلخ two lines above; the word itself was not read again on the
     # scan); the themes of the note are those of p. 184 (سفع); the στ ligature
     (3, 153): [('اسود شالخ', 'اسود سالخ')],

@@ -1,0 +1,62 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "340 De Locustis mysticis. P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "340 De Locustis mysticis. P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "tur in terram, ex <i>Acridophagorum</i> voragine non prodit, sed ex abyssi puteo,\nquae <i>inferorum</i> est vorago. 2. Quod neque terrae gramen, neque arbores agri\nlaedunt, sed solum homines, qui non habent Dei signum in frontibus suis.\n3. Quod in caudis habent scorpionum aculeos, quibus homines torquent crucia-\ntu, qui similis est cruciatui scorpionis, cum percussit hominem. 4. His addun-\ntur coronae in capitibus auri specie. 5. Et hominum facies. 6. Et muliebres\ncapilli, quae omnes notae in veris locustis desunt. Denique verae locu-\nstae regem non habent, <i>Prov.</i> XXX, 27. At hae regem habent, eumque non\nsui generis, sed abyssi angelum, qui <i>Hebraice</i> אבדון <i>Abaddon</i> dicitur; et <i>Grae-\nce</i> Ἀπολλύων, non Ἀπόλλων, ut habent <i>Syrus</i> et <i>Aethiops;</i> utrumque a <i>per-\ndendo</i> sumptum. Nam אבד <i>abad</i> Verbum est ἀπολλύειν, et אבדון <i>abaddon</i> est\nἀπώλεια. Et locustae, si regem haberent, illi conveniret hoc nomen; quia ⟦p. 496.⟧\nlocustarum proprium est perdere. Hinc <i>Ioel I, 11. Hebraice</i> אבד קציר שרה,\n<i>Periit agri messis.</i> Et <i>Graece</i>, Ἀπώλωλε τρύγητος ἐξ ἀγρõ, <i>Periit ex agro\nvindemia,</i> a locustis scilicet perdita. Sed hic ut aliae locustae, ita etiam alia\nperditio intelligitur, ab ea longe diversa, quam vulgares locustae inferunt.\nCujus auctor abyssi angelus, id est, diabolus, qui, ipse pridem perditus, in id\nsolum incumbit, ut nos quoque in idem perditionis barathrum devolvat, atque\ndetrudat. Quod cum faciat locustarum ministerio, quae a <i>Iohanne</i> designantur,\noperae pretium esset, docere, quaenam sint illae locustae, et suis notis illas in-\nsignire; sed ab hac disquisitione certis de caussis abstinemus, jam ad alia\ntransituri.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "tur in terram, ex <i>Acridophagorum</i> voragine non prodit, sed ex abyssi puteo,\nquae <i>inferorum</i> est vorago. 2. Quod neque terrae gramen, neque arbores agri\nlaedunt, sed solum homines, qui non habent Dei signum in frontibus suis.\n3. Quod in caudis habent scorpionum aculeos, quibus homines torquent crucia-\ntu, qui similis est cruciatui scorpionis, cum percussit hominem. 4. His addun-\ntur coronae in capitibus auri specie. 5. Et hominum facies. 6. Et muliebres\ncapilli, quae omnes notae in veris locustis desunt. Denique verae locu-\nstae regem non habent, <i>Prov.</i> XXX, 27. At hae regem habent, eumque non\nsui generis, sed abyssi angelum, qui <i>Hebraice</i> אבדון <i>Abaddon</i> dicitur; et <i>Grae-\nce</i> Ἀπολλύων, non Ἀπόλλων, ut habent <i>Syrus</i> et <i>Aethiops;</i> utrumque a <i>per-\ndendo</i> sumptum. Nam אבד <i>abad</i> Verbum est ἀπολλύειν, et אבדון <i>abaddon</i> est\nἀπώλεια. Et locustae, si regem haberent, illi conveniret hoc nomen; quia ⟦p. 496.⟧\nlocustarum proprium est perdere. Hinc <i>Ioel I, 11. Hebraice</i> אבד קציר שרה,\n<i>Periit agri messis.</i> Et <i>Graece</i>, Ἀπώλωλε τρύγητος ἐξ ἀγρõ, <i>Periit ex agro\nvindemia,</i> a locustis scilicet perdita. Sed hic ut aliae locustae, ita etiam alia\nperditio intelligitur, ab ea longe diversa, quam vulgares locustae inferunt.\nCujus auctor abyssi angelus, id est, diabolus, qui, ipse pridem perditus, in id\nsolum incumbit, ut nos quoque in idem perditionis barathrum devolvat, atque\ndetrudat. Quod cum faciat locustarum ministerio, quae a <i>Iohanne</i> designantur,\noperae pretium esset, docere, quaenam sint illae locustae, et suis notis illas in-\nsignire; sed ab hac disquisitione certis de caussis abstinemus, jam ad alia\ntransituri."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "CAP.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1981,
+    1703
+   ],
+   [
+    1981,
+    1137
+   ]
+  ],
+  "input_tokens": 3450,
+  "output_tokens": 719,
+  "cost_usd": 0.0053,
+  "seconds": 9.1
+ }
+}

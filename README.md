@@ -103,6 +103,12 @@ Part of a series with [low-flora](https://github.com/EzraBrand/low-flora),
 | Part 2, Book 4, ch. 4: the locusts of Joel, chapter 1 | III, 289–305 | [Latin](data/entries/locustae-ioel1/la.md) · [English](data/entries/locustae-ioel1/en.md) | 〃 |
 | Part 2, Book 4, ch. 5: the locusts of Joel, chapter 2 | III, 305–320 | [Latin](data/entries/locustae-ioel2/la.md) · [English](data/entries/locustae-ioel2/en.md) | 〃 |
 | Part 2, Book 4, ch. 6: the locusts of Amos | III, 320–326 | [Latin](data/entries/locustae-amos/la.md) · [English](data/entries/locustae-amos/en.md) | 〃 |
+| Part 2, Book 4, ch. 7: John the Baptist ate real locusts | III, 326–334 | [Latin](data/entries/locustae-ioannis/la.md) · [English](data/entries/locustae-ioannis/en.md) | $16.92 for the 6 chapters (76 new pages; tranche 11, 20-Nov-2026; synchronous calls) |
+| Part 2, Book 4, ch. 8: the mystical locusts (Eccl 12:5, Rev 9) | III, 334–341 | [Latin](data/entries/locustae-mysticae/la.md) · [English](data/entries/locustae-mysticae/en.md) | 〃 |
+| Part 2, Book 4, ch. 9: the fly | III, 341–352 | [Latin](data/entries/musca/la.md) · [English](data/entries/musca/en.md) | 〃 |
+| Part 2, Book 4, ch. 10: the bees: the name, the lion's carcass, smoke and brass | III, 352–365 | [Latin](data/entries/apes-leo/la.md) · [English](data/entries/apes-leo/en.md) | 〃 |
+| Part 2, Book 4, ch. 11: the bees of the Greek Fathers (LXX Prov 6:8) | III, 365–374 | [Latin](data/entries/apes-patres/la.md) · [English](data/entries/apes-patres/en.md) | 〃 |
+| Part 2, Book 4, ch. 12: honey and wax | III, 374–402 | [Latin](data/entries/mel-cera/la.md) · [English](data/entries/mel-cera/en.md) | 〃 |
 
 ### Tranches
 
@@ -120,6 +126,7 @@ The times of tranches 3 to 6 are from the logs (corrected 14-Nov-2026: the earli
 | 8 | 16-Nov-2026 | vol. 3, 125–193 (69) | 10 | $15.86 | $0.230 | about 1 h (11:20 to 12:20; 10 minutes of it the wait for the test batch) | 243 (109 by rule, 134 read) | 80 / 6 | 20 | 34, with 3 from the spot-check |
 | 9 | 17-Nov-2026 | vol. 3, 195–271 (77) | 5 | $17.39 | $0.226 | about 1 h 35 min (09:25 to 10:05, then 12:50 to 13:45; between them the session stopped at the Claude usage limit) | 287 (132 by rule, 155 read) | 83 / 7 | 18 | 35, with 2 from the spot-check |
 | 10 | 18-Nov-2026 | vol. 3, 272–326 (55) | 5 | $11.62 | $0.211 | about 50 min (10:25 to 11:14; prepare 10:41 to 10:52, translation 11:03 to 11:08) | 155 (56 by rule, 99 read) | 43 / 3 | 30 | 18, with 7 ד/ר on p. 277 (4 of them from the Bible check and a search), 1 from the spot-check, and 2 Syriac blocks not transcribed |
+| 11 | 20-Nov-2026 | vol. 3, 327–402 (76) | 6 | $16.92 | $0.223 | about 50 min (08:36 to 09:25; prepare 08:36 to 08:53, translation about 09:00 to 09:17), in a session that also ran the Syriac tests | 244 (130 by rule, 114 read) | 77 / 12 | 23 | 25, with the Syriac of Eccl 10:1 (p. 345, 5 lines the OCR left open, read with the Peshitta), a Samaritan word, and 3 printer's errors kept |
 
 Tranche 3 was the first run of `tranche.py`: fetch to review crops took 20 minutes (75 in tranche 2),
 the six translation batches 10. The rest of the time is the scan check; the run was interrupted
@@ -263,6 +270,22 @@ Not certain, for the owner's review: the year "1709" in the note of p. 279 (midd
 Joel 2:20's צחנתו (p. 317), `بالصعيف` (p. 324), `افسان` (p. 282). The margin of p. 305 has a broken "473" that reads as
 475: the text has 473. The footnote letters of pp. 315 (`e)`) and 324 (`c)`) follow the marks in the text, not the
 look of the note's own letter.
+
+Tranche 11 (20-Nov-2026) is Part 2, Book 4, chs. 7 to 12: John the Baptist's locusts, the mystical locusts, the fly, the
+bees (the name, Samson's lion, the bees of the Greek Fathers) and honey and wax, pp. 326-402. All steps ran synchronously
+(`logs/prepare_sync_t11.sh`; `logs/translate_t11.sh`). The key's spend could not be read in this session, so the cost is
+summed from the logs (`logs/cost_t11.py`): OCR $6.0 (Opus $5.43, Flash about $0.56), judge $6.86 (1,006 lines), translation $3.90, spot-check $0.17. The Syriac tests of SYRIAC.md cost about $5.2 more, and issues 2-4 $0.22. Two of the 8
+judge workers wrote to the judge file at the same moment and one line was cut; vote.py stopped at it, the line was removed
+and the judge run again (it skips judged lines).
+
+The same session fixed GitHub issues 2 and 3 (Hebrew of aves-immundae, pp. 120 and 122: ת״ר הנץ, ה״ז twice, בדיקה) and
+issue 4 (sephiphon, p. 207: Bochart's examples of Koph and Ajin, ܐܪܩܐ, ܩܛܪ / ܥܛܪ, ܩܘܪܐ / ܥ[?]ܐ, and קסם), and tested
+ways to read the Syriac better: see [SYRIAC.md](SYRIAC.md). `peshcheck.py` is new (Syriac quotations against the
+Peshitta, free).
+
+Printer's forms kept: `שרה` for שדה (p. 340, Joel 1:11; the Bible check lists it), `sadinh` (p. 391), `morra` (p. 396),
+`Archulpho` (p. 332). Not certain: the Syriac of Eccl 10:1 on p. 345 (read with the Peshitta as a guide), the Syriac words
+ܡܬܬܢܢܢ (p. 360) and ܢܕ (p. 380), the fourth Syriac word of p. 207.
 
 Open review lists (readings the pipeline did not decide): `logs/vote_v2-408-429.csv`,
 `logs/vote_v2-434-454.csv`, `logs/vote_v2-430-433.csv`, `logs/vote_v2-455-524.csv`,

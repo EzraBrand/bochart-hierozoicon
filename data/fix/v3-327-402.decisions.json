@@ -1,0 +1,906 @@
+{
+ "rule": "change where the image judge reads the same as Flash or MDZ, against the main OCR",
+ "items": [
+  {
+   "page": "v3-0327",
+   "line": "apostolus, σπερμάτων, καὶ ἀκροδρύων, καὶ λαχάνων, ἄνευ κρεῶν, μετελάμ-",
+   "old": "κρεῶν,",
+   "new": "κρέων,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0327",
+   "line": "καὶ μελάγρα καλοῦσι· Acridas quidam herbas esse dicunt, quas etiam melagra",
+   "old": "μελάγρα",
+   "new": "μέλαγρα",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0328",
+   "line": "νὴν ἰσημερίαν, ὅτε Λίβυες (lege Λίβες) παρ᾽ αὐτοῖς καὶ Ζέφυροι πνέουσι, παμ-",
+   "old": "νὴν",
+   "new": "τὴν",
+   "script": "Greek",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0330",
+   "line": "qui vellet ἀκρίδας, καὶ ὄρνιθας, ἀντὶ πυρῶν, καὶ κριθῶν συγκομίζειν, locu-",
+   "old": "ὄρνιθας,",
+   "new": "ὀρνίθας,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0331",
+   "line": "ptiorum finibus. Ionathan in paraphrasi id excipit, מה דמלחין במניא לצריך",
+   "old": "במניא",
+   "new": "במנייא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0331",
+   "line": "ptiorum finibus. Ionathan in paraphrasi id excipit, מה דמלחין במניא לצריך",
+   "old": "לצריך",
+   "new": "לצרוך",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0332",
+   "line": "81. „Bedumi Aegypti gryllos hujus speciei",
+   "old": "„Bedumi",
+   "new": "„Beduini",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0332",
+   "line": "ctis cap. 14. a sancto episcopo, Arthulpho, qui ad ea loca peregrinatus erat,",
+   "old": "Arthulpho,",
+   "new": "Archulpho,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0335",
+   "line": "τέττιξ, cui λιγυρὴν οἴμην tribuunt. Sed ac-",
+   "old": "τέττιξ,",
+   "new": "τεττιξ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0336",
+   "line": "und Cicero [Cato major], vom weisen",
+   "old": "weisen",
+   "new": "weissen",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0340",
+   "line": "signire; sed ab hac disquisitione certis de caussis abstinemus, jam ad alia",
+   "old": "caussis",
+   "new": "causis",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0341",
+   "line": "legunt, σκνῖφες) Exod. VIII, 16. Ἔσονται σκνίπες ἔν τε τοῖς ἀνθρώποις, καὶ",
+   "old": "σκνῖφες)",
+   "new": "σκνίφες)",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0344",
+   "line": "يصقل بهما مراة احداقه فلهذا تري الذباب ابدا",
+   "old": "بهما",
+   "new": "بها",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0343",
+   "line": "ופולי דפרשי מן אכלא ופרחין הי כעופא מסאבין אינון לכון לא יתאכלון, omnes",
+   "old": "אכלא",
+   "new": "אוכלא",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0342",
+   "line": "constans, Arabico proverbio dicitur esse أطيش من ذباب Musca in-",
+   "old": "أطيش",
+   "new": "اطيَش",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0344",
+   "line": "oculos incidit. Quod et muscas facere videas, et mellifica quaecunque sint animal-",
+   "old": "sint",
+   "new": "sunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0346",
+   "line": "θρώποις γένος, καὶ μυσαρὸν ὄν, καὶ ἡ ζωὴ ὀχληρὰ, καὶ ὁ θάνατος βδελυ-",
+   "old": "ὄν,",
+   "new": "ὂν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "μυίας πέραν τοῦ Ἀλφειοῦ· Λέγονται δὲ κατὰ ταῦτα καὶ Ἠλεῖοι θύειν τῷ",
+   "old": "πέραν",
+   "new": "περὰν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0345",
+   "line": "finenter, i. e. facit, ut foetor, instar aquae",
+   "old": "finenter,",
+   "new": "sinenter,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "μασι καὶ τοῖς πόμασι προσιζάνουσαι, δυσχε-",
+   "old": "τοῖς",
+   "new": "τοις",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "μασι καὶ τοῖς πόμασι προσιζάνουσαι, δυσχε-",
+   "old": "πόμασι",
+   "new": "ποιμασι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0347",
+   "line": "cultum. Theodoretus in hunc locum, Τί μυσαρώτερον μυΐας; ἀλλ᾽ ὅμως τὴν",
+   "old": "μυΐας;",
+   "new": "μυίας;",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "ρείας ἅπαντα ἐνεπίμπλων.“ Haec Michaelis",
+   "old": "ρείας",
+   "new": "ρειας",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0350",
+   "line": "(7) Eadem sententia placuit etiam VOS-",
+   "old": "VOS-",
+   "new": "Vos-",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "sunt: καὶ ὁπότε οὖν δειπνοῖεν, μυῖαι τοῖς βρώ-",
+   "old": "δειπνοῖεν,",
+   "new": "δειπνοιεν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "sunt: καὶ ὁπότε οὖν δειπνοῖεν, μυῖαι τοῖς βρώ-",
+   "old": "μυῖαι",
+   "new": "μυιαι",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "sunt: καὶ ὁπότε οὖν δειπνοῖεν, μυῖαι τοῖς βρώ-",
+   "old": "τοῖς",
+   "new": "τοις",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0348",
+   "line": "sunt: καὶ ὁπότε οὖν δειπνοῖεν, μυῖαι τοῖς βρώ-",
+   "old": "βρώ-",
+   "new": "βρω-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0351",
+   "line": "εἰ τὸν οἰκοδεσπότην (רב הבית, vel, ut est",
+   "old": "τὸν",
+   "new": "τον",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0350",
+   "line": "מדרש ילקוט שמעוני, Midrasch Ialkut Si-",
+   "old": "שמעוני,",
+   "new": "שמעני,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0352",
+   "line": "δαφνῶν, a multa lauru ibi consita. Denique pari de caussa ex Philistaeis",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0351",
+   "line": "διάβολος, Σατανᾶς, quae sententia et pla-",
+   "old": "διάβολος,",
+   "new": "διαβολος,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0355",
+   "line": "χνον· οὔτε γὰρ σαρξὶν, οὔτε αἵματι, οὔτε λιπάσματι οὐδενὶ προσίπταται· Est",
+   "old": "προσίπταται·",
+   "new": "προΐπταται·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0356",
+   "line": "ribiles illos leones ex αὐτοψία describit Oppianus libro tertio Cynegeticῶn, apes",
+   "old": "αὐτοψία",
+   "new": "αὐτοψίᾳ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0358",
+   "line": "καὶ ἀνακομίζειν ἐξ ἀγρῶν, οἴκοι τε αὐτὰς ἐναυλίζεσθαι ποιεῖν. Sumit hoc rur-",
+   "old": "οἴκοι",
+   "new": "οἴκοί",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0357",
+   "line": "ימים או עשור, dies, aut decem: id est, annum, aut decem menses. Levit. XXV,",
+   "old": "עשור,",
+   "new": "עשר,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0360",
+   "line": "ut qui fumigat apes. Nam vox דנתזן, quam varie torquent, nullum commo-",
+   "old": "דנתזן,",
+   "new": "דנתון,",
+   "script": "Hebrew",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0358",
+   "line": "τῆς κεφαλῆς, καὶ οὔσης ἤδη κοίλης, ἑσμὸς μελισσέων, ἐσδὺς ἐς αὐτὴν, κηρίων",
+   "old": "οὔσης",
+   "new": "ἔσης",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0358",
+   "line": "τῆς κεφαλῆς, καὶ οὔσης ἤδη κοίλης, ἑσμὸς μελισσέων, ἐσδὺς ἐς αὐτὴν, κηρίων",
+   "old": "ἑσμὸς",
+   "new": "ἐσμὸς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0360",
+   "line": "ἢ τρίς· τότε δ᾽ ἐπ᾽ ἔργον ἀθρόαι πέτονται· καὶ ἐλθοῦσαι πάλιν, θορυβοῦσι τὸ",
+   "old": "ἀθρόαι",
+   "new": "ἀθροαὶ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0361",
+   "line": "ut Maleaeque sequacibus undis. Et Ovidius lib. I. De remedio Amoris versu 185.",
+   "old": "I.",
+   "new": "1.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "᾽Αλλὰ οἱ ἀμφεμάχοντο, περισταδὸν αἴσσοντες,",
+   "old": "᾽Αλλὰ",
+   "new": "Ἀλλὰ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "᾽Αλλὰ οἱ ἀμφεμάχοντο, περισταδὸν αἴσσοντες,",
+   "old": "αἴσσοντες,",
+   "new": "ἀΐσσοντες,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0361",
+   "line": "Καπνώσας, βαιήν κὔμμι λίπῃ μερίδα.",
+   "old": "βαιήν",
+   "new": "βαίην",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0361",
+   "line": "lib. II. cap. 16. Cum eximuntur mella, apes abigi fumo utilissimum, ne ira-",
+   "old": "II.",
+   "new": "11.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0362",
+   "line": "tractatu Kelim cap. 16. §. 7. pag. 26. a. quid sit מרדף של דבורים, maddaph",
+   "old": "מרדף",
+   "new": "מדף",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "᾽Αντίαι αἴσσουσιν, ὃ δ᾽ οὐκ ὄθετ᾽, οὐδ᾽ ἄρα βαιόν.",
+   "old": "᾽Αντίαι",
+   "new": "Ἀντίαι",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "᾽Αντίαι αἴσσουσιν, ὃ δ᾽ οὐκ ὄθετ᾽, οὐδ᾽ ἄρα βαιόν.",
+   "old": "αἴσσουσιν,",
+   "new": "ἀΐσσουσιν,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0362",
+   "line": "Σφῆκας δαφοινοὺς χηράμων ἀνειρύσας,",
+   "old": "δαφοινοὺς",
+   "new": "δαφοινὲς",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "῎Ανδρ᾽ ἀπαμυνόμεναι, ὃδ᾽ ἄρ᾽ οὐκ ἀλέγων ἐπιούσας,",
+   "old": "οὐκ",
+   "new": "ἐκ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0363",
+   "line": "Κηροὺς ἐκτάμνησι μελίχροας· αἱ δ᾽ ἀκάχωνται",
+   "old": "αἱ",
+   "new": "αἳ",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0370",
+   "line": "proverbium, Γλαῦκος πιὼν μέλι ἀνέστη· Glaucus, poto melle, revixit: id est,",
+   "old": "πιὼν",
+   "new": "πινὼν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0370",
+   "line": "Πυθαγόρας μαρτυρεῖ, ὃς, εὐτελέστατα διαβιοὺς, πολλάκις μέλιτι μόνῳ ἠρ-",
+   "old": "Πυθαγόρας",
+   "new": "Πυθαγορᾶς",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0372",
+   "line": "Οἴκους ἐγείρειν ἐξαγώνων κτισμάτων;",
+   "old": "ἐξαγώνων",
+   "new": "ἑξαγώνων",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0375",
+   "line": "Aleppo, p. 20. the Juice of the Grapes is",
+   "old": "Juice",
+   "new": "juice",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0377",
+   "line": "b) Supra cap. X. pag. 304.",
+   "old": "304.",
+   "new": "504.",
+   "script": "common",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0378",
+   "line": "terra, quam in alvearibus favos faciunt. Et infra, Κατάγεται δὲ καὶ εἰς Ἀμι-",
+   "old": "Ἀμι-",
+   "new": "῎Αμι-",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0376",
+   "line": "Tom. II. Exercit. XV. §. 41. atque IO.",
+   "old": "IO.",
+   "new": "Io.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0380",
+   "line": "Etymologus, Βρῖσαι· Νύμφαι οὕτω καλουμέναι. Et statim, Μελιττουργίαν αὐ-",
+   "old": "Βρῖσαι·",
+   "new": "Βρίσαι·",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0381",
+   "line": "poetae suadent Ecloga 9.",
+   "old": "9.",
+   "new": "5.",
+   "script": "common",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0383",
+   "line": "quàm in domestico melle fuit, quod palato placeret. Tamen in Iohanne, bapti-",
+   "old": "quàm",
+   "new": "quam",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0381",
+   "line": "ut Ovidius, cum de cera scribit Amorum lib. 1. Elegia 12.",
+   "old": "cum",
+   "new": "eum",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0382",
+   "line": "eo commendat, quod, instar terrae Chanaan, oleae sit et mellis ferax, 2 Reg.",
+   "old": "commendat,",
+   "new": "commendas,",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0384",
+   "line": "συμποτικῶν αἴνιγμα καὶ γρῖφος· τὸ μὲν παιδιὰν ἔχεν, ὁ δὲ γρῖφος καὶ σπου-",
+   "old": "ἔχεν,",
+   "new": "εἶχεν,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0385",
+   "line": "Hebraeis, חכו ממחקים, Palatum ejus dulcedines. Et de sponsa Cant. IV, 11.",
+   "old": "ממחקים,",
+   "new": "ממתקים,",
+   "script": "Hebrew",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0386",
+   "line": "Τοῦ καὶ ἀπὸ γλώσσης μέλιτος γλυκίον ῥεεν αὐδής,",
+   "old": "ῥεεν",
+   "new": "ῥεὲν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0387",
+   "line": "n) Olymp. 11. Pyth. 3. Isthm. 2.",
+   "old": "Isthm.",
+   "new": "Istm.",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0385",
+   "line": "Ἔῤῥεέ μοι φωνὰ γλυκερωτέρα, ἢ μελικήρω·",
+   "old": "μελικήρω·",
+   "new": "μελικήρῳ·",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0387",
+   "line": "o) Isthm. 2. et 6.",
+   "old": "Isthm.",
+   "new": "Istm.",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0386",
+   "line": "— — — ὡς μέλι φωνά,",
+   "old": "φωνά,",
+   "new": "φωνὰ,",
+   "script": "Greek",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0391",
+   "line": "discutiat. Quod afferunt multi veteres, Dioscorides lib. 2. de melle; Ἀπο-",
+   "old": "afferunt",
+   "new": "asserunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0391",
+   "line": "appellatur. Quod ipsum afferunt Talmudici tractatus De Sabbatho cap. 8. et 14.",
+   "old": "afferunt",
+   "new": "asserunt",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0391",
+   "line": "sadiph ejusdem notionis. Fortasse enim ex דבשת dabbeseth primo factum est",
+   "old": "sadiph",
+   "new": "sadinh",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0396",
+   "line": "moria, in gentilium sacris usurpata repe-",
+   "old": "moria,",
+   "new": "morra,",
+   "script": "Latin",
+   "agree": [
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0397",
+   "line": "ceram, et Arabes πρόπολιν sic appellant. Et Esaiae verba capitis sexagesimi",
+   "old": "πρόπολιν",
+   "new": "προπόλιν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0395",
+   "line": "Omen, ait, caussa est, ut res sapor ille sequatur,",
+   "old": "caussa",
+   "new": "causa",
+   "script": "Latin",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0397",
+   "line": "Itaque مومیا mumiae vox notissima, deduci videtur ex موم mum. Persae",
+   "old": "مومیا",
+   "new": "موميا",
+   "script": "Latin",
+   "agree": [
+    "flash"
+   ]
+  },
+  {
+   "page": "v3-0400",
+   "line": "melophori, ἐπὶ τῶν στυράκων μῆλα χρυσᾶ ἔχοντες, habentes in styracibus (id",
+   "old": "στυράκων",
+   "new": "συράκων",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0400",
+   "line": "ignotam hactenus, videor mihi deprehendere. Arabicum verbum نكث",
+   "old": "نكث",
+   "new": "نكت",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0400",
+   "line": "confossum aliquem in caput dejicere: et النكث talis confossio: et النكاث",
+   "old": "النكث",
+   "new": "النكت",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0400",
+   "line": "confossum aliquem in caput dejicere: et النكث talis confossio: et النكاث",
+   "old": "النكاث",
+   "new": "النكات",
+   "script": "Arabic",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0401",
+   "line": "Et verbum στυρακίζειν Hesychio est κεντρίζειν, pungere, tanquam hasta vel hastae",
+   "old": "στυρακίζειν",
+   "new": "συρακίζειν",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0400",
+   "line": "ne libro duodecimo. Ac proinde apud Hesychium Graecum στύραξ non solum",
+   "old": "στύραξ",
+   "new": "σύραξ",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  },
+  {
+   "page": "v3-0401",
+   "line": "cuspide. Sexto, si auctoritate certamus, Aquilam, cui נכאת nechoth est στύραξ,",
+   "old": "στύραξ,",
+   "new": "σύραξ,",
+   "script": "Greek",
+   "agree": [
+    "flash",
+    "mdz"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "374 <i>De melle et cera.</i> P.II. L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "374 <i>De melle et cera.</i> P.II. L.IV."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "CAP. XII. ⟦p. 517⟧",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "CAP. XII. ⟦p. 517⟧"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "<i>De melle et cera.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>De melle et cera.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sequitur, ut de melle dicamus, de quo Scriptura passim. <i>Mel</i> Hebraice voca- ⟦p. 518⟧\ntur דבש <i>debas</i>, aequivoco nomine, quo appellantur etiam <i>dactyli</i>. <i>Kimchius</i>\nin <i>Lexico</i>, ונקראו התמרים דבש, <i>Etiam dactylos</i> DEBAS (id est, <i>mel</i>) <i>vocarunt.</i>\nQuomodo sumi volunt <i>R. Selomo</i> et idem <i>Kimchius</i> 2 <i>Paral. XXXI, 6.</i> ubi <i>Israe-\nlitae</i> leguntur obtulisse <i>primitias frumenti</i>, <i>musti et olei</i>, ודבש, <i>et debas</i>, id est,\ninquiunt, <i>dactylorum.</i> Addit <i>Kimchius</i>, veteres ita sumere <i>Deut. VIII, 8.</i> in\nquo loco promittit Deus, se eum introducturum in terram זית שמן ודבש, <i>oleae\noliferae et debas.</i> Huc facit, quod in <i>Alcamus</i> دبوس <i>dubous</i> sunt خلاص\nتمر يلقي في مسلاء السمن فيذوب فيه <i>dactyli se-\nlectiores, qui in butyrum liquefactum conjiciuntur</i>, <i>ut in eo colliquescant.</i> Et\nدبس <i>dibs</i>, vel <i>dibis</i>, غسل التمر وغسل النخل <i>mel dactyli\net mel palmae</i>, id est, <i>dactyli</i>, vel <i>palmae succus.</i> Qui jure merito cum melle\nhabet commune nomen, cum sit vicini saporis. <i>Iosephus</i> libri quinti <i>De bello\nIudaico</i> capite tertio, ubi de valle <i>Ierichuntina</i>: <i>Pulcherrimos paradisos ac densis-\nsimos educat</i>, <i>palmarumque irriguarum multa genera</i>, <i>tam sapore</i>, <i>quam nomini-\nbus varia.</i> Τούτων οἱ πιότεροι πατούμενοι, καὶ μέλι δαψιλὲς ἀνίασιν, οὐ πολλῷ\nτοῦ λοιποῦ χεῖρον· <i>Harum pinguissimae calcatae plurimum mellis emittunt</i>, <i>non\nmulto deterius alio melle.</i> Et <i>Iosephus</i> alius, propior quidem tempore, sed loco\nremotior, <i>Indus</i> nimirum <i>Navigatione</i> capite 138. <i>Mense</i> Augusto Indi <i>palmam\nputant. Et quoniam tunc arbores potissimum luxuriant</i>, <i>gemunt incisae</i>, <i>lacry-\nmasque instar sauciatae vitis emittunt. Has vasis excipiunt tribus solum diebus ab\narbore sauciata, etc. Qui vero saccharum efficere voluerit</i>, <i>is aquam hujusmodi su-\nmat emanantem intra triduum</i>, <i>et ahenis impositam tantisper coquat</i>, <i>donec vix\ntertia pars supersit. Tunc sic decocta mel efficitur suavissimum.</i> Patet igitur, cur\nab <i>Hebraeis</i> inditum fuerit <i>mellis</i> nomen vel <i>dactylorum</i>, vel <i>palmae succo</i> ^{(1)}.\nQuin <i>R. Selomo</i> in <i>Levit. II, 11.</i> id extendit multo latius, quasi דבש <i>debas</i> signi-\nficet כל מתיקת פרי, <i>omnem dulcedinem fructus</i> ^{(2)}. Utut sit, hic agimus de\nmelle proprie dicto.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sequitur, ut de melle dicamus, de quo Scriptura passim. <i>Mel</i> Hebraice voca- ⟦p. 518⟧\ntur דבש <i>debas</i>, aequivoco nomine, quo appellantur etiam <i>dactyli</i>. <i>Kimchius</i>\nin <i>Lexico</i>, ונקראו התמרים דבש, <i>Etiam dactylos</i> DEBAS (id est, <i>mel</i>) <i>vocarunt.</i>\nQuomodo sumi volunt <i>R. Selomo</i> et idem <i>Kimchius</i> 2 <i>Paral. XXXI, 6.</i> ubi <i>Israe-\nlitae</i> leguntur obtulisse <i>primitias frumenti</i>, <i>musti et olei</i>, ודבש, <i>et debas</i>, id est,\ninquiunt, <i>dactylorum.</i> Addit <i>Kimchius</i>, veteres ita sumere <i>Deut. VIII, 8.</i> in\nquo loco promittit Deus, se eum introducturum in terram זית שמן ודבש, <i>oleae\noliferae et debas.</i> Huc facit, quod in <i>Alcamus</i> دبوس <i>dubous</i> sunt خلاص\nتمر يلقي في مسلاء السمن فيذوب فيه <i>dactyli se-\nlectiores, qui in butyrum liquefactum conjiciuntur</i>, <i>ut in eo colliquescant.</i> Et\nدبس <i>dibs</i>, vel <i>dibis</i>, غسل التمر وغسل النخل <i>mel dactyli\net mel palmae</i>, id est, <i>dactyli</i>, vel <i>palmae succus.</i> Qui jure merito cum melle\nhabet commune nomen, cum sit vicini saporis. <i>Iosephus</i> libri quinti <i>De bello\nIudaico</i> capite tertio, ubi de valle <i>Ierichuntina</i>: <i>Pulcherrimos paradisos ac densis-\nsimos educat</i>, <i>palmarumque irriguarum multa genera</i>, <i>tam sapore</i>, <i>quam nomini-\nbus varia.</i> Τούτων οἱ πιότεροι πατούμενοι, καὶ μέλι δαψιλὲς ἀνίασιν, οὐ πολλῷ\nτοῦ λοιποῦ χεῖρον· <i>Harum pinguissimae calcatae plurimum mellis emittunt</i>, <i>non\nmulto deterius alio melle.</i> Et <i>Iosephus</i> alius, propior quidem tempore, sed loco\nremotior, <i>Indus</i> nimirum <i>Navigatione</i> capite 138. <i>Mense</i> Augusto Indi <i>palmam\nputant. Et quoniam tunc arbores potissimum luxuriant</i>, <i>gemunt incisae</i>, <i>lacry-\nmasque instar sauciatae vitis emittunt. Has vasis excipiunt tribus solum diebus ab\narbore sauciata, etc. Qui vero saccharum efficere voluerit</i>, <i>is aquam hujusmodi su-\nmat emanantem intra triduum</i>, <i>et ahenis impositam tantisper coquat</i>, <i>donec vix\ntertia pars supersit. Tunc sic decocta mel efficitur suavissimum.</i> Patet igitur, cur\nab <i>Hebraeis</i> inditum fuerit <i>mellis</i> nomen vel <i>dactylorum</i>, vel <i>palmae succo</i> ^{(1)}.\nQuin <i>R. Selomo</i> in <i>Levit. II, 11.</i> id extendit multo latius, quasi דבש <i>debas</i> signi-\nficet כל מתיקת פרי, <i>omnem dulcedinem fructus</i> ^{(2)}. Utut sit, hic agimus de\nmelle proprie dicto."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Hujus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hujus"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Plura de hac re vide in CELSII <i>Hie-\nrobot.</i> P.II. p. 463. seqq.",
+   "marker": "(1)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Plura de hac re vide in CELSII <i>Hie-\nrobot.</i> P.II. p. 463. seqq."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Veluti <i>syrupum</i>, <i>ex uvis passis fa-\nctum</i>, Arabibusque hodienum دِبْس vo-\ncatum, cujus nostro etiam aevo ex tractu\nHebronitico quotannis tantum in Aegy-\nptum mittitur, quantum trecenti cameli\nferre possunt, ut scribit SHAW, in <i>Itiner.</i>\npag. 293. version. germ. not. De quo sy-",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Veluti <i>syrupum</i>, <i>ex uvis passis fa-\nctum</i>, Arabibusque hodienum دِبْس vo-\ncatum, cujus nostro etiam aevo ex tractu\nHebronitico quotannis tantum in Aegy-\nptum mittitur, quantum trecenti cameli\nferre possunt, ut scribit SHAW, in <i>Itiner.</i>\npag. 293. version. germ. not. De quo sy-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "rupo",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "rupo"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1823,
+    1310
+   ],
+   [
+    1823,
+    1506
+   ]
+  ],
+  "input_tokens": 8561,
+  "output_tokens": 1880,
+  "cost_usd": 0.0718,
+  "seconds": 24.2,
+  "vote": "0 decisions from v3-327-402"
+ }
+}

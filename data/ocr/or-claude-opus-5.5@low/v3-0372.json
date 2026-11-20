@@ -1,0 +1,182 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "372 <i>Loca Scripturae de Apum mellificio explicata.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "372 <i>Loca Scripturae de Apum mellificio explicata.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>tem vocamus et censemus, quia mel flavum operatur.</i> <i>Phile</i> capite vigesimo\nseptimo de ape,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>tem vocamus et censemus, quia mel flavum operatur.</i> <i>Phile</i> capite vigesimo\nseptimo de ape,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Ἡ σύντονος δ᾽ οὖν, καὶ σοφὴ, καὶ τεχνικὴ,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡ σύντονος δ᾽ οὖν, καὶ σοφὴ, καὶ τεχνικὴ,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Illa igitur vehemens, et sapiens, et artifex.</i> Et capite vigesimo octavo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Illa igitur vehemens, et sapiens, et artifex.</i> Et capite vigesimo octavo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et sapiens puram vitam solet vivere.</i> Pisidas <i>De mundi opificio</i> versu 137.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et sapiens puram vitam solet vivere.</i> Pisidas <i>De mundi opificio</i> versu 137."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Τίς τὴν μέλιτταν τὴν σοφὴν τὴν ἐργάτιν ⟦p. 516⟧\nΓεωμετρεῖν ἔπεισε, καὶ τριωρόφους\nΟἴκους ἐγείρειν ἐξαγώνων κτισμάτων;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τίς τὴν μέλιτταν τὴν σοφὴν τὴν ἐργάτιν ⟦p. 516⟧\nΓεωμετρεῖν ἔπεισε, καὶ τριωρόφους\nΟἴκους ἐγείρειν ἐξαγώνων κτισμάτων;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Quis apem sapientem opificem geometriam exercere induxit, et trium contignatio-\nnum domos excitare hexagono aedificio?</i> Et infra,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Quis apem sapientem opificem geometriam exercere induxit, et trium contignatio-\nnum domos excitare hexagono aedificio?</i> Et infra,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Μή πού σε κέντρον τῆς σοφῆς διδασκάλου\nΠλήξῃ μελίττης, καὶ μαθεῖν ἀναγκάσῃ·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Μή πού σε κέντρον τῆς σοφῆς διδασκάλου\nΠλήξῃ μελίττης, καὶ μαθεῖν ἀναγκάσῃ·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Ne sapientis magistrae apis aculeus te percutiat et discere cogat.</i> <i>Didymus</i> libro\ndecimo quinto <i>Geoponicῶn</i>, Ἡ μέλιττα πάντων τῶν λοιπῶν ζώων ἐστὶ σοφωτά-\nτη, καὶ εὐμηχανωτάτη, καὶ σύνεγγυς ἀνθρώπῳ κατὰ τὸ συνετόν: <i>Apis est\nomnium animalium sapientissima, et artificiosissima, et ad hominis solertiam maxime\naccedens.</i> <i>Poeta</i> denique, <i>poetico</i> more rem in majus efferens, voluit apes par-\ntem habere divinae mentis. Verba sunt,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Ne sapientis magistrae apis aculeus te percutiat et discere cogat.</i> <i>Didymus</i> libro\ndecimo quinto <i>Geoponicῶn</i>, Ἡ μέλιττα πάντων τῶν λοιπῶν ζώων ἐστὶ σοφωτά-\nτη, καὶ εὐμηχανωτάτη, καὶ σύνεγγυς ἀνθρώπῳ κατὰ τὸ συνετόν: <i>Apis est\nomnium animalium sapientissima, et artificiosissima, et ad hominis solertiam maxime\naccedens.</i> <i>Poeta</i> denique, <i>poetico</i> more rem in majus efferens, voluit apes par-\ntem habere divinae mentis. Verba sunt,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>His quidam signis atque haec exempla sequuti\nEsse apibus partem divinae mentis, et haustus\nAethereos dixere.</i> — — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>His quidam signis atque haec exempla sequuti\nEsse apibus partem divinae mentis, et haustus\nAethereos dixere.</i> — — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Tertius de apum mellificio locus ex eo libro sumtus est, qui neque <i>He-\nbraice</i> exstat, neque ab <i>Hebraeis</i> pro canonico agnoscitur. Sed verba <i>Graeca</i> sic\nhabent <i>Ecclesiastici XI, 3.</i> Μικρὰ ἐν πετεινοῖς μέλισσα, καὶ ἀρχὴ γλυκασμά-\nτων ὁ καρπὸς αὐτῆς· <i>Parva in volucribus est apis, et principium dulcedinum est\nfructus ejus.</i> <i>Parva in volucribus</i>; id est, <i>una e minimis</i>, non absolute <i>mini-\nma volucrium</i>, ut hic habet <i>Drusius</i>. Nam ape minores sunt musca et culex.\nSic <i>Beth-lehem parva fuit in millibus Iuda</i>, non tamen minima omnium, <i>Matth.\nII, 6.</i> <i>Principium dulcedinum:</i> id est, <i>summe dulcis, primas tenet inter dulcia.</i>\nUt Amos VI, 6. ראשית שמנים, <i>principio unguentorum ungunt se</i>, id est, <i>un-\nguento primario.</i> Nempe inter dulcia primas tenet apis fructus, qui est mel.\nUnde <i>Hebraeum</i> proverbium, <i>Dulce ut mel</i>, de quo infra. Iungendus est hic\nde ape versus cum proxime praecedente, Μὴ αἰνέσῃς ἄνδρα ἐν κάλλει αὐτοῦ,\nκαὶ μὴ βδελύξῃ ἄνθρωπον ἐν ὁράσει αὐτοῦ. <i>Non laudaveris virum ob pulchritu-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tertius de apum mellificio locus ex eo libro sumtus est, qui neque <i>He-\nbraice</i> exstat, neque ab <i>Hebraeis</i> pro canonico agnoscitur. Sed verba <i>Graeca</i> sic\nhabent <i>Ecclesiastici XI, 3.</i> Μικρὰ ἐν πετεινοῖς μέλισσα, καὶ ἀρχὴ γλυκασμά-\nτων ὁ καρπὸς αὐτῆς· <i>Parva in volucribus est apis, et principium dulcedinum est\nfructus ejus.</i> <i>Parva in volucribus</i>; id est, <i>una e minimis</i>, non absolute <i>mini-\nma volucrium</i>, ut hic habet <i>Drusius</i>. Nam ape minores sunt musca et culex.\nSic <i>Beth-lehem parva fuit in millibus Iuda</i>, non tamen minima omnium, <i>Matth.\nII, 6.</i> <i>Principium dulcedinum:</i> id est, <i>summe dulcis, primas tenet inter dulcia.</i>\nUt Amos VI, 6. ראשית שמנים, <i>principio unguentorum ungunt se</i>, id est, <i>un-\nguento primario.</i> Nempe inter dulcia primas tenet apis fructus, qui est mel.\nUnde <i>Hebraeum</i> proverbium, <i>Dulce ut mel</i>, de quo infra. Iungendus est hic\nde ape versus cum proxime praecedente, Μὴ αἰνέσῃς ἄνδρα ἐν κάλλει αὐτοῦ,\nκαὶ μὴ βδελύξῃ ἄνθρωπον ἐν ὁράσει αὐτοῦ. <i>Non laudaveris virum ob pulchritu-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "<i>dinem</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>dinem</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1810,
+    1642
+   ],
+   [
+    1810,
+    1146
+   ]
+  ],
+  "input_tokens": 8395,
+  "output_tokens": 1763,
+  "cost_usd": 0.0688,
+  "seconds": 26.3
+ }
+}

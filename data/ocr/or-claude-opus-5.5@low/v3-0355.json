@@ -1,0 +1,134 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. <i>De apibus, a Samsone in leonis cadavere repertis.</i> 355",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. <i>De apibus, a Samsone in leonis cadavere repertis.</i> 355"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Haec de apum origine veteres cum tanto consensu referant, mirum videri\nqueat, quod legitur, <i>Iudicum</i> capitis decimi quarti versu octavo, <i>Samsonem</i> in\nleonis cadavere עדת דברים, <i>examen apum</i> reperisse. Maxime, cum apes a car-\nne legantur abstinere, et graves odores prorsus fugere. <i>Aristoteles</i> libri noni\ncapite quadragesimo, πρὸς σάρκα δὲ οὐδενὸς καθίζει, οὐδὲ ὀψοφαγεῖ· <i>Carni nul-</i> ⟦p. 504⟧\n<i>lius animalis assidet</i>, <i>neque obsoniis inhiat.</i> Varro <i>Rusticorum</i> libri tertii capite\ndecimo sexto, <i>Nulla harum assidet loco inquinato</i>, <i>aut eo</i>, <i>qui male oleat.</i> Item,\n<i>Non ut muscae liguriunt</i>, <i>quod nemo has videt (ut illas) in carne</i>, <i>aut sanguine,</i>\n<i>aut adipe.</i> <i>Plinius</i>, libri undecimi capite vigesimo primo, de vespis et crabro-\nnibus; <i>Omnes carne vescuntur: contra</i>, <i>quam apes</i>, <i>quae nullum corpus attin-</i>\n<i>gunt.</i> <i>Phile</i> de ape, capite vigesimo octavo;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Haec de apum origine veteres cum tanto consensu referant, mirum videri\nqueat, quod legitur, <i>Iudicum</i> capitis decimi quarti versu octavo, <i>Samsonem</i> in\nleonis cadavere עדת דברים, <i>examen apum</i> reperisse. Maxime, cum apes a car-\nne legantur abstinere, et graves odores prorsus fugere. <i>Aristoteles</i> libri noni\ncapite quadragesimo, πρὸς σάρκα δὲ οὐδενὸς καθίζει, οὐδὲ ὀψοφαγεῖ· <i>Carni nul-</i> ⟦p. 504⟧\n<i>lius animalis assidet</i>, <i>neque obsoniis inhiat.</i> Varro <i>Rusticorum</i> libri tertii capite\ndecimo sexto, <i>Nulla harum assidet loco inquinato</i>, <i>aut eo</i>, <i>qui male oleat.</i> Item,\n<i>Non ut muscae liguriunt</i>, <i>quod nemo has videt (ut illas) in carne</i>, <i>aut sanguine,</i>\n<i>aut adipe.</i> <i>Plinius</i>, libri undecimi capite vigesimo primo, de vespis et crabro-\nnibus; <i>Omnes carne vescuntur: contra</i>, <i>quam apes</i>, <i>quae nullum corpus attin-</i>\n<i>gunt.</i> <i>Phile</i> de ape, capite vigesimo octavo;"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Καὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,\n Ἄγευστος οὖσα νεκρικῶν σπαραγμάτων·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Καὶ ζῇ μὲν ἁγνὸν ἡ σοφὴ σχεδὸν βίον,\n Ἄγευστος οὖσα νεκρικῶν σπαραγμάτων·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Et vitam quidem castam sapiens exigit</i>, <i>nec discerptas cadaverum carnes degustat.</i>\nDidymus <i>Geoponicῶn</i> libro decimo quinto [cap. 2. §. 22.] Ἔστι δὲ καὶ καθαρὸν\nὑπερβολῇ τὸ ζῶον, οὐδενὶ τῶν δυσωδῶν καὶ ἀκαθάρτων προσιζάνον, οὔτε λί-\nχνον· οὔτε γὰρ σαρξὶν, οὔτε αἵματι, οὔτε λιπάσματι οὐδενὶ προσίπταται· <i>Est</i>\n<i>et maxime purum animal</i>, <i>nec graveolenti aut impurae rei insidens</i>, <i>neque liguri-</i>\n<i>ens</i> (<i>Graece</i> οὔτε λίχνον, quod alii absurde reddunt <i>neque ad lucernam</i>) <i>neque</i>\n<i>enim ad carnes</i>, <i>neque ad sanguinem</i>, <i>aut ad ullam pinguedinem advolat</i> ^{(2)}.\nQuin apis, si quae moriatur in alveari, superstites cadaver efferunt, ne tetrum\nodorem exhalet. <i>Virgilius</i>,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Et vitam quidem castam sapiens exigit</i>, <i>nec discerptas cadaverum carnes degustat.</i>\nDidymus <i>Geoponicῶn</i> libro decimo quinto [cap. 2. §. 22.] Ἔστι δὲ καὶ καθαρὸν\nὑπερβολῇ τὸ ζῶον, οὐδενὶ τῶν δυσωδῶν καὶ ἀκαθάρτων προσιζάνον, οὔτε λί-\nχνον· οὔτε γὰρ σαρξὶν, οὔτε αἵματι, οὔτε λιπάσματι οὐδενὶ προσίπταται· <i>Est</i>\n<i>et maxime purum animal</i>, <i>nec graveolenti aut impurae rei insidens</i>, <i>neque liguri-</i>\n<i>ens</i> (<i>Graece</i> οὔτε λίχνον, quod alii absurde reddunt <i>neque ad lucernam</i>) <i>neque</i>\n<i>enim ad carnes</i>, <i>neque ad sanguinem</i>, <i>aut ad ullam pinguedinem advolat</i> ^{(2)}.\nQuin apis, si quae moriatur in alveari, superstites cadaver efferunt, ne tetrum\nodorem exhalet. <i>Virgilius</i>,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — — <i>tum corpora luce carentum</i>\n<i>Exportant tectis</i>, <i>et tristia funera ducunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — — <i>tum corpora luce carentum</i>\n<i>Exportant tectis</i>, <i>et tristia funera ducunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Plinius</i> libri undecimi capite decimo octavo, <i>Defunctas progerunt</i>, <i>funerantium-</i>\n<i>que more comitantur exequias.</i> Aelianus <i>Historiae</i> libri quinti capite quadragesi-\nmo nono, Χελιδὼν ἐκβάλλει χελιδόνα νεκρὰν, καὶ μέλιτταν μέλιττα· <i>Hi-</i>\n<i>rundo hirundinem mortuam effert</i>, <i>et apem apis.</i> Damir, اذا هلك شي\nمنها داخل الخلايا اخرجته الاحيا خارج <i>Cum obiit una</i>\n<i>ex iis in alveari</i>, <i>vivae illam foras efferunt.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Plinius</i> libri undecimi capite decimo octavo, <i>Defunctas progerunt</i>, <i>funerantium-</i>\n<i>que more comitantur exequias.</i> Aelianus <i>Historiae</i> libri quinti capite quadragesi-\nmo nono, Χελιδὼν ἐκβάλλει χελιδόνα νεκρὰν, καὶ μέλιτταν μέλιττα· <i>Hi-</i>\n<i>rundo hirundinem mortuam effert</i>, <i>et apem apis.</i> Damir, اذا هلك شي\nمنها داخل الخلايا اخرجته الاحيا خارج <i>Cum obiit una</i>\n<i>ex iis in alveari</i>, <i>vivae illam foras efferunt.</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Yy 2",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Yy 2"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "His,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "His,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Cf. quae de apum ex bove natalibus\nex aliis scriptoribus collegerunt SCHOETT-\nGEN ad <i>Varron.</i> II, 5. 5. ALBERTI ad\n<i>Hesych.</i> voce Βουγενέων, VAN GOENS ad\nPorphyr. <i>Antr. Nymph.</i> pag. 104. et NI-\nCLAS ad <i>Geopon.</i> L. XV. c. 2. §. 14. 24.\np. 1064. et 1070.",
+   "marker": "(2)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cf. quae de apum ex bove natalibus\nex aliis scriptoribus collegerunt SCHOETT-\nGEN ad <i>Varron.</i> II, 5. 5. ALBERTI ad\n<i>Hesych.</i> voce Βουγενέων, VAN GOENS ad\nPorphyr. <i>Antr. Nymph.</i> pag. 104. et NI-\nCLAS ad <i>Geopon.</i> L. XV. c. 2. §. 14. 24.\np. 1064. et 1070."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1896,
+    1693
+   ],
+   [
+    1896,
+    1131
+   ]
+  ],
+  "input_tokens": 8831,
+  "output_tokens": 1868,
+  "cost_usd": 0.0727,
+  "seconds": 25.5
+ }
+}

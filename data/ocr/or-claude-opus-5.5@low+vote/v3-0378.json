@@ -1,0 +1,183 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "378 <i>De melle et cera.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "378 <i>De melle et cera.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "quae vel in cavis arborum, vel in arundinetis, aut in antris nidificant, <i>poetae</i>\npassim meminere. <i>Hesiodus Theogoniae</i> versu 230.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "quae vel in cavis arborum, vel in arundinetis, aut in antris nidificant, <i>poetae</i>\npassim meminere. <i>Hesiodus Theogoniae</i> versu 230."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — — οὔρεσι δὲ δρῦς\n Ἄκρη μέν τε φέρει βαλάνους, μέσση δὲ μελίσσας,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — — οὔρεσι δὲ δρῦς\n Ἄκρη μέν τε φέρει βαλάνους, μέσση δὲ μελίσσας,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>In montibus autem summa quidem quercus fert glandes, media autem apes.</i> Nem-\npe ἐν τοῖς κοιλώμασι τῶν στελέχων, <i>in truncorum cavis</i>; ut ibi <i>Scholiastes. Pho-\ncylides</i>, aut quisquis est, in Νουθετικῷ versu 160.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>In montibus autem summa quidem quercus fert glandes, media autem apes.</i> Nem-\npe ἐν τοῖς κοιλώμασι τῶν στελέχων, <i>in truncorum cavis</i>; ut ibi <i>Scholiastes. Pho-\ncylides</i>, aut quisquis est, in Νουθετικῷ versu 160."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "Κάμνει δ' ἠερόφοιτος, ἀριστοπόνος τε μέλισσα,\nἨὲ πέτρης κοίλης κατὰ χηραμὸν, ἢ δονάκεσσιν,\nἪ δρυὸς ὠγυγίης κατὰ κοιλάδος·",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Κάμνει δ' ἠερόφοιτος, ἀριστοπόνος τε μέλισσα,\nἨὲ πέτρης κοίλης κατὰ χηραμὸν, ἢ δονάκεσσιν,\nἪ δρυὸς ὠγυγίης κατὰ κοιλάδος·"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Operatur quoque aëria et laboriosa apis, aut in antro cavae petrae, aut in\narundinibus, aut in antiquae quercus cavitate.</i> <i>Virgilius</i> libro quarto <i>Georgico-\nrum</i> [vs. 43. seqq.].",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Operatur quoque aëria et laboriosa apis, aut in antro cavae petrae, aut in\narundinibus, aut in antiquae quercus cavitate.</i> <i>Virgilius</i> libro quarto <i>Georgico-\nrum</i> [vs. 43. seqq.]."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Saepe etiam effossis</i> (<i>si vera est fama</i>) <i>latebris</i>\n<i>Sub terra fodere larem, penitusque repertae,</i>\n<i>Pumicibusque cavis, exesaeque arboris antro.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Saepe etiam effossis</i> (<i>si vera est fama</i>) <i>latebris</i>\n<i>Sub terra fodere larem, penitusque repertae,</i>\n<i>Pumicibusque cavis, exesaeque arboris antro.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Statius <i>Thebaidos</i> libri decimi versu 569.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Statius <i>Thebaidos</i> libri decimi versu 569."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Sic ubi pumiceo pastor rapturus ab antro</i>\n<i>Armatas exegit apes.</i> — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Sic ubi pumiceo pastor rapturus ab antro</i>\n<i>Armatas exegit apes.</i> — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Claudianus <i>De raptu</i> libro secundo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Claudianus <i>De raptu</i> libro secundo,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "— — <i>fagique cavo demissus ab alvo</i>\n<i>Mellifer electis exercitus obstrepit herbis.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "— — <i>fagique cavo demissus ab alvo</i>\n<i>Mellifer electis exercitus obstrepit herbis.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et, auctore <i>Philosopho Historiae</i> libri quinti capite vigesimo secundo, Αἱ\nδ' ἐν Θεμισκύρᾳ περὶ τὸν Θερμώδοντα ποταμὸν, ἐν τῇ γῇ, καὶ ἐν τοῖς σμήνεσι\nποιοῦντες κηρία· <i>Apud</i> Themiscyram, <i>circa</i> Thermodoontem <i>amnem, tam in\nterra, quam in alvearibus favos faciunt.</i> Et infra, Κατάγεται δὲ καὶ εἰς ῎Αμι-\nσὸν ἄνωθεν μέλι λευκὸν, καὶ παχὺ σφόδρα, ὃ ποιοῦσιν αἱ μέλιτται ἄνευ κηρίων\nπρὸς τοῖς δένδρεσι, γίνεται δὲ τοιοῦτον καὶ ἄλλοθι ἐν τῷ Πόντῳ. <i>Ad</i> Amisum, ⟦p. 520⟧\n<i>urbem, convehitur a locis superioribus mel candidum, et valde crassum, quod apes\nin arboribus sine favis conficiunt. Fit etiam mel hujusmodi in aliis</i> Ponti <i>locis.</i>\nItem, Εἰσὶ δὲ καὶ μέλιτται, αἳ ποιοῦσι τριπλᾶ κηρία ἐν τῇ γῇ· <i>Sunt etiam apes,\nquae humi favos triplici ordine faciunt</i> ^{(5)}. Itaque etiam alibi mel sylvestre repe-\nrire",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et, auctore <i>Philosopho Historiae</i> libri quinti capite vigesimo secundo, Αἱ\nδ' ἐν Θεμισκύρᾳ περὶ τὸν Θερμώδοντα ποταμὸν, ἐν τῇ γῇ, καὶ ἐν τοῖς σμήνεσι\nποιοῦντες κηρία· <i>Apud</i> Themiscyram, <i>circa</i> Thermodoontem <i>amnem, tam in\nterra, quam in alvearibus favos faciunt.</i> Et infra, Κατάγεται δὲ καὶ εἰς ῎Αμι-\nσὸν ἄνωθεν μέλι λευκὸν, καὶ παχὺ σφόδρα, ὃ ποιοῦσιν αἱ μέλιτται ἄνευ κηρίων\nπρὸς τοῖς δένδρεσι, γίνεται δὲ τοιοῦτον καὶ ἄλλοθι ἐν τῷ Πόντῳ. <i>Ad</i> Amisum, ⟦p. 520⟧\n<i>urbem, convehitur a locis superioribus mel candidum, et valde crassum, quod apes\nin arboribus sine favis conficiunt. Fit etiam mel hujusmodi in aliis</i> Ponti <i>locis.</i>\nItem, Εἰσὶ δὲ καὶ μέλιτται, αἳ ποιοῦσι τριπλᾶ κηρία ἐν τῇ γῇ· <i>Sunt etiam apes,\nquae humi favos triplici ordine faciunt</i> ^{(5)}. Itaque etiam alibi mel sylvestre repe-\nrire"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "De variis apum atque mellis generi-\nbus in Aethiopia similia refert IEROME\nLOBO in <i>Voyage historique d' Abyssinie</i>\nT. I. p. 89. ed. Amsterd. 1728. <i>Il y a une\ninfinité des abeilles en Ethiopie, et des\ndifferentes espéces. Les unes sont comme\ndomesti-</i>",
+   "marker": "(5)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "De variis apum atque mellis generi-\nbus in Aethiopia similia refert IEROME\nLOBO in <i>Voyage historique d' Abyssinie</i>\nT. I. p. 89. ed. Amsterd. 1728. <i>Il y a une\ninfinité des abeilles en Ethiopie, et des\ndifferentes espéces. Les unes sont comme\ndomesti-</i>"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1963,
+    1650
+   ],
+   [
+    1963,
+    1186
+   ]
+  ],
+  "input_tokens": 9137,
+  "output_tokens": 1739,
+  "cost_usd": 0.0713,
+  "seconds": 23.4,
+  "vote": "1 decisions from v3-327-402"
+ }
+}

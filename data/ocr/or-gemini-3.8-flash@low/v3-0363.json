@@ -1,0 +1,146 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Cap. X. De Apum fortitudine. 363",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Cap. X. De Apum fortitudine. 363"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "πωρον εἶναι αὐτῶν τὴν ὄσφρησιν, <i>quia odoratus meatus habent angustissimos</i>.\n<i>Virgilius de Laviniensibus, ab Aenea in sua urbe obsessis, Aeneidos lib.</i> 12.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "πωρον εἶναι αὐτῶν τὴν ὄσφρησιν, <i>quia odoratus meatus habent angustissimos</i>.\n<i>Virgilius de Laviniensibus, ab Aenea in sua urbe obsessis, Aeneidos lib.</i> 12."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Arma ferunt alii, et pergunt defendere muros:\nInclusas ut cum latebroso in pumice pastor\nVestigavit apes, fumoque implevit amaro.\nIllae intus trepidae rerum, per cerea castra\nDiscurrunt, magnisqne acuunt stridoribus iras.\nVolvitur ater odor tectis, nunc murmure caeco\nIntus saxa sonant, vacuas it fumus ad auras.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Arma ferunt alii, et pergunt defendere muros:\nInclusas ut cum latebroso in pumice pastor\nVestigavit apes, fumoque implevit amaro.\nIllae intus trepidae rerum, per cerea castra\nDiscurrunt, magnisqne acuunt stridoribus iras.\nVolvitur ater odor tectis, nunc murmure caeco\nIntus saxa sonant, vacuas it fumus ad auras.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Quintus Smyrnaeus, ubi de Ajace, Achillis cadaver contra Trojanos propu-\ngnante, lib. 3. versu 217.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quintus Smyrnaeus, ubi de Ajace, Achillis cadaver contra Trojanos propu-\ngnante, lib. 3. versu 217."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "— — τοί δ᾽ ἐκ ἀπέληγον ὁμοκλῆς,\nἈλλὰ οἱ ἀμφεμάχοντο, περισταδὸν ἀΐσσοντες,\nΑἰὲν ἐπασσύτεροι, τανυχειλέες εὖτε μέλισσαι,\nΑἵθ᾽ ἑὸν περὶ σίμβλον ἀπειρέσιαι ποτέωνται,\nἌνδῤ ἀπαμυνόμεναι, ὅδ᾽ ἄρ᾽ ἐκ ἀλέγων ἐπιόντας,\nΚηρὸς ἐκτάμνησι μελίχροας. αἳ δ᾽ ἀκάχωνται\nΚαπνῦ ὑπαὶ ῥιπῆς ἠ δ᾽ ἀνέρος· ἀλλ᾽ ἄρα καὶ ὡς\nἈντίαι ἀΐσσουσιν, ὅ δ᾽ ἐκ ὄθετ᾽, ἐδ᾽ ἄρα βαιόν.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "— — τοί δ᾽ ἐκ ἀπέληγον ὁμοκλῆς,\nἈλλὰ οἱ ἀμφεμάχοντο, περισταδὸν ἀΐσσοντες,\nΑἰὲν ἐπασσύτεροι, τανυχειλέες εὖτε μέλισσαι,\nΑἵθ᾽ ἑὸν περὶ σίμβλον ἀπειρέσιαι ποτέωνται,\nἌνδῤ ἀπαμυνόμεναι, ὅδ᾽ ἄρ᾽ ἐκ ἀλέγων ἐπιόντας,\nΚηρὸς ἐκτάμνησι μελίχροας. αἳ δ᾽ ἀκάχωνται\nΚαπνῦ ὑπαὶ ῥιπῆς ἠ δ᾽ ἀνέρος· ἀλλ᾽ ἄρα καὶ ὡς\nἈντίαι ἀΐσσουσιν, ὅ δ᾽ ἐκ ὄθετ᾽, ἐδ᾽ ἄρα βαιόν."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Illi vero minas non intermiserunt, sed impugnarunt ipsum circumquaque irru-\nentes subinde densiores, ut protensis labiis apes, quae circa alveare suum in-\nnumero agmine volant, ut virum</i> (mel vindemiantem) <i>arceant. Qui tamen,\ninvadentes non curans, mellitos favos castrat. Illi autem, quamvis fumi et\nviri impetu torqueantur, tamen contra tendunt. At is ne minimum quidem\nillarum rationem habet.</i> Gregorius Nazianzenus Carmine De vita sua,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Illi vero minas non intermiserunt, sed impugnarunt ipsum circumquaque irru-\nentes subinde densiores, ut protensis labiis apes, quae circa alveare suum in-\nnumero agmine volant, ut virum</i> (mel vindemiantem) <i>arceant. Qui tamen,\ninvadentes non curans, mellitos favos castrat. Illi autem, quamvis fumi et\nviri impetu torqueantur, tamen contra tendunt. At is ne minimum quidem\nillarum rationem habet.</i> Gregorius Nazianzenus Carmine De vita sua,"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "grc",
+   "text": "᾿Ανίστατ᾽ εὐθὺς ὥσπερ ἐκ καπνῦ βίας\n῾Εσμὸς μελισσῶν — — —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "᾿Ανίστατ᾽ εὐθὺς ὥσπερ ἐκ καπνῦ βίας\n῾Εσμὸς μελισσῶν — — —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "<i>Surgit statim</i> (populus) <i>ut apum examen vi fumi.</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Surgit statim</i> (populus) <i>ut apum examen vi fumi.</i>"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Postquam de fumo abunde actum est, sequitur, ut dicamus de apum for-\ntitudine in ea Scripturae loca, quibus cum apibus conferuntur hostes infestissi-\nmi: ut ubi supra, <i>Amorrhaei, de quibus Moses; Et vos persequuti sunt, sicut\nfaciunt apes. Et Psal. CXVIII, 12. David de hostibus suis, Circumdederunt me\nut apes. Et Es. VII, 18. Sibilabit Dominus api, quae est in terra Assur:</i> ubi\nChaldaeus, <i>Clamabit Dominus ad validas copias</i>, דאנון תקיפין כדבריתא, <i>quae\nsunt fortes ut apes, et adducet eas de finibus terrae Assyriae. Et ibidem R. Se-</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Postquam de fumo abunde actum est, sequitur, ut dicamus de apum for-\ntitudine in ea Scripturae loca, quibus cum apibus conferuntur hostes infestissi-\nmi: ut ubi supra, <i>Amorrhaei, de quibus Moses; Et vos persequuti sunt, sicut\nfaciunt apes. Et Psal. CXVIII, 12. David de hostibus suis, Circumdederunt me\nut apes. Et Es. VII, 18. Sibilabit Dominus api, quae est in terra Assur:</i> ubi\nChaldaeus, <i>Clamabit Dominus ad validas copias</i>, דאנון תקיפין כדבריתא, <i>quae\nsunt fortes ut apes, et adducet eas de finibus terrae Assyriae. Et ibidem R. Se-</i>"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Z z 2 lomo,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Z z 2 lomo,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1812,
+    1126
+   ],
+   [
+    1812,
+    1690
+   ]
+  ],
+  "input_tokens": 3414,
+  "output_tokens": 1118,
+  "cost_usd": 0.0068,
+  "seconds": 11.7
+ }
+}

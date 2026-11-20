@@ -1,0 +1,74 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "330 <i>Iohannem veras Locustas habuisse pro cibo.</i> P.II.L.IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "330 <i>Iohannem veras Locustas habuisse pro cibo.</i> P.II.L.IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "ibi <i>Scholiastes.</i> Διασύρει τὸν Λάμαχον, ὡς ἀκρίδας ἐσθίοντα, ἢ ὅτι πρό-\nτερον εὐτελεῖ ἐχρῆτο τῇ διαίτῃ· Lamachum <i>insectatur, tanquam locustis ve-\nscentem, aut quia antea vili cibo usus fuerat. Plutarchus</i> in <i>Convivio</i> tyran-\nnum, qui mancipiis mavult praeesse, quam viris, colono similem esse dicit,\nqui vellet ἀκρίδας, καὶ ὄρνιθας, ἀντὶ πυρῶν, καὶ κριθῶν συγκομίζειν, <i>locu-\nstas et aves, pro frumento et hordeo</i> (edendas) <i>colligere.</i> Apud <i>Theophyla-\nctum</i> in <i>Epistolis</i> rusticus quidam, laute se exceptum fuisse jactitans, Ἰσχά-\nδες, inquit, ἦν μοι, καὶ ἀκρίδες, τὰ ὄψα· ὁ δὲ θεσπέσιος ούτοσὶ νεανίας\nτῶν ἰσχάδων τὰ πλεῖστα ἐκβέβρωκε καὶ τὰς ἀκρίδας, οὐκ οἶδ᾽ ὅπως, ἐξερ-\nροφήσει. <i>Habebam,</i> inquit, <i>caricas et locustas, pro obsonio; divinus autem\nille juvenis plerasque caricas voravit: locustas etiam, nescio quomodo, absorbuit.</i> ⟦p. 491⟧\nSic animalcula, locustis simillima, cicadas scilicet et cercopas, quae sunt ci-\ncadae minores, esitasse veteres, et quidem ad provocandam orexin, testatur\n<i>Athenaeus</i> lib. 4. Verba sunt, Ἤσθιον δὲ καὶ τέττιγας, καὶ κέρκωπας,\nἀναστομώσεως χάριν. Ibidem <i>Anaxandridas</i>, in apparatu nuptiarum <i>Iphicra-\ntis,</i> cum <i>Cotyis, Thraciae</i> regis, filiam in uxorem duceret, τέττιγας ὀπτοὺς,\n<i>cicadas coctas,</i> inter caetera recenset. Et ex <i>Aristophanis Anagyro</i> haec citan-\ntur, Πρὸς Θεῶν ἐρᾷς τέττιγα φαγεῖν, καὶ κερκώπην θηρευσαμένη καλάμῳ\nλεπτῷ. <i>Per Deos cicada et cercope libenter vesceris, quas tenui calamo ve-\nnaris.</i> Et lib. 9. <i>Aristophanes</i> in <i>Horis Athenas</i> laudat, quod etiam hyeme\nibi vendat institor κίκλας, ἀπίους, σχαδόνας, ἐλάας, πύον, χόρια, χε-\nλιδόνα, τέττιγας, <i>turdos, pira, favos, oleas, colostrum, choria</i> (id est, <i>edu-\nlia ex lacte et melle</i>) <i>hirundines, cicadas.</i> Ut lib. 2. <i>Alexis</i> anum introducit,\ncui pro consueto cibo sunt, ut ipsa ait, κύαμος, θέρμος, λάχανον, γογγυ-\nλὶς, ὦχρος, λάθυρος, φηγὸς, βόλβος, τέττιξ, <i>faba, lupinum, olus, rapa,\nervilium, cicercula, oesculi glans, bulbus, cicada.</i> Quin <i>Philosophus</i> lib. 5. <i>Histo-\nriae</i> cap. 30. et post eum <i>Plinius</i> lib. 11. cap. 26. docent, quo potissimum\ntempore maxime sapiant. Et hic gentes ad <i>Orientem</i> iis vesci testatur, in\nquibus <i>Parthi,</i> licet <i>opibus abundantibus.</i> Unde est, quod <i>Aelianus Historiae</i>\nlib. 10. cap. 6. graviter indignatur in sui saeculi homines, quorum alii Musis\nsacrum animal, cicadas, in lineam digestas, ad coenam vendunt, alii iis\nemptis avide vescuntur.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ibi <i>Scholiastes.</i> Διασύρει τὸν Λάμαχον, ὡς ἀκρίδας ἐσθίοντα, ἢ ὅτι πρό-\nτερον εὐτελεῖ ἐχρῆτο τῇ διαίτῃ· Lamachum <i>insectatur, tanquam locustis ve-\nscentem, aut quia antea vili cibo usus fuerat. Plutarchus</i> in <i>Convivio</i> tyran-\nnum, qui mancipiis mavult praeesse, quam viris, colono similem esse dicit,\nqui vellet ἀκρίδας, καὶ ὄρνιθας, ἀντὶ πυρῶν, καὶ κριθῶν συγκομίζειν, <i>locu-\nstas et aves, pro frumento et hordeo</i> (edendas) <i>colligere.</i> Apud <i>Theophyla-\nctum</i> in <i>Epistolis</i> rusticus quidam, laute se exceptum fuisse jactitans, Ἰσχά-\nδες, inquit, ἦν μοι, καὶ ἀκρίδες, τὰ ὄψα· ὁ δὲ θεσπέσιος ούτοσὶ νεανίας\nτῶν ἰσχάδων τὰ πλεῖστα ἐκβέβρωκε καὶ τὰς ἀκρίδας, οὐκ οἶδ᾽ ὅπως, ἐξερ-\nροφήσει. <i>Habebam,</i> inquit, <i>caricas et locustas, pro obsonio; divinus autem\nille juvenis plerasque caricas voravit: locustas etiam, nescio quomodo, absorbuit.</i> ⟦p. 491⟧\nSic animalcula, locustis simillima, cicadas scilicet et cercopas, quae sunt ci-\ncadae minores, esitasse veteres, et quidem ad provocandam orexin, testatur\n<i>Athenaeus</i> lib. 4. Verba sunt, Ἤσθιον δὲ καὶ τέττιγας, καὶ κέρκωπας,\nἀναστομώσεως χάριν. Ibidem <i>Anaxandridas</i>, in apparatu nuptiarum <i>Iphicra-\ntis,</i> cum <i>Cotyis, Thraciae</i> regis, filiam in uxorem duceret, τέττιγας ὀπτοὺς,\n<i>cicadas coctas,</i> inter caetera recenset. Et ex <i>Aristophanis Anagyro</i> haec citan-\ntur, Πρὸς Θεῶν ἐρᾷς τέττιγα φαγεῖν, καὶ κερκώπην θηρευσαμένη καλάμῳ\nλεπτῷ. <i>Per Deos cicada et cercope libenter vesceris, quas tenui calamo ve-\nnaris.</i> Et lib. 9. <i>Aristophanes</i> in <i>Horis Athenas</i> laudat, quod etiam hyeme\nibi vendat institor κίκλας, ἀπίους, σχαδόνας, ἐλάας, πύον, χόρια, χε-\nλιδόνα, τέττιγας, <i>turdos, pira, favos, oleas, colostrum, choria</i> (id est, <i>edu-\nlia ex lacte et melle</i>) <i>hirundines, cicadas.</i> Ut lib. 2. <i>Alexis</i> anum introducit,\ncui pro consueto cibo sunt, ut ipsa ait, κύαμος, θέρμος, λάχανον, γογγυ-\nλὶς, ὦχρος, λάθυρος, φηγὸς, βόλβος, τέττιξ, <i>faba, lupinum, olus, rapa,\nervilium, cicercula, oesculi glans, bulbus, cicada.</i> Quin <i>Philosophus</i> lib. 5. <i>Histo-\nriae</i> cap. 30. et post eum <i>Plinius</i> lib. 11. cap. 26. docent, quo potissimum\ntempore maxime sapiant. Et hic gentes ad <i>Orientem</i> iis vesci testatur, in\nquibus <i>Parthi,</i> licet <i>opibus abundantibus.</i> Unde est, quod <i>Aelianus Historiae</i>\nlib. 10. cap. 6. graviter indignatur in sui saeculi homines, quorum alii Musis\nsacrum animal, cicadas, in lineam digestas, ad coenam vendunt, alii iis\nemptis avide vescuntur."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed, quod rei caput est, etiam inter <i>Iudaeos</i> edulis fuit locusta. Te-\nstatur id <i>Mosaica</i> lex <i>Levit. XI, 21. 22.</i> ubi in esum conceduntur quatuor lo-\ncustarum species, <i>arbe, solam, chargol</i> et <i>chagab.</i> Et <i>Talmudici</i> doctores, qui\ntractatus <i>Cholin</i> cap. 3. fol. 65. et 66. multis disputant, quibus notis digno-\nscantur mundae locustae ab immundis, id est, quas licet edere, ab iis, qua-\nrum esus Lege prohibetur. Proinde ad <i>Exod. X, 19.</i> ubi ventus, a Deo im-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed, quod rei caput est, etiam inter <i>Iudaeos</i> edulis fuit locusta. Te-\nstatur id <i>Mosaica</i> lex <i>Levit. XI, 21. 22.</i> ubi in esum conceduntur quatuor lo-\ncustarum species, <i>arbe, solam, chargol</i> et <i>chagab.</i> Et <i>Talmudici</i> doctores, qui\ntractatus <i>Cholin</i> cap. 3. fol. 65. et 66. multis disputant, quibus notis digno-\nscantur mundae locustae ab immundis, id est, quas licet edere, ab iis, qua-\nrum esus Lege prohibetur. Proinde ad <i>Exod. X, 19.</i> ubi ventus, a Deo im-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "missus,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "missus,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1673,
+    1671
+   ],
+   [
+    1673,
+    1117
+   ]
+  ],
+  "input_tokens": 7895,
+  "output_tokens": 2048,
+  "cost_usd": 0.0725,
+  "seconds": 36.0
+ }
+}

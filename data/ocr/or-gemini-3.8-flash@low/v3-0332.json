@@ -1,0 +1,110 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "332 <i>Iohannem veras locustas habuisse pro cibo.</i> P. II. L. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "332 <i>Iohannem veras locustas habuisse pro cibo.</i> P. II. L. IV."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "lib. 9. <i>Arabiae desertum et Libyae populi earum adventum pro felici habent\nomine: nam vel elixas, vel ad solem exsiccatas in farina tundunt, atque com-\nedunt.</i> Et Hermolai Barbari Corollario in <i>Dioscoridem</i> CCLVI. <i>Hodie quo-\nque locustas comedunt Aegyptii</i> (³).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "lib. 9. <i>Arabiae desertum et Libyae populi earum adventum pro felici habent\nomine: nam vel elixas, vel ad solem exsiccatas in farina tundunt, atque com-\nedunt.</i> Et Hermolai Barbari Corollario in <i>Dioscoridem</i> CCLVI. <i>Hodie quo-\nque locustas comedunt Aegyptii</i> (³)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Sed et idem in <i>Iudaea</i> fieri, multi scribunt. Sic <i>Beda</i>, <i>De locis san-\nctis</i> cap. 14. a sancto episcopo, <i>Arthulpho</i>, qui ad ea loca peregrinatus erat,\nse accepisse tradit, <i>notissimas esse locustas in Palaestina, quae corpusculis in\nmodum digiti manus exiguis et brevibus, in herbis facile captae, coctaeque\noleo pauperem victum parent.</i> Et <i>Euthymius</i> in <i>Matthaeum</i>, <i>Dicunt usque\nad hodiernum diem in illis partibus, plerosque illud (insecti genus) edere fu-\nmo siccatum: habere autem gravem odorem, malumque gustum.</i> Iacobus quo-\nque <i>de Vitriaco</i>, Ptolemaidis episcopus, ubi supra ᵇ) testatur, locustas in <i>Iu-\ndaea</i> et recentes edi solitas, et servatas.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sed et idem in <i>Iudaea</i> fieri, multi scribunt. Sic <i>Beda</i>, <i>De locis san-\nctis</i> cap. 14. a sancto episcopo, <i>Arthulpho</i>, qui ad ea loca peregrinatus erat,\nse accepisse tradit, <i>notissimas esse locustas in Palaestina, quae corpusculis in\nmodum digiti manus exiguis et brevibus, in herbis facile captae, coctaeque\noleo pauperem victum parent.</i> Et <i>Euthymius</i> in <i>Matthaeum</i>, <i>Dicunt usque\nad hodiernum diem in illis partibus, plerosque illud (insecti genus) edere fu-\nmo siccatum: habere autem gravem odorem, malumque gustum.</i> Iacobus quo-\nque <i>de Vitriaco</i>, Ptolemaidis episcopus, ubi supra ᵇ) testatur, locustas in <i>Iu-\ndaea</i> et recentes edi solitas, et servatas."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "lat",
+   "text": "Summa eorum, quae diximus, haec est, praeter <i>Acridophagos</i>, omni-\nbus notos, <i>Nasamones</i> etiam, et <i>Leptitanos</i>, et <i>Parthos</i>, et <i>Graecos</i>, et <i>He-\nbraeos</i> locustas olim pro cibo habuisse. Quomodo <i>Arabes</i> quoque, et <i>Nu-\nmidas</i>, et <i>Mauritanos</i>, et novos Palaestinae incolas jam inde a multis sae-\nculis. Itaque, quod locustas edebat <i>Iohannes</i>, novum non fuit, nec inaudi-\ntum: sed hoc in illo fuit singulare, quod in deserto solum locustis et agre-\nsti melle vescebatur, iisque forte oblatis, nec aliunde comparatis; ut virum\nillum Iudaei scirent extraordinarium habere munus, atque ad ejus conciones\nessent attentiores. Causa igitur non fuit, cur <i>Isidorus Pelusiota</i> eos accusa-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Summa eorum, quae diximus, haec est, praeter <i>Acridophagos</i>, omni-\nbus notos, <i>Nasamones</i> etiam, et <i>Leptitanos</i>, et <i>Parthos</i>, et <i>Graecos</i>, et <i>He-\nbraeos</i> locustas olim pro cibo habuisse. Quomodo <i>Arabes</i> quoque, et <i>Nu-\nmidas</i>, et <i>Mauritanos</i>, et novos Palaestinae incolas jam inde a multis sae-\nculis. Itaque, quod locustas edebat <i>Iohannes</i>, novum non fuit, nec inaudi-\ntum: sed hoc in illo fuit singulare, quod in deserto solum locustis et agre-\nsti melle vescebatur, iisque forte oblatis, nec aliunde comparatis; ut virum\nillum Iudaei scirent extraordinarium habere munus, atque ad ejus conciones\nessent attentiores. Causa igitur non fuit, cur <i>Isidorus Pelusiota</i> eos accusa-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "ret",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "ret"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "<i>Hist. Hierosolym. cap. 53.</i>",
+   "marker": "b)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "<i>Hist. Hierosolym. cap. 53.</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "FORSKAL in <i>Descript. Animall.</i> p.\n81. „Beduini Aegypti gryllos hujus speciei\n[جراد] vivos torrent super carbones, alis\ndeinde pedibusque rejectis, avide consu-\nmunt. In Arabia felici inter Mochham et\nTaaes vidi foeminas puerosque, his avicu-\nlis venandis intentos, quos filo, per thora-\ncem deducto, suspendebant usque ad 100,\net pretio ½ <i>Chomas</i> offerebant. Fascicu-\nlus totus assatur. Gryllo non solum pedes\net alae abripiuntur, sed et intestina, quae\ncapite aliquantum protracto nudantur. Ex-\nsuccus certe cibus, innoxius tamen: nisi\nquod nimius ejus usus segnem causet san-\nguinem, vel temperamentum melancholi-\ncum, ut perhibent Arabes, illisque dicitur\n<i>Souda</i>. Ridiculam ceteroquin audivi apo-\nlogiam hujus alimenti: Gryllus vegetabilia\npascitur pura, utilia, imo et medicatae vir-\ntutis; fieri ergo non potest aliter, quin\nipse salubris totus evadat. Parum tamen\nconsumunt incolae, ut numerum hujus in-\nfeſti gregis vel tantillum minuant.“ Plu-\nra de locustarum esu vide apud Niebuhri-\num, p. 171, Hasselquistum, p. 452. seqq.,\nHoeftium, pag. 301, atque Oedmannum,\nFasc. II. Cap. VI. pag. 105. feqq. et Fasc. VI.\nCap. VIII. p. 78.",
+   "marker": "(3)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "FORSKAL in <i>Descript. Animall.</i> p.\n81. „Beduini Aegypti gryllos hujus speciei\n[جراد] vivos torrent super carbones, alis\ndeinde pedibusque rejectis, avide consu-\nmunt. In Arabia felici inter Mochham et\nTaaes vidi foeminas puerosque, his avicu-\nlis venandis intentos, quos filo, per thora-\ncem deducto, suspendebant usque ad 100,\net pretio ½ <i>Chomas</i> offerebant. Fascicu-\nlus totus assatur. Gryllo non solum pedes\net alae abripiuntur, sed et intestina, quae\ncapite aliquantum protracto nudantur. Ex-\nsuccus certe cibus, innoxius tamen: nisi\nquod nimius ejus usus segnem causet san-\nguinem, vel temperamentum melancholi-\ncum, ut perhibent Arabes, illisque dicitur\n<i>Souda</i>. Ridiculam ceteroquin audivi apo-\nlogiam hujus alimenti: Gryllus vegetabilia\npascitur pura, utilia, imo et medicatae vir-\ntutis; fieri ergo non potest aliter, quin\nipse salubris totus evadat. Parum tamen\nconsumunt incolae, ut numerum hujus in-\nfeſti gregis vel tantillum minuant.“ Plu-\nra de locustarum esu vide apud Niebuhri-\num, p. 171, Hasselquistum, p. 452. seqq.,\nHoeftium, pag. 301, atque Oedmannum,\nFasc. II. Cap. VI. pag. 105. feqq. et Fasc. VI.\nCap. VIII. p. 78."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "format": "compact",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1662,
+    1123
+   ],
+   [
+    1662,
+    1685
+   ]
+  ],
+  "input_tokens": 3403,
+  "output_tokens": 1181,
+  "cost_usd": 0.007,
+  "seconds": 11.3
+ }
+}
