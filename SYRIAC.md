@@ -88,7 +88,7 @@ Kraken's two readings follow each other word for word (ܒܫܢܬ ܐܨܗ ܕܝ̈ܘ�
 came the flying locust …"), and where one print has a wrong letter the other has the right one (ܩܡܨܐ / ܩܡܬܐ, ܙܪܥܐ /
 ܙܢܥܐ). So the block can be transcribed: Kraken on both prints, a word-by-word reconciliation, and a look at the scan
 where the two disagree. Done the same day: the left block of p. 283 is now in the text (entry.FIXES (3, 283)); not certain:
-ܘܡܫܬܟܚ (line 3) and ܓܪ̈ܒܐ (line 6). The right block (the continuator, 10 lines) is still "not transcribed". The block begins at the end of line 0 of the 1789 page (logs/syriac/bk134/kraken.json).
+no word (ܘܡܣܒܟ and ܘܠܓ̈ܐ were corrected from Bedjan's vocalised edition, p. 128). The right block (the continuator, 10 lines) is still "not transcribed". The block begins at the end of line 0 of the 1789 page (logs/syriac/bk134/kraken.json).
 
 On a mixed line (Latin with a Syriac word in it) Kraken returns almost nothing: the model knows only Syriac. For the
 short words it needs a crop of the Syriac word alone (the MDZ hOCR word boxes, or the gaps between words); not tested yet.

@@ -980,11 +980,13 @@ FIXES = {
     (3, 281): [('طلبا', 'ظاعنا')],
     # 20-Nov-2026: the left block (Barhebraeus, Chronicon, ed. Bruns and Kirsch 1789, p. 134), read with Kraken and the
     # Qoruyo Serto model on this scan and on the 1789 print, reconciled word by word with Rosenmüller's Latin and read on
-    # both scans where they differ (SYRIAC.md). Not certain: ܘܡܫܬܟܚ (line 3) and ܓܪ̈ܒܐ (hydriae, line 6).
+    # both scans where they differ (SYRIAC.md). ܘܡܣܒܟ (line 3; first read ܘܡܫܬܟܚ), ܓܪ̈ܒܐ and ܘܠܓ̈ܐ (lines 6-7; first
+    # read ܘܠܓ̈ܢܐ) as in Bedjan's vocalised edition (1890), p. 128, read with Kraken's East Syriac model (project
+    # barhebraeus-chronography, 20-Nov-2026); Kraken read ܘܡܣܒܟ in all three prints.
     (3, 283): [('[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]',
-                'ܒܫܢܬ ܐܨܗ ܕܝ̈ܘܢܝܐ ܐܬܐ ܩܡܨܐ\nܦܪܚܐ ܘܚܒܠ ܙܪ̈ܥܐ ܘܐܪܡܝ\nܙܪܥܐ ܘܢܦܩ. ܘܡܫܬܟܚ ܗܘܐ\n'
+                'ܒܫܢܬ ܐܨܗ ܕܝ̈ܘܢܝܐ ܐܬܐ ܩܡܨܐ\nܦܪܚܐ ܘܚܒܠ ܙܪ̈ܥܐ ܘܐܪܡܝ\nܙܪܥܐ ܘܢܦܩ. ܘܡܣܒܟ ܗܘܐ\n'
                 'ܘܣܠܩ ܒܫܘܪ̈ܐ ܘܐܣ̈ܐ. ܘܥܐܠ\nܡܢ ܟܘ̈ܐ ܘܬܪ̈ܥܐ ܠܒ̈ܬܐ.\nܘܐܬܡܠܝܘ ܡܢܗ ܐܦ ܓܪ̈ܒܐ\n'
-                'ܕܡ̈ܝܐ ܘܬܫܘܝ̈ܬܐ ܘܦܬܘܪ̈ܐ ܘܠܓ̈ܢܐ.\nܘܟܕ ܡܢ ܦܢܝܬ ܬܝܡܢܐ\nܥܐܠ ܗܘܐ ܠܒܝܬܐ ܡܢ ܓܒܐ\n'
+                'ܕܡ̈ܝܐ ܘܬܫܘܝ̈ܬܐ ܘܦܬܘܪ̈ܐ ܘܠܓ̈ܐ.\nܘܟܕ ܡܢ ܦܢܝܬ ܬܝܡܢܐ\nܥܐܠ ܗܘܐ ܠܒܝܬܐ ܡܢ ܓܒܐ\n'
                 'ܓܪܒܝܝܐ ܢܦܩ ܗܘܐ. ܘܐܟܠ\nܥܡ ܥܣܒܐ ܘܐܝܠ̈ܢܐ. ܐܦ\nܡܐ̈ܢܐ ܕܥܡܪܐ ܘܢܚ̈ܬܐ ܕܒ̈ܢܝܢܫܐ.\n'
                 'ܘܟܕ ܓܡܪ ܠܟܠܗ ܦܢܝܬܐ\nܕܐܘܪܗܝ ܘܣܪܘܓ ܥܒܪ ܠܡܥܪܒܐ.'), ('seq. [?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]\n[?]', 'seq. [Syriaca, versus X, hic non transcripta]'),
                ('ܗܘܐ ܐܝܬܝܗܘܢ ܘܕܒܒܐ,', 'ܘܕܒܒܐ ܐܝܬܝܗܘܢ ܗܘܐ,')],
