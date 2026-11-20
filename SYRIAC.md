@@ -62,6 +62,36 @@ Syriac print.
 The block stays "not transcribed". A reader of Syriac can now check it against the 1789 print (link above), which is
 much clearer than the MDZ scan.
 
+## Kraken with the Qoruyo Serto model: it reads the blocks
+
+Installed by the owner on 20-Nov-2026 in `C:\Users\ezrab\Ezra Brandt\Claude\syriac-ocr\` (Python 3.12 venv, kraken 7.1.1;
+on Windows `coremltools` builds from source and works). `kraken get` does not know the Qoruyo DOIs ("No metadata
+found"); the two model files were downloaded from Zenodo directly (CC-BY-4.0): `serto_print_best_02.mlmodel`
+(recognition, record 17406677) and `syr_print_seg03_91.mlmodel` (segmentation, record 17406626). On the line crops of
+`syriac_block.py`, with no segmentation (free, about 4 s a line on the CPU):
+
+    .venv/Scripts/kraken.exe -i LINE.jpg OUT.txt ocr -m serto_print_best_02.mlmodel --no-segmentation
+
+The output is in visual order (left to right): reverse the string for logical order.
+
+The two prints of the p. 283 block, each read by one method, aligned on the best-matching stretch of the 1789 page:
+
+| reader | words of the block | the same in both prints | within one letter |
+|---|---|---|---|
+| Kraken + Qoruyo Serto | 57 | 18 (32%) | 39 (**68%**) |
+| GPT-6.1 Sol | 54 | 6 (11%) | 7 (13%) |
+| Opus 5.5 | 54 | 4 (7%) | 6 (11%) |
+| Gemini 4 Argon | 36 | 2 (6%) | 2 (6%) |
+| Gemini 3.8 Flash | 37 | 2 (5%) | 3 (8%) |
+
+Kraken's two readings follow each other word for word (ܒܫܢܬ ܐܨܗ ܕܝ̈ܘܢܝܐ ܐܬܐ ܩܡܨܐ ܦܪܚܐ …, "in the year 1095 of the Greeks
+came the flying locust …"), and where one print has a wrong letter the other has the right one (ܩܡܨܐ / ܩܡܬܐ, ܙܪܥܐ /
+ܙܢܥܐ). So the block can be transcribed: Kraken on both prints, a word-by-word reconciliation, and a look at the scan
+where the two disagree. The block begins at the end of line 0 of the 1789 page (logs/syriac/bk134/kraken.json).
+
+On a mixed line (Latin with a Syriac word in it) Kraken returns almost nothing: the model knows only Syriac. For the
+short words it needs a crop of the Syriac word alone (the MDZ hOCR word boxes, or the gaps between words); not tested yet.
+
 ## What is now in the pipeline
 
 - `peshcheck.py` (free): every run of two Syriac words or more is placed in the Peshitta (ETCBC plain text, Old
@@ -71,11 +101,10 @@ much clearer than the MDZ scan.
 
 ## Next steps, in order of promise
 
-1. **A dedicated Syriac OCR model.** Beth Mardutho's Qoruyo models for Kraken include one for printed Serto
-   (recognition: doi 10.5281/zenodo.17406676; segmentation: 10.5281/zenodo.17406625). In the ETCBC test a general
-   model (PP-OCRv6 medium, through eScriptorium) read a Serto print page at 7.7% character error, against 19% for
-   Tesseract and 65-71% for vision LLMs. Kraken runs locally (a Python 3.12 environment); its install was not done
-   on 20-Nov-2026 (it needs the owner's approval for new packages outside the project).
+1. **Kraken + Qoruyo for every block of pure Syriac** (above). Next: transcribe the two blocks of p. 283 from both
+   prints (the right-hand block, the continuator, is in Paulus, *Neues Repertorium*, vol. 1, p. 67: find a scan), and
+   test Kraken on word crops for the short words. The ETCBC also had good results with a general model (PP-OCRv6
+   medium, through eScriptorium: 7.7% character error on a Serto page).
 2. **The Syriac re-read vote as a pipeline step**: re-read each line with Syriac on it with 4-5 models and take the
    majority per word (above: 17 → 27 of 48 hard words). About $0.05 a line; about 30 lines a tranche.
 3. **Two prints of one text.** For a long quotation, find the source edition (as for p. 283) and read both: an OCR
