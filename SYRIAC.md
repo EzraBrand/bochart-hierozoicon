@@ -59,8 +59,8 @@ fluent Syriac that is not the print. Cost: $2.34. The same result was found inde
 October 2026 ("Digitising printed Syriac editions with AI"): vision LLMs at 65-71% character error on Serto and East
 Syriac print.
 
-The block stays "not transcribed". A reader of Syriac can now check it against the 1789 print (link above), which is
-much clearer than the MDZ scan.
+The vision models cannot transcribe the block; Kraken can (next section). A reader of Syriac can check the result
+against the 1789 print (link above), which is much clearer than the MDZ scan.
 
 ## Kraken with the Qoruyo Serto model: it reads the blocks
 
@@ -87,7 +87,8 @@ The two prints of the p. 283 block, each read by one method, aligned on the best
 Kraken's two readings follow each other word for word (ܒܫܢܬ ܐܨܗ ܕܝ̈ܘܢܝܐ ܐܬܐ ܩܡܨܐ ܦܪܚܐ …, "in the year 1095 of the Greeks
 came the flying locust …"), and where one print has a wrong letter the other has the right one (ܩܡܨܐ / ܩܡܬܐ, ܙܪܥܐ /
 ܙܢܥܐ). So the block can be transcribed: Kraken on both prints, a word-by-word reconciliation, and a look at the scan
-where the two disagree. The block begins at the end of line 0 of the 1789 page (logs/syriac/bk134/kraken.json).
+where the two disagree. Done the same day: the left block of p. 283 is now in the text (entry.FIXES (3, 283)); not certain:
+ܘܡܫܬܟܚ (line 3) and ܓܪ̈ܒܐ (line 6). The right block (the continuator, 10 lines) is still "not transcribed". The block begins at the end of line 0 of the 1789 page (logs/syriac/bk134/kraken.json).
 
 On a mixed line (Latin with a Syriac word in it) Kraken returns almost nothing: the model knows only Syriac. For the
 short words it needs a crop of the Syriac word alone (the MDZ hOCR word boxes, or the gaps between words); not tested yet.
@@ -101,8 +102,7 @@ short words it needs a crop of the Syriac word alone (the MDZ hOCR word boxes, o
 
 ## Next steps, in order of promise
 
-1. **Kraken + Qoruyo for every block of pure Syriac** (above). Next: transcribe the two blocks of p. 283 from both
-   prints (the right-hand block, the continuator, is in Paulus, *Neues Repertorium*, vol. 1, p. 67: find a scan), and
+1. **Kraken + Qoruyo for every block of pure Syriac** (above). Next: the right-hand block of p. 283, the continuator, is in Paulus, *Neues Repertorium*, vol. 1, p. 67: find a scan), and
    test Kraken on word crops for the short words. The ETCBC also had good results with a general model (PP-OCRv6
    medium, through eScriptorium: 7.7% character error on a Serto page).
 2. **The Syriac re-read vote as a pipeline step**: re-read each line with Syriac on it with 4-5 models and take the
